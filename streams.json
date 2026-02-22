@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-02-22T15:37:45.977124",
-  "event_count": 31,
+  "last_updated": "2026-02-22T15:58:23.442917",
+  "event_count": 29,
   "events": [
     {
       "category": "Boxing",
@@ -272,8 +272,11 @@
       "id": 446,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "",
+          "link": "https://bbb.exoadash.com/TVD2083/index.mpd",
+          "name": "Ligue1+",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/1661/image",
@@ -348,8 +351,11 @@
       "id": 451,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "",
+          "link": "https://bbb.exoadash.com/TVD2083/index.mpd",
+          "name": "Ligue1+",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/1647/image",
@@ -357,30 +363,6 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/1662/image",
       "teamBName": "Le Havre",
       "time": "16:15:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "22/02/2026",
-      "end_date": "22/02/2026",
-      "end_time": "15:50:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/37/image/dark",
-      "eventName": "VriendenLoterij Eredivisie",
-      "id": 452,
-      "links": [
-        {
-          "api": "",
-          "link": "https://smarthard.click/hls/uSPCfTgzHQY3/index.m3u8",
-          "name": "ESPN NL",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2979/image",
-      "teamAName": "Go Ahead Eagles",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2977/image",
-      "teamBName": "Heracles Almelo",
-      "time": "13:30:00",
       "visible": true
     },
     {
@@ -462,8 +444,11 @@
       "id": 457,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "",
+          "link": "https://bbb.exoadash.com/TVD2083/index.mpd",
+          "name": "Ligue1+",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/1684/image",
@@ -575,30 +560,6 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/2761/image",
       "teamBName": "Cremonese",
       "time": "19:45:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "22/02/2026",
-      "end_date": "22/02/2026",
-      "end_time": "15:50:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/37/image/dark",
-      "eventName": "VriendenLoterij Eredivisie",
-      "id": 463,
-      "links": [
-        {
-          "api": "",
-          "link": "https://smarthard.click/hls/DzazxOvS3QE1/index.m3u8",
-          "name": "ESPN NL",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2948/image",
-      "teamAName": "FC Utrecht",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2971/image",
-      "teamBName": "PEC Zwolle",
-      "time": "13:30:00",
       "visible": true
     },
     {
