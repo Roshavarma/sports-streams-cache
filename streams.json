@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-02-22T15:58:23.442917",
-  "event_count": 29,
+  "last_updated": "2026-02-22T16:43:36.925009",
+  "event_count": 24,
   "events": [
     {
       "category": "Boxing",
@@ -272,6 +272,13 @@
       "id": 446,
       "links": [
         {
+          "api": "0d8eb9fe00e2515eaffce19216db39b0:a72d7eeef00e88a0462b823674f9b703",
+          "link": "https://otte.live.cf.ww.aiv-cdn.net/iad-nitro/enc/hbvqtx6rfe/out/v1/7d4d120b20a94ed79b46a25f87fccf2f/cenc.mpd",
+          "name": "DAZN SPORTS",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
           "api": "",
           "link": "https://bbb.exoadash.com/TVD2083/index.mpd",
           "name": "Ligue1+",
@@ -314,42 +321,18 @@
       "category": "Football",
       "date": "22/02/2026",
       "end_date": "22/02/2026",
-      "end_time": "16:20:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/17/image/dark",
-      "eventName": "Premier League",
-      "id": 450,
-      "links": [
-        {
-          "api": "0b57181ebd8f38b0d3b1e3cbec5d9122:443ed6ac9f457647be6fca222beeaea8",
-          "link": "https://otte.live.cf.ww.aiv-cdn.net/iad-nitro/enc/mt8w3qbces/out/v1/1f17e6dc76e84f3bb9768b09174df3a0/cenc.mpd",
-          "name": "FUBO SPORTS",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://gametimes.plus/2222.php",
-          "name": "SKY SPORTS HD",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/14/image",
-      "teamAName": "Nottingham Forest",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/44/image",
-      "teamBName": "Liverpool",
-      "time": "14:00:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "22/02/2026",
-      "end_date": "22/02/2026",
       "end_time": "18:35:00",
       "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/34/image/dark",
       "eventName": "Ligue 1",
       "id": 451,
       "links": [
+        {
+          "api": "5eb3de9191a2bf366a407aa36a728d64:6968a900910ce39ba87fd078dcded3d4",
+          "link": "https://otte.live.cf.ww.aiv-cdn.net/iad-nitro/enc/wdcgprjiu2/out/v1/a76709a5ff30475f892ec0bf8114be65/cenc.mpd",
+          "name": "DAZN SPORTS",
+          "scheme": 0,
+          "tokenApi": ""
+        },
         {
           "api": "",
           "link": "https://bbb.exoadash.com/TVD2083/index.mpd",
@@ -400,49 +383,18 @@
       "category": "Football",
       "date": "22/02/2026",
       "end_date": "22/02/2026",
-      "end_time": "16:20:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/17/image/dark",
-      "eventName": "Premier League",
-      "id": 456,
-      "links": [
-        {
-          "api": "7713a0f432d870d78d31d37259272a41:913a624c35e19eb9ba2f266ab62a8a71",
-          "link": "https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/8jkdixn6vo/out/v1/ab8e3d23e7ce4d67ad6653f22a9ae9fb/cenc.mpd",
-          "name": "PEACOCK ENG",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "b36f89211ad7bea934a3ed86a137b455:6b4db3b4c7133098a7b8d29835705dfc",
-          "link": "https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/czmifb9zdo/out/v1/7379516920e24998ad2544a880e68a76/cenc.mpd",
-          "name": "FUBO SPORTS - AQ",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://gametimes.plus/1111.php",
-          "name": "SKY SPORTS HD",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/7/image",
-      "teamAName": "Crystal Palace",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3/image",
-      "teamBName": "Wolverhampton",
-      "time": "14:00:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "22/02/2026",
-      "end_date": "22/02/2026",
       "end_time": "18:35:00",
       "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/34/image/dark",
       "eventName": "Ligue 1",
       "id": 457,
       "links": [
+        {
+          "api": "e8843a46ab3fa8249b2a27019fb65637:d7851160d9a64f5abc410f0240422575",
+          "link": "https://otte.live.cf.ww.aiv-cdn.net/iad-nitro/enc/buabgh4zse/out/v1/6afe30c7429746eebb13cdadafdf76f3/cenc.mpd",
+          "name": "DAZN SPORTS",
+          "scheme": 0,
+          "tokenApi": ""
+        },
         {
           "api": "",
           "link": "https://bbb.exoadash.com/TVD2083/index.mpd",
@@ -477,68 +429,6 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/2972/image",
       "teamBName": "SC Telstar",
       "time": "19:00:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "22/02/2026",
-      "end_date": "22/02/2026",
-      "end_time": "16:20:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/17/image/dark",
-      "eventName": "Premier League",
-      "id": 460,
-      "links": [
-        {
-          "api": "a0ec3ea5911909343c0273645b818ec7:de4e0ecd6374cafcfc9548dfc4ac9d57",
-          "link": "https://otte.live.cf.ww.aiv-cdn.net/iad-nitro/enc/mnqrbpetbp/out/v1/13ae04ebeb824856ba2f42be17628ddb/cenc.mpd",
-          "name": "FUBO SPORTS",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://gametimes.plus/3333.php",
-          "name": "SKY SPORTS HD",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/41/image",
-      "teamAName": "Sunderland",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/43/image",
-      "teamBName": "Fulham",
-      "time": "14:00:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "22/02/2026",
-      "end_date": "22/02/2026",
-      "end_time": "16:20:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/23/image/dark",
-      "eventName": "Serie A",
-      "id": 461,
-      "links": [
-        {
-          "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
-          "link": "https://aba5sdmaaaaaaaamhq2w5oosrf5ae.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
-          "name": "beIN ENGLISH",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "9203f3dd49ac237b9b6e92ee508127b9:8ae9b8e10c44ca5d2ea542e10c7136bc",
-          "link": "https://otte.live.cf.ww.aiv-cdn.net/iad-nitro/enc/xmadvjl0yl/out/v1/d283047ec6f04e1a91fe3ab657d83d24/cenc.mpd",
-          "name": "PARAMOUNT+ AQ",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2686/image",
-      "teamAName": "Atalanta",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2714/image",
-      "teamBName": "Napoli",
-      "time": "14:00:00",
       "visible": true
     },
     {
@@ -694,8 +584,39 @@
       "id": 470,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f",
+          "link": "https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/u8sdajxnfp/out/v1/ea41a1e234e248daa9ebb1dce896ac26/cenc.mpd",
+          "name": "FUBO SPORTS",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://grand-s-v2.faggotsports.tv/pl_120/207676-6819752-1/chunklist.m3u8|Referer=https://cstream.fit/",
+          "name": "SKY SPORTS FHD",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://bl.rutube.ru/livestream/9585fdae92af45f113fdcc9f6c4ba442/index.m3u8?s=KgZtccuHrnaljGaN7cmUwA&e=2068506973&scheme=https",
+          "name": "SKY MAIN EVENT",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://daffodil.lifesharper.com/main.m3u8",
+          "name": "USA TV FHD",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://red8.ignitequantum.space/playlist/45638/load-playlist?|Referer=https://gooz.aapmains.net",
+          "name": "USA NETWORK",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/33/image",
@@ -715,8 +636,11 @@
       "id": 473,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "",
+          "link": "https://smarthard.click/hls/hhx33tWwGEeW/index.m3u8",
+          "name": "beIN SPORTS",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/3050/image",
@@ -757,8 +681,18 @@
       "id": 475,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+          "link": "https://aba5sdmaaaaaaaamhq2w5oosrf5ae.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
+          "name": "beIN ENGLISH",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811",
+          "link": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
+          "name": "Fox Deportes",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/2692/image",
@@ -830,8 +764,32 @@
       "id": 478,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "6bba6f76929c772e555acfee3ec57368:926e87f61aa1c219b8d35ee96e1b48dd",
+          "link": "https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/j9tcu1g9sp/out/v1/ede0304f4c0b4fdaaf3f666ba0f234f3/cenc.mpd",
+          "name": "DAZN ENGLISH",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "2d95f0fc1205563dd690e98cae7620c0:9225d97e136864d8b889151fab4faccb",
+          "link": "https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/6bjwdp1miu/out/v1/11f9d5af9bb7406b9e9a052cfeab76f6/cenc.mpd",
+          "name": "DAZN DE",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "816ee2f7c19f49ed84276f34541b465b:ca764a9973b6123a1112cffd3b32010d",
+          "link": "https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(Bein3)/master.mpd",
+          "name": "beIN SPORTS",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://smarthard.click/hls/TlL2PxktXlPG/index.m3u8",
+          "name": "Magenta Sports",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/2526/image",
@@ -845,45 +803,24 @@
       "category": "Football",
       "date": "22/02/2026",
       "end_date": "22/02/2026",
-      "end_time": "16:20:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/34/image/dark",
-      "eventName": "Ligue 1",
-      "id": 479,
-      "links": [
-        {
-          "api": "89377f1dc8fcc61d86a4279d2bfc4625:acb3810c1a5ed837272ee91df9cadb5a",
-          "link": "https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/mn1nmke3i9/out/v1/9a737c9e59794bc59a8521f39263f8b0/cenc.mpd",
-          "name": "DAZN SPORTS",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://bbb.exoadash.com/TVD2083/index.mpd",
-          "name": "Ligue1+",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/1646/image",
-      "teamAName": "Auxerre",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/1658/image",
-      "teamBName": "Stade Rennais",
-      "time": "14:00:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "22/02/2026",
-      "end_date": "22/02/2026",
       "end_time": "19:20:00",
       "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/52/image/dark",
       "eventName": "Trendyol Süper Lig",
       "id": 480,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "",
+          "link": "https://smarthard.click/hls/loVXsDD4jST/index.m3u8",
+          "name": "SKY AUSTRIA",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://smarthard.click/hls/OgWmSLOpde0C/index.m3u8",
+          "name": "TRT 1 SD",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/4954/image",
