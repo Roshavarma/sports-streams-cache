@@ -1,0 +1,266 @@
+{
+  "last_updated": "2026-02-22T09:11:21.711181",
+  "event_count": 6,
+  "events": [
+    {
+      "category": "Boxing",
+      "date": "28/02/2026",
+      "end_date": "28/02/2026",
+      "end_time": "06:00:00",
+      "eventLogo": "https://static.wikia.nocookie.net/wweuniverse/images/f/f6/Wwelogo.png/revision/latest?cb=20101124080717",
+      "eventName": "Friday Night SmackDown",
+      "id": 20,
+      "links": [
+        {
+          "api": "333962e3e1383529867a9a0e28a5e5d1:5d3fcbed53749ee622ed0e64f31c1cbf",
+          "link": "https://gg.poocloud.in/wrestling/index.m3u8|referer=https://ppv.to/&origin=https://ppv.to",
+          "name": "SP ",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "dadpremium343,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6",
+          "link": "https://red9.lumenlyra.space/playlist/36017/load-playlist?|Referer=https://gooz.aapmains.net",
+          "name": "SP - 2",
+          "scheme": 0,
+          "tokenApi": ""
+        }
+      ],
+      "teamAFlag": "https://assets.primesport.com/prod/images/Smackdown%202025%20Updated%20Logo.png",
+      "teamAName": "SmackDown",
+      "teamBFlag": "https://assets.primesport.com/prod/images/Smackdown%202025%20Updated%20Logo.png",
+      "teamBName": "SmackDown",
+      "time": "01:00:00",
+      "visible": true
+    },
+    {
+      "category": "Motorsports",
+      "date": "06/03/2026",
+      "end_date": "",
+      "end_time": "",
+      "eventLogo": "https://access-control-center-prod.freevision.live/ss/category/36.png",
+      "eventName": "Formula1 - Bahrain Test",
+      "id": 22,
+      "links": [
+        {
+          "api": "",
+          "link": "https://stream.huraweb.com/embed_view.php?id=75ea48132cd87cee",
+          "name": "Sky Sports - IOS",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "2fbdaa3bea0d0323ae011b318d1db716:8726ef7eaf5b9dce15fb6aa9f80bd53f",
+          "link": "https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oboxe53wyo/out/v1/f7892a9d706d419a846d738fa22ea33e/cenc.mpd",
+          "name": "Fox Sports - AQ",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://smarthard.click/hls/91LHlS9qZPK5/index.m3u8",
+          "name": "Sky F1 SD",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://stream.huraweb.com/embed_view.php?id=b3fa79aa26476de9",
+          "name": "Sky F1 HD - IOS",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://stream.huraweb.com/embed_view.php?id=a119bff323d5cdbb",
+          "name": "Sky Sports HD - IOS",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://smarthard.click/hls/07HL6dzqKCAr/index.m3u8",
+          "name": "Sky F1 DE",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe",
+          "link": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
+          "name": "Fancode AQ",
+          "scheme": 0,
+          "tokenApi": ""
+        }
+      ],
+      "teamAFlag": "https://access-control-center-prod.freevision.live/ss/category/36.png",
+      "teamAName": "Formula 1",
+      "teamBFlag": "https://access-control-center-prod.freevision.live/ss/category/36.png",
+      "teamBName": "Formula 1",
+      "time": "08:15:00",
+      "visible": true
+    },
+    {
+      "category": "Boxing",
+      "date": "24/02/2026",
+      "end_date": "24/02/2026",
+      "end_time": "06:00:00",
+      "eventLogo": "https://static.wikia.nocookie.net/wweuniverse/images/f/f6/Wwelogo.png/revision/latest?cb=20101124080717",
+      "eventName": "Monday Night Raw",
+      "id": 24,
+      "links": [
+        {
+          "api": "eabd2d95c89e42f2b0b0b40ce4179ea0:0e7e35a07e2c12822316c0dc4873903f",
+          "link": "https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd",
+          "name": "Tap Sport LQ",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://android-database1.firebase-api.com/AccessLog2/108085_HD/apache.m3u8|Referer=https://android-database1.firebase-api.com",
+          "name": "Backup SD",
+          "scheme": 0,
+          "tokenApi": ""
+        }
+      ],
+      "teamAFlag": "https://www.wwe.com/f/styles/wwe_show_logo_l/public/all/2024/12/RAW_Primary_Logo_For_Any_Background_%281%29--de3612b9543981440a24489e0e568d9b.png",
+      "teamAName": "Raw",
+      "teamBFlag": "https://www.wwe.com/f/styles/wwe_show_logo_l/public/all/2024/12/RAW_Primary_Logo_For_Any_Background_%281%29--de3612b9543981440a24489e0e568d9b.png",
+      "teamBName": "Raw",
+      "time": "01:00:00",
+      "visible": true
+    },
+    {
+      "category": "Olympics Winter",
+      "date": "16/02/2026",
+      "end_date": "",
+      "end_time": "",
+      "eventLogo": "https://gstatic.olympics.com/s3/mc2026/emblems/mico2026-emblem-oly.png",
+      "eventName": "Olympic Winter Sports",
+      "id": 387,
+      "links": [
+        {
+          "api": "6fe4b567ec9b467a888a089600c93f55:b8612265451c8c462fb6b55ad3a6b6d8",
+          "link": "https://usanetwork.mt.linear.viewlift.com/v1/dash/dfe581e0a446a1e548014078b2d81b62b917979d/usanetwork-linear-external-dash-primary-v1/Content/DASH_DASH_ENC/Live/channel(4e41f6af-4b86-2aac-c351-c1250b14b344)/master.mpd",
+          "name": "USA TV FHD",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "192b1115da041585c77200128549efa1:634e10efe4abbb14be400a3ccbac0258",
+          "link": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd",
+          "name": "TNT SPORTS",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://stream.huraweb.com/embed_view.php?id=76b33213265bd4b8",
+          "name": "CH 1 - IOS",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "7e99f734748d098cbfa2f7bde968dd44:98ea6088c3222e9abaf61e537804d6cc",
+          "link": "https://abkf7g7aaaaaaaamcmmhhhyli5fwh.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/u142pfptsm/out/v1/1caa3b2dfa9e448d8f61209bdfc1acdc/cenc.mpd",
+          "name": "TSN SPORTS 1",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "e1aa4c4daf6222a04f7ae80130495ea1:31bb1ee9a8d088f62b0103550c301449",
+          "link": "https://abm5x5xaaaaaaaampk3nj4fzz34qg.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/irtfdsri14/out/v1/165128c314e944faa3d79e107974b323/cenc.mpd",
+          "name": "TSN SPORTS 4",
+          "scheme": 0,
+          "tokenApi": ""
+        }
+      ],
+      "teamAFlag": "https://gstatic.olympics.com/s3/mc2026/emblems/mico2026-emblem-oly.png",
+      "teamAName": "Olympic",
+      "teamBFlag": "https://gstatic.olympics.com/s3/mc2026/emblems/mico2026-emblem-oly.png",
+      "teamBName": "Olympic",
+      "time": "07:00:00",
+      "visible": true
+    },
+    {
+      "category": "Cricket",
+      "date": "22/02/2026",
+      "end_date": "",
+      "end_time": "",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11185/image/dark",
+      "eventName": "ICC T20 World Cup",
+      "id": 444,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/187765/image",
+      "teamAName": "India",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/187747/image",
+      "teamBName": "South Africa",
+      "time": "13:30:00",
+      "visible": true
+    },
+    {
+      "category": "Cricket",
+      "date": "22/02/2026",
+      "end_date": "",
+      "end_time": "",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11185/image/dark",
+      "eventName": "ICC T20 World Cup",
+      "id": 445,
+      "links": [
+        {
+          "api": "baafdb8ebcbbc0655332291da6f121da:60ac892e0ea0b2c46fc6837c97ed641a",
+          "link": "https://netskrt.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/wwrmho82pc/out/v1/d7130f460d41486ea7e8e3eb45f0522f/cenc.mpd",
+          "name": "PRIME VIDEO",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://bl.rutube.ru/livestream/9585fdae92af45f113fdcc9f6c4ba442/index.m3u8?s=KgZtccuHrnaljGaN7cmUwA&e=2068506973&scheme=https",
+          "name": "SKY SPORTS HD",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "91d2beddf3e75f68b3b5abea86ae268b:f03d7f1a26cc2f58bf2b7dadd71a06f0",
+          "link": "https://ml-pull-rtmp-pk1.myco.io/ICC/dash/index.mpd",
+          "name": "MyCO SD",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://stream1.liveland.af/hls/tv/tolo-sport/chunklist3.m3u8?|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+          "name": "HD SERVER ",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://cdn39591467.blazingcdn.net/dx14fhd/index.m3u8|Referer=https://yahoo.com/&Origin=https://yahoo.com&User-Agent=AppleCoreMedia/1.0.0.23D5103d (iPhone; U; CPU OS 26_3 like Mac OS X; en_us)",
+          "name": "WILLOW HD",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "84d6fcbb68483616a6a73bc38f662e39:5cd749344b5d290de91409fe4a466314",
+          "link": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-04)/hdntl=exp=1771778975~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=96bc7139-3edd-47ca-8f83-cfabcae165c5~data=hdntl~hmac=2c1e4b3102ee9fd7cf495dd6e3cd90d927682fcb7bb24f7c40cd96b08eb31ca9/manifest.mpd?vcfilter=58fde2f9-e218-45a8-ae5a-d173019eddf9&",
+          "name": "ICC TV - HIN [VPN]",
+          "scheme": 0,
+          "tokenApi": ""
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/187756/image",
+      "teamAName": "Sri Lanka",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/187757/image",
+      "teamBName": "England",
+      "time": "09:30:00",
+      "visible": true
+    }
+  ]
+}
