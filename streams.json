@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-02-22T15:01:19.590949",
-  "event_count": 33,
+  "last_updated": "2026-02-22T15:37:45.977124",
+  "event_count": 31,
   "events": [
     {
       "category": "Boxing",
@@ -293,8 +293,11 @@
       "id": 448,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "",
+          "link": "https://smarthard.click/hls/zk0Nc2A3VdSM/index.m3u8",
+          "name": "ESPN NL",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/2950/image",
@@ -302,44 +305,6 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/2960/image",
       "teamBName": "Sparta Rotterdam",
       "time": "15:45:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "22/02/2026",
-      "end_date": "22/02/2026",
-      "end_time": "15:20:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/8/image/dark",
-      "eventName": "LaLiga",
-      "id": 449,
-      "links": [
-        {
-          "api": "620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a",
-          "link": "https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd",
-          "name": "Laliga TV FHD",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281",
-          "link": "https://aba5sdmaaaaaaaamooyrewxky2c4j.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd",
-          "name": "beIN ENGLISH",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f",
-          "link": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
-          "name": "PREMIER SPORTS",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2859/image",
-      "teamAName": "Getafe",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2833/image",
-      "teamBName": "Sevilla",
-      "time": "13:00:00",
       "visible": true
     },
     {
@@ -416,30 +381,6 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/2977/image",
       "teamBName": "Heracles Almelo",
       "time": "13:30:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "22/02/2026",
-      "end_date": "22/02/2026",
-      "end_time": "15:20:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/52/image/dark",
-      "eventName": "Trendyol Süper Lig",
-      "id": 453,
-      "links": [
-        {
-          "api": "",
-          "link": "https://smarthard.click/hls/hhx33tWwGEeW/index.m3u8",
-          "name": "beIN SPORTS",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/5138/image",
-      "teamAName": "Gaziantep FK",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3051/image",
-      "teamBName": "Trabzonspor",
-      "time": "13:00:00",
       "visible": true
     },
     {
@@ -733,6 +674,13 @@
       "id": 469,
       "links": [
         {
+          "api": "00a7aee91d5f9697e384c5a857ba5ed0:a82bec7f43e10af436ea4d0c55edee1b",
+          "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/kbrxppawf0/out/v1/f758abd5ec4643c9a6f66a607709d33c/cenc.mpd",
+          "name": "DAZN SPANISH",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
           "api": "620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a",
           "link": "https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd",
           "name": "Laliga TV FHD",
@@ -757,6 +705,13 @@
           "api": "e853333da2c9196ea11374634231bc45:de2e2dbe818d78dfad07d6cd9a4c63d4",
           "link": "https://netskrt.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/jkcljgqbx8/out/v1/63bfa701559340f3a2a2cb1fccd24807/cenc.mpd",
           "name": "TSN SPORTS",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://daffodil.lifesharper.com/dep.m3u8",
+          "name": "ESPN DEPORTES",
           "scheme": 0,
           "tokenApi": ""
         }
@@ -934,6 +889,13 @@
       "eventName": "Ligue 1",
       "id": 479,
       "links": [
+        {
+          "api": "89377f1dc8fcc61d86a4279d2bfc4625:acb3810c1a5ed837272ee91df9cadb5a",
+          "link": "https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/mn1nmke3i9/out/v1/9a737c9e59794bc59a8521f39263f8b0/cenc.mpd",
+          "name": "DAZN SPORTS",
+          "scheme": 0,
+          "tokenApi": ""
+        },
         {
           "api": "",
           "link": "https://bbb.exoadash.com/TVD2083/index.mpd",
