@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-02-22T17:12:23.339405",
-  "event_count": 22,
+  "last_updated": "2026-02-22T17:45:02.054798",
+  "event_count": 20,
   "events": [
     {
       "category": "Boxing",
@@ -180,86 +180,6 @@
       "teamBFlag": "https://gstatic.olympics.com/s3/mc2026/emblems/mico2026-emblem-oly.png",
       "teamBName": "Olympic",
       "time": "07:00:00",
-      "visible": true
-    },
-    {
-      "category": "Cricket",
-      "date": "22/02/2026",
-      "end_date": "22/02/2026",
-      "end_time": "17:30:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11185/image/dark",
-      "eventName": "ICC T20 World Cup",
-      "id": 444,
-      "links": [
-        {
-          "api": "2904b17cb64c996dbc254981b7602863:66a7ef671b84498e64f94e8401fe8cb9",
-          "link": "https://otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/dash/enc/xanygn4vv8/out/v1/8777014e61534e7c873dc695bc485397/cenc.mpd",
-          "name": "PRIME VIDEO",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "3b1768e88fe20087baaa029ece65cc59:8ab5b1d0808ac9e3811750a0713d114e",
-          "link": "https://otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/rxhxc14ikz/out/v1/bb976c39247941f3b4c9fa0a0735426d/cenc.mpd",
-          "name": "PRIME VID [HIN]",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "597d7ef3084032b3739bfb3a1156be8c:6914989efcf9803e26eb62bb94f0688e",
-          "link": "https://otte.live.cf.ww.aiv-cdn.net/sin-nitro/live/clients/dash/enc/irel8nc2xz/out/v1/ef73fa5f78a14612ae832608119db7be/cenc.mpd",
-          "name": "WILLOW [Ad Free]",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://bl.rutube.ru/livestream/9585fdae92af45f113fdcc9f6c4ba442/index.m3u8?s=KgZtccuHrnaljGaN7cmUwA&e=2068506973&scheme=https",
-          "name": "SKY SPORTS HD",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://live-pull.aisports.mobi/moviebox/device02/playlist.m3u8|Referer=https://sportslivenow.top/",
-          "name": "JIO HOTSTAR",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://stream1.liveland.af/hls/tv/tolo-sport/chunklist3.m3u8?|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
-          "name": "HD SERVER ",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://cdn39591467.blazingcdn.net/dx14fhd/index.m3u8|Referer=https://yahoo.com/&Origin=https://yahoo.com&User-Agent=AppleCoreMedia/1.0.0.23D5103d (iPhone; U; CPU OS 26_3 like Mac OS X; en_us)",
-          "name": "Willow HD",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://cdn39591467.blazingcdn.net/dx14sd/index.m3u8|Referer=https://yahoo.com/&Origin=https://yahoo.com&User-Agent=AppleCoreMedia/1.0.0.23D5103d (iPhone; U; CPU OS 26_3 like Mac OS X; en_us)",
-          "name": "Willow SD",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://tencentcdn4.tamashaweb.com/v1/0196159d28a51ea5064913eb2a83e7/0196159e84f81ea506ec1adad310bd/TMSH_U1_APP.m3u8",
-          "name": "TAMASHA - IOS",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/187765/image",
-      "teamAName": "India",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/187747/image",
-      "teamBName": "South Africa",
-      "time": "13:30:00",
       "visible": true
     },
     {
@@ -499,65 +419,6 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/2826/image",
       "teamBName": "Mallorca",
       "time": "17:30:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "22/02/2026",
-      "end_date": "22/02/2026",
-      "end_time": "17:35:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/8/image/dark",
-      "eventName": "LaLiga",
-      "id": 469,
-      "links": [
-        {
-          "api": "00a7aee91d5f9697e384c5a857ba5ed0:a82bec7f43e10af436ea4d0c55edee1b",
-          "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/kbrxppawf0/out/v1/f758abd5ec4643c9a6f66a607709d33c/cenc.mpd",
-          "name": "DAZN SPANISH",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a",
-          "link": "https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd",
-          "name": "Laliga TV FHD",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281",
-          "link": "https://aba5sdmaaaaaaaamooyrewxky2c4j.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd",
-          "name": "beIN ENGLISH",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f",
-          "link": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
-          "name": "PREMIER SPORTS",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "e853333da2c9196ea11374634231bc45:de2e2dbe818d78dfad07d6cd9a4c63d4",
-          "link": "https://netskrt.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/jkcljgqbx8/out/v1/63bfa701559340f3a2a2cb1fccd24807/cenc.mpd",
-          "name": "TSN SPORTS",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://daffodil.lifesharper.com/dep.m3u8",
-          "name": "ESPN DEPORTES",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2817/image",
-      "teamAName": "Barcelona",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2849/image",
-      "teamBName": "Levante UD",
-      "time": "15:15:00",
       "visible": true
     },
     {
