@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-02-22T16:43:36.925009",
-  "event_count": 24,
+  "last_updated": "2026-02-22T17:12:23.339405",
+  "event_count": 22,
   "events": [
     {
       "category": "Boxing",
@@ -352,37 +352,6 @@
       "category": "Football",
       "date": "22/02/2026",
       "end_date": "22/02/2026",
-      "end_time": "17:20:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/36/image/dark",
-      "eventName": "Scottish Premiership",
-      "id": 454,
-      "links": [
-        {
-          "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
-          "link": "https://aba5sdmaaaaaaaamdwujas5g6mg4r.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
-          "name": "beIN ENGLISH",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
-          "link": "https://abd5xpeaaaaaaaamn2tirj37mzzps.ottb.live.cf.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
-          "name": "SportDigital Fussball",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2356/image",
-      "teamAName": "Livingston",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2351/image",
-      "teamBName": "Rangers",
-      "time": "15:00:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "22/02/2026",
-      "end_date": "22/02/2026",
       "end_time": "18:35:00",
       "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/34/image/dark",
       "eventName": "Ligue 1",
@@ -504,8 +473,25 @@
       "id": 468,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a",
+          "link": "https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd",
+          "name": "Laliga TV FHD",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
+          "link": "https://aba5sdmaaaaaaaamdwujas5g6mg4r.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
+          "name": "beIN ENGLISH",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f",
+          "link": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
+          "name": "PREMIER SPORTS",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/2821/image",
@@ -681,6 +667,13 @@
       "id": 475,
       "links": [
         {
+          "api": "bdd8abd380f90c8ec7654c160e0ff970:9c93668d052e037cc72496a7ae83dc39",
+          "link": "https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/cy40ve5pb5/out/v1/8280316d9d464176a3a587bca90a754a/cenc.mpd",
+          "name": "PARAMOUNT+ AQ",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
           "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
           "link": "https://aba5sdmaaaaaaaamhq2w5oosrf5ae.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
           "name": "beIN ENGLISH",
@@ -700,37 +693,6 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/2690/image",
       "teamBName": "Parma",
       "time": "17:00:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "22/02/2026",
-      "end_date": "22/02/2026",
-      "end_time": "16:50:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/35/image/dark",
-      "eventName": "Bundesliga",
-      "id": 476,
-      "links": [
-        {
-          "api": "b1e343daeb8d05641556dee779b59c32:b95a09b8a606845930628d43edeef9b0",
-          "link": "https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gtwip8auof/out/v1/09797baa89ad4b35a1b225b402357a3a/cenc.mpd",
-          "name": "DAZN DE - AQ",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://smarthard.click/hls/2MKw3OQni0WR/index.m3u8",
-          "name": "DAZN DE",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2538/image",
-      "teamAName": "SC Freiburg",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2527/image",
-      "teamBName": "Borussia M'gladbach",
-      "time": "14:30:00",
       "visible": true
     },
     {
