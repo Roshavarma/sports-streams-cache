@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-23T14:34:36.962607",
+  "last_updated": "2026-02-23T15:30:07.622127",
   "event_count": 13,
   "events": [
     {
@@ -192,8 +192,18 @@
       "id": 388,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+          "link": "https://aba5sdmaaaaaaaamhq2w5oosrf5ae.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
+          "name": "beIN ENGLISH",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
+          "link": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd",
+          "name": "CBS Golazo",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/2685/image",
@@ -213,8 +223,11 @@
       "id": 389,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "",
+          "link": "https://smarthard.click/hls/hhx33tWwGEeW/index.m3u8",
+          "name": "beIN SPORTS",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/3052/image",
@@ -276,8 +289,25 @@
       "id": 392,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+          "link": "https://aba5sdmaaaaaaaamhq2w5oosrf5ae.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
+          "name": "beIN ENGLISH",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
+          "link": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd",
+          "name": "CBS Golazo",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811",
+          "link": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
+          "name": "Fox Deportes",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/2693/image",
@@ -363,8 +393,8 @@
     {
       "category": "Cricket",
       "date": "23/02/2026",
-      "end_date": "",
-      "end_time": "",
+      "end_date": "23/02/2026",
+      "end_time": "17:30:00",
       "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11185/image/dark",
       "eventName": "ICC T20 World Cup",
       "id": 396,
