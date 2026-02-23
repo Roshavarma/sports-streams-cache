@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-02-23T21:26:54.018342",
-  "event_count": 8,
+  "last_updated": "2026-02-23T22:10:28.846544",
+  "event_count": 9,
   "events": [
     {
       "category": "Boxing",
@@ -291,6 +291,27 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/35/image",
       "teamBName": "Manchester United",
       "time": "20:00:00",
+      "visible": true
+    },
+    {
+      "category": "Cricket",
+      "date": "24/02/2026",
+      "end_date": "",
+      "end_time": "",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11221/image/dark",
+      "eventName": "One Day International Women",
+      "id": 395,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/213117/image",
+      "teamAName": "Australia Women",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/213119/image",
+      "teamBName": "India Women",
+      "time": "03:50:00",
       "visible": true
     }
   ]
