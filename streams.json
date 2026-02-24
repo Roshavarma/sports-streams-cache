@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-02-24T09:07:53.314353",
-  "event_count": 9,
+  "last_updated": "2026-02-24T10:09:02.732782",
+  "event_count": 15,
   "events": [
     {
       "category": "Boxing",
@@ -131,169 +131,6 @@
       "visible": true
     },
     {
-      "category": "Football",
-      "date": "23/02/2026",
-      "end_date": "23/02/2026",
-      "end_time": "22:05:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/23/image/dark",
-      "eventName": "Serie A",
-      "id": 388,
-      "links": [
-        {
-          "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
-          "link": "https://aba5sdmaaaaaaaamhq2w5oosrf5ae.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
-          "name": "beIN ENGLISH",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
-          "link": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd",
-          "name": "CBS Golazo",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2685/image",
-      "teamAName": "Bologna",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2695/image",
-      "teamBName": "Udinese",
-      "time": "19:45:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "23/02/2026",
-      "end_date": "23/02/2026",
-      "end_time": "21:50:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/54/image/dark",
-      "eventName": "LaLiga 2",
-      "id": 390,
-      "links": [
-        {
-          "link": "https://no.link",
-          "name": "Link 1"
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4488/image",
-      "teamAName": "Cádiz",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/24360/image",
-      "teamBName": "Real Sociedad B U21",
-      "time": "19:30:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "23/02/2026",
-      "end_date": "23/02/2026",
-      "end_time": "22:20:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/8/image/dark",
-      "eventName": "LaLiga",
-      "id": 391,
-      "links": [
-        {
-          "api": "620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a",
-          "link": "https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd",
-          "name": "Laliga TV FHD",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f",
-          "link": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
-          "name": "Premier Sports",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2",
-          "link": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
-          "name": "Fancode FHD",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2885/image",
-      "teamAName": "Deportivo Alavés",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/24264/image",
-      "teamBName": "Girona FC",
-      "time": "20:00:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "23/02/2026",
-      "end_date": "23/02/2026",
-      "end_time": "22:20:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/25/image/dark",
-      "eventName": "League Two",
-      "id": 393,
-      "links": [
-        {
-          "link": "https://no.link",
-          "name": "Link 1"
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/26/image",
-      "teamAName": "Walsall",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4/image",
-      "teamBName": "Milton Keynes Dons",
-      "time": "20:00:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "23/02/2026",
-      "end_date": "23/02/2026",
-      "end_time": "22:20:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/17/image/dark",
-      "eventName": "Premier League",
-      "id": 394,
-      "links": [
-        {
-          "api": "dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f",
-          "link": "https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ujnv6vqyts/out/v1/ea41a1e234e248daa9ebb1dce896ac26/cenc.mpd",
-          "name": "FUBO SPORTS",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://grand-s-v2.faggotsports.tv/pl_118/207676-6822650-1/chunklist.m3u8|Referer=https://cstream.fit/",
-          "name": "USA NETWORK",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://grand-s-v2.faggotsports.tv/pl_120/207676-6823160-1/chunklist.m3u8|Referer=https://cstream.fit/",
-          "name": "SKY SPORTS EPL",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://grand-s-v2.faggotsports.tv/pl_120/207676-6819752-1/chunklist.m3u8|Referer=https://cstream.fit/",
-          "name": "SKY SPORTS NZ",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "http://xcarscharge.pro:8080/bn1hevc/mono.m3u8",
-          "name": "beIN ARABIC",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/48/image",
-      "teamAName": "Everton",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/35/image",
-      "teamBName": "Manchester United",
-      "time": "20:00:00",
-      "visible": true
-    },
-    {
       "category": "Cricket",
       "date": "24/02/2026",
       "end_date": "24/02/2026",
@@ -315,6 +152,237 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/213119/image",
       "teamBName": "India Women",
       "time": "03:50:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "24/02/2026",
+      "end_date": "24/02/2026",
+      "end_time": "22:20:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/7/image/dark",
+      "eventName": "UEFA Champions League",
+      "id": 396,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2697/image",
+      "teamAName": "Inter",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/656/image",
+      "teamBName": "Bodø/Glimt",
+      "time": "20:00:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "24/02/2026",
+      "end_date": "24/02/2026",
+      "end_time": "21:20:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/955/image/dark",
+      "eventName": "Saudi Pro League",
+      "id": 397,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/56021/image",
+      "teamAName": "Al-Taawoun",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/21895/image",
+      "teamBName": "Al-Hilal",
+      "time": "19:00:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "24/02/2026",
+      "end_date": "24/02/2026",
+      "end_time": "22:20:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/7/image/dark",
+      "eventName": "UEFA Champions League",
+      "id": 398,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2681/image",
+      "teamAName": "Bayer 04 Leverkusen",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3245/image",
+      "teamBName": "Olympiacos FC",
+      "time": "20:00:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "24/02/2026",
+      "end_date": "24/02/2026",
+      "end_time": "22:20:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/7/image/dark",
+      "eventName": "UEFA Champions League",
+      "id": 399,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/39/image",
+      "teamAName": "Newcastle United",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/5962/image",
+      "teamBName": "Qarabağ FK",
+      "time": "20:00:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "24/02/2026",
+      "end_date": "24/02/2026",
+      "end_time": "22:20:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark",
+      "eventName": "Championship",
+      "id": 400,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/45/image",
+      "teamAName": "Southampton",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/1/image",
+      "teamBName": "Queens Park Rangers",
+      "time": "20:00:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "24/02/2026",
+      "end_date": "24/02/2026",
+      "end_time": "21:20:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/955/image/dark",
+      "eventName": "Saudi Pro League",
+      "id": 401,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/167228/image",
+      "teamAName": "Al-Khaleej",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/269199/image",
+      "teamBName": "Al-Kholood",
+      "time": "19:00:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "24/02/2026",
+      "end_date": "24/02/2026",
+      "end_time": "21:20:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/955/image/dark",
+      "eventName": "Saudi Pro League",
+      "id": 402,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/168086/image",
+      "teamAName": "Al-Hazem",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/34315/image",
+      "teamBName": "Al-Ittihad",
+      "time": "19:00:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "24/02/2026",
+      "end_date": "24/02/2026",
+      "end_time": "22:05:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark",
+      "eventName": "Championship",
+      "id": 403,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/64/image",
+      "teamAName": "Wrexham",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2/image",
+      "teamBName": "Portsmouth",
+      "time": "19:45:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "24/02/2026",
+      "end_date": "24/02/2026",
+      "end_time": "20:05:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/7/image/dark",
+      "eventName": "UEFA Champions League",
+      "id": 404,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2836/image",
+      "teamAName": "Atlético Madrid",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2888/image",
+      "teamBName": "Club Brugge KV",
+      "time": "17:45:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "24/02/2026",
+      "end_date": "24/02/2026",
+      "end_time": "22:05:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark",
+      "eventName": "Championship",
+      "id": 405,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/24/image",
+      "teamAName": "Watford",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/32/image",
+      "teamBName": "Ipswich Town",
+      "time": "19:45:00",
+      "visible": true
+    },
+    {
+      "category": "Cricket",
+      "date": "24/02/2026",
+      "end_date": "",
+      "end_time": "",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11185/image/dark",
+      "eventName": "ICC T20 World Cup",
+      "id": 406,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/187757/image",
+      "teamAName": "England",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/187754/image",
+      "teamBName": "Pakistan",
+      "time": "13:30:00",
       "visible": true
     }
   ]
