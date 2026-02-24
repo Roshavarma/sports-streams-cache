@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-24T17:46:23.021569",
+  "last_updated": "2026-02-24T18:41:23.985044",
   "event_count": 15,
   "events": [
     {
@@ -311,6 +311,27 @@
           "api": "1d96ab366bbe6451edf7407b58e2fa16:0116201f4a63ac5bf5787d2c610c41a7",
           "link": "https://netskrt.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/5sxuux529k/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd",
           "name": "TNT SPORTS",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
+          "link": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd",
+          "name": "CBS Golazo",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "4b712edb3f3294185af8a1b3004c857b:eff1b519ff2433994d53d80376f4ef34",
+          "link": "https://netskrt.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/z5adngilc5/out/v1/0a5fbcc3fc124cf9b996201087a58b2f/cenc.mpd",
+          "name": "TNT Brazil FHD",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://daffodil.serverbandel.sbs/tnt3.m3u8",
+          "name": "TNT SPORTS HD",
           "scheme": 0,
           "tokenApi": ""
         }
