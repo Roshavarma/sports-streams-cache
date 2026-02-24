@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-24T13:26:44.426360",
+  "last_updated": "2026-02-24T14:34:31.262129",
   "event_count": 15,
   "events": [
     {
@@ -128,30 +128,6 @@
       "teamBFlag": "https://www.wwe.com/f/styles/wwe_show_logo_l/public/all/2024/12/RAW_Primary_Logo_For_Any_Background_%281%29--de3612b9543981440a24489e0e568d9b.png",
       "teamBName": "Raw",
       "time": "01:00:00",
-      "visible": true
-    },
-    {
-      "category": "Cricket",
-      "date": "24/02/2026",
-      "end_date": "24/02/2026",
-      "end_time": "12:00:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11221/image/dark",
-      "eventName": "One Day International Women",
-      "id": 395,
-      "links": [
-        {
-          "api": "294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b",
-          "link": "https://netskrt.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd",
-          "name": "TNT SPORTS",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/213117/image",
-      "teamAName": "Australia Women",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/213119/image",
-      "teamBName": "India Women",
-      "time": "03:50:00",
       "visible": true
     },
     {
@@ -367,8 +343,8 @@
     {
       "category": "Cricket",
       "date": "24/02/2026",
-      "end_date": "",
-      "end_time": "",
+      "end_date": "24/02/2026",
+      "end_time": "17:30:00",
       "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11185/image/dark",
       "eventName": "ICC T20 World Cup",
       "id": 406,
@@ -421,6 +397,37 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/187754/image",
       "teamBName": "Pakistan",
       "time": "13:30:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "24/02/2026",
+      "end_date": "24/02/2026",
+      "end_time": "16:20:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/1900/image/dark",
+      "eventName": "Indian Super League",
+      "id": 407,
+      "links": [
+        {
+          "api": "065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2",
+          "link": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
+          "name": "FANCODE FHD",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "5689304538fa9f3bb3da99c939a2ad4f:6907c88ed8ebdd35a2fa80b9684715e1",
+          "link": "https://abmvm23aaaaaaaamjmmec4lqatq7x.ottb.live.cf.ww.aiv-cdn.net/sin-nitro/live/clients/dash-sd/enc/v8g0dlo4z8/out/v1/946019f85dc64ae99ff9ce64a9727a62/cenc-sd.mpd",
+          "name": "FANCODE - SD",
+          "scheme": 0,
+          "tokenApi": ""
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/174592/image",
+      "teamAName": "Odisha FC",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/494686/image",
+      "teamBName": "Inter Kashi FC",
+      "time": "14:00:00",
       "visible": true
     }
   ]
