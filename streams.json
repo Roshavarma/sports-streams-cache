@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-24T06:15:10.523802",
+  "last_updated": "2026-02-24T07:30:30.756965",
   "event_count": 9,
   "events": [
     {
@@ -296,15 +296,18 @@
     {
       "category": "Cricket",
       "date": "24/02/2026",
-      "end_date": "",
-      "end_time": "",
+      "end_date": "24/02/2026",
+      "end_time": "12:00:00",
       "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11221/image/dark",
       "eventName": "One Day International Women",
       "id": 395,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b",
+          "link": "https://netskrt.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd",
+          "name": "TNT SPORTS",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/213117/image",
