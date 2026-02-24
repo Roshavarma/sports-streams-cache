@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-02-24T18:41:23.985044",
-  "event_count": 15,
+  "last_updated": "2026-02-24T19:40:44.814468",
+  "event_count": 13,
   "events": [
     {
       "category": "Boxing",
@@ -101,8 +101,8 @@
     },
     {
       "category": "Boxing",
-      "date": "24/02/2026",
-      "end_date": "24/02/2026",
+      "date": "03/03/2026",
+      "end_date": "03/03/2026",
       "end_time": "06:00:00",
       "eventLogo": "https://static.wikia.nocookie.net/wweuniverse/images/f/f6/Wwelogo.png/revision/latest?cb=20101124080717",
       "eventName": "Monday Night Raw",
@@ -140,8 +140,11 @@
       "id": 396,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b",
+          "link": "https://netskrt.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd",
+          "name": "TNT SPORTS",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/2697/image",
@@ -161,8 +164,11 @@
       "id": 397,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "",
+          "link": "https://bbb.exoadash.com/TVD1451/index.mpd",
+          "name": "Link 1",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/56021/image",
@@ -182,8 +188,11 @@
       "id": 398,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "f288380ca4cef9ad3f27a92a08e9bb8b:9f18d26291d9230833501f7f822f6875",
+          "link": "https://netskrt.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd",
+          "name": "TNT SPORTS",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/2681/image",
@@ -224,8 +233,11 @@
       "id": 400,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+          "link": "https://aba5sdmaaaaaaaamhq2w5oosrf5ae.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
+          "name": "beIN ENGLISH",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/45/image",
@@ -245,8 +257,11 @@
       "id": 401,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "",
+          "link": "https://bbb.exoadash.com/TVD1403/index.mpd",
+          "name": "Thmanyah - FHD",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/167228/image",
@@ -266,8 +281,11 @@
       "id": 402,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "",
+          "link": "https://bbb.exoadash.com/TVD6737/index.mpd",
+          "name": "Thmanyah - FHD",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/168086/image",
@@ -362,96 +380,6 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/32/image",
       "teamBName": "Ipswich Town",
       "time": "19:45:00",
-      "visible": true
-    },
-    {
-      "category": "Cricket",
-      "date": "24/02/2026",
-      "end_date": "24/02/2026",
-      "end_time": "17:30:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11185/image/dark",
-      "eventName": "ICC T20 World Cup",
-      "id": 406,
-      "links": [
-        {
-          "api": "baafdb8ebcbbc0655332291da6f121da:60ac892e0ea0b2c46fc6837c97ed641a",
-          "link": "https://netskrt.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/wwrmho82pc/out/v1/d7130f460d41486ea7e8e3eb45f0522f/cenc.mpd",
-          "name": "PRIME VIDEO",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "31041cbf8e2dd25e4d64f5989e8c911b:5fa81c120212d63234dbf5e8c0576998",
-          "link": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/enc/rsezvlsysm/out/v1/abf442903f5b429581bf54e219a7dfc9/cenc.mpd",
-          "name": "Willow [Ad Free]",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://bl.rutube.ru/livestream/9585fdae92af45f113fdcc9f6c4ba442/index.m3u8?s=KgZtccuHrnaljGaN7cmUwA&e=2068506973&scheme=https",
-          "name": "SKY SPORTS HD",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://live-pull.aisports.mobi/moviebox/device01/playlist.m3u8|Referer=https://sportslivenow.top/",
-          "name": "JIO HOTSTAR",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://stream1.liveland.af/hls/tv/tolo-sport/chunklist3.m3u8?|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
-          "name": "HD SERVER ",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://cdn39591467.blazingcdn.net/dx14fhd/index.m3u8|Referer=https://yahoo.com/&Origin=https://yahoo.com&User-Agent=AppleCoreMedia/1.0.0.23D5103d (iPhone; U; CPU OS 26_3 like Mac OS X; en_us)",
-          "name": "WILLOW HD",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/187757/image",
-      "teamAName": "England",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/187754/image",
-      "teamBName": "Pakistan",
-      "time": "13:30:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "24/02/2026",
-      "end_date": "24/02/2026",
-      "end_time": "16:20:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/1900/image/dark",
-      "eventName": "Indian Super League",
-      "id": 407,
-      "links": [
-        {
-          "api": "065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2",
-          "link": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
-          "name": "FANCODE FHD",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "5689304538fa9f3bb3da99c939a2ad4f:6907c88ed8ebdd35a2fa80b9684715e1",
-          "link": "https://abmvm23aaaaaaaamjmmec4lqatq7x.ottb.live.cf.ww.aiv-cdn.net/sin-nitro/live/clients/dash-sd/enc/v8g0dlo4z8/out/v1/946019f85dc64ae99ff9ce64a9727a62/cenc-sd.mpd",
-          "name": "FANCODE - SD",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/174592/image",
-      "teamAName": "Odisha FC",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/494686/image",
-      "teamBName": "Inter Kashi FC",
-      "time": "14:00:00",
       "visible": true
     }
   ]
