@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-25T19:18:17.896334",
+  "last_updated": "2026-02-25T19:56:50.586919",
   "event_count": 11,
   "events": [
     {
@@ -209,8 +209,18 @@
       "id": 28,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
+          "name": "beIN ENGLISH",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
+          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
+          "name": "CBS NETWORK",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/29/image",
@@ -254,8 +264,11 @@
       "id": 30,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "",
+          "link": "https://red2.wecanfix8.space/playlist/45810/load-playlist?|Referer=https://gooz.aapmains.net/",
+          "name": "TNT SPORTS",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/1644/image",
@@ -275,8 +288,25 @@
       "id": 31,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "",
+          "link": "https://plf1.ionisglide.space/playlist/45809/load-playlist?|Referer=https://gooz.aapmains.net/",
+          "name": "TNT SPORTS",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://areagame.net/1111.php",
+          "name": "HD SERVER",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://26.hls-syria.live/live/bein2",
+          "name": "beIN ARABIC",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/2829/image",
@@ -355,8 +385,11 @@
       "id": 33,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "",
+          "link": "https://red2.pulselyra.shop/playlist/45808/load-playlist?|Referer=https://gooz.aapmains.net",
+          "name": "TNT SPORTS",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/2687/image",
