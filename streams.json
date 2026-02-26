@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-26T15:09:43.636793",
+  "last_updated": "2026-02-26T18:07:59.548175",
   "event_count": 22,
   "events": [
     {
@@ -349,8 +349,11 @@
       "id": 42,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "e4616ae52a41e9f3c50dc9ee302c0bff:3de5c2ca2831acb06a20eff3c94a5b2a",
+          "link": "https://a201aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/bowrjnjdfv/out/v1/71ab4d889392445b9e0aae03d5cb6c77/cenc.mpd",
+          "name": "VIX SPANISH - AQ",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/3053/image",
@@ -370,8 +373,11 @@
       "id": 43,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "152d3a20a4893af51e516e33375f3a40:9cba462b566ddee6108ef06c531766eb",
+          "link": "https://a201aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/8gpkiz5zxg/out/v1/5ffdefde68be4b0cba143306037bbdf3/cenc.mpd",
+          "name": "VIX SPANISH - AQ",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/2413/image",
@@ -391,8 +397,11 @@
       "id": 44,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "97538792befb02d187ba44a5dd97c6b3:734df5e5d5adf3b9b45909ac9f09af01",
+          "link": "https://a201aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/vlanmt5xym/out/v1/d0b914f4286b49389c38cfb99a4119d4/cenc.mpd",
+          "name": "Link 1",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/2039/image",
@@ -412,8 +421,18 @@
       "id": 45,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "f288380ca4cef9ad3f27a92a08e9bb8b:9f18d26291d9230833501f7f822f6875",
+          "link": "https://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+          "name": "TNT SPORTS",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "27b63adab8e3eda6d0c33b5fc91f6057:0002a302cdd2b3a1dc27293df0fa730c",
+          "link": "https://a201aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/qrjtdbtck4/out/v1/5ebb78d6f9b844bba206fbfc8782d9da/cenc.mpd",
+          "name": "HD Hq",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/2677/image",
@@ -433,8 +452,11 @@
       "id": 46,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "75f4db0d8e63a9e15de50566f0b92a81:185c47042c0a7f6449697d57ef1308cb",
+          "link": "https://a201aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/jlqbpdn34p/out/v1/84636269a21f441ab85f05c711253fe4/cenc.mpd",
+          "name": "Link 1",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/4502/image",
@@ -475,8 +497,18 @@
       "id": 48,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "4ebfbc0bb025210a68407116ca2f8742:e82ad032a7261d079ba7a9a360ceede1",
+          "link": "https://a201aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/vuu3gcknb0/out/v1/a72160db73194e07874d91db0cc2c746/cenc.mpd",
+          "name": "VIX SPANISH - AQ",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://n13.sanwalyaarpya.com:1686/hls/do6.m3u8?md5=AAP374N5fb5VD_I4ceN8Uw&expires=1772134679||Referer=https://vividmosaica.com/",
+          "name": "HD ",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/5149/image",
@@ -559,8 +591,11 @@
       "id": 52,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "844398f468ca26ed980acd6628198485:84d2a4ccd95e5edde8c25922a034baac",
+          "link": "https://a201aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/7smtadmufs/out/v1/3d2994f3d9c64fe5bb68338a540af489/cenc.mpd",
+          "name": "Link 1",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/2693/image",
