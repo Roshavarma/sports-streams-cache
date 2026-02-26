@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-02-26T18:07:59.548175",
-  "event_count": 22,
+  "last_updated": "2026-02-26T19:11:02.840276",
+  "event_count": 20,
   "events": [
     {
       "category": "Boxing",
@@ -149,110 +149,6 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/213119/image",
       "teamBName": "India Women",
       "time": "03:50:00",
-      "visible": true
-    },
-    {
-      "category": "Cricket",
-      "date": "26/02/2026",
-      "end_date": "26/02/2026",
-      "end_time": "17:30:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11185/image/dark",
-      "eventName": "ICC T20 World Cup",
-      "id": 36,
-      "links": [
-        {
-          "api": "f52a73212bdd837dc6849b688dff8194:d8c8ba05bae74b70d5f57f4e104eafeb",
-          "link": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/vdj8kklfbb/out/v1/6433098763394c0a8552dd92e8da40dc/cenc.mpd",
-          "name": "Willow [Ad Free]",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "https://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/wdqtgxqtpr/out/v1/d9a29796c1c3468785dbee1776ffd354/cenc.mpd",
-          "link": "https://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/wdqtgxqtpr/out/v1/d9a29796c1c3468785dbee1776ffd354/cenc.mpd",
-          "name": "PRIME HIN - AQ",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://tencentcdn4.tamashaweb.com/v1/0196159d28a51ea5064913eb2a83e7/0196159e84f81ea506ec1adad310bd/TMSH_U1_APP.m3u8",
-          "name": "Tamasha HD ",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://bl.rutube.ru/livestream/9585fdae92af45f113fdcc9f6c4ba442/index.m3u8?s=KgZtccuHrnaljGaN7cmUwA&e=2068506973&scheme=https",
-          "name": "SKY SPORTS HD",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://live-pull.aisports.mobi/moviebox/device02/playlist.m3u8|Referer=https://sportslivenow.top/",
-          "name": "JIO HOTSTAR",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://stream1.liveland.af/hls/tv/tolo-sport/chunklist3.m3u8?|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
-          "name": "HD SERVER ",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://cdn39591467.blazingcdn.net/dx14fhd/index.m3u8|Referer=https://yahoo.com/&Origin=https://yahoo.com&User-Agent=AppleCoreMedia/1.0.0.23D5103d (iPhone; U; CPU OS 26_3 like Mac OS X; en_us)",
-          "name": "WILLOW HD",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "http://103.99.249.139/starsport2/index.m3u8",
-          "name": "Star Sport HIN",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/187765/image",
-      "teamAName": "India",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/187745/image",
-      "teamBName": "Zimbabwe",
-      "time": "13:30:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "26/02/2026",
-      "end_date": "26/02/2026",
-      "end_time": "16:20:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/1900/image/dark",
-      "eventName": "Indian Super League",
-      "id": 37,
-      "links": [
-        {
-          "api": "065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2",
-          "link": "https://a166aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
-          "name": "FANCODE FHD",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "5689304538fa9f3bb3da99c939a2ad4f:6907c88ed8ebdd35a2fa80b9684715e1",
-          "link": "https://a166aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/clients/dash-sd/enc/v8g0dlo4z8/out/v1/946019f85dc64ae99ff9ce64a9727a62/cenc-sd.mpd",
-          "name": "FANCODE - SD",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/174594/image",
-      "teamAName": "FC Goa",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/331840/image",
-      "teamBName": "Sporting Delhi",
-      "time": "14:00:00",
       "visible": true
     },
     {
