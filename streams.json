@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-02-26T19:11:02.840276",
-  "event_count": 20,
+  "last_updated": "2026-02-26T19:56:28.950331",
+  "event_count": 12,
   "events": [
     {
       "category": "Boxing",
@@ -161,8 +161,11 @@
       "id": 38,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "53ac8e7c798f32280f42c25f04e1bf53:3115f4ccf41206451337fd3a030aabf1",
+          "link": "https://apac-live.akamaized.net/ehyrzisobs/bein_sports_vflow02/index.mpd?hdntl=exp%3D1772212924%7Eacl%3D%2F*%7Eid%3D42901651%7Edata%3Dhdntl%2Cfp%3D1%7Ehmac%3D46f688898d5161531e445b678322322b9ebb7ff4ee101d2fc56e3bff68ed12f4&hdnts=st%3D1772040120%7Eexp%3D1772126818%7Eacl%3D%2F*%7Eid%3D42901651%7Edata%3Dfp%3D1%7Ehmac%3Df99ab15a5f1221cb234bf6997c149b838d31cebcce93fc2e331a1ed66bc01f28",
+          "name": "beIN SPORTS",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/2890/image",
@@ -176,35 +179,24 @@
       "category": "Football",
       "date": "26/02/2026",
       "end_date": "26/02/2026",
-      "end_time": "20:05:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/679/image/dark",
-      "eventName": "UEFA Europa League",
-      "id": 39,
-      "links": [
-        {
-          "link": "https://no.link",
-          "name": "Link 1"
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/1925/image",
-      "teamAName": "Ferencváros TC",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/43840/image",
-      "teamBName": "Ludogorets",
-      "time": "17:45:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "26/02/2026",
-      "end_date": "26/02/2026",
       "end_time": "22:20:00",
       "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/17015/image/dark",
       "eventName": "UEFA Conference League",
       "id": 40,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "e0d9cb8ea4f649dae8572747f6ca491c:1f92090eccefd128187d80566c62eb15",
+          "link": "https://apac-live.akamaized.net/ehyrzisobs/bein_sports_vflow15/index.mpd?hdntl=exp%3D1772212924%7Eacl%3D%2F*%7Eid%3D42901651%7Edata%3Dhdntl%2Cfp%3D1%7Ehmac%3D46f688898d5161531e445b678322322b9ebb7ff4ee101d2fc56e3bff68ed12f4&hdnts=st%3D1772040120%7Eexp%3D1772126818%7Eacl%3D%2F*%7Eid%3D42901651%7Edata%3Dfp%3D1%7Ehmac%3Df99ab15a5f1221cb234bf6997c149b838d31cebcce93fc2e331a1ed66bc01f28",
+          "name": "beIN SPORTS",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://play.ltwxsc.com/live/sd-6MvYrF3oEd2nVEoJf8.m3u8?txSecret=e89744e4b32901cfc546bddf8c8f550a&txTime=69A0CF16",
+          "name": "PARAMOUNT+ HD",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/2950/image",
@@ -224,8 +216,11 @@
       "id": 41,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "f96ca2c12f366330bbdf5ebc72797257:eb168ed9c2a857e7b86d533e0a39db48",
+          "link": "https://apac-live.akamaized.net/ehyrzisobs/bein_sports_vflow17/index.mpd?hdntl=exp%3D1772212924%7Eacl%3D%2F*%7Eid%3D42901651%7Edata%3Dhdntl%2Cfp%3D1%7Ehmac%3D46f688898d5161531e445b678322322b9ebb7ff4ee101d2fc56e3bff68ed12f4&hdnts=st%3D1772040120%7Eexp%3D1772126818%7Eacl%3D%2F*%7Eid%3D42901651%7Edata%3Dfp%3D1%7Ehmac%3Df99ab15a5f1221cb234bf6997c149b838d31cebcce93fc2e331a1ed66bc01f28",
+          "name": "beIN SPORTS",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/2446/image",
@@ -239,141 +234,17 @@
       "category": "Football",
       "date": "26/02/2026",
       "end_date": "26/02/2026",
-      "end_time": "20:05:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/17015/image/dark",
-      "eventName": "UEFA Conference League",
-      "id": 42,
-      "links": [
-        {
-          "api": "e4616ae52a41e9f3c50dc9ee302c0bff:3de5c2ca2831acb06a20eff3c94a5b2a",
-          "link": "https://a201aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/bowrjnjdfv/out/v1/71ab4d889392445b9e0aae03d5cb6c77/cenc.mpd",
-          "name": "VIX SPANISH - AQ",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3053/image",
-      "teamAName": "Samsunspor",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/5413/image",
-      "teamBName": "KF Shkëndija",
-      "time": "17:45:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "26/02/2026",
-      "end_date": "26/02/2026",
-      "end_time": "20:05:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/17015/image/dark",
-      "eventName": "UEFA Conference League",
-      "id": 43,
-      "links": [
-        {
-          "api": "152d3a20a4893af51e516e33375f3a40:9cba462b566ddee6108ef06c531766eb",
-          "link": "https://a201aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/8gpkiz5zxg/out/v1/5ffdefde68be4b0cba143306037bbdf3/cenc.mpd",
-          "name": "VIX SPANISH - AQ",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2413/image",
-      "teamAName": "NK Celje",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/229755/image",
-      "teamBName": "FC Drita",
-      "time": "17:45:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "26/02/2026",
-      "end_date": "26/02/2026",
-      "end_time": "20:05:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/17015/image/dark",
-      "eventName": "UEFA Conference League",
-      "id": 44,
-      "links": [
-        {
-          "api": "97538792befb02d187ba44a5dd97c6b3:734df5e5d5adf3b9b45909ac9f09af01",
-          "link": "https://a201aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/vlanmt5xym/out/v1/d0b914f4286b49389c38cfb99a4119d4/cenc.mpd",
-          "name": "Link 1",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2039/image",
-      "teamAName": "HNK Rijeka",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3395/image",
-      "teamBName": "Omonia Nicosia",
-      "time": "17:45:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "26/02/2026",
-      "end_date": "26/02/2026",
-      "end_time": "20:05:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/679/image/dark",
-      "eventName": "UEFA Europa League",
-      "id": 45,
-      "links": [
-        {
-          "api": "f288380ca4cef9ad3f27a92a08e9bb8b:9f18d26291d9230833501f7f822f6875",
-          "link": "https://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
-          "name": "TNT SPORTS",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "27b63adab8e3eda6d0c33b5fc91f6057:0002a302cdd2b3a1dc27293df0fa730c",
-          "link": "https://a201aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/qrjtdbtck4/out/v1/5ebb78d6f9b844bba206fbfc8782d9da/cenc.mpd",
-          "name": "HD Hq",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2677/image",
-      "teamAName": "VfB Stuttgart",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2352/image",
-      "teamBName": "Celtic",
-      "time": "17:45:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "26/02/2026",
-      "end_date": "26/02/2026",
-      "end_time": "20:05:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/679/image/dark",
-      "eventName": "UEFA Europa League",
-      "id": 46,
-      "links": [
-        {
-          "api": "75f4db0d8e63a9e15de50566f0b92a81:185c47042c0a7f6449697d57ef1308cb",
-          "link": "https://a201aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/jlqbpdn34p/out/v1/84636269a21f441ab85f05c711253fe4/cenc.mpd",
-          "name": "Link 1",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4502/image",
-      "teamAName": "FC Viktoria Plzeň",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3248/image",
-      "teamBName": "Panathinaikos FC",
-      "time": "17:45:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "26/02/2026",
-      "end_date": "26/02/2026",
       "end_time": "22:20:00",
       "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/17015/image/dark",
       "eventName": "UEFA Conference League",
       "id": 47,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "1d96ab366bbe6451edf7407b58e2fa16:0116201f4a63ac5bf5787d2c610c41a7",
+          "link": "https://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/5sxuux529k/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+          "name": "TNT SPORTS",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/7/image",
@@ -381,37 +252,6 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/5178/image",
       "teamBName": "HŠK Zrinjski Mostar",
       "time": "20:00:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "26/02/2026",
-      "end_date": "26/02/2026",
-      "end_time": "20:05:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/679/image/dark",
-      "eventName": "UEFA Europa League",
-      "id": 48,
-      "links": [
-        {
-          "api": "4ebfbc0bb025210a68407116ca2f8742:e82ad032a7261d079ba7a9a360ceede1",
-          "link": "https://a201aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/vuu3gcknb0/out/v1/a72160db73194e07874d91db0cc2c746/cenc.mpd",
-          "name": "VIX SPANISH - AQ",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://n13.sanwalyaarpya.com:1686/hls/do6.m3u8?md5=AAP374N5fb5VD_I4ceN8Uw&expires=1772134679||Referer=https://vividmosaica.com/",
-          "name": "HD ",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/5149/image",
-      "teamAName": "FK Crvena zvezda",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/1643/image",
-      "teamBName": "Lille",
-      "time": "17:45:00",
       "visible": true
     },
     {
@@ -445,8 +285,11 @@
       "id": 50,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "9c5c8869dbcb46ecf6ae628abe826192:118e49f56ed3655050e1118a48c825a2",
+          "link": "https://apac-live.akamaized.net/ehyrzisobs/bein_sports_vflow18/index.mpd?hdntl=exp%3D1772212924%7Eacl%3D%2F*%7Eid%3D42901651%7Edata%3Dhdntl%2Cfp%3D1%7Ehmac%3D46f688898d5161531e445b678322322b9ebb7ff4ee101d2fc56e3bff68ed12f4&hdnts=st%3D1772040120%7Eexp%3D1772126818%7Eacl%3D%2F*%7Eid%3D42901651%7Edata%3Dfp%3D1%7Ehmac%3Df99ab15a5f1221cb234bf6997c149b838d31cebcce93fc2e331a1ed66bc01f28",
+          "name": "beIN SPORTS",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/3121/image",
@@ -466,8 +309,18 @@
       "id": 51,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "f288380ca4cef9ad3f27a92a08e9bb8b:9f18d26291d9230833501f7f822f6875",
+          "link": "https://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+          "name": "TNT SPORTS",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "9e3ceafefd61fd316a0d142f7046c424:1efde03590efcfb0c4324f02f3fa1c43",
+          "link": "https://apac-live.akamaized.net/ehyrzisobs/bein_sports_vflow08/index.mpd?hdntl=exp%3D1772212924%7Eacl%3D%2F*%7Eid%3D42901651%7Edata%3Dhdntl%2Cfp%3D1%7Ehmac%3D46f688898d5161531e445b678322322b9ebb7ff4ee101d2fc56e3bff68ed12f4&hdnts=st%3D1772040120%7Eexp%3D1772126818%7Eacl%3D%2F*%7Eid%3D42901651%7Edata%3Dfp%3D1%7Ehmac%3Df99ab15a5f1221cb234bf6997c149b838d31cebcce93fc2e331a1ed66bc01f28",
+          "name": "beIN SPORTS",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/2685/image",
@@ -475,30 +328,6 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/1159/image",
       "teamBName": "SK Brann",
       "time": "20:00:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "26/02/2026",
-      "end_date": "26/02/2026",
-      "end_time": "20:05:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/17015/image/dark",
-      "eventName": "UEFA Conference League",
-      "id": 52,
-      "links": [
-        {
-          "api": "844398f468ca26ed980acd6628198485:84d2a4ccd95e5edde8c25922a034baac",
-          "link": "https://a201aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/7smtadmufs/out/v1/3d2994f3d9c64fe5bb68338a540af489/cenc.mpd",
-          "name": "Link 1",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2693/image",
-      "teamAName": "Fiorentina",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/7691/image",
-      "teamBName": "Jagiellonia Białystok",
-      "time": "17:45:00",
       "visible": true
     },
     {
