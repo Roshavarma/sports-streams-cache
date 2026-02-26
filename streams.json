@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-02-26T09:05:55.253791",
-  "event_count": 14,
+  "last_updated": "2026-02-26T10:05:52.044772",
+  "event_count": 7,
   "events": [
     {
       "category": "Boxing",
@@ -131,345 +131,6 @@
       "visible": true
     },
     {
-      "category": "Football",
-      "date": "25/02/2026",
-      "end_date": "25/02/2026",
-      "end_time": "21:20:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/955/image/dark",
-      "eventName": "Saudi Pro League",
-      "id": 26,
-      "links": [
-        {
-          "api": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae",
-          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
-          "name": "FOX SPORTS",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
-          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
-          "name": "SportDigital Fussball",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811",
-          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
-          "name": "Fox Deportes",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://bbb.exoadash.com/TVD1451/index.mpd",
-          "name": "Thmanyah - FHD",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/395831/image",
-      "teamAName": "Al-Najma SC",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/23400/image",
-      "teamBName": "Al-Nassr",
-      "time": "19:00:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "25/02/2026",
-      "end_date": "25/02/2026",
-      "end_time": "21:20:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/955/image/dark",
-      "eventName": "Saudi Pro League",
-      "id": 27,
-      "links": [
-        {
-          "api": "",
-          "link": "https://bbb.exoadash.com/TVD1403/index.mpd",
-          "name": "Thmanyah - FHD",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/168094/image",
-      "teamAName": "Al-Fayha",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/530631/image",
-      "teamBName": "Neom SC",
-      "time": "19:00:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "25/02/2026",
-      "end_date": "25/02/2026",
-      "end_time": "22:20:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark",
-      "eventName": "Championship",
-      "id": 28,
-      "links": [
-        {
-          "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
-          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
-          "name": "beIN ENGLISH",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
-          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
-          "name": "CBS NETWORK",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/29/image",
-      "teamAName": "Stoke City",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/95/image",
-      "teamBName": "Oxford United",
-      "time": "20:00:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "25/02/2026",
-      "end_date": "25/02/2026",
-      "end_time": "20:20:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/54/image/dark",
-      "eventName": "LaLiga 2",
-      "id": 29,
-      "links": [
-        {
-          "api": "d69894c7b729c5d1e85893e5e6cfcb0f:db0d53f871f5d2ef91d3a112c7ec9f30",
-          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/tcninbbnt5/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd",
-          "name": "Laliga Hypermotion ES",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2869/image",
-      "teamAName": "AD Ceuta",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2850/image",
-      "teamBName": "Córdoba",
-      "time": "18:00:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "25/02/2026",
-      "end_date": "25/02/2026",
-      "end_time": "22:20:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/7/image/dark",
-      "eventName": "UEFA Champions League",
-      "id": 30,
-      "links": [
-        {
-          "api": "ab43088dceee340be7c933525c974191:e0822adf56dc6e47a189f7c2144e1b86",
-          "link": "https://abkv2pvaaaaaaaame22cuxst5r554.bia-cf.live.pv-cdn.net/gru-nitro/live/clients/dash/enc/r5y8extnum/out/v1/0a5fbcc3fc124cf9b996201087a58b2f/cenc.mpd",
-          "name": "TNT BRAZIL FHD",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://red2.wecanfix8.space/playlist/45810/load-playlist?|Referer=https://gooz.aapmains.net/",
-          "name": "TNT SPORTS",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "3501bd323a6a35c28eb7654bf298b9aa:2db4c8089d627e1b2c480c57baa86a7b",
-          "link": "https://cdn3.skygo.mn/live/disk1/PSN3/DASH-FTA/PSN3.mpd",
-          "name": "PSN SPORTS",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://26.hls-syria.live/live/bein1",
-          "name": "beIN ARABIC",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/1644/image",
-      "teamAName": "Paris Saint-Germain",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/1653/image",
-      "teamBName": "AS Monaco",
-      "time": "20:00:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "25/02/2026",
-      "end_date": "25/02/2026",
-      "end_time": "22:20:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/7/image/dark",
-      "eventName": "UEFA Champions League",
-      "id": 31,
-      "links": [
-        {
-          "api": "26a61860ec370b099baff034bbb7ae82:6dfa730bcca7baa220d9525bf49439fa",
-          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/spbbd6tztz/out/v1/8e4dbe981d574983a5a0c96b874cc5b9/cenc.mpd",
-          "name": "TNT BRAZIL FHD",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "3501bd323a6a35c28eb7654bf298b9aa:2db4c8089d627e1b2c480c57baa86a7b",
-          "link": "https://cdn3.skygo.mn/live/disk1/SPSPrime/DASH-FTA/SPSPrime.mpd",
-          "name": "PSN SPORTS",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://plf1.ionisglide.space/playlist/45809/load-playlist?|Referer=https://gooz.aapmains.net/",
-          "name": "TNT SPORTS",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://areagame.net/1111.php",
-          "name": "HD SERVER",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://26.hls-syria.live/live/bein2",
-          "name": "beIN ARABIC",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://grand-s-v2.faggotsports.tv/pl_120/207676-6827314-1/chunklist.m3u8|Referer=https://hmembeds.one/",
-          "name": "FHD SERVER ",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://daffodil.lifesharper.com/tudn.m3u8",
-          "name": "TUDN SPORTS",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2829/image",
-      "teamAName": "Real Madrid",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3006/image",
-      "teamBName": "Benfica",
-      "time": "20:00:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "25/02/2026",
-      "end_date": "25/02/2026",
-      "end_time": "20:05:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/7/image/dark",
-      "eventName": "UEFA Champions League",
-      "id": 32,
-      "links": [
-        {
-          "api": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
-          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
-          "name": "CBS NETWORK",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "3501bd323a6a35c28eb7654bf298b9aa:2db4c8089d627e1b2c480c57baa86a7b",
-          "link": "https://cdn4.skygo.mn/live/disk1/SPSPlay/DASH-FTA/SPSPlay.mpd",
-          "name": "PSN SPORTS FHD",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://red2.pulselyra.shop/playlist/45805/load-playlist?|Referer=https://gooz.aapmains.net/",
-          "name": "TNT SPORTS HD",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://areagame.net/1111.php",
-          "name": "HD SERVER",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://sonymtmnew.akamaized.net/hls/live/2018458/DAI10ME-V3/master.m3u8?hdnea=exp=1772065804~acl=/*~id=71365793469796673260162979143590~hmac=3f2793f41028f1cf7000bc51c89bf2bd0b37004965aaaa80067e4868f4ee297a|User-Agent=com.sonyliv/6.22.4 (Android 9; en_GB; mt9255l; Build/PPR2.180905.006.A1)&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com",
-          "name": "SonyLiv [ENG]",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://sonymtmnew.akamaized.net/hls/live/2105079/DAI08ME-V3/master.m3u8?hdnea=exp=1772065804~acl=/*~id=71365793469796673260162979143590~hmac=3f2793f41028f1cf7000bc51c89bf2bd0b37004965aaaa80067e4868f4ee297a|User-Agent=com.sonyliv/6.22.4 (Android 9; en_GB; mt9255l; Build/PPR2.180905.006.A1)&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com",
-          "name": "SonyLiv [HIN]",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2686/image",
-      "teamAName": "Atalanta",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2673/image",
-      "teamBName": "Borussia Dortmund",
-      "time": "17:45:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "25/02/2026",
-      "end_date": "25/02/2026",
-      "end_time": "22:20:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/7/image/dark",
-      "eventName": "UEFA Champions League",
-      "id": 33,
-      "links": [
-        {
-          "api": "2613c87825b69f7cbda631310857cff9:7ac6e2642934d4502fd20e763fa6447f",
-          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/dv6u4wyiie/out/v1/b3588cbd51284a0bae4bf28e325925b8/cenc.mpd",
-          "name": "TNT BRAZIL FHD",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "3501bd323a6a35c28eb7654bf298b9aa:2db4c8089d627e1b2c480c57baa86a7b",
-          "link": "https://cdn3.skygo.mn/live/disk1/SPSFight/DASH-FTA/SPSFight.mpd",
-          "name": "PSN SPORTS",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://red2.pulselyra.shop/playlist/45808/load-playlist?|Referer=https://gooz.aapmains.net",
-          "name": "TNT SPORTS",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://grand-s-v2.faggotsports.tv/pl_120/207676-6827320-1/chunklist.m3u8|Referer=https://hmembeds.one/",
-          "name": "FHD SERVER ",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2687/image",
-      "teamAName": "Juventus",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3061/image",
-      "teamBName": "Galatasaray",
-      "time": "20:00:00",
-      "visible": true
-    },
-    {
       "category": "Cricket",
       "date": "26/02/2026",
       "end_date": "",
@@ -479,8 +140,46 @@
       "id": 34,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "baafdb8ebcbbc0655332291da6f121da:60ac892e0ea0b2c46fc6837c97ed641a",
+          "link": "https://live-pv-ta.amazon.fastly-edge.com/syd-nitro/live/clients/dash/enc/wwrmho82pc/out/v1/d7130f460d41486ea7e8e3eb45f0522f/cenc.mpd",
+          "name": "PRIME VIDEO",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "c2b62ac895c98d017a3d052b81f1df6a:287e12308bc12010e93df2517c8a9069",
+          "link": "https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/pv5ebsf2wy/out/v1/e4c42e4a662a43d5a77b07dcf9696206/cenc.mpd",
+          "name": "Willow [Ad Free]",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://bl.rutube.ru/livestream/9585fdae92af45f113fdcc9f6c4ba442/index.m3u8?s=KgZtccuHrnaljGaN7cmUwA&e=2068506973&scheme=https",
+          "name": "SKY SPORTS HD",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://live-pull.aisports.mobi/moviebox/device01/playlist.m3u8|Referer=https://sportslivenow.top/",
+          "name": "JIO HOTSTAR",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://stream1.liveland.af/hls/tv/tolo-sport/chunklist3.m3u8?|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+          "name": "HD SERVER ",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://cdn39591467.blazingcdn.net/dx14fhd/index.m3u8|Referer=https://yahoo.com/&Origin=https://yahoo.com&User-Agent=AppleCoreMedia/1.0.0.23D5103d (iPhone; U; CPU OS 26_3 like Mac OS X; en_us)",
+          "name": "WILLOW HD",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/187760/image",
@@ -530,6 +229,27 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/187745/image",
       "teamBName": "Zimbabwe",
       "time": "13:30:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "26/02/2026",
+      "end_date": "26/02/2026",
+      "end_time": "16:20:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/1900/image/dark",
+      "eventName": "Indian Super League",
+      "id": 37,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/174594/image",
+      "teamAName": "FC Goa",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/331840/image",
+      "teamBName": "Sporting Delhi",
+      "time": "14:00:00",
       "visible": true
     }
   ]
