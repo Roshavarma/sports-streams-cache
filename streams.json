@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-02-26T10:05:52.044772",
-  "event_count": 7,
+  "last_updated": "2026-02-26T11:05:58.302552",
+  "event_count": 23,
   "events": [
     {
       "category": "Boxing",
@@ -250,6 +250,342 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/331840/image",
       "teamBName": "Sporting Delhi",
       "time": "14:00:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "26/02/2026",
+      "end_date": "26/02/2026",
+      "end_time": "22:20:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/679/image/dark",
+      "eventName": "UEFA Europa League",
+      "id": 38,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2890/image",
+      "teamAName": "KRC Genk",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2032/image",
+      "teamBName": "GNK Dinamo Zagreb",
+      "time": "20:00:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "26/02/2026",
+      "end_date": "26/02/2026",
+      "end_time": "20:05:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/679/image/dark",
+      "eventName": "UEFA Europa League",
+      "id": 39,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/1925/image",
+      "teamAName": "Ferencváros TC",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/43840/image",
+      "teamBName": "Ludogorets",
+      "time": "17:45:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "26/02/2026",
+      "end_date": "26/02/2026",
+      "end_time": "22:20:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/17015/image/dark",
+      "eventName": "UEFA Conference League",
+      "id": 40,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2950/image",
+      "teamAName": "AZ Alkmaar",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/262228/image",
+      "teamBName": "FC Noah",
+      "time": "20:00:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "26/02/2026",
+      "end_date": "26/02/2026",
+      "end_time": "22:20:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/17015/image/dark",
+      "eventName": "UEFA Conference League",
+      "id": 41,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2446/image",
+      "teamAName": "FC Lausanne-Sport",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2207/image",
+      "teamBName": "SK Sigma Olomouc",
+      "time": "20:00:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "26/02/2026",
+      "end_date": "26/02/2026",
+      "end_time": "20:05:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/17015/image/dark",
+      "eventName": "UEFA Conference League",
+      "id": 42,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3053/image",
+      "teamAName": "Samsunspor",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/5413/image",
+      "teamBName": "KF Shkëndija",
+      "time": "17:45:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "26/02/2026",
+      "end_date": "26/02/2026",
+      "end_time": "20:05:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/17015/image/dark",
+      "eventName": "UEFA Conference League",
+      "id": 43,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2413/image",
+      "teamAName": "NK Celje",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/229755/image",
+      "teamBName": "FC Drita",
+      "time": "17:45:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "26/02/2026",
+      "end_date": "26/02/2026",
+      "end_time": "20:05:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/17015/image/dark",
+      "eventName": "UEFA Conference League",
+      "id": 44,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2039/image",
+      "teamAName": "HNK Rijeka",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3395/image",
+      "teamBName": "Omonia Nicosia",
+      "time": "17:45:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "26/02/2026",
+      "end_date": "26/02/2026",
+      "end_time": "20:05:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/679/image/dark",
+      "eventName": "UEFA Europa League",
+      "id": 45,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2677/image",
+      "teamAName": "VfB Stuttgart",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2352/image",
+      "teamBName": "Celtic",
+      "time": "17:45:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "26/02/2026",
+      "end_date": "26/02/2026",
+      "end_time": "20:05:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/679/image/dark",
+      "eventName": "UEFA Europa League",
+      "id": 46,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/4502/image",
+      "teamAName": "FC Viktoria Plzeň",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3248/image",
+      "teamBName": "Panathinaikos FC",
+      "time": "17:45:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "26/02/2026",
+      "end_date": "26/02/2026",
+      "end_time": "22:20:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/17015/image/dark",
+      "eventName": "UEFA Conference League",
+      "id": 47,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/7/image",
+      "teamAName": "Crystal Palace",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/5178/image",
+      "teamBName": "HŠK Zrinjski Mostar",
+      "time": "20:00:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "26/02/2026",
+      "end_date": "26/02/2026",
+      "end_time": "20:05:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/679/image/dark",
+      "eventName": "UEFA Europa League",
+      "id": 48,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/5149/image",
+      "teamAName": "FK Crvena zvezda",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/1643/image",
+      "teamBName": "Lille",
+      "time": "17:45:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "26/02/2026",
+      "end_date": "27/02/2026",
+      "end_time": "00:20:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/325/image/dark",
+      "eventName": "Brasileirão Betano",
+      "id": 49,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/1968/image",
+      "teamAName": "Santos",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/1974/image",
+      "teamBName": "Vasco da Gama",
+      "time": "22:00:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "26/02/2026",
+      "end_date": "26/02/2026",
+      "end_time": "22:20:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/17015/image/dark",
+      "eventName": "UEFA Conference League",
+      "id": 50,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3121/image",
+      "teamAName": "Lech Poznań",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2244/image",
+      "teamBName": "Kuopion Palloseura",
+      "time": "20:00:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "26/02/2026",
+      "end_date": "26/02/2026",
+      "end_time": "22:20:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/679/image/dark",
+      "eventName": "UEFA Europa League",
+      "id": 51,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2685/image",
+      "teamAName": "Bologna",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/1159/image",
+      "teamBName": "SK Brann",
+      "time": "20:00:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "26/02/2026",
+      "end_date": "26/02/2026",
+      "end_time": "20:05:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/17015/image/dark",
+      "eventName": "UEFA Conference League",
+      "id": 52,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2693/image",
+      "teamAName": "Fiorentina",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/7691/image",
+      "teamBName": "Jagiellonia Białystok",
+      "time": "17:45:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "26/02/2026",
+      "end_date": "26/02/2026",
+      "end_time": "22:20:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/679/image/dark",
+      "eventName": "UEFA Europa League",
+      "id": 53,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2821/image",
+      "teamAName": "Celta Vigo",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3251/image",
+      "teamBName": "PAOK",
+      "time": "20:00:00",
       "visible": true
     }
   ]
