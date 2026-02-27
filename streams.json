@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-02-27T11:20:29.722717",
-  "event_count": 13,
+  "last_updated": "2026-02-27T11:51:49.786491",
+  "event_count": 15,
   "events": [
     {
       "category": "Boxing",
@@ -344,6 +344,34 @@
           "name": "FANCODE [ENG]",
           "scheme": 0,
           "tokenApi": ""
+        },
+        {
+          "api": "e180decaf610482c8b62af8ac9dcc20d:3f552936a4c79d121c4fae4647009f18",
+          "link": "https://in-mc-flive.fancode.com/mumbai/140446_hindi_dash_69097_1drmta-di_h264/index.mpd",
+          "name": "FANCODE [HIN]",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "54bae023cf9042a5820659f1dd505b81:8fc009442453c0fcc902c994a45eda72",
+          "link": "https://in-mc-flive.fancode.com/mumbai/140446_malayalam_dash_79618_1drmta-di_h264/index.mpd",
+          "name": "FANCODE [MAL]",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "a3b752b78f9343099dc317d930a5ccda:0ba74bd0775bad8c28159dc149bbd3a8",
+          "link": "https://in-mc-flive.fancode.com/mumbai/140446_bengali_dash_48329_1drmta-di_h264/index.mpd",
+          "name": "FANCODE [BAN]",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "cf568fb0ea054e839a87a79e12e24d19:d47dcb08ac28d20ede339ee3b383f89b",
+          "link": "https://bd-mc-flive.fancode.com/delhi/140446_english_dash_93802_1drmta-di_h264/index.mpd",
+          "name": "FANCODE [BD]",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://images.fancode.com/skillup-uploads/cms-media/ISL-Tour-Logo.png?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvY21zLW1lZGlhL0lTTC1Ub3VyLUxvZ28ucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjE4MCwiaGVpZ2h0IjoxODB9LCJ3ZWJwIjp7InF1YWxpdHkiOjYwLCJsb3NzbGVzcyI6ZmFsc2V9fSwib3V0cHV0Rm9ybWF0Ijoid2VicCJ9",
@@ -351,6 +379,48 @@
       "teamBFlag": "https://images.fancode.com/skillup-uploads/cms-media/ISL-Tour-Logo.png?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvY21zLW1lZGlhL0lTTC1Ub3VyLUxvZ28ucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjE4MCwiaGVpZ2h0IjoxODB9LCJ3ZWJwIjp7InF1YWxpdHkiOjYwLCJsb3NzbGVzcyI6ZmFsc2V9fSwib3V0cHV0Rm9ybWF0Ijoid2VicCJ9",
       "teamBName": "ISL",
       "time": "11:30:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "27/02/2026",
+      "end_date": "27/02/2026",
+      "end_time": "19:20:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/52/image/dark",
+      "eventName": "Trendyol Süper Lig",
+      "id": 45,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3086/image",
+      "teamAName": "Başakşehir FK",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3085/image",
+      "teamBName": "Konyaspor",
+      "time": "17:00:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "27/02/2026",
+      "end_date": "27/02/2026",
+      "end_time": "19:20:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/52/image/dark",
+      "eventName": "Trendyol Süper Lig",
+      "id": 46,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3051/image",
+      "teamAName": "Trabzonspor",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/4954/image",
+      "teamBName": "Fatih Karagümrük",
+      "time": "17:00:00",
       "visible": true
     }
   ]
