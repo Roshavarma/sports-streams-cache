@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-02-27T09:52:48.010785",
-  "event_count": 4,
+  "last_updated": "2026-02-27T10:38:07.621989",
+  "event_count": 12,
   "events": [
     {
       "category": "Boxing",
@@ -152,6 +152,174 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/213119/image",
       "teamBName": "India Women",
       "time": "03:50:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "27/02/2026",
+      "end_date": "27/02/2026",
+      "end_time": "21:50:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/35/image/dark",
+      "eventName": "Bundesliga",
+      "id": 36,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2600/image",
+      "teamAName": "FC Augsburg",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2671/image",
+      "teamBName": "1. FC Köln",
+      "time": "19:30:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "27/02/2026",
+      "end_date": "27/02/2026",
+      "end_time": "21:20:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/955/image/dark",
+      "eventName": "Saudi Pro League",
+      "id": 37,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/168086/image",
+      "teamAName": "Al-Hazem",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/34318/image",
+      "teamBName": "Al-Ettifaq",
+      "time": "19:00:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "27/02/2026",
+      "end_date": "27/02/2026",
+      "end_time": "22:20:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/8/image/dark",
+      "eventName": "LaLiga",
+      "id": 38,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2849/image",
+      "teamAName": "Levante UD",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2885/image",
+      "teamBName": "Deportivo Alavés",
+      "time": "20:00:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "27/02/2026",
+      "end_date": "27/02/2026",
+      "end_time": "19:50:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/44/image/dark",
+      "eventName": "2. Bundesliga",
+      "id": 39,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2588/image",
+      "teamAName": "Fortuna Düsseldorf",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2542/image",
+      "teamBName": "VfL Bochum 1848",
+      "time": "17:30:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "27/02/2026",
+      "end_date": "27/02/2026",
+      "end_time": "21:20:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/955/image/dark",
+      "eventName": "Saudi Pro League",
+      "id": 40,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/34313/image",
+      "teamAName": "Al-Shabab",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/21895/image",
+      "teamBName": "Al-Hilal",
+      "time": "19:00:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "27/02/2026",
+      "end_date": "27/02/2026",
+      "end_time": "21:20:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/955/image/dark",
+      "eventName": "Saudi Pro League",
+      "id": 41,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/34315/image",
+      "teamAName": "Al-Ittihad",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/167228/image",
+      "teamBName": "Al-Khaleej",
+      "time": "19:00:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "27/02/2026",
+      "end_date": "27/02/2026",
+      "end_time": "22:20:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/17/image/dark",
+      "eventName": "Premier League",
+      "id": 42,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3/image",
+      "teamAName": "Wolverhampton",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/40/image",
+      "teamBName": "Aston Villa",
+      "time": "20:00:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "27/02/2026",
+      "end_date": "27/02/2026",
+      "end_time": "22:05:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/34/image/dark",
+      "eventName": "Ligue 1",
+      "id": 43,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/1659/image",
+      "teamAName": "RC Strasbourg",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/1648/image",
+      "teamBName": "RC Lens",
+      "time": "19:45:00",
       "visible": true
     }
   ]
