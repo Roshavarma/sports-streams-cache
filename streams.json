@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-02-27T15:42:24.548618",
-  "event_count": 16,
+  "last_updated": "2026-02-27T16:21:31.717890",
+  "event_count": 18,
   "events": [
     {
       "category": "Boxing",
@@ -227,8 +227,11 @@
       "id": 39,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
+          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
+          "name": "beIN ENGLISH",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/2588/image",
@@ -391,8 +394,11 @@
       "id": 45,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "",
+          "link": "https://smarthard.click/hls/DcTxPWHOB5aM/index.m3u8",
+          "name": "beIN SPORTS",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/3086/image",
@@ -487,6 +493,54 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/187755/image",
       "teamBName": "New Zealand",
       "time": "13:30:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "27/02/2026",
+      "end_date": "27/02/2026",
+      "end_time": "19:50:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/44/image/dark",
+      "eventName": "2. Bundesliga",
+      "id": 48,
+      "links": [
+        {
+          "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
+          "name": "beIN ENGLISH",
+          "scheme": 0,
+          "tokenApi": ""
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2595/image",
+      "teamAName": "SG Dynamo Dresden",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2576/image",
+      "teamBName": "Darmstadt 98",
+      "time": "17:30:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "27/02/2026",
+      "end_date": "27/02/2026",
+      "end_time": "21:05:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/238/image/dark",
+      "eventName": "Liga Portugal Betclic",
+      "id": 49,
+      "links": [
+        {
+          "api": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
+          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
+          "name": "SportDigital Fussball",
+          "scheme": 0,
+          "tokenApi": ""
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3002/image",
+      "teamAName": "FC Porto",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/25777/image",
+      "teamBName": "FC Arouca",
+      "time": "18:45:00",
       "visible": true
     }
   ]
