@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-02-27T10:38:07.621989",
-  "event_count": 12,
+  "last_updated": "2026-02-27T11:20:29.722717",
+  "event_count": 13,
   "events": [
     {
       "category": "Boxing",
@@ -320,6 +320,37 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/1648/image",
       "teamBName": "RC Lens",
       "time": "19:45:00",
+      "visible": true
+    },
+    {
+      "category": "Football ",
+      "date": "27/02/2026",
+      "end_date": "",
+      "end_time": "",
+      "eventLogo": "o",
+      "eventName": "ISL vs ISL",
+      "id": 44,
+      "links": [
+        {
+          "api": "065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2",
+          "link": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
+          "name": "FANCODE FHD",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "123af6f785604f73a7cd170cf9039d74:a16352a92bd1595762f91d83c4e74901",
+          "link": "https://in-mc-flive.fancode.com/mumbai/140445_english_dash_5499_1drmta-di_h264/index.mpd",
+          "name": "FANCODE [ENG]",
+          "scheme": 0,
+          "tokenApi": ""
+        }
+      ],
+      "teamAFlag": "https://images.fancode.com/skillup-uploads/cms-media/ISL-Tour-Logo.png?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvY21zLW1lZGlhL0lTTC1Ub3VyLUxvZ28ucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjE4MCwiaGVpZ2h0IjoxODB9LCJ3ZWJwIjp7InF1YWxpdHkiOjYwLCJsb3NzbGVzcyI6ZmFsc2V9fSwib3V0cHV0Rm9ybWF0Ijoid2VicCJ9",
+      "teamAName": "ISL",
+      "teamBFlag": "https://images.fancode.com/skillup-uploads/cms-media/ISL-Tour-Logo.png?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvY21zLW1lZGlhL0lTTC1Ub3VyLUxvZ28ucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjE4MCwiaGVpZ2h0IjoxODB9LCJ3ZWJwIjp7InF1YWxpdHkiOjYwLCJsb3NzbGVzcyI6ZmFsc2V9fSwib3V0cHV0Rm9ybWF0Ijoid2VicCJ9",
+      "teamBName": "ISL",
+      "time": "11:30:00",
       "visible": true
     }
   ]
