@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-27T14:01:40.438894",
+  "last_updated": "2026-02-27T14:54:57.808319",
   "event_count": 16,
   "events": [
     {
@@ -325,22 +325,22 @@
     {
       "category": "Football ",
       "date": "27/02/2026",
-      "end_date": "",
-      "end_time": "",
+      "end_date": "27/02/2026",
+      "end_time": "16:10:00",
       "eventLogo": "o",
       "eventName": "ISL vs ISL",
       "id": 44,
       "links": [
         {
-          "api": "065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2",
-          "link": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
+          "api": "7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe",
+          "link": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
           "name": "FANCODE FHD",
           "scheme": 0,
           "tokenApi": ""
         },
         {
-          "api": "123af6f785604f73a7cd170cf9039d74:a16352a92bd1595762f91d83c4e74901",
-          "link": "https://in-mc-flive.fancode.com/mumbai/140445_english_dash_5499_1drmta-di_h264/index.mpd",
+          "api": "895a8e55a03f485283280795816ed10d:0188afe4fd8389ddd9b764a0ffbcb7b2",
+          "link": "https://in-mc-flive.fancode.com/mumbai/140446_english_dash_4478_1drmta-di_h264/index.mpd",
           "name": "FANCODE [ENG]",
           "scheme": 0,
           "tokenApi": ""
@@ -426,8 +426,8 @@
     {
       "category": "Cricket",
       "date": "27/02/2026",
-      "end_date": "",
-      "end_time": "",
+      "end_date": "27/02/2026",
+      "end_time": "17:30:00",
       "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11185/image/dark",
       "eventName": "ICC T20 World Cup",
       "id": 47,
