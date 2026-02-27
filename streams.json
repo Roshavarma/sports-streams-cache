@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-02-27T12:54:31.412403",
-  "event_count": 15,
+  "last_updated": "2026-02-27T14:01:40.438894",
+  "event_count": 16,
   "events": [
     {
       "category": "Boxing",
@@ -421,6 +421,72 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/4954/image",
       "teamBName": "Fatih Karagümrük",
       "time": "17:00:00",
+      "visible": true
+    },
+    {
+      "category": "Cricket",
+      "date": "27/02/2026",
+      "end_date": "",
+      "end_time": "",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11185/image/dark",
+      "eventName": "ICC T20 World Cup",
+      "id": 47,
+      "links": [
+        {
+          "api": "cde6fe34dc35920e0eb9d38df5fbb1f4:e6bd95ef158ffea3600ee1696b3e117d",
+          "link": "https://a201aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/0pz3x8ntxv/out/v1/0cbb5448a61d47049a12ca78a3863eb7/cenc.mpd",
+          "name": "WILLOW - AQ",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "baafdb8ebcbbc0655332291da6f121da:60ac892e0ea0b2c46fc6837c97ed641a",
+          "link": "https://live-pv-ta.amazon.fastly-edge.com/syd-nitro/live/clients/dash/enc/wwrmho82pc/out/v1/d7130f460d41486ea7e8e3eb45f0522f/cenc.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36&Referer=https://www.primevideo.com/&Origin=https://www.primevideo.com",
+          "name": "PRIME VIDEO - AQ",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://bl.rutube.ru/livestream/9585fdae92af45f113fdcc9f6c4ba442/index.m3u8?s=KgZtccuHrnaljGaN7cmUwA&e=2068506973&scheme=https",
+          "name": "SKY SPORTS",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://cdn16348712.blazingcdn.net/dx14fhd/index.m3u8|Referer=https://google.com/&Origin=https://google.com&User-Agent=AppleCoreMedia/1.0.0.23D5103d (iPhone; U; CPU OS 26_3 like Mac OS X; en_us)",
+          "name": "WILLOW - LQ",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://cors-proxy.cooks.fyi/https://tgn.bozztv.com/eshgtv-dvrfl05/gin-lemar/index.m3u8",
+          "name": "LEMAR TV HD",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://stream1.liveland.af/hls/tv/tolo-sport/chunklist3.m3u8?|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+          "name": "HD SERVER ",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "http://103.99.249.139/starsport2/index.m3u8",
+          "name": "Star Sport HIN",
+          "scheme": 0,
+          "tokenApi": ""
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/187757/image",
+      "teamAName": "England",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/187755/image",
+      "teamBName": "New Zealand",
+      "time": "13:30:00",
       "visible": true
     }
   ]
