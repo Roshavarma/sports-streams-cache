@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-02-28T09:36:40.808014",
-  "event_count": 23,
+  "last_updated": "2026-02-28T09:55:01.276545",
+  "event_count": 44,
   "events": [
     {
       "category": "Boxing",
@@ -586,6 +586,447 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/1644/image",
       "teamBName": "Paris Saint-Germain",
       "time": "20:05:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "28/02/2026",
+      "end_date": "28/02/2026",
+      "end_time": "21:20:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/955/image/dark",
+      "eventName": "Saudi Pro League",
+      "id": 64,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/395831/image",
+      "teamAName": "Al-Najma SC",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/336456/image",
+      "teamBName": "Al-Okhdood",
+      "time": "19:00:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "28/02/2026",
+      "end_date": "28/02/2026",
+      "end_time": "22:20:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/54/image/dark",
+      "eventName": "LaLiga 2",
+      "id": 65,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/5067/image",
+      "teamAName": "CD Castellón",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2835/image",
+      "teamBName": "Real Racing Club",
+      "time": "20:00:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "28/02/2026",
+      "end_date": "28/02/2026",
+      "end_time": "19:50:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/35/image/dark",
+      "eventName": "Bundesliga",
+      "id": 66,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2673/image",
+      "teamAName": "Borussia Dortmund",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2672/image",
+      "teamBName": "FC Bayern München",
+      "time": "17:30:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "28/02/2026",
+      "end_date": "28/02/2026",
+      "end_time": "20:20:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/34/image/dark",
+      "eventName": "Ligue 1",
+      "id": 67,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/1653/image",
+      "teamAName": "AS Monaco",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/1684/image",
+      "teamBName": "Angers",
+      "time": "18:00:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "28/02/2026",
+      "end_date": "28/02/2026",
+      "end_time": "22:20:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/37/image/dark",
+      "eventName": "VriendenLoterij Eredivisie",
+      "id": 68,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2962/image",
+      "teamAName": "NEC Nijmegen",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2957/image",
+      "teamBName": "Fortuna Sittard",
+      "time": "20:00:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "28/02/2026",
+      "end_date": "28/02/2026",
+      "end_time": "21:20:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/955/image/dark",
+      "eventName": "Saudi Pro League",
+      "id": 69,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/168094/image",
+      "teamAName": "Al-Fayha",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/23400/image",
+      "teamBName": "Al-Nassr",
+      "time": "19:00:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "28/02/2026",
+      "end_date": "28/02/2026",
+      "end_time": "20:05:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/37/image/dark",
+      "eventName": "VriendenLoterij Eredivisie",
+      "id": 70,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2977/image",
+      "teamAName": "Heracles Almelo",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2952/image",
+      "teamBName": "PSV Eindhoven",
+      "time": "17:45:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "28/02/2026",
+      "end_date": "28/02/2026",
+      "end_time": "21:20:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/955/image/dark",
+      "eventName": "Saudi Pro League",
+      "id": 71,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/56027/image",
+      "teamAName": "Al-Qadsiah",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/56021/image",
+      "teamBName": "Al-Taawoun",
+      "time": "19:00:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "28/02/2026",
+      "end_date": "28/02/2026",
+      "end_time": "19:50:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/54/image/dark",
+      "eventName": "LaLiga 2",
+      "id": 72,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/33779/image",
+      "teamAName": "Granada",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2830/image",
+      "teamBName": "Málaga",
+      "time": "17:30:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "28/02/2026",
+      "end_date": "28/02/2026",
+      "end_time": "22:05:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/23/image/dark",
+      "eventName": "Serie A",
+      "id": 73,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2697/image",
+      "teamAName": "Inter",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2713/image",
+      "teamBName": "Genoa",
+      "time": "19:45:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "28/02/2026",
+      "end_date": "28/02/2026",
+      "end_time": "17:50:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/37/image/dark",
+      "eventName": "VriendenLoterij Eredivisie",
+      "id": 74,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2964/image",
+      "teamAName": "SC Heerenveen",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2960/image",
+      "teamBName": "Sparta Rotterdam",
+      "time": "15:30:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "28/02/2026",
+      "end_date": "28/02/2026",
+      "end_time": "17:35:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/54/image/dark",
+      "eventName": "LaLiga 2",
+      "id": 75,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2815/image",
+      "teamAName": "Real Zaragoza",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2854/image",
+      "teamBName": "Burgos Club de Fútbol",
+      "time": "15:15:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "28/02/2026",
+      "end_date": "28/02/2026",
+      "end_time": "18:20:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/34/image/dark",
+      "eventName": "Ligue 1",
+      "id": 76,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/1658/image",
+      "teamAName": "Stade Rennais",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/1681/image",
+      "teamBName": "Toulouse",
+      "time": "16:00:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "28/02/2026",
+      "end_date": "28/02/2026",
+      "end_time": "19:50:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/8/image/dark",
+      "eventName": "LaLiga",
+      "id": 77,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2826/image",
+      "teamAName": "Mallorca",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2824/image",
+      "teamBName": "Real Sociedad",
+      "time": "17:30:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "28/02/2026",
+      "end_date": "28/02/2026",
+      "end_time": "19:50:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/54/image/dark",
+      "eventName": "LaLiga 2",
+      "id": 78,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2831/image",
+      "teamAName": "Real Valladolid",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/24265/image",
+      "teamBName": "Huesca",
+      "time": "17:30:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "28/02/2026",
+      "end_date": "28/02/2026",
+      "end_time": "21:20:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/955/image/dark",
+      "eventName": "Saudi Pro League",
+      "id": 79,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/530631/image",
+      "teamAName": "Neom SC",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/269199/image",
+      "teamBName": "Al-Kholood",
+      "time": "19:00:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "28/02/2026",
+      "end_date": "28/02/2026",
+      "end_time": "19:50:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/17/image/dark",
+      "eventName": "Premier League",
+      "id": 80,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/34/image",
+      "teamAName": "Leeds United",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/17/image",
+      "teamBName": "Manchester City",
+      "time": "17:30:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "28/02/2026",
+      "end_date": "28/02/2026",
+      "end_time": "19:20:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/52/image/dark",
+      "eventName": "Trendyol Süper Lig",
+      "id": 81,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3054/image",
+      "teamAName": "Göztepe",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/7040/image",
+      "teamBName": "Eyüpspor",
+      "time": "17:00:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "28/02/2026",
+      "end_date": "28/02/2026",
+      "end_time": "19:20:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/23/image/dark",
+      "eventName": "Serie A",
+      "id": 82,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2701/image",
+      "teamAName": "Hellas Verona",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2714/image",
+      "teamBName": "Napoli",
+      "time": "17:00:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "28/02/2026",
+      "end_date": "28/02/2026",
+      "end_time": "19:20:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/52/image/dark",
+      "eventName": "Trendyol Süper Lig",
+      "id": 83,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3061/image",
+      "teamAName": "Galatasaray",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/6362/image",
+      "teamBName": "Alanyaspor",
+      "time": "17:00:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "28/02/2026",
+      "end_date": "28/02/2026",
+      "end_time": "22:20:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/8/image/dark",
+      "eventName": "LaLiga",
+      "id": 84,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2851/image",
+      "teamAName": "Real Oviedo",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2836/image",
+      "teamBName": "Atlético Madrid",
+      "time": "20:00:00",
       "visible": true
     }
   ]
