@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-02-28T16:57:07.783623",
+  "last_updated": "2026-02-28T17:29:57.442265",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "10:20:21 PM 28-02-2026",
+    "Last update time": "10:55:19 PM 28-02-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -705,7 +705,7 @@
           },
           {
             "api": "",
-            "link": "https://instreams.pro/US/NBA5/index.m3u8?st=SportzX|Referer=https://instreams.click/&Origin=https://instreams.click",
+            "link": "https://instreams.pro/US/NBA4/index.m3u8?st=SportzX|Referer=https://instreams.click/&Origin=https://instreams.click",
             "title": "HD SERVER",
             "type": "0"
           },
@@ -756,7 +756,7 @@
           },
           {
             "api": "",
-            "link": "https://smarthard.click/hls/DfF4IkIqKvOP/index.m3u8",
+            "link": "https://smarthard.click/hls/kaT8Lu6TJc1F/index.m3u8",
             "title": "SD SERVER",
             "type": "0"
           },
@@ -1442,9 +1442,33 @@
         "cat": "EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
         "channels_data": [
           {
+            "api": "3501bd323a6a35c28eb7654bf298b9aa:2db4c8089d627e1b2c480c57baa86a7b",
+            "link": "https://cdn4.skygo.mn/live/disk1/SPSPlay/DASH-FTA/SPSPlay.mpd",
+            "title": "PSN SPORTS",
+            "type": "1"
+          },
+          {
+            "api": "ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1",
+            "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd",
+            "title": "TELEMUNDO FHD",
+            "type": "1"
+          },
+          {
             "api": "",
-            "link": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4",
-            "title": "SPORTIFy Live",
+            "link": "https://bl.rutube.ru/livestream/9585fdae92af45f113fdcc9f6c4ba442/index.m3u8?s=KgZtccuHrnaljGaN7cmUwA&e=2068506973&scheme=https",
+            "title": "SKY MAIN EVENT",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://daffodil.xn--1000-ugoa0hsb9a0hb.com/now.m3u8",
+            "title": "NOW SPORTS PL",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://storage.googleapis.com/uncetrunvover1/mux_video_ts1/index-1.m3u8",
+            "title": "SKY SPORTS HD",
             "type": "0"
           }
         ],
@@ -1463,45 +1487,6 @@
         "image": "o",
         "publish": "1",
         "title": "Leeds vs Manchester City"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "Serie A 🇮🇹",
-        "channels_data": [
-          {
-            "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
-            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
-            "title": "beIN ENGLISH",
-            "type": "1"
-          },
-          {
-            "api": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811",
-            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
-            "title": "FOX DEPORTES",
-            "type": "1"
-          },
-          {
-            "api": "",
-            "link": "https://grand-s-v001.faggotsports.tv/out/v1/81b11c7f350f5d34924580e8f00fee05/mix-stream.m3u8|Referer=https://hmembeds.one/",
-            "title": "FUBO SPORTS",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/02/28 16:00:00 +0000",
-          "eventName": "Como vs Lecce",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/02/28 14:00:00 +0000",
-          "teamA": "Como",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2704/image",
-          "teamB": "Lecce",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2689/image"
-        },
-        "id": "402",
-        "image": "o",
-        "publish": "1",
-        "title": "Como vs Lecce"
       },
       {
         "adsLimit": "0",
@@ -1619,10 +1604,22 @@
             "type": "1"
           },
           {
+            "api": "",
+            "link": "https://601.xn--1000-ugoa0hsb9a0hb.com/one.m3u8",
+            "title": "ONE SPORTS",
+            "type": "0"
+          },
+          {
             "api": "0:0",
             "link": "https://bbb.exoadash.com/TVD6411/index.mpd",
             "title": "ELEVEN SPORTS",
             "type": "1"
+          },
+          {
+            "api": "",
+            "link": "https://601.xn--1000-ugoa0hsb9a0hb.com/football.m3u8",
+            "title": "SKY FOOTBALL",
+            "type": "0"
           }
         ],
         "eventInfo": {
@@ -1640,51 +1637,6 @@
         "image": "o",
         "publish": "1",
         "title": "Borussia Dortmund vs Bayern München"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "Bundesliga 🇩🇪",
-        "channels_data": [
-          {
-            "api": "3501bd323a6a35c28eb7654bf298b9aa:2db4c8089d627e1b2c480c57baa86a7b",
-            "link": "https://cdn3.skygo.mn/live/disk1/SPSPlus/DASH-FTA/SPSPlus.mpd",
-            "title": "PSN SPORTS",
-            "type": "1"
-          },
-          {
-            "api": "",
-            "link": "https://grand-s-v001.faggotsports.tv/out/v1/3b9b2e211b913c6f0ccd72cd7f53649a/mix-stream.m3u8|Referer=https://hmembeds.one/",
-            "title": "DAZN SPORTS",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://601.lifesharper.com/one.m3u8",
-            "title": "ONE SPORTS",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://smarthard.click/hls/8r59wy2BRApK/index.m3u8",
-            "title": "SKY BUNDESLIGA SD",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/02/28 16:30:00 +0000",
-          "eventName": "Bayer Leverkusen vs Mainz 05",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/02/28 14:30:00 +0000",
-          "teamA": "Leverkusen",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2681/image",
-          "teamB": "Mainz 05",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2556/image"
-        },
-        "id": "408",
-        "image": "o",
-        "publish": "1",
-        "title": "Bayer Leverkusen vs Mainz 05"
       },
       {
         "adsLimit": "0",
@@ -1874,123 +1826,6 @@
       },
       {
         "adsLimit": "0",
-        "cat": "Bundesliga 🇩🇪",
-        "channels_data": [
-          {
-            "api": "597b1d0fdddb383fd37febd057d3fd1c:a728d9c017f83e3e6e77b7d7c0231b22",
-            "link": "https://apac-live.akamaized.net/ehyrzisobs/bein_sports_vflow07/index.mpd?hdntl=exp=1772369881~acl=%2f*~id=42901651~data=hdntl,fp%3d1~hmac=f6702118ebf34d3df9f17578a62991bb70be400e6dd8765535094b587c325a26&hdnts=st%3D1772197077%7Eexp%3D1772283776%7Eacl%3D%2F*%7Eid%3D42901651%7Edata%3Dfp%3D1%7Ehmac%3D5c1b99e2c2603ce01a7cce1ac4d25ba168c445e625c6034703dcc813e553d96a",
-            "title": "beIN SPORTS",
-            "type": "1"
-          },
-          {
-            "api": "",
-            "link": "https://grand-s-v001.faggotsports.tv/out/v1/ae38ce01c004dd39ed363e1615df511c/mix-stream.m3u8|Referer=https://hmembeds.one/",
-            "title": "DAZN SPORTS",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://smarthard.click/hls/9gSZoyFska/index.m3u8",
-            "title": "SKY BUNDESLIGA SD",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/02/28 16:30:00 +0000",
-          "eventName": "Borussia M'gladbach vs Union Berlin",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/02/28 14:30:00 +0000",
-          "teamA": "M'gladbach",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2527/image",
-          "teamB": "Union Berlin",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2547/image"
-        },
-        "id": "415",
-        "image": "o",
-        "publish": "1",
-        "title": "Borussia M'gladbach vs Union Berlin"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "Bundesliga 🇩🇪",
-        "channels_data": [
-          {
-            "api": "672a1f46b66c6bdd26b1680d39baa922:16169547eb9b0a14146cdbd21490279e",
-            "link": "https://apac-live.akamaized.net/ehyrzisobs/bein_sports_vflow06/index.mpd?hdntl=exp=1772369881~acl=%2f*~id=42901651~data=hdntl,fp%3d1~hmac=f6702118ebf34d3df9f17578a62991bb70be400e6dd8765535094b587c325a26&hdnts=st%3D1772197077%7Eexp%3D1772283776%7Eacl%3D%2F*%7Eid%3D42901651%7Edata%3Dfp%3D1%7Ehmac%3D5c1b99e2c2603ce01a7cce1ac4d25ba168c445e625c6034703dcc813e553d96a",
-            "title": "beIN SPORTS",
-            "type": "1"
-          },
-          {
-            "api": "",
-            "link": "https://grand-s-v001.faggotsports.tv/out/v1/7669ea9e7cd876bfd25b8f536f499e89/mix-stream.m3u8|Referer=https://hmembeds.one/",
-            "title": "DAZN SPORTS",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://smarthard.click/hls/kjzxkCIqkhtb/index.m3u8",
-            "title": "SKY BUNDESLIGA SD",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/02/28 16:30:00 +0000",
-          "eventName": "Werder Bremen vs Heidenheim",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/02/28 14:30:00 +0000",
-          "teamA": "Bremen",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2534/image",
-          "teamB": "Heidenheim",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/5885/image"
-        },
-        "id": "416",
-        "image": "o",
-        "publish": "1",
-        "title": "Werder Bremen vs Heidenheim"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "Bundesliga 🇩🇪",
-        "channels_data": [
-          {
-            "api": "9e3ceafefd61fd316a0d142f7046c424:1efde03590efcfb0c4324f02f3fa1c43",
-            "link": "https://apac-live.akamaized.net/ehyrzisobs/bein_sports_vflow08/index.mpd?hdntl=exp=1772369881~acl=%2f*~id=42901651~data=hdntl,fp%3d1~hmac=f6702118ebf34d3df9f17578a62991bb70be400e6dd8765535094b587c325a26&hdnts=st%3D1772197077%7Eexp%3D1772283776%7Eacl%3D%2F*%7Eid%3D42901651%7Edata%3Dfp%3D1%7Ehmac%3D5c1b99e2c2603ce01a7cce1ac4d25ba168c445e625c6034703dcc813e553d96a",
-            "title": "beIN SPORTS",
-            "type": "1"
-          },
-          {
-            "api": "",
-            "link": "https://grand-s-v001.faggotsports.tv/out/v1/35587c13ab60adcadfa21787ef871b8c/mix-stream.m3u8|Referer=https://hmembeds.one/",
-            "title": "DAZN SPORTS",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://smarthard.click/hls/Mhe8gotoGQlu/index.m3u8",
-            "title": "SKY BUNDESLIGA SD",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/02/28 16:30:00 +0000",
-          "eventName": "Hoffenheim vs St. Pauli",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/02/28 14:30:00 +0000",
-          "teamA": "Hoffenheim",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2569/image",
-          "teamB": "St. Pauli",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2526/image"
-        },
-        "id": "417",
-        "image": "o",
-        "publish": "1",
-        "title": "Hoffenheim vs St. Pauli"
-      },
-      {
-        "adsLimit": "0",
         "cat": "2. Bundesliga",
         "channels_data": [
           {
@@ -2027,45 +1862,6 @@
         "image": "o",
         "publish": "1",
         "title": "Kaiserslautern vs Paderborn"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "2. Bundesliga",
-        "channels_data": [
-          {
-            "api": "0:0",
-            "link": "https://bbb.exoadash.com/TVD6412/index.mpd",
-            "title": "ELEVEN SPORTS",
-            "type": "1"
-          },
-          {
-            "api": "",
-            "link": "https://instreams.live/EU/HDTV17/index.m3u8?st=SportzX|Referer=https://instreams.click/",
-            "title": "SKY BUNDESLIGA",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://live.alilicloud.com/live/5bf7e9592abc5f4b1f8d973eb07caded/playlist.m3u8",
-            "title": "SPORTIFy Live",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/02/28 14:00:00 +0000",
-          "eventName": "Arminia Bielefeld vs Hannover",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/02/28 12:00:00 +0000",
-          "teamA": "Bielefeld",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2540/image",
-          "teamB": "Hannover",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2541/image"
-        },
-        "id": "419",
-        "image": "o",
-        "publish": "1",
-        "title": "Arminia Bielefeld vs Hannover"
       },
       {
         "adsLimit": "0",
@@ -2153,33 +1949,6 @@
         "image": "o",
         "publish": "1",
         "title": "NEC vs Fortuna Sittard"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "Super Lig",
-        "channels_data": [
-          {
-            "api": "",
-            "link": "https://smarthard.click/hls/hhx33tWwGEeW/index.m3u8",
-            "title": "beIN SPORTS",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/02/28 15:00:00 +0000",
-          "eventName": "Kocaelispor vs Beşiktaş",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/02/28 13:00:00 +0000",
-          "teamA": "Kocaelispor",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3065/image",
-          "teamB": "Beşiktaş",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3050/image"
-        },
-        "id": "425",
-        "image": "o",
-        "publish": "1",
-        "title": "Kocaelispor vs Beşiktaş"
       },
       {
         "adsLimit": "0",
@@ -2342,45 +2111,6 @@
         "image": "o",
         "publish": "1",
         "title": "Castellón vs Racing Club"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-        "channels_data": [
-          {
-            "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
-            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
-            "title": "beIN ENGLISH",
-            "type": "1"
-          },
-          {
-            "api": "",
-            "link": "https://bl.rutube.ru/livestream/9585fdae92af45f113fdcc9f6c4ba442/index.m3u8?s=KgZtccuHrnaljGaN7cmUwA&e=2068506973&scheme=https",
-            "title": "MAIN EVENT",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://live.alilicloud.com/live/201430ff2fdefc438e41a01c46747ed3/playlist.m3u8",
-            "title": "SPORTIFy Live",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/02/28 14:30:00 +0000",
-          "eventName": "Leicester City vs Norwich City",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/02/28 12:30:00 +0000",
-          "teamA": "Leicester",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/31/image",
-          "teamB": "Norwich",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/263/image"
-        },
-        "id": "432",
-        "image": "o",
-        "publish": "1",
-        "title": "Leicester City vs Norwich City"
       },
       {
         "adsLimit": "0",
