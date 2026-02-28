@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-02-28T19:27:00.700934",
+  "last_updated": "2026-02-28T19:44:51.279071",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "12:50:19 AM 01-03-2026",
+    "Last update time": "01:10:20 AM 01-03-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -1364,39 +1364,6 @@
         "image": "o",
         "publish": "1",
         "title": "Hellas Verona vs Napoli"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "Ligue 1 🇫🇷",
-        "channels_data": [
-          {
-            "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
-            "link": "https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd",
-            "title": "NOVA SPORTS",
-            "type": "1"
-          },
-          {
-            "api": "0:0",
-            "link": "https://bbb.exoadash.com/TVD2083/index.mpd",
-            "title": "Ligue1+",
-            "type": "1"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/02/28 18:00:00 +0000",
-          "eventName": "Rennais vs Toulouse",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/02/28 16:00:00 +0000",
-          "teamA": "Rennes",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/1658/image",
-          "teamB": "Toulouse",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/1681/image"
-        },
-        "id": "410",
-        "image": "o",
-        "publish": "1",
-        "title": "Rennais vs Toulouse"
       },
       {
         "adsLimit": "0",
