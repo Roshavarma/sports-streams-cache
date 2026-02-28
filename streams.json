@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-02-28T23:29:49.300219",
+  "last_updated": "2026-02-28T23:49:55.862356",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "04:55:17 AM 01-03-2026",
+    "Last update time": "05:15:20 AM 01-03-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -858,44 +858,44 @@
         "channels_data": [
           {
             "api": "",
-            "link": "https://edgestreams.pro/hls/uyopzarf50.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+            "link": "https://mainstreams.pro/hls/wxdaztfhd62.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
             "title": "SPORTIFy Live",
             "type": "0"
           },
           {
             "api": "",
-            "link": "https://instreams.pro/US/NHL1/index.m3u8?st=SportzX|Referer=https://instreams.click/&Origin=https://instreams.click",
+            "link": "https://instreams.pro/US/NHL13/index.m3u8?st=SportzX|Referer=https://instreams.click/&Origin=https://instreams.click",
             "title": "HD SERVER",
             "type": "0"
           },
           {
             "api": "",
-            "link": "https://live.webcastserver.online/newz/newz/175.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+            "link": "https://live.webcastserver.online/newz/newz/97.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
             "title": "SD SERVER",
             "type": "0"
           },
           {
             "api": "",
-            "link": "https://live.webcastserver.online/newz/newz/99.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+            "link": "https://pro.packcast.top/newz/newz/88.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
             "title": "SPY CAM.",
             "type": "0"
           }
         ],
         "eventInfo": {
-          "endTime": "2026/02/28 20:20:00 +0000",
-          "eventName": "New York Rangers vs Pittsburgh Penguins",
+          "endTime": "2026/03/01 05:50:00 +0000",
+          "eventName": "Seattle Kraken vs Vancouver Canucks",
           "eventType": "null",
           "isHot": "0",
-          "startTime": "2026/02/28 17:30:00 +0000",
-          "teamA": "Rangers",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3701/image",
-          "teamB": "Penguins",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3697/image"
+          "startTime": "2026/03/01 03:00:00 +0000",
+          "teamA": "Kraken",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/381707/image",
+          "teamB": "Canucks",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3692/image"
         },
         "id": "386",
         "image": "o",
         "publish": "1",
-        "title": "Rangers vs Pittsburgh Penguins"
+        "title": "Seattle Kraken vs Vancouver Canucks"
       },
       {
         "adsLimit": "0",
@@ -1128,25 +1128,25 @@
         "channels_data": [
           {
             "api": "",
-            "link": "https://edgestreams.pro/hls/earzfddshg58.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+            "link": "https://edgestreams.pro/hls/bvnzadfvyt59.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
             "title": "SPORTIFy Live",
             "type": "0"
           },
           {
             "api": "",
-            "link": "https://instreams.pro/US/NHL9/index.m3u8?st=SportzX|Referer=https://instreams.click/&Origin=https://instreams.click",
+            "link": "https://instreams.pro/US/NHL10/index.m3u8?st=SportzX|Referer=https://instreams.click/&Origin=https://instreams.click",
             "title": "HD SERVER",
             "type": "0"
           },
           {
             "api": "",
-            "link": "https://live.webcastserver.online/newz/newz/100.m3u8?|Referer=https://slapstreams.com/",
+            "link": "https://live.webcastserver.online/newz/newz/92.m3u8?|Referer=https://slapstreams.com/",
             "title": "HOME CAM.",
             "type": "0"
           },
           {
             "api": "",
-            "link": "https://live.webcastserver.online/newz/newz/85.m3u8?|Referer=https://slapstreams.com/",
+            "link": "https://live.webcastserver.online/newz/newz/178.m3u8?|Referer=https://slapstreams.com/",
             "title": "AWAY CAM.",
             "type": "0"
           }
@@ -1166,6 +1166,186 @@
         "image": "o",
         "publish": "1",
         "title": "Carolina Hurricanes vs Detroit Red Wings"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "NHL",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://edgestreams.pro/hls/cwxvbnfghq60.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://instreams.pro/US/NHL11/index.m3u8?st=SportzX|Referer=https://instreams.click/&Origin=https://instreams.click",
+            "title": "HD SERVER",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://live.webcastserver.online/newz/newz/95.m3u8?|Referer=https://slapstreams.com/",
+            "title": "HOME CAM.",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://live.webcastserver.online/newz/newz/91.m3u8?|Referer=https://slapstreams.com/",
+            "title": "AWAY CAM.",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/03/01 02:50:00 +0000",
+          "eventName": "Los Angeles Kings vs Calgary Flames",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/03/01 00:00:00 +0000",
+          "teamA": "Kings",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3688/image",
+          "teamB": "Flames",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3679/image"
+        },
+        "id": "393",
+        "image": "o",
+        "publish": "1",
+        "title": "Los Angeles Kings vs Calgary Flames"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "NHL",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://edgestreams.pro/hls/rzavbdyua57.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://instreams.pro/US/NHL8/index.m3u8?st=SportzX|Referer=https://instreams.click/&Origin=https://instreams.click",
+            "title": "HD SERVER",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://pro.packcast.top/newz/newz/87.m3u8?|Referer=https://slapstreams.com/",
+            "title": "HOME CAM.",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://live.webcastserver.online/newz/newz/169.m3u8?|Referer=https://slapstreams.com/",
+            "title": "AWAY CAM.",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/03/01 02:50:00 +0000",
+          "eventName": "Montréal Canadiens vs Washington Capitals",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/03/01 00:00:00 +0000",
+          "teamA": "Canadiens",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3690/image",
+          "teamB": "Capitals",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3691/image"
+        },
+        "id": "394",
+        "image": "o",
+        "publish": "1",
+        "title": "Canadiens vs Washington Capitals"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "NHL",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://mainstreams.pro/hls/earzfddshg58.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://instreams.pro/US/NHL9/index.m3u8?st=SportzX|Referer=https://instreams.click/&Origin=https://instreams.click",
+            "title": "HD SERVER",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://live.webcastserver.online/newz/newz/171.m3u8?|Referer=https://slapstreams.com/",
+            "title": "HOME CAM.",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://live.webcastserver.online/newz/newz/101.m3u8?|Referer=https://slapstreams.com/",
+            "title": "AWAY CAM.",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/03/01 02:50:00 +0000",
+          "eventName": "Tampa Bay Lightning vs Buffalo Sabres",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/03/01 00:00:00 +0000",
+          "teamA": "Lightning",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3694/image",
+          "teamB": "Sabres",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3678/image"
+        },
+        "id": "395",
+        "image": "o",
+        "publish": "1",
+        "title": "Tampa Bay Lightning vs Buffalo Sabres"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "NHL",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://edge2caster.pro/hls/poiryezafv56.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://instreams.pro/US/NHL7/index.m3u8?st=SportzX|Referer=https://instreams.click/&Origin=https://instreams.click",
+            "title": "HD SERVER",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://pro.packcast.top/newz/newz/167.m3u8?|Referer=https://slapstreams.com/",
+            "title": "HOME CAM.",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://pro.packcast.top/newz/newz/102.m3u8?|Referer=https://slapstreams.com/",
+            "title": "AWAY CAM.",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/03/01 02:50:00 +0000",
+          "eventName": "Toronto Maple Leafs vs Ottawa Senators",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/03/01 00:00:00 +0000",
+          "teamA": "Maple Leafs",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3693/image",
+          "teamB": "Senators",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3700/image"
+        },
+        "id": "396",
+        "image": "o",
+        "publish": "1",
+        "title": "Toronto Maple Leafs vs Ottawa Senators"
       },
       {
         "adsLimit": "0",
