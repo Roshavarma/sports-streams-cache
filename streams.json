@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-02-28T15:20:58.447500",
+  "last_updated": "2026-02-28T15:43:13.103873",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "08:45:21 PM 28-02-2026",
+    "Last update time": "09:10:23 PM 28-02-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -560,6 +560,231 @@
       },
       {
         "adsLimit": "0",
+        "cat": "NBA",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://mainstreams.pro/hls/mlkijfezag65.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://instreams.pro/US/NBA1/index.m3u8?st=SportzX|Referer=https://instreams.click/&Origin=https://instreams.click",
+            "title": "HD SERVER",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://smarthard.click/hls/Niyvk3zRJJmP/index.m3u8",
+            "title": "SD SERVER",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://mainstreams.pro/hls/mlkijfezag65.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+            "title": "SPY CAM.",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/02/28 20:30:00 +0000",
+          "eventName": "Charlotte Hornets vs Portland Trail Blazers",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/02/28 18:00:00 +0000",
+          "teamA": "Hornets",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3430/image",
+          "teamB": "Trail Blazers",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3414/image"
+        },
+        "id": "373",
+        "image": "o",
+        "publish": "1",
+        "title": "Charlotte Hornets vs Portland Trail Blazers"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "NBA",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://edgestreams.pro/hls/wfazgsqtrezu66.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://instreams.pro/US/NBA2/index.m3u8?st=SportzX|Referer=https://instreams.click/&Origin=https://instreams.click",
+            "title": "HD SERVER",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://cdn2.trrfiles.cfd/live/cdn2/chunks.m3u8",
+            "title": "SD SERVER",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://edgestreams.pro/hls/wfazgsqtrezu66.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+            "title": "SPY CAM.",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/02/28 23:20:00 +0000",
+          "eventName": "Miami Heat vs Houston Rockets",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/02/28 20:30:00 +0000",
+          "teamA": "Heat",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3435/image",
+          "teamB": "Rockets",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3412/image"
+        },
+        "id": "374",
+        "image": "o",
+        "publish": "1",
+        "title": "Miami Heat vs Houston Rockets"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "NBA",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://edgestreams.pro/hls/hfsdqtaxvb67.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://instreams.pro/US/NBA3/index.m3u8?st=SportzX|Referer=https://instreams.click/&Origin=https://instreams.click",
+            "title": "HD SERVER",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://smarthard.click/hls/z1Lb4SbqsIWU/index.m3u8",
+            "title": "SD SERVER",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://edgestreams.pro/hls/hfsdqtaxvb67.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+            "title": "SPY CAM.",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/03/01 02:30:00 +0000",
+          "eventName": "Washington Wizards vs Toronto Raptors",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/03/01 00:00:00 +0000",
+          "teamA": "Wizards",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3431/image",
+          "teamB": "Raptors",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3433/image"
+        },
+        "id": "375",
+        "image": "o",
+        "publish": "1",
+        "title": "Washington Wizards vs Toronto Raptors"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "NBA",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://edgestreams.pro/hls/zayrtezafgvdv68.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://instreams.pro/US/NBA4/index.m3u8?st=SportzX|Referer=https://instreams.click/&Origin=https://instreams.click",
+            "title": "HD SERVER",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://smarthard.click/hls/cbf3PwTr7B1A/index.m3u8",
+            "title": "SD SERVER",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://edgestreams.pro/hls/zayrtezafgvdv68.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+            "title": "SPY CAM.",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/03/01 04:00:00 +0000",
+          "eventName": "Golden State Warriors vs Los Angeles Lakers",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/03/01 01:30:00 +0000",
+          "teamA": "Warriors",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3428/image",
+          "teamB": "Lakers",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3427/image"
+        },
+        "id": "376",
+        "image": "o",
+        "publish": "1",
+        "title": "State Warriors vs Los Angeles Lakers"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "NBA",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://edgestreams.pro/hls/zeafwqvhfe69.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://instreams.pro/US/NBA5/index.m3u8?st=SportzX|Referer=https://instreams.click/&Origin=https://instreams.click",
+            "title": "HD SERVER",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://smarthard.click/hls/DfF4IkIqKvOP/index.m3u8",
+            "title": "SD SERVER",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://edgestreams.pro/hls/zeafwqvhfe69.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+            "title": "SPY CAM.",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/03/01 05:00:00 +0000",
+          "eventName": "Utah Jazz vs New Orleans Pelicans",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/03/01 02:30:00 +0000",
+          "teamA": "Jazz",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3434/image",
+          "teamB": "Pelicans",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/5539/image"
+        },
+        "id": "377",
+        "image": "o",
+        "publish": "1",
+        "title": "Utah Jazz vs New Orleans Pelicans"
+      },
+      {
+        "adsLimit": "0",
         "cat": "Pro League 🇸🇦",
         "channels_data": [
           {
@@ -863,6 +1088,51 @@
         "image": "o",
         "publish": "1",
         "title": "Colorado Avalanche vs Chicago Blackhawks"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "NHL",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://edgestreams.pro/hls/bnvcxwhfg54.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://instreams.pro/US/NHL5/index.m3u8?st=SportzX|Referer=https://instreams.click/&Origin=https://instreams.click",
+            "title": "HD SERVER",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://live.webcastserver.online/newz/newz/99.m3u8?|Referer=https://slapstreams.com/",
+            "title": "HOME CAM.",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://live.webcastserver.online/newz/newz/174.m3u8?|Referer=https://slapstreams.com/",
+            "title": "AWAY CAM.",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/03/01 01:50:00 +0000",
+          "eventName": "Columbus Blue Jackets vs New York Islanders",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/02/28 23:00:00 +0000",
+          "teamA": "Blue Jackets",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3683/image",
+          "teamB": "Islanders",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3703/image"
+        },
+        "id": "391",
+        "image": "o",
+        "publish": "1",
+        "title": "Blue Jackets vs New York Islanders"
       },
       {
         "adsLimit": "0",
@@ -1266,7 +1536,7 @@
           "endTime": "2026/02/28 17:15:00 +0000",
           "eventName": "Barcelona vs Villarreal",
           "eventType": "null",
-          "isHot": "0",
+          "isHot": "1",
           "startTime": "2026/02/28 15:15:00 +0000",
           "teamA": "Barcelona",
           "teamAFlag": "https://img.sofascore.com/api/v1/team/2817/image",
