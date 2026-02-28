@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-02-28T22:55:30.570905",
+  "last_updated": "2026-02-28T23:29:49.300219",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "04:20:19 AM 01-03-2026",
+    "Last update time": "04:55:17 AM 01-03-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -123,11 +123,11 @@
           }
         ],
         "eventInfo": {
-          "endTime": "2026/02/28 09:30:00 +0000",
+          "endTime": "2026/03/01 10:00:00 +0000",
           "eventName": "MotoGP - Grand Prix of Thailand",
           "eventType": "null",
           "isHot": "0",
-          "startTime": "2026/02/28 03:10:00 +0000",
+          "startTime": "2026/03/01 08:00:00 +0000",
           "teamA": "MotoGP",
           "teamAFlag": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8fGgE14VBFQKRIMiWIvOlIwpL6AEobQtL3OkLLu7AzsBPGzeXGHsz5PL0NED5DHlAyKCFhPHoNaFB4Z1csH_vvpU47Pbtslr1za618knr-wojLCDa1hyW40v59Qw_UjMGWLREzicm9ZDl7yMuylyu7xMdMoQG3-XXKLoZafem7lpKqxfKavQu-33Mbck/s1600/mgp.png",
           "teamB": "MotoGP",
@@ -195,7 +195,7 @@
           "endTime": "2026/03/01 05:00:00 +0000",
           "eventName": "UFC Fight Night",
           "eventType": "null",
-          "isHot": "0",
+          "isHot": "1",
           "startTime": "2026/02/28 22:00:00 +0000",
           "teamA": "B. Moreno",
           "teamAFlag": "https://img.sofascore.com/api/v1/team/461508/image",
@@ -448,20 +448,89 @@
           }
         ],
         "eventInfo": {
-          "endTime": "2026/02/28 17:15:00 +0000",
-          "eventName": "Sri Lanka vs Pakistan",
+          "endTime": "2026/03/01 17:15:00 +0000",
+          "eventName": "India vs West Indies",
           "eventType": "null",
           "isHot": "0",
-          "startTime": "2026/02/28 13:30:00 +0000",
-          "teamA": "SL",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/187756/image",
-          "teamB": "PAK",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/187754/image"
+          "startTime": "2026/03/01 13:30:00 +0000",
+          "teamA": "IND",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/187765/image",
+          "teamB": "WI",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/187760/image"
         },
         "id": "366",
         "image": "o",
         "publish": "1",
         "title": "ICC T20 WC - 01"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "ICC Mens T20 WC",
+        "channels_data": [
+          {
+            "api": "2904b17cb64c996dbc254981b7602863:66a7ef671b84498e64f94e8401fe8cb9",
+            "link": "https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/vdx0scnjmm/out/v1/8777014e61534e7c873dc695bc485397/cenc.mpd",
+            "title": "PRIME VID [ENG]",
+            "type": "1"
+          },
+          {
+            "api": "3319513445704d17b607969c9b4bd5b2:64a75c66e40be8177f4893104722700a",
+            "link": "https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/wdqtgxqtpr/out/v1/d9a29796c1c3468785dbee1776ffd354/cenc.mpd",
+            "title": "PRIME VID [HIN]",
+            "type": "1"
+          },
+          {
+            "api": "f52a73212bdd837dc6849b688dff8194:d8c8ba05bae74b70d5f57f4e104eafeb",
+            "link": "https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/vdj8kklfbb/out/v1/6433098763394c0a8552dd92e8da40dc/cenc.mpd",
+            "title": "WILLOW [Ad Free]",
+            "type": "1"
+          },
+          {
+            "api": "",
+            "link": "https://live-pull.aisports.mobi/moviebox/football001/playlist.m3u8|Referer=https://sportslivenow.top/",
+            "title": "JIO HOTSTAR",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://stream1.liveland.af/hls/tv/tolo-sport/chunklist3.m3u8?|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://cdn39591467.blazingcdn.net/dx14fhd/index.m3u8|Referer=https://yahoo.com/&Origin=https://yahoo.com&User-Agent=AppleCoreMedia/1.0.0.23D5103d (iPhone; U; CPU OS 26_3 like Mac OS X; en_us)",
+            "title": "Willow HD",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://cdn39591467.blazingcdn.net/dx14sd/index.m3u8|Referer=https://yahoo.com/&Origin=https://yahoo.com&User-Agent=AppleCoreMedia/1.0.0.23D5103d (iPhone; U; CPU OS 26_3 like Mac OS X; en_us)",
+            "title": "Willow SD",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://matchcentral.pages.dev/?id=jio-hotstar",
+            "title": "HINDI Stream",
+            "type": "2"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/03/01 13:15:00 +0000",
+          "eventName": "Zimbabwe vs South Africa",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/03/01 09:30:00 +0000",
+          "teamA": "ZIM",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/187745/image",
+          "teamB": "SA",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/187747/image"
+        },
+        "id": "367",
+        "image": "o",
+        "publish": "1",
+        "title": "ICC T20 WC - 02"
       },
       {
         "adsLimit": "0",
@@ -785,93 +854,6 @@
       },
       {
         "adsLimit": "0",
-        "cat": "Pro League 🇸🇦",
-        "channels_data": [
-          {
-            "api": "0:0",
-            "link": "https://bbb.exoadash.com/TVD1403/index.mpd",
-            "title": "Thmanyah - FHD",
-            "type": "1"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/02/28 21:00:00 +0000",
-          "eventName": "Neom SC vs Al-Kholood",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/02/28 19:00:00 +0000",
-          "teamA": "Neom SC",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/530631/image",
-          "teamB": "Al-Kholood",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/269199/image"
-        },
-        "id": "383",
-        "image": "o",
-        "publish": "1",
-        "title": "Neom SC vs Al-Kholood"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "Pro League 🇸🇦",
-        "channels_data": [
-          {
-            "api": "0:0",
-            "link": "https://bbb.exoadash.com/TVD6737/index.mpd",
-            "title": "Thmanyah - FHD",
-            "type": "1"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/02/28 21:00:00 +0000",
-          "eventName": "Al-Najma SC vs Al-Okhdood",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/02/28 19:00:00 +0000",
-          "teamA": "Al-Najma",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/395831/image",
-          "teamB": "Al-Okhdood",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/336456/image"
-        },
-        "id": "384",
-        "image": "o",
-        "publish": "1",
-        "title": "Al-Najma SC vs Al-Okhdood"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "Pro League 🇸🇦",
-        "channels_data": [
-          {
-            "api": "",
-            "link": "https://pl3.wecanfix4.space/playlist/46010/load-playlist?|Referer=https://gooz.aapmains.net",
-            "title": "FOX SOCCER+",
-            "type": "0"
-          },
-          {
-            "api": "0:0",
-            "link": "https://bbb.exoadash.com/TVD6737/index.mpd",
-            "title": "Thmanyah - FHD",
-            "type": "1"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/02/28 21:00:00 +0000",
-          "eventName": "Al-Fayha vs Al-Nassr",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/02/28 19:00:00 +0000",
-          "teamA": "Al-Fayha",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/168094/image",
-          "teamB": "Al-Nassr",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/23400/image"
-        },
-        "id": "385",
-        "image": "o",
-        "publish": "1",
-        "title": "Al-Fayha vs Al-Nassr"
-      },
-      {
-        "adsLimit": "0",
         "cat": "NHL",
         "channels_data": [
           {
@@ -1142,263 +1124,140 @@
       },
       {
         "adsLimit": "0",
-        "cat": "EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+        "cat": "NHL",
         "channels_data": [
           {
-            "api": "3501bd323a6a35c28eb7654bf298b9aa:2db4c8089d627e1b2c480c57baa86a7b",
-            "link": "https://cdn4.skygo.mn/live/disk1/SPSPlay/DASH-FTA/SPSPlay.mpd",
-            "title": "PSN SPORTS",
-            "type": "1"
-          },
-          {
             "api": "",
-            "link": "https://grand-s-v001.faggotsports.tv/out/v1/e25132915cf1e67759051cac80b42275/mix-stream.m3u8|Referer=https://hmembeds.one/",
-            "title": "SKY SPORTS FHD",
-            "type": "0"
-          },
-          {
-            "api": "ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1",
-            "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd",
-            "title": "TELEMUNDO FHD",
-            "type": "1"
-          },
-          {
-            "api": "96b67fa09140329a89b7a1ead134eda3:c618d32c56cdc6cad8330eb98507ca3f",
-            "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-east)/master.mpd",
-            "title": "NBC SPORTS",
-            "type": "1"
-          },
-          {
-            "api": "",
-            "link": "https://bl.rutube.ru/livestream/9585fdae92af45f113fdcc9f6c4ba442/index.m3u8?s=KgZtccuHrnaljGaN7cmUwA&e=2068506973&scheme=https",
-            "title": "SKY MAIN EVENT",
+            "link": "https://edgestreams.pro/hls/earzfddshg58.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+            "title": "SPORTIFy Live",
             "type": "0"
           },
           {
             "api": "",
-            "link": "https://daffodil.xn--1000-ugoa0hsb9a0hb.com/now.m3u8",
-            "title": "NOW SPORTS PL",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://storage.googleapis.com/uncetrunvover1/mux_video_ts1/index-1.m3u8",
+            "link": "https://instreams.pro/US/NHL9/index.m3u8?st=SportzX|Referer=https://instreams.click/&Origin=https://instreams.click",
             "title": "HD SERVER",
             "type": "0"
           },
           {
             "api": "",
-            "link": "https://play.ltwxsc.com/live/hd-en-6MuT7JxGYu4ZAu3qkS.m3u8?txSecret=f8554943f3b29f0b1d4fde6de89d4211&txTime=69A34F5A",
-            "title": "FAST SERVER",
+            "link": "https://live.webcastserver.online/newz/newz/100.m3u8?|Referer=https://slapstreams.com/",
+            "title": "HOME CAM.",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://live.webcastserver.online/newz/newz/85.m3u8?|Referer=https://slapstreams.com/",
+            "title": "AWAY CAM.",
             "type": "0"
           }
         ],
         "eventInfo": {
-          "endTime": "2026/02/28 19:30:00 +0000",
-          "eventName": "Leeds United vs Manchester City",
+          "endTime": "2026/03/01 02:50:00 +0000",
+          "eventName": "Carolina Hurricanes vs Detroit Red Wings",
           "eventType": "null",
           "isHot": "0",
-          "startTime": "2026/02/28 17:30:00 +0000",
-          "teamA": "Leeds",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/34/image",
-          "teamB": "Man City",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/17/image"
+          "startTime": "2026/03/01 00:00:00 +0000",
+          "teamA": "Hurricanes",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3680/image",
+          "teamB": "Red Wings",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3685/image"
+        },
+        "id": "392",
+        "image": "o",
+        "publish": "1",
+        "title": "Carolina Hurricanes vs Detroit Red Wings"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "Liga MX",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://cors-proxy.cooks.fyi/https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8",
+            "title": "TUDN USA",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://daffodil.xn--1000-ugoa0hsb9a0hb.com/tudn.m3u8",
+            "title": "TUDN FHD",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/03/01 01:00:00 +0000",
+          "eventName": "CD Toluca vs CD Guadalajara",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/02/28 23:00:00 +0000",
+          "teamA": "Toluca",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/1931/image",
+          "teamB": "Guadalajara",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/1938/image"
         },
         "id": "401",
         "image": "o",
         "publish": "1",
-        "title": "Leeds vs Manchester City"
+        "title": "Toluca vs CD Guadalajara"
       },
       {
         "adsLimit": "0",
-        "cat": "LaLiga 🇪🇸",
+        "cat": "Liga MX",
         "channels_data": [
           {
-            "api": "620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a",
-            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd",
-            "title": "Laliga TV FHD",
-            "type": "1"
-          },
-          {
-            "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
-            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
-            "title": "beIN ENGLISH",
-            "type": "1"
-          },
-          {
-            "api": "065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2",
-            "link": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
-            "title": "FANCODE 1",
-            "type": "1"
-          },
-          {
             "api": "",
-            "link": "https://daffodil.serverbandel.sbs/barca.m3u8",
-            "title": "SKY LALIGA",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://red1.kamfir7.space/playlist/46035/load-playlist?|Referer=https://gooz.aapmains.net",
-            "title": "ESPN DEPORTES",
+            "link": "https://live.alilicloud.com/live/c4528db7779232cf323c3c0ca6add768/playlist.m3u8",
+            "title": "SPORTZX LIVE",
             "type": "0"
           }
         ],
         "eventInfo": {
-          "endTime": "2026/02/28 22:00:00 +0000",
-          "eventName": "Real Oviedo vs Atlético Madrid",
+          "endTime": "2026/03/01 01:00:00 +0000",
+          "eventName": "Atlético San Luis vs Club Puebla",
           "eventType": "null",
           "isHot": "0",
-          "startTime": "2026/02/28 20:00:00 +0000",
-          "teamA": "Real Oviedo",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2851/image",
-          "teamB": "Atl. Madrid",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2836/image"
+          "startTime": "2026/02/28 23:00:00 +0000",
+          "teamA": "San Luis",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/1950/image",
+          "teamB": "Puebla",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/1941/image"
         },
         "id": "406",
         "image": "o",
         "publish": "1",
-        "title": "Real Oviedo vs Atlético Madrid"
+        "title": "Atlético San Luis vs Club Puebla"
       },
       {
         "adsLimit": "0",
-        "cat": "Bundesliga 🇩🇪",
+        "cat": "Liga MX",
         "channels_data": [
           {
-            "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
-            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
-            "title": "beIN ENGLISH",
-            "type": "1"
-          },
-          {
             "api": "",
-            "link": "https://601.xn--1000-ugoa0hsb9a0hb.com/one.m3u8",
-            "title": "ONE SPORTS",
-            "type": "0"
-          },
-          {
-            "api": "0:0",
-            "link": "https://bbb.exoadash.com/TVD6411/index.mpd",
-            "title": "ELEVEN SPORTS",
-            "type": "1"
-          },
-          {
-            "api": "",
-            "link": "https://601.xn--1000-ugoa0hsb9a0hb.com/football.m3u8",
-            "title": "SKY FOOTBALL",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://daffodil.xn--1000-ugoa0hsb9a0hb.com/dep.m3u8",
-            "title": "ESPN DEPORTES",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://play.ltwxsc.com/live/hd-en-6MuT7Y2TppYCysS29C.m3u8?txSecret=764f1295499cc93dc5bb029766df92c2&txTime=69A34F5A",
-            "title": "FAST SERVER",
+            "link": "https://cors-proxy.cooks.fyi/https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8",
+            "title": "TUDN USA",
             "type": "0"
           }
         ],
         "eventInfo": {
-          "endTime": "2026/02/28 19:30:00 +0000",
-          "eventName": "Borussia Dortmund vs FC Bayern München",
+          "endTime": "2026/03/01 03:05:00 +0000",
+          "eventName": "CF Monterrey vs Cruz Azul",
           "eventType": "null",
           "isHot": "0",
-          "startTime": "2026/02/28 17:30:00 +0000",
-          "teamA": "Dortmund",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2673/image",
-          "teamB": "Bayern",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2672/image"
+          "startTime": "2026/03/01 01:05:00 +0000",
+          "teamA": "Monterrey",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/1932/image",
+          "teamB": "Cruz Azul",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/1947/image"
         },
         "id": "407",
         "image": "o",
         "publish": "1",
-        "title": "Borussia Dortmund vs Bayern München"
+        "title": "Monterrey vs Cruz Azul"
       },
       {
         "adsLimit": "0",
-        "cat": "Ligue 1 🇫🇷",
+        "cat": "Liga MX",
         "channels_data": [
-          {
-            "api": "0:0",
-            "link": "https://bbb.exoadash.com/TVD2083/index.mpd",
-            "title": "Ligue1+",
-            "type": "1"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/02/28 20:00:00 +0000",
-          "eventName": "AS Monaco vs Angers",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/02/28 18:00:00 +0000",
-          "teamA": "AS Monaco",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/1653/image",
-          "teamB": "Angers",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/1684/image"
-        },
-        "id": "411",
-        "image": "o",
-        "publish": "1",
-        "title": "AS Monaco vs Angers"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "Ligue 1 🇫🇷",
-        "channels_data": [
-          {
-            "api": "0:0",
-            "link": "https://bbb.exoadash.com/TVD2083/index.mpd",
-            "title": "Ligue1+",
-            "type": "1"
-          },
-          {
-            "api": "",
-            "link": "https://red1.wecanfix6.space/playlist/46036/load-playlist?|Referer=https://gooz.aapmains.net",
-            "title": "beIN USA HD",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://601.serverbandel.sbs/beines.m3u8",
-            "title": "beIN ESPANOL",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://areagame.net/3333.php",
-            "title": "HD SERVER",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/02/28 22:05:00 +0000",
-          "eventName": "Le Havre vs PSG",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/02/28 20:05:00 +0000",
-          "teamA": "Le Havre",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/1662/image",
-          "teamB": "PSG",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/1644/image"
-        },
-        "id": "412",
-        "image": "o",
-        "publish": "1",
-        "title": "Le Havre vs PSG"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "Serie A 🇮🇹",
-        "channels_data": [
-          {
-            "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
-            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
-            "title": "beIN ENGLISH",
-            "type": "1"
-          },
           {
             "api": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
             "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
@@ -1406,228 +1265,78 @@
             "type": "1"
           },
           {
-            "api": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811",
-            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
-            "title": "FOX DEPORTES",
-            "type": "1"
+            "api": "",
+            "link": "https://cors-proxy.cooks.fyi/https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8",
+            "title": "TUDN USA",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/03/01 05:10:00 +0000",
+          "eventName": "Club América vs Tigres UANL",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/03/01 03:10:00 +0000",
+          "teamA": "América",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/1939/image",
+          "teamB": "Tigres",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/1940/image"
+        },
+        "id": "411",
+        "image": "o",
+        "publish": "1",
+        "title": "Club América vs Tigres UANL"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "Boxing",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://pl1.kamfir8.space/playlist/46070/load-playlist?|Referer=https://gooz.aapmains.net/",
+            "title": "SPORTIFy Boxing",
+            "type": "0"
           },
           {
             "api": "",
-            "link": "https://areagame.net/2222.php",
+            "link": "https://cdn11.trrfiles.cfd/live/cdn11/playlist.m3u8",
+            "title": "SPY - FHD",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://602.xn--1000-ugoa0hsb9a0hb.com/ppv.m3u8",
+            "title": "PPV FEED",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://areagame.net/6666.php",
             "title": "HD SERVER",
             "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/02/28 21:45:00 +0000",
-          "eventName": "Inter vs Genoa",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/02/28 19:45:00 +0000",
-          "teamA": "Inter",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2697/image",
-          "teamB": "Genoa",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2713/image"
-        },
-        "id": "413",
-        "image": "o",
-        "publish": "1",
-        "title": "Inter vs Genoa"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "Pro League 🇸🇦",
-        "channels_data": [
-          {
-            "api": "0:0",
-            "link": "https://bbb.exoadash.com/TVD1451/index.mpd",
-            "title": "Thmanyah - FHD",
-            "type": "1"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/02/28 21:00:00 +0000",
-          "eventName": "Al-Qadsiah vs Al-Taawoun",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/02/28 19:00:00 +0000",
-          "teamA": "Al-Qadsiah",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/56027/image",
-          "teamB": "Al-Taawoun",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/56021/image"
-        },
-        "id": "414",
-        "image": "o",
-        "publish": "1",
-        "title": "Al-Qadsiah vs Al-Taawoun"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "Eredivisie",
-        "channels_data": [
-          {
-            "api": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
-            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
-            "title": "SportDigital Fussball",
-            "type": "1"
           },
           {
             "api": "",
-            "link": "https://smarthard.click/hls/DzazxOvS3QE1/index.m3u8",
-            "title": "ESPN NL",
+            "link": "https://edge2caster.pro/hls/jnfezkbfz43.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+            "title": "SPORTIFy Live",
             "type": "0"
           }
         ],
         "eventInfo": {
-          "endTime": "2026/02/28 19:45:00 +0000",
-          "eventName": "Heracles vs PSV Eindhoven",
+          "endTime": "2026/03/01 04:30:00 +0000",
+          "eventName": "Boxing: Navarrete vs Nunez",
           "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/02/28 17:45:00 +0000",
-          "teamA": "Heracles",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2977/image",
-          "teamB": "PSV",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2952/image"
+          "isHot": "1",
+          "startTime": "2026/03/01 00:00:00 +0000",
+          "teamA": "E. Navarrete",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/528591/image",
+          "teamB": "E. Nunez",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/472017/image"
         },
-        "id": "422",
+        "id": "412",
         "image": "o",
         "publish": "1",
-        "title": "Heracles vs PSV Eindhoven"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "Eredivisie",
-        "channels_data": [
-          {
-            "api": "",
-            "link": "https://smarthard.click/hls/DzazxOvS3QE1/index.m3u8",
-            "title": "ESPN NL",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/02/28 22:00:00 +0000",
-          "eventName": "NEC Nijmegen vs Fortuna Sittard",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/02/28 20:00:00 +0000",
-          "teamA": "NEC",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2962/image",
-          "teamB": "Fortuna",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2957/image"
-        },
-        "id": "423",
-        "image": "o",
-        "publish": "1",
-        "title": "NEC vs Fortuna Sittard"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "Super Lig",
-        "channels_data": [
-          {
-            "api": "",
-            "link": "https://smarthard.click/hls/hhx33tWwGEeW/index.m3u8",
-            "title": "beIN SPORTS",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/02/28 19:00:00 +0000",
-          "eventName": "Galatasaray vs Alanyaspor",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/02/28 17:00:00 +0000",
-          "teamA": "Galatasaray",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3061/image",
-          "teamB": "Alanyaspor",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/6362/image"
-        },
-        "id": "426",
-        "image": "o",
-        "publish": "1",
-        "title": "Galatasaray vs Alanyaspor"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "Super Lig",
-        "channels_data": [
-          {
-            "api": "",
-            "link": "https://smarthard.click/hls/DcTxPWHOB5aM/index.m3u8",
-            "title": "beIN SPORTS",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/02/28 19:00:00 +0000",
-          "eventName": "Göztepe vs Eyüpspor",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/02/28 17:00:00 +0000",
-          "teamA": "Göztepe",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3054/image",
-          "teamB": "Eyüpspor",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/7040/image"
-        },
-        "id": "427",
-        "image": "o",
-        "publish": "1",
-        "title": "Göztepe vs Eyüpspor"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "LaLiga 2",
-        "channels_data": [
-          {
-            "api": "0:0",
-            "link": "https://bbb.exoadash.com/TVD1581/index.mpd",
-            "title": "Laliga Hypermotion",
-            "type": "1"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/02/28 19:30:00 +0000",
-          "eventName": "Real Valladolid vs Huesca",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/02/28 17:30:00 +0000",
-          "teamA": "Real Valladolid",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2831/image",
-          "teamB": "Huesca",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/24265/image"
-        },
-        "id": "430",
-        "image": "o",
-        "publish": "1",
-        "title": "Real Valladolid vs Huesca"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "LaLiga 2",
-        "channels_data": [
-          {
-            "api": "d69894c7b729c5d1e85893e5e6cfcb0f:db0d53f871f5d2ef91d3a112c7ec9f30",
-            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/tcninbbnt5/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd",
-            "title": "Laliga Hypermotion ES",
-            "type": "1"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/02/28 22:00:00 +0000",
-          "eventName": "Castellón vs Racing Club",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/02/28 20:00:00 +0000",
-          "teamA": "Castellón",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/5067/image",
-          "teamB": "R. Racing Club",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2835/image"
-        },
-        "id": "431",
-        "image": "o",
-        "publish": "1",
-        "title": "Castellón vs Racing Club"
+        "title": "Navarrete vs Nunez"
       },
       {
         "adsLimit": "0",
@@ -1635,8 +1344,14 @@
         "channels_data": [
           {
             "api": "",
-            "link": "https://cdn12.trrfiles.cfd/live/cdn12/playlist.m3u8",
+            "link": "https://red2.pulselyra.shop/playlist/46031/load-playlist|Referer=https://gooz.aapmains.net/",
             "title": "SPORTIFy WWE",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://cdn12.trrfiles.cfd/live/cdn12/chunks.m3u8",
+            "title": "SPY - FHD",
             "type": "0"
           },
           {
@@ -1656,6 +1371,7 @@
           "endTime": "2026/03/01 03:00:00 +0000",
           "eventName": "WWE Elimination Chamber",
           "eventType": "null",
+          "isHot": "1",
           "startTime": "2026/03/01 00:00:00 +0000",
           "teamA": "WWE",
           "teamAFlag": "https://www.wwe.com/f/styles/wwe_show_logo_med/public/2025/11/Unknown.png",
