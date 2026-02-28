@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-28T11:20:18.523851",
+  "last_updated": "2026-02-28T11:39:20.138882",
   "event_count": 46,
   "events": [
     {
@@ -147,8 +147,8 @@
           "tokenApi": ""
         },
         {
-          "api": "895a8e55a03f485283280795816ed10d:0188afe4fd8389ddd9b764a0ffbcb7b2",
-          "link": "https://in-mc-flive.fancode.com/mumbai/140446_english_dash_4478_1drmta-di_h264/index.mpd",
+          "api": "",
+          "link": "https://live.alilicloud.com/live/4d20c920fbb3e52e1f377871a9989916/playlist.m3u8",
           "name": "FANCODE [ENG]",
           "scheme": 0,
           "tokenApi": ""
@@ -168,7 +168,7 @@
           "tokenApi": ""
         },
         {
-          "api": "a3b752b78f9343099dc317d930a5ccda:0ba74bd0775bad8c28159dc149bbd3a8",
+          "api": "7ed8ab01ab97457fbd3019d463273cc9:dd31e8d16f1cb25590142b81bc82982c",
           "link": "https://in-mc-flive.fancode.com/mumbai/140446_bengali_dash_48329_1drmta-di_h264/index.mpd",
           "name": "FANCODE [BAN]",
           "scheme": 0,
@@ -241,8 +241,11 @@
       "id": 47,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
+          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
+          "name": "beIN ENGLISH",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/31/image",
@@ -262,8 +265,18 @@
       "id": 48,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a",
+          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd",
+          "name": "Laliga TV FHD",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2",
+          "link": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
+          "name": "FANCODE FHD",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/2818/image",
@@ -582,8 +595,18 @@
       "id": 62,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b",
+          "link": "https://cors-proxy.cooks.fyi/https://netskrt.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd",
+          "name": "TNT SPORTS",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://grand-s-v001.faggotsports.tv/out/v1/frofudrljocldrugudr295ifistlsw1w/mix-stream.m3u8|Referer=https://hmembeds.one/",
+          "name": "TNT SPORTS FHD",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/60/image",
