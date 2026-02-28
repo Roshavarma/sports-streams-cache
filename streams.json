@@ -1,1090 +1,1931 @@
 {
-  "last_updated": "2026-02-28T14:32:26.464881",
-  "event_count": 42,
-  "events": [
-    {
-      "category": "Boxing",
-      "date": "07/03/2026",
-      "end_date": "07/03/2026",
-      "end_time": "06:00:00",
-      "eventLogo": "https://static.wikia.nocookie.net/wweuniverse/images/f/f6/Wwelogo.png/revision/latest?cb=20101124080717",
-      "eventName": "Friday Night SmackDown",
-      "id": 20,
-      "links": [
-        {
-          "api": "333962e3e1383529867a9a0e28a5e5d1:5d3fcbed53749ee622ed0e64f31c1cbf",
-          "link": "https://gg.poocloud.in/wrestling/index.m3u8|referer=https://ppv.to/&origin=https://ppv.to",
-          "name": "SP ",
-          "scheme": 0,
-          "tokenApi": ""
+  "last_updated": "2026-02-28T14:52:22.884906",
+  "event_count": 4,
+  "events": {
+    "AUTHOR": "iVan_FLUx",
+    "Last update time": "08:20:23 PM 28-02-2026",
+    "TELEGRAM": "https://t.me/iVan_flux",
+    "events": [
+      {
+        "adsLimit": "0",
+        "cat": "F1",
+        "channels_data": [
+          {
+            "api": "de36a226483a14e6ef87545909a5c689:8d2b61820e5fefe143e910bc8f4509a5",
+            "link": "https://otte.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/etuwxzifcf/out/v1/8b39b71cd4c942ebb2704b2e50420231/cenc.mpd",
+            "title": "SPY - FHD",
+            "type": "1"
+          },
+          {
+            "api": "7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe",
+            "link": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
+            "title": "Fancode AQ",
+            "type": "1"
+          },
+          {
+            "api": "d48b6088253c443eb94d27cb7828f707:e9776141f9e949273a072b0e035070ab",
+            "link": "https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(Bein1)/master.mpd",
+            "title": "beIN SPORTS",
+            "type": "1"
+          },
+          {
+            "api": "",
+            "link": "https://bl.rutube.ru/livestream/e5df6984021365a58b3ba22dab2f670a/index.m3u8?s=cRTSQR0_aAkgSRFZx-X5PQ&e=2071398907&scheme=https",
+            "title": "SKY SPORTS",
+            "type": "0"
+          },
+          {
+            "api": "0:0",
+            "link": "https://bbb.exoadash.com/TVD201/index.mpd",
+            "title": "Sky Sport F1",
+            "type": "1"
+          },
+          {
+            "api": "",
+            "link": "https://601.xn--1000-ugoa0hsb9a0hb.com/f1.m3u8",
+            "title": "SPORTIFy - F1",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://mainstreams.pro/hls/hbfkazbkaznc49.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://smarthard.click/hls/91LHlS9qZPK5/index.m3u8",
+            "title": "Sky F1 SD",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://smarthard.click/hls/07HL6dzqKCAr/index.m3u8",
+            "title": "Sky F1 DE",
+            "type": "0"
+          },
+          {
+            "api": "2fbdaa3bea0d0323ae011b318d1db716:8726ef7eaf5b9dce15fb6aa9f80bd53f",
+            "link": "https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oboxe53wyo/out/v1/f7892a9d706d419a846d738fa22ea33e/cenc.mpd",
+            "title": "Fox Sports - AQ",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/03/06 07:30:00 +0000",
+          "eventName": "Formula 1 - Pre Season Test",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/03/06 01:30:00 +0000",
+          "teamA": "Formula 1",
+          "teamAFlag": "https://scdnmain.net/assets/tournament/40-c.png",
+          "teamB": "Formula 1",
+          "teamBFlag": "https://scdnmain.net/assets/tournament/40-c.png"
         },
-        {
-          "api": "dadpremium343,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6",
-          "link": "https://red9.lumenlyra.space/playlist/36017/load-playlist?|Referer=https://gooz.aapmains.net",
-          "name": "SP - 2",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://assets.primesport.com/prod/images/Smackdown%202025%20Updated%20Logo.png",
-      "teamAName": "SmackDown",
-      "teamBFlag": "https://assets.primesport.com/prod/images/Smackdown%202025%20Updated%20Logo.png",
-      "teamBName": "SmackDown",
-      "time": "01:00:00",
-      "visible": true
-    },
-    {
-      "category": "Motorsports",
-      "date": "06/03/2026",
-      "end_date": "",
-      "end_time": "",
-      "eventLogo": "https://access-control-center-prod.freevision.live/ss/category/36.png",
-      "eventName": "Formula1 - Bahrain Test",
-      "id": 22,
-      "links": [
-        {
-          "api": "",
-          "link": "https://stream.huraweb.com/embed_view.php?id=75ea48132cd87cee",
-          "name": "Sky Sports - IOS",
-          "scheme": 0,
-          "tokenApi": ""
+        "id": "312",
+        "image": "o",
+        "publish": "1",
+        "title": "Formula 1"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "MotoGP",
+        "channels_data": [
+          {
+            "api": "f288380ca4cef9ad3f27a92a08e9bb8b:9f18d26291d9230833501f7f822f6875",
+            "link": "https://cors-proxy.cooks.fyi/https://netskrt.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd",
+            "title": "TNT SPORTS",
+            "type": "1"
+          },
+          {
+            "api": "065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2",
+            "link": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
+            "title": "FANCODE FHD",
+            "type": "1"
+          },
+          {
+            "api": "7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed",
+            "link": "https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd",
+            "title": "SPO TV - AQ",
+            "type": "1"
+          },
+          {
+            "api": "ef34ae91b4f2415e8439b2ad105e7488:243248d8de1ff8c7c587ee2057317523",
+            "link": "https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw75168188_-627298088/PLTV/86/224/3221241590/3221241590.mpd?zoneoffset=0&devkbps=1-7000&servicetype=1&icpid=86&accounttype=1&limitflux=-1&limitdur=-1&tenantId=3103&accountinfo=~~V2.0~qbcsJh_jU5C9BcZc959e_wae44b4867b3417aa76b5db2da20fe46c~KZzTWjB8qD1zdgbJjRPVLJX-tV0qiN9RBHC_iseGrsmTSRjj06oGDtGlpSCRGOwF3626cf085c08d024c7e4aafc18c32440~ExtInfo5Ro3VppWiUusj2ippqUPkQ%3D%3D4a2d2c8ce133f43026d0e31b822b8474%3A20240601012829%3AUTC%2C10001003329222%2C87.212.140.171%2C20240601012829%2C3103_SP1S%2C10001003329222%2C-1%2C0%2C1%2C%2C%2C2%2C3103_Sport1%2C%2C%2C2%2C10000044444303%2C0%2C10000025050255%2CNDEzODg2NTY3MzEwMzI2NzMwNjMwNTY%3D%2C%2C%2C5%2C1%2CEND&GuardEncType=2&RTS=1717205309&from=11&hms_devid=1008&online=1717205309&mag_hms=1008,311,305&_=1717205322621",
+            "title": "ZIGGO SPORT - AQ",
+            "type": "1"
+          },
+          {
+            "api": "",
+            "link": "https://edge2caster.pro/hls/oeenzgezcz47.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+            "title": "TNT SPORTS SD",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/02/28 09:30:00 +0000",
+          "eventName": "MotoGP - Grand Prix of Thailand",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/02/28 03:10:00 +0000",
+          "teamA": "MotoGP",
+          "teamAFlag": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8fGgE14VBFQKRIMiWIvOlIwpL6AEobQtL3OkLLu7AzsBPGzeXGHsz5PL0NED5DHlAyKCFhPHoNaFB4Z1csH_vvpU47Pbtslr1za618knr-wojLCDa1hyW40v59Qw_UjMGWLREzicm9ZDl7yMuylyu7xMdMoQG3-XXKLoZafem7lpKqxfKavQu-33Mbck/s1600/mgp.png",
+          "teamB": "MotoGP",
+          "teamBFlag": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8fGgE14VBFQKRIMiWIvOlIwpL6AEobQtL3OkLLu7AzsBPGzeXGHsz5PL0NED5DHlAyKCFhPHoNaFB4Z1csH_vvpU47Pbtslr1za618knr-wojLCDa1hyW40v59Qw_UjMGWLREzicm9ZDl7yMuylyu7xMdMoQG3-XXKLoZafem7lpKqxfKavQu-33Mbck/s1600/mgp.png"
         },
-        {
-          "api": "2fbdaa3bea0d0323ae011b318d1db716:8726ef7eaf5b9dce15fb6aa9f80bd53f",
-          "link": "https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oboxe53wyo/out/v1/f7892a9d706d419a846d738fa22ea33e/cenc.mpd",
-          "name": "Fox Sports - AQ",
-          "scheme": 0,
-          "tokenApi": ""
+        "id": "313",
+        "image": "o",
+        "publish": "1",
+        "title": "MotoGP"
+      },
+      {
+        "adsLimit": "13",
+        "cat": "UFC",
+        "channels_data": [
+          {
+            "api": "d0f2e5c39e70c18f29bf77768a1ad89a:d6853c51fcf37a18905f0609972395d7",
+            "link": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd",
+            "title": "TNT Sports",
+            "type": "1"
+          },
+          {
+            "api": "",
+            "link": "https://indiasmellsverybad.xyz/live/ufc-on-espn-73-royval-vs-kape720p/index.m3u8",
+            "title": "SPORTIFy UFC",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://gg.poocloud.in/ufc/tracks-v1a1/mono.ts.m3u8?|Referer=https://ppv.to/&Origin=https://ppv.to",
+            "title": "SPORTIFy FHD",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://red9.lumenlyra.space/playlist/41184/load-playlist?|Referer=https://gooz.aapmains.net",
+            "title": "SPORTIFy TV+ HD",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://edgestreams.pro/hls/zeuryuegn48.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+            "title": "SPORTIFy Low",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://azplay.live/hls/NFLHD30/index.m3u8?|Referer=https://arizonaplay.club/&Origin=https://arizonaplay.club",
+            "title": "SPORTIFy HD",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://cdn1.dtplumber.cfd/live/cdn1/chunks.m3u8",
+            "title": "FAST Server",
+            "type": "0"
+          },
+          {
+            "api": "a49085f8da5e65af1efff0edac830b1f:4659bc58a85c062e3fe0c039a446fe47",
+            "link": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/8mxwjnh2te/out/v1/356704796c0c4bed81f67cd3518d0c8a/cenc.mpd",
+            "title": "UFC+ - AQ",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/03/01 05:00:00 +0000",
+          "eventName": "UFC Fight Night",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/02/28 22:00:00 +0000",
+          "teamA": "B. Moreno",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/461508/image",
+          "teamB": "L. Kavanagh",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/461393/image"
         },
-        {
-          "api": "",
-          "link": "https://smarthard.click/hls/91LHlS9qZPK5/index.m3u8",
-          "name": "Sky F1 SD",
-          "scheme": 0,
-          "tokenApi": ""
+        "id": "324",
+        "image": "o",
+        "publish": "1",
+        "title": "UFC"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "Boxing",
+        "channels_data": [
+          {
+            "api": "308006101c8fd0262c0f529319b9c127:37683aadc75b1450efa82d62c647984d",
+            "link": "https://live-pv-ta.amazon.fastly-edge.com/syd-nitro/live/clients/dash/enc/kkfdbi2d1c/out/v1/a5b9b32dafd5499688240287ef8c9b90/cenc.mpd",
+            "title": "One Fight - AQ",
+            "type": "1"
+          },
+          {
+            "api": "60dc08aae52f4c0b806a8e43f24a12c8:30d5b579966d822b215ec51a91d8a271",
+            "link": "https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd",
+            "title": "Server 2",
+            "type": "1"
+          },
+          {
+            "api": "a6b967afcb974bb5a549377b4f09befd:87d993257a099324ccd0215475fc61a0",
+            "link": "https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561402/index.mpd",
+            "title": "Server 3",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/02/27 16:30:00 +0000",
+          "eventName": "ONE Friday Fights 138",
+          "eventType": "null",
+          "startTime": "2026/02/27 12:30:00 +0000",
+          "teamA": "Friday Fights",
+          "teamAFlag": "https://iili.io/FDjaT1R.md.png",
+          "teamB": "Friday Fights",
+          "teamBFlag": "https://iili.io/FDjaT1R.md.png"
         },
-        {
-          "api": "",
-          "link": "https://stream.huraweb.com/embed_view.php?id=b3fa79aa26476de9",
-          "name": "Sky F1 HD - IOS",
-          "scheme": 0,
-          "tokenApi": ""
+        "id": "327",
+        "image": "o",
+        "publish": "1",
+        "title": "ONE Friday Fights 130"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "WWE",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://android-database1.firebase-api.com/AccessLog2/108085_HD/apache.m3u8|Referer=https://android-database1.firebase-api.com",
+            "title": "Backup SD",
+            "type": "0"
+          },
+          {
+            "api": "eabd2d95c89e42f2b0b0b40ce4179ea0:0e7e35a07e2c12822316c0dc4873903f",
+            "link": "https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd",
+            "title": "Tap Sport LQ",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/03/03 02:30:00 +0000",
+          "eventName": "🥊 WWE Monday Night RAW",
+          "eventType": "null",
+          "startTime": "2026/03/03 01:00:00 +0000",
+          "teamA": "WWE",
+          "teamAFlag": "https://images2.minutemediacdn.com/image/upload/c_crop,w_1920,h_1080,x_0,y_0/c_fill,w_1080,ar_16:9,f_auto,q_auto,g_auto/images%2FvoltaxMediaLibrary%2Fmmsport%2Fwrestling_on_fannation%2F01j7cr769n5sz41833rh.jpg",
+          "teamB": "WWE",
+          "teamBFlag": "https://images2.minutemediacdn.com/image/upload/c_crop,w_1920,h_1080,x_0,y_0/c_fill,w_1080,ar_16:9,f_auto,q_auto,g_auto/images%2FvoltaxMediaLibrary%2Fmmsport%2Fwrestling_on_fannation%2F01j7cr769n5sz41833rh.jpg"
         },
-        {
-          "api": "",
-          "link": "https://stream.huraweb.com/embed_view.php?id=a119bff323d5cdbb",
-          "name": "Sky Sports HD - IOS",
-          "scheme": 0,
-          "tokenApi": ""
+        "id": "328",
+        "image": "o",
+        "publish": "1",
+        "title": "WWE Raw"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "WWE",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://601.xn--1000-ugoa0hsb9a0hb.com/wwe.m3u8",
+            "title": "SPORTIFy FHD Server",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://27lftgqlgzmy.windows-devs.top/AccessLog2/83_FHD/apache.m3u8|Referer=https://27lftgqlgzmy.windows-devs.top/",
+            "title": "Backup HD",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://android-database1.firebase-api.com/AccessLog2/108085_HD/apache.m3u8|Referer=https://android-database1.firebase-api.com",
+            "title": "Backup SD",
+            "type": "0"
+          },
+          {
+            "api": "58551b13211b37d5b325d67e5c6cabef:3b4c3f8b4236fc57d66cdb54a606fe41",
+            "link": "https://g001-sle-us-cmaf-prd-ak.pcdn03.cssott.com/Content/CMAF_OS1-CTR-4s-v2/Live/channel(12010340-12010340-4445585a62764)/master_2hr.mpd",
+            "title": "USA TV (USA VPN)",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/03/07 03:30:00 +0000",
+          "eventName": "🥊 WWE Friday Night SmackDown",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/03/07 01:00:00 +0000",
+          "teamA": "WWE",
+          "teamAFlag": "https://www.wwe.com/f/styles/wwe_show_logo_l/public/all/2024/09/Smackdown_LOGO--c8e0b09904cb1356d309a8ea2acb0422.png",
+          "teamB": "WWE",
+          "teamBFlag": "https://www.wwe.com/f/styles/wwe_show_logo_l/public/all/2024/09/Smackdown_LOGO--c8e0b09904cb1356d309a8ea2acb0422.png"
         },
-        {
-          "api": "",
-          "link": "https://smarthard.click/hls/07HL6dzqKCAr/index.m3u8",
-          "name": "Sky F1 DE",
-          "scheme": 0,
-          "tokenApi": ""
+        "id": "329",
+        "image": "o",
+        "publish": "1",
+        "title": "WWE Smackdown"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "WWE",
+        "channels_data": [
+          {
+            "api": "eabd2d95c89e42f2b0b0b40ce4179ea0:0e7e35a07e2c12822316c0dc4873903f",
+            "link": "https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd",
+            "title": "Tap Sports",
+            "type": "1"
+          },
+          {
+            "api": "",
+            "link": "https://android-database1.firebase-api.com/AccessLog2/108085_HD/apache.m3u8|Referer=https://android-database1.firebase-api.com",
+            "title": "Backup SD",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/03/04 02:30:00 +0000",
+          "eventName": "🥊 WWE NXT",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/03/04 01:00:00 +0000",
+          "teamA": "NXT",
+          "teamAFlag": "https://www.wwe.com/f/styles/wwe_show_logo_sm/public/all/2024/10/NXTonCW--0f06792893241464479338f55596a5bf.png",
+          "teamB": "NXT",
+          "teamBFlag": "https://www.wwe.com/f/styles/wwe_show_logo_sm/public/all/2024/10/NXTonCW--0f06792893241464479338f55596a5bf.png"
         },
-        {
-          "api": "7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe",
-          "link": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
-          "name": "Fancode AQ",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://access-control-center-prod.freevision.live/ss/category/36.png",
-      "teamAName": "Formula 1",
-      "teamBFlag": "https://access-control-center-prod.freevision.live/ss/category/36.png",
-      "teamBName": "Formula 1",
-      "time": "08:15:00",
-      "visible": true
-    },
-    {
-      "category": "Boxing",
-      "date": "03/03/2026",
-      "end_date": "03/03/2026",
-      "end_time": "06:00:00",
-      "eventLogo": "https://static.wikia.nocookie.net/wweuniverse/images/f/f6/Wwelogo.png/revision/latest?cb=20101124080717",
-      "eventName": "Monday Night Raw",
-      "id": 24,
-      "links": [
-        {
-          "api": "eabd2d95c89e42f2b0b0b40ce4179ea0:0e7e35a07e2c12822316c0dc4873903f",
-          "link": "https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd",
-          "name": "Tap Sport LQ",
-          "scheme": 0,
-          "tokenApi": ""
+        "id": "337",
+        "image": "o",
+        "publish": "1",
+        "title": "WWE NXT"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "WWE",
+        "channels_data": [
+          {
+            "api": "daa8ea92553fd16cd6bfae2b8c582715:4042e041b5639b79b69ae07a872eef9b",
+            "link": "https://netskrt.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/3n6slkgh54/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd",
+            "title": "TSN SPORTS",
+            "type": "1"
+          },
+          {
+            "api": "9f327d24c66fbd84e15ab5c9ead7c7a4:83837185529c0c4048f81386c2d36426",
+            "link": "https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd",
+            "title": "Fox Sports Premium",
+            "type": "1"
+          },
+          {
+            "api": "",
+            "link": "https://android-database1.firebase-api.com/AccessLog2/108087_HD/apache.m3u8|Referer=https://android-database1.firebase-api.com",
+            "title": "BACKUP SD",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://red4.voyagerover.shop/playlist/45593/load-playlist|Referer=https://gooz.aapmains.net/new-stream-embed/45593?3newa=111",
+            "title": "Streameast",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/03/01 03:30:00 +0000",
+          "eventName": "AEW Collision",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/03/01 01:00:00 +0000",
+          "teamA": "AEW",
+          "teamAFlag": "https://static.wixstatic.com/media/815952_5964d86934774f97a1a12b104c8b0a7a~mv2.png/v1/fill/w_146,h_54,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/aewlogo24b.png",
+          "teamB": "AEW",
+          "teamBFlag": "https://static.wixstatic.com/media/815952_5964d86934774f97a1a12b104c8b0a7a~mv2.png/v1/fill/w_146,h_54,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/aewlogo24b.png"
         },
-        {
-          "api": "",
-          "link": "https://android-database1.firebase-api.com/AccessLog2/108085_HD/apache.m3u8|Referer=https://android-database1.firebase-api.com",
-          "name": "Backup SD",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://www.wwe.com/f/styles/wwe_show_logo_l/public/all/2024/12/RAW_Primary_Logo_For_Any_Background_%281%29--de3612b9543981440a24489e0e568d9b.png",
-      "teamAName": "Raw",
-      "teamBFlag": "https://www.wwe.com/f/styles/wwe_show_logo_l/public/all/2024/12/RAW_Primary_Logo_For_Any_Background_%281%29--de3612b9543981440a24489e0e568d9b.png",
-      "teamBName": "Raw",
-      "time": "01:00:00",
-      "visible": true
-    },
-    {
-      "category": "Football ",
-      "date": "28/02/2026",
-      "end_date": "28/02/2026",
-      "end_time": "16:10:00",
-      "eventLogo": "o",
-      "eventName": "ISL vs ISL",
-      "id": 44,
-      "links": [
-        {
-          "api": "7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe",
-          "link": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
-          "name": "FANCODE FHD",
-          "scheme": 0,
-          "tokenApi": ""
+        "id": "354",
+        "image": "o",
+        "publish": "1",
+        "title": "WWE"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "ICC Mens T20 WC",
+        "channels_data": [
+          {
+            "api": "04ef2776a130e77f2e829d95bdc94d4b:203f0b19e11497baf5910937486692d7",
+            "link": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/enc/yiiftorhi8/out/v1/be0f7019b1c448f185520be36ff5c809/cenc.mpd",
+            "title": "Willow [Ad Free]",
+            "type": "1"
+          },
+          {
+            "api": "",
+            "link": "https://live-pull.aisports.mobi/moviebox/device02/playlist.m3u8|Referer=https://sportslivenow.top/",
+            "title": "JIO HOTSTAR",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://stream1.liveland.af/hls/tv/tolo-sport/chunklist3.m3u8?|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+            "title": "SPORTIFy LIVE",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://cdn39591467.blazingcdn.net/dx14fhd/index.m3u8|Referer=https://yahoo.com/&Origin=https://yahoo.com&User-Agent=AppleCoreMedia/1.0.0.23D5103d (iPhone; U; CPU OS 26_3 like Mac OS X; en_us)",
+            "title": "WILLOW HD",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "http://103.99.249.139/starsport2/index.m3u8",
+            "title": "Star Sport HIN",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://cloud.odysee.live/content/99a872d96a2f8461496e2e68c0c7861c86b939c5/live.m3u8|Referer=https://odysee.com/",
+            "title": "JIO HOTSTAR [HIN]",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://prod-fastly-ap-southeast-1.video.pscp.tv/Transcoding/v1/hls/xhwjibNeyAi5t5akBQHh9GQFuNPd6-OpoP9ySVoVrRgIKcM1s-7J6kjqfgNMU6uXniXV55NfRbdOkG_G2Lgf4g/non_transcode/ap-southeast-1/periscope-replay-direct-prod-ap-southeast-1-public/master_dynamic_highlatency.m3u8?type=live|referer=https://pscp.tv/",
+            "title": "URDU Commentary",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/02/28 17:15:00 +0000",
+          "eventName": "Sri Lanka vs Pakistan",
+          "eventType": "null",
+          "isHot": "1",
+          "startTime": "2026/02/28 13:30:00 +0000",
+          "teamA": "SL",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/187756/image",
+          "teamB": "PAK",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/187754/image"
         },
-        {
-          "api": "",
-          "link": "https://live.alilicloud.com/live/4d20c920fbb3e52e1f377871a9989916/playlist.m3u8",
-          "name": "FANCODE [ENG]",
-          "scheme": 0,
-          "tokenApi": ""
+        "id": "366",
+        "image": "o",
+        "publish": "1",
+        "title": "ICC T20 WC - 01"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "ISL",
+        "channels_data": [
+          {
+            "api": "7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe",
+            "link": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
+            "title": "FANCODE FHD",
+            "type": "1"
+          },
+          {
+            "api": "",
+            "link": "https://live.alilicloud.com/live/29883a8cd7995c3f98b4507f4522088c/playlist.m3u8",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          },
+          {
+            "api": "bd680e6ff80945cfa722a80c01a40689:9120863275f2e9e778986d661beec5c8",
+            "link": "https://in-mc-flive.fancode.com/mumbai/140449_english_dash_1835_1drmta-di_h264/index.mpd",
+            "title": "FANCODE [ENG]",
+            "type": "1"
+          },
+          {
+            "api": "3d2fde1074464a26b6a8c49e261425a5:3b6b705ea2a7ec46075b1fe181829e0e",
+            "link": "https://in-mc-flive.fancode.com/mumbai/140449_hindi_dash_40966_1drmta-di_h264/index.mpd",
+            "title": "FANCODE [HIN]",
+            "type": "1"
+          },
+          {
+            "api": "c88e67bdc9e34b3387d1eb2763cc7f92:908f955220af150c67983fcedd49b1ef",
+            "link": "https://in-mc-flive.fancode.com/mumbai/140449_malayalam_dash_73619_1drmta-di_h264/index.mpd",
+            "title": "FANCODE [MAL]",
+            "type": "1"
+          },
+          {
+            "api": "5f9c14574a3a4aa488a81d9242481791:660f5f8f850afe55b9fa974e7af75474",
+            "link": "https://in-mc-flive.fancode.com/mumbai/140449_bengali_dash_72809_1drmta-di_h264/index.mpd",
+            "title": "FANCODE [BAN]",
+            "type": "1"
+          },
+          {
+            "api": "62e29420fe01453fb9192ff66485b348:795fd09188708ddce09b6b1c42e2df67",
+            "link": "https://bd-mc-flive.fancode.com/delhi/140449_english_dash_28934_1drmta-di_h264/index.mpd",
+            "title": "FANCODE [BD]",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/02/28 16:00:00 +0000",
+          "eventName": "ISL vs ISL",
+          "eventType": "null",
+          "startTime": "2026/02/28 11:30:00 +0000",
+          "teamA": "ISL",
+          "teamAFlag": "https://images.fancode.com/skillup-uploads/cms-media/ISL-Tour-Logo.png?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvY21zLW1lZGlhL0lTTC1Ub3VyLUxvZ28ucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjE4MCwiaGVpZ2h0IjoxODB9LCJ3ZWJwIjp7InF1YWxpdHkiOjYwLCJsb3NzbGVzcyI6ZmFsc2V9fSwib3V0cHV0Rm9ybWF0Ijoid2VicCJ9",
+          "teamB": "ISL",
+          "teamBFlag": "https://images.fancode.com/skillup-uploads/cms-media/ISL-Tour-Logo.png?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvY21zLW1lZGlhL0lTTC1Ub3VyLUxvZ28ucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjE4MCwiaGVpZ2h0IjoxODB9LCJ3ZWJwIjp7InF1YWxpdHkiOjYwLCJsb3NzbGVzcyI6ZmFsc2V9fSwib3V0cHV0Rm9ybWF0Ijoid2VicCJ9"
         },
-        {
-          "api": "e180decaf610482c8b62af8ac9dcc20d:3f552936a4c79d121c4fae4647009f18",
-          "link": "https://in-mc-flive.fancode.com/mumbai/140446_hindi_dash_69097_1drmta-di_h264/index.mpd",
-          "name": "FANCODE [HIN]",
-          "scheme": 0,
-          "tokenApi": ""
+        "id": "371",
+        "image": "o",
+        "publish": "1",
+        "title": "ISL VS ISL"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "Cricket",
+        "channels_data": [
+          {
+            "api": "1d96ab366bbe6451edf7407b58e2fa16:0116201f4a63ac5bf5787d2c610c41a7",
+            "link": "https://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/5sxuux529k/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd",
+            "title": "TNT SPORTS",
+            "type": "1"
+          },
+          {
+            "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
+            "link": "https://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+            "title": "WILLOW FHD",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/03/01 07:25:00 +0000",
+          "eventName": "Australia W vs India W",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/03/01 03:50:00 +0000",
+          "teamA": "AUS-W",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/213117/image",
+          "teamB": "IND-W",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/213119/image"
         },
-        {
-          "api": "54bae023cf9042a5820659f1dd505b81:8fc009442453c0fcc902c994a45eda72",
-          "link": "https://in-mc-flive.fancode.com/mumbai/140446_malayalam_dash_79618_1drmta-di_h264/index.mpd",
-          "name": "FANCODE [MAL]",
-          "scheme": 0,
-          "tokenApi": ""
+        "id": "372",
+        "image": "o",
+        "publish": "1",
+        "title": "Australia W vs India W"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "Pro League 🇸🇦",
+        "channels_data": [
+          {
+            "api": "0:0",
+            "link": "https://bbb.exoadash.com/TVD1403/index.mpd",
+            "title": "Thmanyah - FHD",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/02/28 21:00:00 +0000",
+          "eventName": "Neom SC vs Al-Kholood",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/02/28 19:00:00 +0000",
+          "teamA": "Neom SC",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/530631/image",
+          "teamB": "Al-Kholood",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/269199/image"
         },
-        {
-          "api": "7ed8ab01ab97457fbd3019d463273cc9:dd31e8d16f1cb25590142b81bc82982c",
-          "link": "https://in-mc-flive.fancode.com/mumbai/140446_bengali_dash_48329_1drmta-di_h264/index.mpd",
-          "name": "FANCODE [BAN]",
-          "scheme": 0,
-          "tokenApi": ""
+        "id": "383",
+        "image": "o",
+        "publish": "1",
+        "title": "Neom SC vs Al-Kholood"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "Pro League 🇸🇦",
+        "channels_data": [
+          {
+            "api": "0:0",
+            "link": "https://bbb.exoadash.com/TVD6737/index.mpd",
+            "title": "Thmanyah - FHD",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/02/28 21:00:00 +0000",
+          "eventName": "Al-Najma SC vs Al-Okhdood",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/02/28 19:00:00 +0000",
+          "teamA": "Al-Najma",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/395831/image",
+          "teamB": "Al-Okhdood",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/336456/image"
         },
-        {
-          "api": "cf568fb0ea054e839a87a79e12e24d19:d47dcb08ac28d20ede339ee3b383f89b",
-          "link": "https://bd-mc-flive.fancode.com/delhi/140446_english_dash_93802_1drmta-di_h264/index.mpd",
-          "name": "FANCODE [BD]",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://images.fancode.com/skillup-uploads/cms-media/ISL-Tour-Logo.png?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvY21zLW1lZGlhL0lTTC1Ub3VyLUxvZ28ucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjE4MCwiaGVpZ2h0IjoxODB9LCJ3ZWJwIjp7InF1YWxpdHkiOjYwLCJsb3NzbGVzcyI6ZmFsc2V9fSwib3V0cHV0Rm9ybWF0Ijoid2VicCJ9",
-      "teamAName": "ISL",
-      "teamBFlag": "https://images.fancode.com/skillup-uploads/cms-media/ISL-Tour-Logo.png?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvY21zLW1lZGlhL0lTTC1Ub3VyLUxvZ28ucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjE4MCwiaGVpZ2h0IjoxODB9LCJ3ZWJwIjp7InF1YWxpdHkiOjYwLCJsb3NzbGVzcyI6ZmFsc2V9fSwib3V0cHV0Rm9ybWF0Ijoid2VicCJ9",
-      "teamBName": "ISL",
-      "time": "11:30:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "28/02/2026",
-      "end_date": "28/02/2026",
-      "end_time": "17:20:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/17/image/dark",
-      "eventName": "Premier League",
-      "id": 45,
-      "links": [
-        {
-          "link": "https://no.link",
-          "name": "Link 1"
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/39/image",
-      "teamAName": "Newcastle United",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/48/image",
-      "teamBName": "Everton",
-      "time": "15:00:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "28/02/2026",
-      "end_date": "28/02/2026",
-      "end_time": "16:50:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/35/image/dark",
-      "eventName": "Bundesliga",
-      "id": 46,
-      "links": [
-        {
-          "api": "",
-          "link": "https://smarthard.click/hls/8r59wy2BRApK/index.m3u8",
-          "name": "SKY BUNDESLIGA SD",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2681/image",
-      "teamAName": "Bayer 04 Leverkusen",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2556/image",
-      "teamBName": "1. FSV Mainz 05",
-      "time": "14:30:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "28/02/2026",
-      "end_date": "28/02/2026",
-      "end_time": "14:50:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark",
-      "eventName": "Championship",
-      "id": 47,
-      "links": [
-        {
-          "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
-          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
-          "name": "beIN ENGLISH",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/31/image",
-      "teamAName": "Leicester City",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/263/image",
-      "teamBName": "Norwich City",
-      "time": "12:30:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "28/02/2026",
-      "end_date": "28/02/2026",
-      "end_time": "15:20:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/8/image/dark",
-      "eventName": "LaLiga",
-      "id": 48,
-      "links": [
-        {
-          "api": "620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a",
-          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd",
-          "name": "Laliga TV FHD",
-          "scheme": 0,
-          "tokenApi": ""
+        "id": "384",
+        "image": "o",
+        "publish": "1",
+        "title": "Al-Najma SC vs Al-Okhdood"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "Pro League 🇸🇦",
+        "channels_data": [
+          {
+            "api": "0:0",
+            "link": "https://bbb.exoadash.com/TVD1451/index.mpd",
+            "title": "Thmanyah - FHD",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/02/28 21:00:00 +0000",
+          "eventName": "Al-Fayha vs Al-Nassr",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/02/28 19:00:00 +0000",
+          "teamA": "Al-Fayha",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/168094/image",
+          "teamB": "Al-Nassr",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/23400/image"
         },
-        {
-          "api": "065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2",
-          "link": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
-          "name": "FANCODE FHD",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2818/image",
-      "teamAName": "Rayo Vallecano",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2825/image",
-      "teamBName": "Athletic Club",
-      "time": "13:00:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "28/02/2026",
-      "end_date": "28/02/2026",
-      "end_time": "16:20:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/23/image/dark",
-      "eventName": "Serie A",
-      "id": 49,
-      "links": [
-        {
-          "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
-          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
-          "name": "beIN ENGLISH",
-          "scheme": 0,
-          "tokenApi": ""
+        "id": "385",
+        "image": "o",
+        "publish": "1",
+        "title": "Al-Fayha vs Al-Nassr"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+        "channels_data": [
+          {
+            "api": "3501bd323a6a35c28eb7654bf298b9aa:2db4c8089d627e1b2c480c57baa86a7b",
+            "link": "https://cdn4.skygo.mn/live/disk1/SPSPlay/DASH-FTA/SPSPlay.mpd",
+            "title": "PSN SPORTS",
+            "type": "1"
+          },
+          {
+            "api": "dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f",
+            "link": "https://sireli1307-dk.hf.space/https://netskrt.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd",
+            "title": "FUBO SPORTS",
+            "type": "1"
+          },
+          {
+            "api": "96b67fa09140329a89b7a1ead134eda3:c618d32c56cdc6cad8330eb98507ca3f",
+            "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-east)/master.mpd",
+            "title": "NBC UNIVERSO",
+            "type": "1"
+          },
+          {
+            "api": "",
+            "link": "https://grand-s-v001.faggotsports.tv/out/v1/probiniboc7ltizegevusplstaclmlbr/mix-stream.m3u8|Referer=https://hmembeds.one/",
+            "title": "USA NETWORK",
+            "type": "0"
+          },
+          {
+            "api": "0:0",
+            "link": "https://bbb.exoadash.com/TVD6219/index.mpd",
+            "title": "NOVA SPORTS",
+            "type": "1"
+          },
+          {
+            "api": "",
+            "link": "https://bl.rutube.ru/livestream/9585fdae92af45f113fdcc9f6c4ba442/index.m3u8?s=KgZtccuHrnaljGaN7cmUwA&e=2068506973&scheme=https",
+            "title": "MAIN EVENT HD",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://play.ltwxsc.com/live/hd-en-6MuT7JxGPEb2EZP9dp.m3u8?txSecret=404646f67d9c0bd75b976f8603a2a9dd&txTime=69A22206",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://areagame.net/1111.php",
+            "title": "HD SERVER",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://28.hls-syria.live/live/bein1_1080p",
+            "title": "beIN ARABIC HVEC",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/02/27 22:00:00 +0000",
+          "eventName": "Wolverhampton vs Aston Villa",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/02/27 20:00:00 +0000",
+          "teamA": "Wolves",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3/image",
+          "teamB": "Aston Villa",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/40/image"
         },
-        {
-          "api": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811",
-          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
-          "name": "FOX DEPORTES",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2704/image",
-      "teamAName": "Como",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2689/image",
-      "teamBName": "Lecce",
-      "time": "14:00:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "28/02/2026",
-      "end_date": "28/02/2026",
-      "end_time": "17:20:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/17/image/dark",
-      "eventName": "Premier League",
-      "id": 52,
-      "links": [
-        {
-          "link": "https://no.link",
-          "name": "Link 1"
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/44/image",
-      "teamAName": "Liverpool",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/37/image",
-      "teamBName": "West Ham United",
-      "time": "15:00:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "28/02/2026",
-      "end_date": "28/02/2026",
-      "end_time": "17:20:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/17/image/dark",
-      "eventName": "Premier League",
-      "id": 53,
-      "links": [
-        {
-          "link": "https://no.link",
-          "name": "Link 1"
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/6/image",
-      "teamAName": "Burnley",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/50/image",
-      "teamBName": "Brentford",
-      "time": "15:00:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "28/02/2026",
-      "end_date": "28/02/2026",
-      "end_time": "17:20:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark",
-      "eventName": "Championship",
-      "id": 54,
-      "links": [
-        {
-          "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
-          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
-          "name": "beIN ENGLISH",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/21/image",
-      "teamAName": "Preston North End",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/25/image",
-      "teamBName": "Millwall",
-      "time": "15:00:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "28/02/2026",
-      "end_date": "28/02/2026",
-      "end_time": "16:50:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/35/image/dark",
-      "eventName": "Bundesliga",
-      "id": 55,
-      "links": [
-        {
-          "api": "",
-          "link": "https://smarthard.click/hls/Mhe8gotoGQlu/index.m3u8",
-          "name": "SKY BUNDESLIGA SD",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2569/image",
-      "teamAName": "TSG Hoffenheim",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2526/image",
-      "teamBName": "FC St. Pauli",
-      "time": "14:30:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "28/02/2026",
-      "end_date": "28/02/2026",
-      "end_time": "16:50:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/35/image/dark",
-      "eventName": "Bundesliga",
-      "id": 56,
-      "links": [
-        {
-          "api": "",
-          "link": "https://smarthard.click/hls/kjzxkCIqkhtb/index.m3u8",
-          "name": "SKY BUNDESLIGA SD",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2534/image",
-      "teamAName": "SV Werder Bremen",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/5885/image",
-      "teamBName": "1. FC Heidenheim",
-      "time": "14:30:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "28/02/2026",
-      "end_date": "28/02/2026",
-      "end_time": "17:35:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/8/image/dark",
-      "eventName": "LaLiga",
-      "id": 57,
-      "links": [
-        {
-          "api": "620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a",
-          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd",
-          "name": "Laliga TV FHD",
-          "scheme": 0,
-          "tokenApi": ""
+        "id": "396",
+        "image": "o",
+        "publish": "1",
+        "title": "Wolves vs Aston Villa"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://grand-s-v001.faggotsports.tv/out/v1/frofudrljocldrugudr295ifistlsw1w/mix-stream.m3u8|Referer=https://hmembeds.one/",
+            "title": "TNT SPORTS FHD",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://grand-s-v001.faggotsports.tv/out/v1/07207bdd3cd651e2f3914fb5b00126ae/mix-stream.m3u8|Referer=https://hmembeds.one/",
+            "title": "FUBO SPORTS FHD",
+            "type": "0"
+          },
+          {
+            "api": "0:0",
+            "link": "https://bbb.exoadash.com/TVD6219/index.mpd",
+            "title": "NOVA SPORTS PL",
+            "type": "1"
+          },
+          {
+            "api": "96b67fa09140329a89b7a1ead134eda3:c618d32c56cdc6cad8330eb98507ca3f",
+            "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-east)/master.mpd",
+            "title": "NBC UNIVERSO",
+            "type": "1"
+          },
+          {
+            "api": "3501bd323a6a35c28eb7654bf298b9aa:2db4c8089d627e1b2c480c57baa86a7b",
+            "link": "https://cdn4.skygo.mn/live/disk1/SPSPlay/DASH-FTA/SPSPlay.mpd",
+            "title": "PSN SPORTS",
+            "type": "1"
+          },
+          {
+            "api": "",
+            "link": "https://601.serverbandel.sbs/usa.m3u8",
+            "title": "USA TV FHD",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://daffodil.lifesharper.com/now.m3u8",
+            "title": "NOW SPORTS PL",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://red6.lumenglide.shop/playlist/45982/load-playlist?|Referer=https://gooz.aapmains.net/",
+            "title": "HD SERVER",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://play.ltwxsc.com/live/hd-en-6MuT7JxG3qEzcvPw6n.m3u8?txSecret=d7ce934ba75f71a65cf64e1403450293&txTime=69A30993",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://28.hls-syria.live/live/bein1_1080p",
+            "title": "beIN ARABIC",
+            "type": "0"
+          },
+          {
+            "api": "294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b",
+            "link": "https://netskrt.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd",
+            "title": "TNT SPORTS [US]",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/02/28 14:30:00 +0000",
+          "eventName": "Bournemouth vs Sunderland",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/02/28 12:30:00 +0000",
+          "teamA": "Bournemouth",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/60/image",
+          "teamB": "Sunderland",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/41/image"
         },
-        {
-          "api": "065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2",
-          "link": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
-          "name": "FANCODE FHD",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2817/image",
-      "teamAName": "Barcelona",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2819/image",
-      "teamBName": "Villarreal",
-      "time": "15:15:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "28/02/2026",
-      "end_date": "28/02/2026",
-      "end_time": "16:50:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/35/image/dark",
-      "eventName": "Bundesliga",
-      "id": 59,
-      "links": [
-        {
-          "api": "",
-          "link": "https://smarthard.click/hls/9gSZoyFska/index.m3u8",
-          "name": "SKY BUNDESLIGA SD",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2527/image",
-      "teamAName": "Borussia M'gladbach",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2547/image",
-      "teamBName": "1. FC Union Berlin",
-      "time": "14:30:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "28/02/2026",
-      "end_date": "28/02/2026",
-      "end_time": "15:20:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/52/image/dark",
-      "eventName": "Trendyol Süper Lig",
-      "id": 60,
-      "links": [
-        {
-          "link": "https://no.link",
-          "name": "Link 1"
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3065/image",
-      "teamAName": "Kocaelispor",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3050/image",
-      "teamBName": "Beşiktaş JK",
-      "time": "13:00:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "28/02/2026",
-      "end_date": "28/02/2026",
-      "end_time": "14:50:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/17/image/dark",
-      "eventName": "Premier League",
-      "id": 62,
-      "links": [
-        {
-          "api": "294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b",
-          "link": "https://cors-proxy.cooks.fyi/https://netskrt.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd",
-          "name": "TNT SPORTS",
-          "scheme": 0,
-          "tokenApi": ""
+        "id": "397",
+        "image": "o",
+        "publish": "1",
+        "title": "Bournemouth vs Sunderland"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://grand-s-v001.faggotsports.tv/out/v1/9a0b1c2d3e4f5a6b7c8d9e0f1a2b3c4d/mix-stream.m3u8|Referer=https://hmembeds.one/",
+            "title": "SKY SPORTS FHD",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://plf1.ionisglide.space/playlist/45990/load-playlist?|Referer=https://gooz.aapmains.net",
+            "title": "HD SERVER",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/02/28 17:00:00 +0000",
+          "eventName": "Liverpool vs West Ham United",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/02/28 15:00:00 +0000",
+          "teamA": "Liverpool",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/44/image",
+          "teamB": "West Ham",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/37/image"
         },
-        {
-          "api": "",
-          "link": "https://grand-s-v001.faggotsports.tv/out/v1/frofudrljocldrugudr295ifistlsw1w/mix-stream.m3u8|Referer=https://hmembeds.one/",
-          "name": "TNT SPORTS FHD",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/60/image",
-      "teamAName": "Bournemouth",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/41/image",
-      "teamBName": "Sunderland",
-      "time": "12:30:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "28/02/2026",
-      "end_date": "28/02/2026",
-      "end_time": "22:25:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/34/image/dark",
-      "eventName": "Ligue 1",
-      "id": 63,
-      "links": [
-        {
-          "link": "https://no.link",
-          "name": "Link 1"
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/1662/image",
-      "teamAName": "Le Havre",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/1644/image",
-      "teamBName": "Paris Saint-Germain",
-      "time": "20:05:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "28/02/2026",
-      "end_date": "28/02/2026",
-      "end_time": "21:20:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/955/image/dark",
-      "eventName": "Saudi Pro League",
-      "id": 64,
-      "links": [
-        {
-          "link": "https://no.link",
-          "name": "Link 1"
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/395831/image",
-      "teamAName": "Al-Najma SC",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/336456/image",
-      "teamBName": "Al-Okhdood",
-      "time": "19:00:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "28/02/2026",
-      "end_date": "28/02/2026",
-      "end_time": "22:20:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/54/image/dark",
-      "eventName": "LaLiga 2",
-      "id": 65,
-      "links": [
-        {
-          "link": "https://no.link",
-          "name": "Link 1"
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/5067/image",
-      "teamAName": "CD Castellón",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2835/image",
-      "teamBName": "Real Racing Club",
-      "time": "20:00:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "28/02/2026",
-      "end_date": "28/02/2026",
-      "end_time": "19:50:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/35/image/dark",
-      "eventName": "Bundesliga",
-      "id": 66,
-      "links": [
-        {
-          "link": "https://no.link",
-          "name": "Link 1"
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2673/image",
-      "teamAName": "Borussia Dortmund",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2672/image",
-      "teamBName": "FC Bayern München",
-      "time": "17:30:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "28/02/2026",
-      "end_date": "28/02/2026",
-      "end_time": "20:20:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/34/image/dark",
-      "eventName": "Ligue 1",
-      "id": 67,
-      "links": [
-        {
-          "link": "https://no.link",
-          "name": "Link 1"
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/1653/image",
-      "teamAName": "AS Monaco",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/1684/image",
-      "teamBName": "Angers",
-      "time": "18:00:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "28/02/2026",
-      "end_date": "28/02/2026",
-      "end_time": "22:20:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/37/image/dark",
-      "eventName": "VriendenLoterij Eredivisie",
-      "id": 68,
-      "links": [
-        {
-          "link": "https://no.link",
-          "name": "Link 1"
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2962/image",
-      "teamAName": "NEC Nijmegen",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2957/image",
-      "teamBName": "Fortuna Sittard",
-      "time": "20:00:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "28/02/2026",
-      "end_date": "28/02/2026",
-      "end_time": "21:20:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/955/image/dark",
-      "eventName": "Saudi Pro League",
-      "id": 69,
-      "links": [
-        {
-          "link": "https://no.link",
-          "name": "Link 1"
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/168094/image",
-      "teamAName": "Al-Fayha",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/23400/image",
-      "teamBName": "Al-Nassr",
-      "time": "19:00:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "28/02/2026",
-      "end_date": "28/02/2026",
-      "end_time": "20:05:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/37/image/dark",
-      "eventName": "VriendenLoterij Eredivisie",
-      "id": 70,
-      "links": [
-        {
-          "link": "https://no.link",
-          "name": "Link 1"
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2977/image",
-      "teamAName": "Heracles Almelo",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2952/image",
-      "teamBName": "PSV Eindhoven",
-      "time": "17:45:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "28/02/2026",
-      "end_date": "28/02/2026",
-      "end_time": "21:20:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/955/image/dark",
-      "eventName": "Saudi Pro League",
-      "id": 71,
-      "links": [
-        {
-          "link": "https://no.link",
-          "name": "Link 1"
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/56027/image",
-      "teamAName": "Al-Qadsiah",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/56021/image",
-      "teamBName": "Al-Taawoun",
-      "time": "19:00:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "28/02/2026",
-      "end_date": "28/02/2026",
-      "end_time": "19:50:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/54/image/dark",
-      "eventName": "LaLiga 2",
-      "id": 72,
-      "links": [
-        {
-          "link": "https://no.link",
-          "name": "Link 1"
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/33779/image",
-      "teamAName": "Granada",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2830/image",
-      "teamBName": "Málaga",
-      "time": "17:30:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "28/02/2026",
-      "end_date": "28/02/2026",
-      "end_time": "22:05:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/23/image/dark",
-      "eventName": "Serie A",
-      "id": 73,
-      "links": [
-        {
-          "link": "https://no.link",
-          "name": "Link 1"
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2697/image",
-      "teamAName": "Inter",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2713/image",
-      "teamBName": "Genoa",
-      "time": "19:45:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "28/02/2026",
-      "end_date": "28/02/2026",
-      "end_time": "17:50:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/37/image/dark",
-      "eventName": "VriendenLoterij Eredivisie",
-      "id": 74,
-      "links": [
-        {
-          "link": "https://no.link",
-          "name": "Link 1"
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2964/image",
-      "teamAName": "SC Heerenveen",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2960/image",
-      "teamBName": "Sparta Rotterdam",
-      "time": "15:30:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "28/02/2026",
-      "end_date": "28/02/2026",
-      "end_time": "17:35:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/54/image/dark",
-      "eventName": "LaLiga 2",
-      "id": 75,
-      "links": [
-        {
-          "api": "d69894c7b729c5d1e85893e5e6cfcb0f:db0d53f871f5d2ef91d3a112c7ec9f30",
-          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/tcninbbnt5/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd",
-          "name": "Laliga Hypermotion ES",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2815/image",
-      "teamAName": "Real Zaragoza",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2854/image",
-      "teamBName": "Burgos Club de Fútbol",
-      "time": "15:15:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "28/02/2026",
-      "end_date": "28/02/2026",
-      "end_time": "18:20:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/34/image/dark",
-      "eventName": "Ligue 1",
-      "id": 76,
-      "links": [
-        {
-          "link": "https://no.link",
-          "name": "Link 1"
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/1658/image",
-      "teamAName": "Stade Rennais",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/1681/image",
-      "teamBName": "Toulouse",
-      "time": "16:00:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "28/02/2026",
-      "end_date": "28/02/2026",
-      "end_time": "19:50:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/8/image/dark",
-      "eventName": "LaLiga",
-      "id": 77,
-      "links": [
-        {
-          "link": "https://no.link",
-          "name": "Link 1"
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2826/image",
-      "teamAName": "Mallorca",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2824/image",
-      "teamBName": "Real Sociedad",
-      "time": "17:30:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "28/02/2026",
-      "end_date": "28/02/2026",
-      "end_time": "19:50:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/54/image/dark",
-      "eventName": "LaLiga 2",
-      "id": 78,
-      "links": [
-        {
-          "link": "https://no.link",
-          "name": "Link 1"
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2831/image",
-      "teamAName": "Real Valladolid",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/24265/image",
-      "teamBName": "Huesca",
-      "time": "17:30:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "28/02/2026",
-      "end_date": "28/02/2026",
-      "end_time": "21:20:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/955/image/dark",
-      "eventName": "Saudi Pro League",
-      "id": 79,
-      "links": [
-        {
-          "link": "https://no.link",
-          "name": "Link 1"
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/530631/image",
-      "teamAName": "Neom SC",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/269199/image",
-      "teamBName": "Al-Kholood",
-      "time": "19:00:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "28/02/2026",
-      "end_date": "28/02/2026",
-      "end_time": "19:50:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/17/image/dark",
-      "eventName": "Premier League",
-      "id": 80,
-      "links": [
-        {
-          "link": "https://no.link",
-          "name": "Link 1"
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/34/image",
-      "teamAName": "Leeds United",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/17/image",
-      "teamBName": "Manchester City",
-      "time": "17:30:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "28/02/2026",
-      "end_date": "28/02/2026",
-      "end_time": "19:20:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/52/image/dark",
-      "eventName": "Trendyol Süper Lig",
-      "id": 81,
-      "links": [
-        {
-          "link": "https://no.link",
-          "name": "Link 1"
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3054/image",
-      "teamAName": "Göztepe",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/7040/image",
-      "teamBName": "Eyüpspor",
-      "time": "17:00:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "28/02/2026",
-      "end_date": "28/02/2026",
-      "end_time": "19:20:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/23/image/dark",
-      "eventName": "Serie A",
-      "id": 82,
-      "links": [
-        {
-          "link": "https://no.link",
-          "name": "Link 1"
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2701/image",
-      "teamAName": "Hellas Verona",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2714/image",
-      "teamBName": "Napoli",
-      "time": "17:00:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "28/02/2026",
-      "end_date": "28/02/2026",
-      "end_time": "19:20:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/52/image/dark",
-      "eventName": "Trendyol Süper Lig",
-      "id": 83,
-      "links": [
-        {
-          "link": "https://no.link",
-          "name": "Link 1"
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3061/image",
-      "teamAName": "Galatasaray",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/6362/image",
-      "teamBName": "Alanyaspor",
-      "time": "17:00:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "28/02/2026",
-      "end_date": "28/02/2026",
-      "end_time": "22:20:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/8/image/dark",
-      "eventName": "LaLiga",
-      "id": 84,
-      "links": [
-        {
-          "link": "https://no.link",
-          "name": "Link 1"
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2851/image",
-      "teamAName": "Real Oviedo",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2836/image",
-      "teamBName": "Atlético Madrid",
-      "time": "20:00:00",
-      "visible": true
-    },
-    {
-      "category": "Cricket",
-      "date": "28/02/2026",
-      "end_date": "28/02/2026",
-      "end_time": "17:30:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11185/image/dark",
-      "eventName": "ICC T20 World Cup",
-      "id": 85,
-      "links": [
-        {
-          "api": "04ef2776a130e77f2e829d95bdc94d4b:203f0b19e11497baf5910937486692d7",
-          "link": "https://a201aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/yiiftorhi8/out/v1/be0f7019b1c448f185520be36ff5c809/cenc.mpd",
-          "name": "WILLOW - AQ",
-          "scheme": 0,
-          "tokenApi": ""
+        "id": "398",
+        "image": "o",
+        "publish": "1",
+        "title": "Liverpool vs West Ham"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://grand-s-v001.faggotsports.tv/out/v1/f1e2d3c4b5a698786543210fedcba987/mix-stream.m3u8|Referer=https://hmembeds.one/",
+            "title": "SKY SPORTS FHD",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://pfl4.ascendastro.space/playlist/45989/load-playlist?|Referer=https://gooz.aapmains.net",
+            "title": "HD SERVER",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/02/28 17:00:00 +0000",
+          "eventName": "Newcastle United vs Everton",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/02/28 15:00:00 +0000",
+          "teamA": "Newcastle",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/39/image",
+          "teamB": "Everton",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/48/image"
         },
-        {
-          "api": "",
-          "link": "https://live-pull.aisports.mobi/moviebox/device02/playlist.m3u8|Referer=https://sportslivenow.top/",
-          "name": "JIO HOTSTAR",
-          "scheme": 0,
-          "tokenApi": ""
+        "id": "399",
+        "image": "o",
+        "publish": "1",
+        "title": "Newcastle United vs Everton"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://grand-s-v001.faggotsports.tv/out/v1/5a6b7c8d9e0f1a2b3c4d5e6f7a8b9c0d/mix-stream.m3u8|Referer=https://hmembeds.one/",
+            "title": "SKY SPORTS FHD",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/02/28 17:00:00 +0000",
+          "eventName": "Burnley vs Brentford",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/02/28 15:00:00 +0000",
+          "teamA": "Burnley",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/6/image",
+          "teamB": "Brentford",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/50/image"
         },
-        {
-          "api": "",
-          "link": "https://stream1.liveland.af/hls/tv/tolo-sport/chunklist3.m3u8?|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
-          "name": "HD SERVER ",
-          "scheme": 0,
-          "tokenApi": ""
+        "id": "400",
+        "image": "o",
+        "publish": "1",
+        "title": "Burnley vs Brentford"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/02/28 19:30:00 +0000",
+          "eventName": "Leeds United vs Manchester City",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/02/28 17:30:00 +0000",
+          "teamA": "Leeds",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/34/image",
+          "teamB": "Man City",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/17/image"
         },
-        {
-          "api": "",
-          "link": "https://cdn39591467.blazingcdn.net/dx14fhd/index.m3u8|Referer=https://yahoo.com/&Origin=https://yahoo.com&User-Agent=AppleCoreMedia/1.0.0.23D5103d (iPhone; U; CPU OS 26_3 like Mac OS X; en_us)",
-          "name": "WILLOW HD",
-          "scheme": 0,
-          "tokenApi": ""
+        "id": "401",
+        "image": "o",
+        "publish": "1",
+        "title": "Leeds vs Manchester City"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "Serie A 🇮🇹",
+        "channels_data": [
+          {
+            "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
+            "title": "beIN ENGLISH",
+            "type": "1"
+          },
+          {
+            "api": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811",
+            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
+            "title": "FOX DEPORTES",
+            "type": "1"
+          },
+          {
+            "api": "",
+            "link": "https://grand-s-v001.faggotsports.tv/out/v1/81b11c7f350f5d34924580e8f00fee05/mix-stream.m3u8|Referer=https://hmembeds.one/",
+            "title": "FUBO SPORTS",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/02/28 16:00:00 +0000",
+          "eventName": "Como vs Lecce",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/02/28 14:00:00 +0000",
+          "teamA": "Como",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2704/image",
+          "teamB": "Lecce",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2689/image"
         },
-        {
-          "api": "",
-          "link": "http://103.99.249.139/starsport2/index.m3u8",
-          "name": "Star Sport HIN",
-          "scheme": 0,
-          "tokenApi": ""
+        "id": "402",
+        "image": "o",
+        "publish": "1",
+        "title": "Como vs Lecce"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "LaLiga 🇪🇸",
+        "channels_data": [
+          {
+            "api": "620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a",
+            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd",
+            "title": "Laliga TV FHD",
+            "type": "1"
+          },
+          {
+            "api": "065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2",
+            "link": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
+            "title": "FANCODE FHD",
+            "type": "1"
+          },
+          {
+            "api": "",
+            "link": "https://grand-s-v001.faggotsports.tv/out/v1/a643f0a6298749a226cd169e39f60f05/mix-stream.m3u8|Referer=https://hmembeds.one/",
+            "title": "DAZN ENG",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://daffodil.xn--1000-ugoa0hsb9a0hb.com/dep.m3u8",
+            "title": "ESPN DEPORTES",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/02/28 15:00:00 +0000",
+          "eventName": "Rayo Vallecano vs Athletic Club",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/02/28 13:00:00 +0000",
+          "teamA": "Rayo Vallecano",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2818/image",
+          "teamB": "Athletic Club",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2825/image"
         },
-        {
-          "api": "",
-          "link": "https://prod-fastly-ap-southeast-1.video.pscp.tv/Transcoding/v1/hls/xhwjibNeyAi5t5akBQHh9GQFuNPd6-OpoP9ySVoVrRgIKcM1s-7J6kjqfgNMU6uXniXV55NfRbdOkG_G2Lgf4g/non_transcode/ap-southeast-1/periscope-replay-direct-prod-ap-southeast-1-public/master_dynamic_highlatency.m3u8?type=live|referer=https://pscp.tv/",
-          "name": "URDU Commentary",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/187756/image",
-      "teamAName": "Sri Lanka",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/187754/image",
-      "teamBName": "Pakistan",
-      "time": "13:30:00",
-      "visible": true
-    },
-    {
-      "category": "Cricket",
-      "date": "01/03/2026",
-      "end_date": "",
-      "end_time": "",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11221/image/dark",
-      "eventName": "One Day International Women",
-      "id": 86,
-      "links": [
-        {
-          "link": "https://no.link",
-          "name": "Link 1"
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/213117/image",
-      "teamAName": "Australia Women",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/213119/image",
-      "teamBName": "India Women",
-      "time": "03:50:00",
-      "visible": true
-    }
-  ]
+        "id": "403",
+        "image": "o",
+        "publish": "1",
+        "title": "Rayo Vallecano vs Athletic Club"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "LaLiga 🇪🇸",
+        "channels_data": [
+          {
+            "api": "620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a",
+            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd",
+            "title": "Laliga TV FHD",
+            "type": "1"
+          },
+          {
+            "api": "065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2",
+            "link": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
+            "title": "FANCODE FHD",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/02/28 17:15:00 +0000",
+          "eventName": "Barcelona vs Villarreal",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/02/28 15:15:00 +0000",
+          "teamA": "Barcelona",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2817/image",
+          "teamB": "Villarreal",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2819/image"
+        },
+        "id": "404",
+        "image": "o",
+        "publish": "1",
+        "title": "Barcelona vs Villarreal"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "LaLiga 🇪🇸",
+        "channels_data": [
+          {
+            "api": "620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a",
+            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd",
+            "title": "Laliga TV FHD",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/02/28 19:30:00 +0000",
+          "eventName": "Mallorca vs Real Sociedad",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/02/28 17:30:00 +0000",
+          "teamA": "Mallorca",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2826/image",
+          "teamB": "Real Sociedad",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2824/image"
+        },
+        "id": "405",
+        "image": "o",
+        "publish": "1",
+        "title": "Mallorca vs Real Sociedad"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "LaLiga 🇪🇸",
+        "channels_data": [
+          {
+            "api": "620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a",
+            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd",
+            "title": "Laliga TV FHD",
+            "type": "1"
+          },
+          {
+            "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
+            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
+            "title": "beIN ENGLISH",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/02/28 22:00:00 +0000",
+          "eventName": "Real Oviedo vs Atlético Madrid",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/02/28 20:00:00 +0000",
+          "teamA": "Real Oviedo",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2851/image",
+          "teamB": "Atl. Madrid",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2836/image"
+        },
+        "id": "406",
+        "image": "o",
+        "publish": "1",
+        "title": "Real Oviedo vs Atlético Madrid"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "Bundesliga 🇩🇪",
+        "channels_data": [
+          {
+            "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
+            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
+            "title": "beIN ENGLISH",
+            "type": "1"
+          },
+          {
+            "api": "0:0",
+            "link": "https://bbb.exoadash.com/TVD6411/index.mpd",
+            "title": "ELEVEN SPORTS",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/02/28 19:30:00 +0000",
+          "eventName": "Borussia Dortmund vs FC Bayern München",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/02/28 17:30:00 +0000",
+          "teamA": "Dortmund",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2673/image",
+          "teamB": "Bayern",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2672/image"
+        },
+        "id": "407",
+        "image": "o",
+        "publish": "1",
+        "title": "Borussia Dortmund vs Bayern München"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "Bundesliga 🇩🇪",
+        "channels_data": [
+          {
+            "api": "3501bd323a6a35c28eb7654bf298b9aa:2db4c8089d627e1b2c480c57baa86a7b",
+            "link": "https://cdn3.skygo.mn/live/disk1/SPSPlus/DASH-FTA/SPSPlus.mpd",
+            "title": "PSN SPORTS",
+            "type": "1"
+          },
+          {
+            "api": "",
+            "link": "https://grand-s-v001.faggotsports.tv/out/v1/3b9b2e211b913c6f0ccd72cd7f53649a/mix-stream.m3u8|Referer=https://hmembeds.one/",
+            "title": "DAZN SPORTS",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://601.lifesharper.com/one.m3u8",
+            "title": "ONE SPORTS",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://smarthard.click/hls/8r59wy2BRApK/index.m3u8",
+            "title": "SKY BUNDESLIGA SD",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/02/28 16:30:00 +0000",
+          "eventName": "Bayer Leverkusen vs Mainz 05",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/02/28 14:30:00 +0000",
+          "teamA": "Leverkusen",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2681/image",
+          "teamB": "Mainz 05",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2556/image"
+        },
+        "id": "408",
+        "image": "o",
+        "publish": "1",
+        "title": "Bayer Leverkusen vs Mainz 05"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "Serie A 🇮🇹",
+        "channels_data": [
+          {
+            "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
+            "title": "beIN ENGLISH",
+            "type": "1"
+          },
+          {
+            "api": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
+            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
+            "title": "CBS NETWORK",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/02/28 19:00:00 +0000",
+          "eventName": "Hellas Verona vs Napoli",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/02/28 17:00:00 +0000",
+          "teamA": "Verona",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2701/image",
+          "teamB": "Napoli",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2714/image"
+        },
+        "id": "409",
+        "image": "o",
+        "publish": "1",
+        "title": "Hellas Verona vs Napoli"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "Ligue 1 🇫🇷",
+        "channels_data": [
+          {
+            "api": "0:0",
+            "link": "https://bbb.exoadash.com/TVD2083/index.mpd",
+            "title": "Ligue1+",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/02/28 18:00:00 +0000",
+          "eventName": "Rennais vs Toulouse",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/02/28 16:00:00 +0000",
+          "teamA": "Rennes",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/1658/image",
+          "teamB": "Toulouse",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/1681/image"
+        },
+        "id": "410",
+        "image": "o",
+        "publish": "1",
+        "title": "Rennais vs Toulouse"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "Ligue 1 🇫🇷",
+        "channels_data": [
+          {
+            "api": "0:0",
+            "link": "https://bbb.exoadash.com/TVD2083/index.mpd",
+            "title": "Ligue1+",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/02/28 20:00:00 +0000",
+          "eventName": "AS Monaco vs Angers",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/02/28 18:00:00 +0000",
+          "teamA": "AS Monaco",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/1653/image",
+          "teamB": "Angers",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/1684/image"
+        },
+        "id": "411",
+        "image": "o",
+        "publish": "1",
+        "title": "AS Monaco vs Angers"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "Ligue 1 🇫🇷",
+        "channels_data": [
+          {
+            "api": "0:0",
+            "link": "https://bbb.exoadash.com/TVD2083/index.mpd",
+            "title": "Ligue1+",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/02/28 22:05:00 +0000",
+          "eventName": "Le Havre vs PSG",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/02/28 20:05:00 +0000",
+          "teamA": "Le Havre",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/1662/image",
+          "teamB": "PSG",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/1644/image"
+        },
+        "id": "412",
+        "image": "o",
+        "publish": "1",
+        "title": "Le Havre vs PSG"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "Serie A 🇮🇹",
+        "channels_data": [
+          {
+            "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
+            "title": "beIN ENGLISH",
+            "type": "1"
+          },
+          {
+            "api": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
+            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
+            "title": "CBS NETWORK",
+            "type": "1"
+          },
+          {
+            "api": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811",
+            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
+            "title": "FOX DEPORTES",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/02/28 21:45:00 +0000",
+          "eventName": "Inter vs Genoa",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/02/28 19:45:00 +0000",
+          "teamA": "Inter",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2697/image",
+          "teamB": "Genoa",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2713/image"
+        },
+        "id": "413",
+        "image": "o",
+        "publish": "1",
+        "title": "Inter vs Genoa"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "Pro League 🇸🇦",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/02/28 21:00:00 +0000",
+          "eventName": "Al-Qadsiah vs Al-Taawoun",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/02/28 19:00:00 +0000",
+          "teamA": "Al-Qadsiah",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/56027/image",
+          "teamB": "Al-Taawoun",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/56021/image"
+        },
+        "id": "414",
+        "image": "o",
+        "publish": "1",
+        "title": "Al-Qadsiah vs Al-Taawoun"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "Bundesliga 🇩🇪",
+        "channels_data": [
+          {
+            "api": "597b1d0fdddb383fd37febd057d3fd1c:a728d9c017f83e3e6e77b7d7c0231b22",
+            "link": "https://apac-live.akamaized.net/ehyrzisobs/bein_sports_vflow07/index.mpd?hdntl=exp=1772369881~acl=%2f*~id=42901651~data=hdntl,fp%3d1~hmac=f6702118ebf34d3df9f17578a62991bb70be400e6dd8765535094b587c325a26&hdnts=st%3D1772197077%7Eexp%3D1772283776%7Eacl%3D%2F*%7Eid%3D42901651%7Edata%3Dfp%3D1%7Ehmac%3D5c1b99e2c2603ce01a7cce1ac4d25ba168c445e625c6034703dcc813e553d96a",
+            "title": "beIN SPORTS",
+            "type": "1"
+          },
+          {
+            "api": "",
+            "link": "https://grand-s-v001.faggotsports.tv/out/v1/ae38ce01c004dd39ed363e1615df511c/mix-stream.m3u8|Referer=https://hmembeds.one/",
+            "title": "DAZN SPORTS",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://smarthard.click/hls/9gSZoyFska/index.m3u8",
+            "title": "SKY BUNDESLIGA SD",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/02/28 16:30:00 +0000",
+          "eventName": "Borussia M'gladbach vs Union Berlin",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/02/28 14:30:00 +0000",
+          "teamA": "M'gladbach",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2527/image",
+          "teamB": "Union Berlin",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2547/image"
+        },
+        "id": "415",
+        "image": "o",
+        "publish": "1",
+        "title": "Borussia M'gladbach vs Union Berlin"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "Bundesliga 🇩🇪",
+        "channels_data": [
+          {
+            "api": "672a1f46b66c6bdd26b1680d39baa922:16169547eb9b0a14146cdbd21490279e",
+            "link": "https://apac-live.akamaized.net/ehyrzisobs/bein_sports_vflow06/index.mpd?hdntl=exp=1772369881~acl=%2f*~id=42901651~data=hdntl,fp%3d1~hmac=f6702118ebf34d3df9f17578a62991bb70be400e6dd8765535094b587c325a26&hdnts=st%3D1772197077%7Eexp%3D1772283776%7Eacl%3D%2F*%7Eid%3D42901651%7Edata%3Dfp%3D1%7Ehmac%3D5c1b99e2c2603ce01a7cce1ac4d25ba168c445e625c6034703dcc813e553d96a",
+            "title": "beIN SPORTS",
+            "type": "1"
+          },
+          {
+            "api": "",
+            "link": "https://grand-s-v001.faggotsports.tv/out/v1/7669ea9e7cd876bfd25b8f536f499e89/mix-stream.m3u8|Referer=https://hmembeds.one/",
+            "title": "DAZN SPORTS",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://smarthard.click/hls/kjzxkCIqkhtb/index.m3u8",
+            "title": "SKY BUNDESLIGA SD",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/02/28 16:30:00 +0000",
+          "eventName": "Werder Bremen vs Heidenheim",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/02/28 14:30:00 +0000",
+          "teamA": "Bremen",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2534/image",
+          "teamB": "Heidenheim",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/5885/image"
+        },
+        "id": "416",
+        "image": "o",
+        "publish": "1",
+        "title": "Werder Bremen vs Heidenheim"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "Bundesliga 🇩🇪",
+        "channels_data": [
+          {
+            "api": "9e3ceafefd61fd316a0d142f7046c424:1efde03590efcfb0c4324f02f3fa1c43",
+            "link": "https://apac-live.akamaized.net/ehyrzisobs/bein_sports_vflow08/index.mpd?hdntl=exp=1772369881~acl=%2f*~id=42901651~data=hdntl,fp%3d1~hmac=f6702118ebf34d3df9f17578a62991bb70be400e6dd8765535094b587c325a26&hdnts=st%3D1772197077%7Eexp%3D1772283776%7Eacl%3D%2F*%7Eid%3D42901651%7Edata%3Dfp%3D1%7Ehmac%3D5c1b99e2c2603ce01a7cce1ac4d25ba168c445e625c6034703dcc813e553d96a",
+            "title": "beIN SPORTS",
+            "type": "1"
+          },
+          {
+            "api": "",
+            "link": "https://grand-s-v001.faggotsports.tv/out/v1/35587c13ab60adcadfa21787ef871b8c/mix-stream.m3u8|Referer=https://hmembeds.one/",
+            "title": "DAZN SPORTS",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://smarthard.click/hls/Mhe8gotoGQlu/index.m3u8",
+            "title": "SKY BUNDESLIGA SD",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/02/28 16:30:00 +0000",
+          "eventName": "Hoffenheim vs St. Pauli",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/02/28 14:30:00 +0000",
+          "teamA": "Hoffenheim",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2569/image",
+          "teamB": "St. Pauli",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2526/image"
+        },
+        "id": "417",
+        "image": "o",
+        "publish": "1",
+        "title": "Hoffenheim vs St. Pauli"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "2. Bundesliga",
+        "channels_data": [
+          {
+            "api": "335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281",
+            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd",
+            "title": "beIN ENGLISH",
+            "type": "1"
+          },
+          {
+            "api": "",
+            "link": "https://instreams.live/EU/HDTV15/index.m3u8?st=SportzX|Referer=https://instreams.click/",
+            "title": "SKY BUNDESLIGA",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://live.alilicloud.com/live/fbd077acc1c97f7b1796cc317ed095c6/playlist.m3u8",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/02/28 14:00:00 +0000",
+          "eventName": "Kaiserslautern vs Paderborn",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/02/28 12:00:00 +0000",
+          "teamA": "Kaiserslautern",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2675/image",
+          "teamB": "Paderborn",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2561/image"
+        },
+        "id": "418",
+        "image": "o",
+        "publish": "1",
+        "title": "Kaiserslautern vs Paderborn"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "2. Bundesliga",
+        "channels_data": [
+          {
+            "api": "0:0",
+            "link": "https://bbb.exoadash.com/TVD6412/index.mpd",
+            "title": "ELEVEN SPORTS",
+            "type": "1"
+          },
+          {
+            "api": "",
+            "link": "https://instreams.live/EU/HDTV17/index.m3u8?st=SportzX|Referer=https://instreams.click/",
+            "title": "SKY BUNDESLIGA",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://live.alilicloud.com/live/5bf7e9592abc5f4b1f8d973eb07caded/playlist.m3u8",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/02/28 14:00:00 +0000",
+          "eventName": "Arminia Bielefeld vs Hannover",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/02/28 12:00:00 +0000",
+          "teamA": "Bielefeld",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2540/image",
+          "teamB": "Hannover",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2541/image"
+        },
+        "id": "419",
+        "image": "o",
+        "publish": "1",
+        "title": "Arminia Bielefeld vs Hannover"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "Eredivisie",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://smarthard.click/hls/DzazxOvS3QE1/index.m3u8",
+            "title": "ESPN NL",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/02/28 17:30:00 +0000",
+          "eventName": "Heerenveen vs Sparta Rotterdam",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/02/28 15:30:00 +0000",
+          "teamA": "Heerenveen",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2964/image",
+          "teamB": "Sparta",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2960/image"
+        },
+        "id": "421",
+        "image": "o",
+        "publish": "1",
+        "title": "Heerenveen vs Sparta Rotterdam"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "Eredivisie",
+        "channels_data": [
+          {
+            "api": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
+            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
+            "title": "SportDigital Fussball",
+            "type": "1"
+          },
+          {
+            "api": "",
+            "link": "https://smarthard.click/hls/DzazxOvS3QE1/index.m3u8",
+            "title": "ESPN NL",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/02/28 19:45:00 +0000",
+          "eventName": "Heracles vs PSV Eindhoven",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/02/28 17:45:00 +0000",
+          "teamA": "Heracles",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2977/image",
+          "teamB": "PSV",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2952/image"
+        },
+        "id": "422",
+        "image": "o",
+        "publish": "1",
+        "title": "Heracles vs PSV Eindhoven"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "Eredivisie",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://smarthard.click/hls/DzazxOvS3QE1/index.m3u8",
+            "title": "ESPN NL",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/02/28 22:00:00 +0000",
+          "eventName": "NEC Nijmegen vs Fortuna Sittard",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/02/28 20:00:00 +0000",
+          "teamA": "NEC",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2962/image",
+          "teamB": "Fortuna",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2957/image"
+        },
+        "id": "423",
+        "image": "o",
+        "publish": "1",
+        "title": "NEC vs Fortuna Sittard"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "Super Lig",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://instreams.live/EU/HDTV34/index.m3u8?st=SportzX|Referer=https://instreams.click/",
+            "title": "beIN SPORTS HD",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://live.alilicloud.com/live/cb2cf09bacf4b2bf9d8f5f02d8dbe102/playlist.m3u8",
+            "title": "beIN SPORTS SD",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/02/28 12:30:00 +0000",
+          "eventName": "Kasımpaşa vs Çaykur Rizespor",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/02/28 10:30:00 +0000",
+          "teamA": "Kasımpaşa",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/6063/image",
+          "teamB": "Rizespor",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3064/image"
+        },
+        "id": "424",
+        "image": "o",
+        "publish": "1",
+        "title": "Kasımpaşa vs Çaykur Rizespor"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "Super Lig",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://smarthard.click/hls/hhx33tWwGEeW/index.m3u8",
+            "title": "beIN SPORTS",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/02/28 15:00:00 +0000",
+          "eventName": "Kocaelispor vs Beşiktaş",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/02/28 13:00:00 +0000",
+          "teamA": "Kocaelispor",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3065/image",
+          "teamB": "Beşiktaş",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3050/image"
+        },
+        "id": "425",
+        "image": "o",
+        "publish": "1",
+        "title": "Kocaelispor vs Beşiktaş"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "Super Lig",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://smarthard.click/hls/hhx33tWwGEeW/index.m3u8",
+            "title": "beIN SPORTS",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/02/28 19:00:00 +0000",
+          "eventName": "Galatasaray vs Alanyaspor",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/02/28 17:00:00 +0000",
+          "teamA": "Galatasaray",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3061/image",
+          "teamB": "Alanyaspor",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/6362/image"
+        },
+        "id": "426",
+        "image": "o",
+        "publish": "1",
+        "title": "Galatasaray vs Alanyaspor"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "Super Lig",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://smarthard.click/hls/DcTxPWHOB5aM/index.m3u8",
+            "title": "beIN SPORTS",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/02/28 19:00:00 +0000",
+          "eventName": "Göztepe vs Eyüpspor",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/02/28 17:00:00 +0000",
+          "teamA": "Göztepe",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3054/image",
+          "teamB": "Eyüpspor",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/7040/image"
+        },
+        "id": "427",
+        "image": "o",
+        "publish": "1",
+        "title": "Göztepe vs Eyüpspor"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "LaLiga 2",
+        "channels_data": [
+          {
+            "api": "d69894c7b729c5d1e85893e5e6cfcb0f:db0d53f871f5d2ef91d3a112c7ec9f30",
+            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/tcninbbnt5/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd",
+            "title": "Laliga Hypermotion ES",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/02/28 17:15:00 +0000",
+          "eventName": "Real Zaragoza vs Burgos",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/02/28 15:15:00 +0000",
+          "teamA": "Real Zaragoza",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2815/image",
+          "teamB": "Burgos",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2854/image"
+        },
+        "id": "428",
+        "image": "o",
+        "publish": "1",
+        "title": "Real Zaragoza vs Burgos"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "LaLiga 2",
+        "channels_data": [
+          {
+            "api": "d69894c7b729c5d1e85893e5e6cfcb0f:db0d53f871f5d2ef91d3a112c7ec9f30",
+            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/tcninbbnt5/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd",
+            "title": "Laliga Hypermotion ES",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/02/28 19:30:00 +0000",
+          "eventName": "Granada vs Málaga",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/02/28 17:30:00 +0000",
+          "teamA": "Granada",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/33779/image",
+          "teamB": "Málaga",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2830/image"
+        },
+        "id": "429",
+        "image": "o",
+        "publish": "1",
+        "title": "Granada vs Málaga"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "LaLiga 2",
+        "channels_data": [
+          {
+            "api": "0:0",
+            "link": "https://bbb.exoadash.com/TVD1581/index.mpd",
+            "title": "Laliga Hypermotion",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/02/28 19:30:00 +0000",
+          "eventName": "Real Valladolid vs Huesca",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/02/28 17:30:00 +0000",
+          "teamA": "Real Valladolid",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2831/image",
+          "teamB": "Huesca",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/24265/image"
+        },
+        "id": "430",
+        "image": "o",
+        "publish": "1",
+        "title": "Real Valladolid vs Huesca"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "LaLiga 2",
+        "channels_data": [
+          {
+            "api": "d69894c7b729c5d1e85893e5e6cfcb0f:db0d53f871f5d2ef91d3a112c7ec9f30",
+            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/tcninbbnt5/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd",
+            "title": "Laliga Hypermotion ES",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/02/28 22:00:00 +0000",
+          "eventName": "Castellón vs Racing Club",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/02/28 20:00:00 +0000",
+          "teamA": "Castellón",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/5067/image",
+          "teamB": "R. Racing Club",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2835/image"
+        },
+        "id": "431",
+        "image": "o",
+        "publish": "1",
+        "title": "Castellón vs Racing Club"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+        "channels_data": [
+          {
+            "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
+            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
+            "title": "beIN ENGLISH",
+            "type": "1"
+          },
+          {
+            "api": "",
+            "link": "https://bl.rutube.ru/livestream/9585fdae92af45f113fdcc9f6c4ba442/index.m3u8?s=KgZtccuHrnaljGaN7cmUwA&e=2068506973&scheme=https",
+            "title": "MAIN EVENT",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://live.alilicloud.com/live/201430ff2fdefc438e41a01c46747ed3/playlist.m3u8",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/02/28 14:30:00 +0000",
+          "eventName": "Leicester City vs Norwich City",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/02/28 12:30:00 +0000",
+          "teamA": "Leicester",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/31/image",
+          "teamB": "Norwich",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/263/image"
+        },
+        "id": "432",
+        "image": "o",
+        "publish": "1",
+        "title": "Leicester City vs Norwich City"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+        "channels_data": [
+          {
+            "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
+            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
+            "title": "beIN ENGLISH",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/02/28 17:00:00 +0000",
+          "eventName": "Preston North End vs Millwall",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/02/28 15:00:00 +0000",
+          "teamA": "Preston",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/21/image",
+          "teamB": "Millwall",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/25/image"
+        },
+        "id": "433",
+        "image": "o",
+        "publish": "1",
+        "title": "Preston North End vs Millwall"
+      }
+    ]
+  }
 }
