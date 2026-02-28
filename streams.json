@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-02-28T17:29:57.442265",
+  "last_updated": "2026-02-28T17:50:11.904824",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "10:55:19 PM 28-02-2026",
+    "Last update time": "11:15:21 PM 28-02-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -1448,9 +1448,21 @@
             "type": "1"
           },
           {
+            "api": "",
+            "link": "https://grand-s-v001.faggotsports.tv/out/v1/e25132915cf1e67759051cac80b42275/mix-stream.m3u8|Referer=https://hmembeds.one/",
+            "title": "SKY SPORTS FHD",
+            "type": "0"
+          },
+          {
             "api": "ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1",
             "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd",
             "title": "TELEMUNDO FHD",
+            "type": "1"
+          },
+          {
+            "api": "96b67fa09140329a89b7a1ead134eda3:c618d32c56cdc6cad8330eb98507ca3f",
+            "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-east)/master.mpd",
+            "title": "NBC SPORTS",
             "type": "1"
           },
           {
@@ -1468,7 +1480,13 @@
           {
             "api": "",
             "link": "https://storage.googleapis.com/uncetrunvover1/mux_video_ts1/index-1.m3u8",
-            "title": "SKY SPORTS HD",
+            "title": "HD SERVER",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://play.ltwxsc.com/live/hd-en-6MuT7JxGYu4ZAu3qkS.m3u8?txSecret=f8554943f3b29f0b1d4fde6de89d4211&txTime=69A34F5A",
+            "title": "FAST SERVER",
             "type": "0"
           }
         ],
@@ -1619,6 +1637,18 @@
             "api": "",
             "link": "https://601.xn--1000-ugoa0hsb9a0hb.com/football.m3u8",
             "title": "SKY FOOTBALL",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://daffodil.xn--1000-ugoa0hsb9a0hb.com/dep.m3u8",
+            "title": "ESPN DEPORTES",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://play.ltwxsc.com/live/hd-en-6MuT7Y2TppYCysS29C.m3u8?txSecret=764f1295499cc93dc5bb029766df92c2&txTime=69A34F5A",
+            "title": "FAST SERVER",
             "type": "0"
           }
         ],
