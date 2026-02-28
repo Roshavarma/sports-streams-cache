@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-02-28T19:57:19.404012",
+  "last_updated": "2026-02-28T20:35:26.708565",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "01:20:19 AM 01-03-2026",
+    "Last update time": "02:05:18 AM 01-03-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -1233,6 +1233,12 @@
           },
           {
             "api": "",
+            "link": "https://daffodil.serverbandel.sbs/barca.m3u8",
+            "title": "SKY LALIGA",
+            "type": "0"
+          },
+          {
+            "api": "",
             "link": "https://red1.kamfir7.space/playlist/46035/load-playlist?|Referer=https://gooz.aapmains.net",
             "title": "ESPN DEPORTES",
             "type": "0"
@@ -1352,6 +1358,18 @@
             "api": "",
             "link": "https://red1.wecanfix6.space/playlist/46036/load-playlist?|Referer=https://gooz.aapmains.net",
             "title": "beIN USA HD",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://601.serverbandel.sbs/beines.m3u8",
+            "title": "beIN ESPANOL",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://areagame.net/3333.php",
+            "title": "HD SERVER",
             "type": "0"
           }
         ],
@@ -1625,6 +1643,12 @@
             "api": "",
             "link": "https://27lftgqlgzmy.windows-devs.top/AccessLog2/83_FHD/apache.m3u8|Referer=https://27lftgqlgzmy.windows-devs.top/",
             "title": "SPORTIFy Live",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://mainstreams.pro/hls/hbfhzbfzak46.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+            "title": "HD SERVER",
             "type": "0"
           }
         ],
