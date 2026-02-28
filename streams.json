@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-02-28T18:23:12.015697",
+  "last_updated": "2026-02-28T18:55:32.761223",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "11:50:20 PM 28-02-2026",
+    "Last update time": "12:20:23 AM 01-03-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -451,7 +451,7 @@
           "endTime": "2026/02/28 17:15:00 +0000",
           "eventName": "Sri Lanka vs Pakistan",
           "eventType": "null",
-          "isHot": "1",
+          "isHot": "0",
           "startTime": "2026/02/28 13:30:00 +0000",
           "teamA": "SL",
           "teamAFlag": "https://img.sofascore.com/api/v1/team/187756/image",
@@ -1145,309 +1145,6 @@
             "type": "1"
           },
           {
-            "api": "dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f",
-            "link": "https://sireli1307-dk.hf.space/https://netskrt.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd",
-            "title": "FUBO SPORTS",
-            "type": "1"
-          },
-          {
-            "api": "96b67fa09140329a89b7a1ead134eda3:c618d32c56cdc6cad8330eb98507ca3f",
-            "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-east)/master.mpd",
-            "title": "NBC UNIVERSO",
-            "type": "1"
-          },
-          {
-            "api": "",
-            "link": "https://grand-s-v001.faggotsports.tv/out/v1/probiniboc7ltizegevusplstaclmlbr/mix-stream.m3u8|Referer=https://hmembeds.one/",
-            "title": "USA NETWORK",
-            "type": "0"
-          },
-          {
-            "api": "0:0",
-            "link": "https://bbb.exoadash.com/TVD6219/index.mpd",
-            "title": "NOVA SPORTS",
-            "type": "1"
-          },
-          {
-            "api": "",
-            "link": "https://bl.rutube.ru/livestream/9585fdae92af45f113fdcc9f6c4ba442/index.m3u8?s=KgZtccuHrnaljGaN7cmUwA&e=2068506973&scheme=https",
-            "title": "MAIN EVENT HD",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://play.ltwxsc.com/live/hd-en-6MuT7JxGPEb2EZP9dp.m3u8?txSecret=404646f67d9c0bd75b976f8603a2a9dd&txTime=69A22206",
-            "title": "SPORTIFy Live",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://areagame.net/1111.php",
-            "title": "HD SERVER",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://28.hls-syria.live/live/bein1_1080p",
-            "title": "beIN ARABIC HVEC",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/02/27 22:00:00 +0000",
-          "eventName": "Wolverhampton vs Aston Villa",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/02/27 20:00:00 +0000",
-          "teamA": "Wolves",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3/image",
-          "teamB": "Aston Villa",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/40/image"
-        },
-        "id": "396",
-        "image": "o",
-        "publish": "1",
-        "title": "Wolves vs Aston Villa"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-        "channels_data": [
-          {
-            "api": "",
-            "link": "https://grand-s-v001.faggotsports.tv/out/v1/frofudrljocldrugudr295ifistlsw1w/mix-stream.m3u8|Referer=https://hmembeds.one/",
-            "title": "TNT SPORTS FHD",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://grand-s-v001.faggotsports.tv/out/v1/07207bdd3cd651e2f3914fb5b00126ae/mix-stream.m3u8|Referer=https://hmembeds.one/",
-            "title": "FUBO SPORTS FHD",
-            "type": "0"
-          },
-          {
-            "api": "0:0",
-            "link": "https://bbb.exoadash.com/TVD6219/index.mpd",
-            "title": "NOVA SPORTS PL",
-            "type": "1"
-          },
-          {
-            "api": "96b67fa09140329a89b7a1ead134eda3:c618d32c56cdc6cad8330eb98507ca3f",
-            "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-east)/master.mpd",
-            "title": "NBC UNIVERSO",
-            "type": "1"
-          },
-          {
-            "api": "3501bd323a6a35c28eb7654bf298b9aa:2db4c8089d627e1b2c480c57baa86a7b",
-            "link": "https://cdn4.skygo.mn/live/disk1/SPSPlay/DASH-FTA/SPSPlay.mpd",
-            "title": "PSN SPORTS",
-            "type": "1"
-          },
-          {
-            "api": "",
-            "link": "https://601.serverbandel.sbs/usa.m3u8",
-            "title": "USA TV FHD",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://daffodil.lifesharper.com/now.m3u8",
-            "title": "NOW SPORTS PL",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://red6.lumenglide.shop/playlist/45982/load-playlist?|Referer=https://gooz.aapmains.net/",
-            "title": "HD SERVER",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://play.ltwxsc.com/live/hd-en-6MuT7JxG3qEzcvPw6n.m3u8?txSecret=d7ce934ba75f71a65cf64e1403450293&txTime=69A30993",
-            "title": "SPORTIFy Live",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://28.hls-syria.live/live/bein1_1080p",
-            "title": "beIN ARABIC",
-            "type": "0"
-          },
-          {
-            "api": "294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b",
-            "link": "https://netskrt.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd",
-            "title": "TNT SPORTS [US]",
-            "type": "1"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/02/28 14:30:00 +0000",
-          "eventName": "Bournemouth vs Sunderland",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/02/28 12:30:00 +0000",
-          "teamA": "Bournemouth",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/60/image",
-          "teamB": "Sunderland",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/41/image"
-        },
-        "id": "397",
-        "image": "o",
-        "publish": "1",
-        "title": "Bournemouth vs Sunderland"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-        "channels_data": [
-          {
-            "api": "3501bd323a6a35c28eb7654bf298b9aa:2db4c8089d627e1b2c480c57baa86a7b",
-            "link": "https://cdn4.skygo.mn/live/disk1/SPSPlay/DASH-FTA/SPSPlay.mpd",
-            "title": "PSN SPORTS",
-            "type": "1"
-          },
-          {
-            "api": "96b67fa09140329a89b7a1ead134eda3:c618d32c56cdc6cad8330eb98507ca3f",
-            "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-east)/master.mpd",
-            "title": "NBC UNIVERSO",
-            "type": "1"
-          },
-          {
-            "api": "",
-            "link": "https://grand-s-v001.faggotsports.tv/out/v1/9a0b1c2d3e4f5a6b7c8d9e0f1a2b3c4d/mix-stream.m3u8|Referer=https://hmembeds.one/",
-            "title": "SKY SPORTS FHD",
-            "type": "0"
-          },
-          {
-            "api": "0:0",
-            "link": "https://bbb.exoadash.com/TVD6219/index.mpd",
-            "title": "NOVA SPORTS PL",
-            "type": "1"
-          },
-          {
-            "api": "",
-            "link": "https://daffodil.lifesharper.com/now.m3u8",
-            "title": "NOW SPORTS PL",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://plf1.ionisglide.space/playlist/45990/load-playlist?|Referer=https://gooz.aapmains.net",
-            "title": "HD SERVER",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://play.ltwxsc.com/live/hd-en-6MuT7JxGYUtGbcxm4a.m3u8?txSecret=be25f56e581d957a989259de5d3a5936&txTime=69A32E22",
-            "title": "FAST SERVER",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/02/28 17:00:00 +0000",
-          "eventName": "Liverpool vs West Ham United",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/02/28 15:00:00 +0000",
-          "teamA": "Liverpool",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/44/image",
-          "teamB": "West Ham",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/37/image"
-        },
-        "id": "398",
-        "image": "o",
-        "publish": "1",
-        "title": "Liverpool vs West Ham"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-        "channels_data": [
-          {
-            "api": "",
-            "link": "https://grand-s-v001.faggotsports.tv/out/v1/f1e2d3c4b5a698786543210fedcba987/mix-stream.m3u8|Referer=https://hmembeds.one/",
-            "title": "SKY SPORTS FHD",
-            "type": "0"
-          },
-          {
-            "api": "3501bd323a6a35c28eb7654bf298b9aa:2db4c8089d627e1b2c480c57baa86a7b",
-            "link": "https://cdn3.skygo.mn/live/disk1/PSN3/DASH-FTA/PSN3.mpd",
-            "title": "PSN SPORTS",
-            "type": "1"
-          },
-          {
-            "api": "",
-            "link": "https://601.lifesharper.com/newcastle.m3u8",
-            "title": "NOW SPORTS PL",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://pfl4.ascendastro.space/playlist/45989/load-playlist?|Referer=https://gooz.aapmains.net",
-            "title": "HD SERVER",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/02/28 17:00:00 +0000",
-          "eventName": "Newcastle United vs Everton",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/02/28 15:00:00 +0000",
-          "teamA": "Newcastle",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/39/image",
-          "teamB": "Everton",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/48/image"
-        },
-        "id": "399",
-        "image": "o",
-        "publish": "1",
-        "title": "Newcastle United vs Everton"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-        "channels_data": [
-          {
-            "api": "",
-            "link": "https://grand-s-v001.faggotsports.tv/out/v1/5a6b7c8d9e0f1a2b3c4d5e6f7a8b9c0d/mix-stream.m3u8|Referer=https://hmembeds.one/",
-            "title": "SKY SPORTS FHD",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://pl3.wecanfix4.space/playlist/45991/load-playlist?|Referer=https://gooz.aapmains.net",
-            "title": "HD SERVER",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/02/28 17:00:00 +0000",
-          "eventName": "Burnley vs Brentford",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/02/28 15:00:00 +0000",
-          "teamA": "Burnley",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/6/image",
-          "teamB": "Brentford",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/50/image"
-        },
-        "id": "400",
-        "image": "o",
-        "publish": "1",
-        "title": "Burnley vs Brentford"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-        "channels_data": [
-          {
-            "api": "3501bd323a6a35c28eb7654bf298b9aa:2db4c8089d627e1b2c480c57baa86a7b",
-            "link": "https://cdn4.skygo.mn/live/disk1/SPSPlay/DASH-FTA/SPSPlay.mpd",
-            "title": "PSN SPORTS",
-            "type": "1"
-          },
-          {
             "api": "",
             "link": "https://grand-s-v001.faggotsports.tv/out/v1/e25132915cf1e67759051cac80b42275/mix-stream.m3u8|Referer=https://hmembeds.one/",
             "title": "SKY SPORTS FHD",
@@ -1520,45 +1217,6 @@
             "api": "065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2",
             "link": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
             "title": "FANCODE FHD",
-            "type": "1"
-          },
-          {
-            "api": "",
-            "link": "https://daffodil.serverbandel.sbs/dep.m3u8",
-            "title": "ESPN DEPORTES",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://red7.astrovortex.space/playlist/45992/load-playlist?|Referer=https://gooz.aapmains.net",
-            "title": "HD SERVER",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/02/28 17:15:00 +0000",
-          "eventName": "Barcelona vs Villarreal",
-          "eventType": "null",
-          "isHot": "1",
-          "startTime": "2026/02/28 15:15:00 +0000",
-          "teamA": "Barcelona",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2817/image",
-          "teamB": "Villarreal",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2819/image"
-        },
-        "id": "404",
-        "image": "o",
-        "publish": "1",
-        "title": "Barcelona vs Villarreal"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "LaLiga 🇪🇸",
-        "channels_data": [
-          {
-            "api": "620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a",
-            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd",
-            "title": "Laliga TV FHD",
             "type": "1"
           }
         ],
@@ -1898,33 +1556,6 @@
         "cat": "Eredivisie",
         "channels_data": [
           {
-            "api": "",
-            "link": "https://smarthard.click/hls/DzazxOvS3QE1/index.m3u8",
-            "title": "ESPN NL",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/02/28 17:30:00 +0000",
-          "eventName": "Heerenveen vs Sparta Rotterdam",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/02/28 15:30:00 +0000",
-          "teamA": "Heerenveen",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2964/image",
-          "teamB": "Sparta",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2960/image"
-        },
-        "id": "421",
-        "image": "o",
-        "publish": "1",
-        "title": "Heerenveen vs Sparta Rotterdam"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "Eredivisie",
-        "channels_data": [
-          {
             "api": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
             "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
             "title": "SportDigital Fussball",
@@ -2144,30 +1775,29 @@
       },
       {
         "adsLimit": "0",
-        "cat": "Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+        "cat": "WWE",
         "channels_data": [
           {
-            "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
-            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
-            "title": "beIN ENGLISH",
-            "type": "1"
+            "api": "",
+            "link": "https://27lftgqlgzmy.windows-devs.top/AccessLog2/83_FHD/apache.m3u8|Referer=https://27lftgqlgzmy.windows-devs.top/",
+            "title": "SPORTIFy Live",
+            "type": "0"
           }
         ],
         "eventInfo": {
-          "endTime": "2026/02/28 17:00:00 +0000",
-          "eventName": "Preston North End vs Millwall",
+          "endTime": "2026/03/01 03:00:00 +0000",
+          "eventName": "WWE Elimination Chamber",
           "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/02/28 15:00:00 +0000",
-          "teamA": "Preston",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/21/image",
-          "teamB": "Millwall",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/25/image"
+          "startTime": "2026/03/01 00:00:00 +0000",
+          "teamA": "WWE",
+          "teamAFlag": "https://www.wwe.com/f/styles/wwe_show_logo_med/public/2025/11/Unknown.png",
+          "teamB": "WWE",
+          "teamBFlag": "https://www.wwe.com/f/styles/wwe_show_logo_med/public/2025/11/Unknown.png"
         },
         "id": "433",
         "image": "o",
         "publish": "1",
-        "title": "Preston North End vs Millwall"
+        "title": "WWE Elimination Chamber"
       }
     ]
   }
