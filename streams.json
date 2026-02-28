@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-02-28T12:51:19.199526",
-  "event_count": 46,
+  "last_updated": "2026-02-28T13:33:57.916109",
+  "event_count": 45,
   "events": [
     {
       "category": "Boxing",
@@ -336,30 +336,6 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/2541/image",
       "teamBName": "Hannover 96",
       "time": "12:00:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "28/02/2026",
-      "end_date": "28/02/2026",
-      "end_time": "12:50:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/52/image/dark",
-      "eventName": "Trendyol Süper Lig",
-      "id": 51,
-      "links": [
-        {
-          "api": "",
-          "link": "https://smarthard.click/hls/DcTxPWHOB5aM/index.m3u8",
-          "name": "beIN SPORTS",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/6063/image",
-      "teamAName": "Kasımpaşa",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3064/image",
-      "teamBName": "Çaykur Rizespor",
-      "time": "10:30:00",
       "visible": true
     },
     {
@@ -1081,15 +1057,53 @@
     {
       "category": "Cricket",
       "date": "28/02/2026",
-      "end_date": "",
-      "end_time": "",
+      "end_date": "28/02/2026",
+      "end_time": "17:30:00",
       "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11185/image/dark",
       "eventName": "ICC T20 World Cup",
       "id": 85,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "04ef2776a130e77f2e829d95bdc94d4b:203f0b19e11497baf5910937486692d7",
+          "link": "https://a201aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/yiiftorhi8/out/v1/be0f7019b1c448f185520be36ff5c809/cenc.mpd",
+          "name": "WILLOW - AQ",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://live-pull.aisports.mobi/moviebox/device02/playlist.m3u8|Referer=https://sportslivenow.top/",
+          "name": "JIO HOTSTAR",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://stream1.liveland.af/hls/tv/tolo-sport/chunklist3.m3u8?|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+          "name": "HD SERVER ",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://cdn39591467.blazingcdn.net/dx14fhd/index.m3u8|Referer=https://yahoo.com/&Origin=https://yahoo.com&User-Agent=AppleCoreMedia/1.0.0.23D5103d (iPhone; U; CPU OS 26_3 like Mac OS X; en_us)",
+          "name": "WILLOW HD",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "http://103.99.249.139/starsport2/index.m3u8",
+          "name": "Star Sport HIN",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://prod-fastly-ap-southeast-1.video.pscp.tv/Transcoding/v1/hls/xhwjibNeyAi5t5akBQHh9GQFuNPd6-OpoP9ySVoVrRgIKcM1s-7J6kjqfgNMU6uXniXV55NfRbdOkG_G2Lgf4g/non_transcode/ap-southeast-1/periscope-replay-direct-prod-ap-southeast-1-public/master_dynamic_highlatency.m3u8?type=live|referer=https://pscp.tv/",
+          "name": "URDU Commentary",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/187756/image",
