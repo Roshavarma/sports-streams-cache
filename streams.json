@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-02-28T09:55:01.276545",
-  "event_count": 44,
+  "last_updated": "2026-02-28T10:30:15.887268",
+  "event_count": 46,
   "events": [
     {
       "category": "Boxing",
@@ -304,8 +304,18 @@
       "id": 50,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "",
+          "link": "https://bbb.exoadash.com/TVD6412/index.mpd",
+          "name": "ELEVEN SPORTS",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://smarthard.click/hls/6v8yVbveVz4/index.m3u8",
+          "name": "SKY BUNDESLIGA SD",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/2540/image",
@@ -325,8 +335,11 @@
       "id": 51,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "",
+          "link": "https://smarthard.click/hls/DcTxPWHOB5aM/index.m3u8",
+          "name": "beIN SPORTS",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/6063/image",
@@ -472,8 +485,11 @@
       "id": 58,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "",
+          "link": "https://smarthard.click/hls/Mhe8gotoGQlu/index.m3u8",
+          "name": "SKY BUNDESLIGA SD",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/2573/image",
@@ -535,8 +551,18 @@
       "id": 61,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281",
+          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd",
+          "name": "beIN ENGLISH",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://smarthard.click/hls/kjzxkCIqkhtb/index.m3u8",
+          "name": "SKY BUNDESLIGA SD",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/2675/image",
@@ -1027,6 +1053,48 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/2836/image",
       "teamBName": "Atlético Madrid",
       "time": "20:00:00",
+      "visible": true
+    },
+    {
+      "category": "Cricket",
+      "date": "28/02/2026",
+      "end_date": "",
+      "end_time": "",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11185/image/dark",
+      "eventName": "ICC T20 World Cup",
+      "id": 85,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/187756/image",
+      "teamAName": "Sri Lanka",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/187754/image",
+      "teamBName": "Pakistan",
+      "time": "13:30:00",
+      "visible": true
+    },
+    {
+      "category": "Cricket",
+      "date": "01/03/2026",
+      "end_date": "",
+      "end_time": "",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11221/image/dark",
+      "eventName": "One Day International Women",
+      "id": 86,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/213117/image",
+      "teamAName": "Australia Women",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/213119/image",
+      "teamBName": "India Women",
+      "time": "03:50:00",
       "visible": true
     }
   ]
