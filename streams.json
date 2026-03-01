@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-03-01T09:51:22.765162",
+  "last_updated": "2026-03-01T10:21:19.914416",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "03:15:22 PM 01-03-2026",
+    "Last update time": "03:45:25 PM 01-03-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -92,6 +92,12 @@
         "cat": "MotoGP",
         "channels_data": [
           {
+            "api": "f288380ca4cef9ad3f27a92a08e9bb8b:9f18d26291d9230833501f7f822f6875",
+            "link": "https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd",
+            "title": "TNT SPORTS - AQ",
+            "type": "1"
+          },
+          {
             "api": "",
             "link": "https://grand-s-v001.faggotsports.tv/out/v1/c5phuthukothlwrudro8rosas3b64ini/mix-stream.m3u8|Referer=https://hmembeds.one/",
             "title": "TNT SPORTS FHD",
@@ -120,12 +126,6 @@
             "link": "https://streamtp10.com/global1.php?stream=espn2",
             "title": "ESPN SPORTS",
             "type": "2"
-          },
-          {
-            "api": "f288380ca4cef9ad3f27a92a08e9bb8b:9f18d26291d9230833501f7f822f6875",
-            "link": "https://netskrt.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc//fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd",
-            "title": "TNT SPORTS (UK)",
-            "type": "1"
           },
           {
             "api": "",
