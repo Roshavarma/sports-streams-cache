@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-03-01T12:42:47.945740",
+  "last_updated": "2026-03-01T13:30:03.512111",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "06:10:23 PM 01-03-2026",
+    "Last update time": "06:55:18 PM 01-03-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -343,8 +343,8 @@
         "cat": "ICC Mens T20 WC",
         "channels_data": [
           {
-            "api": "04ef2776a130e77f2e829d95bdc94d4b:203f0b19e11497baf5910937486692d7",
-            "link": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/enc/yiiftorhi8/out/v1/be0f7019b1c448f185520be36ff5c809/cenc.mpd",
+            "api": "0c1cb3e9514dddd75896a7f60a03decb:963fb175f70769c8d56fc44c843808b3",
+            "link": "https://ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/ecp6xidc5d/out/v1/b8a94677c56e4411aef7ecc2431cec0a/cenc.mpd",
             "title": "Willow [Ad Free]",
             "type": "1"
           },
@@ -362,13 +362,7 @@
           },
           {
             "api": "",
-            "link": "https://stream1.liveland.af/hls/tv/tolo-sport/chunklist3.m3u8?|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
-            "title": "SPORTIFy LIVE",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://cdn39591467.blazingcdn.net/dx14fhd/index.m3u8|Referer=https://yahoo.com/&Origin=https://yahoo.com&User-Agent=AppleCoreMedia/1.0.0.23D5103d (iPhone; U; CPU OS 26_3 like Mac OS X; en_us)",
+            "link": "https://cdn16348712.blazingcdn.net/dx14fhd/index.m3u8|Referer=https://yahoo.com/&Origin=https://yahoo.com&User-Agent=AppleCoreMedia/1.0.0.23D5103d (iPhone; U; CPU OS 26_3 like Mac OS X; en_us)",
             "title": "WILLOW HD",
             "type": "0"
           },
@@ -377,25 +371,13 @@
             "link": "http://103.99.249.139/starsport2/index.m3u8",
             "title": "Star Sport HIN",
             "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://cloud.odysee.live/content/99a872d96a2f8461496e2e68c0c7861c86b939c5/live.m3u8|Referer=https://odysee.com/",
-            "title": "JIO HOTSTAR [HIN]",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://prod-fastly-ap-southeast-1.video.pscp.tv/Transcoding/v1/hls/xhwjibNeyAi5t5akBQHh9GQFuNPd6-OpoP9ySVoVrRgIKcM1s-7J6kjqfgNMU6uXniXV55NfRbdOkG_G2Lgf4g/non_transcode/ap-southeast-1/periscope-replay-direct-prod-ap-southeast-1-public/master_dynamic_highlatency.m3u8?type=live|referer=https://pscp.tv/",
-            "title": "URDU Commentary",
-            "type": "0"
           }
         ],
         "eventInfo": {
           "endTime": "2026/03/01 17:15:00 +0000",
           "eventName": "India vs West Indies",
           "eventType": "null",
-          "isHot": "0",
+          "isHot": "1",
           "startTime": "2026/03/01 13:30:00 +0000",
           "teamA": "IND",
           "teamAFlag": "https://img.sofascore.com/api/v1/team/187765/image",
