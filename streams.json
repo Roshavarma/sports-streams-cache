@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-03-01T14:56:33.321037",
+  "last_updated": "2026-03-01T15:32:49.572535",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "08:20:21 PM 01-03-2026",
+    "Last update time": "09:00:33 PM 01-03-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -403,63 +403,6 @@
       },
       {
         "adsLimit": "0",
-        "cat": "ICC Mens T20 WC",
-        "channels_data": [
-          {
-            "api": "9854668c16b3ef7efe6facbf91fd8af2:fc899a5c275cbb1060d6d9d61cd52ecd",
-            "link": "https://ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/hp0lefwcem/out/v1/925bb83b4490417fa9c536dde0104939/cenc.mpd",
-            "title": "WILLOW FHD",
-            "type": "1"
-          },
-          {
-            "api": "9a29d4f3b6e540b3aa2f36927c01b6f4:57b670b45b5cb453a9f48fa975b702c1",
-            "link": "https://bks02.starhubgo.com/bpk-token/1aa@ieky51nxib5phbtop0xjruq5x1crc45oignjfvba/bpk-tv/HubSports4HDnew/output/manifest.mpd",
-            "title": "HUB SPORTS",
-            "type": "1"
-          },
-          {
-            "api": "",
-            "link": "https://bl.rutube.ru/livestream/9585fdae92af45f113fdcc9f6c4ba442/index.m3u8?s=KgZtccuHrnaljGaN7cmUwA&e=2068506973&scheme=https",
-            "title": "SKY SPORTS",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://cdn16348712.blazingcdn.net/dx14fhd/index.m3u8|Referer=https://yahoo.com/&Origin=https://yahoo.com&User-Agent=AppleCoreMedia/1.0.0.23D5103d (iPhone; U; CPU OS 26_3 like Mac OS X; en_us)",
-            "title": "Willow HD",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://live-pull.aisports.mobi/moviebox/football001/playlist.m3u8|Referer=https://sportslivenow.top/",
-            "title": "JIO HOTSTAR [HIN]",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://cdn39591467.blazingcdn.net/dx14sd/index.m3u8|Referer=https://yahoo.com/&Origin=https://yahoo.com&User-Agent=AppleCoreMedia/1.0.0.23D5103d (iPhone; U; CPU OS 26_3 like Mac OS X; en_us)",
-            "title": "Willow SD",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/03/01 13:15:00 +0000",
-          "eventName": "Zimbabwe vs South Africa",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/03/01 09:30:00 +0000",
-          "teamA": "ZIM",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/187745/image",
-          "teamB": "SA",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/187747/image"
-        },
-        "id": "367",
-        "image": "o",
-        "publish": "1",
-        "title": "ICC T20 WC - 02"
-      },
-      {
-        "adsLimit": "0",
         "cat": "ISL",
         "channels_data": [
           {
@@ -514,39 +457,6 @@
         "image": "o",
         "publish": "1",
         "title": "ISL VS ISL"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "Cricket",
-        "channels_data": [
-          {
-            "api": "192b1115da041585c77200128549efa1:634e10efe4abbb14be400a3ccbac0258",
-            "link": "https://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/pnu10tp36z/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd",
-            "title": "TNT Sports 4",
-            "type": "1"
-          },
-          {
-            "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
-            "link": "https://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
-            "title": "WILLOW FHD",
-            "type": "1"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/03/01 07:25:00 +0000",
-          "eventName": "Australia W vs India W",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/03/01 03:50:00 +0000",
-          "teamA": "AUS-W",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/213117/image",
-          "teamB": "IND-W",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/213119/image"
-        },
-        "id": "372",
-        "image": "o",
-        "publish": "1",
-        "title": "Australia W vs India W"
       },
       {
         "adsLimit": "0",
@@ -791,6 +701,12 @@
             "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
             "title": "Premier Sports",
             "type": "1"
+          },
+          {
+            "api": "065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2",
+            "link": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
+            "title": "FANCODE FHD",
+            "type": "1"
           }
         ],
         "eventInfo": {
@@ -1018,45 +934,6 @@
         "image": "o",
         "publish": "1",
         "title": "Hamburger SV vs RB Leipzig"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "Serie A 🇮🇹",
-        "channels_data": [
-          {
-            "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
-            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
-            "title": "beIN ENGLISH",
-            "type": "1"
-          },
-          {
-            "api": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811",
-            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
-            "title": "FOX DEPORTES",
-            "type": "1"
-          },
-          {
-            "api": "",
-            "link": "https://instreams.live/EU/HDTV11/index.m3u8?st=SportzX|Referer=https://instreams.click/",
-            "title": "DAZN IT HD",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/03/01 13:30:00 +0000",
-          "eventName": "Cremonese vs Milan",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/03/01 11:30:00 +0000",
-          "teamA": "Cremonese",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2761/image",
-          "teamB": "Milan",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2692/image"
-        },
-        "id": "407",
-        "image": "o",
-        "publish": "1",
-        "title": "Cremonese vs Milan"
       },
       {
         "adsLimit": "0",
@@ -1319,45 +1196,6 @@
             "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
             "title": "SportDigital Fussball",
             "type": "1"
-          },
-          {
-            "api": "",
-            "link": "https://streamtp10.com/global1.php?stream=espn3",
-            "title": "ESPN SPORTS",
-            "type": "2"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/03/01 13:15:00 +0000",
-          "eventName": "Zwolle vs AFC Ajax",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/03/01 11:15:00 +0000",
-          "teamA": "Zwolle",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2971/image",
-          "teamB": "Ajax",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2953/image"
-        },
-        "id": "416",
-        "image": "o",
-        "publish": "1",
-        "title": "Zwolle vs AFC Ajax"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "Eredivisie",
-        "channels_data": [
-          {
-            "api": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
-            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
-            "title": "PREMIER SPORTS",
-            "type": "1"
-          },
-          {
-            "api": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
-            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
-            "title": "SportDigital Fussball",
-            "type": "1"
           }
         ],
         "eventInfo": {
@@ -1429,45 +1267,6 @@
         "image": "o",
         "publish": "1",
         "title": "Samsunspor vs Gaziantep"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "Scottish Premiership",
-        "channels_data": [
-          {
-            "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
-            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
-            "title": "beIN ENGLISH",
-            "type": "1"
-          },
-          {
-            "api": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
-            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
-            "title": "CBS NETWORK",
-            "type": "1"
-          },
-          {
-            "api": "",
-            "link": "https://bl.rutube.ru/livestream/9585fdae92af45f113fdcc9f6c4ba442/index.m3u8?s=KgZtccuHrnaljGaN7cmUwA&e=2068506973&scheme=https",
-            "title": "SKY MAIN EVENT",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/03/01 14:00:00 +0000",
-          "eventName": "Rangers vs Celtic",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/03/01 12:00:00 +0000",
-          "teamA": "Rangers",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2351/image",
-          "teamB": "Celtic",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2352/image"
-        },
-        "id": "420",
-        "image": "o",
-        "publish": "1",
-        "title": "Rangers vs Celtic"
       },
       {
         "adsLimit": "0",
@@ -1603,87 +1402,6 @@
         "image": "o",
         "publish": "1",
         "title": "Eibar vs Cádiz"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "2. Bundesliga",
-        "channels_data": [
-          {
-            "api": "",
-            "link": "https://smarthard.click/hls/Mhe8gotoGQlu/index.m3u8",
-            "title": "SKY BUNDESLIGA SD",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/03/01 14:30:00 +0000",
-          "eventName": "Magdeburg vs Karlsruher",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/03/01 12:30:00 +0000",
-          "teamA": "Magdeburg",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2591/image",
-          "teamB": "Karlsruhe",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2553/image"
-        },
-        "id": "426",
-        "image": "o",
-        "publish": "1",
-        "title": "Magdeburg vs Karlsruher"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "2. Bundesliga",
-        "channels_data": [
-          {
-            "api": "",
-            "link": "https://smarthard.click/hls/kjzxkCIqkhtb/index.m3u8",
-            "title": "SKY BUNDESLIGA SD",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/03/01 14:30:00 +0000",
-          "eventName": "Hertha BSC vs Nürnberg",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/03/01 12:30:00 +0000",
-          "teamA": "Hertha",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2528/image",
-          "teamB": "Nürnberg",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2523/image"
-        },
-        "id": "427",
-        "image": "o",
-        "publish": "1",
-        "title": "Hertha BSC vs Nürnberg"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "2. Bundesliga",
-        "channels_data": [
-          {
-            "api": "",
-            "link": "https://smarthard.click/hls/9gSZoyFska/index.m3u8",
-            "title": "SKY BUNDESLIGA SD",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/03/01 14:30:00 +0000",
-          "eventName": "Eintracht Braunschweig vs Preußen Münster",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/03/01 12:30:00 +0000",
-          "teamA": "Braunschweig",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2557/image",
-          "teamB": "Münster",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2590/image"
-        },
-        "id": "428",
-        "image": "o",
-        "publish": "1",
-        "title": "Eintracht vs Preußen Münster"
       }
     ]
   }
