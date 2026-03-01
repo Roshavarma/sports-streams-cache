@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-03-01T07:48:20.335940",
+  "last_updated": "2026-03-01T08:17:13.252772",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "01:15:23 PM 01-03-2026",
+    "Last update time": "01:45:23 PM 01-03-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -117,9 +117,9 @@
           },
           {
             "api": "",
-            "link": "https://instreams.live/EU/HDTV11/index.m3u8?st=SportzX|Referer=https://instreams.click/",
+            "link": "https://streamtp10.com/global1.php?stream=espn2",
             "title": "ESPN SPORTS",
-            "type": "0"
+            "type": "2"
           },
           {
             "api": "f288380ca4cef9ad3f27a92a08e9bb8b:9f18d26291d9230833501f7f822f6875",
@@ -1211,6 +1211,12 @@
             "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
             "title": "SportDigital Fussball",
             "type": "1"
+          },
+          {
+            "api": "",
+            "link": "https://streamtp10.com/global1.php?stream=espn3",
+            "title": "ESPN SPORTS",
+            "type": "2"
           }
         ],
         "eventInfo": {
