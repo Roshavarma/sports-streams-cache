@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-03-01T17:23:38.235997",
+  "last_updated": "2026-03-01T17:48:00.082503",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "10:45:25 PM 01-03-2026",
+    "Last update time": "11:10:21 PM 01-03-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -141,11 +141,11 @@
           }
         ],
         "eventInfo": {
-          "endTime": "2026/03/01 10:00:00 +0000",
-          "eventName": "MotoGP - Grand Prix of Thailand",
+          "endTime": "2026/03/20 19:15:00 +0000",
+          "eventName": "MotoGP - Grand Prix of Brazil",
           "eventType": "null",
           "isHot": "0",
-          "startTime": "2026/03/01 08:00:00 +0000",
+          "startTime": "2026/03/20 16:00:00 +0000",
           "teamA": "MotoGP",
           "teamAFlag": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8fGgE14VBFQKRIMiWIvOlIwpL6AEobQtL3OkLLu7AzsBPGzeXGHsz5PL0NED5DHlAyKCFhPHoNaFB4Z1csH_vvpU47Pbtslr1za618knr-wojLCDa1hyW40v59Qw_UjMGWLREzicm9ZDl7yMuylyu7xMdMoQG3-XXKLoZafem7lpKqxfKavQu-33Mbck/s1600/mgp.png",
           "teamB": "MotoGP",
@@ -386,15 +386,15 @@
           }
         ],
         "eventInfo": {
-          "endTime": "2026/03/01 17:15:00 +0000",
-          "eventName": "India vs West Indies",
+          "endTime": "2026/03/04 17:15:00 +0000",
+          "eventName": "South Africa vs New Zealand",
           "eventType": "null",
-          "isHot": "1",
-          "startTime": "2026/03/01 13:30:00 +0000",
-          "teamA": "IND",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/187765/image",
-          "teamB": "WI",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/187760/image"
+          "isHot": "0",
+          "startTime": "2026/03/04 13:30:00 +0000",
+          "teamA": "SA",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/187747/image",
+          "teamB": "NZ",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/187755/image"
         },
         "id": "366",
         "image": "o",
@@ -443,15 +443,15 @@
           }
         ],
         "eventInfo": {
-          "endTime": "2026/03/01 16:00:00 +0000",
+          "endTime": "2026/03/06 16:00:00 +0000",
           "eventName": "ISL vs ISL",
           "eventType": "null",
           "isHot": "0",
-          "startTime": "2026/03/01 11:30:00 +0000",
+          "startTime": "2026/03/06 11:30:00 +0000",
           "teamA": "ISL",
-          "teamAFlag": "https://images.fancode.com/skillup-uploads/cms-media/ISL-Tour-Logo.png?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvY21zLW1lZGlhL0lTTC1Ub3VyLUxvZ28ucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjE4MCwiaGVpZ2h0IjoxODB9LCJ3ZWJwIjp7InF1YWxpdHkiOjYwLCJsb3NzbGVzcyI6ZmFsc2V9fSwib3V0cHV0Rm9ybWF0Ijoid2VicCJ9",
+          "teamAFlag": "https://images.fancode.com/skillup-uploads/cms-media/ISL-Tour-Logo.png",
           "teamB": "ISL",
-          "teamBFlag": "https://images.fancode.com/skillup-uploads/cms-media/ISL-Tour-Logo.png?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvY21zLW1lZGlhL0lTTC1Ub3VyLUxvZ28ucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjE4MCwiaGVpZ2h0IjoxODB9LCJ3ZWJwIjp7InF1YWxpdHkiOjYwLCJsb3NzbGVzcyI6ZmFsc2V9fSwib3V0cHV0Rm9ybWF0Ijoid2VicCJ9"
+          "teamBFlag": "https://images.fancode.com/skillup-uploads/cms-media/ISL-Tour-Logo.png"
         },
         "id": "371",
         "image": "o",
@@ -460,180 +460,183 @@
       },
       {
         "adsLimit": "0",
-        "cat": "EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+        "cat": "NBA",
         "channels_data": [
           {
             "api": "",
-            "link": "https://eventcdn02-nowe.akamaized.net/hls/CH621/index.m3u8",
-            "title": "NOW SPORTS PL",
+            "link": "https://mainstreams.pro/hls/mlkijfezag65.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+            "title": "SPORTIFy Live",
             "type": "0"
           },
           {
             "api": "",
-            "link": "https://daffodil.xn--1000-ugoa0hsb9a0hb.com/main.m3u8",
-            "title": "SKY SPORTS FHD",
-            "type": "0"
-          },
-          {
-            "api": "3501bd323a6a35c28eb7654bf298b9aa:2db4c8089d627e1b2c480c57baa86a7b",
-            "link": "https://cdn4.skygo.mn/live/disk1/SPSPlay/DASH-FTA/SPSPlay.mpd",
-            "title": "PSN SPORTS",
-            "type": "1"
-          },
-          {
-            "api": "ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1",
-            "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd",
-            "title": "TELEMUNDO FHD",
-            "type": "1"
-          },
-          {
-            "api": "0:0",
-            "link": "https://bbb.exoadash.com/TVD6219/index.mpd",
-            "title": "NOVA SPORTS PL",
-            "type": "1"
-          },
-          {
-            "api": "",
-            "link": "https://bl.rutube.ru/livestream/9585fdae92af45f113fdcc9f6c4ba442/index.m3u8?s=KgZtccuHrnaljGaN7cmUwA&e=2068506973&scheme=https",
-            "title": "MAIN EVENT",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://601.lifesharper.com/main.m3u8",
-            "title": "FHD SERVER",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://areagame.net/1111.php",
+            "link": "https://instreams.pro/US/NBA1/index.m3u8?st=SportzX|Referer=https://instreams.click/&Origin=https://instreams.click",
             "title": "HD SERVER",
             "type": "0"
           },
           {
             "api": "",
-            "link": "https://pl2.wecanfix3.space/playlist/46096/load-playlist?|Referer=https://gooz.aapmains.net",
-            "title": "SPY - HD",
+            "link": "https://smarthard.click/hls/Niyvk3zRJJmP/index.m3u8",
+            "title": "SD SERVER",
             "type": "0"
           },
           {
             "api": "",
-            "link": "https://play.ltwxsc.com/live/hd-en-6MuT7JxGP5o6ke5V2E.m3u8?txSecret=9debec986f11c53006a9f8a402f9da0e&txTime=69A470A7",
-            "title": "FAST SERVER",
+            "link": "https://mainstreams.pro/hls/mlkijfezag65.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+            "title": "SPY CAM.",
             "type": "0"
           }
         ],
         "eventInfo": {
-          "endTime": "2026/03/01 16:00:00 +0000",
-          "eventName": "Manchester United vs Crystal Palace",
+          "endTime": "2026/03/01 20:30:00 +0000",
+          "eventName": "New York Knicks vs San Antonio Spurs",
           "eventType": "null",
           "isHot": "0",
-          "startTime": "2026/03/01 14:00:00 +0000",
-          "teamA": "Man Utd",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/35/image",
-          "teamB": "Crystal Palace",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/7/image"
+          "startTime": "2026/03/01 18:00:00 +0000",
+          "teamA": "Knicks",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3421/image",
+          "teamB": "Spurs",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3429/image"
         },
-        "id": "396",
+        "id": "373",
         "image": "o",
         "publish": "1",
-        "title": "Manchester United vs Crystal Palace"
+        "title": "New York Knicks vs San Antonio Spurs"
       },
       {
         "adsLimit": "0",
-        "cat": "EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+        "cat": "NBA",
         "channels_data": [
           {
             "api": "",
-            "link": "https://eventcdn02-nowe.akamaized.net/hls/CH622/index.m3u8",
-            "title": "NOW SPORTS PL",
+            "link": "https://edgestreams.pro/hls/wfazgsqtrezu66.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+            "title": "SPORTIFy Live",
             "type": "0"
           },
           {
             "api": "",
-            "link": "https://601.xn--1000-ugoa0hsb9a0hb.com/arena.m3u8",
-            "title": "SKY SPORTS FHD",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://daffodil.833577.xyz/usa.m3u8",
-            "title": "USA TV FHD",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://areagame.net/2222.php",
+            "link": "https://instreams.pro/US/NBA2/index.m3u8?st=SportzX|Referer=https://instreams.click/&Origin=https://instreams.click",
             "title": "HD SERVER",
             "type": "0"
           },
           {
             "api": "",
-            "link": "https://red8.ignitequantum.space/playlist/46094/load-playlist?|Referer=https://gooz.aapmains.net",
-            "title": "SPY - HD",
+            "link": "https://smarthard.click/hls/z1Lb4SbqsIWU/index.m3u8?",
+            "title": "SD SERVER",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://edgestreams.pro/hls/wfazgsqtrezu66.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+            "title": "SPY CAM.",
             "type": "0"
           }
         ],
         "eventInfo": {
-          "endTime": "2026/03/01 16:00:00 +0000",
-          "eventName": "Fulham vs Tottenham Hotspur",
+          "endTime": "2026/03/01 23:00:00 +0000",
+          "eventName": "Brooklyn Nets vs Cleveland Cavaliers",
           "eventType": "null",
           "isHot": "0",
-          "startTime": "2026/03/01 14:00:00 +0000",
-          "teamA": "Fulham",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/43/image",
-          "teamB": "Tottenham",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/33/image"
+          "startTime": "2026/03/01 20:30:00 +0000",
+          "teamA": "Nets",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3436/image",
+          "teamB": "Cavaliers",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3432/image"
         },
-        "id": "397",
+        "id": "374",
         "image": "o",
         "publish": "1",
-        "title": "Fulham vs Tottenham Hotspur"
+        "title": "Brooklyn Nets vs Cleveland Cavaliers"
       },
       {
         "adsLimit": "0",
-        "cat": "EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+        "cat": "NBA",
         "channels_data": [
           {
             "api": "",
-            "link": "https://eventcdn02-nowe.akamaized.net/hls/CH623/index.m3u8",
-            "title": "NOW SPORTS PL",
+            "link": "https://mainstreams.pro/hls/hfsdqtaxvb67.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+            "title": "SPORTIFy Live",
             "type": "0"
           },
           {
             "api": "",
-            "link": "https://601.xn--1000-ugoa0hsb9a0hb.com/brighton.m3u8",
-            "title": "SKY SPORTS FHD",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://red2.wecanfix8.space/playlist/46095/load-playlist?|Referer=https://gooz.aapmains.net",
-            "title": "PEACOCK HD",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://areagame.net/3333.php",
+            "link": "https://instreams.pro/US/NBA3/index.m3u8?st=SportzX|Referer=https://instreams.click/&Origin=https://instreams.click",
             "title": "HD SERVER",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://smarthard.click/hls/cbf3PwTr7B1A/index.m3u8",
+            "title": "SD SERVER",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://mainstreams.pro/hls/hfsdqtaxvb67.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+            "title": "SPY CAM.",
             "type": "0"
           }
         ],
         "eventInfo": {
-          "endTime": "2026/03/01 16:00:00 +0000",
-          "eventName": "Brighton vs Nottingham Forest",
+          "endTime": "2026/03/01 23:00:00 +0000",
+          "eventName": "Chicago Bulls vs Milwaukee Bucks",
           "eventType": "null",
           "isHot": "0",
-          "startTime": "2026/03/01 14:00:00 +0000",
-          "teamA": "Brighton",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/30/image",
-          "teamB": "Forest",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/14/image"
+          "startTime": "2026/03/01 20:30:00 +0000",
+          "teamA": "Bulls",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3409/image",
+          "teamB": "Bucks",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3410/image"
         },
-        "id": "398",
+        "id": "375",
         "image": "o",
         "publish": "1",
-        "title": "Brighton vs Nottingham Forest"
+        "title": "Chicago Bulls vs Milwaukee Bucks"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "NBA",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://edgestreams.pro/hls/zayrtezafgvdv68.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://instreams.pro/US/NBA4/index.m3u8?st=SportzX|Referer=https://instreams.click/&Origin=https://instreams.click",
+            "title": "HD SERVER",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://smarthard.click/hls/DfF4IkIqKvOP/index.m3u8",
+            "title": "SD SERVER",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://edgestreams.pro/hls/zayrtezafgvdv68.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+            "title": "SPY CAM.",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/03/01 23:00:00 +0000",
+          "eventName": "Denver Nuggets vs Minnesota Timberwolves",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/03/01 20:30:00 +0000",
+          "teamA": "Nuggets",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3417/image",
+          "teamB": "Timberwolves",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3426/image"
+        },
+        "id": "376",
+        "image": "o",
+        "publish": "1",
+        "title": "Denver Nuggets vs Timberwolves"
       },
       {
         "adsLimit": "0",
@@ -661,45 +664,6 @@
             "api": "065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2",
             "link": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
             "title": "FANCODE FHD",
-            "type": "1"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/03/01 17:15:00 +0000",
-          "eventName": "Valencia vs Osasuna",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/03/01 15:15:00 +0000",
-          "teamA": "Valencia",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2828/image",
-          "teamB": "Osasuna",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2820/image"
-        },
-        "id": "400",
-        "image": "o",
-        "publish": "1",
-        "title": "Valencia vs Osasuna"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "LaLiga 🇪🇸",
-        "channels_data": [
-          {
-            "api": "620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a",
-            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd",
-            "title": "Laliga TV FHD",
-            "type": "1"
-          },
-          {
-            "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
-            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
-            "title": "beIN ENGLISH",
-            "type": "1"
-          },
-          {
-            "api": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f",
-            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
-            "title": "Premier Sports",
             "type": "1"
           }
         ],
@@ -763,10 +727,10 @@
         "cat": "EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
         "channels_data": [
           {
-            "api": "3501bd323a6a35c28eb7654bf298b9aa:2db4c8089d627e1b2c480c57baa86a7b",
-            "link": "https://cdn4.skygo.mn/live/disk1/SPSPlay/DASH-FTA/SPSPlay.mpd",
-            "title": "PSN 2 EPL",
-            "type": "1"
+            "api": "",
+            "link": "https://roseaylrsiu.s3.us-east-1.amazonaws.com/manu.m3u8",
+            "title": "PEACOCK - AQ",
+            "type": "0"
           },
           {
             "api": "",
@@ -781,6 +745,24 @@
             "type": "1"
           },
           {
+            "api": "",
+            "link": "https://pl4.wecanfix5.space/playlist/46104/load-playlist?|Referer=https://gooz.aapmains.net",
+            "title": "SKY MAIN HD",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://grand-s-v001.faggotsports.tv/out/v1/e25132915cf1e67759051cac80b42275/mix-stream.m3u8|Referer=https://hmembeds.one/",
+            "title": "SKY SPORTS FHD",
+            "type": "0"
+          },
+          {
+            "api": "3501bd323a6a35c28eb7654bf298b9aa:2db4c8089d627e1b2c480c57baa86a7b",
+            "link": "https://cdn4.skygo.mn/live/disk1/SPSPlay/DASH-FTA/SPSPlay.mpd",
+            "title": "PSN 2 EPL",
+            "type": "1"
+          },
+          {
             "api": "0:0",
             "link": "https://bbb.exoadash.com/TVD6219/index.mpd",
             "title": "NOVA SPORTS PL",
@@ -790,12 +772,6 @@
             "api": "",
             "link": "https://bl.rutube.ru/livestream/9585fdae92af45f113fdcc9f6c4ba442/index.m3u8?s=KgZtccuHrnaljGaN7cmUwA&e=2068506973&scheme=https",
             "title": "MAIN EVENT",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://pl4.wecanfix5.space/playlist/46104/load-playlist?|Referer=https://gooz.aapmains.net",
-            "title": "SKY MAIN HD",
             "type": "0"
           },
           {
@@ -821,12 +797,6 @@
             "link": "https://31.hls-syria.live/live/bein1",
             "title": "beIN ARABIC",
             "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://1m3m.com/1/?csgo=4",
-            "title": "SKY SPORTS",
-            "type": "2"
           }
         ],
         "eventInfo": {
@@ -844,45 +814,6 @@
         "image": "o",
         "publish": "1",
         "title": "Arsenal vs Chelsea"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "Bundesliga 🇩🇪",
-        "channels_data": [
-          {
-            "api": "597b1d0fdddb383fd37febd057d3fd1c:a728d9c017f83e3e6e77b7d7c0231b22",
-            "link": "https://apac-live.akamaized.net/ehyrzisobs/bein_sports_vflow07/index.mpd?hdntl=exp=1772457085~acl=%2f*~id=42901651~data=hdntl,fp%3d1~hmac=65903f34a59a0dc98b06e68d5203c40113c491015671d37735e226ae28b6db32&hdnts=st%3D1772284280%7Eexp%3D1772370980%7Eacl%3D%2F*%7Eid%3D42901651%7Edata%3Dfp%3D1%7Ehmac%3Dd3088010df38b90f7a6dd97673efd60803b08cb5197063f0aed761211cc8150f",
-            "title": "beIN SPORTS",
-            "type": "1"
-          },
-          {
-            "api": "0:0",
-            "link": "https://bbb.exoadash.com/TVD6414/index.mpd",
-            "title": "ELEVEN SPORTS",
-            "type": "1"
-          },
-          {
-            "api": "",
-            "link": "https://smarthard.click/hls/bV0f1SLNSVTD/index.m3u8",
-            "title": "DAZN SPORTS SD",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/03/01 16:30:00 +0000",
-          "eventName": "Stuttgart vs Wolfsburg",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/03/01 14:30:00 +0000",
-          "teamA": "Stuttgart",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2677/image",
-          "teamB": "Wolfsburg",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2524/image"
-        },
-        "id": "404",
-        "image": "o",
-        "publish": "1",
-        "title": "Stuttgart vs Wolfsburg"
       },
       {
         "adsLimit": "0",
@@ -974,39 +905,6 @@
           }
         ],
         "eventInfo": {
-          "endTime": "2026/03/01 16:00:00 +0000",
-          "eventName": "Sassuolo vs Atalanta",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/03/01 14:00:00 +0000",
-          "teamA": "Sassuolo",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2793/image",
-          "teamB": "Atalanta",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2686/image"
-        },
-        "id": "408",
-        "image": "o",
-        "publish": "1",
-        "title": "Sassuolo vs Atalanta"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "Serie A 🇮🇹",
-        "channels_data": [
-          {
-            "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
-            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
-            "title": "beIN ENGLISH",
-            "type": "1"
-          },
-          {
-            "api": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
-            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
-            "title": "CBS NETWORK",
-            "type": "1"
-          }
-        ],
-        "eventInfo": {
           "endTime": "2026/03/01 19:00:00 +0000",
           "eventName": "Torino vs Lazio",
           "eventType": "null",
@@ -1054,45 +952,6 @@
         "image": "o",
         "publish": "1",
         "title": "Roma vs Juventus"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "Ligue 1 🇫🇷",
-        "channels_data": [
-          {
-            "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
-            "link": "https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd",
-            "title": "NOVA SPORTS",
-            "type": "1"
-          },
-          {
-            "api": "",
-            "link": "https://red8.ignitequantum.space/playlist/46099/load-playlist?|Referer=https://gooz.aapmains.net",
-            "title": "beIN USA HD",
-            "type": "0"
-          },
-          {
-            "api": "0:0",
-            "link": "https://bbb.exoadash.com/TVD2083/index.mpd",
-            "title": "Ligue1+",
-            "type": "1"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/03/01 16:00:00 +0000",
-          "eventName": "Paris FC vs Nice",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/03/01 14:00:00 +0000",
-          "teamA": "Paris",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/6070/image",
-          "teamB": "Nice",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/1661/image"
-        },
-        "id": "411",
-        "image": "o",
-        "publish": "1",
-        "title": "Paris FC vs Nice"
       },
       {
         "adsLimit": "0",
@@ -1222,39 +1081,6 @@
       },
       {
         "adsLimit": "0",
-        "cat": "Eredivisie",
-        "channels_data": [
-          {
-            "api": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
-            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
-            "title": "PREMIER SPORTS",
-            "type": "1"
-          },
-          {
-            "api": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
-            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
-            "title": "SportDigital Fussball",
-            "type": "1"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/03/01 15:30:00 +0000",
-          "eventName": "Twente vs Feyenoord",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/03/01 13:30:00 +0000",
-          "teamA": "Twente",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2955/image",
-          "teamB": "Feyenoord",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2959/image"
-        },
-        "id": "417",
-        "image": "o",
-        "publish": "1",
-        "title": "Twente vs Feyenoord"
-      },
-      {
-        "adsLimit": "0",
         "cat": "Super Lig",
         "channels_data": [
           {
@@ -1306,87 +1132,6 @@
         "image": "o",
         "publish": "1",
         "title": "Samsunspor vs Gaziantep"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "LaLiga 2",
-        "channels_data": [
-          {
-            "api": "d69894c7b729c5d1e85893e5e6cfcb0f:db0d53f871f5d2ef91d3a112c7ec9f30",
-            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/tcninbbnt5/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd",
-            "title": "Laliga Hypermotion ES",
-            "type": "1"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/03/01 15:00:00 +0000",
-          "eventName": "Real Sociedad II vs Deportivo",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/03/01 13:00:00 +0000",
-          "teamA": "Real Sociedad II",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/24360/image",
-          "teamB": "Deportivo",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2832/image"
-        },
-        "id": "421",
-        "image": "o",
-        "publish": "1",
-        "title": "Real Sociedad II vs Deportivo"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "LaLiga 2",
-        "channels_data": [
-          {
-            "api": "0:0",
-            "link": "https://bbb.exoadash.com/TVD1581/index.mpd",
-            "title": "Laliga Hypermotion",
-            "type": "1"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/03/01 17:15:00 +0000",
-          "eventName": "Mirandés vs AD Ceuta",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/03/01 15:15:00 +0000",
-          "teamA": "Mirandés",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/35092/image",
-          "teamB": "Ceuta",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2869/image"
-        },
-        "id": "422",
-        "image": "o",
-        "publish": "1",
-        "title": "Mirandés vs AD Ceuta"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "LaLiga 2",
-        "channels_data": [
-          {
-            "api": "d69894c7b729c5d1e85893e5e6cfcb0f:db0d53f871f5d2ef91d3a112c7ec9f30",
-            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/tcninbbnt5/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd",
-            "title": "Laliga Hypermotion ES",
-            "type": "1"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/03/01 17:15:00 +0000",
-          "eventName": "Sporting Gijón vs Leganés",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/03/01 15:15:00 +0000",
-          "teamA": "Sporting",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2852/image",
-          "teamB": "Leganés",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2845/image"
-        },
-        "id": "423",
-        "image": "o",
-        "publish": "1",
-        "title": "Sporting Gijón vs Leganés"
       },
       {
         "adsLimit": "0",
