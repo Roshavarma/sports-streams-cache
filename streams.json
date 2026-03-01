@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-03-01T07:10:23.619059",
+  "last_updated": "2026-03-01T07:48:20.335940",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "12:35:16 PM 01-03-2026",
+    "Last update time": "01:15:23 PM 01-03-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -92,10 +92,10 @@
         "cat": "MotoGP",
         "channels_data": [
           {
-            "api": "f288380ca4cef9ad3f27a92a08e9bb8b:9f18d26291d9230833501f7f822f6875",
-            "link": "https://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd",
-            "title": "TNT Sports 2 (UK)",
-            "type": "1"
+            "api": "",
+            "link": "https://grand-s-v001.faggotsports.tv/out/v1/c5phuthukothlwrudro8rosas3b64ini/mix-stream.m3u8|Referer=https://hmembeds.one/",
+            "title": "TNT SPORTS FHD",
+            "type": "0"
           },
           {
             "api": "065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2",
@@ -117,8 +117,26 @@
           },
           {
             "api": "",
+            "link": "https://instreams.live/EU/HDTV11/index.m3u8?st=SportzX|Referer=https://instreams.click/",
+            "title": "ESPN SPORTS",
+            "type": "0"
+          },
+          {
+            "api": "f288380ca4cef9ad3f27a92a08e9bb8b:9f18d26291d9230833501f7f822f6875",
+            "link": "https://netskrt.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc//fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd",
+            "title": "TNT SPORTS (UK)",
+            "type": "1"
+          },
+          {
+            "api": "",
             "link": "https://edge2caster.pro/hls/oeenzgezcz47.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
             "title": "TNT SPORTS SD",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://smarthard.click/hls/w93sLKtkQf0Y/index.m3u8",
+            "title": "SKY SPORTS DE",
             "type": "0"
           }
         ],
