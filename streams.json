@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-03-01T16:25:18.970424",
+  "last_updated": "2026-03-01T16:53:00.464115",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "09:50:25 PM 01-03-2026",
+    "Last update time": "10:15:24 PM 01-03-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -763,6 +763,24 @@
         "cat": "EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
         "channels_data": [
           {
+            "api": "3501bd323a6a35c28eb7654bf298b9aa:2db4c8089d627e1b2c480c57baa86a7b",
+            "link": "https://cdn4.skygo.mn/live/disk1/SPSPlay/DASH-FTA/SPSPlay.mpd",
+            "title": "PSN 2 EPL",
+            "type": "1"
+          },
+          {
+            "api": "",
+            "link": "https://eventcdn02-nowe.akamaized.net/hls/CH621/index.m3u8",
+            "title": "NOW SPORTS PL",
+            "type": "0"
+          },
+          {
+            "api": "ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1",
+            "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd",
+            "title": "TELEMUNDO FHD",
+            "type": "1"
+          },
+          {
             "api": "0:0",
             "link": "https://bbb.exoadash.com/TVD6219/index.mpd",
             "title": "NOVA SPORTS PL",
@@ -776,16 +794,46 @@
           },
           {
             "api": "",
+            "link": "https://pl4.wecanfix5.space/playlist/46104/load-playlist?|Referer=https://gooz.aapmains.net",
+            "title": "SKY MAIN HD",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://storage.googleapis.com/unicterungitjds1/mux_video_ts1/index-1.m3u8",
+            "title": "ASTRO PL HD",
+            "type": "0"
+          },
+          {
+            "api": "",
             "link": "https://instreams.pro/US/NFLHD1/index.m3u8?st=SportzX|Referer=https://instreams.click/&Origin=https://instreams.click",
             "title": "HD SERVER",
             "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://live.alilicloud.com/live/726c0378c46f87c5c76edb5c887827d8/playlist.m3u8",
+            "title": "FAST SERVER",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://31.hls-syria.live/live/bein1",
+            "title": "beIN ARABIC",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://1m3m.com/1/?csgo=4",
+            "title": "SKY SPORTS",
+            "type": "2"
           }
         ],
         "eventInfo": {
           "endTime": "2026/03/01 18:30:00 +0000",
           "eventName": "Arsenal vs Chelsea",
           "eventType": "null",
-          "isHot": "0",
+          "isHot": "1",
           "startTime": "2026/03/01 16:30:00 +0000",
           "teamA": "Arsenal",
           "teamAFlag": "https://img.sofascore.com/api/v1/team/42/image",
@@ -840,6 +888,18 @@
         "adsLimit": "0",
         "cat": "Bundesliga 🇩🇪",
         "channels_data": [
+          {
+            "api": "672a1f46b66c6bdd26b1680d39baa922:16169547eb9b0a14146cdbd21490279e",
+            "link": "https://apac-live.akamaized.net/ehyrzisobs/bein_sports_vflow06/index.mpd?hdntl=exp=1772457085~acl=%2f*~id=42901651~data=hdntl,fp%3d1~hmac=65903f34a59a0dc98b06e68d5203c40113c491015671d37735e226ae28b6db32&hdnts=st%3D1772284280%7Eexp%3D1772370980%7Eacl%3D%2F*%7Eid%3D42901651%7Edata%3Dfp%3D1%7Ehmac%3Dd3088010df38b90f7a6dd97673efd60803b08cb5197063f0aed761211cc8150f",
+            "title": "beIN SPORTS",
+            "type": "1"
+          },
+          {
+            "api": "3501bd323a6a35c28eb7654bf298b9aa:2db4c8089d627e1b2c480c57baa86a7b",
+            "link": "https://cdn3.skygo.mn/live/disk1/SPSFight/DASH-FTA/SPSFight.mpd",
+            "title": "PSN SPORTS",
+            "type": "1"
+          },
           {
             "api": "",
             "link": "https://smarthard.click/hls/2MKw3OQni0WR/index.m3u8",
@@ -1039,6 +1099,12 @@
         "cat": "Ligue 1 🇫🇷",
         "channels_data": [
           {
+            "api": "",
+            "link": "https://instreams.live/EU/HDTV23/index.m3u8?st=SportzX|Referer=https://instreams.click/&Origin=https://instreams.click",
+            "title": "CANAL+ HD",
+            "type": "0"
+          },
+          {
             "api": "0:0",
             "link": "https://bbb.exoadash.com/TVD2083/index.mpd",
             "title": "Ligue1+",
@@ -1067,9 +1133,15 @@
         "channels_data": [
           {
             "api": "0:0",
-            "link": "https://bbb.exoadash.com/TVD2083/index.mpd",
+            "link": "https://bbb.exoadash.com/TVD2086/index.mpd",
             "title": "Ligue1+",
             "type": "1"
+          },
+          {
+            "api": "",
+            "link": "https://instreams.live/EU/HDTV25/index.m3u8?st=SportzX|Referer=https://instreams.click/&Origin=https://instreams.click",
+            "title": "HD SERVER",
+            "type": "0"
           }
         ],
         "eventInfo": {
@@ -1094,9 +1166,15 @@
         "channels_data": [
           {
             "api": "0:0",
-            "link": "https://bbb.exoadash.com/TVD2083/index.mpd",
+            "link": "https://bbb.exoadash.com/TVD2088/index.mpd",
             "title": "Ligue1+",
             "type": "1"
+          },
+          {
+            "api": "",
+            "link": "https://instreams.live/EU/HDTV24/index.m3u8?st=SportzX|Referer=https://instreams.click/&Origin=https://instreams.click",
+            "title": "HD SERVER",
+            "type": "0"
           }
         ],
         "eventInfo": {
