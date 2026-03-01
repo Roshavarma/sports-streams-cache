@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-03-01T17:48:00.082503",
+  "last_updated": "2026-03-01T18:15:46.484203",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "11:10:21 PM 01-03-2026",
+    "Last update time": "11:40:24 PM 01-03-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -521,7 +521,7 @@
           },
           {
             "api": "",
-            "link": "https://smarthard.click/hls/z1Lb4SbqsIWU/index.m3u8?",
+            "link": "https://smarthard.click/hls/DfF4IkIqKvOP/index.m3u8",
             "title": "SD SERVER",
             "type": "0"
           },
@@ -611,7 +611,7 @@
           },
           {
             "api": "",
-            "link": "https://smarthard.click/hls/DfF4IkIqKvOP/index.m3u8",
+            "link": "https://smarthard.click/hls/z1Lb4SbqsIWU/index.m3u8",
             "title": "SD SERVER",
             "type": "0"
           },
@@ -637,6 +637,276 @@
         "image": "o",
         "publish": "1",
         "title": "Denver Nuggets vs Timberwolves"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "NBA",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://edgestreams.pro/hls/zeafwqvhfe69.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://instreams.pro/US/NBA5/index.m3u8?st=SportzX|Referer=https://instreams.click/&Origin=https://instreams.click",
+            "title": "HD SERVER",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://smarthard.click/hls/kaT8Lu6TJc1F/index.m3u8",
+            "title": "SD SERVER",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://edgestreams.pro/hls/zeafwqvhfe69.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+            "title": "SPY CAM.",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/03/02 00:30:00 +0000",
+          "eventName": "Indiana Pacers vs Memphis Grizzlies",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/03/01 22:00:00 +0000",
+          "teamA": "Pacers",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3419/image",
+          "teamB": "Grizzlies",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3415/image"
+        },
+        "id": "377",
+        "image": "o",
+        "publish": "1",
+        "title": "Indiana Pacers vs Memphis Grizzlies"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "NBA",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://mainstreams.pro/hls/bvnsqdfvgha70.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://instreams.pro/US/NBA6/index.m3u8?st=SportzX|Referer=https://instreams.click/&Origin=https://instreams.click",
+            "title": "HD SERVER",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://smarthard.click/hls/kl434PVmNnx/index.m3u8",
+            "title": "SD SERVER",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://mainstreams.pro/hls/bvnsqdfvgha70.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+            "title": "SPY CAM.",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/03/02 01:30:00 +0000",
+          "eventName": "Atlanta Hawks vs Portland Trail Blazers",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/03/01 23:00:00 +0000",
+          "teamA": "Hawks",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3423/image",
+          "teamB": "Trail Blazers",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3414/image"
+        },
+        "id": "378",
+        "image": "o",
+        "publish": "1",
+        "title": "Atlanta Hawks vs Trail Blazers"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "NBA",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://edgestreams.pro/hls/ztyarueaghj71.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://instreams.pro/US/NBA7/index.m3u8?st=SportzX|Referer=https://instreams.click/&Origin=https://instreams.click",
+            "title": "HD SERVER",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://smarthard.click/hls/rxMy7qPUIdCe/index.m3u8",
+            "title": "SD SERVER",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://edgestreams.pro/hls/ztyarueaghj71.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+            "title": "SPY CAM.",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/03/02 01:30:00 +0000",
+          "eventName": "Orlando Magic vs Detroit Pistons",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/03/01 23:00:00 +0000",
+          "teamA": "Magic",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3437/image",
+          "teamB": "Pistons",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3424/image"
+        },
+        "id": "379",
+        "image": "o",
+        "publish": "1",
+        "title": "Orlando Magic vs Detroit Pistons"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "NBA",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://mainstreams.pro/hls/pllmazjkdzajh72.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://instreams.pro/US/NBA8/index.m3u8?st=SportzX|Referer=https://instreams.click/&Origin=https://instreams.click",
+            "title": "HD SERVER",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://smarthard.click/hls/Glj9aN5pStQx/index.m3u8",
+            "title": "SD SERVER",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://mainstreams.pro/hls/pllmazjkdzajh72.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+            "title": "SPY CAM.",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/03/02 03:30:00 +0000",
+          "eventName": "Boston Celtics vs Philadelphia 76ers",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/03/02 01:00:00 +0000",
+          "teamA": "Celtics",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3422/image",
+          "teamB": "76ers",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3420/image"
+        },
+        "id": "380",
+        "image": "o",
+        "publish": "1",
+        "title": "Boston Celtics vs Philadelphia 76ers"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "NBA",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://edge2caster.pro/hls/fdgsqdfawa73.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://instreams.pro/US/NBA9/index.m3u8?st=SportzX|Referer=https://instreams.click/&Origin=https://instreams.click",
+            "title": "HD SERVER",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://smarthard.click/hls/0HGkn3IFDO/index.m3u8",
+            "title": "SD SERVER",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://edge2caster.pro/hls/fdgsqdfawa73.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+            "title": "SPY CAM.",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/03/02 03:30:00 +0000",
+          "eventName": "Dallas Mavericks vs Oklahoma City Thunder",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/03/02 01:00:00 +0000",
+          "teamA": "Mavericks",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3411/image",
+          "teamB": "Thunder",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3418/image"
+        },
+        "id": "381",
+        "image": "o",
+        "publish": "1",
+        "title": "Dallas Mavericks vs Oklahoma City Thunder"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "NBA",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://edge2caster.pro/hls/yjtzafghvjza74.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://instreams.pro/US/NBA10/index.m3u8?st=SportzX|Referer=https://instreams.click/&Origin=https://instreams.click",
+            "title": "HD SERVER",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://smarthard.click/hls/fZroSQ0L8xcz/index.m3u8",
+            "title": "SD SERVER",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://edge2caster.pro/hls/yjtzafghvjza74.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+            "title": "SPY CAM.",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/03/02 04:30:00 +0000",
+          "eventName": "Los Angeles Clippers vs New Orleans Pelicans",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/03/02 02:00:00 +0000",
+          "teamA": "Clippers",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3425/image",
+          "teamB": "Pelicans",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/5539/image"
+        },
+        "id": "382",
+        "image": "o",
+        "publish": "1",
+        "title": "Clippers vs New Orleans Pelicans"
       },
       {
         "adsLimit": "0",
