@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-03-01T18:15:46.484203",
+  "last_updated": "2026-03-01T18:53:18.826540",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "11:40:24 PM 01-03-2026",
+    "Last update time": "12:20:22 AM 02-03-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -462,6 +462,12 @@
         "adsLimit": "0",
         "cat": "NBA",
         "channels_data": [
+          {
+            "api": "",
+            "link": "https://pfl2.orbitorbit.space/playlist/46122/load-playlist|Referer=https://gooz.aapmains.net/",
+            "title": "SPORTIFy NBA",
+            "type": "0"
+          },
           {
             "api": "",
             "link": "https://mainstreams.pro/hls/mlkijfezag65.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
@@ -997,10 +1003,10 @@
         "cat": "EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
         "channels_data": [
           {
-            "api": "",
-            "link": "https://roseaylrsiu.s3.us-east-1.amazonaws.com/manu.m3u8",
+            "api": "0022af423960ba20cfea8fe4987a98e3:8bc999ee6c54674eaaf8a7fc31f422c3",
+            "link": "https://g003-sle-us-cmaf-prd-fy.cdn.peacocktv.com/co01/pcksle1/Content/CMAF_CTR-4s-v2/Live/channel(2512617-214030-24903a8104e)/master_2hr.mpd?",
             "title": "PEACOCK - AQ",
-            "type": "0"
+            "type": "1"
           },
           {
             "api": "",
@@ -1073,7 +1079,7 @@
           "endTime": "2026/03/01 18:30:00 +0000",
           "eventName": "Arsenal vs Chelsea",
           "eventType": "null",
-          "isHot": "1",
+          "isHot": "0",
           "startTime": "2026/03/01 16:30:00 +0000",
           "teamA": "Arsenal",
           "teamAFlag": "https://img.sofascore.com/api/v1/team/42/image",
@@ -1090,44 +1096,17 @@
         "cat": "Bundesliga 🇩🇪",
         "channels_data": [
           {
-            "api": "672a1f46b66c6bdd26b1680d39baa922:16169547eb9b0a14146cdbd21490279e",
-            "link": "https://apac-live.akamaized.net/ehyrzisobs/bein_sports_vflow06/index.mpd?hdntl=exp=1772457085~acl=%2f*~id=42901651~data=hdntl,fp%3d1~hmac=65903f34a59a0dc98b06e68d5203c40113c491015671d37735e226ae28b6db32&hdnts=st%3D1772284280%7Eexp%3D1772370980%7Eacl%3D%2F*%7Eid%3D42901651%7Edata%3Dfp%3D1%7Ehmac%3Dd3088010df38b90f7a6dd97673efd60803b08cb5197063f0aed761211cc8150f",
+            "api": "7c214cad238a160353453b01da8be646:6f64bc2379b1f703ccfb6410be1dfde1",
+            "link": "https://apac-live.akamaized.net/ehyrzisobs/bein_sports_vflow05/index.mpd?hdntl=exp=1772457085~acl=%2f*~id=42901651~data=hdntl,fp%3d1~hmac=65903f34a59a0dc98b06e68d5203c40113c491015671d37735e226ae28b6db32&hdnts=st%3D1772284280%7Eexp%3D1772370980%7Eacl%3D%2F*%7Eid%3D42901651%7Edata%3Dfp%3D1%7Ehmac%3Dd3088010df38b90f7a6dd97673efd60803b08cb5197063f0aed761211cc8150f",
             "title": "beIN SPORTS",
             "type": "1"
           },
           {
             "api": "3501bd323a6a35c28eb7654bf298b9aa:2db4c8089d627e1b2c480c57baa86a7b",
-            "link": "https://cdn3.skygo.mn/live/disk1/SPSFight/DASH-FTA/SPSFight.mpd",
+            "link": "https://cdn3.skygo.mn/live/disk1/SPSPlus/DASH-FTA/SPSPlus.mpd",
             "title": "PSN SPORTS",
             "type": "1"
           },
-          {
-            "api": "",
-            "link": "https://smarthard.click/hls/2MKw3OQni0WR/index.m3u8",
-            "title": "DAZN SPORTS SD",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/03/01 18:30:00 +0000",
-          "eventName": "Eintracht Frankfurt vs Freiburg",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/03/01 16:30:00 +0000",
-          "teamA": "Frankfurt",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2674/image",
-          "teamB": "Freiburg",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2538/image"
-        },
-        "id": "405",
-        "image": "o",
-        "publish": "1",
-        "title": "Eintracht Frankfurt vs Freiburg"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "Bundesliga 🇩🇪",
-        "channels_data": [
           {
             "api": "0:0",
             "link": "https://bbb.exoadash.com/TVD6412/index.mpd",
@@ -1222,105 +1201,6 @@
         "image": "o",
         "publish": "1",
         "title": "Roma vs Juventus"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "Ligue 1 🇫🇷",
-        "channels_data": [
-          {
-            "api": "",
-            "link": "https://instreams.live/EU/HDTV23/index.m3u8?st=SportzX|Referer=https://instreams.click/&Origin=https://instreams.click",
-            "title": "CANAL+ HD",
-            "type": "0"
-          },
-          {
-            "api": "0:0",
-            "link": "https://bbb.exoadash.com/TVD2083/index.mpd",
-            "title": "Ligue1+",
-            "type": "1"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/03/01 18:15:00 +0000",
-          "eventName": "Lille vs Nantes",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/03/01 16:15:00 +0000",
-          "teamA": "Lille",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/1643/image",
-          "teamB": "Nantes",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/1647/image"
-        },
-        "id": "412",
-        "image": "o",
-        "publish": "1",
-        "title": "Lille vs Nantes"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "Ligue 1 🇫🇷",
-        "channels_data": [
-          {
-            "api": "0:0",
-            "link": "https://bbb.exoadash.com/TVD2086/index.mpd",
-            "title": "Ligue1+",
-            "type": "1"
-          },
-          {
-            "api": "",
-            "link": "https://instreams.live/EU/HDTV25/index.m3u8?st=SportzX|Referer=https://instreams.click/&Origin=https://instreams.click",
-            "title": "HD SERVER",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/03/01 18:15:00 +0000",
-          "eventName": "Lorient vs Auxerre",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/03/01 16:15:00 +0000",
-          "teamA": "Lorient",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/1656/image",
-          "teamB": "Auxerre",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/1646/image"
-        },
-        "id": "413",
-        "image": "o",
-        "publish": "1",
-        "title": "Lorient vs Auxerre"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "Ligue 1 🇫🇷",
-        "channels_data": [
-          {
-            "api": "0:0",
-            "link": "https://bbb.exoadash.com/TVD2088/index.mpd",
-            "title": "Ligue1+",
-            "type": "1"
-          },
-          {
-            "api": "",
-            "link": "https://instreams.live/EU/HDTV24/index.m3u8?st=SportzX|Referer=https://instreams.click/&Origin=https://instreams.click",
-            "title": "HD SERVER",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/03/01 18:15:00 +0000",
-          "eventName": "Metz vs Stade Brestois",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/03/01 16:15:00 +0000",
-          "teamA": "Metz",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/1651/image",
-          "teamB": "Brest",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/1715/image"
-        },
-        "id": "414",
-        "image": "o",
-        "publish": "1",
-        "title": "Metz vs Stade Brestois"
       },
       {
         "adsLimit": "0",
