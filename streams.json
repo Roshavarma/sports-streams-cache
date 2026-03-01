@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-03-01T13:30:03.512111",
+  "last_updated": "2026-03-01T13:58:46.125549",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "06:55:18 PM 01-03-2026",
+    "Last update time": "07:25:20 PM 01-03-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -345,18 +345,24 @@
           {
             "api": "0c1cb3e9514dddd75896a7f60a03decb:963fb175f70769c8d56fc44c843808b3",
             "link": "https://ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/ecp6xidc5d/out/v1/b8a94677c56e4411aef7ecc2431cec0a/cenc.mpd",
-            "title": "Willow [Ad Free]",
+            "title": "WILLOW [Ad Free]",
+            "type": "1"
+          },
+          {
+            "api": "14d1d427e8144c7b80cd5a8a6b9aa5e3:b3992507b4df8956717e3d5d798b7ab0",
+            "link": "https://bks02.starhubgo.com/bpk-token/1aa@i4a5m0w0d2tjlbrq4khifb4zu3shyhtwi2howuca/bpk-tv/HubSports5HD/output/manifest.mpd",
+            "title": "HUB SPORTS FHD",
             "type": "1"
           },
           {
             "api": "",
-            "link": "https://bl.rutube.ru/livestream/9585fdae92af45f113fdcc9f6c4ba442/index.m3u8?s=KgZtccuHrnaljGaN7cmUwA&e=2068506973&scheme=https",
-            "title": "SKY SPORTS",
+            "link": "https://grand-s-v001.faggotsports.tv/out/v1/8a607afa3ed1cc0a7ecced4ad5c42c2c/mix-stream.m3u8|Referer=https://hmembeds.one/",
+            "title": "SPY - FHD",
             "type": "0"
           },
           {
             "api": "",
-            "link": "https://live-pull.aisports.mobi/moviebox/device02/playlist.m3u8|Referer=https://sportslivenow.top/",
+            "link": "https://live-pull.aisports.mobi/moviebox/device01/playlist.m3u8|Referer=https://sportslivenow.top/",
             "title": "JIO HOTSTAR",
             "type": "0"
           },
@@ -368,9 +374,15 @@
           },
           {
             "api": "",
-            "link": "http://103.99.249.139/starsport2/index.m3u8",
+            "link": "http://103.99.249.139/starsport1/index.m3u8",
             "title": "Star Sport HIN",
             "type": "0"
+          },
+          {
+            "api": "https://kick.com/api/v2/channels/%s",
+            "link": "toxifyxe2",
+            "title": "HINDI STREAM",
+            "type": "4"
           }
         ],
         "eventInfo": {
@@ -547,6 +559,30 @@
         "cat": "EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
         "channels_data": [
           {
+            "api": "",
+            "link": "https://grand-s-v001.faggotsports.tv/out/v1/e25132915cf1e67759051cac80b42275/mix-stream.m3u8|Referer=https://hmembeds.one/",
+            "title": "SKY SPORTS FHD",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://eventcdn02-nowe.akamaized.net/hls/CH621/index.m3u8",
+            "title": "NOW SPORTS PL",
+            "type": "0"
+          },
+          {
+            "api": "3501bd323a6a35c28eb7654bf298b9aa:2db4c8089d627e1b2c480c57baa86a7b",
+            "link": "https://cdn4.skygo.mn/live/disk1/SPSPlay/DASH-FTA/SPSPlay.mpd",
+            "title": "PSN SPORTS",
+            "type": "1"
+          },
+          {
+            "api": "ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1",
+            "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd",
+            "title": "TELEMUNDO FHD",
+            "type": "1"
+          },
+          {
             "api": "0:0",
             "link": "https://bbb.exoadash.com/TVD6219/index.mpd",
             "title": "NOVA SPORTS PL",
@@ -556,6 +592,24 @@
             "api": "",
             "link": "https://bl.rutube.ru/livestream/9585fdae92af45f113fdcc9f6c4ba442/index.m3u8?s=KgZtccuHrnaljGaN7cmUwA&e=2068506973&scheme=https",
             "title": "MAIN EVENT",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://601.lifesharper.com/main.m3u8",
+            "title": "FHD SERVER",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://areagame.net/1111.php",
+            "title": "HD SERVER",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://pl2.wecanfix3.space/playlist/46096/load-playlist?|Referer=https://gooz.aapmains.net",
+            "title": "SPY - HD",
             "type": "0"
           }
         ],
@@ -581,8 +635,32 @@
         "channels_data": [
           {
             "api": "",
-            "link": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4",
-            "title": "SPORTIFy Live",
+            "link": "https://grand-s-v001.faggotsports.tv/out/v1/67f5bf81544d442bd7c1f29d822ac19b/mix-stream.m3u8|Referer=https://hmembeds.one/",
+            "title": "SKY SPORTS FHD",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://eventcdn02-nowe.akamaized.net/hls/CH622/index.m3u8",
+            "title": "NOW SPORTS PL",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://daffodil.833577.xyz/usa.m3u8",
+            "title": "USA TV FHD",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://areagame.net/2222.php",
+            "title": "HD SERVER",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://red8.ignitequantum.space/playlist/46094/load-playlist?|Referer=https://gooz.aapmains.net",
+            "title": "SPY - HD",
             "type": "0"
           }
         ],
@@ -608,8 +686,20 @@
         "channels_data": [
           {
             "api": "",
-            "link": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4",
-            "title": "SPORTIFy Live",
+            "link": "https://grand-s-v001.faggotsports.tv/out/v1/9a0b1c2d3e4f5a6b7c8d9e0f1a2b3c4d/mix-stream.m3u8|Referer=https://hmembeds.one/",
+            "title": "SKY SPORTS FHD",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://red2.wecanfix8.space/playlist/46095/load-playlist?|Referer=https://gooz.aapmains.net",
+            "title": "PEACOCK HD",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://areagame.net/3333.php",
+            "title": "HD SERVER",
             "type": "0"
           }
         ],
@@ -1059,6 +1149,12 @@
         "adsLimit": "0",
         "cat": "Ligue 1 🇫🇷",
         "channels_data": [
+          {
+            "api": "",
+            "link": "https://red8.ignitequantum.space/playlist/46099/load-playlist?|Referer=https://gooz.aapmains.net",
+            "title": "beIN USA HD",
+            "type": "0"
+          },
           {
             "api": "0:0",
             "link": "https://bbb.exoadash.com/TVD2083/index.mpd",
