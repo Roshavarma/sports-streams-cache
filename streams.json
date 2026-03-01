@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-03-01T09:22:34.360933",
+  "last_updated": "2026-03-01T09:51:22.765162",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "02:50:21 PM 01-03-2026",
+    "Last update time": "03:15:22 PM 01-03-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -412,39 +412,33 @@
         "cat": "ICC Mens T20 WC",
         "channels_data": [
           {
-            "api": "2904b17cb64c996dbc254981b7602863:66a7ef671b84498e64f94e8401fe8cb9",
-            "link": "https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/vdx0scnjmm/out/v1/8777014e61534e7c873dc695bc485397/cenc.mpd",
-            "title": "PRIME VID [ENG]",
+            "api": "9854668c16b3ef7efe6facbf91fd8af2:fc899a5c275cbb1060d6d9d61cd52ecd",
+            "link": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/enc/hp0lefwcem/out/v1/925bb83b4490417fa9c536dde0104939/cenc.mpd",
+            "title": "WILLOW FHD",
             "type": "1"
           },
           {
-            "api": "3319513445704d17b607969c9b4bd5b2:64a75c66e40be8177f4893104722700a",
-            "link": "https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/wdqtgxqtpr/out/v1/d9a29796c1c3468785dbee1776ffd354/cenc.mpd",
-            "title": "PRIME VID [HIN]",
+            "api": "9a29d4f3b6e540b3aa2f36927c01b6f4:57b670b45b5cb453a9f48fa975b702c1",
+            "link": "https://bks02.starhubgo.com/bpk-token/1aa@ieky51nxib5phbtop0xjruq5x1crc45oignjfvba/bpk-tv/HubSports4HDnew/output/manifest.mpd",
+            "title": "HUB SPORTS",
             "type": "1"
           },
           {
-            "api": "f52a73212bdd837dc6849b688dff8194:d8c8ba05bae74b70d5f57f4e104eafeb",
-            "link": "https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/vdj8kklfbb/out/v1/6433098763394c0a8552dd92e8da40dc/cenc.mpd",
-            "title": "WILLOW [Ad Free]",
-            "type": "1"
+            "api": "",
+            "link": "https://bl.rutube.ru/livestream/9585fdae92af45f113fdcc9f6c4ba442/index.m3u8?s=KgZtccuHrnaljGaN7cmUwA&e=2068506973&scheme=https",
+            "title": "SKY SPORTS",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://cdn39591467.blazingcdn.net/dx14hd/index.m3u8|Referer=https://yahoo.com/&Origin=https://yahoo.com&User-Agent=AppleCoreMedia/1.0.0.23D5103d (iPhone; U; CPU OS 26_3 like Mac OS X; en_us)",
+            "title": "Willow HD",
+            "type": "0"
           },
           {
             "api": "",
             "link": "https://live-pull.aisports.mobi/moviebox/football001/playlist.m3u8|Referer=https://sportslivenow.top/",
-            "title": "JIO HOTSTAR",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://stream1.liveland.af/hls/tv/tolo-sport/chunklist3.m3u8?|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
-            "title": "SPORTIFy Live",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://cdn39591467.blazingcdn.net/dx14fhd/index.m3u8|Referer=https://yahoo.com/&Origin=https://yahoo.com&User-Agent=AppleCoreMedia/1.0.0.23D5103d (iPhone; U; CPU OS 26_3 like Mac OS X; en_us)",
-            "title": "Willow HD",
+            "title": "JIO HOTSTAR [HIN]",
             "type": "0"
           },
           {
@@ -452,12 +446,6 @@
             "link": "https://cdn39591467.blazingcdn.net/dx14sd/index.m3u8|Referer=https://yahoo.com/&Origin=https://yahoo.com&User-Agent=AppleCoreMedia/1.0.0.23D5103d (iPhone; U; CPU OS 26_3 like Mac OS X; en_us)",
             "title": "Willow SD",
             "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://matchcentral.pages.dev/?id=jio-hotstar",
-            "title": "HINDI Stream",
-            "type": "2"
           }
         ],
         "eventInfo": {
