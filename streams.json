@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-02T20:50:31.541978",
-  "event_count": 9,
+  "last_updated": "2026-03-02T21:27:41.290954",
+  "event_count": 12,
   "events": [
     {
       "category": "Boxing",
@@ -367,6 +367,69 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/2685/image",
       "teamBName": "Bologna",
       "time": "17:30:00",
+      "visible": true
+    },
+    {
+      "category": "Cricket",
+      "date": "04/03/2026",
+      "end_date": "",
+      "end_time": "",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11185/image/dark",
+      "eventName": "ICC T20 World Cup",
+      "id": 127,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/187747/image",
+      "teamAName": "South Africa",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/187755/image",
+      "teamBName": "New Zealand",
+      "time": "13:30:00",
+      "visible": true
+    },
+    {
+      "category": "Cricket",
+      "date": "06/03/2026",
+      "end_date": "",
+      "end_time": "",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/18794/image/dark",
+      "eventName": "Test International, Women",
+      "id": 128,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/213117/image",
+      "teamAName": "Australia Women",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/213119/image",
+      "teamBName": "India Women",
+      "time": "05:20:00",
+      "visible": true
+    },
+    {
+      "category": "Cricket",
+      "date": "05/03/2026",
+      "end_date": "",
+      "end_time": "",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11185/image/dark",
+      "eventName": "ICC T20 World Cup",
+      "id": 129,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/187765/image",
+      "teamAName": "India",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/187757/image",
+      "teamBName": "England",
+      "time": "13:30:00",
       "visible": true
     }
   ]
