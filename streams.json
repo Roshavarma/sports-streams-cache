@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-02T07:39:04.104299",
-  "event_count": 11,
+  "last_updated": "2026-03-02T08:26:39.242768",
+  "event_count": 16,
   "events": [
     {
       "category": "Boxing",
@@ -178,6 +178,13 @@
           "api": "cf568fb0ea054e839a87a79e12e24d19:d47dcb08ac28d20ede339ee3b383f89b",
           "link": "https://bd-mc-flive.fancode.com/delhi/140446_english_dash_93802_1drmta-di_h264/index.mpd",
           "name": "FANCODE [BD]",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://playlist.dmcfd.xyz/?url=aHR0cHMlM0ElMkYlMkZ6ZWtvbmV3LmR2YWxuYS5ydSUyRnpla28lMkZwcmVtaXVtMzcwJTJGbW9uby5tM3U4JTI2ZGF0YSUzRFQzSnBaMmx1UFdoMGRIQnpPaTh2WlhCcFkzQnNZWGx3YkdGNUxtTm1aQSUzRCUzRA==&headers=eyJSZWZlcmVyIjoiaHR0cHM6Ly9lcGljcGxheXBsYXkuY2ZkLyJ9&.m3u8",
+          "name": "Test",
           "scheme": 0,
           "tokenApi": ""
         }
@@ -397,6 +404,111 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/4488/image",
       "teamBName": "Cádiz",
       "time": "20:00:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "02/03/2026",
+      "end_date": "02/03/2026",
+      "end_time": "22:20:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/8/image/dark",
+      "eventName": "LaLiga",
+      "id": 122,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2829/image",
+      "teamAName": "Real Madrid",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2859/image",
+      "teamBName": "Getafe",
+      "time": "20:00:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "02/03/2026",
+      "end_date": "02/03/2026",
+      "end_time": "22:20:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark",
+      "eventName": "Championship",
+      "id": 123,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/9/image",
+      "teamAName": "Birmingham City",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/36/image",
+      "teamBName": "Middlesbrough",
+      "time": "20:00:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "02/03/2026",
+      "end_date": "02/03/2026",
+      "end_time": "21:50:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/54/image/dark",
+      "eventName": "LaLiga 2",
+      "id": 124,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2850/image",
+      "teamAName": "Córdoba",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/324871/image",
+      "teamBName": "FC Andorra",
+      "time": "19:30:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "02/03/2026",
+      "end_date": "02/03/2026",
+      "end_time": "22:05:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/23/image/dark",
+      "eventName": "Serie A",
+      "id": 125,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2695/image",
+      "teamAName": "Udinese",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2693/image",
+      "teamBName": "Fiorentina",
+      "time": "19:45:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "02/03/2026",
+      "end_date": "02/03/2026",
+      "end_time": "19:50:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/23/image/dark",
+      "eventName": "Serie A",
+      "id": 126,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2737/image",
+      "teamAName": "Pisa",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2685/image",
+      "teamBName": "Bologna",
+      "time": "17:30:00",
       "visible": true
     }
   ]
