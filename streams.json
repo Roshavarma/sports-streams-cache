@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-03T19:49:27.574136",
+  "last_updated": "2026-03-03T20:23:45.305665",
   "event_count": 16,
   "events": [
     {
@@ -245,9 +245,23 @@
           "tokenApi": ""
         },
         {
+          "api": "065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2",
+          "link": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
+          "name": "FANCODE FHD",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
           "api": "",
           "link": "https://ztnr.rtve.es/ztnr/1688877.m3u8",
           "name": "TVE La 1",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://pfl7.zenithstellar.space/playlist/46235/load-playlist?|Referer=https://gooz.aapmains.net",
+          "name": "ESPN HD",
           "scheme": 0,
           "tokenApi": ""
         },
@@ -284,6 +298,27 @@
         },
         {
           "api": "",
+          "link": "https://eventcdn02-nowe.akamaized.net/hls/CH621/index.m3u8",
+          "name": "NOW SPORTS PL",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "96b67fa09140329a89b7a1ead134eda3:c618d32c56cdc6cad8330eb98507ca3f",
+          "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-east)/master.mpd",
+          "name": "NBC UNIVERSO",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "3501bd323a6a35c28eb7654bf298b9aa:2db4c8089d627e1b2c480c57baa86a7b",
+          "link": "https://cdn3.skygo.mn/live/disk1/SPSPrime/DASH-FTA/SPSPrime.mpd",
+          "name": "PSN SPORTS",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
           "link": "https://red1.wecanfix6.space/playlist/46234/load-playlist?|Referer=https://gooz.aapmains.net",
           "name": "HD SERVER",
           "scheme": 0,
@@ -310,6 +345,13 @@
           "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
           "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
           "name": "beIN ENGLISH",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
+          "link": "https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd",
+          "name": "NOVA SPORTS",
           "scheme": 0,
           "tokenApi": ""
         }
