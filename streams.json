@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-04T20:01:58.316399",
+  "last_updated": "2026-03-04T20:47:21.926838",
   "event_count": 18,
   "events": [
     {
@@ -324,8 +324,39 @@
       "id": 136,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b",
+          "link": "https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd",
+          "name": "TNT SPORTS - AQ",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://eventcdn02-nowe.akamaized.net/hls/CH621/index.m3u8",
+          "name": "NOW SPORTS PL",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://red7.astrovortex.space/playlist/46306/load-playlist?|Referer=https://gooz.aapmains.net",
+          "name": "PEACOCK HD",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://storage.googleapis.com/potughertung3/mux_video_ts1/index-1.m3u8",
+          "name": "SKY SPORTS HD",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://35.hls-syria.live/live/bein1",
+          "name": "beIN ARABIC - AQ",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/39/image",
@@ -466,6 +497,13 @@
           "tokenApi": ""
         },
         {
+          "api": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
+          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
+          "name": "CBS NETWORK",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
           "api": "00f9f3c0783536b8ee91704e23b78016:bfd04d6f544c9cc4d35cb13ab6778587",
           "link": "https://live03p-seg.msf.cdn.mediaset.net/live/ch-i1/i1-dash-widevine.isml/manifest.mpd",
           "name": "ITALIA IT",
@@ -569,9 +607,30 @@
       "id": 147,
       "links": [
         {
-          "api": "7a5135975978757b3458bb5b3b9dbf5e:eab16719fa7727ab371bd75aeaca9229",
-          "link": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/ze8mlq7soh/out/v1/e517a8b1bede4a0d9c0cf48f591a2222/cenc.mpd",
-          "name": "ITV 4",
+          "api": "065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2",
+          "link": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
+          "name": "FANCODE FHD",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "fd86dde0ae3e14ff51c8fc8f248a50db:d106ae78b0893da2e4393ece99420baa",
+          "link": "https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/62qdkefv9f/out/v1/f7d5b356e048494a8325563e8916d50b/cenc.mpd",
+          "name": "TVE LA 1 - AQ",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://red5.boostaether.shop/playlist/46302/load-playlist?|Referer=https://gooz.aapmains.net",
+          "name": "ESPN HD",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "ef34ae91b4f2415e8439b2ad105e7488:243248d8de1ff8c7c587ee2057317523",
+          "link": "https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw75168188_-627298088/PLTV/86/224/3221241590/3221241590.mpd?zoneoffset=0&devkbps=1-7000&servicetype=1&icpid=86&accounttype=1&limitflux=-1&limitdur=-1&tenantId=3103&accountinfo=%7E%7EV2.0%7EqbcsJh_jU5C9BcZc959e_wae44b4867b3417aa76b5db2da20fe46c%7EKZzTWjB8qD1zdgbJjRPVLJX-tV0qiN9RBHC_iseGrsmTSRjj06oGDtGlpSCRGOwF3626cf085c08d024c7e4aafc18c32440%7EExtInfo5Ro3VppWiUusj2ippqUPkQ%3D%3D4a2d2c8ce133f43026d0e31b822b8474%3A20240601012829%3AUTC%2C10001003329222%2C87.212.140.171%2C20240601012829%2C3103_SP1S%2C10001003329222%2C-1%2C0%2C1%2C%2C%2C2%2C3103_Sport1%2C%2C%2C2%2C10000044444303%2C0%2C10000025050255%2CNDEzODg2NTY3MzEwMzI2NzMwNjMwNTY%3D%2C%2C%2C5%2C1%2CEND&GuardEncType=2&RTS=1717205309&from=11&hms_devid=1008&online=1717205309&mag_hms=1008,311,305&_=1717205322621",
+          "name": "Ziggo SPORTS",
           "scheme": 0,
           "tokenApi": ""
         }
