@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-04T19:34:33.903702",
-  "event_count": 22,
+  "last_updated": "2026-03-04T20:01:58.316399",
+  "event_count": 18,
   "events": [
     {
       "category": "Boxing",
@@ -167,65 +167,6 @@
     },
     {
       "category": "Cricket",
-      "date": "04/03/2026",
-      "end_date": "04/03/2026",
-      "end_time": "17:30:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11185/image/dark",
-      "eventName": "ICC T20 World Cup",
-      "id": 127,
-      "links": [
-        {
-          "api": "ac38fc1a8c759f4d1a43163432e964e9:9a55742c7164153e9440811712faa806",
-          "link": "https://a201aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/glqjh8kskc/out/v1/45bfbb3a527944c295223376e0bb6dc0/cenc.mpd",
-          "name": "WILLOW - AQ",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "a36b6bde0dc341783425ffdee60b193d:bea3ec1a34081e29f91345db607958c1",
-          "link": "https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/75cpfftavv/out/v1/41e86c3d386a4406afb3620876274222/cenc.mpd",
-          "name": "PRIME VIDEO",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://bl.rutube.ru/livestream/9585fdae92af45f113fdcc9f6c4ba442/index.m3u8?s=KgZtccuHrnaljGaN7cmUwA&e=2068506973&scheme=https",
-          "name": "SKY SPORTS",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://live-pull.aisports.mobi/moviebox/football001/playlist.m3u8|Referer=https://sportslivenow.top/",
-          "name": "JIO HOTSTAR",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://stream1.liveland.af/hls/tv/tolo-sport/chunklist3.m3u8?|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
-          "name": "HD SERVER ",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://cdn16348712.blazingcdn.net/dx14fhd/index.m3u8|Referer=https://yahoo.com/&Origin=https://yahoo.com&User-Agent=AppleCoreMedia/1.0.0.23D5103d (iPhone; U; CPU OS 26_3 like Mac OS X; en_us)",
-          "name": "WILLOW HD",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/187747/image",
-      "teamAName": "South Africa",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/187755/image",
-      "teamBName": "New Zealand",
-      "time": "13:30:00",
-      "visible": true
-    },
-    {
-      "category": "Cricket",
       "date": "06/03/2026",
       "end_date": "",
       "end_time": "",
@@ -264,30 +205,6 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/187757/image",
       "teamBName": "England",
       "time": "13:30:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "04/03/2026",
-      "end_date": "04/03/2026",
-      "end_time": "14:35:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/463/image/dark",
-      "eventName": "AFC Champions League Elite",
-      "id": 130,
-      "links": [
-        {
-          "api": "032ba9e7db644873861490a3afc863d8:fd29ed4731ecafba696ac68cbe870008",
-          "link": "https://v4-kun-v13-cdn-02.live.cdn.cgates.lt/live/dash/561204/index.mpd",
-          "name": "Sport 1 FHD",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3327/image",
-      "teamAName": "Johor Darul Ta'zim",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3135/image",
-      "teamBName": "Sanfrecce Hiroshima",
-      "time": "12:15:00",
       "visible": true
     },
     {
@@ -348,6 +265,13 @@
           "api": "",
           "link": "https://bbb.exoadash.com/TVD5788/index.mpd",
           "name": "Sport1+ DE",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://pfl2.orbitorbit.space/playlist/46305/load-playlist?|Referer=https://gooz.aapmains.net",
+          "name": "Celtic TV HD",
           "scheme": 0,
           "tokenApi": ""
         }
@@ -560,30 +484,6 @@
       "category": "Football",
       "date": "04/03/2026",
       "end_date": "04/03/2026",
-      "end_time": "19:50:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/96/image/dark",
-      "eventName": "Türkiye Kupası",
-      "id": 141,
-      "links": [
-        {
-          "api": "",
-          "link": "https://smarthard.click/hls/OgWmSLOpde0C/index.m3u8",
-          "name": "ASpor Turkey",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/5138/image",
-      "teamAName": "Gaziantep FK",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3052/image",
-      "teamBName": "Fenerbahçe",
-      "time": "17:30:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "04/03/2026",
-      "end_date": "04/03/2026",
       "end_time": "21:50:00",
       "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/335/image/dark",
       "eventName": "Coupe de France",
@@ -633,30 +533,6 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/2851/image",
       "teamBName": "Real Oviedo",
       "time": "18:00:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "04/03/2026",
-      "end_date": "04/03/2026",
-      "end_time": "19:50:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/96/image/dark",
-      "eventName": "Türkiye Kupası",
-      "id": 145,
-      "links": [
-        {
-          "api": "",
-          "link": "https://smarthard.click/hls/SoaJ1GdNv8qL/index.m3u8",
-          "name": "ASpor Turkey",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3050/image",
-      "teamAName": "Beşiktaş JK",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3064/image",
-      "teamBName": "Çaykur Rizespor",
-      "time": "17:30:00",
       "visible": true
     },
     {
