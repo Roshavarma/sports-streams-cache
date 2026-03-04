@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-04T12:24:34.840994",
-  "event_count": 25,
+  "last_updated": "2026-03-04T13:30:41.468281",
+  "event_count": 22,
   "events": [
     {
       "category": "Boxing",
@@ -168,15 +168,46 @@
     {
       "category": "Cricket",
       "date": "04/03/2026",
-      "end_date": "",
-      "end_time": "",
+      "end_date": "04/03/2026",
+      "end_time": "17:30:00",
       "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11185/image/dark",
       "eventName": "ICC T20 World Cup",
       "id": 127,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "ac38fc1a8c759f4d1a43163432e964e9:9a55742c7164153e9440811712faa806",
+          "link": "https://a201aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/glqjh8kskc/out/v1/45bfbb3a527944c295223376e0bb6dc0/cenc.mpd",
+          "name": "WILLOW - AQ",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://bl.rutube.ru/livestream/9585fdae92af45f113fdcc9f6c4ba442/index.m3u8?s=KgZtccuHrnaljGaN7cmUwA&e=2068506973&scheme=https",
+          "name": "SKY SPORTS",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://live-pull.aisports.mobi/moviebox/football001/playlist.m3u8|Referer=https://sportslivenow.top/",
+          "name": "JIO HOTSTAR",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://stream1.liveland.af/hls/tv/tolo-sport/chunklist3.m3u8?|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+          "name": "HD SERVER ",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://cdn16348712.blazingcdn.net/dx14fhd/index.m3u8|Referer=https://yahoo.com/&Origin=https://yahoo.com&User-Agent=AppleCoreMedia/1.0.0.23D5103d (iPhone; U; CPU OS 26_3 like Mac OS X; en_us)",
+          "name": "WILLOW HD",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/187747/image",
@@ -256,37 +287,6 @@
       "category": "Football",
       "date": "04/03/2026",
       "end_date": "04/03/2026",
-      "end_time": "12:20:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/668/image/dark",
-      "eventName": "AFC Champions League Two",
-      "id": 131,
-      "links": [
-        {
-          "api": "5fd3f407ea7c465b854db7cd8235b39b:0c2ad3408bb09f698e86e1ca2e26a888",
-          "link": "https://v4-kun-v13-cdn-02.live.cdn.cgates.lt/live/dash/561209/index.mpd",
-          "name": "Sport 2 FHD",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://live.alilicloud.com/live/24a550e4fe1f7b07836d2da7f8dd708d/playlist.m3u8",
-          "name": "HD SERVER ",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3138/image",
-      "teamAName": "Gamba Osaka",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/85743/image",
-      "teamBName": "Ratchaburi",
-      "time": "10:00:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "04/03/2026",
-      "end_date": "04/03/2026",
       "end_time": "21:50:00",
       "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/17/image/dark",
       "eventName": "Premier League",
@@ -323,37 +323,6 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/2352/image",
       "teamBName": "Celtic",
       "time": "20:00:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "04/03/2026",
-      "end_date": "04/03/2026",
-      "end_time": "12:20:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/463/image/dark",
-      "eventName": "AFC Champions League Elite",
-      "id": 134,
-      "links": [
-        {
-          "api": "032ba9e7db644873861490a3afc863d8:fd29ed4731ecafba696ac68cbe870008",
-          "link": "https://v4-kun-v13-cdn-02.live.cdn.cgates.lt/live/dash/561204/index.mpd",
-          "name": "Sport 1 FHD",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://live.alilicloud.com/live/c65adf11139c814108c2c83cb1b01549/playlist.m3u8",
-          "name": "HD SERVER ",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/7646/image",
-      "teamAName": "FC Seoul",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3146/image",
-      "teamBName": "Vissel Kobe",
-      "time": "10:00:00",
       "visible": true
     },
     {
@@ -543,37 +512,6 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/2851/image",
       "teamBName": "Real Oviedo",
       "time": "18:00:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "04/03/2026",
-      "end_date": "04/03/2026",
-      "end_time": "13:20:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/1692/image/dark",
-      "eventName": "AFC Women's Asian Cup",
-      "id": 144,
-      "links": [
-        {
-          "api": "7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe",
-          "link": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
-          "name": "FANCODE FHD",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "709c812e1b4174002605df1d17d34a4c:0bbee6c9c20a0f065bf8369d54cbf83e",
-          "link": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash-sd/enc/qddnwqthpp/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd",
-          "name": "FANCODE - SD",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/132958/image",
-      "teamAName": "Vietnam",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/132938/image",
-      "teamBName": "India",
-      "time": "11:00:00",
       "visible": true
     },
     {
