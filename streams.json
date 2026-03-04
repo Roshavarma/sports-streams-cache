@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-04T10:32:02.280553",
+  "last_updated": "2026-03-04T11:06:09.252810",
   "event_count": 25,
   "events": [
     {
@@ -238,8 +238,11 @@
       "id": 130,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "032ba9e7db644873861490a3afc863d8:fd29ed4731ecafba696ac68cbe870008",
+          "link": "https://v4-kun-v13-cdn-02.live.cdn.cgates.lt/live/dash/561204/index.mpd",
+          "name": "Sport 1 FHD",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/3327/image",
@@ -258,6 +261,13 @@
       "eventName": "AFC Champions League Two",
       "id": 131,
       "links": [
+        {
+          "api": "5fd3f407ea7c465b854db7cd8235b39b:0c2ad3408bb09f698e86e1ca2e26a888",
+          "link": "https://v4-kun-v13-cdn-02.live.cdn.cgates.lt/live/dash/561209/index.mpd",
+          "name": "Sport 2 FHD",
+          "scheme": 0,
+          "tokenApi": ""
+        },
         {
           "api": "",
           "link": "https://live.alilicloud.com/live/24a550e4fe1f7b07836d2da7f8dd708d/playlist.m3u8",
@@ -324,6 +334,13 @@
       "eventName": "AFC Champions League Elite",
       "id": 134,
       "links": [
+        {
+          "api": "032ba9e7db644873861490a3afc863d8:fd29ed4731ecafba696ac68cbe870008",
+          "link": "https://v4-kun-v13-cdn-02.live.cdn.cgates.lt/live/dash/561204/index.mpd",
+          "name": "Sport 1 FHD",
+          "scheme": 0,
+          "tokenApi": ""
+        },
         {
           "api": "",
           "link": "https://live.alilicloud.com/live/c65adf11139c814108c2c83cb1b01549/playlist.m3u8",
@@ -538,8 +555,18 @@
       "id": 144,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe",
+          "link": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
+          "name": "FANCODE FHD",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "709c812e1b4174002605df1d17d34a4c:0bbee6c9c20a0f065bf8369d54cbf83e",
+          "link": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash-sd/enc/qddnwqthpp/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd",
+          "name": "FANCODE - SD",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/132958/image",
