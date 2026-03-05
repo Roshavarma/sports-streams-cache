@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-05T08:03:20.417663",
-  "event_count": 18,
+  "last_updated": "2026-03-05T08:59:19.025125",
+  "event_count": 23,
   "events": [
     {
       "category": "Boxing",
@@ -664,6 +664,111 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/1681/image",
       "teamBName": "Toulouse",
       "time": "20:00:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "05/03/2026",
+      "end_date": "05/03/2026",
+      "end_time": "21:20:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/955/image/dark",
+      "eventName": "Saudi Pro League",
+      "id": 149,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/204126/image",
+      "teamAName": "Damac FC",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/168088/image",
+      "teamBName": "Al-Riyadh",
+      "time": "19:00:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "05/03/2026",
+      "end_date": "05/03/2026",
+      "end_time": "21:20:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/955/image/dark",
+      "eventName": "Saudi Pro League",
+      "id": 150,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/269199/image",
+      "teamAName": "Al-Kholood",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/56027/image",
+      "teamBName": "Al-Qadsiah",
+      "time": "19:00:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "05/03/2026",
+      "end_date": "05/03/2026",
+      "end_time": "14:35:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/668/image/dark",
+      "eventName": "AFC Champions League Two",
+      "id": 151,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/85741/image",
+      "teamAName": "True Bangkok United",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3043/image",
+      "teamBName": "Tampines Rovers",
+      "time": "12:15:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "05/03/2026",
+      "end_date": "05/03/2026",
+      "end_time": "22:20:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/17/image/dark",
+      "eventName": "Premier League",
+      "id": 152,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/33/image",
+      "teamAName": "Tottenham Hotspur",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/7/image",
+      "teamBName": "Crystal Palace",
+      "time": "20:00:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "05/03/2026",
+      "end_date": "05/03/2026",
+      "end_time": "22:30:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/335/image/dark",
+      "eventName": "Coupe de France",
+      "id": 153,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/1649/image",
+      "teamAName": "Olympique Lyonnais",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/1648/image",
+      "teamBName": "RC Lens",
+      "time": "20:10:00",
       "visible": true
     }
   ]
