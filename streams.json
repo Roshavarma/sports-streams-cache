@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-05T13:26:42.282993",
+  "last_updated": "2026-03-05T14:28:11.469049",
   "event_count": 10,
   "events": [
     {
@@ -102,8 +102,8 @@
     {
       "category": "Football ",
       "date": "05/03/2026",
-      "end_date": "",
-      "end_time": "",
+      "end_date": "05/03/2026",
+      "end_time": "13:42:00",
       "eventLogo": "o",
       "eventName": "ISL vs ISL",
       "id": 44,
@@ -225,7 +225,7 @@
         },
         {
           "api": "",
-          "link": "https://live-pull.aisports.mobi/moviebox/device02/playlist.m3u8|Referer=https://sportslivenow.top/",
+          "link": "https://live-pull.aisports.mobi/moviebox/football001/playlist.m3u8",
           "name": "JIO HOTSTAR",
           "scheme": 0,
           "tokenApi": ""
@@ -241,6 +241,27 @@
           "api": "",
           "link": "http://103.229.254.25:7001/play/a0a0/index.m3u8",
           "name": "Star Sports [HIN]",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Tamil_HD_BTS/output/index.mpd?__hdnea__=st=1772692216~exp=1772778616~acl=/*~hmac=d91b97fddea1ccde2329a99c4a436354628a82ca1b618b94f1b90ef0e2131343|drmScheme=com.clearkey.alpha&drmLicense=2272c0bc6b2e5cb090b1f55996e0026c:943923934de1d5536ab01c67fca8b337|user-agent=JioTV.Plus/2.1.9_2027 (Linux;Android 13) AndroidXMedia3/1.4.0&cookie=__hdnea__=st=1772692216~exp=1772778616~acl=/*~hmac=d91b97fddea1ccde2329a99c4a436354628a82ca1b618b94f1b90ef0e2131343",
+          "name": "STAR TAM - IN",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Telugu_HD_BTS/output/index.mpd?__hdnea__=st=1772692216~exp=1772778616~acl=/*~hmac=d91b97fddea1ccde2329a99c4a436354628a82ca1b618b94f1b90ef0e2131343|drmScheme=com.clearkey.alpha&drmLicense=49e84b9edfd85379b90c81b7d2d3d2bf:19c82d3ff094fa06af95820a1572ecb5|user-agent=JioTV.Plus/2.1.9_2027 (Linux;Android 13) AndroidXMedia3/1.4.0&cookie=__hdnea__=st=1772692216~exp=1772778616~acl=/*~hmac=d91b97fddea1ccde2329a99c4a436354628a82ca1b618b94f1b90ef0e2131343",
+          "name": "STAR TEL - IN",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Kannada_BTS/output/index.mpd?__hdnea__=st=1772692216~exp=1772778616~acl=/*~hmac=d91b97fddea1ccde2329a99c4a436354628a82ca1b618b94f1b90ef0e2131343|drmScheme=com.clearkey.alpha&drmLicense=9a6d058fa40b5460a946178900eb44cb:791d7444110cec32d731ca0c33ac6c15|user-agent=JioTV.Plus/2.1.9_2027 (Linux;Android 13) AndroidXMedia3/1.4.0&cookie=__hdnea__=st=1772692216~exp=1772778616~acl=/*~hmac=d91b97fddea1ccde2329a99c4a436354628a82ca1b618b94f1b90ef0e2131343",
+          "name": "STAR KAN - IN",
           "scheme": 0,
           "tokenApi": ""
         }
