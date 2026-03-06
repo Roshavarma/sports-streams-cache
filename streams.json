@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-06T14:56:10.287425",
+  "last_updated": "2026-03-06T15:49:18.606927",
   "event_count": 17,
   "events": [
     {
@@ -395,8 +395,11 @@
       "id": 138,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
+          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
+          "name": "beIN ENGLISH",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/2530/image",
@@ -416,8 +419,11 @@
       "id": 139,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "",
+          "link": "https://bbb.exoadash.com/TVD6412/index.mpd",
+          "name": "ELEVEN SPORTS",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/2598/image",
