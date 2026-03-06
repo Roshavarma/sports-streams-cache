@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-06T17:53:25.584643",
-  "event_count": 17,
+  "last_updated": "2026-03-06T18:50:48.163774",
+  "event_count": 18,
   "events": [
     {
       "category": "Boxing",
@@ -35,7 +35,7 @@
     },
     {
       "category": "Motorsports",
-      "date": "06/03/2026",
+      "date": "07/03/2026",
       "end_date": "",
       "end_time": "",
       "eventLogo": "https://access-control-center-prod.freevision.live/ss/category/36.png",
@@ -96,13 +96,13 @@
       "teamAName": "Formula 1",
       "teamBFlag": "https://access-control-center-prod.freevision.live/ss/category/36.png",
       "teamBName": "Formula 1",
-      "time": "08:15:00",
+      "time": "01:30:00",
       "visible": true
     },
     {
       "category": "Football ",
-      "date": "06/03/2026",
-      "end_date": "06/03/2026",
+      "date": "07/03/2026",
+      "end_date": "07/03/2026",
       "end_time": "16:10:00",
       "eventLogo": "o",
       "eventName": "ISL vs ISL",
@@ -167,7 +167,7 @@
     },
     {
       "category": "Cricket",
-      "date": "06/03/2026",
+      "date": "07/03/2026",
       "end_date": "",
       "end_time": "",
       "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/18794/image/dark",
@@ -193,7 +193,7 @@
       "teamAName": "Australia Women",
       "teamBFlag": "https://img.sofascore.com/api/v1/team/213119/image",
       "teamBName": "India Women",
-      "time": "05:20:00",
+      "time": "17:20:00",
       "visible": true
     },
     {
@@ -206,8 +206,11 @@
       "id": 129,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "",
+          "link": "https://bbb.exoadash.com/TVD6737/index.mpd",
+          "name": "Thmanyah - FHD",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/21895/image",
@@ -248,8 +251,11 @@
       "id": 131,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "",
+          "link": "https://bbb.exoadash.com/TVD1403/index.mpd",
+          "name": "Thmanyah - FHD",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/167228/image",
@@ -332,8 +338,18 @@
       "id": 135,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
+          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
+          "name": "SportDigital Fussball",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://bbb.exoadash.com/TVD1451/index.mpd",
+          "name": "Thmanyah - FHD",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/34469/image",
@@ -374,8 +390,11 @@
       "id": 137,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "",
+          "link": "https://live.alilicloud.com/live/95c510b43e1f75888a5e6b661646035b/playlist.m3u8",
+          "name": "HD SERVER ",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/56021/image",
@@ -473,6 +492,27 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/95/image",
       "teamBName": "Oxford United",
       "time": "20:00:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "07/03/2026",
+      "end_date": "07/03/2026",
+      "end_time": "13:20:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/1692/image/dark",
+      "eventName": "AFC Women's Asian Cup",
+      "id": 142,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/132938/image",
+      "teamAName": "India",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/7418/image",
+      "teamBName": "Japan",
+      "time": "11:00:00",
       "visible": true
     }
   ]
