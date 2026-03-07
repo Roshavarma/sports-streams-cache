@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-07T18:18:25.503667",
-  "event_count": 25,
+  "last_updated": "2026-03-07T19:23:25.065865",
+  "event_count": 21,
   "events": [
     {
       "category": "Boxing",
@@ -238,27 +238,6 @@
       "category": "Football",
       "date": "07/03/2026",
       "end_date": "07/03/2026",
-      "end_time": "17:50:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/37/image/dark",
-      "eventName": "VriendenLoterij Eredivisie",
-      "id": 146,
-      "links": [
-        {
-          "link": "https://no.link",
-          "name": "Link 1"
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2951/image",
-      "teamAName": "FC Groningen",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2953/image",
-      "teamBName": "AFC Ajax",
-      "time": "15:30:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "07/03/2026",
-      "end_date": "07/03/2026",
       "end_time": "19:50:00",
       "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/8/image/dark",
       "eventName": "LaLiga",
@@ -303,8 +282,18 @@
       "id": 148,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
+          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
+          "name": "Premier Sports",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://live.alilicloud.com/live/ba46a756e2d24b3b593200c6a7aa157b/playlist.m3u8",
+          "name": "HD SERVER ",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/2952/image",
@@ -312,51 +301,6 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/2950/image",
       "teamBName": "AZ Alkmaar",
       "time": "19:00:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "07/03/2026",
-      "end_date": "07/03/2026",
-      "end_time": "17:50:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/238/image/dark",
-      "eventName": "Liga Portugal Betclic",
-      "id": 151,
-      "links": [
-        {
-          "link": "https://no.link",
-          "name": "Link 1"
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3014/image",
-      "teamAName": "Moreirense",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3013/image",
-      "teamBName": "CD Nacional",
-      "time": "15:30:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "07/03/2026",
-      "end_date": "07/03/2026",
-      "end_time": "18:20:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/34/image/dark",
-      "eventName": "Ligue 1",
-      "id": 152,
-      "links": [
-        {
-          "api": "",
-          "link": "https://bbb.exoadash.com/TVD2083/index.mpd",
-          "name": "Ligue1+ HD",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/1647/image",
-      "teamAName": "Nantes",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/1684/image",
-      "teamBName": "Angers",
-      "time": "16:00:00",
       "visible": true
     },
     {
@@ -485,27 +429,6 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/3001/image",
       "teamBName": "Sporting CP",
       "time": "18:00:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "07/03/2026",
-      "end_date": "07/03/2026",
-      "end_time": "17:50:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/238/image/dark",
-      "eventName": "Liga Portugal Betclic",
-      "id": 161,
-      "links": [
-        {
-          "link": "https://no.link",
-          "name": "Link 1"
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/190328/image",
-      "teamAName": "FC Alverca",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/483088/image",
-      "teamBName": "AVS - Futebol SAD",
-      "time": "15:30:00",
       "visible": true
     },
     {
