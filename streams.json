@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-08T15:33:22.535616",
-  "event_count": 21,
+  "last_updated": "2026-03-08T16:01:59.982568",
+  "event_count": 18,
   "events": [
     {
       "category": "Boxing",
@@ -286,8 +286,11 @@
       "id": 135,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "",
+          "link": "https://bbb.exoadash.com/TVD2083/index.mpd",
+          "name": "Ligue1+ HD",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/1643/image",
@@ -397,8 +400,11 @@
       "id": 139,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "",
+          "link": "https://bbb.exoadash.com/TVD2083/index.mpd",
+          "name": "Ligue1+ HD",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/1661/image",
@@ -484,8 +490,11 @@
       "id": 144,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "",
+          "link": "https://bbb.exoadash.com/TVD2083/index.mpd",
+          "name": "Ligue1+ HD",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/1715/image",
@@ -493,75 +502,6 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/1662/image",
       "teamBName": "Le Havre",
       "time": "16:15:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "08/03/2026",
-      "end_date": "08/03/2026",
-      "end_time": "15:20:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/52/image/dark",
-      "eventName": "Trendyol Süper Lig",
-      "id": 145,
-      "links": [
-        {
-          "api": "",
-          "link": "https://smarthard.click/hls/hhx33tWwGEeW/index.m3u8",
-          "name": "beIN SPORT",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3085/image",
-      "teamAName": "Konyaspor",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/6063/image",
-      "teamBName": "Kasımpaşa",
-      "time": "13:00:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "08/03/2026",
-      "end_date": "08/03/2026",
-      "end_time": "15:50:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/19/image/dark",
-      "eventName": "FA Cup",
-      "id": 146,
-      "links": [
-        {
-          "link": "https://no.link",
-          "name": "Link 1"
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/55/image",
-      "teamAName": "Port Vale",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/41/image",
-      "teamBName": "Sunderland",
-      "time": "13:30:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "08/03/2026",
-      "end_date": "08/03/2026",
-      "end_time": "15:20:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/54/image/dark",
-      "eventName": "LaLiga 2",
-      "id": 149,
-      "links": [
-        {
-          "api": "d69894c7b729c5d1e85893e5e6cfcb0f:db0d53f871f5d2ef91d3a112c7ec9f30",
-          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/tcninbbnt5/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd",
-          "name": "Laliga Hypermotion ES",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/6577/image",
-      "teamAName": "Las Palmas",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2869/image",
-      "teamBName": "AD Ceuta",
-      "time": "13:00:00",
       "visible": true
     },
     {
@@ -574,7 +514,9 @@
       "id": 152,
       "links": [
         {
-          "api": "9909e33838e1152cc512c4636f513f8f:02f67060c94bcc3307280f505ad508ab", "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nn1qrdjaha/out/v1/bc4fa7d9cebf47858bebf14ad589025e/cenc.mpd", "name": "PRIME VIDEO",
+          "api": "470a5bda0ae8965c3ab4004c302bc1c8:b04888df6ed570c9435b97471504bd9b",
+          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ptptpteoh7/out/v1/564bb083afea4561a5a60c4447258379/cenc.mpd",
+          "name": "PRIME VIDEO",
           "scheme": 0,
           "tokenApi": ""
         },
