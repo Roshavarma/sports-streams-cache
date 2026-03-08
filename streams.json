@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-08T13:27:48.818386",
-  "event_count": 27,
+  "last_updated": "2026-03-08T14:55:29.390548",
+  "event_count": 26,
   "events": [
     {
       "category": "Boxing",
@@ -238,8 +238,11 @@
       "id": 132,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "",
+          "link": "https://bbb.exoadash.com/TVD6412/index.mpd",
+          "name": "ELEVEN SPORTS",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/2693/image",
@@ -253,10 +256,10 @@
       "category": "Football",
       "date": "08/03/2026",
       "end_date": "08/03/2026",
-      "end_time": "13:50:00",
+      "end_time": "16:20:00",
       "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/23/image/dark",
       "eventName": "Serie A",
-      "id": 133,
+      "id": 134,
       "links": [
         {
           "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
@@ -264,27 +267,6 @@
           "name": "beIN ENGLISH",
           "scheme": 0,
           "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2689/image",
-      "teamAName": "Lecce",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2761/image",
-      "teamBName": "Cremonese",
-      "time": "11:30:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "08/03/2026",
-      "end_date": "08/03/2026",
-      "end_time": "16:20:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/23/image/dark",
-      "eventName": "Serie A",
-      "id": 134,
-      "links": [
-        {
-          "link": "https://no.link",
-          "name": "Link 1"
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/2685/image",
@@ -346,8 +328,11 @@
       "id": 137,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "",
+          "link": "https://bbb.exoadash.com/TVD2083/index.mpd",
+          "name": "Ligue1+ HD",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/1648/image",
@@ -430,8 +415,11 @@
       "id": 141,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "",
+          "link": "https://bbb.exoadash.com/TVD6411/index.mpd",
+          "name": "ELEVEN SPORTS",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/2526/image",
@@ -719,6 +707,13 @@
         {
           "api": "470a5bda0ae8965c3ab4004c302bc1c8:b04888df6ed570c9435b97471504bd9b",
           "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ptptpteoh7/out/v1/564bb083afea4561a5a60c4447258379/cenc.mpd",
+          "name": "PRIME VIDEO",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "2d0646dd8a8c511de3b2485071705038:1ddbda2f121875fd43dcd758497cbf82",
+          "link": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/enc/7j8yftutgs/out/v1/8a40608178f045839a1c0c0a055d6a90/cenc.mpd",
           "name": "WILLOW [Ad Free]",
           "scheme": 0,
           "tokenApi": ""
