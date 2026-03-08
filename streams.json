@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-08T11:50:37.619770",
+  "last_updated": "2026-03-08T12:35:41.520510",
   "event_count": 27,
   "events": [
     {
@@ -717,8 +717,11 @@
       "id": 152,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "",
+          "link": "https://raw.githubusercontent.com/xmrt624/lpootvs/refs/heads/main/",
+          "name": "Sky Sports 4",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/187765/image",
