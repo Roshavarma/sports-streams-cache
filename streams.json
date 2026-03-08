@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-08T16:01:59.982568",
-  "event_count": 18,
+  "last_updated": "2026-03-08T16:51:48.901523",
+  "event_count": 14,
   "events": [
     {
       "category": "Boxing",
@@ -100,72 +100,6 @@
       "visible": true
     },
     {
-      "category": "Football ",
-      "date": "08/03/2026",
-      "end_date": "08/03/2026",
-      "end_time": "16:10:00",
-      "eventLogo": "o",
-      "eventName": "ISL vs ISL",
-      "id": 44,
-      "links": [
-        {
-          "api": "7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe",
-          "link": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
-          "name": "FANCODE FHD",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "709c812e1b4174002605df1d17d34a4c:0bbee6c9c20a0f065bf8369d54cbf83e",
-          "link": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash-sd/enc/qddnwqthpp/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd",
-          "name": "FANCODE SD",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://play.ltwxsc.com/live/sd-6MvVNYr2XrrVUtGEM4.m3u8?txSecret=08fe698b58877f075b8af9116b8acdcd&txTime=69AAE409",
-          "name": "HD SERVER ",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "f96759d5a3dc489b9102e7b5b5da1e59:dae7b7fc77b801f997e2615fe920e720",
-          "link": "https://in-mc-flive.fancode.com/mumbai/140451_hindi_dash_50965_1drmta-di_h264/index.mpd",
-          "name": "FANCODE [HIN]",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "be5e085f89e049d6a36bd069d75eea9b:70f500cfd2c6b387a6ca300ff098e89c",
-          "link": "https://in-mc-flive.fancode.com/mumbai/140451_malayalam_dash_48726_1drmta-di_h264/index.mpd",
-          "name": "FANCODE [MAL]",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "7ed8ab01ab97457fbd3019d463273cc9:dd31e8d16f1cb25590142b81bc82982c",
-          "link": "https://in-mc-flive.fancode.com/mumbai/140446_bengali_dash_48329_1drmta-di_h264/index.mpd",
-          "name": "FANCODE [BAN]",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "cf568fb0ea054e839a87a79e12e24d19:d47dcb08ac28d20ede339ee3b383f89b",
-          "link": "https://bd-mc-flive.fancode.com/delhi/140446_english_dash_93802_1drmta-di_h264/index.mpd",
-          "name": "FANCODE [BD]",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://images.fancode.com/skillup-uploads/cms-media/ISL-Tour-Logo.png?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvY21zLW1lZGlhL0lTTC1Ub3VyLUxvZ28ucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjE4MCwiaGVpZ2h0IjoxODB9LCJ3ZWJwIjp7InF1YWxpdHkiOjYwLCJsb3NzbGVzcyI6ZmFsc2V9fSwib3V0cHV0Rm9ybWF0Ijoid2VicCJ9",
-      "teamAName": "ISL",
-      "teamBFlag": "https://images.fancode.com/skillup-uploads/cms-media/ISL-Tour-Logo.png?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvY21zLW1lZGlhL0lTTC1Ub3VyLUxvZ28ucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjE4MCwiaGVpZ2h0IjoxODB9LCJ3ZWJwIjp7InF1YWxpdHkiOjYwLCJsb3NzbGVzcyI6ZmFsc2V9fSwib3V0cHV0Rm9ybWF0Ijoid2VicCJ9",
-      "teamBName": "ISL",
-      "time": "14:00:00",
-      "visible": true
-    },
-    {
       "category": "Football",
       "date": "08/03/2026",
       "end_date": "08/03/2026",
@@ -217,8 +151,25 @@
       "id": 131,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "",
+          "link": "https://bbb.exoadash.com/TVD6412/index.mpd",
+          "name": "ELEVEN SPORTS",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://bbb.exoadash.com/TVD2709/index.mpd",
+          "name": "NOVA SPORTS",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://instreams.pro/EU/HDTV18/index.m3u8?st=SportzX|Referer=https://instreams.click/",
+          "name": "DAZN SPORTS",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/2547/image",
@@ -232,54 +183,6 @@
       "category": "Football",
       "date": "08/03/2026",
       "end_date": "08/03/2026",
-      "end_time": "16:20:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/23/image/dark",
-      "eventName": "Serie A",
-      "id": 132,
-      "links": [
-        {
-          "api": "",
-          "link": "https://bbb.exoadash.com/TVD6412/index.mpd",
-          "name": "ELEVEN SPORTS",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2693/image",
-      "teamAName": "Fiorentina",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2690/image",
-      "teamBName": "Parma",
-      "time": "14:00:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "08/03/2026",
-      "end_date": "08/03/2026",
-      "end_time": "16:20:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/23/image/dark",
-      "eventName": "Serie A",
-      "id": 134,
-      "links": [
-        {
-          "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
-          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
-          "name": "beIN ENGLISH",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2685/image",
-      "teamAName": "Bologna",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2701/image",
-      "teamBName": "Hellas Verona",
-      "time": "14:00:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "08/03/2026",
-      "end_date": "08/03/2026",
       "end_time": "18:35:00",
       "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/34/image/dark",
       "eventName": "Ligue 1",
@@ -287,7 +190,7 @@
       "links": [
         {
           "api": "",
-          "link": "https://bbb.exoadash.com/TVD2083/index.mpd",
+          "link": "https://bbb.exoadash.com/TVD2087/index.mpd",
           "name": "Ligue1+ HD",
           "scheme": 0,
           "tokenApi": ""
@@ -319,30 +222,6 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/2697/image",
       "teamBName": "Inter",
       "time": "19:45:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "08/03/2026",
-      "end_date": "08/03/2026",
-      "end_time": "16:20:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/34/image/dark",
-      "eventName": "Ligue 1",
-      "id": 137,
-      "links": [
-        {
-          "api": "",
-          "link": "https://bbb.exoadash.com/TVD2083/index.mpd",
-          "name": "Ligue1+ HD",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/1648/image",
-      "teamAName": "RC Lens",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/1651/image",
-      "teamBName": "Metz",
-      "time": "14:00:00",
       "visible": true
     },
     {
@@ -401,7 +280,7 @@
       "links": [
         {
           "api": "",
-          "link": "https://bbb.exoadash.com/TVD2083/index.mpd",
+          "link": "https://bbb.exoadash.com/TVD2086/index.mpd",
           "name": "Ligue1+ HD",
           "scheme": 0,
           "tokenApi": ""
@@ -424,8 +303,25 @@
       "id": 140,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a",
+          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd",
+          "name": "Laliga TV FHD",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f",
+          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
+          "name": "Premier Sports",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2",
+          "link": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
+          "name": "FANCODE FHD",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/2833/image",
@@ -469,8 +365,18 @@
       "id": 142,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
+          "name": "beIN ENGLISH",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "f288380ca4cef9ad3f27a92a08e9bb8b:9f18d26291d9230833501f7f822f6875",
+          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd",
+          "name": "TNT SPORTS",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/2713/image",
@@ -507,8 +413,8 @@
     {
       "category": "Cricket",
       "date": "08/03/2026",
-      "end_date": "",
-      "end_time": "",
+      "end_date": "08/03/2026",
+      "end_time": "17:30:00",
       "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11185/image/dark",
       "eventName": "ICC T20 World Cup",
       "id": 152,
