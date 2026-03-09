@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-09T10:27:31.538583",
-  "event_count": 13,
+  "last_updated": "2026-03-09T11:21:30.649287",
+  "event_count": 11,
   "events": [
     {
       "category": "Boxing",
@@ -143,30 +143,6 @@
     },
     {
       "category": "Football",
-      "date": "09/03/2026",
-      "end_date": "09/03/2026",
-      "end_time": "11:20:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/1692/image/dark",
-      "eventName": "AFC Women's Asian Cup",
-      "id": 25,
-      "links": [
-        {
-          "api": "",
-          "link": "http://195.178.110.27/hls/WAWAWA.m3u8|Referer=http://www.fawanews.sc/",
-          "name": "HD SERVER ",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/214194/image",
-      "teamAName": "Bangladesh",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/132956/image",
-      "teamBName": "Uzbekistan",
-      "time": "09:00:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
       "date": "10/03/2026",
       "end_date": "10/03/2026",
       "end_time": "11:20:00",
@@ -225,37 +201,6 @@
       "teamAName": "India",
       "teamBFlag": "https://img.sofascore.com/api/v1/team/39990/image",
       "teamBName": "Chinese Taipei",
-      "time": "09:00:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "09/03/2026",
-      "end_date": "09/03/2026",
-      "end_time": "11:20:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/1692/image/dark",
-      "eventName": "AFC Women's Asian Cup",
-      "id": 29,
-      "links": [
-        {
-          "api": "7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe",
-          "link": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
-          "name": "FANCODE ",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "709c812e1b4174002605df1d17d34a4c:0bbee6c9c20a0f065bf8369d54cbf83e",
-          "link": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash-sd/enc/qddnwqthpp/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd",
-          "name": "FANCODE - SD",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/7421/image",
-      "teamAName": "North Korea",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/7413/image",
-      "teamBName": "China",
       "time": "09:00:00",
       "visible": true
     },
