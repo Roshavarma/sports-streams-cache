@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-09T08:27:58.300043",
-  "event_count": 9,
+  "last_updated": "2026-03-09T09:29:05.807130",
+  "event_count": 13,
   "events": [
     {
       "category": "Boxing",
@@ -151,8 +151,11 @@
       "id": 25,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "",
+          "link": "http://195.178.110.27/hls/WAWAWA.m3u8|Referer=http://www.fawanews.sc/",
+          "name": "HD SERVER ",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/214194/image",
@@ -235,8 +238,18 @@
       "id": 29,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe",
+          "link": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
+          "name": "FANCODE ",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "709c812e1b4174002605df1d17d34a4c:0bbee6c9c20a0f065bf8369d54cbf83e",
+          "link": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash-sd/enc/qddnwqthpp/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd",
+          "name": "FANCODE - SD",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/7421/image",
@@ -244,6 +257,90 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/7413/image",
       "teamBName": "China",
       "time": "09:00:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "09/03/2026",
+      "end_date": "09/03/2026",
+      "end_time": "19:20:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/52/image/dark",
+      "eventName": "Trendyol Süper Lig",
+      "id": 30,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/6362/image",
+      "teamAName": "Alanyaspor",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/7802/image",
+      "teamBName": "Gençlerbirliği",
+      "time": "17:00:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "09/03/2026",
+      "end_date": "09/03/2026",
+      "end_time": "19:20:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/52/image/dark",
+      "eventName": "Trendyol Süper Lig",
+      "id": 31,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3072/image",
+      "teamAName": "Kayserispor",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3051/image",
+      "teamBName": "Trabzonspor",
+      "time": "17:00:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "09/03/2026",
+      "end_date": "09/03/2026",
+      "end_time": "21:50:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/54/image/dark",
+      "eventName": "LaLiga 2",
+      "id": 32,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2858/image",
+      "teamAName": "Almería",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2868/image",
+      "teamBName": "Cultural Leonesa",
+      "time": "19:30:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "09/03/2026",
+      "end_date": "09/03/2026",
+      "end_time": "15:20:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/52/image/dark",
+      "eventName": "Trendyol Süper Lig",
+      "id": 33,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/7040/image",
+      "teamAName": "Eyüpspor",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3065/image",
+      "teamBName": "Kocaelispor",
+      "time": "13:00:00",
       "visible": true
     }
   ]
