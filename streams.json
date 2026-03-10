@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-10T11:37:56.812774",
-  "event_count": 13,
+  "last_updated": "2026-03-10T12:01:59.286283",
+  "event_count": 11,
   "events": [
     {
       "category": "Boxing",
@@ -97,75 +97,6 @@
       "teamBFlag": "https://access-control-center-prod.freevision.live/ss/category/36.png",
       "teamBName": "Formula 1",
       "time": "13:00:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "10/03/2026",
-      "end_date": "10/03/2026",
-      "end_time": "11:20:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/1692/image/dark",
-      "eventName": "AFC Women's Asian Cup",
-      "id": 33,
-      "links": [
-        {
-          "api": "7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe",
-          "link": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
-          "name": "FANCODE FHD",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://live.alilicloud.com/live/1d8d71dc254ab02b94c7debe944dedff/playlist.m3u8",
-          "name": "HD SERVER ",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "http://195.178.110.37/hls/LJJJQ.m3u8|Referer=http://www.fawanews.sc/",
-          "name": "SD SERVER",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/132938/image",
-      "teamAName": "India",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/39990/image",
-      "teamBName": "Chinese Taipei",
-      "time": "09:00:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "10/03/2026",
-      "end_date": "10/03/2026",
-      "end_time": "11:20:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/1692/image/dark",
-      "eventName": "AFC Women's Asian Cup",
-      "id": 34,
-      "links": [
-        {
-          "api": "065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2",
-          "link": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
-          "name": "FANCODE FHD",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://live.alilicloud.com/live/d46d48f76b691acabd1183c309da87a3/playlist.m3u8",
-          "name": "HD SERVER ",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/7418/image",
-      "teamAName": "Japan",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/132958/image",
-      "teamBName": "Vietnam",
-      "time": "09:00:00",
       "visible": true
     },
     {
@@ -272,8 +203,18 @@
       "id": 39,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "",
+          "link": "https://live.alilicloud.com/live/fac3316179c35cc0bbf0fc201c9c2cae/playlist.m3u8",
+          "name": "HD SERVER ",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "http://195.178.110.37/hls/LJJJQQQQ.m3u8|Referer=http://www.fawanews.sc/",
+          "name": "SD SERVER",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/34218/image",
