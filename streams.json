@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-10T16:40:56.173417",
-  "event_count": 11,
+  "last_updated": "2026-03-10T17:34:14.728145",
+  "event_count": 9,
   "events": [
     {
       "category": "Boxing",
@@ -145,37 +145,6 @@
       "category": "Football",
       "date": "10/03/2026",
       "end_date": "10/03/2026",
-      "end_time": "12:20:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/463/image/dark",
-      "eventName": "AFC Champions League Elite",
-      "id": 37,
-      "links": [
-        {
-          "api": "",
-          "link": "https://live.alilicloud.com/live/951da1731ab30304f1b1d906903002dc/playlist.m3u8",
-          "name": "HD SERVER ",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "http://195.178.110.37/hls/LJJJQQ.m3u8|Referer=http://www.fawanews.sc/",
-          "name": "SD SERVER",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/44409/image",
-      "teamAName": "Machida Zelvia",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/34220/image",
-      "teamBName": "Gangwon FC",
-      "time": "10:00:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "10/03/2026",
-      "end_date": "10/03/2026",
       "end_time": "22:20:00",
       "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark",
       "eventName": "Championship",
@@ -197,45 +166,17 @@
       "category": "Football",
       "date": "10/03/2026",
       "end_date": "10/03/2026",
-      "end_time": "14:35:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/463/image/dark",
-      "eventName": "AFC Champions League Elite",
-      "id": 39,
-      "links": [
-        {
-          "api": "",
-          "link": "https://live.alilicloud.com/live/fac3316179c35cc0bbf0fc201c9c2cae/playlist.m3u8",
-          "name": "HD SERVER ",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "http://195.178.110.37/hls/LJJJQQQQ.m3u8|Referer=http://www.fawanews.sc/",
-          "name": "SD SERVER",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/34218/image",
-      "teamAName": "Buriram United",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/42210/image",
-      "teamBName": "Melbourne City",
-      "time": "12:15:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "10/03/2026",
-      "end_date": "10/03/2026",
       "end_time": "22:05:00",
       "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark",
       "eventName": "Championship",
       "id": 40,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
+          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
+          "name": "CBS NETWORK",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/25/image",
@@ -297,8 +238,25 @@
       "id": 43,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b",
+          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd",
+          "name": "TNT SPORTS",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://bbb.exoadash.com/TVD4071/index.mpd",
+          "name": "COSMOTE SPORTS",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://bbb.exoadash.com/TVD2700/index.mpd",
+          "name": "NOVA SPORTS",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/3061/image",
