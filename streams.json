@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-12T20:00:46.887093",
-  "event_count": 21,
+  "last_updated": "2026-03-12T20:02:31.297187",
+  "event_count": 13,
   "events": [
     {
       "category": "Boxing",
@@ -148,92 +148,6 @@
       "category": "Football",
       "date": "12/03/2026",
       "end_date": "12/03/2026",
-      "end_time": "20:05:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/17015/image/dark",
-      "eventName": "UEFA Conference League",
-      "id": 25,
-      "links": [
-        {
-          "api": "d123d02f7637dd180f7a9f3632e3ef7c:f8f5a467c252e6af2568bc3354d4c8e1",
-          "link": "https://apac-live.akamaized.net/ehyrzisobs/bein_sports_vflow04/index.mpd?hdntl=exp%3D1773422008%7Eacl%3D%2F*%7Eid%3D42901651%7Edata%3Dhdntl%2Cfp%3D1%7Ehmac%3Db1a65456852eaf607ea46b3f32e8c1e6dd18af14e67f2e134a0d5ad713ff10b9&hdnts=st%3D1773249203%7Eexp%3D1773335903%7Eacl%3D%2F*%7Eid%3D42901651%7Edata%3Dfp%3D1%7Ehmac%3D92adaba106f0e4f4d9f22c97de6aa0d9f39ca9e6410ad789ad95f92d4cb842ba",
-          "name": "beIN SPORTS FHD",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3121/image",
-      "teamAName": "Lech Poznań",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3313/image",
-      "teamBName": "Shakhtar Donetsk",
-      "time": "17:45:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "12/03/2026",
-      "end_date": "12/03/2026",
-      "end_time": "20:05:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/679/image/dark",
-      "eventName": "UEFA Europa League",
-      "id": 26,
-      "links": [
-        {
-          "api": "192b1115da041585c77200128549efa1:634e10efe4abbb14be400a3ccbac0258",
-          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/pnu10tp36z/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd",
-          "name": "TNT SPORTS",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2677/image",
-      "teamAName": "VfB Stuttgart",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3002/image",
-      "teamBName": "FC Porto",
-      "time": "17:45:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "12/03/2026",
-      "end_date": "12/03/2026",
-      "end_time": "20:05:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/17015/image/dark",
-      "eventName": "UEFA Conference League",
-      "id": 27,
-      "links": [
-        {
-          "api": "672a1f46b66c6bdd26b1680d39baa922:16169547eb9b0a14146cdbd21490279e",
-          "link": "https://apac-live.akamaized.net/ehyrzisobs/bein_sports_vflow06/index.mpd?hdntl=exp%3D1773422008%7Eacl%3D%2F*%7Eid%3D42901651%7Edata%3Dhdntl%2Cfp%3D1%7Ehmac%3Db1a65456852eaf607ea46b3f32e8c1e6dd18af14e67f2e134a0d5ad713ff10b9&hdnts=st%3D1773249203%7Eexp%3D1773335903%7Eacl%3D%2F*%7Eid%3D42901651%7Edata%3Dfp%3D1%7Ehmac%3D92adaba106f0e4f4d9f22c97de6aa0d9f39ca9e6410ad789ad95f92d4cb842ba",
-          "name": "beIN SPORTS FHD",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://instreams.live/EU/HDTV33/index.m3u8?st=SportzX|Referer=https://instreams.click/&Origin=https://instreams.click",
-          "name": "TRT 1 HD",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://instreams.live/EU/HDTV10/index.m3u8?st=SportzX|Referer=https://instreams.click/&Origin=https://instreams.click",
-          "name": "Movistar HD",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3053/image",
-      "teamAName": "Samsunspor",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2818/image",
-      "teamBName": "Rayo Vallecano",
-      "time": "17:45:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "12/03/2026",
-      "end_date": "12/03/2026",
       "end_time": "22:20:00",
       "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/679/image/dark",
       "eventName": "UEFA Europa League",
@@ -249,44 +163,6 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/2999/image",
       "teamBName": "Sporting Braga",
       "time": "20:00:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "12/03/2026",
-      "end_date": "12/03/2026",
-      "end_time": "20:05:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/17015/image/dark",
-      "eventName": "UEFA Conference League",
-      "id": 30,
-      "links": [
-        {
-          "api": "597b1d0fdddb383fd37febd057d3fd1c:a728d9c017f83e3e6e77b7d7c0231b22",
-          "link": "https://apac-live.akamaized.net/ehyrzisobs/bein_sports_vflow07/index.mpd?hdntl=exp%3D1773422008%7Eacl%3D%2F*%7Eid%3D42901651%7Edata%3Dhdntl%2Cfp%3D1%7Ehmac%3Db1a65456852eaf607ea46b3f32e8c1e6dd18af14e67f2e134a0d5ad713ff10b9&hdnts=st%3D1773249203%7Eexp%3D1773335903%7Eacl%3D%2F*%7Eid%3D42901651%7Edata%3Dfp%3D1%7Ehmac%3D92adaba106f0e4f4d9f22c97de6aa0d9f39ca9e6410ad789ad95f92d4cb842ba",
-          "name": "beIN SPORTS FHD",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://instreams.live/EU/HDTV24/index.m3u8?st=SportzX|Referer=https://instreams.click/&Origin=https://instreams.click",
-          "name": "CANAL+ HD",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://instreams.live/EU/HDTV21/index.m3u8?st=SportzX|Referer=https://instreams.click/&Origin=https://instreams.click",
-          "name": "Arena Sports HD",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2039/image",
-      "teamAName": "HNK Rijeka",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/1659/image",
-      "teamBName": "RC Strasbourg",
-      "time": "17:45:00",
       "visible": true
     },
     {
@@ -335,51 +211,6 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/3404/image",
       "teamBName": "AEK Larnaca",
       "time": "20:00:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "12/03/2026",
-      "end_date": "12/03/2026",
-      "end_time": "20:05:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/17015/image/dark",
-      "eventName": "UEFA Conference League",
-      "id": 33,
-      "links": [
-        {
-          "api": "7c214cad238a160353453b01da8be646:6f64bc2379b1f703ccfb6410be1dfde1",
-          "link": "https://apac-live.akamaized.net/ehyrzisobs/bein_sports_vflow05/index.mpd?hdntl=exp%3D1773422008%7Eacl%3D%2F*%7Eid%3D42901651%7Edata%3Dhdntl%2Cfp%3D1%7Ehmac%3Db1a65456852eaf607ea46b3f32e8c1e6dd18af14e67f2e134a0d5ad713ff10b9&hdnts=st%3D1773249203%7Eexp%3D1773335903%7Eacl%3D%2F*%7Eid%3D42901651%7Edata%3Dfp%3D1%7Ehmac%3D92adaba106f0e4f4d9f22c97de6aa0d9f39ca9e6410ad789ad95f92d4cb842ba",
-          "name": "beIN SPORTS FHD",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "ef34ae91b4f2415e8439b2ad105e7488:243248d8de1ff8c7c587ee2057317523",
-          "link": "https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw75168188_-627298088/PLTV/86/224/3221241590/3221241590.mpd?zoneoffset=0&devkbps=1-7000&servicetype=1&icpid=86&accounttype=1&limitflux=-1&limitdur=-1&tenantId=3103&accountinfo=%7E%7EV2.0%7EqbcsJh_jU5C9BcZc959e_wae44b4867b3417aa76b5db2da20fe46c%7EKZzTWjB8qD1zdgbJjRPVLJX-tV0qiN9RBHC_iseGrsmTSRjj06oGDtGlpSCRGOwF3626cf085c08d024c7e4aafc18c32440%7EExtInfo5Ro3VppWiUusj2ippqUPkQ%3D%3D4a2d2c8ce133f43026d0e31b822b8474%3A20240601012829%3AUTC%2C10001003329222%2C87.212.140.171%2C20240601012829%2C3103_SP1S%2C10001003329222%2C-1%2C0%2C1%2C%2C%2C2%2C3103_Sport1%2C%2C%2C2%2C10000044444303%2C0%2C10000025050255%2CNDEzODg2NTY3MzEwMzI2NzMwNjMwNTY%3D%2C%2C%2C5%2C1%2CEND&GuardEncType=2&RTS=1717205309&from=11&hms_devid=1008&online=1717205309&mag_hms=1008,311,305&_=1717205322621|User-Agent=Mozila",
-          "name": "Ziggo Sports FHD",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://instreams.live/EU/HDTV16/index.m3u8?st=SportzX|Referer=https://instreams.click/&Origin=https://instreams.click",
-          "name": "SKY SPORTS HD",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://hls.thewhites.site/hls/4a3cc07f-5e04-4b71-989c-edd3eac894a4/index.m3u8",
-          "name": "DAZN PT SD",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2950/image",
-      "teamAName": "AZ Alkmaar",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2218/image",
-      "teamBName": "AC Sparta Praha",
-      "time": "17:45:00",
       "visible": true
     },
     {
@@ -472,62 +303,24 @@
       "category": "Football",
       "date": "12/03/2026",
       "end_date": "12/03/2026",
-      "end_time": "20:05:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/679/image/dark",
-      "eventName": "UEFA Europa League",
-      "id": 37,
-      "links": [
-        {
-          "api": "294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b",
-          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd",
-          "name": "TNT SPORTS",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/1643/image",
-      "teamAName": "Lille",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/40/image",
-      "teamBName": "Aston Villa",
-      "time": "17:45:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "12/03/2026",
-      "end_date": "12/03/2026",
-      "end_time": "20:05:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/679/image/dark",
-      "eventName": "UEFA Europa League",
-      "id": 38,
-      "links": [
-        {
-          "api": "1d96ab366bbe6451edf7407b58e2fa16:0116201f4a63ac5bf5787d2c610c41a7",
-          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5sxuux529k/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd",
-          "name": "TNT SPORTS",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2685/image",
-      "teamAName": "Bologna",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2702/image",
-      "teamBName": "Roma",
-      "time": "17:45:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "12/03/2026",
-      "end_date": "12/03/2026",
       "end_time": "22:20:00",
       "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/17015/image/dark",
       "eventName": "UEFA Conference League",
       "id": 39,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "ba6ca576b814da5440689919cf982b93:7d7c899513b0ca4bfc3a8028b9b60e19",
+          "link": "https://apac-live.akamaized.net/ehyrzisobs/bein_sports_vflow10/index.mpd?hdntl=exp%3D1773422008%7Eacl%3D%2F*%7Eid%3D42901651%7Edata%3Dhdntl%2Cfp%3D1%7Ehmac%3Db1a65456852eaf607ea46b3f32e8c1e6dd18af14e67f2e134a0d5ad713ff10b9&hdnts=st%3D1773249203%7Eexp%3D1773335903%7Eacl%3D%2F*%7Eid%3D42901651%7Edata%3Dfp%3D1%7Ehmac%3D92adaba106f0e4f4d9f22c97de6aa0d9f39ca9e6410ad789ad95f92d4cb842ba",
+          "name": "beIN SPORTS FHD",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://instreams.live/EU/HDTV7/index.m3u8?st=SportzX|Referer=https://instreams.click/&Origin=https://instreams.click",
+          "name": "SKY SPORTS HD",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/2207/image",
@@ -547,8 +340,18 @@
       "id": 40,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "9e3ceafefd61fd316a0d142f7046c424:1efde03590efcfb0c4324f02f3fa1c43",
+          "link": "https://apac-live.akamaized.net/ehyrzisobs/bein_sports_vflow08/index.mpd?hdntl=exp%3D1773422008%7Eacl%3D%2F*%7Eid%3D42901651%7Edata%3Dhdntl%2Cfp%3D1%7Ehmac%3Db1a65456852eaf607ea46b3f32e8c1e6dd18af14e67f2e134a0d5ad713ff10b9&hdnts=st%3D1773249203%7Eexp%3D1773335903%7Eacl%3D%2F*%7Eid%3D42901651%7Edata%3Dfp%3D1%7Ehmac%3D92adaba106f0e4f4d9f22c97de6aa0d9f39ca9e6410ad789ad95f92d4cb842ba",
+          "name": "beIN SPORTS FHD",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://instreams.live/EU/HDTV12/index.m3u8?st=SportzX|Referer=https://instreams.click/&Origin=https://instreams.click",
+          "name": "SKY SPORTS IT",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/2693/image",
@@ -556,30 +359,6 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/35268/image",
       "teamBName": "Raków Częstochowa",
       "time": "20:00:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "12/03/2026",
-      "end_date": "12/03/2026",
-      "end_time": "20:05:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/679/image/dark",
-      "eventName": "UEFA Europa League",
-      "id": 41,
-      "links": [
-        {
-          "api": "bcf11c369f95ebb81da7a311ef619021:b17546666fe86fc2647f3a7d50445d12",
-          "link": "https://apac-live.akamaized.net/ehyrzisobs/bein_sports_vflow01/index.mpd?hdntl=exp%3D1773422008%7Eacl%3D%2F*%7Eid%3D42901651%7Edata%3Dhdntl%2Cfp%3D1%7Ehmac%3Db1a65456852eaf607ea46b3f32e8c1e6dd18af14e67f2e134a0d5ad713ff10b9&hdnts=st%3D1773249203%7Eexp%3D1773335903%7Eacl%3D%2F*%7Eid%3D42901651%7Edata%3Dfp%3D1%7Ehmac%3D92adaba106f0e4f4d9f22c97de6aa0d9f39ca9e6410ad789ad95f92d4cb842ba",
-          "name": "beIN SPORTS FHD",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3248/image",
-      "teamAName": "Panathinaikos FC",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2816/image",
-      "teamBName": "Real Betis",
-      "time": "17:45:00",
       "visible": true
     },
     {
