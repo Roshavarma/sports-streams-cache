@@ -1,1299 +1,502 @@
 {
-  "last_updated": "2026-03-12T12:10:22.636968",
-  "event_count": 57,
+  "last_updated": "2026-03-12T12:20:24.512963",
+  "event_count": 21,
   "events": [
     {
-      "awayTeamScore": "0",
-      "away_team_logo": "https://cdn.1xapi.com/images/teams/wonju-db-f037fb.webp",
-      "away_team_name": "Wonju DB",
-      "homeTeamScore": "0",
-      "home_team_logo": "https://cdn.1xapi.com/images/teams/seoul-knights-4ccf87.webp",
-      "home_team_name": "Seoul Knights",
-      "league_logo": "https://cdn.1xapi.com/images/teams/nologoo.png",
-      "league_name": "KBL",
-      "match_status": "live",
-      "match_time": 1773309600,
-      "servers": [
+      "category": "Boxing",
+      "date": "14/03/2026",
+      "end_date": "14/03/2026",
+      "end_time": "06:00:00",
+      "eventLogo": "https://static.wikia.nocookie.net/wweuniverse/images/f/f6/Wwelogo.png/revision/latest?cb=20101124080717",
+      "eventName": "Friday Night SmackDown",
+      "id": 20,
+      "links": [
         {
-          "header": {
-            "user-agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1"
-          },
-          "name": "Server 1",
-          "type": "direct",
-          "url": "https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1773320018-0-0-1694289df3ac5c8c72024d2997e9563d"
+          "api": "333962e3e1383529867a9a0e28a5e5d1:5d3fcbed53749ee622ed0e64f31c1cbf",
+          "link": "https://gg.poocloud.in/wrestling/index.m3u8|referer=https://ppv.to/&origin=https://ppv.to",
+          "name": "SP ",
+          "scheme": 0,
+          "tokenApi": ""
         },
         {
-          "header": {
-            "user-agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1"
-          },
-          "name": "Server 2",
-          "type": "direct",
-          "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1773320018-0-0-58e7d7204d0057b392051f68e0d49de3"
-        },
-        {
-          "header": {
-            "user-agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1"
-          },
-          "name": "Server 3",
-          "type": "direct",
-          "url": "https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1773320018-0-0-5490e58183a6efa2f2568f0bb2bd45ed"
-        },
-        {
-          "header": {
-            "user-agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1"
-          },
-          "name": "Server 4",
-          "type": "direct",
-          "url": "https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1773320018-0-0-1d39bb00920fe32154e461a534aa084c"
-        },
-        {
-          "header": {
-            "Connection": "keep-alive"
-          },
-          "name": "Server 5",
-          "type": "direct",
-          "url": "https://hls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582"
-        },
-        {
-          "header": {
-            "Connection": "keep-alive"
-          },
-          "name": "Server 6",
-          "type": "direct",
-          "url": "https://hls.cdnok9.com/live/SHIN/index.m3u8?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587"
+          "api": "dadpremium343,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6",
+          "link": "https://red9.lumenlyra.space/playlist/36017/load-playlist?|Referer=https://gooz.aapmains.net",
+          "name": "SP - 2",
+          "scheme": 0,
+          "tokenApi": ""
         }
-      ]
+      ],
+      "teamAFlag": "https://assets.primesport.com/prod/images/Smackdown%202025%20Updated%20Logo.png",
+      "teamAName": "SmackDown",
+      "teamBFlag": "https://assets.primesport.com/prod/images/Smackdown%202025%20Updated%20Logo.png",
+      "teamBName": "SmackDown",
+      "time": "01:00:00",
+      "visible": true
     },
     {
-      "awayTeamScore": "0",
-      "away_team_logo": "https://cdn.1xapi.com/images/teams/bodrum-fk-fa5f4e.png",
-      "away_team_name": "Bodrum FK",
-      "homeTeamScore": "0",
-      "home_team_logo": "https://cdn.1xapi.com/images/teams/iğdır-fk-64c4a0.png",
-      "home_team_name": "Iğdır FK",
-      "league_logo": "https://cdn.1xapi.com/images/teams/nologoo.png",
-      "league_name": "Turkish First League",
-      "match_status": "live",
-      "match_time": 1773311400,
-      "servers": [
+      "category": "Motorsports",
+      "date": "13/03/2026",
+      "end_date": "",
+      "end_time": "",
+      "eventLogo": "https://access-control-center-prod.freevision.live/ss/category/36.png",
+      "eventName": "Formula1 - Bahrain Test",
+      "id": 22,
+      "links": [
         {
-          "header": {
-            "referer": "https://www.camel1.live/",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0"
-          },
-          "name": "Server 1",
-          "type": "referer",
-          "url": "https://liveplay1.camel4.live/live/sd-6MuTce19mF85Se56is.m3u8"
+          "api": "",
+          "link": "https://stream.huraweb.com/embed_view.php?id=75ea48132cd87cee",
+          "name": "Sky Sports - IOS",
+          "scheme": 0,
+          "tokenApi": ""
         },
         {
-          "header": {
-            "user-agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1"
-          },
-          "name": "Server 2",
-          "type": "direct",
-          "url": "https://pull.niues.live/live/stream-552832_lsd.m3u8?auth_key=1773320018-0-0-77043d262a52a3f4b2294ddfef5c468b"
+          "api": "2fbdaa3bea0d0323ae011b318d1db716:8726ef7eaf5b9dce15fb6aa9f80bd53f",
+          "link": "https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oboxe53wyo/out/v1/f7892a9d706d419a846d738fa22ea33e/cenc.mpd",
+          "name": "Fox Sports - AQ",
+          "scheme": 0,
+          "tokenApi": ""
         },
         {
-          "header": {
-            "user-agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1"
-          },
-          "name": "Server 3",
-          "type": "direct",
-          "url": "https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1773320018-0-0-b66cff62906b05170af1a81562b37799"
+          "api": "",
+          "link": "https://smarthard.click/hls/91LHlS9qZPK5/index.m3u8",
+          "name": "Sky F1 SD",
+          "scheme": 0,
+          "tokenApi": ""
         },
         {
-          "header": {
-            "user-agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1"
-          },
-          "name": "Server 4",
-          "type": "direct",
-          "url": "https://pull.niues.live/live/stream-9912097_lsd.m3u8?auth_key=1773320018-0-0-cb123c56081ec12ef7742f3fd69918f2"
+          "api": "",
+          "link": "https://stream.huraweb.com/embed_view.php?id=b3fa79aa26476de9",
+          "name": "Sky F1 HD - IOS",
+          "scheme": 0,
+          "tokenApi": ""
         },
         {
-          "header": {
-            "user-agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1"
-          },
-          "name": "Server 5",
-          "type": "direct",
-          "url": "https://pull.niues.live/live/stream-9912097_lhd.m3u8?auth_key=1773320018-0-0-1bdf74665922ba07512caa8e6bb7e6d2"
+          "api": "",
+          "link": "https://stream.huraweb.com/embed_view.php?id=a119bff323d5cdbb",
+          "name": "Sky Sports HD - IOS",
+          "scheme": 0,
+          "tokenApi": ""
         },
         {
-          "header": {
-            "user-agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1"
-          },
-          "name": "Server 6",
-          "type": "direct",
-          "url": "https://pull.niues.live/live/stream-531989_lsd.m3u8?auth_key=1773320018-0-0-b544d122cc989ca9676ecd1f0ab89c64"
+          "api": "",
+          "link": "https://smarthard.click/hls/07HL6dzqKCAr/index.m3u8",
+          "name": "Sky F1 DE",
+          "scheme": 0,
+          "tokenApi": ""
         },
         {
-          "header": {
-            "user-agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1"
-          },
-          "name": "Server 7",
-          "type": "direct",
-          "url": "https://pull.niues.live/live/stream-531989_lhd.m3u8?auth_key=1773320018-0-0-024705818917d94bb1fb63c0679be45a"
-        },
-        {
-          "header": {
-            "user-agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1"
-          },
-          "name": "Server 8",
-          "type": "direct",
-          "url": "https://pull.niues.live/live/stream-290928_lsd.m3u8?auth_key=1773320018-0-0-1e269ca6aee5d16cc7756b003e583ca5"
-        },
-        {
-          "header": {
-            "user-agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1"
-          },
-          "name": "Server 9",
-          "type": "direct",
-          "url": "https://pull.niues.live/live/stream-290928_lhd.m3u8?auth_key=1773320018-0-0-4fece09b15702a65bd985d333fc11854"
-        },
-        {
-          "header": {
-            "user-agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1"
-          },
-          "name": "Server 10",
-          "type": "direct",
-          "url": "https://pull.niues.live/live/stream-380460_lsd.m3u8?auth_key=1773320018-0-0-72509f18faab0f9a580f65d71def894a"
-        },
-        {
-          "header": {
-            "user-agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1"
-          },
-          "name": "Server 11",
-          "type": "direct",
-          "url": "https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1773320018-0-0-d5587b2840e71922dbe22be4ad191ddc"
-        },
-        {
-          "header": {
-            "user-agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1"
-          },
-          "name": "Server 12",
-          "type": "direct",
-          "url": "https://pull.niues.live/live/stream-9912008_lsd.m3u8?auth_key=1773320018-0-0-87c15d0b0d96be6777f99fc6091e8101"
-        },
-        {
-          "header": {
-            "user-agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1"
-          },
-          "name": "Server 13",
-          "type": "direct",
-          "url": "https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1773320018-0-0-0c855ce38028e120d5a53ecacda64ec7"
+          "api": "7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe",
+          "link": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
+          "name": "Fancode AQ",
+          "scheme": 0,
+          "tokenApi": ""
         }
-      ]
+      ],
+      "teamAFlag": "https://access-control-center-prod.freevision.live/ss/category/36.png",
+      "teamAName": "Formula 1",
+      "teamBFlag": "https://access-control-center-prod.freevision.live/ss/category/36.png",
+      "teamBName": "Formula 1",
+      "time": "13:00:00",
+      "visible": true
     },
     {
-      "awayTeamScore": "3",
-      "away_team_logo": "https://cdn.1xapi.com/images/teams/bodrumspor-f4b3e5.png",
-      "away_team_name": "Bodrumspor",
-      "homeTeamScore": "1",
-      "home_team_logo": "https://cdn.1xapi.com/images/teams/76-igdir-belediye-spor-244aea.png",
-      "home_team_name": "76 Igdir Belediye spor",
-      "league_logo": "https://cdn.1xapi.com/images/teams/nologoo.png",
-      "league_name": "Turkey 1. Lig",
-      "match_status": "live",
-      "match_time": 1773311400,
-      "servers": [
+      "category": "Football",
+      "date": "12/03/2026",
+      "end_date": "12/03/2026",
+      "end_time": "22:20:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/17015/image/dark",
+      "eventName": "UEFA Conference League",
+      "id": 23,
+      "links": [
         {
-          "header": {
-            "Connection": "keep-alive"
-          },
-          "name": "Server 1",
-          "type": "direct",
-          "url": "https://hls.cdnok9.com/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070"
-        },
-        {
-          "header": {
-            "Connection": "keep-alive"
-          },
-          "name": "Server 2",
-          "type": "direct",
-          "url": "https://hls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a1107"
-        },
-        {
-          "header": {
-            "Connection": "keep-alive"
-          },
-          "name": "Server 3",
-          "type": "direct",
-          "url": "https://hls.cdnok9.com/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6"
-        },
-        {
-          "header": {
-            "Connection": "keep-alive"
-          },
-          "name": "Server 4",
-          "type": "direct",
-          "url": "https://hls.cdnok9.com/live/DUONGQUA/index.m3u8?expire=1788427256&sign=be103035dabb5f17a7c94f423a96c981"
+          "link": "https://no.link",
+          "name": "Link 1"
         }
-      ]
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2413/image",
+      "teamAName": "NK Celje",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3250/image",
+      "teamBName": "AEK Athens",
+      "time": "20:00:00",
+      "visible": true
     },
     {
-      "awayTeamScore": "0",
-      "away_team_logo": "https://cdn.1xapi.com/images/teams/baku-sporting-fk-e5ea0c.png",
-      "away_team_name": "Baku Sporting FK",
-      "homeTeamScore": "0",
-      "home_team_logo": "https://cdn.1xapi.com/images/teams/difai-agsu-fk-6cc5a6.png",
-      "home_team_name": "Difai Agsu FK",
-      "league_logo": "https://cdn.1xapi.com/images/teams/nologoo.png",
-      "league_name": "Azerbaijan First Division",
-      "match_status": "live",
-      "match_time": 1773313200,
-      "servers": [
+      "category": "Football",
+      "date": "12/03/2026",
+      "end_date": "12/03/2026",
+      "end_time": "22:20:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/679/image/dark",
+      "eventName": "UEFA Europa League",
+      "id": 24,
+      "links": [
         {
-          "header": {
-            "referer": "https://www.camel1.live/",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0"
-          },
-          "name": "Server 1",
-          "type": "referer",
-          "url": "https://liveplay1.camel4.live/live/sd-6Mwd6CuPmwnmZgbAjy.m3u8"
-        },
-        {
-          "header": {
-            "user-agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1"
-          },
-          "name": "Server 2",
-          "type": "direct",
-          "url": "https://pull.niur.live/live/stream-534055_lsd.m3u8?txSecret=4764670bbdcf910cbc0b79cb45102fd7&txTime=69b2fda2"
-        },
-        {
-          "header": {
-            "user-agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1"
-          },
-          "name": "Server 3",
-          "type": "direct",
-          "url": "https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=b7e86cc698c932b0352d935290c036a8&txTime=69b2fda2"
-        },
-        {
-          "header": {
-            "user-agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1"
-          },
-          "name": "Server 4",
-          "type": "direct",
-          "url": "https://pull.niues.live/live/stream-596191_lsd.m3u8?auth_key=1773320018-0-0-0c814a437b8b4cfb85b50a7739606810"
-        },
-        {
-          "header": {
-            "user-agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1"
-          },
-          "name": "Server 5",
-          "type": "direct",
-          "url": "https://pull.niues.live/live/stream-596191_lhd.m3u8?auth_key=1773320018-0-0-2b34ca9ec91036d8ec318399b0d2bf50"
+          "link": "https://no.link",
+          "name": "Link 1"
         }
-      ]
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2890/image",
+      "teamAName": "KRC Genk",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2538/image",
+      "teamBName": "SC Freiburg",
+      "time": "20:00:00",
+      "visible": true
     },
     {
-      "awayTeamScore": "0",
-      "away_team_logo": "https://cdn.1xapi.com/images/teams/fk-moik-baku-41f642.webp",
-      "away_team_name": "FK MOIK Baku",
-      "homeTeamScore": "0",
-      "home_team_logo": "https://cdn.1xapi.com/images/teams/shahdagh-qusar-153754.webp",
-      "home_team_name": "Shahdagh Qusar",
-      "league_logo": "https://cdn.1xapi.com/images/teams/nologoo.png",
-      "league_name": "Azerbaijan First Division",
-      "match_status": "live",
-      "match_time": 1773313200,
-      "servers": [
+      "category": "Football",
+      "date": "12/03/2026",
+      "end_date": "12/03/2026",
+      "end_time": "20:05:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/17015/image/dark",
+      "eventName": "UEFA Conference League",
+      "id": 25,
+      "links": [
         {
-          "header": {
-            "user-agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1"
-          },
-          "name": "Server 1",
-          "type": "direct",
-          "url": "https://pull.niues.live/live/stream-400722_lsd.m3u8?auth_key=1773320018-0-0-3bba083fb1e360d2a57d524bf0ca331e"
-        },
-        {
-          "header": {
-            "user-agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1"
-          },
-          "name": "Server 2",
-          "type": "direct",
-          "url": "https://pull.niues.live/live/stream-400722_lhd.m3u8?auth_key=1773320018-0-0-b93e9bb9e1ed31a378589237bb779ff3"
-        },
-        {
-          "header": {
-            "user-agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1"
-          },
-          "name": "Server 3",
-          "type": "direct",
-          "url": "https://pull.niues.live/live/stream-568233_lsd.m3u8?auth_key=1773320018-0-0-77a3508f85236159fe1cb54aa470d089"
-        },
-        {
-          "header": {
-            "user-agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1"
-          },
-          "name": "Server 4",
-          "type": "direct",
-          "url": "https://pull.niues.live/live/stream-568233_lhd.m3u8?auth_key=1773320018-0-0-1a6f72292410724d7dd1efbe3ebc196e"
-        },
-        {
-          "header": {
-            "Connection": "keep-alive"
-          },
-          "name": "Server 5",
-          "type": "direct",
-          "url": "https://hls.cdnok9.com/live/PHONGVAN/index.m3u8?expire=1788427256&sign=229eb7987abea75a3223a0789985834d"
-        },
-        {
-          "header": {
-            "Connection": "keep-alive"
-          },
-          "name": "Server 6",
-          "type": "direct",
-          "url": "https://hls.cdnok9.com/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d"
+          "link": "https://no.link",
+          "name": "Link 1"
         }
-      ]
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3121/image",
+      "teamAName": "Lech Poznań",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3313/image",
+      "teamBName": "Shakhtar Donetsk",
+      "time": "17:45:00",
+      "visible": true
     },
     {
-      "awayTeamScore": "0",
-      "away_team_logo": "https://cdn.1xapi.com/images/teams/sabail-fc-a74fa9.png",
-      "away_team_name": "Sabail FC",
-      "homeTeamScore": "0",
-      "home_team_logo": "https://cdn.1xapi.com/images/teams/mingachevir-e4902b.webp",
-      "home_team_name": "Mingachevir",
-      "league_logo": "https://cdn.1xapi.com/images/teams/nologoo.png",
-      "league_name": "Azerbaijan First Division",
-      "match_status": "live",
-      "match_time": 1773313200,
-      "servers": [
+      "category": "Football",
+      "date": "12/03/2026",
+      "end_date": "12/03/2026",
+      "end_time": "20:05:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/679/image/dark",
+      "eventName": "UEFA Europa League",
+      "id": 26,
+      "links": [
         {
-          "header": {
-            "user-agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1"
-          },
-          "name": "Server 1",
-          "type": "direct",
-          "url": "https://pull.niur.live/live/stream-491873_lsd.m3u8?txSecret=4b6f607607ee72d71a2cd13c6f65a798&txTime=69b2fda2"
-        },
-        {
-          "header": {
-            "user-agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1"
-          },
-          "name": "Server 2",
-          "type": "direct",
-          "url": "https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=c46ee02afc4540fdf1cfd063e98d674a&txTime=69b2fda2"
-        },
-        {
-          "header": {
-            "user-agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1"
-          },
-          "name": "Server 3",
-          "type": "direct",
-          "url": "https://pull.niues.live/live/stream-427562_lsd.m3u8?auth_key=1773320018-0-0-973dc71b1bddb8bd5d1b0eda74e70ee8"
-        },
-        {
-          "header": {
-            "user-agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1"
-          },
-          "name": "Server 4",
-          "type": "direct",
-          "url": "https://pull.niues.live/live/stream-427562_lhd.m3u8?auth_key=1773320018-0-0-0ed85c47a268c525cb5f21089bc568b9"
+          "link": "https://no.link",
+          "name": "Link 1"
         }
-      ]
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2677/image",
+      "teamAName": "VfB Stuttgart",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3002/image",
+      "teamBName": "FC Porto",
+      "time": "17:45:00",
+      "visible": true
     },
     {
-      "awayTeamScore": "0",
-      "away_team_logo": "https://cdn.1xapi.com/images/teams/andranik-5e1030.png",
-      "away_team_name": "Andranik",
-      "homeTeamScore": "1",
-      "home_team_logo": "https://cdn.1xapi.com/images/teams/fc-syunik-8afad7.png",
-      "home_team_name": "FC Syunik",
-      "league_logo": "https://cdn.1xapi.com/images/teams/nologoo.png",
-      "league_name": "Armenian First League",
-      "match_status": "live",
-      "match_time": 1773315000,
-      "servers": [
+      "category": "Football",
+      "date": "12/03/2026",
+      "end_date": "12/03/2026",
+      "end_time": "20:05:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/17015/image/dark",
+      "eventName": "UEFA Conference League",
+      "id": 27,
+      "links": [
         {
-          "header": {
-            "Connection": "keep-alive"
-          },
-          "name": "Server 1",
-          "type": "direct",
-          "url": "https://hls.cdnok9.com/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3"
-        },
-        {
-          "header": {
-            "Connection": "keep-alive"
-          },
-          "name": "Server 2",
-          "type": "direct",
-          "url": "https://hls.cdnok9.com/live/URA/index.m3u8?expire=1788427256&sign=b321b6b8b5cd73e24aae2a3a16b7b5d2"
-        },
-        {
-          "header": {
-            "Connection": "keep-alive"
-          },
-          "name": "Server 3",
-          "type": "direct",
-          "url": " https://hls.cdnok9.com/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299"
+          "link": "https://no.link",
+          "name": "Link 1"
         }
-      ]
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3053/image",
+      "teamAName": "Samsunspor",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2818/image",
+      "teamBName": "Rayo Vallecano",
+      "time": "17:45:00",
+      "visible": true
     },
     {
-      "awayTeamScore": "0",
-      "away_team_logo": "https://cdn.1xapi.com/images/teams/japan-w-754afe.png",
-      "away_team_name": "Japan W",
-      "homeTeamScore": "0",
-      "home_team_logo": "https://cdn.1xapi.com/images/teams/australia-w-fc7d74.png",
-      "home_team_name": "Australia W",
-      "league_logo": "https://cdn.1xapi.com/images/teams/nologoo.png",
-      "league_name": "FIBAP W",
-      "match_status": "live",
-      "match_time": "1773315000",
-      "servers": [
+      "category": "Football",
+      "date": "12/03/2026",
+      "end_date": "12/03/2026",
+      "end_time": "22:20:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/679/image/dark",
+      "eventName": "UEFA Europa League",
+      "id": 29,
+      "links": [
         {
-          "header": {
-            "user-agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1"
-          },
-          "name": "Server 1",
-          "type": "direct",
-          "url": "https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1773320018-0-0-62076ffeef2f8fd509d2f70276c18f72"
-        },
-        {
-          "header": {
-            "user-agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1"
-          },
-          "name": "Server 2",
-          "type": "direct",
-          "url": "https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1773320018-0-0-7cf16b2d76c389da622f8c1230f0bf42"
+          "link": "https://no.link",
+          "name": "Link 1"
         }
-      ]
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/1925/image",
+      "teamAName": "Ferencváros TC",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2999/image",
+      "teamBName": "Sporting Braga",
+      "time": "20:00:00",
+      "visible": true
     },
     {
-      "awayTeamScore": "0",
-      "away_team_logo": "https://cdn.1xapi.com/images/teams/phnom-penh-crown-fc-457427.png",
-      "away_team_name": "Phnom Penh Crown FC",
-      "homeTeamScore": "0",
-      "home_team_logo": "https://cdn.1xapi.com/images/teams/preah-khan-reach-svay-rieng-fc-9bc3e2.webp",
-      "home_team_name": "Preah Khan Reach Svay Rieng FC",
-      "league_logo": "https://cdn.1xapi.com/images/teams/nologoo.png",
-      "league_name": "AFC Challenge League",
-      "match_status": "live",
-      "match_time": 1773316800,
-      "servers": [
+      "category": "Football",
+      "date": "12/03/2026",
+      "end_date": "12/03/2026",
+      "end_time": "20:05:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/17015/image/dark",
+      "eventName": "UEFA Conference League",
+      "id": 30,
+      "links": [
         {
-          "header": {
-            "referer": "https://www.camel1.live/",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0"
-          },
-          "name": "Server 1",
-          "type": "referer",
-          "url": "https://liveplay1.camel4.live/live/sd-6MvYboeu1ngmZ43mh1.m3u8"
-        },
-        {
-          "header": {
-            "user-agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1"
-          },
-          "name": "Server 2",
-          "type": "direct",
-          "url": "https://pull.niues.live/live/stream-589848_lsd.m3u8?auth_key=1773320018-0-0-0d9b69866567d1ebdadc4abcb7808916"
-        },
-        {
-          "header": {
-            "user-agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1"
-          },
-          "name": "Server 3",
-          "type": "direct",
-          "url": "https://pull.niues.live/live/stream-589848_lhd.m3u8?auth_key=1773320018-0-0-a455504d15fa48afa3963bdf5b444a6f"
-        },
-        {
-          "header": {
-            "user-agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1"
-          },
-          "name": "Server 4",
-          "type": "direct",
-          "url": "https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1773320018-0-0-a8d8932f85707655b5bfc959f26d72fe"
-        },
-        {
-          "header": {
-            "user-agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1"
-          },
-          "name": "Server 5",
-          "type": "direct",
-          "url": "https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1773320018-0-0-688d2cbbeee554635ff2b99f6cc7bf0c"
-        },
-        {
-          "header": {
-            "user-agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1"
-          },
-          "name": "Server 6",
-          "type": "direct",
-          "url": "https://pull.niues.live/live/stream-472241_lsd.m3u8?auth_key=1773320018-0-0-418eca1d6f8f20d75aea7485b8696343"
-        },
-        {
-          "header": {
-            "user-agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1"
-          },
-          "name": "Server 7",
-          "type": "direct",
-          "url": "https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1773320018-0-0-5bc962461b0b0cff7b372b7841e722b7"
-        },
-        {
-          "header": {
-            "user-agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1"
-          },
-          "name": "Server 8",
-          "type": "direct",
-          "url": "https://pull.niues.live/live/stream-532081_lsd.m3u8?auth_key=1773320018-0-0-8ce14967ed1dd202bc1d79757ec4ceb9"
-        },
-        {
-          "header": {
-            "user-agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1"
-          },
-          "name": "Server 9",
-          "type": "direct",
-          "url": "https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1773320018-0-0-8435279a6e4587a429f9460dbd3bee32"
-        },
-        {
-          "header": {
-            "user-agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1"
-          },
-          "name": "Server 10",
-          "type": "direct",
-          "url": "https://pull.niur.live/live/stream-570313_lsd.m3u8?txSecret=fe6e39c8ea64c73757fb8ae1349109a6&txTime=69b2fda2"
-        },
-        {
-          "header": {
-            "user-agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1"
-          },
-          "name": "Server 11",
-          "type": "direct",
-          "url": "https://pull.niur.live/live/stream-570313_lhd.m3u8?txSecret=d32394849c39ea7d6dc99a09e88fa0dc&txTime=69b2fda2"
-        },
-        {
-          "header": {
-            "user-agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1"
-          },
-          "name": "Server 12",
-          "type": "direct",
-          "url": "https://pull.niues.live/live/stream-585206_lsd.m3u8?auth_key=1773320018-0-0-1e12995469c7671070108c1bad02764c"
-        },
-        {
-          "header": {
-            "user-agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1"
-          },
-          "name": "Server 13",
-          "type": "direct",
-          "url": "https://pull.niues.live/live/stream-585206_lhd.m3u8?auth_key=1773320018-0-0-6e3768992c859d86491040fa7eee7dc4"
+          "link": "https://no.link",
+          "name": "Link 1"
         }
-      ]
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2039/image",
+      "teamAName": "HNK Rijeka",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/1659/image",
+      "teamBName": "RC Strasbourg",
+      "time": "17:45:00",
+      "visible": true
     },
     {
-      "awayTeamScore": "0",
-      "away_team_logo": "https://cdn.1xapi.com/images/teams/phnom-penh-fc-e51e37.png",
-      "away_team_name": "Phnom Penh FC",
-      "homeTeamScore": "0",
-      "home_team_logo": "https://cdn.1xapi.com/images/teams/svay-rieng-fc-65d8cb.webp",
-      "home_team_name": "Svay Rieng FC",
-      "league_logo": "https://cdn.1xapi.com/images/teams/nologoo.png",
-      "league_name": "AFC Challenge League",
-      "match_status": "live",
-      "match_time": 1773316800,
-      "servers": [
+      "category": "Football",
+      "date": "12/03/2026",
+      "end_date": "12/03/2026",
+      "end_time": "21:20:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/955/image/dark",
+      "eventName": "Saudi Pro League",
+      "id": 31,
+      "links": [
         {
-          "header": {
-            "Connection": "keep-alive"
-          },
-          "name": "Server 1",
-          "type": "direct",
-          "url": "https://hls.cdnok9.com/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da"
-        },
-        {
-          "header": {
-            "Connection": "keep-alive"
-          },
-          "name": "Server 2",
-          "type": "direct",
-          "url": "https://hls.cdnok9.com/live/MAYBACH/index.m3u8?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b"
-        },
-        {
-          "header": {
-            "Connection": "keep-alive"
-          },
-          "name": "Server 3",
-          "type": "direct",
-          "url": "https://hls.cdnok9.com/live/SHIN/index.m3u8?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587"
-        },
-        {
-          "header": {
-            "Connection": "keep-alive"
-          },
-          "name": "Server 4",
-          "type": "direct",
-          "url": "https://hls.cdnok9.com/live/TANCA/index.m3u8?expire=1788427256&sign=8ef329a1007f5bbf1c7100b2d7663d68"
+          "link": "https://no.link",
+          "name": "Link 1"
         }
-      ]
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/530631/image",
+      "teamAName": "Neom SC",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/56021/image",
+      "teamBName": "Al-Taawoun",
+      "time": "19:00:00",
+      "visible": true
     },
     {
-      "awayTeamScore": "0",
-      "away_team_logo": "https://cdn.1xapi.com/images/teams/bangkok-united-fc-266c5a.png",
-      "away_team_name": "Bangkok United FC",
-      "homeTeamScore": "0",
-      "home_team_logo": "https://cdn.1xapi.com/images/teams/tampines-rovers-fc-3a0c55.webp",
-      "home_team_name": "Tampines Rovers FC",
-      "league_logo": "https://cdn.1xapi.com/images/teams/nologoo.png",
-      "league_name": "AFC Champions League 2",
-      "match_status": "live",
-      "match_time": 1773317700,
-      "servers": [
+      "category": "Football",
+      "date": "12/03/2026",
+      "end_date": "12/03/2026",
+      "end_time": "22:20:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/17015/image/dark",
+      "eventName": "UEFA Conference League",
+      "id": 32,
+      "links": [
         {
-          "header": {
-            "referer": "https://www.camel1.live/",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0"
-          },
-          "name": "Server 1",
-          "type": "referer",
-          "url": "https://liveplay1.camel4.live/live/sd-6Mwd5p7As8mqSM8HcT.m3u8"
-        },
-        {
-          "header": {
-            "referer": "https://www.camel1.live/",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0"
-          },
-          "name": "Server 2",
-          "type": "referer",
-          "url": "https://liveplay1.camel4.live/live/hd-en-6Mwd5p7As8mqSM8HcT.m3u8"
+          "link": "https://no.link",
+          "name": "Link 1"
         }
-      ]
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/7/image",
+      "teamAName": "Crystal Palace",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3404/image",
+      "teamBName": "AEK Larnaca",
+      "time": "20:00:00",
+      "visible": true
     },
     {
-      "awayTeamScore": "0",
-      "away_team_logo": "https://cdn.1xapi.com/images/teams/dempo-b96164.png",
-      "away_team_name": "Dempo",
-      "homeTeamScore": "0",
-      "home_team_logo": "https://cdn.1xapi.com/images/teams/chanmari-fc-115088.png",
-      "home_team_name": "Chanmari FC",
-      "league_logo": "https://cdn.1xapi.com/images/teams/nologoo.png",
-      "league_name": "Indian League Division 1",
-      "match_status": "live",
-      "match_time": 1773320400,
-      "servers": [
+      "category": "Football",
+      "date": "12/03/2026",
+      "end_date": "12/03/2026",
+      "end_time": "20:05:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/17015/image/dark",
+      "eventName": "UEFA Conference League",
+      "id": 33,
+      "links": [
         {
-          "header": {
-            "referer": "https://www.camel1.live/",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0"
-          },
-          "name": "Server 1",
-          "type": "referer",
-          "url": "https://liveplay1.camel4.live/live/sd-6Mwd5haS4VTEHHVmo5.m3u8"
+          "link": "https://no.link",
+          "name": "Link 1"
         }
-      ]
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2950/image",
+      "teamAName": "AZ Alkmaar",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2218/image",
+      "teamBName": "AC Sparta Praha",
+      "time": "17:45:00",
+      "visible": true
     },
     {
-      "awayTeamScore": "0",
-      "away_team_logo": "https://cdn.1xapi.com/images/teams/corum-belediyespor-7acdad.png",
-      "away_team_name": "Corum Belediyespor",
-      "homeTeamScore": "0",
-      "home_team_logo": "https://cdn.1xapi.com/images/teams/boluspor-8e6568.png",
-      "home_team_name": "Boluspor",
-      "league_logo": "https://cdn.1xapi.com/images/teams/nologoo.png",
-      "league_name": "Turkish First League",
-      "match_status": "vs",
-      "match_time": 1773320400,
-      "servers": [
+      "category": "Football",
+      "date": "12/03/2026",
+      "end_date": "12/03/2026",
+      "end_time": "22:20:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/679/image/dark",
+      "eventName": "UEFA Europa League",
+      "id": 34,
+      "links": [
         {
-          "header": {
-            "referer": "https://www.camel1.live/",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0"
-          },
-          "name": "Server 1",
-          "type": "referer",
-          "url": "https://liveplay1.camel4.live/live/sd-6MuTce19mCvbaAFBZy.m3u8"
+          "link": "https://no.link",
+          "name": "Link 1"
         }
-      ]
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/14/image",
+      "teamAName": "Nottingham Forest",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/1289/image",
+      "teamBName": "FC Midtjylland",
+      "time": "20:00:00",
+      "visible": true
     },
     {
-      "awayTeamScore": "0",
-      "away_team_logo": "https://cdn.1xapi.com/images/teams/aigle-noir-74a90b.png",
-      "away_team_name": "Aigle Noir",
-      "homeTeamScore": "0",
-      "home_team_logo": "https://cdn.1xapi.com/images/teams/olympique-star-2c667d.png",
-      "home_team_name": "Olympique Star",
-      "league_logo": "https://cdn.1xapi.com/images/teams/nologoo.png",
-      "league_name": "Burundi Premier League",
-      "match_status": "live",
-      "match_time": "1773320400",
-      "servers": [
+      "category": "Football",
+      "date": "12/03/2026",
+      "end_date": "12/03/2026",
+      "end_time": "21:20:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/955/image/dark",
+      "eventName": "Saudi Pro League",
+      "id": 35,
+      "links": [
         {
-          "header": {
-            "referer": "https://www.camel1.live/",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0"
-          },
-          "name": "Server 1",
-          "type": "referer",
-          "url": "https://liveplay1.camel4.live/live/sd-6MvYqgUc6SXTxPVRFM.m3u8"
+          "link": "https://no.link",
+          "name": "Link 1"
         }
-      ]
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/168086/image",
+      "teamAName": "Al-Hazem",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/269199/image",
+      "teamBName": "Al-Kholood",
+      "time": "19:00:00",
+      "visible": true
     },
     {
-      "awayTeamScore": "0",
-      "away_team_logo": "https://cdn.1xapi.com/images/teams/manila-digger-fc-e3cdf7.png",
-      "away_team_name": "Manila Digger FC",
-      "homeTeamScore": "0",
-      "home_team_logo": "https://cdn.1xapi.com/images/teams/dewa-united-fc-7b2afc.png",
-      "home_team_name": "Dewa United FC",
-      "league_logo": "https://cdn.1xapi.com/images/teams/nologoo.png",
-      "league_name": "AFC Challenge League",
-      "match_status": "vs",
-      "match_time": 1773322200,
-      "servers": [
+      "category": "Football",
+      "date": "12/03/2026",
+      "end_date": "12/03/2026",
+      "end_time": "21:20:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/955/image/dark",
+      "eventName": "Saudi Pro League",
+      "id": 36,
+      "links": [
         {
-          "header": {
-            "referer": "https://www.camel1.live/",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0"
-          },
-          "name": "Server 1",
-          "type": "referer",
-          "url": "https://liveplay1.camel4.live/live/sd-6MvYboeu1iHop6PwPD.m3u8"
+          "link": "https://no.link",
+          "name": "Link 1"
         }
-      ]
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/395831/image",
+      "teamAName": "Al-Najma SC",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/204126/image",
+      "teamBName": "Damac FC",
+      "time": "19:00:00",
+      "visible": true
     },
     {
-      "awayTeamScore": "0",
-      "away_team_logo": "https://cdn.1xapi.com/images/teams/bali-united-363d17.png",
-      "away_team_name": "Bali United",
-      "homeTeamScore": "0",
-      "home_team_logo": "https://cdn.1xapi.com/images/teams/persis-solo-fc-eaaa2e.png",
-      "home_team_name": "Persis Solo FC",
-      "league_logo": "https://cdn.1xapi.com/images/teams/nologoo.png",
-      "league_name": "Indonesia Liga 1",
-      "match_status": "vs",
-      "match_time": 1773322200,
-      "servers": []
+      "category": "Football",
+      "date": "12/03/2026",
+      "end_date": "12/03/2026",
+      "end_time": "20:05:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/679/image/dark",
+      "eventName": "UEFA Europa League",
+      "id": 37,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/1643/image",
+      "teamAName": "Lille",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/40/image",
+      "teamBName": "Aston Villa",
+      "time": "17:45:00",
+      "visible": true
     },
     {
-      "awayTeamScore": "0",
-      "away_team_logo": "https://cdn.1xapi.com/images/teams/canada-w-97353f.png",
-      "away_team_name": "Canada W",
-      "homeTeamScore": "0",
-      "home_team_logo": "https://cdn.1xapi.com/images/teams/hungary-w-a8235b.png",
-      "home_team_name": "Hungary W",
-      "league_logo": "https://cdn.1xapi.com/images/teams/nologoo.png",
-      "league_name": "FIBAP W",
-      "match_status": "vs",
-      "match_time": "1773325800",
-      "servers": []
+      "category": "Football",
+      "date": "12/03/2026",
+      "end_date": "12/03/2026",
+      "end_time": "20:05:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/679/image/dark",
+      "eventName": "UEFA Europa League",
+      "id": 38,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2685/image",
+      "teamAName": "Bologna",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2702/image",
+      "teamBName": "Roma",
+      "time": "17:45:00",
+      "visible": true
     },
     {
-      "awayTeamScore": "0",
-      "away_team_logo": "https://cdn.1xapi.com/images/teams/sogdiana-jizak-725241.png",
-      "away_team_name": "Sogdiana Jizak",
-      "homeTeamScore": "0",
-      "home_team_logo": "https://cdn.1xapi.com/images/teams/otmk-olmaliq-8a00d5.png",
-      "home_team_name": "OTMK Olmaliq",
-      "league_logo": "https://cdn.1xapi.com/images/teams/nologoo.png",
-      "league_name": "Uzbek League",
-      "match_status": "vs",
-      "match_time": 1773325800,
-      "servers": []
+      "category": "Football",
+      "date": "12/03/2026",
+      "end_date": "12/03/2026",
+      "end_time": "22:20:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/17015/image/dark",
+      "eventName": "UEFA Conference League",
+      "id": 39,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2207/image",
+      "teamAName": "SK Sigma Olomouc",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2556/image",
+      "teamBName": "1. FSV Mainz 05",
+      "time": "20:00:00",
+      "visible": true
     },
     {
-      "awayTeamScore": "0",
-      "away_team_logo": "https://cdn.1xapi.com/images/teams/sogdiana-jizak-725241.png",
-      "away_team_name": "Sogdiana Jizak",
-      "homeTeamScore": "0",
-      "home_team_logo": "https://cdn.1xapi.com/images/teams/fc-okmk-olmaliq-38f6cd.webp",
-      "home_team_name": "FC OKMK Olmaliq",
-      "league_logo": "https://cdn.1xapi.com/images/teams/nologoo.png",
-      "league_name": "UZB PFL",
-      "match_status": "vs",
-      "match_time": "1773325800",
-      "servers": []
+      "category": "Football",
+      "date": "12/03/2026",
+      "end_date": "12/03/2026",
+      "end_time": "22:20:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/17015/image/dark",
+      "eventName": "UEFA Conference League",
+      "id": 40,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2693/image",
+      "teamAName": "Fiorentina",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/35268/image",
+      "teamBName": "Raków Częstochowa",
+      "time": "20:00:00",
+      "visible": true
     },
     {
-      "awayTeamScore": "0",
-      "away_team_logo": "https://cdn.1xapi.com/images/teams/dinamo-batumi-4feb99.png",
-      "away_team_name": "Dinamo Batumi",
-      "homeTeamScore": "0",
-      "home_team_logo": "https://cdn.1xapi.com/images/teams/samgurali-tskh-5ebdb7.png",
-      "home_team_name": "Samgurali Tskh",
-      "league_logo": "https://cdn.1xapi.com/images/teams/nologoo.png",
-      "league_name": "Georgia Primera Division",
-      "match_status": "vs",
-      "match_time": 1773327600,
-      "servers": []
+      "category": "Football",
+      "date": "12/03/2026",
+      "end_date": "12/03/2026",
+      "end_time": "20:05:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/679/image/dark",
+      "eventName": "UEFA Europa League",
+      "id": 41,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3248/image",
+      "teamAName": "Panathinaikos FC",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2816/image",
+      "teamBName": "Real Betis",
+      "time": "17:45:00",
+      "visible": true
     },
     {
-      "awayTeamScore": "0",
-      "away_team_logo": "https://cdn.1xapi.com/images/teams/nasaf-qarshi-51edfa.png",
-      "away_team_name": "Nasaf Qarshi",
-      "homeTeamScore": "0",
-      "home_team_logo": "https://cdn.1xapi.com/images/teams/dinamo-samarqand-3a1d86.webp",
-      "home_team_name": "Dinamo Samarqand",
-      "league_logo": "https://cdn.1xapi.com/images/teams/nologoo.png",
-      "league_name": "Uzbek League",
-      "match_status": "vs",
-      "match_time": 1773327600,
-      "servers": []
-    },
-    {
-      "awayTeamScore": "0",
-      "away_team_logo": "https://cdn.1xapi.com/images/teams/germany-w-263c2e.png",
-      "away_team_name": "Germany W",
-      "homeTeamScore": "0",
-      "home_team_logo": "https://cdn.1xapi.com/images/teams/philippines-w-7a6a5e.png",
-      "home_team_name": "Philippines W",
-      "league_logo": "https://cdn.1xapi.com/images/teams/nologoo.png",
-      "league_name": "FIBAP W",
-      "match_status": "vs",
-      "match_time": "1773331200",
-      "servers": []
-    },
-    {
-      "awayTeamScore": "0",
-      "away_team_logo": "https://cdn.1xapi.com/images/teams/fc-meshakhte-tkibuli-aa9111.png",
-      "away_team_name": "Fc Meshakhte Tkibuli",
-      "homeTeamScore": "0",
-      "home_team_logo": "https://cdn.1xapi.com/images/teams/dila-gori-a25f2d.png",
-      "home_team_name": "Dila Gori",
-      "league_logo": "https://cdn.1xapi.com/images/teams/nologoo.png",
-      "league_name": "Georgia Primera Division",
-      "match_status": "vs",
-      "match_time": 1773331200,
-      "servers": []
-    },
-    {
-      "awayTeamScore": "0",
-      "away_team_logo": "https://cdn.1xapi.com/images/teams/bandirmaspor-54b1aa.png",
-      "away_team_name": "Bandirmaspor",
-      "homeTeamScore": "0",
-      "home_team_logo": "https://cdn.1xapi.com/images/teams/erokspor-c7be5e.png",
-      "home_team_name": "Erokspor",
-      "league_logo": "https://cdn.1xapi.com/images/teams/nologoo.png",
-      "league_name": "Turkey 1. Lig",
-      "match_status": "vs",
-      "match_time": 1773334800,
-      "servers": []
-    },
-    {
-      "awayTeamScore": "0",
-      "away_team_logo": "https://cdn.1xapi.com/images/teams/inter-milan-w-090f50.png",
-      "away_team_name": "Inter Milan (W)",
-      "homeTeamScore": "0",
-      "home_team_logo": "https://cdn.1xapi.com/images/teams/as-roma-w-d6b3b0.png",
-      "home_team_name": "AS Roma (W)",
-      "league_logo": "https://cdn.1xapi.com/images/teams/nologoo.png",
-      "league_name": "Italian Women Cup",
-      "match_status": "vs",
-      "match_time": "1773334800",
-      "servers": []
-    },
-    {
-      "awayTeamScore": "0",
-      "away_team_logo": "https://cdn.1xapi.com/images/teams/argentina-w-02fd63.png",
-      "away_team_name": "Argentina W",
-      "homeTeamScore": "0",
-      "home_team_logo": "https://cdn.1xapi.com/images/teams/turkey-w-299889.png",
-      "home_team_name": "Turkey W",
-      "league_logo": "https://cdn.1xapi.com/images/teams/nologoo.png",
-      "league_name": "FIBAP W",
-      "match_status": "vs",
-      "match_time": "1773336600",
-      "servers": []
-    },
-    {
-      "awayTeamScore": "0",
-      "away_team_logo": "https://cdn.1xapi.com/images/teams/rayo-vallecano-be91d4.webp",
-      "away_team_name": "Rayo Vallecano",
-      "homeTeamScore": "0",
-      "home_team_logo": "https://cdn.1xapi.com/images/teams/samsunspor-2bdd04.png",
-      "home_team_name": "Samsunspor",
-      "league_logo": "https://cdn.1xapi.com/images/teams/nologoo.png",
-      "league_name": "UEFA ECL",
-      "match_status": "vs",
-      "match_time": "1773337500",
-      "servers": []
-    },
-    {
-      "awayTeamScore": "0",
-      "away_team_logo": "https://cdn.1xapi.com/images/teams/sparta-praha-2538e2.png",
-      "away_team_name": "Sparta Praha",
-      "homeTeamScore": "0",
-      "home_team_logo": "https://cdn.1xapi.com/images/teams/az-alkmaar-64a242.webp",
-      "home_team_name": "AZ Alkmaar",
-      "league_logo": "https://cdn.1xapi.com/images/teams/nologoo.png",
-      "league_name": "UEFA ECL",
-      "match_status": "vs",
-      "match_time": "1773337500",
-      "servers": []
-    },
-    {
-      "awayTeamScore": "0",
-      "away_team_logo": "https://cdn.1xapi.com/images/teams/fc-porto-fe306f.webp",
-      "away_team_name": "FC Porto",
-      "homeTeamScore": "0",
-      "home_team_logo": "https://cdn.1xapi.com/images/teams/vfb-stuttgart-2ff787.png",
-      "home_team_name": "VfB Stuttgart",
-      "league_logo": "https://cdn.1xapi.com/images/teams/nologoo.png",
-      "league_name": "UEFA Europa League",
-      "match_status": "vs",
-      "match_time": 1773337500,
-      "servers": []
-    },
-    {
-      "awayTeamScore": "0",
-      "away_team_logo": "https://cdn.1xapi.com/images/teams/real-betis-0f6736.png",
-      "away_team_name": "Real Betis",
-      "homeTeamScore": "0",
-      "home_team_logo": "https://cdn.1xapi.com/images/teams/panathinaikos-48a79a.png",
-      "home_team_name": "Panathinaikos",
-      "league_logo": "https://cdn.1xapi.com/images/teams/nologoo.png",
-      "league_name": "UEFA Europa League",
-      "match_status": "vs",
-      "match_time": 1773337500,
-      "servers": []
-    },
-    {
-      "awayTeamScore": "0",
-      "away_team_logo": "https://cdn.1xapi.com/images/teams/as-roma-97a706.webp",
-      "away_team_name": "AS Roma",
-      "homeTeamScore": "0",
-      "home_team_logo": "https://cdn.1xapi.com/images/teams/bologna-b7827a.webp",
-      "home_team_name": "Bologna",
-      "league_logo": "https://cdn.1xapi.com/images/teams/nologoo.png",
-      "league_name": "UEFA Europa League",
-      "match_status": "vs",
-      "match_time": 1773337500,
-      "servers": []
-    },
-    {
-      "awayTeamScore": "0",
-      "away_team_logo": "https://cdn.1xapi.com/images/teams/aston-villa-2cd692.webp",
-      "away_team_name": "Aston Villa",
-      "homeTeamScore": "0",
-      "home_team_logo": "https://cdn.1xapi.com/images/teams/losc-lille-f0d84d.webp",
-      "home_team_name": "LOSC Lille",
-      "league_logo": "https://cdn.1xapi.com/images/teams/nologoo.png",
-      "league_name": "UEFA EL",
-      "match_status": "vs",
-      "match_time": "1773337500",
-      "servers": []
-    },
-    {
-      "awayTeamScore": "0",
-      "away_team_logo": "https://cdn.1xapi.com/images/teams/ac-sparta-prague-1399d4.png",
-      "away_team_name": "AC Sparta Prague",
-      "homeTeamScore": "0",
-      "home_team_logo": "https://cdn.1xapi.com/images/teams/az-alkmaar-64a242.webp",
-      "home_team_name": "AZ Alkmaar",
-      "league_logo": "https://cdn.1xapi.com/images/teams/nologoo.png",
-      "league_name": "UEFA Europa Conference League",
-      "match_status": "vs",
-      "match_time": "1773337500",
-      "servers": []
-    },
-    {
-      "awayTeamScore": "0",
-      "away_team_logo": "https://cdn.1xapi.com/images/teams/aston-villa-2cd692.webp",
-      "away_team_name": "Aston Villa",
-      "homeTeamScore": "0",
-      "home_team_logo": "https://cdn.1xapi.com/images/teams/lille-964a8b.png",
-      "home_team_name": "Lille",
-      "league_logo": "https://cdn.1xapi.com/images/teams/nologoo.png",
-      "league_name": "UEFA Europa League",
-      "match_status": "vs",
-      "match_time": 1773337500,
-      "servers": []
-    },
-    {
-      "awayTeamScore": "0",
-      "away_team_logo": "https://cdn.1xapi.com/images/teams/strasbourg-bb29bb.png",
-      "away_team_name": "Strasbourg",
-      "homeTeamScore": "0",
-      "home_team_logo": "https://cdn.1xapi.com/images/teams/rijeka-a7b0b8.png",
-      "home_team_name": "Rijeka",
-      "league_logo": "https://cdn.1xapi.com/images/teams/nologoo.png",
-      "league_name": "UEFA Europa Conference League",
-      "match_status": "vs",
-      "match_time": "1773337500",
-      "servers": []
-    },
-    {
-      "awayTeamScore": "0",
-      "away_team_logo": "https://cdn.1xapi.com/images/teams/fc-shakhtar-donetsk-c5863c.png",
-      "away_team_name": "FC Shakhtar Donetsk",
-      "homeTeamScore": "0",
-      "home_team_logo": "https://cdn.1xapi.com/images/teams/lech-poznan-5d1d48.png",
-      "home_team_name": "Lech Poznan",
-      "league_logo": "https://cdn.1xapi.com/images/teams/nologoo.png",
-      "league_name": "UEFA Europa Conference League",
-      "match_status": "vs",
-      "match_time": "1773337500",
-      "servers": []
-    },
-    {
-      "awayTeamScore": "0",
-      "away_team_logo": "https://cdn.1xapi.com/images/teams/olympiacos-0af179.png",
-      "away_team_name": "Olympiacos",
-      "homeTeamScore": "0",
-      "home_team_logo": "https://cdn.1xapi.com/images/teams/monaco-77f09e.png",
-      "home_team_name": "Monaco",
-      "league_logo": "https://cdn.1xapi.com/images/teams/nologoo.png",
-      "league_name": "EURO",
-      "match_status": "vs",
-      "match_time": "1773338400",
-      "servers": []
-    },
-    {
-      "awayTeamScore": "0",
-      "away_team_logo": "https://cdn.1xapi.com/images/teams/al-kholood-bf1676.webp",
-      "away_team_name": "Al Kholood",
-      "homeTeamScore": "0",
-      "home_team_logo": "https://cdn.1xapi.com/images/teams/al-hazm-2dd794.png",
-      "home_team_name": "Al-Hazm",
-      "league_logo": "https://cdn.1xapi.com/images/teams/nologoo.png",
-      "league_name": "Saudi Professional League",
-      "match_status": "vs",
-      "match_time": "1773342000",
-      "servers": []
-    },
-    {
-      "awayTeamScore": "0",
-      "away_team_logo": "https://cdn.1xapi.com/images/teams/valencia-e45c31.png",
-      "away_team_name": "Valencia",
-      "homeTeamScore": "0",
-      "home_team_logo": "https://cdn.1xapi.com/images/teams/real-madrid-bd172e.png",
-      "home_team_name": "Real Madrid",
-      "league_logo": "https://cdn.1xapi.com/images/teams/nologoo.png",
-      "league_name": "EURO",
-      "match_status": "vs",
-      "match_time": "1773344700",
-      "servers": []
-    },
-    {
-      "awayTeamScore": "0",
-      "away_team_logo": "https://cdn.1xapi.com/images/teams/aek-larnaca-0e7759.png",
-      "away_team_name": "AEK Larnaca",
-      "homeTeamScore": "0",
-      "home_team_logo": "https://cdn.1xapi.com/images/teams/crystal-palace-550550.webp",
-      "home_team_name": "Crystal Palace",
-      "league_logo": "https://cdn.1xapi.com/images/teams/nologoo.png",
-      "league_name": "UEFA Europa Conference League",
-      "match_status": "vs",
-      "match_time": 1773345600,
-      "servers": []
-    },
-    {
-      "awayTeamScore": "0",
-      "away_team_logo": "https://cdn.1xapi.com/images/teams/midtjylland-dd861f.png",
-      "away_team_name": "Midtjylland",
-      "homeTeamScore": "0",
-      "home_team_logo": "https://cdn.1xapi.com/images/teams/nottingham-forest-88a964.webp",
-      "home_team_name": "Nottingham Forest",
-      "league_logo": "https://cdn.1xapi.com/images/teams/nologoo.png",
-      "league_name": "UEFA Europa League",
-      "match_status": "vs",
-      "match_time": 1773345600,
-      "servers": []
-    },
-    {
-      "awayTeamScore": "0",
-      "away_team_logo": "https://cdn.1xapi.com/images/teams/sc-freiburg-eb085e.webp",
-      "away_team_name": "SC Freiburg",
-      "homeTeamScore": "0",
-      "home_team_logo": "https://cdn.1xapi.com/images/teams/racing-genk-9a198f.png",
-      "home_team_name": "Racing Genk",
-      "league_logo": "https://cdn.1xapi.com/images/teams/nologoo.png",
-      "league_name": "UEFA Europa League",
-      "match_status": "vs",
-      "match_time": 1773345600,
-      "servers": []
-    },
-    {
-      "awayTeamScore": "0",
-      "away_team_logo": "https://cdn.1xapi.com/images/teams/sporting-braga-f99d1b.png",
-      "away_team_name": "Sporting Braga",
-      "homeTeamScore": "0",
-      "home_team_logo": "https://cdn.1xapi.com/images/teams/ferencvarosi-tc-8e3c72.png",
-      "home_team_name": "Ferencvarosi TC",
-      "league_logo": "https://cdn.1xapi.com/images/teams/nologoo.png",
-      "league_name": "UEFA Europa League",
-      "match_status": "vs",
-      "match_time": 1773345600,
-      "servers": []
-    },
-    {
-      "awayTeamScore": "0",
-      "away_team_logo": "https://cdn.1xapi.com/images/teams/lyon-10b53d.webp",
-      "away_team_name": "Lyon",
-      "homeTeamScore": "0",
-      "home_team_logo": "https://cdn.1xapi.com/images/teams/rc-celta-648d4f.webp",
-      "home_team_name": "RC Celta",
-      "league_logo": "https://cdn.1xapi.com/images/teams/nologoo.png",
-      "league_name": "UEFA EL",
-      "match_status": "vs",
-      "match_time": "1773345600",
-      "servers": []
-    },
-    {
-      "awayTeamScore": "0",
-      "away_team_logo": "https://cdn.1xapi.com/images/teams/aek-athens-b2a425.png",
-      "away_team_name": "AEK Athens",
-      "homeTeamScore": "0",
-      "home_team_logo": "https://cdn.1xapi.com/images/teams/nk-publikum-celje-03d5df.png",
-      "home_team_name": "NK Publikum Celje",
-      "league_logo": "https://cdn.1xapi.com/images/teams/nologoo.png",
-      "league_name": "UEFA Europa Conference League",
-      "match_status": "vs",
-      "match_time": "1773345600",
-      "servers": []
-    },
-    {
-      "awayTeamScore": "0",
-      "away_team_logo": "https://cdn.1xapi.com/images/teams/lyon-10b53d.webp",
-      "away_team_name": "Lyon",
-      "homeTeamScore": "0",
-      "home_team_logo": "https://cdn.1xapi.com/images/teams/celta-vigo-38207c.png",
-      "home_team_name": "Celta Vigo",
-      "league_logo": "https://cdn.1xapi.com/images/teams/nologoo.png",
-      "league_name": "UEFA Europa League",
-      "match_status": "vs",
-      "match_time": 1773345600,
-      "servers": []
-    },
-    {
-      "awayTeamScore": "0",
-      "away_team_logo": "https://cdn.1xapi.com/images/teams/rakow-czestochowa-e78381.png",
-      "away_team_name": "Rakow Czestochowa",
-      "homeTeamScore": "0",
-      "home_team_logo": "https://cdn.1xapi.com/images/teams/fiorentina-a1b89d.webp",
-      "home_team_name": "Fiorentina",
-      "league_logo": "https://cdn.1xapi.com/images/teams/nologoo.png",
-      "league_name": "UEFA Europa Conference League",
-      "match_status": "vs",
-      "match_time": "1773345600",
-      "servers": []
-    },
-    {
-      "awayTeamScore": "0",
-      "away_team_logo": "https://cdn.1xapi.com/images/teams/fsv-mainz-05-01d14a.png",
-      "away_team_name": "FSV Mainz 05",
-      "homeTeamScore": "0",
-      "home_team_logo": "https://cdn.1xapi.com/images/teams/sigma-olomouc-2266ea.png",
-      "home_team_name": "Sigma Olomouc",
-      "league_logo": "https://cdn.1xapi.com/images/teams/nologoo.png",
-      "league_name": "UEFA Europa Conference League",
-      "match_status": "vs",
-      "match_time": "1773345600",
-      "servers": []
-    },
-    {
-      "awayTeamScore": "0",
-      "away_team_logo": "https://cdn.1xapi.com/images/teams/braga-a904ad.png",
-      "away_team_name": "Braga",
-      "homeTeamScore": "0",
-      "home_team_logo": "https://cdn.1xapi.com/images/teams/ferencvaros-fbb04f.png",
-      "home_team_name": "Ferencvaros",
-      "league_logo": "https://cdn.1xapi.com/images/teams/nologoo.png",
-      "league_name": "Europa League",
-      "match_status": "vs",
-      "match_time": "1773345600",
-      "servers": []
-    },
-    {
-      "awayTeamScore": "0",
-      "away_team_logo": "https://cdn.1xapi.com/images/teams/freiburg-9c8355.png",
-      "away_team_name": "Freiburg",
-      "homeTeamScore": "0",
-      "home_team_logo": "https://cdn.1xapi.com/images/teams/genk-2d29b4.png",
-      "home_team_name": "Genk",
-      "league_logo": "https://cdn.1xapi.com/images/teams/nologoo.png",
-      "league_name": "Europa League",
-      "match_status": "vs",
-      "match_time": "1773345600",
-      "servers": []
-    },
-    {
-      "awayTeamScore": "0",
-      "away_team_logo": "https://cdn.1xapi.com/images/teams/raków-częstochowa-dd8f24.png",
-      "away_team_name": "Raków Częstochowa",
-      "homeTeamScore": "0",
-      "home_team_logo": "https://cdn.1xapi.com/images/teams/fiorentina-a1b89d.webp",
-      "home_team_name": "Fiorentina",
-      "league_logo": "https://cdn.1xapi.com/images/teams/nologoo.png",
-      "league_name": "Conference League",
-      "match_status": "vs",
-      "match_time": "1773345600",
-      "servers": []
-    },
-    {
-      "awayTeamScore": "0",
-      "away_team_logo": "https://cdn.1xapi.com/images/teams/fluminense-rj-3300fa.webp",
-      "away_team_name": "Fluminense RJ",
-      "homeTeamScore": "0",
-      "home_team_logo": "https://cdn.1xapi.com/images/teams/remo-belem-pa-65a00d.png",
-      "home_team_name": "Remo Belem (PA)",
-      "league_logo": "https://cdn.1xapi.com/images/teams/nologoo.png",
-      "league_name": "BRA D1",
-      "match_status": "vs",
-      "match_time": "1773352800",
-      "servers": []
-    },
-    {
-      "awayTeamScore": "0",
-      "away_team_logo": "https://cdn.1xapi.com/images/teams/belgrano-089110.png",
-      "away_team_name": "Belgrano",
-      "homeTeamScore": "0",
-      "home_team_logo": "https://cdn.1xapi.com/images/teams/estudiantes-rio-cuarto-6bb53d.png",
-      "home_team_name": "Estudiantes Rio Cuarto",
-      "league_logo": "https://cdn.1xapi.com/images/teams/nologoo.png",
-      "league_name": "ARG D1",
-      "match_status": "vs",
-      "match_time": "1773353700",
-      "servers": []
-    },
-    {
-      "awayTeamScore": "0",
-      "away_team_logo": "https://cdn.1xapi.com/images/teams/instituto-de-córdoba-2afd26.webp",
-      "away_team_name": "Instituto de Córdoba",
-      "homeTeamScore": "0",
-      "home_team_logo": "https://cdn.1xapi.com/images/teams/talleres-cordoba-5b64e7.png",
-      "home_team_name": "Talleres Cordoba",
-      "league_logo": "https://cdn.1xapi.com/images/teams/nologoo.png",
-      "league_name": "ARG D1",
-      "match_status": "vs",
-      "match_time": "1773353700",
-      "servers": []
-    },
-    {
-      "awayTeamScore": "0",
-      "away_team_logo": "https://cdn.1xapi.com/images/teams/palmeiras-438aaf.webp",
-      "away_team_name": "Palmeiras",
-      "homeTeamScore": "0",
-      "home_team_logo": "https://cdn.1xapi.com/images/teams/clube-de-regatas-vasco-da-gama-369570.webp",
-      "home_team_name": "Clube de Regatas Vasco da Gama",
-      "league_logo": "https://cdn.1xapi.com/images/teams/nologoo.png",
-      "league_name": "BRA D1",
-      "match_status": "vs",
-      "match_time": "1773354600",
-      "servers": []
-    },
-    {
-      "awayTeamScore": "0",
-      "away_team_logo": "https://cdn.1xapi.com/images/teams/chapecoense-sc-ec8012.png",
-      "away_team_name": "Chapecoense SC",
-      "homeTeamScore": "0",
-      "home_team_logo": "https://cdn.1xapi.com/images/teams/sao-paulo-501f4b.webp",
-      "home_team_name": "Sao Paulo",
-      "league_logo": "https://cdn.1xapi.com/images/teams/nologoo.png",
-      "league_name": "BRA D1",
-      "match_status": "vs",
-      "match_time": "1773356400",
-      "servers": []
-    },
-    {
-      "awayTeamScore": "0",
-      "away_team_logo": "https://cdn.1xapi.com/images/teams/milwaukee-bucks-1dc8d8.webp",
-      "away_team_name": "Milwaukee Bucks",
-      "homeTeamScore": "0",
-      "home_team_logo": "https://cdn.1xapi.com/images/teams/miami-heat-e6d85e.webp",
-      "home_team_name": "Miami Heat",
-      "league_logo": "https://cdn.1xapi.com/images/teams/nologoo.png",
-      "league_name": "NBA",
-      "match_status": "vs",
-      "match_time": "1773358200",
-      "servers": []
+      "category": "Football",
+      "date": "12/03/2026",
+      "end_date": "12/03/2026",
+      "end_time": "22:20:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/679/image/dark",
+      "eventName": "UEFA Europa League",
+      "id": 42,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2821/image",
+      "teamAName": "Celta Vigo",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/1649/image",
+      "teamBName": "Olympique Lyonnais",
+      "time": "20:00:00",
+      "visible": true
     }
   ]
 }
