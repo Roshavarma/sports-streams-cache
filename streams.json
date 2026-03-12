@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-12T18:00:50.447201",
+  "last_updated": "2026-03-12T18:10:29.323500",
   "event_count": 21,
   "events": [
     {
@@ -402,6 +402,13 @@
           "api": "",
           "link": "https://bbb.exoadash.com/TVD4072/index.mpd",
           "name": "COSMOTE SPORT",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://instreams.live/EU/HDTV10/index.m3u8?st=SportzX|Referer=https://instreams.click/&Origin=https://instreams.click",
+          "name": "Movistar HD",
           "scheme": 0,
           "tokenApi": ""
         }
