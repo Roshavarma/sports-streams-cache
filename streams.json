@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-12T20:02:31.297187",
+  "last_updated": "2026-03-12T20:10:26.827575",
   "event_count": 13,
   "events": [
     {
@@ -109,8 +109,18 @@
       "id": 23,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "9388b41a62cc99323a94e5aea39500b7:e2fe2c22fa77f90ee7027bb8fc15eae0",
+          "link": "https://apac-live.akamaized.net/ehyrzisobs/bein_sports_vflow09/index.mpd?hdntl=exp%3D1773422008%7Eacl%3D%2F*%7Eid%3D42901651%7Edata%3Dhdntl%2Cfp%3D1%7Ehmac%3Db1a65456852eaf607ea46b3f32e8c1e6dd18af14e67f2e134a0d5ad713ff10b9&hdnts=st%3D1773249203%7Eexp%3D1773335903%7Eacl%3D%2F*%7Eid%3D42901651%7Edata%3Dfp%3D1%7Ehmac%3D92adaba106f0e4f4d9f22c97de6aa0d9f39ca9e6410ad789ad95f92d4cb842ba",
+          "name": "beIN SPORTS FHD",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://bbb.exoadash.com/TVD4073/index.mpd\n",
+          "name": "COSMOTE SPORTS",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/2413/image",
@@ -154,8 +164,25 @@
       "id": 29,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": " 53ac8e7c798f32280f42c25f04e1bf53:3115f4ccf41206451337fd3a030aabf1",
+          "link": "https://apac-live.akamaized.net/ehyrzisobs/bein_sports_vflow02/index.mpd?hdntl=exp%3D1773422008%7Eacl%3D%2F*%7Eid%3D42901651%7Edata%3Dhdntl%2Cfp%3D1%7Ehmac%3Db1a65456852eaf607ea46b3f32e8c1e6dd18af14e67f2e134a0d5ad713ff10b9&hdnts=st%3D1773249203%7Eexp%3D1773335903%7Eacl%3D%2F*%7Eid%3D42901651%7Edata%3Dfp%3D1%7Ehmac%3D92adaba106f0e4f4d9f22c97de6aa0d9f39ca9e6410ad789ad95f92d4cb842ba",
+          "name": "beIN SPORTS FHD",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://instreams.live/EU/HDTV31/index.m3u8?st=SportzX|Referer=https://instreams.click/&Origin=https://instreams.click",
+          "name": "DAZN SPORTS HD",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://smarthard.click/hls/T8PPfLuC68iO/index.m3u8",
+          "name": "SKY SPORTS SD",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/1925/image",
