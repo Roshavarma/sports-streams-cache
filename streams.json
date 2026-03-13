@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-13T10:30:40.987916",
+  "last_updated": "2026-03-13T10:40:25.829193",
   "event_count": 14,
   "events": [
     {
@@ -102,8 +102,8 @@
     {
       "category": "Cricket",
       "date": "13/03/2026",
-      "end_date": "",
-      "end_time": "",
+      "end_date": "13/03/2026",
+      "end_time": "16:15:00",
       "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark",
       "eventName": "One Day International",
       "id": 23,
