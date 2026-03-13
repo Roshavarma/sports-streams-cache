@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-13T16:40:25.215865",
+  "last_updated": "2026-03-13T16:50:30.211767",
   "event_count": 14,
   "events": [
     {
@@ -254,8 +254,11 @@
       "id": 27,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "",
+          "link": "https://raw.githubusercontent.com/xmrt624/lpootvs/refs/heads/main/beinturkey1.m3u8",
+          "name": "beIN Sports ",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/4954/image",
@@ -347,8 +350,11 @@
       "id": 31,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "",
+          "link": "https://raw.githubusercontent.com/xmrt624/lpootvs/refs/heads/main/beinturkey2.m3u8",
+          "name": "beIN Sports",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/3056/image",
@@ -436,6 +442,13 @@
       "eventName": "Serie A",
       "id": 34,
       "links": [
+        {
+          "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
+          "link": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd",
+          "name": "Sport 1  AQ",
+          "scheme": 0,
+          "tokenApi": ""
+        },
         {
           "api": "",
           "link": "https://bbb.exoadash.com/TVD4071/index.mpd",
