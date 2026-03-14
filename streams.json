@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-14T14:20:27.652796",
+  "last_updated": "2026-03-14T14:30:36.451867",
   "event_count": 20,
   "events": [
     {
@@ -175,8 +175,32 @@
       "id": 25,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "",
+          "link": "https://eventcdn02-nowe.akamaized.net/hls/CH621/index.m3u8",
+          "name": "NOW SPORTS PL",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://daffodil.lifesharper.com/usa.m3u8",
+          "name": "USA TV FHD",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://storage.googleapis.com/unikhsgyrbover1/mux_video_ts1/index-1.m3u8",
+          "name": "SKY SPORTS HD",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://bbb.exoadash.com/TVD6219/index.mpd",
+          "name": "NOVA SPORTS PL",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/41/image",
@@ -318,6 +342,27 @@
       "id": 31,
       "links": [
         {
+          "api": "7c214cad238a160353453b01da8be646:6f64bc2379b1f703ccfb6410be1dfde1",
+          "link": "https://apac-live.akamaized.net/ehyrzisobs/bein_sports_vflow05/index.mpd?hdntl=exp=1773579576~acl=%2f*~id=43163071~data=hdntl,fp%3d1~hmac=4c992451fca6bc7522d3229d99d4089d3a281a2a7fb5b6101143f98f36d2928e&hdnts=st%3D1773406773%7Eexp%3D1773493473%7Eacl%3D%2F*%7Eid%3D43163071%7Edata%3Dfp%3D1%7Ehmac%3D357a60973e93fc07fc4e80517f7ef8913bfa208dfab5b7c14de4df25094a792a",
+          "name": "beIN SPORTS FHD",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733",
+          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd",
+          "name": "SporTV BR",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://grand-s-main.faggotsports.tv/out/v2/34dc783041c18c8e227f7f027737663c/index.m3u8|origin=https://hmembeds.one&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
+          "name": "SKY BUNDESLIGA FHD",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
           "api": "",
           "link": "https://bbb.exoadash.com/TVD6414/index.mpd",
           "name": "ELEVEN SPORTS",
@@ -349,8 +394,25 @@
       "id": 32,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "",
+          "link": "https://eventcdn02-nowe.akamaized.net/hls/CH622/index.m3u8",
+          "name": "NOW SPORTS PL",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://grand-s-main.faggotsports.tv/out/v2/1c392ac1f3101d26ea9cf4e61fcfbb8a/index.m3u8|origin=https://hmembeds.one&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
+          "name": "SKY SPORTS FHD",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://storage.googleapis.com/unikhsgyrbover2/mux_video_ts1/index-1.m3u8",
+          "name": "SKY SPORTS HD",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/6/image",
@@ -499,9 +561,30 @@
       "id": 38,
       "links": [
         {
+          "api": "597b1d0fdddb383fd37febd057d3fd1c:a728d9c017f83e3e6e77b7d7c0231b22",
+          "link": "https://apac-live.akamaized.net/ehyrzisobs/bein_sports_vflow07/index.mpd?hdntl=exp=1773579576~acl=%2f*~id=43163071~data=hdntl,fp%3d1~hmac=4c992451fca6bc7522d3229d99d4089d3a281a2a7fb5b6101143f98f36d2928e&hdnts=st%3D1773406773%7Eexp%3D1773493473%7Eacl%3D%2F*%7Eid%3D43163071%7Edata%3Dfp%3D1%7Ehmac%3D357a60973e93fc07fc4e80517f7ef8913bfa208dfab5b7c14de4df25094a792a",
+          "name": "beIN SPORTS FHD",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
           "api": "",
           "link": "https://bbb.exoadash.com/TVD6412/index.mpd",
           "name": "ELEVEN SPORTS",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://instreams.live/EU/HDTV14/index.m3u8?st=SportzX|Referer=https://instreams.click/&Origin=https://instreams.click",
+          "name": "SKY BUNDESLIGA",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773540281~acl=/*~id=20489221647248636818177459003449~hmac=265d0a57ef9f96ffc2dc095e241d19f9823b63368d7dfea76aa040515c3caefa|User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; SmartTV 4K FFM; Build/RTT2.220118.001)",
+          "name": "SonyLiv [ENG]",
           "scheme": 0,
           "tokenApi": ""
         }
