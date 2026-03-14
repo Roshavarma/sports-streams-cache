@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-14T16:00:46.538688",
+  "last_updated": "2026-03-14T16:10:27.171498",
   "event_count": 23,
   "events": [
     {
@@ -477,8 +477,18 @@
       "id": 34,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "",
+          "link": "https://daffodil.xn--1000-ugoa0hsb9a0hb.com/beines.m3u8",
+          "name": "beIN SPORTS ES",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://bbb.exoadash.com/TVD2083/index.mpd",
+          "name": "Ligue1+ HD",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/1656/image",
