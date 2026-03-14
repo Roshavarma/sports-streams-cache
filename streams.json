@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-14T18:10:21.945876",
-  "event_count": 16,
+  "last_updated": "2026-03-14T18:20:23.199685",
+  "event_count": 15,
   "events": [
     {
       "category": "Boxing",
@@ -176,6 +176,13 @@
       "links": [
         {
           "api": "",
+          "link": "https://instreams.live/EU/HDTV22/index.m3u8?st=SportzX|Referer=https://instreams.click/&Origin=https://instreams.click",
+          "name": "CANAL+ HD",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
           "link": "https://bbb.exoadash.com/TVD2083/index.mpd",
           "name": "Ligue1+ HD",
           "scheme": 0,
@@ -288,37 +295,6 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/1715/image",
       "teamBName": "Stade Brestois",
       "time": "20:05:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "14/03/2026",
-      "end_date": "14/03/2026",
-      "end_time": "18:20:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/34/image/dark",
-      "eventName": "Ligue 1",
-      "id": 34,
-      "links": [
-        {
-          "api": "",
-          "link": "https://daffodil.xn--1000-ugoa0hsb9a0hb.com/beines.m3u8",
-          "name": "beIN SPORTS ES",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://bbb.exoadash.com/TVD2083/index.mpd",
-          "name": "Ligue1+ HD",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/1656/image",
-      "teamAName": "Lorient",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/1648/image",
-      "teamBName": "RC Lens",
-      "time": "16:00:00",
       "visible": true
     },
     {
@@ -473,8 +449,11 @@
       "id": 41,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "",
+          "link": "https://bbb.exoadash.com/TVD6737/index.mpd",
+          "name": "Thmanyah - FHD",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/56023/image",
