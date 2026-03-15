@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-15T19:10:23.007746",
-  "event_count": 10,
+  "last_updated": "2026-03-15T19:20:21.166190",
+  "event_count": 6,
   "events": [
     {
       "category": "Boxing",
@@ -100,58 +100,6 @@
       "visible": true
     },
     {
-      "category": "Cricket",
-      "date": "15/03/2026",
-      "end_date": "15/03/2026",
-      "end_time": "16:30:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark",
-      "eventName": "One Day International",
-      "id": 23,
-      "links": [
-        {
-          "api": "b01896dfc4f780aa0e61765af00128b1:0390e22ecb9b6ef93ddf8f7cd3b38461",
-          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8ntichuuto/out/v1/f7b575d5d9a949f9a4e164f635ebb9c7/cenc.mpd",
-          "name": "WILLOW - AQ",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "http://195.178.110.27/hls/FUUUQQQ.m3u8|Referer=http://www.fawanews.sc/",
-          "name": "WILLOW - LQ",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad479832/master.m3u8",
-          "name": "TAPMAD - AQ",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://live.incableinternet.com/v/kooker_ptvsportshd/kooker_ptvsportshd.mpd",
-          "name": "PTV SPORTS",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "http://198.195.239.50:8095/Tsports/index.m3u8",
-          "name": "TSports SD",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/187744/image",
-      "teamAName": "Bangladesh",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/187754/image",
-      "teamBName": "Pakistan",
-      "time": "08:15:00",
-      "visible": true
-    },
-    {
       "category": "Football",
       "date": "15/03/2026",
       "end_date": "15/03/2026",
@@ -176,18 +124,11 @@
       "category": "Football",
       "date": "15/03/2026",
       "end_date": "15/03/2026",
-      "end_time": "19:20:00",
+      "end_time": "22:05:00",
       "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/23/image/dark",
       "eventName": "Serie A",
-      "id": 44,
+      "id": 47,
       "links": [
-        {
-          "api": "f288380ca4cef9ad3f27a92a08e9bb8b:9f18d26291d9230833501f7f822f6875",
-          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd",
-          "name": "TNT SPORTS - AQ",
-          "scheme": 0,
-          "tokenApi": ""
-        },
         {
           "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
           "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
@@ -196,39 +137,11 @@
           "tokenApi": ""
         },
         {
-          "api": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
-          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
-          "name": "CBS NETWORK",
+          "api": "294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b",
+          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd",
+          "name": "TNT SPORTS - AQ",
           "scheme": 0,
           "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://bbb.exoadash.com/TVD6411/index.mpd",
-          "name": "COSMOTE Sports",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2704/image",
-      "teamAName": "Como",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2702/image",
-      "teamBName": "Roma",
-      "time": "17:00:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "15/03/2026",
-      "end_date": "15/03/2026",
-      "end_time": "22:05:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/23/image/dark",
-      "eventName": "Serie A",
-      "id": 47,
-      "links": [
-        {
-          "link": "https://no.link",
-          "name": "Link 1"
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/2699/image",
@@ -236,58 +149,6 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/2692/image",
       "teamBName": "Milan",
       "time": "19:45:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "15/03/2026",
-      "end_date": "15/03/2026",
-      "end_time": "18:50:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/17/image/dark",
-      "eventName": "Premier League",
-      "id": 51,
-      "links": [
-        {
-          "api": "",
-          "link": "https://eventcdn02-nowe.akamaized.net/hls/CH622/index.m3u8",
-          "name": "NOW SPORTS PL",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://grand-s-main.faggotsports.tv/out/v2/0c886a7e6ce4404f22031483f46610d7/index.m3u8|origin=https://hmembeds.one&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
-          "name": "SKY SPORTS FHD",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://bl.rutube.ru/livestream/e5df6984021365a58b3ba22dab2f670a/index.m3u8?s=cRTSQR0_aAkgSRFZx-X5PQ&e=2071398907&scheme=https",
-          "name": "SKY MAIN EVENT",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://bbb.exoadash.com/TVD6219/index.mpd",
-          "name": "NOVA SPORTS PL",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://storage.googleapis.com/pourihtnfewad1/mux_video_ts1/index-1.m3u8",
-          "name": "SKY SPORTS NZ",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/44/image",
-      "teamAName": "Liverpool",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/33/image",
-      "teamBName": "Tottenham Hotspur",
-      "time": "16:30:00",
       "visible": true
     },
     {
@@ -340,37 +201,6 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/2821/image",
       "teamBName": "Celta Vigo",
       "time": "17:30:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "15/03/2026",
-      "end_date": "15/03/2026",
-      "end_time": "18:50:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/35/image/dark",
-      "eventName": "Bundesliga",
-      "id": 53,
-      "links": [
-        {
-          "api": "",
-          "link": "https://bbb.exoadash.com/TVD6412/index.mpd",
-          "name": "ELEVEN SPORTS",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://bbb.exoadash.com/TVD2709/index.mpd",
-          "name": "NOVA SPORTS",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2538/image",
-      "teamAName": "SC Freiburg",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2547/image",
-      "teamBName": "1. FC Union Berlin",
-      "time": "16:30:00",
       "visible": true
     },
     {
