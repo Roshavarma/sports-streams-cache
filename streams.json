@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-15T06:40:21.008337",
-  "event_count": 7,
+  "last_updated": "2026-03-15T06:50:22.607944",
+  "event_count": 8,
   "events": [
     {
       "category": "Boxing",
@@ -259,6 +259,30 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/17/image",
       "teamBName": "Manchester City",
       "time": "20:00:00",
+      "visible": true
+    },
+    {
+      "category": "Cricket",
+      "date": "15/03/2026",
+      "end_date": "15/03/2026",
+      "end_time": "10:25:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark",
+      "eventName": "T20 International",
+      "id": 41,
+      "links": [
+        {
+          "api": "192b1115da041585c77200128549efa1:634e10efe4abbb14be400a3ccbac0258",
+          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/pnu10tp36z/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd",
+          "name": "TNT SPORTS - AQ",
+          "scheme": 0,
+          "tokenApi": ""
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/187755/image",
+      "teamAName": "New Zealand",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/187747/image",
+      "teamBName": "South Africa",
+      "time": "06:15:00",
       "visible": true
     }
   ]
