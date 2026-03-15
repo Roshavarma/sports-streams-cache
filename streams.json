@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-15T17:00:42.998813",
-  "event_count": 12,
+  "last_updated": "2026-03-15T17:10:21.614646",
+  "event_count": 11,
   "events": [
     {
       "category": "Boxing",
@@ -371,44 +371,6 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/2547/image",
       "teamBName": "1. FC Union Berlin",
       "time": "16:30:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "15/03/2026",
-      "end_date": "15/03/2026",
-      "end_time": "16:50:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/35/image/dark",
-      "eventName": "Bundesliga",
-      "id": 55,
-      "links": [
-        {
-          "api": "335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281",
-          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd",
-          "name": "beIN ENGLISH",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://bbb.exoadash.com/TVD6414/index.mpd",
-          "name": "ELEVEN SPORTS",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://bbb.exoadash.com/TVD2709/index.mpd",
-          "name": "NOVA SPORTS",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2534/image",
-      "teamAName": "SV Werder Bremen",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2556/image",
-      "teamBName": "1. FSV Mainz 05",
-      "time": "14:30:00",
       "visible": true
     },
     {
