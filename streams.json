@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-16T14:30:35.773461",
-  "event_count": 7,
+  "last_updated": "2026-03-16T14:40:24.730414",
+  "event_count": 9,
   "events": [
     {
       "category": "Boxing",
@@ -202,6 +202,48 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/3/image",
       "teamBName": "Wolverhampton",
       "time": "20:00:00",
+      "visible": true
+    },
+    {
+      "category": "Cricket",
+      "date": "17/03/2026",
+      "end_date": "",
+      "end_time": "",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11222/image/dark",
+      "eventName": "Twenty20 International Women",
+      "id": 28,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/213115/image",
+      "teamAName": "New Zealand Women",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/213118/image",
+      "teamBName": "South Africa Women",
+      "time": "01:45:00",
+      "visible": true
+    },
+    {
+      "category": "Cricket",
+      "date": "17/03/2026",
+      "end_date": "",
+      "end_time": "",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark",
+      "eventName": "T20 International",
+      "id": 29,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/187755/image",
+      "teamAName": "New Zealand",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/187747/image",
+      "teamBName": "South Africa",
+      "time": "06:15:00",
       "visible": true
     }
   ]
