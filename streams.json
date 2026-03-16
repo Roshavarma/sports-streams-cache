@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-16T10:10:24.540038",
-  "event_count": 2,
+  "last_updated": "2026-03-16T10:20:23.011206",
+  "event_count": 7,
   "events": [
     {
       "category": "Boxing",
@@ -97,6 +97,111 @@
       "teamBFlag": "https://access-control-center-prod.freevision.live/ss/category/36.png",
       "teamBName": "Formula 1",
       "time": "02:30:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "16/03/2026",
+      "end_date": "16/03/2026",
+      "end_time": "22:20:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark",
+      "eventName": "Championship",
+      "id": 23,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2/image",
+      "teamAName": "Portsmouth",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/27/image",
+      "teamBName": "Derby County",
+      "time": "20:00:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "16/03/2026",
+      "end_date": "16/03/2026",
+      "end_time": "22:05:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/23/image/dark",
+      "eventName": "Serie A",
+      "id": 24,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2761/image",
+      "teamAName": "Cremonese",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2693/image",
+      "teamBName": "Fiorentina",
+      "time": "19:45:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "16/03/2026",
+      "end_date": "16/03/2026",
+      "end_time": "22:20:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/8/image/dark",
+      "eventName": "LaLiga",
+      "id": 25,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2818/image",
+      "teamAName": "Rayo Vallecano",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2849/image",
+      "teamBName": "Levante UD",
+      "time": "20:00:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "16/03/2026",
+      "end_date": "16/03/2026",
+      "end_time": "21:50:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/54/image/dark",
+      "eventName": "LaLiga 2",
+      "id": 26,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2848/image",
+      "teamAName": "Albacete Balompié",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/6577/image",
+      "teamBName": "Las Palmas",
+      "time": "19:30:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "16/03/2026",
+      "end_date": "16/03/2026",
+      "end_time": "22:20:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/17/image/dark",
+      "eventName": "Premier League",
+      "id": 27,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/50/image",
+      "teamAName": "Brentford",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3/image",
+      "teamBName": "Wolverhampton",
+      "time": "20:00:00",
       "visible": true
     }
   ]
