@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-03-17T17:50:21.972734",
+  "last_updated": "2026-03-17T18:00:44.273786",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "11:15:30 PM 17-03-2026",
+    "Last update time": "11:25:23 PM 17-03-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -1472,6 +1472,24 @@
             "api": "",
             "link": "https://55.hls-syria.live/live/bein4",
             "title": "beIN ARABIC FHD",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773812343~acl=/*~id=72180559327760555100164243236222~hmac=67d5e4d8ade0b876dea173ec5def7d512c08face43b091a1799670f84115a4df|User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; SmartTV 4K FFM; Build/RTT2.220118.001)",
+            "title": "SonyLiv [ENG]",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773812343~acl=/*~id=72180559327760555100164243236222~hmac=67d5e4d8ade0b876dea173ec5def7d512c08face43b091a1799670f84115a4df|User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; SmartTV 4K FFM; Build/RTT2.220118.001)",
+            "title": "SonyLiv [HIN]",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://xzbonlinepull.52kq.top/live/hd-en-1-4503859.m3u8?txSecret=af3919abf632fd227c522b1aaae540a0&txTime=69b99aab|referer=https://xzbonlinepull.52kq.top/",
+            "title": "SPORTIFy Live",
             "type": "0"
           }
         ],
