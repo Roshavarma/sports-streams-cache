@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-03-17T12:10:26.079704",
+  "last_updated": "2026-03-17T12:20:23.911306",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "05:30:48 PM 17-03-2026",
+    "Last update time": "05:45:23 PM 17-03-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -980,6 +980,261 @@
         "image": "o",
         "publish": "1",
         "title": "Houston Rockets vs Lakers"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "NHL",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://red1.kamfir7.space/playlist/47340/load-playlist?|Referer=https://gooz.aapmains.net",
+            "title": "SPORTIFy NHL",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://mainstreams.pro/hls/uyopzarf50.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://instreams.pro/US/NHL1/index.m3u8?st=SportzX|Referer=https://instreams.click/&Origin=https://instreams.click",
+            "title": "HD SERVER",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://webcast-cdn.b-cdn.net/newz/newz/178.m3u8?|Referer=https://slapstreams.com/",
+            "title": "HOME CAM.",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://webcast-cdn.b-cdn.net/newz/newz/91.m3u8?|Referer=https://slapstreams.com/",
+            "title": "AWAY CAM.",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/03/18 01:30:00 +0000",
+          "eventName": "Columbus Blue Jackets vs Carolina Hurricanes",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/03/17 23:00:00 +0000",
+          "teamA": "Blue Jackets",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3683/image",
+          "teamB": "Hurricanes",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3680/image"
+        },
+        "id": "386",
+        "image": "o",
+        "publish": "1",
+        "title": "Blue Jackets vs Carolina Hurricanes"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "NHL",
+        "channels_data": [
+          {
+            "api": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
+            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
+            "title": "PREMIER SPORTS",
+            "type": "1"
+          },
+          {
+            "api": "",
+            "link": "https://pfl6.ioniszenith.space/playlist/47342/load-playlist?|Referer=https://gooz.aapmains.net",
+            "title": "SPORTIFy NHL",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://mainstreams.pro/hls/hjksgdfauzy51.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://instreams.pro/US/NHL2/index.m3u8?st=SportzX|Referer=https://instreams.click/&Origin=https://instreams.click",
+            "title": "HD SERVER",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://webcast-cdn.b-cdn.net/newz/newz/174.m3u8?|Referer=https://slapstreams.com/",
+            "title": "HOME CAM.",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://webcast-cdn.b-cdn.net/newz/newz/168.m3u8?|Referer=https://slapstreams.com/",
+            "title": "AWAY CAM.",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/03/18 01:50:00 +0000",
+          "eventName": "Montréal Canadiens vs Boston Bruins",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/03/17 23:00:00 +0000",
+          "teamA": "Canadiens",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3690/image",
+          "teamB": "Bruins",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3677/image"
+        },
+        "id": "387",
+        "image": "o",
+        "publish": "1",
+        "title": "Canadiens vs Boston Bruins"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "NHL",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://pfl7.zenithstellar.space/playlist/47341/load-playlist?|Referer=https://gooz.aapmains.net",
+            "title": "SPORTIFy NHL",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://mainstreams.pro/hls/lmdsjkfgv52.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://instreams.pro/US/NHL3/index.m3u8?st=SportzX|Referer=https://instreams.click/&Origin=https://instreams.click",
+            "title": "HD SERVER",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://webcast-cdn.b-cdn.net/newz/newz/175.m3u8?|Referer=https://slapstreams.com/",
+            "title": "HOME CAM.",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://webcast-cdn.b-cdn.net/newz/newz/95.m3u8?|Referer=https://slapstreams.com/",
+            "title": "AWAY CAM.",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/03/18 01:50:00 +0000",
+          "eventName": "Toronto Maple Leafs vs New York Islanders",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/03/17 23:00:00 +0000",
+          "teamA": "Maple Leafs",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3693/image",
+          "teamB": "Islanders",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3703/image"
+        },
+        "id": "388",
+        "image": "o",
+        "publish": "1",
+        "title": "Maple Leafs vs New York Islanders"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "NHL",
+        "channels_data": [
+          {
+            "api": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f",
+            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
+            "title": "PREMIER SPORTS",
+            "type": "1"
+          },
+          {
+            "api": "",
+            "link": "https://mainstreams.pro/hls/rtzaeyvhb53.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://instreams.pro/US/NHL4/index.m3u8?st=SportzX|Referer=https://instreams.click/&Origin=https://instreams.click",
+            "title": "HD SERVER",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://webcast-cdn.b-cdn.net/newz/newz/104.m3u8?|Referer=https://slapstreams.com/",
+            "title": "HOME CAM.",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://webcast-cdn.b-cdn.net/newz/newz/89.m3u8?|Referer=https://slapstreams.com/",
+            "title": "AWAY CAM.",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/03/18 02:00:00 +0000",
+          "eventName": "Chicago Blackhawks vs Minnesota Wild",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/03/17 23:30:00 +0000",
+          "teamA": "Blackhawks",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3681/image",
+          "teamB": "Wild",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3689/image"
+        },
+        "id": "389",
+        "image": "o",
+        "publish": "1",
+        "title": "Chicago Blackhawks vs Minnesota Wild"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "NHL",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://mainstreams.pro/hls/bnvcxwhfg54.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://instreams.pro/US/NHL5/index.m3u8?st=SportzX|Referer=https://instreams.click/&Origin=https://instreams.click",
+            "title": "HD SERVER",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://webcast-cdn.b-cdn.net/newz/newz/84.m3u8?|Referer=https://slapstreams.com/",
+            "title": "HOME CAM.",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://webcast-cdn.b-cdn.net/newz/newz/99.m3u8?|Referer=https://slapstreams.com/",
+            "title": "AWAY CAM.",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/03/18 02:50:00 +0000",
+          "eventName": "Winnipeg Jets vs Nashville Predators",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/03/18 00:00:00 +0000",
+          "teamA": "Jets",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3676/image",
+          "teamB": "Predators",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3705/image"
+        },
+        "id": "390",
+        "image": "o",
+        "publish": "1",
+        "title": "Winnipeg Jets vs Nashville Predators"
       },
       {
         "adsLimit": "0",
