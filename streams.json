@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-03-17T11:50:24.974688",
+  "last_updated": "2026-03-17T12:00:42.091665",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "05:15:24 PM 17-03-2026",
+    "Last update time": "05:25:22 PM 17-03-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -492,7 +492,7 @@
           }
         ],
         "eventInfo": {
-          "endTime": "2026/03/16 16:00:00 +0000",
+          "endTime": "2026/03/18 16:00:00 +0000",
           "eventName": "ISL vs ISL",
           "eventType": "null",
           "isHot": "0",
@@ -551,6 +551,114 @@
         "image": "o",
         "publish": "1",
         "title": "New Zealand vs South Africa"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "NBA",
+        "channels_data": [
+          {
+            "api": "c4088f5f265f9de50cffd80bf89308b7:2c4d2239d96d532b4ec2050653611003",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
+            "title": "TSN SPORTS",
+            "type": "1"
+          },
+          {
+            "api": "",
+            "link": "https://pl2.wecanfix3.space/playlist/47336/load-playlist?|Referer=https://gooz.aapmains.net",
+            "title": "SPORTIFy NBA",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://mainstreams.pro/hls/mlkijfezag65.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://instreams.pro/US/NBA1/index.m3u8?st=SportzX|Referer=https://instreams.click/&Origin=https://instreams.click",
+            "title": "HD SERVER",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://smarthard.click/hls/cbf3PwTr7B1A/index.m3u8",
+            "title": "SD SERVER",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://mainstreams.pro/hls/mlkijfezag65.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+            "title": "SPY CAM.",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/03/18 01:30:00 +0000",
+          "eventName": "Charlotte Hornets vs Miami Heat",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/03/17 23:00:00 +0000",
+          "teamA": "Hornets",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3430/image",
+          "teamB": "Heat",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3435/image"
+        },
+        "id": "373",
+        "image": "o",
+        "publish": "1",
+        "title": "Charlotte Hornets vs Miami Heat"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "NBA",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://pfl2.orbitorbit.space/playlist/47337/load-playlist?|Referer=https://gooz.aapmains.net",
+            "title": "SPORTIFy NBA",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://mainstreams.pro/hls/wfazgsqtrezu66.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://instreams.pro/US/NBA2/index.m3u8?st=SportzX|Referer=https://instreams.click/&Origin=https://instreams.click",
+            "title": "HD SERVER",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://smarthard.click/hls/z1Lb4SbqsIWU/index.m3u8",
+            "title": "SD SERVER",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://mainstreams.pro/hls/wfazgsqtrezu66.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+            "title": "SPY CAM.",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/03/18 01:30:00 +0000",
+          "eventName": "Orlando Magic vs Oklahoma City Thunder",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/03/17 23:00:00 +0000",
+          "teamA": "Magic",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3437/image",
+          "teamB": "Thunder",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3418/image"
+        },
+        "id": "374",
+        "image": "o",
+        "publish": "1",
+        "title": "Orlando Magic vs Thunder"
       },
       {
         "adsLimit": "0",
