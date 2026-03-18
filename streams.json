@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-03-18T04:10:22.057875",
+  "last_updated": "2026-03-18T04:20:20.420260",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "09:35:18 AM 18-03-2026",
+    "Last update time": "09:45:22 AM 18-03-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -843,7 +843,7 @@
           }
         ],
         "eventInfo": {
-          "endTime": "2026/03/19 02:00:00 +0000",
+          "endTime": "2026/03/19 02:30:00 +0000",
           "eventName": "New Orleans Pelicans vs Los Angeles Clippers",
           "eventType": "null",
           "isHot": "0",
@@ -856,7 +856,7 @@
         "id": "378",
         "image": "o",
         "publish": "1",
-        "title": "Timberwolves vs Phoenix Suns"
+        "title": "Pelicans vs Los Angeles Clippers"
       },
       {
         "adsLimit": "0",
@@ -1029,20 +1029,20 @@
           }
         ],
         "eventInfo": {
-          "endTime": "2026/03/18 01:30:00 +0000",
-          "eventName": "Columbus Blue Jackets vs Carolina Hurricanes",
+          "endTime": "2026/03/19 01:50:00 +0000",
+          "eventName": "Carolina Hurricanes vs Pittsburgh Penguins",
           "eventType": "null",
           "isHot": "0",
-          "startTime": "2026/03/17 23:00:00 +0000",
-          "teamA": "Blue Jackets",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3683/image",
-          "teamB": "Hurricanes",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3680/image"
+          "startTime": "2026/03/18 23:00:00 +0000",
+          "teamA": "Hurricanes",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3680/image",
+          "teamB": "Penguins",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3697/image"
         },
         "id": "386",
         "image": "o",
         "publish": "1",
-        "title": "Blue Jackets vs Carolina Hurricanes"
+        "title": "Carolina Hurricanes vs Pittsburgh Penguins"
       },
       {
         "adsLimit": "0",
@@ -1086,20 +1086,20 @@
           }
         ],
         "eventInfo": {
-          "endTime": "2026/03/18 01:50:00 +0000",
-          "eventName": "Montréal Canadiens vs Boston Bruins",
+          "endTime": "2026/03/19 01:50:00 +0000",
+          "eventName": "New York Rangers vs New Jersey Devils",
           "eventType": "null",
           "isHot": "0",
-          "startTime": "2026/03/17 23:00:00 +0000",
-          "teamA": "Canadiens",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3690/image",
-          "teamB": "Bruins",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3677/image"
+          "startTime": "2026/03/18 23:00:00 +0000",
+          "teamA": "Rangers",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3701/image",
+          "teamB": "Devils",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3704/image"
         },
         "id": "387",
         "image": "o",
         "publish": "1",
-        "title": "Canadiens vs Boston Bruins"
+        "title": "Rangers vs New Jersey Devils"
       },
       {
         "adsLimit": "0",
@@ -1137,20 +1137,20 @@
           }
         ],
         "eventInfo": {
-          "endTime": "2026/03/18 01:50:00 +0000",
-          "eventName": "Toronto Maple Leafs vs New York Islanders",
+          "endTime": "2026/03/19 02:20:00 +0000",
+          "eventName": "Washington Capitals vs Ottawa Senators",
           "eventType": "null",
           "isHot": "0",
-          "startTime": "2026/03/17 23:00:00 +0000",
-          "teamA": "Maple Leafs",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3693/image",
-          "teamB": "Islanders",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3703/image"
+          "startTime": "2026/03/18 23:30:00 +0000",
+          "teamA": "Capitals",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3691/image",
+          "teamB": "Senators",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3700/image"
         },
         "id": "388",
         "image": "o",
         "publish": "1",
-        "title": "Maple Leafs vs New York Islanders"
+        "title": "Washington Capitals vs Ottawa Senators"
       },
       {
         "adsLimit": "0",
@@ -1188,20 +1188,20 @@
           }
         ],
         "eventInfo": {
-          "endTime": "2026/03/18 02:00:00 +0000",
-          "eventName": "Chicago Blackhawks vs Minnesota Wild",
+          "endTime": "2026/03/19 04:20:00 +0000",
+          "eventName": "Calgary Flames vs St. Louis Blues",
           "eventType": "null",
           "isHot": "0",
-          "startTime": "2026/03/17 23:30:00 +0000",
-          "teamA": "Blackhawks",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3681/image",
-          "teamB": "Wild",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3689/image"
+          "startTime": "2026/03/19 01:30:00 +0000",
+          "teamA": "Flames",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3679/image",
+          "teamB": "Blues",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3695/image"
         },
         "id": "389",
         "image": "o",
         "publish": "1",
-        "title": "Chicago Blackhawks vs Minnesota Wild"
+        "title": "Calgary Flames vs St. Louis Blues"
       },
       {
         "adsLimit": "0",
@@ -1245,20 +1245,20 @@
           }
         ],
         "eventInfo": {
-          "endTime": "2026/03/18 02:50:00 +0000",
-          "eventName": "Winnipeg Jets vs Nashville Predators",
+          "endTime": "2026/03/19 04:00:00 +0000",
+          "eventName": "Colorado Avalanche vs Dallas Stars",
           "eventType": "null",
           "isHot": "0",
-          "startTime": "2026/03/18 00:00:00 +0000",
-          "teamA": "Jets",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3676/image",
-          "teamB": "Predators",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3705/image"
+          "startTime": "2026/03/19 01:30:00 +0000",
+          "teamA": "Avalanche",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3682/image",
+          "teamB": "Stars",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3684/image"
         },
         "id": "390",
         "image": "o",
         "publish": "1",
-        "title": "Winnipeg Jets vs Nashville Predators"
+        "title": "Colorado Avalanche vs Dallas Stars"
       },
       {
         "adsLimit": "0",
@@ -1290,20 +1290,20 @@
           }
         ],
         "eventInfo": {
-          "endTime": "2026/03/18 03:50:00 +0000",
-          "eventName": "Edmonton Oilers vs San Jose Sharks",
+          "endTime": "2026/03/19 04:50:00 +0000",
+          "eventName": "Anaheim Ducks vs Philadelphia Flyers",
           "eventType": "null",
           "isHot": "0",
-          "startTime": "2026/03/18 01:00:00 +0000",
-          "teamA": "Oilers",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3686/image",
-          "teamB": "Sharks",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3696/image"
+          "startTime": "2026/03/19 02:00:00 +0000",
+          "teamA": "Ducks",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3675/image",
+          "teamB": "Flyers",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3699/image"
         },
         "id": "391",
         "image": "o",
         "publish": "1",
-        "title": "Edmonton Oilers vs San Jose Sharks"
+        "title": "Anaheim Ducks vs Philadelphia Flyers"
       },
       {
         "adsLimit": "0",
@@ -1478,6 +1478,39 @@
         "image": "o",
         "publish": "1",
         "title": "Cruz Azul vs CF Monterrey"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "UCL",
+        "channels_data": [
+          {
+            "api": "5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd",
+            "title": "FOX SPORTS FHD",
+            "type": "1"
+          },
+          {
+            "api": "",
+            "link": "https://cors-proxy.cooks.fyi/https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8",
+            "title": "TUDN USA",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/03/18 19:45:00 +0000",
+          "eventName": "Barcelona vs Newcastle United",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/03/18 17:45:00 +0000",
+          "teamA": "Barcelona",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2817/image",
+          "teamB": "Newcastle",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/39/image"
+        },
+        "id": "397",
+        "image": "o",
+        "publish": "1",
+        "title": "Barcelona vs Newcastle United"
       }
     ]
   }
