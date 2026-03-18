@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-03-18T05:50:24.959485",
+  "last_updated": "2026-03-18T06:00:40.439096",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "11:15:24 AM 18-03-2026",
+    "Last update time": "11:25:16 AM 18-03-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -243,11 +243,11 @@
           }
         ],
         "eventInfo": {
-          "endTime": "2026/03/17 02:30:00 +0000",
+          "endTime": "2026/03/24 02:30:00 +0000",
           "eventName": "🥊 WWE Monday Night RAW",
           "eventType": "null",
           "isHot": "0",
-          "startTime": "2026/03/17 00:00:00 +0000",
+          "startTime": "2026/03/24 00:00:00 +0000",
           "teamA": "WWE",
           "teamAFlag": "https://images2.minutemediacdn.com/image/upload/c_crop,w_1920,h_1080,x_0,y_0/c_fill,w_1080,ar_16:9,f_auto,q_auto,g_auto/images%2FvoltaxMediaLibrary%2Fmmsport%2Fwrestling_on_fannation%2F01j7cr769n5sz41833rh.jpg",
           "teamB": "WWE",
@@ -327,11 +327,11 @@
           }
         ],
         "eventInfo": {
-          "endTime": "2026/03/18 02:30:00 +0000",
+          "endTime": "2026/03/25 02:30:00 +0000",
           "eventName": "🥊 WWE NXT",
           "eventType": "null",
           "isHot": "0",
-          "startTime": "2026/03/18 01:00:00 +0000",
+          "startTime": "2026/03/25 01:00:00 +0000",
           "teamA": "NXT",
           "teamAFlag": "https://www.wwe.com/f/styles/wwe_show_logo_sm/public/all/2024/10/NXTonCW--0f06792893241464479338f55596a5bf.png",
           "teamB": "NXT",
@@ -429,11 +429,11 @@
           }
         ],
         "eventInfo": {
-          "endTime": "2026/03/17 05:15:00 +0000",
+          "endTime": "2026/03/20 05:15:00 +0000",
           "eventName": "New Zealand W vs South Africa W",
           "eventType": "null",
           "isHot": "0",
-          "startTime": "2026/03/17 01:45:00 +0000",
+          "startTime": "2026/03/20 01:45:00 +0000",
           "teamA": "NZ-W",
           "teamAFlag": "https://img.sofascore.com/api/v1/team/213115/image",
           "teamB": "SA-W",
@@ -492,11 +492,11 @@
           }
         ],
         "eventInfo": {
-          "endTime": "2026/03/18 16:00:00 +0000",
+          "endTime": "2026/03/19 16:00:00 +0000",
           "eventName": "ISL vs ISL",
           "eventType": "null",
           "isHot": "0",
-          "startTime": "2026/03/18 14:00:00 +0000",
+          "startTime": "2026/03/19 14:00:00 +0000",
           "teamA": "ISL",
           "teamAFlag": "https://images.fancode.com/skillup-uploads/cms-media/ISL-Tour-Logo.png",
           "teamB": "ISL",
@@ -537,11 +537,11 @@
           }
         ],
         "eventInfo": {
-          "endTime": "2026/03/17 09:45:00 +0000",
+          "endTime": "2026/03/20 09:45:00 +0000",
           "eventName": "New Zealand vs South Africa",
           "eventType": "null",
           "isHot": "0",
-          "startTime": "2026/03/17 06:15:00 +0000",
+          "startTime": "2026/03/20 06:15:00 +0000",
           "teamA": "NZ",
           "teamAFlag": "https://img.sofascore.com/api/v1/team/187755/image",
           "teamB": "SA",
@@ -947,6 +947,51 @@
         "image": "o",
         "publish": "1",
         "title": "Memphis Grizzlies vs Denver Nuggets"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "NBA",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://mainstreams.pro/hls/mlkijfezag65.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://instreams.pro/US/NBA1/index.m3u8?st=SportzX|Referer=https://instreams.click/&Origin=https://instreams.click",
+            "title": "HD SERVER",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://smarthard.click/hls/cbf3PwTr7B1A/index.m3u8",
+            "title": "SD SERVER",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://mainstreams.pro/hls/mlkijfezag65.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+            "title": "SPY CAM.",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/03/19 04:00:00 +0000",
+          "eventName": "Houston Rockets vs Los Angeles Lakers",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/03/19 01:30:00 +0000",
+          "teamA": "Rockets",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3412/image",
+          "teamB": "Lakers",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3427/image"
+        },
+        "id": "381",
+        "image": "o",
+        "publish": "1",
+        "title": "Houston Rockets vs Los Angeles Lakers"
       },
       {
         "adsLimit": "0",
