@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-03-18T04:30:33.186735",
+  "last_updated": "2026-03-18T04:40:21.776436",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "09:55:20 AM 18-03-2026",
+    "Last update time": "10:05:16 AM 18-03-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -1736,15 +1736,21 @@
         "cat": "Brasileirão",
         "channels_data": [
           {
-            "api": "332f62eb3cae824e98a4124da29a7d31:d1698cda3d040f9051125a61745b596b",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/1obktrybht/out/v1/08265453c8f64d9fbeb3cf43764403a8/cenc.mpd",
-            "title": "PREMIERER BR",
+            "api": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f",
+            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
+            "title": "PREMIER SPORTS",
             "type": "1"
           },
           {
             "api": "4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733",
             "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd",
             "title": "SporTV BR",
+            "type": "1"
+          },
+          {
+            "api": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
+            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
+            "title": "SportDigital Fussball",
             "type": "1"
           }
         ],
@@ -1763,6 +1769,93 @@
         "image": "o",
         "publish": "1",
         "title": "Palmeiras vs Botafogo"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "Brasileirão",
+        "channels_data": [
+          {
+            "api": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
+            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
+            "title": "SportDigital Fussball",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/03/19 02:30:00 +0000",
+          "eventName": "Santos vs Internacional",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/03/19 00:30:00 +0000",
+          "teamA": "Santos",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/1968/image",
+          "teamB": "Internacional",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/1966/image"
+        },
+        "id": "404",
+        "image": "o",
+        "publish": "1",
+        "title": "Santos vs Internacional"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "Super Lig",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/03/18 15:00:00 +0000",
+          "eventName": "Alanyaspor vs Kocaelispor",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/03/18 13:00:00 +0000",
+          "teamA": "Alanyaspor",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/6362/image",
+          "teamB": "Kocaelispor",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3065/image"
+        },
+        "id": "405",
+        "image": "o",
+        "publish": "1",
+        "title": "Alanyaspor vs Kocaelispor"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "Super Lig",
+        "channels_data": [
+          {
+            "api": "96b67fa09140329a89b7a1ead134eda3:c618d32c56cdc6cad8330eb98507ca3f",
+            "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-east)/master.mpd",
+            "title": "NBC SPORTS FHD",
+            "type": "1"
+          },
+          {
+            "api": "",
+            "link": "https://play.ltwxsc.com/live/sd-6MvZ6LvxbZJGfpmnAS.m3u8?txSecret=658d2fdbfa00cfa6e6ffff626c813024&txTime=69B76164",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/03/18 19:00:00 +0000",
+          "eventName": "Başakşehir vs Antalyaspor",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/03/18 17:00:00 +0000",
+          "teamA": "Başakşehir",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3086/image",
+          "teamB": "Antalyaspor",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3056/image"
+        },
+        "id": "406",
+        "image": "o",
+        "publish": "1",
+        "title": "Başakşehir vs Antalyaspor"
       }
     ]
   }
