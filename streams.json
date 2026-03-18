@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-03-18T04:00:41.823353",
+  "last_updated": "2026-03-18T04:10:22.057875",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "09:30:38 AM 18-03-2026",
+    "Last update time": "09:35:18 AM 18-03-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -588,20 +588,20 @@
           }
         ],
         "eventInfo": {
-          "endTime": "2026/03/18 01:30:00 +0000",
-          "eventName": "Charlotte Hornets vs Miami Heat",
+          "endTime": "2026/03/19 01:30:00 +0000",
+          "eventName": "Boston Celtics vs Golden State Warriors",
           "eventType": "null",
           "isHot": "0",
-          "startTime": "2026/03/17 23:00:00 +0000",
-          "teamA": "Hornets",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3430/image",
-          "teamB": "Heat",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3435/image"
+          "startTime": "2026/03/18 23:00:00 +0000",
+          "teamA": "Celtics",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3422/image",
+          "teamB": "Warriors",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3428/image"
         },
         "id": "373",
         "image": "o",
         "publish": "1",
-        "title": "Charlotte Hornets vs Miami Heat"
+        "title": "Boston Celtics vs Warriors"
       },
       {
         "adsLimit": "0",
@@ -639,20 +639,20 @@
           }
         ],
         "eventInfo": {
-          "endTime": "2026/03/18 01:30:00 +0000",
-          "eventName": "Orlando Magic vs Oklahoma City Thunder",
+          "endTime": "2026/03/19 02:00:00 +0000",
+          "eventName": "Brooklyn Nets vs Oklahoma City Thunder",
           "eventType": "null",
           "isHot": "0",
-          "startTime": "2026/03/17 23:00:00 +0000",
-          "teamA": "Magic",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3437/image",
+          "startTime": "2026/03/18 23:30:00 +0000",
+          "teamA": "Nets",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3436/image",
           "teamB": "Thunder",
           "teamBFlag": "https://img.sofascore.com/api/v1/team/3418/image"
         },
         "id": "374",
         "image": "o",
         "publish": "1",
-        "title": "Orlando Magic vs Thunder"
+        "title": "Brooklyn Nets vs Thunder"
       },
       {
         "adsLimit": "0",
@@ -690,20 +690,20 @@
           }
         ],
         "eventInfo": {
-          "endTime": "2026/03/18 01:30:00 +0000",
-          "eventName": "Washington Wizards vs Detroit Pistons",
+          "endTime": "2026/03/19 02:00:00 +0000",
+          "eventName": "Indiana Pacers vs Portland Trail Blazers",
           "eventType": "null",
           "isHot": "0",
-          "startTime": "2026/03/17 23:00:00 +0000",
-          "teamA": "Wizards",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3431/image",
-          "teamB": "Pistons",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3424/image"
+          "startTime": "2026/03/18 23:30:00 +0000",
+          "teamA": "Pacers",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3419/image",
+          "teamB": "Trail Blazers",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3414/image"
         },
         "id": "375",
         "image": "o",
         "publish": "1",
-        "title": "Wizards vs Detroit Pistons"
+        "title": "Indiana Pacers vs Trail Blazers"
       },
       {
         "adsLimit": "0",
@@ -741,20 +741,20 @@
           }
         ],
         "eventInfo": {
-          "endTime": "2026/03/18 02:00:00 +0000",
-          "eventName": "New York Knicks vs Indiana Pacers",
+          "endTime": "2026/03/19 02:30:00 +0000",
+          "eventName": "Chicago Bulls vs Toronto Raptors",
           "eventType": "null",
           "isHot": "0",
-          "startTime": "2026/03/17 23:30:00 +0000",
-          "teamA": "Knicks",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3421/image",
-          "teamB": "Pacers",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3419/image"
+          "startTime": "2026/03/19 00:00:00 +0000",
+          "teamA": "Bulls",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3409/image",
+          "teamB": "Raptors",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3433/image"
         },
         "id": "376",
         "image": "o",
         "publish": "1",
-        "title": "New York Knicks vs Indiana Pacers"
+        "title": "Chicago Bulls vs Toronto Raptors"
       },
       {
         "adsLimit": "0",
@@ -792,20 +792,20 @@
           }
         ],
         "eventInfo": {
-          "endTime": "2026/03/18 02:30:00 +0000",
-          "eventName": "Milwaukee Bucks vs Cleveland Cavaliers",
+          "endTime": "2026/03/19 02:30:00 +0000",
+          "eventName": "Minnesota Timberwolves vs Utah Jazz",
           "eventType": "null",
           "isHot": "0",
-          "startTime": "2026/03/18 00:00:00 +0000",
-          "teamA": "Bucks",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3410/image",
-          "teamB": "Cavaliers",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3432/image"
+          "startTime": "2026/03/19 00:00:00 +0000",
+          "teamA": "Timberwolves",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3426/image",
+          "teamB": "Jazz",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3434/image"
         },
         "id": "377",
         "image": "o",
         "publish": "1",
-        "title": "Bucks vs Cleveland Cavaliers"
+        "title": "Minnesota Timberwolves vs Utah Jazz"
       },
       {
         "adsLimit": "0",
@@ -843,15 +843,15 @@
           }
         ],
         "eventInfo": {
-          "endTime": "2026/03/18 02:30:00 +0000",
-          "eventName": "Minnesota Timberwolves vs Phoenix Suns",
+          "endTime": "2026/03/19 02:00:00 +0000",
+          "eventName": "New Orleans Pelicans vs Los Angeles Clippers",
           "eventType": "null",
           "isHot": "0",
-          "startTime": "2026/03/18 00:00:00 +0000",
-          "teamA": "Timberwolves",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3426/image",
-          "teamB": "Suns",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3416/image"
+          "startTime": "2026/03/19 00:00:00 +0000",
+          "teamA": "Pelicans",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/5539/image",
+          "teamB": "Clippers",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3425/image"
         },
         "id": "378",
         "image": "o",
@@ -1439,6 +1439,45 @@
         "image": "o",
         "publish": "1",
         "title": "Golden Knights vs Buffalo Sabres"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "CONCACAF Cup 🇺🇸",
+        "channels_data": [
+          {
+            "api": "5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd",
+            "title": "FOX SPORTS FHD",
+            "type": "1"
+          },
+          {
+            "api": "",
+            "link": "https://cors-proxy.cooks.fyi/https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8",
+            "title": "TUDN USA",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://play.ltwxsc.com/live/hd-en-6Mwd5eGUXSdd93QzCE.m3u8?txSecret=8052970143e1a767a42a6bd7ec3f72f4&txTime=69BA4D7A",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/03/18 05:00:00 +0000",
+          "eventName": "Cruz Azul vs CF Monterrey",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/03/18 03:00:00 +0000",
+          "teamA": "Cruz Azul",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/1947/image",
+          "teamB": "Monterrey",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/1932/image"
+        },
+        "id": "396",
+        "image": "o",
+        "publish": "1",
+        "title": "Cruz Azul vs CF Monterrey"
       }
     ]
   }
