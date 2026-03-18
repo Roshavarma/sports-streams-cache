@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-03-18T04:40:21.776436",
+  "last_updated": "2026-03-18T04:50:24.281860",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "10:05:16 AM 18-03-2026",
+    "Last update time": "10:15:25 AM 18-03-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -950,51 +950,6 @@
       },
       {
         "adsLimit": "0",
-        "cat": "NBA",
-        "channels_data": [
-          {
-            "api": "",
-            "link": "https://mainstreams.pro/hls/mlkijfezag65.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
-            "title": "SPORTIFy Live",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://instreams.pro/US/NBA1/index.m3u8?st=SportzX|Referer=https://instreams.click/&Origin=https://instreams.click",
-            "title": "HD SERVER",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://smarthard.click/hls/cbf3PwTr7B1A/index.m3u8",
-            "title": "SD SERVER",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://mainstreams.pro/hls/mlkijfezag65.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-            "title": "SPY CAM.",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/03/19 04:00:00 +0000",
-          "eventName": "Houston Rockets vs Los Angeles Lakers",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/03/19 01:30:00 +0000",
-          "teamA": "Rockets",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3412/image",
-          "teamB": "Lakers",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3427/image"
-        },
-        "id": "381",
-        "image": "o",
-        "publish": "1",
-        "title": "Houston Rockets vs Lakers"
-      },
-      {
-        "adsLimit": "0",
         "cat": "Kings Cup",
         "channels_data": [
           {
@@ -1829,14 +1784,8 @@
         "cat": "Super Lig",
         "channels_data": [
           {
-            "api": "96b67fa09140329a89b7a1ead134eda3:c618d32c56cdc6cad8330eb98507ca3f",
-            "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-east)/master.mpd",
-            "title": "NBC SPORTS FHD",
-            "type": "1"
-          },
-          {
             "api": "",
-            "link": "https://play.ltwxsc.com/live/sd-6MvZ6LvxbZJGfpmnAS.m3u8?txSecret=658d2fdbfa00cfa6e6ffff626c813024&txTime=69B76164",
+            "link": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4",
             "title": "SPORTIFy Live",
             "type": "0"
           }
@@ -1856,6 +1805,33 @@
         "image": "o",
         "publish": "1",
         "title": "Başakşehir vs Antalyaspor"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "Super Lig",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://raw.githubusercontent.com/TOUFIK2256/Feildfever/main/VN20251203_010347.mp4",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/03/18 19:00:00 +0000",
+          "eventName": "Eyüpspor vs Trabzonspor",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/03/18 17:00:00 +0000",
+          "teamA": "Eyüpspor",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/7040/image",
+          "teamB": "Trabzonspor",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3051/image"
+        },
+        "id": "407",
+        "image": "o",
+        "publish": "1",
+        "title": "Eyüpspor vs Trabzonspor"
       }
     ]
   }
