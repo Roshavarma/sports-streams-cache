@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-18T20:00:42.184171",
+  "last_updated": "2026-03-18T20:10:23.251518",
   "event_count": 11,
   "events": [
     {
@@ -116,6 +116,20 @@
           "tokenApi": ""
         },
         {
+          "api": "",
+          "link": "https://wnt-geting-002.transmisjana.digital/d133fbcf3c714f38aa1b520002324267.m3u8|origin=https://hmembeds.one&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
+          "name": "TNT SPORTS FHD",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://red9.lumenlyra.space/playlist/47407/load-playlist?|Referer=https://gooz.aapmains.net",
+          "name": "TNT SPORTS HD",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
           "api": "3cfa8625f650406ebf6a4d1ea737f572:0534e747c70b364aa7210e1bf3191df0",
           "link": "https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw266117884_-1972819316/PLTV/86/224/3221241560/3221241560.mpd?accountinfo=~~V2.0~OhA1DF4svOZppKxb-t-Ngw144cce44121c63284a33d5453493e5c8~1_Fmlu5PevHMYnEi9Z_HX2goKAd0VHSuxZMoIcAXcawYvG1meqGp2eQ2Ibhjvh7e59e7f6df3d57f23a32024ad67f0f19dc:UTC,",
           "name": "ZIGGO SPORTS",
@@ -143,6 +157,20 @@
           "api": "1d96ab366bbe6451edf7407b58e2fa16:0116201f4a63ac5bf5787d2c610c41a7",
           "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5sxuux529k/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd",
           "name": "TNT SPORTS - AQ",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://wnt-geting-002.transmisjana.digital/a4bc75f227f940b6ad30d037e9d0ca27.m3u8|origin=https://hmembeds.one&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
+          "name": "TNT SPORTS FHD",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "cb705d43ec369891b851a078cabfac5c:fdfefad94eac611692a9e790f266ae4d",
+          "link": "https://cdn3.skygo.mn/live/disk1/SPSFight/STRM-CH2-1/SPSFight.mpd",
+          "name": "PSN SPORTS - AQ",
           "scheme": 0,
           "tokenApi": ""
         },
@@ -233,6 +261,27 @@
           "api": "294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b",
           "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd",
           "name": "TNT SPORTS - AQ",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "eb4d07aae30ceab28c1f6a41f64dd8b2:525c1cc9c936f31057s9s96�\b47e2e9e",
+          "link": "https://otte.cache.aiv-cdn.net/gru-nitro/live/clients/dash/enc/5l2knhbdy7/out/v1/bd935b6a040443d8922f9b0b7a346866/cenc.mpd",
+          "name": "TNT BRASIL - AQ",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "cb705d43ec369891b851a078cabfac5c:fdfefad94eac611692o9S7<�6266ae4d",
+          "link": "https://cdn3.skygo.mn/live/disk1/SPSPlay/STRM-CH2-1/SPSPlay.mpd",
+          "name": "PSN SPORTS - AQ",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://storage.googleapis.com/erturugklutop2/mux_video_ts1/index-1.m3u8",
+          "name": "PARAMOUNT+ HD",
           "scheme": 0,
           "tokenApi": ""
         },
