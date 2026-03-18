@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-18T14:40:31.603253",
-  "event_count": 7,
+  "last_updated": "2026-03-18T14:50:33.637987",
+  "event_count": 10,
   "events": [
     {
       "category": "Boxing",
@@ -172,8 +172,18 @@
       "id": 26,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b",
+          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd",
+          "name": "TNT SPORTS - AQ",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "3cfa8625f650406ebf6a4d1ea737f572:0534e747c70b364aa7210e1bf3191df0",
+          "link": "https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw266117884_-1972819316/PLTV/86/224/3221241560/3221241560.mpd?accountinfo=~~V2.0~OhA1DF4svOZppKxb-t-Ngw144cce44121c63284a33d5453493e5c8~1_Fmlu5PevHMYnEi9Z_HX2goKAd0VHSuxZMoIcAXcawYvG1meqGp2eQ2Ibhjvh7e59e7f6df3d57f23a32024ad67f0f19dc:UTC,",
+          "name": "ZIGGO SPORTS",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/2999/image",
@@ -202,6 +212,69 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/3061/image",
       "teamBName": "Galatasaray",
       "time": "20:00:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "18/03/2026",
+      "end_date": "18/03/2026",
+      "end_time": "21:20:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/2058/image/dark",
+      "eventName": "King's Cup",
+      "id": 28,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/269199/image",
+      "teamAName": "Al-Kholood",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/34315/image",
+      "teamBName": "Al-Ittihad",
+      "time": "19:00:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "18/03/2026",
+      "end_date": "18/03/2026",
+      "end_time": "21:20:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/2058/image/dark",
+      "eventName": "King's Cup",
+      "id": 29,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/34469/image",
+      "teamAName": "Al-Ahli",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/21895/image",
+      "teamBName": "Al-Hilal",
+      "time": "19:00:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "18/03/2026",
+      "end_date": "18/03/2026",
+      "end_time": "22:05:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark",
+      "eventName": "Championship",
+      "id": 30,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/45/image",
+      "teamAName": "Southampton",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/263/image",
+      "teamBName": "Norwich City",
+      "time": "19:45:00",
       "visible": true
     }
   ]
