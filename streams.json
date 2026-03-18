@@ -1,13 +1,208 @@
 {
-  "last_updated": "2026-03-18T13:20:25.411779",
+  "last_updated": "2026-03-18T13:30:35.708048",
   "event_count": 7,
-  "events": {
-    "Action": "For reset your limit contact our support team",
-    "Application": "events",
-    "Message": "Daily API limit reached",
-    "Owner": "ivan-flux",
-    "Status": "limit exceeded",
-    "Support": "@iVan_flux",
-    "Telegram": "https://t.me/iVan_flux"
-  }
+  "events": [
+    {
+      "category": "Boxing",
+      "date": "21/03/2026",
+      "end_date": "21/03/2026",
+      "end_time": "06:00:00",
+      "eventLogo": "https://static.wikia.nocookie.net/wweuniverse/images/f/f6/Wwelogo.png/revision/latest?cb=20101124080717",
+      "eventName": "Friday Night SmackDown",
+      "id": 20,
+      "links": [
+        {
+          "api": "333962e3e1383529867a9a0e28a5e5d1:5d3fcbed53749ee622ed0e64f31c1cbf",
+          "link": "https://gg.poocloud.in/wrestling/index.m3u8|referer=https://ppv.to/&origin=https://ppv.to",
+          "name": "SP ",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "dadpremium343,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6",
+          "link": "https://red9.lumenlyra.space/playlist/36017/load-playlist?|Referer=https://gooz.aapmains.net",
+          "name": "SP - 2",
+          "scheme": 0,
+          "tokenApi": ""
+        }
+      ],
+      "teamAFlag": "https://assets.primesport.com/prod/images/Smackdown%202025%20Updated%20Logo.png",
+      "teamAName": "SmackDown",
+      "teamBFlag": "https://assets.primesport.com/prod/images/Smackdown%202025%20Updated%20Logo.png",
+      "teamBName": "SmackDown",
+      "time": "01:00:00",
+      "visible": true
+    },
+    {
+      "category": "Motorsports",
+      "date": "27/03/2026",
+      "end_date": "",
+      "end_time": "",
+      "eventLogo": "https://access-control-center-prod.freevision.live/ss/category/36.png",
+      "eventName": "Formula1 - Bahrain Test",
+      "id": 22,
+      "links": [
+        {
+          "api": "",
+          "link": "https://stream.huraweb.com/embed_view.php?id=75ea48132cd87cee",
+          "name": "Sky Sports - IOS",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "2fbdaa3bea0d0323ae011b318d1db716:8726ef7eaf5b9dce15fb6aa9f80bd53f",
+          "link": "https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oboxe53wyo/out/v1/f7892a9d706d419a846d738fa22ea33e/cenc.mpd",
+          "name": "Fox Sports - AQ",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://smarthard.click/hls/91LHlS9qZPK5/index.m3u8",
+          "name": "Sky F1 SD",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://stream.huraweb.com/embed_view.php?id=b3fa79aa26476de9",
+          "name": "Sky F1 HD - IOS",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://stream.huraweb.com/embed_view.php?id=a119bff323d5cdbb",
+          "name": "Sky Sports HD - IOS",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://smarthard.click/hls/07HL6dzqKCAr/index.m3u8",
+          "name": "Sky F1 DE",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe",
+          "link": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
+          "name": "Fancode AQ",
+          "scheme": 0,
+          "tokenApi": ""
+        }
+      ],
+      "teamAFlag": "https://access-control-center-prod.freevision.live/ss/category/36.png",
+      "teamAName": "Formula 1",
+      "teamBFlag": "https://access-control-center-prod.freevision.live/ss/category/36.png",
+      "teamBName": "Formula 1",
+      "time": "02:30:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "18/03/2026",
+      "end_date": "18/03/2026",
+      "end_time": "22:20:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/7/image/dark",
+      "eventName": "UEFA Champions League",
+      "id": 23,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2672/image",
+      "teamAName": "FC Bayern München",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2686/image",
+      "teamBName": "Atalanta",
+      "time": "20:00:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "18/03/2026",
+      "end_date": "18/03/2026",
+      "end_time": "22:20:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/7/image/dark",
+      "eventName": "UEFA Champions League",
+      "id": 24,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/33/image",
+      "teamAName": "Tottenham Hotspur",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2836/image",
+      "teamBName": "Atlético Madrid",
+      "time": "20:00:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "18/03/2026",
+      "end_date": "18/03/2026",
+      "end_time": "20:05:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/7/image/dark",
+      "eventName": "UEFA Champions League",
+      "id": 25,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2817/image",
+      "teamAName": "Barcelona",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/39/image",
+      "teamBName": "Newcastle United",
+      "time": "17:45:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "18/03/2026",
+      "end_date": "18/03/2026",
+      "end_time": "17:50:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/679/image/dark",
+      "eventName": "UEFA Europa League",
+      "id": 26,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2999/image",
+      "teamAName": "Sporting Braga",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/1925/image",
+      "teamBName": "Ferencváros TC",
+      "time": "15:30:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "18/03/2026",
+      "end_date": "18/03/2026",
+      "end_time": "22:20:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/7/image/dark",
+      "eventName": "UEFA Champions League",
+      "id": 27,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/44/image",
+      "teamAName": "Liverpool",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3061/image",
+      "teamBName": "Galatasaray",
+      "time": "20:00:00",
+      "visible": true
+    }
+  ]
 }
