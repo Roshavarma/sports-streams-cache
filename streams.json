@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-03-18T03:50:18.861167",
+  "last_updated": "2026-03-18T04:00:41.823353",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "09:15:23 AM 18-03-2026",
+    "Last update time": "09:30:38 AM 18-03-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -1439,111 +1439,6 @@
         "image": "o",
         "publish": "1",
         "title": "Golden Knights vs Buffalo Sabres"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "World Baseball Classic",
-        "channels_data": [
-          {
-            "api": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
-            "title": "FOX DEPORTES",
-            "type": "1"
-          },
-          {
-            "api": "",
-            "link": "https://red5.boostaether.shop/playlist/47375/load-playlist|Referer=https://gooz.aapmains.net/",
-            "title": "SPORTIFy Live",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "http://195.178.110.37/hls/gggg.m3u8|Referer=http://www.fawanews.sc/",
-            "title": "SD SERVER",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/03/18 02:30:00 +0000",
-          "eventName": "USA vs Venezuela",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/03/18 00:00:00 +0000",
-          "teamA": "USA",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/34392/image",
-          "teamB": "Venezuela",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/34394/image"
-        },
-        "id": "396",
-        "image": "o",
-        "publish": "1",
-        "title": "USA vs Venezuela"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "CONCACAF Cup 🇺🇸",
-        "channels_data": [
-          {
-            "api": "5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd",
-            "title": "FOX SPORTS FHD",
-            "type": "1"
-          },
-          {
-            "api": "",
-            "link": "https://cors-proxy.cooks.fyi/https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8",
-            "title": "TUDN USA",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/03/18 03:00:00 +0000",
-          "eventName": "LD Alajuelense vs Los Angeles FC",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/03/18 01:00:00 +0000",
-          "teamA": "Alajuelense",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/6572/image",
-          "teamB": "Los Angeles",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/274650/image"
-        },
-        "id": "397",
-        "image": "o",
-        "publish": "1",
-        "title": "Alajuelense vs Los Angeles"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "CONCACAF Cup 🇺🇸",
-        "channels_data": [
-          {
-            "api": "5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd",
-            "title": "FOX SPORTS FHD",
-            "type": "1"
-          },
-          {
-            "api": "",
-            "link": "https://cors-proxy.cooks.fyi/https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8",
-            "title": "TUDN USA",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/03/18 05:00:00 +0000",
-          "eventName": "Cruz Azul vs CF Monterrey",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/03/18 03:00:00 +0000",
-          "teamA": "Cruz Azul",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/1947/image",
-          "teamB": "Monterrey",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/1932/image"
-        },
-        "id": "398",
-        "image": "o",
-        "publish": "1",
-        "title": "Cruz Azul vs CF Monterrey"
       }
     ]
   }
