@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-03-18T05:04:04.942953",
+  "last_updated": "2026-03-18T05:10:22.687343",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "10:25:18 AM 18-03-2026",
+    "Last update time": "10:35:20 AM 18-03-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -857,6 +857,96 @@
         "image": "o",
         "publish": "1",
         "title": "Pelicans vs Los Angeles Clippers"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "NBA",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://mainstreams.pro/hls/ztyarueaghj71.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://instreams.pro/US/NBA7/index.m3u8?st=SportzX|Referer=https://instreams.click/&Origin=https://instreams.click",
+            "title": "HD SERVER",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://smarthard.click/hls/0HGkn3IFDO/index.m3u8?",
+            "title": "SD SERVER",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://mainstreams.pro/hls/ztyarueaghj71.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+            "title": "SPY CAM.",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/03/19 03:00:00 +0000",
+          "eventName": "Dallas Mavericks vs Atlanta Hawks",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/03/19 00:30:00 +0000",
+          "teamA": "Mavericks",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3411/image",
+          "teamB": "Hawks",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3423/image"
+        },
+        "id": "379",
+        "image": "o",
+        "publish": "1",
+        "title": "Dallas Mavericks vs Atlanta Hawks"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "NBA",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://mainstreams.pro/hls/pllmazjkdzajh72.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://instreams.pro/US/NBA8/index.m3u8?st=SportzX|Referer=https://instreams.click/&Origin=https://instreams.click",
+            "title": "HD SERVER",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://smarthard.click/hls/kl434PVmNnx/index.m3u8",
+            "title": "SD SERVER",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://mainstreams.pro/hls/pllmazjkdzajh72.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+            "title": "SPY CAM.",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/03/19 03:00:00 +0000",
+          "eventName": "Memphis Grizzlies vs Denver Nuggets",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/03/19 00:30:00 +0000",
+          "teamA": "Grizzlies",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3415/image",
+          "teamB": "Nuggets",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3417/image"
+        },
+        "id": "380",
+        "image": "o",
+        "publish": "1",
+        "title": "Memphis Grizzlies vs Denver Nuggets"
       },
       {
         "adsLimit": "0",
