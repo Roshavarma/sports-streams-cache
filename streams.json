@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-19T16:40:25.249341",
+  "last_updated": "2026-03-19T16:50:25.661354",
   "event_count": 18,
   "events": [
     {
@@ -154,8 +154,11 @@
       "id": 36,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "",
+          "link": "https://raw.githubusercontent.com/xmrt624/lpootvs/refs/heads/main/beinarabic5.m3u8",
+          "name": "beIN Arabic",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/35268/image",
@@ -220,8 +223,25 @@
       "id": 39,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "f288380ca4cef9ad3f27a92a08e9bb8b:9f18d26291d9230833501f7f822f6875",
+          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd",
+          "name": "TNT SPORTS AQ",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://bbb.exoadash.com/TVD4076/index.mpd",
+          "name": "COSMOTE ",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://raw.githubusercontent.com/xmrt624/lpootvs/refs/heads/main/beinarabic3.m3u8",
+          "name": "beIN Arabic",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/1289/image",
@@ -241,8 +261,25 @@
       "id": 40,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "192b1115da041585c77200128549efa1:634e10efe4abbb14be400a3ccbac0258",
+          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/pnu10tp36z/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd",
+          "name": "TNT SPORTS AQ",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://bbb.exoadash.com/TVD4077/index.mpd",
+          "name": "COSMOTE ",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://raw.githubusercontent.com/xmrt624/lpootvs/refs/heads/main/beinarabic2.m3u8",
+          "name": "beIN Arabic",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/1649/image",
@@ -304,8 +341,11 @@
       "id": 43,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "",
+          "link": "https://bbb.exoadash.com/TVD4070/index.mpd",
+          "name": "COSMOTE ",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/3250/image",
@@ -346,8 +386,25 @@
       "id": 45,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "1d96ab366bbe6451edf7407b58e2fa16:0116201f4a63ac5bf5787d2c610c41a7",
+          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5sxuux529k/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd",
+          "name": "TNT SPORTS AQ",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://bbb.exoadash.com/TVD4074/index.mpd",
+          "name": "COSMOTE ",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://raw.githubusercontent.com/xmrt624/lpootvs/refs/heads/main/beinarabic4.m3u8",
+          "name": "beIN Arabic",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/3404/image",
@@ -398,8 +455,11 @@
       "id": 47,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
+          "link": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd",
+          "name": "Sport 1 AQ",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/2556/image",
