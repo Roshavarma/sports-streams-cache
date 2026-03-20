@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-20T18:30:39.616305",
+  "last_updated": "2026-03-20T18:31:36.754270",
   "event_count": 13,
   "events": [
     {
@@ -171,8 +171,11 @@
       "id": 27,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "",
+          "link": "https://bbb.exoadash.com/TVD2083/index.mpd",
+          "name": "Ligue1+ HD",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/1648/image",
