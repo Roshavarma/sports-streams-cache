@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-20T18:20:30.872242",
+  "last_updated": "2026-03-20T18:30:39.616305",
   "event_count": 13,
   "events": [
     {
@@ -147,8 +147,11 @@
       "id": 26,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "",
+          "link": "https://smarthard.click/hls/zk0Nc2A3VdSM/index.m3u8",
+          "name": "ESPN NL",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/2977/image",
@@ -314,8 +317,11 @@
       "id": 32,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "d69894c7b729c5d1e85893e5e6cfcb0f:db0d53f871f5d2ef91d3a112c7ec9f30",
+          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/tcninbbnt5/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd",
+          "name": "Laliga Hypermotion ES",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/24265/image",
@@ -377,8 +383,25 @@
       "id": 35,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "",
+          "link": "https://bbb.exoadash.com/TVD6412/index.mpd",
+          "name": "ELEVEN SPORTS",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://bbb.exoadash.com/TVD2709/index.mpd",
+          "name": "NOVA SPORTS",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://smarthard.click/hls/8r59wy2BRApK/index.m3u8",
+          "name": "SKY BUNDESLIGA SD",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/36360/image",
