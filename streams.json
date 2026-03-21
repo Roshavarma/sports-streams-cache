@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-21T14:40:20.774967",
-  "event_count": 19,
+  "last_updated": "2026-03-21T14:50:23.442726",
+  "event_count": 18,
   "events": [
     {
       "category": "Boxing",
@@ -159,44 +159,6 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/1715/image",
       "teamBName": "Stade Brestois",
       "time": "18:00:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "21/03/2026",
-      "end_date": "21/03/2026",
-      "end_time": "14:50:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/17/image/dark",
-      "eventName": "Premier League",
-      "id": 25,
-      "links": [
-        {
-          "api": "294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b",
-          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd",
-          "name": "TNT SPORTS - AQ",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://eventcdn02-nowe.akamaized.net/hls/CH621/index.m3u8",
-          "name": "NOW SPORTS PL",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://bbb.exoadash.com/TVD6219/index.mpd",
-          "name": "NOVA SPORTS PL",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/30/image",
-      "teamAName": "Brighton & Hove Albion",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/44/image",
-      "teamBName": "Liverpool",
-      "time": "12:30:00",
       "visible": true
     },
     {
@@ -614,9 +576,23 @@
           "tokenApi": ""
         },
         {
+          "api": "96b67fa09140329a89b7a1ead134eda3:c618d32c56cdc6cad8330eb98507ca3f",
+          "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-east)/master.mpd",
+          "name": "NBC UNIVERSO",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
           "api": "",
-          "link": "https://bbb.exoadash.com/TVD6219/index.mpd",
-          "name": "NOVA SPORTS PL",
+          "link": "https://chatgpt.hereisman.net/playlist/47629/load-playlist?|Referer=https://gooz.aapmains.net",
+          "name": "USA TV HD",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://live.uu6611.com/live/hd-en-1-4343327.m3u8?txSecret=f6ad896c7238047d60bbf2aea99de083&txTime=69BEF533|Referer=https://player.up909.com/",
+          "name": "FAST SERVER",
           "scheme": 0,
           "tokenApi": ""
         }
