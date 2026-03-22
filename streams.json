@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-22T19:10:21.159611",
-  "event_count": 12,
+  "last_updated": "2026-03-22T19:20:23.579978",
+  "event_count": 10,
   "events": [
     {
       "category": "Boxing",
@@ -97,37 +97,6 @@
       "teamBFlag": "https://access-control-center-prod.freevision.live/ss/category/36.png",
       "teamBName": "Formula 1",
       "time": "02:30:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "22/03/2026",
-      "end_date": "22/03/2026",
-      "end_time": "19:20:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/23/image/dark",
-      "eventName": "Serie A",
-      "id": 28,
-      "links": [
-        {
-          "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
-          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
-          "name": "beIN ENGLISH",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "2e94219c1fc838eeaa36ece916d78211:fc85a15c05cf2429338896a8d6df9da8",
-          "link": "https://r.e.blueonline.tv/l/tvsmart/live/eds/Eleven_Sport_1/D11/Manifest.mpd",
-          "name": "ELEVEN SPORTS",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2702/image",
-      "teamAName": "Roma",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2689/image",
-      "teamBName": "Lecce",
-      "time": "17:00:00",
       "visible": true
     },
     {
@@ -242,30 +211,6 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/2816/image",
       "teamBName": "Real Betis",
       "time": "17:30:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "22/03/2026",
-      "end_date": "22/03/2026",
-      "end_time": "19:20:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/242/image/dark",
-      "eventName": "MLS",
-      "id": 48,
-      "links": [
-        {
-          "api": "",
-          "link": "https://chatgpt.hereisman.net/playlist/47692/load-playlist?|Referer=https://gooz.aapmains.net",
-          "name": "HD SERVER ",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/187643/image",
-      "teamAName": "New York City FC",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/337602/image",
-      "teamBName": "Inter Miami CF",
-      "time": "17:00:00",
       "visible": true
     },
     {
