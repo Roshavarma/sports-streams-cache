@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-22T13:30:33.736152",
-  "event_count": 33,
+  "last_updated": "2026-03-22T13:40:28.984052",
+  "event_count": 31,
   "events": [
     {
       "category": "Boxing",
@@ -145,30 +145,6 @@
       "category": "Football",
       "date": "22/03/2026",
       "end_date": "22/03/2026",
-      "end_time": "13:35:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/37/image/dark",
-      "eventName": "VriendenLoterij Eredivisie",
-      "id": 25,
-      "links": [
-        {
-          "api": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
-          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
-          "name": "SportDigital Fussball",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2962/image",
-      "teamAName": "NEC Nijmegen",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2964/image",
-      "teamBName": "SC Heerenveen",
-      "time": "11:15:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "22/03/2026",
-      "end_date": "22/03/2026",
       "end_time": "14:50:00",
       "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/44/image/dark",
       "eventName": "2. Bundesliga",
@@ -302,44 +278,6 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/2699/image",
       "teamBName": "Lazio",
       "time": "14:00:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "22/03/2026",
-      "end_date": "22/03/2026",
-      "end_time": "13:50:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/23/image/dark",
-      "eventName": "Serie A",
-      "id": 32,
-      "links": [
-        {
-          "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
-          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
-          "name": "beIN ENGLISH",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
-          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
-          "name": "CBS NETWORK",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "586dddf468ae3dcd8b4df34cbd17ab37:b50bfd59dc72a57930a38776bd9c3cc4",
-          "link": "https://r.e.blueonline.tv/l/tvsmart/live/eds/Eleven_Sports_2/D11/Manifest.mpd",
-          "name": "ELEVEN SPORTS",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2704/image",
-      "teamAName": "Como",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2737/image",
-      "teamBName": "Pisa",
-      "time": "11:30:00",
       "visible": true
     },
     {
