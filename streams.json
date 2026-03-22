@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-22T12:30:35.743199",
-  "event_count": 24,
+  "last_updated": "2026-03-22T12:40:23.083069",
+  "event_count": 33,
   "events": [
     {
       "category": "Boxing",
@@ -352,8 +352,39 @@
       "id": 33,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a",
+          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd",
+          "name": "Laliga TV FHD",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "c4088f5f265f9de50cffd80bf89308b7:2c4d2239d96d532b4ec2050653611003",
+          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
+          "name": "TSN SPORTS",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f",
+          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
+          "name": "PREMIER SPORTS",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://smarthard.click/hls/sabrouchespndeportes/index.m3u8",
+          "name": "ESPN DEPORTES",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2",
+          "link": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
+          "name": "FANCODE FHD",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/2817/image",
@@ -439,8 +470,11 @@
       "id": 37,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
+          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
+          "name": "SportDigital Fussball",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/2959/image",
@@ -601,6 +635,195 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/2701/image",
       "teamBName": "Hellas Verona",
       "time": "14:00:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "22/03/2026",
+      "end_date": "22/03/2026",
+      "end_time": "20:20:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/238/image/dark",
+      "eventName": "Liga Portugal Betclic",
+      "id": 45,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/190328/image",
+      "teamAName": "FC Alverca",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3001/image",
+      "teamBName": "Sporting CP",
+      "time": "18:00:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "22/03/2026",
+      "end_date": "22/03/2026",
+      "end_time": "22:05:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/23/image/dark",
+      "eventName": "Serie A",
+      "id": 46,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2693/image",
+      "teamAName": "Fiorentina",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2697/image",
+      "teamBName": "Inter",
+      "time": "19:45:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "22/03/2026",
+      "end_date": "22/03/2026",
+      "end_time": "19:50:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/8/image/dark",
+      "eventName": "LaLiga",
+      "id": 47,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2825/image",
+      "teamAName": "Athletic Club",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2816/image",
+      "teamBName": "Real Betis",
+      "time": "17:30:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "22/03/2026",
+      "end_date": "22/03/2026",
+      "end_time": "19:20:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/242/image/dark",
+      "eventName": "MLS",
+      "id": 48,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/187643/image",
+      "teamAName": "New York City FC",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/337602/image",
+      "teamBName": "Inter Miami CF",
+      "time": "17:00:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "22/03/2026",
+      "end_date": "22/03/2026",
+      "end_time": "22:50:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/238/image/dark",
+      "eventName": "Liga Portugal Betclic",
+      "id": 49,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2999/image",
+      "teamAName": "Sporting Braga",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3002/image",
+      "teamBName": "FC Porto",
+      "time": "20:30:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "22/03/2026",
+      "end_date": "22/03/2026",
+      "end_time": "19:50:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/54/image/dark",
+      "eventName": "LaLiga 2",
+      "id": 50,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/6577/image",
+      "teamAName": "Las Palmas",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2852/image",
+      "teamBName": "Sporting Gijón",
+      "time": "17:30:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "22/03/2026",
+      "end_date": "22/03/2026",
+      "end_time": "20:50:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/35/image/dark",
+      "eventName": "Bundesliga",
+      "id": 51,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2600/image",
+      "teamAName": "FC Augsburg",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2677/image",
+      "teamBName": "VfB Stuttgart",
+      "time": "18:30:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "22/03/2026",
+      "end_date": "22/03/2026",
+      "end_time": "22:05:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/34/image/dark",
+      "eventName": "Ligue 1",
+      "id": 52,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/1647/image",
+      "teamAName": "Nantes",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/1659/image",
+      "teamBName": "RC Strasbourg",
+      "time": "19:45:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "22/03/2026",
+      "end_date": "22/03/2026",
+      "end_time": "22:20:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/8/image/dark",
+      "eventName": "LaLiga",
+      "id": 53,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2829/image",
+      "teamAName": "Real Madrid",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2836/image",
+      "teamBName": "Atlético Madrid",
+      "time": "20:00:00",
       "visible": true
     }
   ]
