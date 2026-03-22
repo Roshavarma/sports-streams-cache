@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-22T18:50:21.534447",
+  "last_updated": "2026-03-22T18:58:59.787918",
   "event_count": 12,
   "events": [
     {
@@ -350,8 +350,11 @@
       "id": 52,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "",
+          "link": "https://daffodil.oletv20.shop/beines.m3u8|Referer=https://roxiestreams.info/",
+          "name": "beIN Sports FHD",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/1647/image",
@@ -371,8 +374,32 @@
       "id": 53,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a",
+          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd",
+          "name": "Laliga TV FHD",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f",
+          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
+          "name": "PREMIER SPORTS",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://smarthard.click/hls/sabrouchespndeportes/index.m3u8",
+          "name": "ESPN DEPORTES",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2",
+          "link": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
+          "name": "FANCODE FHD",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/2829/image",
