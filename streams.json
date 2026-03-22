@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-22T13:40:28.984052",
+  "last_updated": "2026-03-22T13:50:26.131640",
   "event_count": 31,
   "events": [
     {
@@ -269,8 +269,25 @@
       "id": 31,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
+          "name": "beIN ENGLISH",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811",
+          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
+          "name": "FOX DEPORTES",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "222e6835692435b0a2ac692a17343c2d:18f03461c9a9282d7baf09b6b75aa6ef",
+          "link": "https://r.e.blueonline.tv/l/tvsmart/live/eds/Eleven_Sports_3/D11/Manifest.mpd",
+          "name": "ELEVEN SPORTS",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/2685/image",
@@ -342,8 +359,18 @@
       "id": 34,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "",
+          "link": "https://daffodil.maxservices.tv/beines.m3u8|Referer=https://roxiestreams.info/",
+          "name": "beIN Sports FHD",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
+          "link": "https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd",
+          "name": "Nova CZ AQ",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/1649/image",
@@ -564,8 +591,18 @@
       "id": 44,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "586dddf468ae3dcd8b4df34cbd17ab37:b50bfd59dc72a57930a38776bd9c3cc4",
+          "link": "https://r.e.blueonline.tv/l/tvsmart/live/eds/Eleven_Sports_2/D11/Manifest.mpd",
+          "name": "ELEVEN SPORTS",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://live.uu6611.com/live/hd-en-1-4339801.m3u8?txSecret=7c6093ed9a98bb661d2962fbe4c3939b&txTime=69C03995|Referer=https://player.up909.com/",
+          "name": "HD SERVER ",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/2686/image",
