@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-22T19:20:23.579978",
-  "event_count": 10,
+  "last_updated": "2026-03-22T19:30:34.133935",
+  "event_count": 12,
   "events": [
     {
       "category": "Boxing",
@@ -352,6 +352,75 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/2836/image",
       "teamBName": "Atlético Madrid",
       "time": "20:00:00",
+      "visible": true
+    },
+    {
+      "category": "Boxing",
+      "date": "24/03/2026",
+      "end_date": "24/03/2026",
+      "end_time": "05:00:00",
+      "eventLogo": "https://images2.minutemediacdn.com/image/upload/c_crop,w_1920,h_1080,x_0,y_0/c_fill,w_1080,ar_16:9,f_auto,q_auto,g_auto/images%2FvoltaxMediaLibrary%2Fmmsport%2Fwrestling_on_fannation%2F01j7cr769n5sz41833rh.jpg",
+      "eventName": " WWE Monday Night RAW",
+      "id": 54,
+      "links": [
+        {
+          "api": "",
+          "link": "https://29pisfqlcvyi.windows-devs.top/AccessLog2/108085_HD/apache.m3u8|Referer=https://29pisfqlcvyi.windows-devs.top/",
+          "name": "WWE RAW HD",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://27lftgqlgzmy.windows-devs.top/AccessLog2/83_FHD/apache.m3u8|Referer=https://27lftgqlgzmy.windows-devs.top/",
+          "name": "Backup SD",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "eabd2d95c89e42f2b0b0b40ce4179ea0:0e7e35a07e2c12822316c0dc4873903f",
+          "link": "https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd",
+          "name": "Tap Sport LQ",
+          "scheme": 0,
+          "tokenApi": ""
+        }
+      ],
+      "teamAFlag": "https://images2.minutemediacdn.com/image/upload/c_crop,w_1920,h_1080,x_0,y_0/c_fill,w_1080,ar_16:9,f_auto,q_auto,g_auto/images%2FvoltaxMediaLibrary%2Fmmsport%2Fwrestling_on_fannation%2F01j7cr769n5sz41833rh.jpg",
+      "teamAName": "WWE",
+      "teamBFlag": "https://images2.minutemediacdn.com/image/upload/c_crop,w_1920,h_1080,x_0,y_0/c_fill,w_1080,ar_16:9,f_auto,q_auto,g_auto/images%2FvoltaxMediaLibrary%2Fmmsport%2Fwrestling_on_fannation%2F01j7cr769n5sz41833rh.jpg",
+      "teamBName": "WWE",
+      "time": "00:00:00",
+      "visible": true
+    },
+    {
+      "category": "Boxing",
+      "date": "25/03/2026",
+      "end_date": "25/03/2026",
+      "end_time": "06:00:00",
+      "eventLogo": "https://www.wwe.com/f/styles/wwe_show_logo_sm/public/all/2024/10/NXTonCW--0f06792893241464479338f55596a5bf.png",
+      "eventName": "🥊 WWE NXT",
+      "id": 55,
+      "links": [
+        {
+          "api": "",
+          "link": "https://android-database1.firebase-api.com/AccessLog2/108085_HD/apache.m3u8|Referer=https://android-database1.firebase-api.com/",
+          "name": "Backup SD",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "eabd2d95c89e42f2b0b0b40ce4179ea0:0e7e35a07e2c12822316c0dc4873903f",
+          "link": "https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd",
+          "name": "Tap Sports",
+          "scheme": 0,
+          "tokenApi": ""
+        }
+      ],
+      "teamAFlag": "https://www.wwe.com/f/styles/wwe_show_logo_sm/public/all/2024/10/NXTonCW--0f06792893241464479338f55596a5bf.png",
+      "teamAName": "NXT",
+      "teamBFlag": "https://www.wwe.com/f/styles/wwe_show_logo_sm/public/all/2024/10/NXTonCW--0f06792893241464479338f55596a5bf.png",
+      "teamBName": "NXT",
+      "time": "01:00:00",
       "visible": true
     }
   ]
