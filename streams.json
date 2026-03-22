@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-22T11:35:33.235841",
+  "last_updated": "2026-03-22T11:40:24.297403",
   "event_count": 24,
   "events": [
     {
@@ -175,8 +175,11 @@
       "id": 26,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "",
+          "link": "https://smarthard.click/hls/kjzxkCIqkhtb/index.m3u8",
+          "name": "SKY BUNDESLIGA",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/2542/image",
@@ -412,8 +415,11 @@
       "id": 36,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "",
+          "link": "https://smarthard.click/hls/Mhe8gotoGQlu/index.m3u8",
+          "name": "SKY BUNDESLIGA",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/2588/image",
@@ -559,8 +565,11 @@
       "id": 43,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "",
+          "link": "https://smarthard.click/hls/9gSZoyFska/index.m3u8",
+          "name": "SKY BUNDESLIGA",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/2590/image",
