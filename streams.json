@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-22T11:40:24.297403",
+  "last_updated": "2026-03-22T11:50:21.072571",
   "event_count": 24,
   "events": [
     {
@@ -502,8 +502,11 @@
       "id": 40,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281",
+          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd",
+          "name": "beIN ENGLISH",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/2349/image",
