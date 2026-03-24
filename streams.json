@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-24T21:10:22.411959",
-  "event_count": 5,
+  "last_updated": "2026-03-24T21:20:23.785257",
+  "event_count": 6,
   "events": [
     {
       "category": "Boxing",
@@ -101,8 +101,8 @@
     },
     {
       "category": "Boxing",
-      "date": "24/03/2026",
-      "end_date": "24/03/2026",
+      "date": "31/03/2026",
+      "end_date": "31/03/2026",
       "end_time": "05:00:00",
       "eventLogo": "https://images2.minutemediacdn.com/image/upload/c_crop,w_1920,h_1080,x_0,y_0/c_fill,w_1080,ar_16:9,f_auto,q_auto,g_auto/images%2FvoltaxMediaLibrary%2Fmmsport%2Fwrestling_on_fannation%2F01j7cr769n5sz41833rh.jpg",
       "eventName": " WWE Monday Night RAW",
@@ -169,27 +169,51 @@
       "visible": true
     },
     {
-      "category": "Football",
-      "date": "23/03/2026",
-      "end_date": "23/03/2026",
-      "end_time": "21:50:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/54/image/dark",
-      "eventName": "LaLiga 2",
+      "category": "Cricket",
+      "date": "25/03/2026",
+      "end_date": "25/03/2026",
+      "end_time": "10:15:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark",
+      "eventName": "T20 International",
       "id": 56,
       "links": [
         {
-          "api": "d69894c7b729c5d1e85893e5e6cfcb0f:db0d53f871f5d2ef91d3a112c7ec9f30",
-          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/tcninbbnt5/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd",
-          "name": "Laliga Hypermotion ES",
+          "api": "f288380ca4cef9ad3f27a92a08e9bb8b:9f18d26291d9230833501f7f822f6875",
+          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd",
+          "name": "TNT SPORTS - AQ",
           "scheme": 0,
           "tokenApi": ""
         }
       ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/5067/image",
-      "teamAName": "CD Castellón",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2868/image",
-      "teamBName": "Cultural Leonesa",
-      "time": "19:30:00",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/187755/image",
+      "teamAName": "New Zealand",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/187747/image",
+      "teamBName": "South Africa",
+      "time": "06:15:00",
+      "visible": true
+    },
+    {
+      "category": "Cricket",
+      "date": "25/03/2026",
+      "end_date": "25/03/2026",
+      "end_time": "05:45:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11222/image/dark",
+      "eventName": "Twenty20 International Women",
+      "id": 57,
+      "links": [
+        {
+          "api": "f288380ca4cef9ad3f27a92a08e9bb8b:9f18d26291d9230833501f7f822f6875",
+          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd",
+          "name": "TNT SPORTS - AQ",
+          "scheme": 0,
+          "tokenApi": ""
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/213115/image",
+      "teamAName": "New Zealand Women",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/213118/image",
+      "teamBName": "South Africa Women",
+      "time": "01:45:00",
       "visible": true
     }
   ]
