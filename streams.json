@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-26T18:20:29.154168",
-  "event_count": 17,
+  "last_updated": "2026-03-26T18:30:37.342400",
+  "event_count": 15,
   "events": [
     {
       "category": "Boxing",
@@ -169,58 +169,6 @@
       "visible": true
     },
     {
-      "category": "Cricket",
-      "date": "26/03/2026",
-      "end_date": "26/03/2026",
-      "end_time": "18:00:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11170/image/dark",
-      "eventName": "Pakistan Super League",
-      "id": 60,
-      "links": [
-        {
-          "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
-          "link": "https://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
-          "name": "Willow FHD AQ",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "a7712196dbee413ab510c825e5c4d3f0:1ade126fa6a9162ba34bd5de5b1427ca",
-          "link": "https://ottlive.dishhome.com.np/protected/jQTOzZkB0RDJ74Ryniuo/dash/manifest.mpd?%7CUser-Agent=Mozilla/5.0%20(Linux;%20Android%2010;%20K)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/145.0.0.0%20Mobile%20Safari/537.36",
-          "name": "PTV SPORTS - AQ",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://tencentcdn7.tamashaweb.com/v1/019beffa3f101567ee93346674d021/019bff96b0e415fc600b1b67f81951/TMSH_APP2_DIRTY.m3u8",
-          "name": "TAMASHA URDU",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "4e8b5ddac5332a4e66c002b4c0f22322:d06de29b0eacb81ac6e3f325849047e8",
-          "link": "https://cors-proxy.cooks.fyi/https://ev-fast-mpd.starzplayarabia.com/live/eds/Criclife_3/DASH/Criclife_3.mpd",
-          "name": "CRICBUZZ",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "4e8b5ddac5332a4e66c002b4c0f22322:d06de29b0eacb81ac6e3f325849047e8",
-          "link": "https://ev-fast-mpd.starzplayarabia.com/live/eds/Criclife_3/DASH/Criclife_3.mpd",
-          "name": "CRICBUZZ PK",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/212419/image",
-      "teamAName": "Lahore Qalandars",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/1178235/image",
-      "teamBName": "Hyderabad Kingsmen",
-      "time": "14:00:00",
-      "visible": true
-    },
-    {
       "category": "Football",
       "date": "26/03/2026",
       "end_date": "26/03/2026",
@@ -230,8 +178,18 @@
       "id": 61,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "",
+          "link": "https://raw.githubusercontent.com/xmrt624/lpootvs/refs/heads/main/sky9.m3u8",
+          "name": "Sky Sport NZ",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://arwen1.panaka1.cfd/puk2/usergenrnd0clv03fyt.m3u8|Referer=https://arwen1.panaka.cfd/000/",
+          "name": "Prima Sport 2",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/4697/image",
@@ -251,8 +209,18 @@
       "id": 62,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
+          "link": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd",
+          "name": "Sport 1 CZ AQ",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://raw.githubusercontent.com/xmrt624/lpootvs/refs/heads/main/sky3.m3u8",
+          "name": "Sky Sport NZ",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/4707/image",
@@ -272,8 +240,11 @@
       "id": 63,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "",
+          "link": "https://raw.githubusercontent.com/xmrt624/lpootvs/refs/heads/main/sky6.m3u8",
+          "name": "Sky Sport NZ",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/4701/image",
@@ -341,8 +312,18 @@
       "id": 66,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "2fbdaa3bea0d0323ae011b318d1db716:8726ef7eaf5b9dce15fb6aa9f80bd53f",
+          "link": "https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/oboxe53wyo/out/v1/f7892a9d706d419a846d738fa22ea33e/cenc.mpd",
+          "name": "Fox Sports AQ",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
+          "link": "https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd",
+          "name": "Sport 2 AQ",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/4702/image",
@@ -479,30 +460,6 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/4693/image",
       "teamBName": "Ireland",
       "time": "19:45:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "26/03/2026",
-      "end_date": "26/03/2026",
-      "end_time": "17:20:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
-      "eventName": "International Friendly Games",
-      "id": 72,
-      "links": [
-        {
-          "api": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae",
-          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
-          "name": "FOX SPORTS FHD",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4782/image",
-      "teamAName": "Moldova",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4776/image",
-      "teamBName": "Lithuania",
-      "time": "15:00:00",
       "visible": true
     }
   ]
