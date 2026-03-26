@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-26T18:30:37.342400",
+  "last_updated": "2026-03-26T18:40:36.033152",
   "event_count": 15,
   "events": [
     {
@@ -388,8 +388,11 @@
       "id": 68,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "",
+          "link": "https://raw.githubusercontent.com/xmrt624/lpootvs/refs/heads/main/sky4.m3u8",
+          "name": "Sky Sport NZ",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/4476/image",
@@ -409,8 +412,18 @@
       "id": 69,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733",
+          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd",
+          "name": "SporTV BR AQ",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe",
+          "link": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
+          "name": "FANCODE FHD AQ",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/4748/image",
@@ -430,8 +443,18 @@
       "id": 70,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "8836fb04d62dc64c9f8a39ef8640d5eb:d4f05ce56c5231b7cdf53455bea58621",
+          "link": "https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/tepjqej1ys/out/v1/c9c9159baee749a19612b1598495859a/cenc.mpd",
+          "name": "FOX SPORTS AQ",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://raw.githubusercontent.com/xmrt624/lpootvs/refs/heads/main/sky7.m3u8",
+          "name": "Sky Sport NZ",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/4703/image",
@@ -451,8 +474,18 @@
       "id": 71,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "0c39778fe8fb4f9f8574016b3d4ae2ed:232b1f450f2e37f47fdd5b678a8a546d",
+          "link": "https://mega.z5cable.com/bpk-tv/espn_3_hd/default/index.mpd",
+          "name": "ESPN AQ",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://raw.githubusercontent.com/xmrt624/lpootvs/refs/heads/main/sky5.m3u8",
+          "name": "Sky Sport NZ",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/4714/image",
