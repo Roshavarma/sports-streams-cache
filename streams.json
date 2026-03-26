@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-26T16:40:29.333868",
+  "last_updated": "2026-03-26T16:50:23.446370",
   "event_count": 17,
   "events": [
     {
@@ -171,8 +171,8 @@
     {
       "category": "Cricket",
       "date": "26/03/2026",
-      "end_date": "",
-      "end_time": "",
+      "end_date": "26/03/2026",
+      "end_time": "18:00:00",
       "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11170/image/dark",
       "eventName": "Pakistan Super League",
       "id": 60,
