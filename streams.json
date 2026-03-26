@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-26T10:20:30.528286",
-  "event_count": 7,
+  "last_updated": "2026-03-26T10:30:35.486764",
+  "event_count": 19,
   "events": [
     {
       "category": "Boxing",
@@ -235,6 +235,258 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/1178235/image",
       "teamBName": "Hyderabad Kingsmen",
       "time": "14:00:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "26/03/2026",
+      "end_date": "26/03/2026",
+      "end_time": "22:05:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11/image/dark",
+      "eventName": "World Cup Qual. UEFA",
+      "id": 61,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/4697/image",
+      "teamAName": "Slovakia",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/154426/image",
+      "teamBName": "Kosovo",
+      "time": "19:45:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "26/03/2026",
+      "end_date": "26/03/2026",
+      "end_time": "22:05:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11/image/dark",
+      "eventName": "World Cup Qual. UEFA",
+      "id": 62,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/4707/image",
+      "teamAName": "Italy",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/4786/image",
+      "teamBName": "Northern Ireland",
+      "time": "19:45:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "26/03/2026",
+      "end_date": "26/03/2026",
+      "end_time": "22:05:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11/image/dark",
+      "eventName": "World Cup Qual. UEFA",
+      "id": 63,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/4701/image",
+      "teamAName": "Ukraine",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/4688/image",
+      "teamBName": "Sweden",
+      "time": "19:45:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "26/03/2026",
+      "end_date": "26/03/2026",
+      "end_time": "19:20:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/10783/image/dark",
+      "eventName": "UEFA Nations League",
+      "id": 64,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/129264/image",
+      "teamAName": "Gibraltar",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/4706/image",
+      "teamBName": "Latvia",
+      "time": "17:00:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "26/03/2026",
+      "end_date": "26/03/2026",
+      "end_time": "19:20:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/10783/image/dark",
+      "eventName": "UEFA Nations League",
+      "id": 65,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/4483/image",
+      "teamAName": "Malta",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/4478/image",
+      "teamBName": "Luxembourg",
+      "time": "17:00:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "26/03/2026",
+      "end_date": "26/03/2026",
+      "end_time": "22:05:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11/image/dark",
+      "eventName": "World Cup Qual. UEFA",
+      "id": 66,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/4702/image",
+      "teamAName": "Wales",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/4479/image",
+      "teamBName": "Bosnia & Herzegovina",
+      "time": "19:45:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "26/03/2026",
+      "end_date": "26/03/2026",
+      "end_time": "19:20:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11/image/dark",
+      "eventName": "World Cup Qual. UEFA",
+      "id": 67,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/4700/image",
+      "teamAName": "Türkiye",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/4477/image",
+      "teamBName": "Romania",
+      "time": "17:00:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "26/03/2026",
+      "end_date": "26/03/2026",
+      "end_time": "22:05:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11/image/dark",
+      "eventName": "World Cup Qual. UEFA",
+      "id": 68,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/4476/image",
+      "teamAName": "Denmark",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/4777/image",
+      "teamBName": "North Macedonia",
+      "time": "19:45:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "26/03/2026",
+      "end_date": "26/03/2026",
+      "end_time": "22:20:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
+      "eventName": "International Friendly Games",
+      "id": 69,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/4748/image",
+      "teamAName": "Brazil",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/4481/image",
+      "teamBName": "France",
+      "time": "20:00:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "26/03/2026",
+      "end_date": "26/03/2026",
+      "end_time": "22:05:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11/image/dark",
+      "eventName": "World Cup Qual. UEFA",
+      "id": 70,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/4703/image",
+      "teamAName": "Poland",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/4690/image",
+      "teamBName": "Albania",
+      "time": "19:45:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "26/03/2026",
+      "end_date": "26/03/2026",
+      "end_time": "22:05:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11/image/dark",
+      "eventName": "World Cup Qual. UEFA",
+      "id": 71,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/4714/image",
+      "teamAName": "Czechia",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/4693/image",
+      "teamBName": "Ireland",
+      "time": "19:45:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "26/03/2026",
+      "end_date": "26/03/2026",
+      "end_time": "17:20:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
+      "eventName": "International Friendly Games",
+      "id": 72,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/4782/image",
+      "teamAName": "Moldova",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/4776/image",
+      "teamBName": "Lithuania",
+      "time": "15:00:00",
       "visible": true
     }
   ]
