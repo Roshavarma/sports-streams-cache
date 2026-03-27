@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-27T15:50:24.503004",
+  "last_updated": "2026-03-27T16:00:49.970269",
   "event_count": 15,
   "events": [
     {
@@ -35,7 +35,7 @@
     },
     {
       "category": "Motorsports",
-      "date": "27/03/2026",
+      "date": "28/03/2026",
       "end_date": "",
       "end_time": "",
       "eventLogo": "https://access-control-center-prod.freevision.live/ss/category/36.png",
@@ -381,8 +381,8 @@
     {
       "category": "Cricket",
       "date": "27/03/2026",
-      "end_date": "",
-      "end_time": "",
+      "end_date": "27/03/2026",
+      "end_time": "18:00:00",
       "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11170/image/dark",
       "eventName": "Pakistan Super League",
       "id": 66,
