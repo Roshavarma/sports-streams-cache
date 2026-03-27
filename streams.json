@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-27T07:10:26.030349",
+  "last_updated": "2026-03-27T07:20:26.876752",
   "event_count": 15,
   "events": [
     {
@@ -170,329 +170,233 @@
     },
     {
       "category": "Football",
-      "date": "26/03/2026",
-      "end_date": "26/03/2026",
-      "end_time": "22:05:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11/image/dark",
-      "eventName": "World Cup Qual. UEFA",
-      "id": 61,
+      "date": "27/03/2026",
+      "end_date": "27/03/2026",
+      "end_time": "18:50:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
+      "eventName": "International Friendly Games",
+      "id": 56,
       "links": [
         {
-          "api": "",
-          "link": "https://raw.githubusercontent.com/xmrt624/lpootvs/refs/heads/main/sky9.m3u8",
-          "name": "Sky Sport NZ",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://arwen1.panaka1.cfd/puk2/usergenrnd0clv03fyt.m3u8|Referer=https://arwen1.panaka.cfd/000/",
-          "name": "Prima Sport 2",
-          "scheme": 0,
-          "tokenApi": ""
+          "link": "https://no.link",
+          "name": "Link 1"
         }
       ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4697/image",
-      "teamAName": "Slovakia",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/154426/image",
-      "teamBName": "Kosovo",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/4694/image",
+      "teamAName": "Russia",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/21817/image",
+      "teamBName": "Nicaragua",
+      "time": "16:30:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "27/03/2026",
+      "end_date": "27/03/2026",
+      "end_time": "21:20:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
+      "eventName": "International Friendly Games",
+      "id": 57,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/4710/image",
+      "teamAName": "Greece",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/4789/image",
+      "teamBName": "Paraguay",
+      "time": "19:00:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "27/03/2026",
+      "end_date": "27/03/2026",
+      "end_time": "22:05:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
+      "eventName": "International Friendly Games",
+      "id": 58,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/4699/image",
+      "teamAName": "Switzerland",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/4711/image",
+      "teamBName": "Germany",
       "time": "19:45:00",
       "visible": true
     },
     {
       "category": "Football",
-      "date": "26/03/2026",
-      "end_date": "26/03/2026",
-      "end_time": "22:05:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11/image/dark",
-      "eventName": "World Cup Qual. UEFA",
-      "id": 62,
-      "links": [
-        {
-          "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
-          "link": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd",
-          "name": "Sport 1 CZ AQ",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://raw.githubusercontent.com/xmrt624/lpootvs/refs/heads/main/sky3.m3u8",
-          "name": "Sky Sport NZ",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4707/image",
-      "teamAName": "Italy",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4786/image",
-      "teamBName": "Northern Ireland",
-      "time": "19:45:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "26/03/2026",
-      "end_date": "26/03/2026",
-      "end_time": "22:05:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11/image/dark",
-      "eventName": "World Cup Qual. UEFA",
-      "id": 63,
-      "links": [
-        {
-          "api": "",
-          "link": "https://raw.githubusercontent.com/xmrt624/lpootvs/refs/heads/main/sky6.m3u8",
-          "name": "Sky Sport NZ",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4701/image",
-      "teamAName": "Ukraine",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4688/image",
-      "teamBName": "Sweden",
-      "time": "19:45:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "26/03/2026",
-      "end_date": "26/03/2026",
-      "end_time": "19:20:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/10783/image/dark",
-      "eventName": "UEFA Nations League",
-      "id": 64,
-      "links": [
-        {
-          "api": "",
-          "link": "http://195.178.110.37/hls/AIIIQQQ.m3u8|Referer=http://www.fawanews.sc/",
-          "name": "HD SERVER ",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/129264/image",
-      "teamAName": "Gibraltar",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4706/image",
-      "teamBName": "Latvia",
-      "time": "17:00:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "26/03/2026",
-      "end_date": "26/03/2026",
-      "end_time": "19:20:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/10783/image/dark",
-      "eventName": "UEFA Nations League",
-      "id": 65,
-      "links": [
-        {
-          "api": "",
-          "link": "http://195.178.110.37/hls/AIIIQQQQ.m3u8|Referer=http://www.fawanews.sc/",
-          "name": "HD SERVER ",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4483/image",
-      "teamAName": "Malta",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4478/image",
-      "teamBName": "Luxembourg",
-      "time": "17:00:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "26/03/2026",
-      "end_date": "26/03/2026",
-      "end_time": "22:05:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11/image/dark",
-      "eventName": "World Cup Qual. UEFA",
-      "id": 66,
-      "links": [
-        {
-          "api": "2fbdaa3bea0d0323ae011b318d1db716:8726ef7eaf5b9dce15fb6aa9f80bd53f",
-          "link": "https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/oboxe53wyo/out/v1/f7892a9d706d419a846d738fa22ea33e/cenc.mpd",
-          "name": "Fox Sports AQ",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
-          "link": "https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd",
-          "name": "Sport 2 AQ",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4702/image",
-      "teamAName": "Wales",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4479/image",
-      "teamBName": "Bosnia & Herzegovina",
-      "time": "19:45:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "26/03/2026",
-      "end_date": "26/03/2026",
-      "end_time": "19:20:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11/image/dark",
-      "eventName": "World Cup Qual. UEFA",
-      "id": 67,
-      "links": [
-        {
-          "api": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae",
-          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
-          "name": "FOX SPORTS FHD",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "ef34ae91b4f2415e8439b2ad105e7488:243248d8de1ff8c7c587ee2057317523",
-          "link": "https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw75168188_-627298088/PLTV/86/224/3221241590/3221241590.mpd?zoneoffset=0&devkbps=1-7000&servicetype=1&icpid=86&accounttype=1&limitflux=-1&limitdur=-1&tenantId=3103&accountinfo=%7E%7EV2.0%7EqbcsJh_jU5C9BcZc959e_wae44b4867b3417aa76b5db2da20fe46c%7EKZzTWjB8qD1zdgbJjRPVLJX-tV0qiN9RBHC_iseGrsmTSRjj06oGDtGlpSCRGOwF3626cf085c08d024c7e4aafc18c32440%7EExtInfo5Ro3VppWiUusj2ippqUPkQ%3D%3D4a2d2c8ce133f43026d0e31b822b8474%3A20240601012829%3AUTC%2C10001003329222%2C87.212.140.171%2C20240601012829%2C3103_SP1S%2C10001003329222%2C-1%2C0%2C1%2C%2C%2C2%2C3103_Sport1%2C%2C%2C2%2C10000044444303%2C0%2C10000025050255%2CNDEzODg2NTY3MzEwMzI2NzMwNjMwNTY%3D%2C%2C%2C5%2C1%2CEND&GuardEncType=2&RTS=1717205309&from=11&hms_devid=1008&online=1717205309&mag_hms=1008,311,305&_=1717205322621|User-Agent=Mozila",
-          "name": "Ziggo Sports",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://estreams.tv.nej.cz/dash/CH_ARENASPORT1_Portable.ism/playlist.mpd",
-          "name": "Arena Sport",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://raw.githubusercontent.com/xmrt624/lpootvs/refs/heads/main/sky2.m3u8",
-          "name": "SKY SPORT NZ",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4700/image",
-      "teamAName": "Türkiye",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4477/image",
-      "teamBName": "Romania",
-      "time": "17:00:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "26/03/2026",
-      "end_date": "26/03/2026",
-      "end_time": "22:05:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11/image/dark",
-      "eventName": "World Cup Qual. UEFA",
-      "id": 68,
-      "links": [
-        {
-          "api": "",
-          "link": "https://raw.githubusercontent.com/xmrt624/lpootvs/refs/heads/main/sky4.m3u8",
-          "name": "Sky Sport NZ",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4476/image",
-      "teamAName": "Denmark",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4777/image",
-      "teamBName": "North Macedonia",
-      "time": "19:45:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "26/03/2026",
-      "end_date": "26/03/2026",
+      "date": "27/03/2026",
+      "end_date": "27/03/2026",
       "end_time": "22:20:00",
       "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
       "eventName": "International Friendly Games",
-      "id": 69,
+      "id": 59,
       "links": [
         {
-          "api": "4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733",
-          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd",
-          "name": "SporTV BR AQ",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe",
-          "link": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
-          "name": "FANCODE FHD AQ",
-          "scheme": 0,
-          "tokenApi": ""
+          "link": "https://no.link",
+          "name": "Link 1"
         }
       ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4748/image",
-      "teamAName": "Brazil",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4481/image",
-      "teamBName": "France",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/4698/image",
+      "teamAName": "Spain",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/6355/image",
+      "teamBName": "Serbia",
       "time": "20:00:00",
       "visible": true
     },
     {
       "category": "Football",
-      "date": "26/03/2026",
-      "end_date": "26/03/2026",
-      "end_time": "22:05:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11/image/dark",
-      "eventName": "World Cup Qual. UEFA",
-      "id": 70,
+      "date": "27/03/2026",
+      "end_date": "27/03/2026",
+      "end_time": "22:35:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
+      "eventName": "International Friendly Games",
+      "id": 60,
       "links": [
         {
-          "api": "8836fb04d62dc64c9f8a39ef8640d5eb:d4f05ce56c5231b7cdf53455bea58621",
-          "link": "https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/tepjqej1ys/out/v1/c9c9159baee749a19612b1598495859a/cenc.mpd",
-          "name": "FOX SPORTS AQ",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://raw.githubusercontent.com/xmrt624/lpootvs/refs/heads/main/sky7.m3u8",
-          "name": "Sky Sport NZ",
-          "scheme": 0,
-          "tokenApi": ""
+          "link": "https://no.link",
+          "name": "Link 1"
         }
       ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4703/image",
-      "teamAName": "Poland",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4690/image",
-      "teamBName": "Albania",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/4778/image",
+      "teamAName": "Morocco",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/4757/image",
+      "teamBName": "Ecuador",
+      "time": "20:15:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "27/03/2026",
+      "end_date": "27/03/2026",
+      "end_time": "22:05:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
+      "eventName": "International Friendly Games",
+      "id": 61,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/4705/image",
+      "teamAName": "Netherlands",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/4475/image",
+      "teamBName": "Norway",
       "time": "19:45:00",
       "visible": true
     },
     {
       "category": "Football",
-      "date": "26/03/2026",
-      "end_date": "26/03/2026",
-      "end_time": "22:05:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11/image/dark",
-      "eventName": "World Cup Qual. UEFA",
-      "id": 71,
+      "date": "27/03/2026",
+      "end_date": "27/03/2026",
+      "end_time": "21:50:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
+      "eventName": "International Friendly Games",
+      "id": 62,
       "links": [
         {
-          "api": "0c39778fe8fb4f9f8574016b3d4ae2ed:232b1f450f2e37f47fdd5b678a8a546d",
-          "link": "https://mega.z5cable.com/bpk-tv/espn_3_hd/default/index.mpd",
-          "name": "ESPN AQ",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://raw.githubusercontent.com/xmrt624/lpootvs/refs/heads/main/sky5.m3u8",
-          "name": "Sky Sport NZ",
-          "scheme": 0,
-          "tokenApi": ""
+          "link": "https://no.link",
+          "name": "Link 1"
         }
       ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4714/image",
-      "teamAName": "Czechia",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4693/image",
-      "teamBName": "Ireland",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/4691/image",
+      "teamAName": "Algeria",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/5163/image",
+      "teamBName": "Guatemala",
+      "time": "19:30:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "27/03/2026",
+      "end_date": "27/03/2026",
+      "end_time": "22:05:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
+      "eventName": "International Friendly Games",
+      "id": 63,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/4713/image",
+      "teamAName": "England",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/4725/image",
+      "teamBName": "Uruguay",
       "time": "19:45:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "27/03/2026",
+      "end_date": "27/03/2026",
+      "end_time": "19:20:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
+      "eventName": "International Friendly Games",
+      "id": 64,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/4736/image",
+      "teamAName": "South Africa",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/5164/image",
+      "teamBName": "Panama",
+      "time": "17:00:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "27/03/2026",
+      "end_date": "27/03/2026",
+      "end_time": "19:20:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
+      "eventName": "International Friendly Games",
+      "id": 65,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/4718/image",
+      "teamAName": "Austria",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/4764/image",
+      "teamBName": "Ghana",
+      "time": "17:00:00",
+      "visible": true
+    },
+    {
+      "category": "Cricket",
+      "date": "27/03/2026",
+      "end_date": "",
+      "end_time": "",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11170/image/dark",
+      "eventName": "Pakistan Super League",
+      "id": 66,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/212417/image",
+      "teamAName": "Quetta Gladiators",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/212418/image",
+      "teamBName": "Karachi Kings",
+      "time": "14:00:00",
       "visible": true
     }
   ]
