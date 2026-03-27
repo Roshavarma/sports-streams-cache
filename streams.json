@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-27T19:30:32.701482",
-  "event_count": 15,
+  "last_updated": "2026-03-27T19:40:25.791986",
+  "event_count": 11,
   "events": [
     {
       "category": "Boxing",
@@ -172,30 +172,6 @@
       "category": "Football",
       "date": "27/03/2026",
       "end_date": "27/03/2026",
-      "end_time": "18:50:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
-      "eventName": "International Friendly Games",
-      "id": 56,
-      "links": [
-        {
-          "api": "",
-          "link": "http://195.178.110.2/hls/GUUUQQ.m3u8|Referer=http://www.fawanews.sc/",
-          "name": "HD SERVER ",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4694/image",
-      "teamAName": "Russia",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/21817/image",
-      "teamBName": "Nicaragua",
-      "time": "16:30:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "27/03/2026",
-      "end_date": "27/03/2026",
       "end_time": "21:20:00",
       "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
       "eventName": "International Friendly Games",
@@ -226,8 +202,11 @@
       "id": 58,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "",
+          "link": "http://195.178.110.25/hls/fzzzzqqqq.m3u8|referer=http://www.fawanews.sc/",
+          "name": "HD STREAM",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/4699/image",
@@ -247,8 +226,11 @@
       "id": 59,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "",
+          "link": "http://195.178.110.37/hls/frfrfr.m3u8|referer=http://www.fawanews.sc/",
+          "name": "HD Stream",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/4698/image",
@@ -359,99 +341,6 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/4725/image",
       "teamBName": "Uruguay",
       "time": "19:45:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "27/03/2026",
-      "end_date": "27/03/2026",
-      "end_time": "19:20:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
-      "eventName": "International Friendly Games",
-      "id": 64,
-      "links": [
-        {
-          "api": "",
-          "link": "http://195.178.110.37/hls/UFFFQQ.m3u8|Referer=http://www.fawanews.sc/",
-          "name": "SD Stream ",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4736/image",
-      "teamAName": "South Africa",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/5164/image",
-      "teamBName": "Panama",
-      "time": "17:00:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "27/03/2026",
-      "end_date": "27/03/2026",
-      "end_time": "19:20:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
-      "eventName": "International Friendly Games",
-      "id": 65,
-      "links": [
-        {
-          "api": "",
-          "link": "https://live.uu6611.com/live/sd-1-4512343.m3u8?txSecret=ba5b13939bb1eb1e20256514a803ed8b&txTime=69C6FD98|Referer=https://player.up909.com/",
-          "name": "HD SERVER ",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4718/image",
-      "teamAName": "Austria",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4764/image",
-      "teamBName": "Ghana",
-      "time": "17:00:00",
-      "visible": true
-    },
-    {
-      "category": "Cricket",
-      "date": "27/03/2026",
-      "end_date": "27/03/2026",
-      "end_time": "18:00:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11170/image/dark",
-      "eventName": "Pakistan Super League",
-      "id": 66,
-      "links": [
-        {
-          "api": "a217b5a318fbe42bf460d004f7cc6a05:2b0c57d2dfb1233e247f7e9f63654499",
-          "link": "https://a201aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/liyf7hg1xo/out/v1/ce50f052534645fc8a4199f546f772e1/cenc.mpd",
-          "name": "WILLOW [Ad-Free]",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
-          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
-          "name": "WILLOW FHD",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "a7712196dbee413ab510c825e5c4d3f0:1ade126fa6a9162ba34bd5de5b1427ca",
-          "link": "https://ottlive.dishhome.com.np/protected/jQTOzZkB0RDJ74Ryniuo/dash/manifest.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0",
-          "name": "PTV SPORTS",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://tencentcdn7.tamashaweb.com/v1/019beffa3f101567ee93346674d021/019bff96b0e415fc600b1b67f81951/TMSH_APP2_DIRTY.m3u8",
-          "name": "TAMASHA - PK",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/212417/image",
-      "teamAName": "Quetta Gladiators",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/212418/image",
-      "teamBName": "Karachi Kings",
-      "time": "14:00:00",
       "visible": true
     }
   ]
