@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-27T16:50:24.962514",
+  "last_updated": "2026-03-27T17:00:45.449116",
   "event_count": 15,
   "events": [
     {
@@ -349,8 +349,11 @@
       "id": 64,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "",
+          "link": "http://195.178.110.37/hls/UFFFQQ.m3u8|Referer=http://www.fawanews.sc/",
+          "name": "SD Stream ",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/4736/image",
@@ -370,8 +373,11 @@
       "id": 65,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "",
+          "link": "https://live.uu6611.com/live/sd-1-4512343.m3u8?txSecret=ba5b13939bb1eb1e20256514a803ed8b&txTime=69C6FD98|Referer=https://player.up909.com/",
+          "name": "HD SERVER ",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/4718/image",
