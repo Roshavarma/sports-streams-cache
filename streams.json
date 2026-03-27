@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-27T16:20:23.938648",
+  "last_updated": "2026-03-27T16:30:33.524690",
   "event_count": 15,
   "events": [
     {
@@ -178,8 +178,11 @@
       "id": 56,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "",
+          "link": "http://195.178.110.2/hls/GUUUQQ.m3u8|Referer=http://www.fawanews.sc/",
+          "name": "HD SERVER ",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/4694/image",
