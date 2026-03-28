@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-28T16:10:25.187431",
-  "event_count": 18,
+  "last_updated": "2026-03-28T16:20:20.586032",
+  "event_count": 15,
   "events": [
     {
       "category": "Boxing",
@@ -193,30 +193,6 @@
       "category": "Football",
       "date": "28/03/2026",
       "end_date": "28/03/2026",
-      "end_time": "14:50:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/25/image/dark",
-      "eventName": "League Two",
-      "id": 57,
-      "links": [
-        {
-          "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
-          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
-          "name": "beIN ENGLISH",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/159/image",
-      "teamAName": "Harrogate Town",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/56/image",
-      "teamBName": "Notts County",
-      "time": "12:30:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "28/03/2026",
-      "end_date": "28/03/2026",
       "end_time": "17:35:00",
       "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/54/image/dark",
       "eventName": "LaLiga 2",
@@ -235,30 +211,6 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/2854/image",
       "teamBName": "Burgos Club de Fútbol",
       "time": "15:15:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "28/03/2026",
-      "end_date": "28/03/2026",
-      "end_time": "15:20:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/54/image/dark",
-      "eventName": "LaLiga 2",
-      "id": 59,
-      "links": [
-        {
-          "api": "d69894c7b729c5d1e85893e5e6cfcb0f:db0d53f871f5d2ef91d3a112c7ec9f30",
-          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/tcninbbnt5/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd",
-          "name": "Laliga Hypermotion ES",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2869/image",
-      "teamAName": "AD Ceuta",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4488/image",
-      "teamBName": "Cádiz",
-      "time": "13:00:00",
       "visible": true
     },
     {
@@ -295,8 +247,11 @@
       "id": 61,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "",
+          "link": "https://live.uu6611.com/live/sd-1-4512479.m3u8?txSecret=07a1ff023baa78443378cb0e26fddaad&txTime=69C83A17|Referer=https://player.up909.com/",
+          "name": "HD SERVER ",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/4695/image",
@@ -316,8 +271,11 @@
       "id": 62,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "",
+          "link": "https://live.uu6611.com/live/sd-1-4512478.m3u8?txSecret=9edce5737d947650e48bf40ef6e66507&txTime=69C83A17|Referer=https://player.up909.com/",
+          "name": "HD SERVER ",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/4709/image",
@@ -352,38 +310,17 @@
       "category": "Football",
       "date": "28/03/2026",
       "end_date": "28/03/2026",
-      "end_time": "16:20:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
-      "eventName": "International Friendly Games",
-      "id": 64,
-      "links": [
-        {
-          "api": "",
-          "link": "http://195.178.110.2/hls/KYYYYQQQ.m3u8|referer=http://www.fawanews.sc/",
-          "name": "HD SERVER ",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4735/image",
-      "teamAName": "South Korea",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4768/image",
-      "teamBName": "Côte d'Ivoire",
-      "time": "14:00:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "28/03/2026",
-      "end_date": "28/03/2026",
       "end_time": "19:50:00",
       "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/54/image/dark",
       "eventName": "LaLiga 2",
       "id": 65,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "d69894c7b729c5d1e85893e5e6cfcb0f:db0d53f871f5d2ef91d3a112c7ec9f30",
+          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/tcninbbnt5/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd",
+          "name": "Laliga Hypermotion ES",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/2830/image",
@@ -403,8 +340,18 @@
       "id": 66,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "e51aa21f2a0fef9aabc120dfb655b52f:a12a987fe725a40b6be95cd84b15f689",
+          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
+          "name": "TSN SPORTS - AQ",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "c4088f5f265f9de50cffd80bf89308b7:2c4d2239d96d532b4ec2050653611003",
+          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
+          "name": "TSN SPORTS FHD",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/4752/image",
