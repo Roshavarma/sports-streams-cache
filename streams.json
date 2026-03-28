@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-28T18:50:22.712367",
-  "event_count": 15,
+  "last_updated": "2026-03-28T18:55:21.068889",
+  "event_count": 12,
   "events": [
     {
       "category": "Boxing",
@@ -178,26 +178,12 @@
       "id": 56,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2852/image",
-      "teamAName": "Sporting Gijón",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2832/image",
-      "teamBName": "Deportivo La Coruña",
-      "time": "20:00:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "28/03/2026",
-      "end_date": "28/03/2026",
-      "end_time": "17:35:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/54/image/dark",
-      "eventName": "LaLiga 2",
-      "id": 58,
-      "links": [
+          "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
+          "name": "beIN ENGLISH",
+          "scheme": 0,
+          "tokenApi": ""
+        },
         {
           "api": "d69894c7b729c5d1e85893e5e6cfcb0f:db0d53f871f5d2ef91d3a112c7ec9f30",
           "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/tcninbbnt5/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd",
@@ -206,35 +192,11 @@
           "tokenApi": ""
         }
       ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2831/image",
-      "teamAName": "Real Valladolid",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2854/image",
-      "teamBName": "Burgos Club de Fútbol",
-      "time": "15:15:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "28/03/2026",
-      "end_date": "28/03/2026",
-      "end_time": "18:20:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
-      "eventName": "International Friendly Games",
-      "id": 60,
-      "links": [
-        {
-          "api": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811",
-          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
-          "name": "FOX DEPORTES",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4739/image",
-      "teamAName": "Senegal",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4790/image",
-      "teamBName": "Peru",
-      "time": "16:00:00",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2852/image",
+      "teamAName": "Sporting Gijón",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2832/image",
+      "teamBName": "Deportivo La Coruña",
+      "time": "20:00:00",
       "visible": true
     },
     {
@@ -295,8 +257,18 @@
       "id": 63,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
+          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
+          "name": "PREMIER SPORTS FHD",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "96b67fa09140329a89b7a1ead134eda3:c618d32c56cdc6cad8330eb98507ca3f",
+          "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-east)/master.mpd",
+          "name": "NBC UNIVERSO",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/4724/image",
@@ -383,142 +355,24 @@
       "visible": true
     },
     {
-      "category": "Cricket",
-      "date": "28/03/2026",
-      "end_date": "28/03/2026",
-      "end_time": "18:00:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark",
-      "eventName": "Indian Premier League",
-      "id": 69,
+      "category": "Football",
+      "date": "29/03/2026",
+      "end_date": "29/03/2026",
+      "end_time": "03:20:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
+      "eventName": "International Friendly Games",
+      "id": 68,
       "links": [
         {
-          "api": "4a3d50bef26a7b2acebfb719a2d02476:f94f4e94b57e18e48450231b20222c0c",
-          "link": "https://a201aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/kksbtkclxn/out/v1/75ba74c3fa354297aa9327a31dfeb4d5/cenc.mpd",
-          "name": "Willow FHD AQ",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://imgs-001.juno-api-noe.icu/secure/api/v1/ev-ecae6a2458e3.m3u8",
-          "name": "FOX CRICKET FHD",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "http://195.178.110.25/hls/KYYYYQQQQQX.m3u8|Referer=http://www.fawanews.sc/",
-          "name": "WILLOW - HD",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "http://103.229.254.25:7001/play/a0a0/index.m3u8",
-          "name": "SS 1 - FHD",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://link-sp.deadxploit.workers.dev/star1in/index.m3u8|referer=https://profamouslife.com/",
-          "name": "SS 1 HINDI - SD",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://link-sp.deadxploit.workers.dev/skyscric/index.m3u8|referer=https://profamouslife.com/",
-          "name": "Sky Sports - SD",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://imgs-001.juno-api-noe.icu/secure/api/v1/willow-cricket.m3u8?md5=fab393ad1c20eb47621d12a2ce903c6c&exp=1774710929",
-          "name": "Willow SD",
-          "scheme": 0,
-          "tokenApi": ""
+          "link": "https://no.link",
+          "name": "Link 1"
         }
       ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/187843/image",
-      "teamAName": "Royal Challengers Bengaluru",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/187844/image",
-      "teamBName": "Sunrisers Hyderabad",
-      "time": "14:00:00",
-      "visible": true
-    },
-    {
-      "category": "Cricket",
-      "date": "28/03/2026",
-      "end_date": "28/03/2026",
-      "end_time": "18:00:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11170/image/dark",
-      "eventName": "Pakistan Super League",
-      "id": 70,
-      "links": [
-        {
-          "api": "bf818f06a688b38f0806766a90ab1401:109041367914117f35eb95c03620f9f9",
-          "link": "https://a201aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/ilxvnsqhwj/out/v1/42ad6d968b4346c3b6ee94af5af792e1/cenc.mpd",
-          "name": "WILLOW [ADS FREE]",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
-          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd?",
-          "name": "WILLOW SPORTS",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://psl.bigbaat.app/out/v1/0ef369b90c7b4025b76621e46ee5fb70/index.m3u8?st=playztv",
-          "name": "URDU - AQ",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://live.incableinternet.com/v/kooker_ptvsportshd/kooker_ptvsportshd.mpd",
-          "name": "PTV SPORTS - HD",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://tencentcdn4.tamashaweb.com/v1/0196159d28a51ea5064913eb2a83e7/0196159e84f81ea506ec1adad310bd/TMSH_U1_APP.m3u8",
-          "name": "English ADFREE - PK",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://tencentcdn10.tamashaweb.com/v1/019bf00a091715fc600b35c80a5fa9/019bffd5aa3e15fc60e91af7637f3f/TMSH_APP2_CLEAN.m3u8",
-          "name": "URDU ADSFREE - PK",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://link-sp.deadxploit.workers.dev/asportshd/index.m3u8|referer=https://profamouslife.com/",
-          "name": "A SPORTS - SD",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "4e8b5ddac5332a4e66c002b4c0f22322:d06de29b0eacb81ac6e3f325849047e8",
-          "link": "https://cors-proxy.cooks.fyi/https://ev-fast-mpd.starzplayarabia.com/live/eds/Criclife_3/DASH/Criclife_3.mpd",
-          "name": "CRICBUZZ",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/273650/image",
-      "teamAName": "Multan Sultans",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/212416/image",
-      "teamBName": "Islamabad United",
-      "time": "14:00:00",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/4781/image",
+      "teamAName": "Mexico",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/4704/image",
+      "teamBName": "Portugal",
+      "time": "01:00:00",
       "visible": true
     }
   ]
