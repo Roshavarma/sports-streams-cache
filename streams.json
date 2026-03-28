@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-28T08:02:25.943489",
-  "event_count": 15,
+  "last_updated": "2026-03-28T08:10:22.063133",
+  "event_count": 19,
   "events": [
     {
       "category": "Boxing",
@@ -397,6 +397,142 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/4708/image",
       "teamBName": "Iceland",
       "time": "17:00:00",
+      "visible": true
+    },
+    {
+      "category": "Cricket",
+      "date": "29/03/2026",
+      "end_date": "",
+      "end_time": "",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11170/image/dark",
+      "eventName": "Pakistan Super League",
+      "id": 67,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/212417/image",
+      "teamAName": "Quetta Gladiators",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/1178235/image",
+      "teamBName": "Hyderabad Kingsmen",
+      "time": "09:30:00",
+      "visible": true
+    },
+    {
+      "category": "Cricket",
+      "date": "28/03/2026",
+      "end_date": "",
+      "end_time": "",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11170/image/dark",
+      "eventName": "Pakistan Super League",
+      "id": 68,
+      "links": [
+        {
+          "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
+          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd?",
+          "name": "WILLOW SPORTS",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "a7712196dbee413ab510c825e5c4d3f0:1ade126fa6a9162ba34bd5de5b1427ca",
+          "link": "https://ottlive.dishhome.com.np/protected/jQTOzZkB0RDJ74Ryniuo/dash/manifest.mpd?%7CUser-Agent=Mozilla/5.0%20(Linux;%20Android%2010;%20K)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/145.0.0.0%20Mobile%20Safari/537.36",
+          "name": "PTV SPORTS - URDU",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://cdn03isb-n.tamashaweb.com:8087/jazzauth/PSL_2026_URDU_ABR/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNC8yMDI2IDk6Mzg6MDQgUE0maGFzaF92YWx1ZT0zYXY1S01kVnlPUkxtRk5tNFU5dWNnPT0mdmFsaWRtaW51dGVzPTYw",
+          "name": "TAMASHA URDU - PK",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://pslurdu.bigbaat.app/out/v1/0ef369b90c7b4025b76621e46ee5fb70/index.m3u8",
+          "name": "URDU - AQ",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://playztv-apps.pages.dev/asports/index.m3u8",
+          "name": "A SPORTS - HD",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://ml-pull-dvc-myco.io:2096/GEO_SUPER/index.m3u8",
+          "name": "GEO SUPER HD - Pk",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://cdn01lhr-n.tamashaweb.com:8087/jazzauth/PSL-2026-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNC8yMDI2IDk6MzI6MTYgUE0maGFzaF92YWx1ZT1wcGN5OHc3TC9CUkd0UFVCS3BtYXRBPT0mdmFsaWRtaW51dGVzPTYw",
+          "name": "TAMASHA ENG - AQ",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "4e8b5ddac5332a4e66c002b4c0f22322:d06de29b0eacb81ac6e3f325849047e8",
+          "link": "https://cors-proxy.cooks.fyi/https://ev-fast-mpd.starzplayarabia.com/live/eds/Criclife_3/DASH/Criclife_3.mpd",
+          "name": "CRICBUZZ",
+          "scheme": 0,
+          "tokenApi": ""
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/212420/image",
+      "teamAName": "Peshawar Zalmi",
+      "teamBFlag": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160,q_50/lsci/db/PICTURES/CMS/414900/414948.png",
+      "teamBName": "Rawalpindiz",
+      "time": "09:30:00",
+      "visible": true
+    },
+    {
+      "category": "Cricket",
+      "date": "28/03/2026",
+      "end_date": "",
+      "end_time": "",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark",
+      "eventName": "Indian Premier League",
+      "id": 69,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/187843/image",
+      "teamAName": "Royal Challengers Bengaluru",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/187844/image",
+      "teamBName": "Sunrisers Hyderabad",
+      "time": "14:00:00",
+      "visible": true
+    },
+    {
+      "category": "Cricket",
+      "date": "28/03/2026",
+      "end_date": "",
+      "end_time": "",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11170/image/dark",
+      "eventName": "Pakistan Super League",
+      "id": 70,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/273650/image",
+      "teamAName": "Multan Sultans",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/212416/image",
+      "teamBName": "Islamabad United",
+      "time": "14:00:00",
       "visible": true
     }
   ]
