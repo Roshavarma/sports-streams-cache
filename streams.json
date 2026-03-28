@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-28T13:50:22.897852",
+  "last_updated": "2026-03-28T14:00:43.275336",
   "event_count": 18,
   "events": [
     {
@@ -352,8 +352,11 @@
       "id": 64,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "",
+          "link": "http://195.178.110.2/hls/KYYYYQQQ.m3u8|referer=http://www.fawanews.sc/",
+          "name": "HD SERVER ",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/4735/image",
@@ -436,6 +439,20 @@
       "id": 69,
       "links": [
         {
+          "api": "4a3d50bef26a7b2acebfb719a2d02476:f94f4e94b57e18e48450231b20222c0c",
+          "link": "https://a201aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/kksbtkclxn/out/v1/75ba74c3fa354297aa9327a31dfeb4d5/cenc.mpd",
+          "name": "Willow FHD AQ",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://imgs-001.juno-api-noe.icu/secure/api/v1/ev-ecae6a2458e3.m3u8",
+          "name": "FOX CRICKET FHD",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
           "api": "",
           "link": "http://195.178.110.25/hls/KYYYYQQQQQ.m3u8|Referer=http://www.fawanews.sc/",
           "name": "WILLOW - HD",
@@ -462,6 +479,13 @@
           "name": "Sky Sports - SD",
           "scheme": 0,
           "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://imgs-001.juno-api-noe.icu/secure/api/v1/willow-cricket.m3u8?md5=fab393ad1c20eb47621d12a2ce903c6c&exp=1774710929",
+          "name": "Willow SD",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/187843/image",
@@ -474,12 +498,19 @@
     {
       "category": "Cricket",
       "date": "28/03/2026",
-      "end_date": "",
-      "end_time": "",
+      "end_date": "28/03/2026",
+      "end_time": "18:00:00",
       "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11170/image/dark",
       "eventName": "Pakistan Super League",
       "id": 70,
       "links": [
+        {
+          "api": "a4e623b42bbb8466c37bbcf3b0392daa:745393798c53a9f68bfd1b1f768470bb",
+          "link": "https://a201aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/tleqynwqsz/out/v1/8287d2fdb5cf40088163e26a93935b28/cenc.mpd",
+          "name": "WILLOW [ADS FREE]",
+          "scheme": 0,
+          "tokenApi": ""
+        },
         {
           "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
           "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd?",
@@ -512,6 +543,20 @@
           "api": "",
           "link": "https://tencentcdn10.tamashaweb.com/v1/019bf00a091715fc600b35c80a5fa9/019bffd5aa3e15fc60e91af7637f3f/TMSH_APP2_CLEAN.m3u8",
           "name": "URDU ADSFREE - PK",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://link-sp.deadxploit.workers.dev/asportshd/index.m3u8|referer=https://profamouslife.com/",
+          "name": "A SPORTS - SD",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "4e8b5ddac5332a4e66c002b4c0f22322:d06de29b0eacb81ac6e3f325849047e8",
+          "link": "https://cors-proxy.cooks.fyi/https://ev-fast-mpd.starzplayarabia.com/live/eds/Criclife_3/DASH/Criclife_3.mpd",
+          "name": "CRICBUZZ",
           "scheme": 0,
           "tokenApi": ""
         }
