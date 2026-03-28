@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-28T09:30:33.770404",
+  "last_updated": "2026-03-28T09:40:21.868965",
   "event_count": 19,
   "events": [
     {
@@ -444,8 +444,8 @@
           "tokenApi": ""
         },
         {
-          "api": "a7712196dbee413ab510c825e5c4d3f0:1ade126fa6a9162ba34bd5de5b1427ca",
-          "link": "https://ottlive.dishhome.com.np/protected/jQTOzZkB0RDJ74Ryniuo/dash/manifest.mpd?%7CUser-Agent=Mozilla/5.0%20(Linux;%20Android%2010;%20K)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/145.0.0.0%20Mobile%20Safari/537.36",
+          "api": "",
+          "link": "https://live.incableinternet.com/v/kooker_ptvsportshd/kooker_ptvsportshd.mpd",
           "name": "PTV SPORTS - URDU",
           "scheme": 0,
           "tokenApi": ""
@@ -480,8 +480,8 @@
         },
         {
           "api": "",
-          "link": "https://cdn01lhr-n.tamashaweb.com:8087/jazzauth/PSL-2026-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNC8yMDI2IDk6MzI6MTYgUE0maGFzaF92YWx1ZT1wcGN5OHc3TC9CUkd0UFVCS3BtYXRBPT0mdmFsaWRtaW51dGVzPTYw",
-          "name": "TAMASHA ENG - AQ",
+          "link": "https://tencentcdn4.tamashaweb.com/v1/0196159d28a51ea5064913eb2a83e7/0196159e84f81ea506ec1adad310bd/TMSH_U1_APP.m3u8",
+          "name": "TAMASHA ENG - Ad Free",
           "scheme": 0,
           "tokenApi": ""
         },
