@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-29T14:10:30.487572",
-  "event_count": 14,
+  "last_updated": "2026-03-29T14:20:23.258279",
+  "event_count": 13,
   "events": [
     {
       "category": "Boxing",
@@ -308,30 +308,6 @@
       "category": "Football",
       "date": "29/03/2026",
       "end_date": "29/03/2026",
-      "end_time": "14:20:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/54/image/dark",
-      "eventName": "LaLiga 2",
-      "id": 76,
-      "links": [
-        {
-          "api": "d69894c7b729c5d1e85893e5e6cfcb0f:db0d53f871f5d2ef91d3a112c7ec9f30",
-          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/tcninbbnt5/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd",
-          "name": "Laliga Hypermotion ES",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2839/image",
-      "teamAName": "Eibar",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/6577/image",
-      "teamBName": "Las Palmas",
-      "time": "12:00:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "29/03/2026",
-      "end_date": "29/03/2026",
       "end_time": "15:20:00",
       "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
       "eventName": "International Friendly Games",
@@ -457,8 +433,8 @@
         },
         {
           "api": "",
-          "link": "http://75be7132.rostelekom.xyz/iptv/R3A7B6MZZFDCUL/19146/index.m3u8",
-          "name": "FOX Sports FHD",
+          "link": "https://live-pull.aisports.mobi/moviebox/device02/playlist.m3u8?sign=fdf14e28b87d16f3ecf563527a4b1850&t=1774792744|Referer=https://sportslivenow.top/",
+          "name": "Jio HotStar ",
           "scheme": 0,
           "tokenApi": ""
         },
