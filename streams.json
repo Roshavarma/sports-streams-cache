@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-29T18:10:21.284710",
+  "last_updated": "2026-03-29T18:20:24.509864",
   "event_count": 8,
   "events": [
     {
@@ -233,8 +233,18 @@
       "id": 73,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3",
+          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd",
+          "name": "PREMIERER BR",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
+          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
+          "name": "SportDigital Fussball",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/1967/image",
