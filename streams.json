@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-29T10:30:34.861243",
+  "last_updated": "2026-03-29T10:40:21.252522",
   "event_count": 17,
   "events": [
     {
@@ -258,8 +258,18 @@
       "id": 69,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "",
+          "link": "https://v.antsports.tv/live/24/index.m3u8",
+          "name": "SKY PREMIER",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://raw.githubusercontent.com/xmrt624/lpootvs/refs/heads/main/sky7.m3u8",
+          "name": "SKY Sports NZ",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/297802/image",
@@ -384,8 +394,18 @@
       "id": 75,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "",
+          "link": "https://smarthard.click/hls/w93sLKtkQf0Y/index.m3u8",
+          "name": "SKY SPORTS - NZ",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://v.antsports.tv/live/22/index.m3u8",
+          "name": "HD Stream",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/66768/image",
@@ -405,8 +425,11 @@
       "id": 76,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "d69894c7b729c5d1e85893e5e6cfcb0f:db0d53f871f5d2ef91d3a112c7ec9f30",
+          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/tcninbbnt5/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd",
+          "name": "Laliga Hypermotion ES",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/2839/image",
@@ -426,8 +449,11 @@
       "id": 77,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733",
+          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd",
+          "name": "SporTV BR",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/4776/image",
