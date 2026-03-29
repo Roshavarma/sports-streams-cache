@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-29T13:50:24.672642",
+  "last_updated": "2026-03-29T14:00:48.009485",
   "event_count": 14,
   "events": [
     {
@@ -241,8 +241,18 @@
       "id": 72,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "",
+          "link": "https://live.uu6611.com/live/sd-1-4388548.m3u8?txSecret=c949b301ccbe363691c109b4d024e58c&txTime=69C9759E|Referer=https://player.up909.com/",
+          "name": "HD SERVER ",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://raw.githubusercontent.com/xmrt624/lpootvs/refs/heads/main/sky7.m3u8",
+          "name": "Sky Sport NZ",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/299289/image",
