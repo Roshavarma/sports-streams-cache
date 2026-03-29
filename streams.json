@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-29T06:50:22.941631",
-  "event_count": 12,
+  "last_updated": "2026-03-29T07:00:43.063120",
+  "event_count": 17,
   "events": [
     {
       "category": "Boxing",
@@ -169,171 +169,6 @@
       "visible": true
     },
     {
-      "category": "Football",
-      "date": "28/03/2026",
-      "end_date": "28/03/2026",
-      "end_time": "22:20:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/54/image/dark",
-      "eventName": "LaLiga 2",
-      "id": 56,
-      "links": [
-        {
-          "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
-          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
-          "name": "beIN ENGLISH",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "d69894c7b729c5d1e85893e5e6cfcb0f:db0d53f871f5d2ef91d3a112c7ec9f30",
-          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/tcninbbnt5/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd",
-          "name": "Laliga Hypermotion ES",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2852/image",
-      "teamAName": "Sporting Gijón",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2832/image",
-      "teamBName": "Deportivo La Coruña",
-      "time": "20:00:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "28/03/2026",
-      "end_date": "28/03/2026",
-      "end_time": "19:20:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
-      "eventName": "International Friendly Games",
-      "id": 61,
-      "links": [
-        {
-          "api": "",
-          "link": "https://live.uu6611.com/live/sd-1-4512479.m3u8?txSecret=07a1ff023baa78443378cb0e26fddaad&txTime=69C83A17|Referer=https://player.up909.com/",
-          "name": "HD SERVER ",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4695/image",
-      "teamAName": "Scotland",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4770/image",
-      "teamBName": "Japan",
-      "time": "17:00:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "28/03/2026",
-      "end_date": "28/03/2026",
-      "end_time": "19:20:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
-      "eventName": "International Friendly Games",
-      "id": 62,
-      "links": [
-        {
-          "api": "",
-          "link": "https://live.uu6611.com/live/sd-1-4512478.m3u8?txSecret=9edce5737d947650e48bf40ef6e66507&txTime=69C83A17|Referer=https://player.up909.com/",
-          "name": "HD SERVER ",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4709/image",
-      "teamAName": "Hungary",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4484/image",
-      "teamBName": "Slovenia",
-      "time": "17:00:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "28/03/2026",
-      "end_date": "28/03/2026",
-      "end_time": "21:50:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
-      "eventName": "International Friendly Games",
-      "id": 63,
-      "links": [
-        {
-          "api": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
-          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
-          "name": "PREMIER SPORTS FHD",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "96b67fa09140329a89b7a1ead134eda3:c618d32c56cdc6cad8330eb98507ca3f",
-          "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-east)/master.mpd",
-          "name": "NBC UNIVERSO",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4724/image",
-      "teamAName": "USA",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4717/image",
-      "teamBName": "Belgium",
-      "time": "19:30:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "28/03/2026",
-      "end_date": "28/03/2026",
-      "end_time": "19:50:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/54/image/dark",
-      "eventName": "LaLiga 2",
-      "id": 65,
-      "links": [
-        {
-          "api": "d69894c7b729c5d1e85893e5e6cfcb0f:db0d53f871f5d2ef91d3a112c7ec9f30",
-          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/tcninbbnt5/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd",
-          "name": "Laliga Hypermotion ES",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2830/image",
-      "teamAName": "Málaga",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2845/image",
-      "teamBName": "Leganés",
-      "time": "17:30:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "28/03/2026",
-      "end_date": "28/03/2026",
-      "end_time": "19:20:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
-      "eventName": "International Friendly Games",
-      "id": 66,
-      "links": [
-        {
-          "api": "e51aa21f2a0fef9aabc120dfb655b52f:a12a987fe725a40b6be95cd84b15f689",
-          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
-          "name": "TSN SPORTS - AQ",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "c4088f5f265f9de50cffd80bf89308b7:2c4d2239d96d532b4ec2050653611003",
-          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
-          "name": "TSN SPORTS FHD",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4752/image",
-      "teamAName": "Canada",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4708/image",
-      "teamBName": "Iceland",
-      "time": "17:00:00",
-      "visible": true
-    },
-    {
       "category": "Cricket",
       "date": "29/03/2026",
       "end_date": "",
@@ -358,31 +193,252 @@
       "category": "Football",
       "date": "29/03/2026",
       "end_date": "29/03/2026",
-      "end_time": "03:20:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
-      "eventName": "International Friendly Games",
+      "end_time": "16:35:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/54/image/dark",
+      "eventName": "LaLiga 2",
       "id": 68,
       "links": [
         {
-          "api": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811",
-          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
-          "name": "FOX DEPORTES",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733",
-          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd",
-          "name": "SporTV BR",
-          "scheme": 0,
-          "tokenApi": ""
+          "link": "https://no.link",
+          "name": "Link 1"
         }
       ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4781/image",
-      "teamAName": "Mexico",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4704/image",
-      "teamBName": "Portugal",
-      "time": "01:00:00",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2868/image",
+      "teamAName": "Cultural Leonesa",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/324871/image",
+      "teamBName": "FC Andorra",
+      "time": "14:15:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "29/03/2026",
+      "end_date": "29/03/2026",
+      "end_time": "13:20:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/1044/image/dark",
+      "eventName": "Women's Super League",
+      "id": 69,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/297802/image",
+      "teamAName": "West Ham",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/326573/image",
+      "teamBName": "London City Lionesses",
+      "time": "11:00:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "29/03/2026",
+      "end_date": "29/03/2026",
+      "end_time": "21:20:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/54/image/dark",
+      "eventName": "LaLiga 2",
+      "id": 70,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2858/image",
+      "teamAName": "Almería",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/24360/image",
+      "teamBName": "Real Sociedad B U21",
+      "time": "19:00:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "29/03/2026",
+      "end_date": "29/03/2026",
+      "end_time": "21:20:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
+      "eventName": "International Friendly Games",
+      "id": 71,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/4820/image",
+      "teamAName": "Colombia",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/4481/image",
+      "teamBName": "France",
+      "time": "19:00:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "29/03/2026",
+      "end_date": "29/03/2026",
+      "end_time": "16:20:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/1044/image/dark",
+      "eventName": "Women's Super League",
+      "id": 72,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/299289/image",
+      "teamAName": "Leicester City",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/266376/image",
+      "teamBName": "Brighton",
+      "time": "14:00:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "29/03/2026",
+      "end_date": "30/03/2026",
+      "end_time": "00:50:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/325/image/dark",
+      "eventName": "Brasileirão Betano",
+      "id": 73,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/1967/image",
+      "teamAName": "Athletico",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/1958/image",
+      "teamBName": "Botafogo",
+      "time": "22:30:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "29/03/2026",
+      "end_date": "29/03/2026",
+      "end_time": "18:50:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/54/image/dark",
+      "eventName": "LaLiga 2",
+      "id": 74,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2815/image",
+      "teamAName": "Real Zaragoza",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2835/image",
+      "teamBName": "Real Racing Club",
+      "time": "16:30:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "29/03/2026",
+      "end_date": "29/03/2026",
+      "end_time": "13:20:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/1044/image/dark",
+      "eventName": "Women's Super League",
+      "id": 75,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/66768/image",
+      "teamAName": "Chelsea FC",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/266375/image",
+      "teamBName": "Aston Villa",
+      "time": "11:00:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "29/03/2026",
+      "end_date": "29/03/2026",
+      "end_time": "14:20:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/54/image/dark",
+      "eventName": "LaLiga 2",
+      "id": 76,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2839/image",
+      "teamAName": "Eibar",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/6577/image",
+      "teamBName": "Las Palmas",
+      "time": "12:00:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "29/03/2026",
+      "end_date": "29/03/2026",
+      "end_time": "15:20:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
+      "eventName": "International Friendly Games",
+      "id": 77,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/4776/image",
+      "teamAName": "Lithuania",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/4763/image",
+      "teamBName": "Georgia",
+      "time": "13:00:00",
+      "visible": true
+    },
+    {
+      "category": "Cricket",
+      "date": "29/03/2026",
+      "end_date": "",
+      "end_time": "",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11170/image/dark",
+      "eventName": "Pakistan Super League",
+      "id": 78,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/212419/image",
+      "teamAName": "Lahore Qalandars",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/212418/image",
+      "teamBName": "Karachi Kings",
+      "time": "14:00:00",
+      "visible": true
+    },
+    {
+      "category": "Cricket",
+      "date": "29/03/2026",
+      "end_date": "",
+      "end_time": "",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark",
+      "eventName": "Indian Premier League",
+      "id": 79,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/187780/image",
+      "teamAName": "Mumbai Indians",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/187775/image",
+      "teamBName": "Kolkata Knight Riders",
+      "time": "14:00:00",
       "visible": true
     }
   ]
