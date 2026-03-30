@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-30T13:40:27.166062",
+  "last_updated": "2026-03-30T13:50:26.980842",
   "event_count": 7,
   "events": [
     {
@@ -97,7 +97,7 @@
       "teamBFlag": "https://access-control-center-prod.freevision.live/ss/category/36.png",
       "teamBName": "Formula 1",
       "time": "12:00:00",
-      "visible": false
+      "visible": true
     },
     {
       "category": "Boxing",
@@ -186,6 +186,13 @@
         },
         {
           "api": "",
+          "link": "https://imgs-001.juno-api-noe.icu/secure/api/v1/fox-sports-501.m3u8?md5=36da8882133166ac0912920ab14a0df9&exp=1774884276",
+          "name": "FOX CRICKET FHD",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
           "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https",
           "name": "SKY CRICKET FHD",
           "scheme": 0,
@@ -195,6 +202,20 @@
           "api": "",
           "link": "https://valverdeaethegoat.valverdeae7.workers.dev/live.m3u8|referer=https://matcheslinkz.pages.dev/&origin=https://matcheslinkz.pages.dev",
           "name": "HOTSTAR HINDI S2",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://imgs-001.juno-api-noe.icu/secure/api/v1/willow-cricket.m3u8?md5=a75bbdf884513a66f01a169fcddf44cf&exp=1774884373",
+          "name": "Willow HD",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://imgs-001.juno-api-noe.icu/secure/api/v1/star-sport-1-hindi.m3u8?md5=4cb91c11264b92582e8755eec30c2943&exp=1774884338",
+          "name": "Star Hindi",
           "scheme": 0,
           "tokenApi": ""
         }
