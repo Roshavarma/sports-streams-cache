@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-30T13:10:30.524807",
-  "event_count": 8,
+  "last_updated": "2026-03-30T13:30:44.527957",
+  "event_count": 7,
   "events": [
     {
       "category": "Boxing",
@@ -35,7 +35,7 @@
     },
     {
       "category": "Motorsports",
-      "date": "29/03/2026",
+      "date": "10/04/2026",
       "end_date": "",
       "end_time": "",
       "eventLogo": "https://access-control-center-prod.freevision.live/ss/category/36.png",
@@ -96,7 +96,7 @@
       "teamAName": "Formula 1",
       "teamBFlag": "https://access-control-center-prod.freevision.live/ss/category/36.png",
       "teamBName": "Formula 1",
-      "time": "06:00:00",
+      "time": "12:00:00",
       "visible": false
     },
     {
@@ -169,113 +169,83 @@
       "visible": true
     },
     {
-      "category": "Football",
-      "date": "29/03/2026",
-      "end_date": "29/03/2026",
-      "end_time": "21:20:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/54/image/dark",
-      "eventName": "LaLiga 2",
-      "id": 70,
+      "category": "Cricket",
+      "date": "30/03/2026",
+      "end_date": "30/03/2026",
+      "end_time": "18:15:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark",
+      "eventName": "Indian Premier League",
+      "id": 56,
       "links": [
         {
-          "api": "d69894c7b729c5d1e85893e5e6cfcb0f:db0d53f871f5d2ef91d3a112c7ec9f30",
-          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/tcninbbnt5/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd",
-          "name": "Laliga Hypermotion ES",
+          "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
+          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+          "name": "WILLOW SP - AQ",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https",
+          "name": "SKY CRICKET FHD",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://valverdeaethegoat.valverdeae7.workers.dev/live.m3u8|referer=https://matcheslinkz.pages.dev/&origin=https://matcheslinkz.pages.dev",
+          "name": "HOTSTAR HINDI S2",
           "scheme": 0,
           "tokenApi": ""
         }
       ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2858/image",
-      "teamAName": "Almería",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/24360/image",
-      "teamBName": "Real Sociedad B U21",
-      "time": "19:00:00",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/187842/image",
+      "teamAName": "Rajasthan Royals",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/187777/image",
+      "teamBName": "Chennai Super Kings",
+      "time": "14:00:00",
       "visible": true
     },
     {
       "category": "Football",
-      "date": "29/03/2026",
-      "end_date": "29/03/2026",
-      "end_time": "21:20:00",
+      "date": "30/03/2026",
+      "end_date": "30/03/2026",
+      "end_time": "18:20:00",
       "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
       "eventName": "International Friendly Games",
-      "id": 71,
+      "id": 57,
       "links": [
         {
-          "api": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
-          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
-          "name": "SportDigital Fussball",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "96b67fa09140329a89b7a1ead134eda3:c618d32c56cdc6cad8330eb98507ca3f",
-          "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-east)/master.mpd",
-          "name": "NBC UNIVERSO - AQ",
-          "scheme": 0,
-          "tokenApi": ""
+          "link": "https://no.link",
+          "name": "Link 1"
         }
       ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4820/image",
-      "teamAName": "Colombia",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4481/image",
-      "teamBName": "France",
-      "time": "19:00:00",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/4482/image",
+      "teamAName": "Cyprus",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/4782/image",
+      "teamBName": "Moldova",
+      "time": "16:00:00",
       "visible": true
     },
     {
       "category": "Football",
-      "date": "29/03/2026",
+      "date": "30/03/2026",
       "end_date": "30/03/2026",
-      "end_time": "00:50:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/325/image/dark",
-      "eventName": "Brasileirão Betano",
-      "id": 73,
+      "end_time": "21:05:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
+      "eventName": "International Friendly Games",
+      "id": 58,
       "links": [
         {
-          "api": "56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3",
-          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd",
-          "name": "PREMIERER BR",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
-          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
-          "name": "SportDigital Fussball",
-          "scheme": 0,
-          "tokenApi": ""
+          "link": "https://no.link",
+          "name": "Link 1"
         }
       ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/1967/image",
-      "teamAName": "Athletico",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/1958/image",
-      "teamBName": "Botafogo",
-      "time": "22:30:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "29/03/2026",
-      "end_date": "29/03/2026",
-      "end_time": "18:50:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/54/image/dark",
-      "eventName": "LaLiga 2",
-      "id": 74,
-      "links": [
-        {
-          "api": "d69894c7b729c5d1e85893e5e6cfcb0f:db0d53f871f5d2ef91d3a112c7ec9f30",
-          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/tcninbbnt5/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd",
-          "name": "Laliga Hypermotion ES",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2815/image",
-      "teamAName": "Real Zaragoza",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2835/image",
-      "teamBName": "Real Racing Club",
-      "time": "16:30:00",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/4711/image",
+      "teamAName": "Germany",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/4764/image",
+      "teamBName": "Ghana",
+      "time": "18:45:00",
       "visible": true
     }
   ]
