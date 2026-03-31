@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-31T13:20:25.508016",
+  "last_updated": "2026-03-31T13:30:37.363194",
   "event_count": 26,
   "events": [
     {
@@ -421,6 +421,13 @@
       "eventName": "AFC Asian Cup Qual.",
       "id": 69,
       "links": [
+        {
+          "api": "065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2",
+          "link": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
+          "name": "FANCODE - AQ",
+          "scheme": 0,
+          "tokenApi": ""
+        },
         {
           "api": "",
           "link": "https://stream.huraweb.com/embed_view.php?id=a119bff323d5cdbb",
