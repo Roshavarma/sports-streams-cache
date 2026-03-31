@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-31T08:50:29.240491",
+  "last_updated": "2026-03-31T09:00:49.971775",
   "event_count": 28,
   "events": [
     {
@@ -263,22 +263,8 @@
       "links": [
         {
           "api": "",
-          "link": "https://stream.huraweb.com/embed_view.php?id=62782be2318ca7fb",
+          "link": "https://playztv-apps.pages.dev/ptvsports/index.m3u8",
           "name": "Server 1",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://pplive.comquas.com:5443/LiveApp/streams/9AUG8Y4aKVmk1762750828463.m3u8",
-          "name": "MRTV-4",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://pplive.comquas.com:5443/LiveApp/streams/CLcBFN71NkF61709008601656.m3u8",
-          "name": "Channel7",
           "scheme": 0,
           "tokenApi": ""
         }
