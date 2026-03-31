@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-31T10:50:26.881263",
-  "event_count": 28,
+  "last_updated": "2026-03-31T11:00:48.415214",
+  "event_count": 27,
   "events": [
     {
       "category": "Boxing",
@@ -250,37 +250,6 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/23491/image",
       "teamBName": "Brunei Darussalam",
       "time": "12:30:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "31/03/2026",
-      "end_date": "31/03/2026",
-      "end_time": "11:20:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/28/image/dark",
-      "eventName": "AFC Asian Cup Qual.",
-      "id": 60,
-      "links": [
-        {
-          "api": "",
-          "link": "https://stream.huraweb.com/embed_view.php?id=62782be2318ca7fb",
-          "name": "Server 1",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://stream.huraweb.com/embed_view.php?id=62782be2318ca7fb",
-          "name": "Server 2",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/6081/image",
-      "teamAName": "Pakistan",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/23484/image",
-      "teamBName": "Myanmar",
-      "time": "09:00:00",
       "visible": true
     },
     {
