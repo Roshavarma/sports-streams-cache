@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-31T10:20:26.257225",
+  "last_updated": "2026-03-31T10:40:24.340963",
   "event_count": 28,
   "events": [
     {
@@ -555,8 +555,11 @@
       "id": 73,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "",
+          "link": "https://stream.huraweb.com/embed_view.php?id=09328296f98a4415",
+          "name": "Server 1",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/5937/image",
@@ -597,8 +600,11 @@
       "id": 75,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "",
+          "link": "https://stream.huraweb.com/embed_view.php?id=75ea48132cd87cee",
+          "name": "Server 1",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/6911/image",
