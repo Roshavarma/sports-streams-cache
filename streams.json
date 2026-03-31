@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-31T13:50:28.911252",
+  "last_updated": "2026-03-31T13:57:41.557240",
   "event_count": 26,
   "events": [
     {
@@ -660,6 +660,13 @@
       "id": 78,
       "links": [
         {
+          "api": "cd52cd6287d4421c03ac06c93348752c:784ba87ab8a33fc18bc1c146191329ac",
+          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/4ncgjuq0f0/out/v1/f7306c616dc84f3c9f5ed27c605a5f3c/cenc.mpd",
+          "name": "WILLOW - AQ",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
           "api": "",
           "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https",
           "name": "SKY CRICKET FHD",
@@ -674,16 +681,16 @@
           "tokenApi": ""
         },
         {
-          "api": "",
-          "link": "https://stream.huraweb.com/embed_view.php?id=f36dff53412d6531",
-          "name": "Jio Star - HD",
+          "api": "1e23e51b09a67b83813c17049870bcd4:c3d6288e378b0dc55320fd0e6fd2e55f",
+          "link": "https://cors-proxy.cooks.fyi/https://ev-fast-mpd.starzplayarabia.com/live/eds/CricLife1/DASH/CricLife1.mpd",
+          "name": "CRICBUZZ - AQ",
           "scheme": 0,
           "tokenApi": ""
         },
         {
           "api": "",
-          "link": "https://stream.huraweb.com/embed_view.php?id=f2dc414390a26af1",
-          "name": "Willow - Low",
+          "link": "https://playztv-apps.pages.dev/star-sports/index.m3u8",
+          "name": "STAR SPORTS 1 - HD",
           "scheme": 0,
           "tokenApi": ""
         }
@@ -704,6 +711,20 @@
       "eventName": "Pakistan Super League",
       "id": 79,
       "links": [
+        {
+          "api": "e38dc908b384a0d230b37b5e9a0db002:5fa63b532a19bc5ad54f65e780427a6a",
+          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/jmhyels1p9/out/v1/8ebddfaab6654977bb36f0c84556de3c/cenc.mpd",
+          "name": "WILLOW [ADS FREE]",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
+          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+          "name": "WILLOW SPORTS",
+          "scheme": 0,
+          "tokenApi": ""
+        },
         {
           "api": "",
           "link": "https://psl.bigbaat.app/out/v1/f342445c31dd475bbf30c7304dbad14f/index.m3u8",
@@ -741,8 +762,8 @@
         },
         {
           "api": "",
-          "link": "https://stream.huraweb.com/embed_view.php?id=d40320e431f6a368",
-          "name": "GEO Super",
+          "link": "http://195.178.110.25/hls/PPPZQQQQ.m3u8|Referer=http://www.fawanews.sc/",
+          "name": "SD SERVER ",
           "scheme": 0,
           "tokenApi": ""
         }
