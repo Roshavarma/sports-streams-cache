@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-31T12:50:24.999279",
+  "last_updated": "2026-03-31T13:00:49.890660",
   "event_count": 26,
   "events": [
     {
@@ -647,8 +647,25 @@
       "id": 78,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "",
+          "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https",
+          "name": "SKY CRICKET FHD",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://livevideos.cricbuzz.com/hls/live/2123398/WCB-CA/9241/149640/master.m3u8?|user-agent=Cricbuzz/7.00.01 (Linux;Android 13) AndroidXMedia3/1.5.1&X-Forwarded-For=100.42.240.25&cookie=hdntl=exp=1774967734~acl=/*~id=xunivamy@denipl.com~data=hdntl,flavour:CB,matchId:149640,debug4xx:false,country:AE~hmac=0b8afe49cefc94a19289923d40a550b750a99bfa79d3adcc9b809e9d08b015c6",
+          "name": "Cricbuzz English",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "1e23e51b09a67b83813c17049870bcd4:c3d6288e378b0dc55320fd0e6fd2e55f",
+          "link": "https://cors-proxy.cooks.fyi/https://ev-fast-mpd.starzplayarabia.com/live/eds/CricLife1/DASH/CricLife1.mpd",
+          "name": "CRICBUZZ - AQ",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/187776/image",
