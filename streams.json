@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-31T19:30:39.188610",
+  "last_updated": "2026-03-31T19:40:26.270091",
   "event_count": 15,
   "events": [
     {
@@ -178,8 +178,18 @@
       "id": 56,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae",
+          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
+          "name": "FOX SPORTS FHD",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "c4088f5f265f9de50cffd80bf89308b7:2c4d2239d96d532b4ec2050653611003",
+          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
+          "name": "TSN SPORTS",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/4752/image",
@@ -309,8 +319,11 @@
       "id": 67,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733",
+          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd",
+          "name": "SporTV BR",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/4715/image",
@@ -426,8 +439,8 @@
     {
       "category": "Cricket",
       "date": "31/03/2026",
-      "end_date": "",
-      "end_time": "",
+      "end_date": "01/04/2026",
+      "end_time": "06:11:00",
       "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/18793/image/dark",
       "eventName": "ICC Women's Championship",
       "id": 77,
