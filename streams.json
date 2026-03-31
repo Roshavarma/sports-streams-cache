@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-31T17:00:45.972719",
+  "last_updated": "2026-03-31T17:10:22.647093",
   "event_count": 18,
   "events": [
     {
@@ -380,8 +380,11 @@
       "id": 70,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "1b6a50c5d0fa811db6eeacf5d2974bd3:7e8d91174fe61d56127dbd484ad0e5a5",
+          "link": "https://a201aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/chqjroxchb/out/v1/a9636c6c199b48608d18c61987bceebd/cenc.mpd",
+          "name": "VIX SPANISH - AQ",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/4709/image",
