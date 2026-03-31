@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-31T12:40:26.680398",
+  "last_updated": "2026-03-31T12:50:24.999279",
   "event_count": 26,
   "events": [
     {
@@ -668,8 +668,39 @@
       "id": 79,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "",
+          "link": "https://psl.bigbaat.app/out/v1/f342445c31dd475bbf30c7304dbad14f/index.m3u8",
+          "name": "PSL ENG",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://psl.bigbaat.app/out/v1/0ef369b90c7b4025b76621e46ee5fb70/index.m3u8?st=playztv",
+          "name": "PSL URDU",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://live.incableinternet.com/v/kooker_ptvsportshd/kooker_ptvsportshd.mpd",
+          "name": "PTV Sports ",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://tencentcdn4.tamashaweb.com/v1/0196159d28a51ea5064913eb2a83e7/0196159e84f81ea506ec1adad310bd/TMSH_U1_APP.m3u8",
+          "name": "TAMASHA ENG",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://tencentcdn10.tamashaweb.com/v1/019bf00a091715fc600b35c80a5fa9/019bffd5aa3e15fc60e91af7637f3f/TMSH_APP2_CLEAN.m3u8",
+          "name": "TAMASHA URDU",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/212416/image",
