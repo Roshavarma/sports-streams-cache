@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-31T11:40:24.556269",
+  "last_updated": "2026-03-31T11:50:26.037902",
   "event_count": 26,
   "events": [
     {
@@ -583,8 +583,11 @@
       "id": 77,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "",
+          "link": "https://stream.huraweb.com/embed_view.php?id=62782be2318ca7fb",
+          "name": "Server 1",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/4738/image",
