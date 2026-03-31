@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-31T13:30:37.363194",
+  "last_updated": "2026-03-31T13:40:25.838738",
   "event_count": 26,
   "events": [
     {
@@ -650,8 +650,8 @@
     {
       "category": "Cricket",
       "date": "31/03/2026",
-      "end_date": "",
-      "end_time": "",
+      "end_date": "31/03/2026",
+      "end_time": "18:15:00",
       "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark",
       "eventName": "Indian Premier League",
       "id": 78,
@@ -688,8 +688,8 @@
     {
       "category": "Cricket",
       "date": "31/03/2026",
-      "end_date": "",
-      "end_time": "",
+      "end_date": "31/03/2026",
+      "end_time": "18:15:00",
       "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11170/image/dark",
       "eventName": "Pakistan Super League",
       "id": 79,
@@ -726,6 +726,13 @@
           "api": "",
           "link": "https://tencentcdn10.tamashaweb.com/v1/019bf00a091715fc600b35c80a5fa9/019bffd5aa3e15fc60e91af7637f3f/TMSH_APP2_CLEAN.m3u8",
           "name": "TAMASHA URDU",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://stream.huraweb.com/embed_view.php?id=d40320e431f6a368",
+          "name": "GEO Super",
           "scheme": 0,
           "tokenApi": ""
         }
