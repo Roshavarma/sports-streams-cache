@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-31T18:50:24.392574",
-  "event_count": 18,
+  "last_updated": "2026-03-31T19:00:46.536417",
+  "event_count": 15,
   "events": [
     {
       "category": "Boxing",
@@ -199,8 +199,11 @@
       "id": 57,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "",
+          "link": "http://195.178.110.2/hls/VGGGQQQQQQQ.m3u8|Referer=http://www.fawanews.sc/",
+          "name": "SD STREAM",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/4739/image",
@@ -208,61 +211,6 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/4762/image",
       "teamBName": "Gambia",
       "time": "19:00:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "31/03/2026",
-      "end_date": "31/03/2026",
-      "end_time": "16:20:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/28/image/dark",
-      "eventName": "AFC Asian Cup Qual.",
-      "id": 58,
-      "links": [
-        {
-          "api": "",
-          "link": "https://stream.huraweb.com/embed_view.php?id=d9aedf8328e88442",
-          "name": "Server 1",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/23488/image",
-      "teamAName": "Tajikistan",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4791/image",
-      "teamBName": "Philippines",
-      "time": "14:00:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "31/03/2026",
-      "end_date": "31/03/2026",
-      "end_time": "18:20:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
-      "eventName": "International Friendly Games",
-      "id": 63,
-      "links": [
-        {
-          "api": "",
-          "link": "https://instreams.live/EU/HDTV18/index.m3u8?st=playztv|Referer=https://streamfree.click",
-          "name": "DAZN",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "http://195.178.110.27/hls/ATTT.m3u8|Referer=http://www.fawanews.sc/",
-          "name": "SD Steam",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4833/image",
-      "teamAName": "San Marino",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4818/image",
-      "teamBName": "Andorra",
-      "time": "16:00:00",
       "visible": true
     },
     {
@@ -320,8 +268,25 @@
       "id": 66,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "",
+          "link": "http://93.123.109.249/hls/JIIIJJJJ.m3u8|Referer=http://www.fawanews.sc/",
+          "name": "SD Stream ",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://602.shdigital.site/la.m3u8|Referer=https://roxiestreams.info/",
+          "name": "Hd Tv",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://602.simplyataide.boutique/la.m3u8",
+          "name": "LA ES FHD",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/4698/image",
@@ -458,126 +423,22 @@
     {
       "category": "Cricket",
       "date": "31/03/2026",
-      "end_date": "31/03/2026",
-      "end_time": "18:15:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark",
-      "eventName": "Indian Premier League",
-      "id": 78,
+      "end_date": "",
+      "end_time": "",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/18793/image/dark",
+      "eventName": "ICC Women's Championship",
+      "id": 77,
       "links": [
         {
-          "api": "cd52cd6287d4421c03ac06c93348752c:784ba87ab8a33fc18bc1c146191329ac",
-          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/4ncgjuq0f0/out/v1/f7306c616dc84f3c9f5ed27c605a5f3c/cenc.mpd",
-          "name": "WILLOW - AQ",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https",
-          "name": "SKY CRICKET FHD",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://livevideos.cricbuzz.com/hls/live/2123398/WCB-CA/9241/149640/master.m3u8?|user-agent=Cricbuzz/7.00.01 (Linux;Android 13) AndroidXMedia3/1.5.1&X-Forwarded-For=100.42.240.25&cookie=hdntl=exp=1774967734~acl=/*~id=xunivamy@denipl.com~data=hdntl,flavour:CB,matchId:149640,debug4xx:false,country:AE~hmac=0b8afe49cefc94a19289923d40a550b750a99bfa79d3adcc9b809e9d08b015c6",
-          "name": "Cricbuzz English",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "1e23e51b09a67b83813c17049870bcd4:c3d6288e378b0dc55320fd0e6fd2e55f",
-          "link": "https://cors-proxy.cooks.fyi/https://ev-fast-mpd.starzplayarabia.com/live/eds/CricLife1/DASH/CricLife1.mpd",
-          "name": "CRICBUZZ - AQ",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://playztv-apps.pages.dev/star-sports/index.m3u8",
-          "name": "STAR SPORTS 1 - HD",
-          "scheme": 0,
-          "tokenApi": ""
+          "link": "https://no.link",
+          "name": "Link 1"
         }
       ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/187776/image",
-      "teamAName": "Punjab Kings",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/216006/image",
-      "teamBName": "Gujarat Titans",
-      "time": "14:00:00",
-      "visible": true
-    },
-    {
-      "category": "Cricket",
-      "date": "31/03/2026",
-      "end_date": "31/03/2026",
-      "end_time": "18:15:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11170/image/dark",
-      "eventName": "Pakistan Super League",
-      "id": 79,
-      "links": [
-        {
-          "api": "e38dc908b384a0d230b37b5e9a0db002:5fa63b532a19bc5ad54f65e780427a6a",
-          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/jmhyels1p9/out/v1/8ebddfaab6654977bb36f0c84556de3c/cenc.mpd",
-          "name": "WILLOW [ADS FREE]",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
-          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
-          "name": "WILLOW SPORTS",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://psl.bigbaat.app/out/v1/f342445c31dd475bbf30c7304dbad14f/index.m3u8",
-          "name": "PSL ENG",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://psl.bigbaat.app/out/v1/0ef369b90c7b4025b76621e46ee5fb70/index.m3u8?st=playztv",
-          "name": "PSL URDU",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://live.incableinternet.com/v/kooker_ptvsportshd/kooker_ptvsportshd.mpd",
-          "name": "PTV Sports ",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://tencentcdn4.tamashaweb.com/v1/0196159d28a51ea5064913eb2a83e7/0196159e84f81ea506ec1adad310bd/TMSH_U1_APP.m3u8",
-          "name": "TAMASHA ENG",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://tencentcdn10.tamashaweb.com/v1/019bf00a091715fc600b35c80a5fa9/019bffd5aa3e15fc60e91af7637f3f/TMSH_APP2_CLEAN.m3u8",
-          "name": "TAMASHA URDU",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "http://195.178.110.25/hls/PPPZQQQQ.m3u8|Referer=http://www.fawanews.sc/",
-          "name": "SD SERVER ",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/212416/image",
-      "teamAName": "Islamabad United",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/212420/image",
-      "teamBName": "Peshawar Zalmi",
-      "time": "14:00:00",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/213115/image",
+      "teamAName": "New Zealand Women",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/213118/image",
+      "teamBName": "South Africa Women",
+      "time": "22:00:00",
       "visible": true
     }
   ]
