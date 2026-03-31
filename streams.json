@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-31T21:00:46.535217",
-  "event_count": 15,
+  "last_updated": "2026-03-31T21:10:24.483620",
+  "event_count": 8,
   "events": [
     {
       "category": "Boxing",
@@ -202,30 +202,6 @@
     {
       "category": "Football",
       "date": "31/03/2026",
-      "end_date": "31/03/2026",
-      "end_time": "21:20:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
-      "eventName": "International Friendly Games",
-      "id": 57,
-      "links": [
-        {
-          "api": "",
-          "link": "http://195.178.110.2/hls/VGGGQQQQQQQ.m3u8|Referer=http://www.fawanews.sc/",
-          "name": "SD STREAM",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4739/image",
-      "teamAName": "Senegal",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4762/image",
-      "teamBName": "Gambia",
-      "time": "19:00:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "31/03/2026",
       "end_date": "01/04/2026",
       "end_time": "01:35:00",
       "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
@@ -245,68 +221,6 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/4720/image",
       "teamBName": "Zambia",
       "time": "23:15:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "31/03/2026",
-      "end_date": "31/03/2026",
-      "end_time": "21:05:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
-      "eventName": "International Friendly Games",
-      "id": 65,
-      "links": [
-        {
-          "api": "dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f",
-          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd",
-          "name": "FUBO SPORTS FHD",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4718/image",
-      "teamAName": "Austria",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4735/image",
-      "teamBName": "South Korea",
-      "time": "18:45:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "31/03/2026",
-      "end_date": "31/03/2026",
-      "end_time": "21:20:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
-      "eventName": "International Friendly Games",
-      "id": 66,
-      "links": [
-        {
-          "api": "",
-          "link": "http://93.123.109.249/hls/JIIIJJJJ.m3u8|Referer=http://www.fawanews.sc/",
-          "name": "SD Stream ",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://602.shdigital.site/la.m3u8|Referer=https://roxiestreams.info/",
-          "name": "Hd Tv",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://602.simplyataide.boutique/la.m3u8",
-          "name": "LA ES FHD",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4698/image",
-      "teamAName": "Spain",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4758/image",
-      "teamBName": "Egypt",
-      "time": "19:00:00",
       "visible": true
     },
     {
@@ -331,109 +245,6 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/4748/image",
       "teamBName": "Brazil",
       "time": "00:00:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "31/03/2026",
-      "end_date": "31/03/2026",
-      "end_time": "21:05:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
-      "eventName": "International Friendly Games",
-      "id": 68,
-      "links": [
-        {
-          "api": "",
-          "link": "https://602.shdigital.site/itv.m3u8",
-          "name": "ITV FHD",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://daffodil.simplyataide.boutique/fsp.m3u8",
-          "name": "FOX SOCCER",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4713/image",
-      "teamAName": "England",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4770/image",
-      "teamBName": "Japan",
-      "time": "18:45:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "31/03/2026",
-      "end_date": "31/03/2026",
-      "end_time": "19:20:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
-      "eventName": "International Friendly Games",
-      "id": 70,
-      "links": [
-        {
-          "api": "1b6a50c5d0fa811db6eeacf5d2974bd3:7e8d91174fe61d56127dbd484ad0e5a5",
-          "link": "https://a201aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/chqjroxchb/out/v1/a9636c6c199b48608d18c61987bceebd/cenc.mpd",
-          "name": "VIX SPANISH - AQ",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4709/image",
-      "teamAName": "Hungary",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4710/image",
-      "teamBName": "Greece",
-      "time": "17:00:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "31/03/2026",
-      "end_date": "31/03/2026",
-      "end_time": "20:20:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
-      "eventName": "International Friendly Games",
-      "id": 74,
-      "links": [
-        {
-          "api": "",
-          "link": "https://daffodil.shdigital.site/claro.m3u8",
-          "name": "CLARO SPORT",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4778/image",
-      "teamAName": "Morocco",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4789/image",
-      "teamBName": "Paraguay",
-      "time": "18:00:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "31/03/2026",
-      "end_date": "31/03/2026",
-      "end_time": "19:50:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
-      "eventName": "International Friendly Games",
-      "id": 76,
-      "links": [
-        {
-          "api": "",
-          "link": "http://93.123.109.249/hls/QFFFQQQ.m3u8|Referer=http://www.fawanews.sc/",
-          "name": "SD STREAM ",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4771/image",
-      "teamAName": "Jordan",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4785/image",
-      "teamBName": "Nigeria",
-      "time": "17:30:00",
       "visible": true
     },
     {
