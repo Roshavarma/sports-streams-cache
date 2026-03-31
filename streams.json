@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-31T16:00:50.658166",
-  "event_count": 21,
+  "last_updated": "2026-03-31T16:10:33.227060",
+  "event_count": 18,
   "events": [
     {
       "category": "Boxing",
@@ -238,38 +238,24 @@
       "category": "Football",
       "date": "31/03/2026",
       "end_date": "31/03/2026",
-      "end_time": "14:50:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/28/image/dark",
-      "eventName": "AFC Asian Cup Qual.",
-      "id": 59,
-      "links": [
-        {
-          "api": "",
-          "link": "https://stream.huraweb.com/embed_view.php?id=75ea48132cd87cee",
-          "name": "Server 1",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/191564/image",
-      "teamAName": "Bhutan",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/23491/image",
-      "teamBName": "Brunei Darussalam",
-      "time": "12:30:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "31/03/2026",
-      "end_date": "31/03/2026",
       "end_time": "18:20:00",
       "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
       "eventName": "International Friendly Games",
       "id": 63,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "",
+          "link": "https://instreams.live/EU/HDTV18/index.m3u8?st=playztv|Referer=https://streamfree.click",
+          "name": "DAZN",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "http://195.178.110.27/hls/ATTT.m3u8|Referer=http://www.fawanews.sc/",
+          "name": "SD Steam",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/4833/image",
@@ -388,37 +374,6 @@
       "category": "Football",
       "date": "31/03/2026",
       "end_date": "31/03/2026",
-      "end_time": "15:50:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/28/image/dark",
-      "eventName": "AFC Asian Cup Qual.",
-      "id": 69,
-      "links": [
-        {
-          "api": "065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2",
-          "link": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
-          "name": "FANCODE - AQ",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://stream.huraweb.com/embed_view.php?id=a119bff323d5cdbb",
-          "name": "Server 2",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4828/image",
-      "teamAName": "India",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4765/image",
-      "teamBName": "Hong Kong",
-      "time": "13:30:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "31/03/2026",
-      "end_date": "31/03/2026",
       "end_time": "19:20:00",
       "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
       "eventName": "International Friendly Games",
@@ -434,30 +389,6 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/4710/image",
       "teamBName": "Greece",
       "time": "17:00:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "31/03/2026",
-      "end_date": "31/03/2026",
-      "end_time": "14:50:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/28/image/dark",
-      "eventName": "AFC Asian Cup Qual.",
-      "id": 72,
-      "links": [
-        {
-          "api": "",
-          "link": "https://stream.huraweb.com/embed_view.php?id=b3fa79aa26476de9",
-          "name": "Server 1",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4730/image",
-      "teamAName": "Thailand",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4728/image",
-      "teamBName": "Turkmenistan",
-      "time": "12:30:00",
       "visible": true
     },
     {
