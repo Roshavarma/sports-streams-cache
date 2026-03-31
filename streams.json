@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-31T08:00:47.099064",
-  "event_count": 26,
+  "last_updated": "2026-03-31T08:10:26.596438",
+  "event_count": 28,
   "events": [
     {
       "category": "Boxing",
@@ -631,6 +631,48 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/6080/image",
       "teamBName": "Bangladesh",
       "time": "12:00:00",
+      "visible": true
+    },
+    {
+      "category": "Cricket",
+      "date": "31/03/2026",
+      "end_date": "",
+      "end_time": "",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark",
+      "eventName": "Indian Premier League",
+      "id": 78,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/187776/image",
+      "teamAName": "Punjab Kings",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/216006/image",
+      "teamBName": "Gujarat Titans",
+      "time": "14:00:00",
+      "visible": true
+    },
+    {
+      "category": "Cricket",
+      "date": "31/03/2026",
+      "end_date": "",
+      "end_time": "",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11170/image/dark",
+      "eventName": "Pakistan Super League",
+      "id": 79,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/212416/image",
+      "teamAName": "Islamabad United",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/212420/image",
+      "teamBName": "Peshawar Zalmi",
+      "time": "14:00:00",
       "visible": true
     }
   ]
