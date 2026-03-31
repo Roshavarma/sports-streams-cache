@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-31T12:00:47.360720",
+  "last_updated": "2026-03-31T12:10:25.987490",
   "event_count": 26,
   "events": [
     {
@@ -265,6 +265,13 @@
           "api": "",
           "link": "https://stream.huraweb.com/embed_view.php?id=76b33213265bd4b8",
           "name": "Server 1",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://pull.niues.live/live/stream-285067_lsd.m3u8?auth_key=1774961380-0-0-8d9ba4c4aa9c8423ee4bb3e49d208e63",
+          "name": "Server 2",
           "scheme": 0,
           "tokenApi": ""
         }
@@ -589,9 +596,30 @@
       "id": 77,
       "links": [
         {
+          "api": "60dc08aae52f4c0b806a8e43f24a12c8:30d5b579966d822b215ec51a91d8a271",
+          "link": "https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd?st=playztv",
+          "name": "AQ",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
           "api": "",
           "link": "https://stream.huraweb.com/embed_view.php?id=62782be2318ca7fb",
           "name": "Server 1",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://live.uu6611.com/live/sd-1-4251487.m3u8?txSecret=7d2853ab22b962f16aa0a3d82a147ddb&txTime=69CBEAA7|Referer=https://player.up909.com/",
+          "name": "Server 2",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "http://103.175.242.10:8080/tsports1/index.m3u8",
+          "name": "Server 3",
           "scheme": 0,
           "tokenApi": ""
         }
