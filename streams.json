@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-01T19:46:05.107750",
+  "last_updated": "2026-04-01T19:50:26.463493",
   "event_count": 12,
   "events": [
     {
@@ -216,8 +216,11 @@
       "id": 57,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3",
+          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd",
+          "name": "PREMIERER BR",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/1958/image",
@@ -237,8 +240,11 @@
       "id": 58,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "d23f7433798a652a7d4f6791d9e1036c:4942eebd598b5727c5cc484cc62b52e8",
+          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/6onrfniyry/out/v1/f23069c61dbf4e00890a40b705a84079/cenc.mpd",
+          "name": "PREMIERER BR",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/1954/image",
@@ -303,8 +309,18 @@
       "id": 63,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "9dc40460c93087aea84d6315f08ecb64:f69c8d4624fddff4ca89bd0b31bdc4a7",
+          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/oy6rp0jwmf/out/v1/580ecf12bad24979baf8dd993dce053e/cenc.mpd",
+          "name": "PREMIERER BR",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
+          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
+          "name": "SportDigital Fussball",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/1966/image",
