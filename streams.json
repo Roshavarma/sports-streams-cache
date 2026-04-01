@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-01T19:20:29.059886",
-  "event_count": 16,
+  "last_updated": "2026-04-01T19:30:40.250896",
+  "event_count": 12,
   "events": [
     {
       "category": "Boxing",
@@ -273,52 +273,10 @@
       "category": "Football",
       "date": "01/04/2026",
       "end_date": "01/04/2026",
-      "end_time": "19:05:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/696/image/dark",
-      "eventName": "UEFA Women's Champions League",
-      "id": 60,
-      "links": [
-        {
-          "link": "https://no.link",
-          "name": "Link 1"
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/5543/image",
-      "teamAName": "FC Bayern München",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/301455/image",
-      "teamBName": "Manchester United",
-      "time": "16:45:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "01/04/2026",
-      "end_date": "01/04/2026",
       "end_time": "21:50:00",
       "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/54/image/dark",
       "eventName": "LaLiga 2",
       "id": 61,
-      "links": [
-        {
-          "link": "https://no.link",
-          "name": "Link 1"
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2835/image",
-      "teamAName": "Real Racing Club",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2852/image",
-      "teamBName": "Sporting Gijón",
-      "time": "19:30:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "01/04/2026",
-      "end_date": "01/04/2026",
-      "end_time": "19:20:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/54/image/dark",
-      "eventName": "LaLiga 2",
-      "id": 62,
       "links": [
         {
           "api": "d69894c7b729c5d1e85893e5e6cfcb0f:db0d53f871f5d2ef91d3a112c7ec9f30",
@@ -328,11 +286,11 @@
           "tokenApi": ""
         }
       ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/324871/image",
-      "teamAName": "FC Andorra",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2830/image",
-      "teamBName": "Málaga",
-      "time": "17:00:00",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2835/image",
+      "teamAName": "Real Racing Club",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2852/image",
+      "teamBName": "Sporting Gijón",
+      "time": "19:30:00",
       "visible": true
     },
     {
@@ -396,96 +354,6 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/1967/image",
       "teamBName": "Athletico",
       "time": "23:00:00",
-      "visible": true
-    },
-    {
-      "category": "Cricket",
-      "date": "01/04/2026",
-      "end_date": "01/04/2026",
-      "end_time": "18:00:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark",
-      "eventName": "Indian Premier League",
-      "id": 66,
-      "links": [
-        {
-          "api": "749618dc54f5bc958a67e38339147bf4:e746efd1bcc637ae2008043357c7ff6e",
-          "link": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/enc/4ncgjuq0f0/out/v1/f7306c616dc84f3c9f5ed27c605a5f3c/cenc.mpd",
-          "name": "WILLOW [Ad-Free]",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://livevideos.cricbuzz.com/hls/live/2123398/WCB-CA/9241/149662/master.m3u8?|user-agent=Cricbuzz/7.00.01 (Linux;Android 13) AndroidXMedia3/1.5.1&X-Forwarded-For=100.42.240.25&cookie=hdntl=exp=1775134851~acl=%2f*~id=xunivamy%40denipl.com~data=hdntl,flavour%3aCB,matchId%3a149662,debug4xx%3afalse,country%3aAE~hmac=e9d47e6df3653b61458d600a6b397130a79bbd64d7e630335220ce403bd52828",
-          "name": "WILLOW - [ENG]",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://livevideos.cricbuzz.com/hls/live/2123519/WCB-CA-HINDI/9241/149662/master.m3u8|user-agent=Cricbuzz/7.00.01 (Linux;Android 13) AndroidXMedia3/1.5.1&X-Forwarded-For=100.42.240.25&cookie=hdntl=exp=1775134851~acl=%2f*~id=xunivamy%40denipl.com~data=hdntl,flavour%3aCB,matchId%3a149662,debug4xx%3afalse,country%3aAE~hmac=e9d47e6df3653b61458d600a6b397130a79bbd64d7e630335220ce403bd52828",
-          "name": "WILLOW - [HIN]",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https",
-          "name": "SKY CRICKET HD",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/410010/image",
-      "teamAName": "Lucknow Super Giants",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/187841/image",
-      "teamBName": "Delhi Capitals",
-      "time": "14:00:00",
-      "visible": true
-    },
-    {
-      "category": "Cricket",
-      "date": "01/04/2026",
-      "end_date": "01/04/2026",
-      "end_time": "18:00:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11170/image/dark",
-      "eventName": "Pakistan Super League",
-      "id": 67,
-      "links": [
-        {
-          "api": "",
-          "link": "https://pslurdu.bigbaat.app/out/v1/0ef369b90c7b4025b76621e46ee5fb70/index.m3u8",
-          "name": "PSL TV [Urdu]",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://psl.bigbaat.app/out/v1/f342445c31dd475bbf30c7304dbad14f/index.m3u8",
-          "name": "PSL TV [ENG]",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://live.incableinternet.com/v/kooker_ptvsportshd/kooker_ptvsportshd.m3u8",
-          "name": "PTV SPORTS HD",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://tencentcdn7.tamashaweb.com/v1/019beffa3f101567ee93346674d021/019bff96b0e415fc600b1b67f81951/TMSH_APP2_DIRTY.m3u8",
-          "name": "TAMASHA - PK",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/273650/image",
-      "teamAName": "Multan Sultans",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/1178235/image",
-      "teamBName": "Hyderabad Kingsmen",
-      "time": "14:00:00",
       "visible": true
     }
   ]
