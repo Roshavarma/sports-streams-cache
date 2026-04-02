@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-02T07:20:30.023268",
-  "event_count": 12,
+  "last_updated": "2026-04-02T07:30:49.429870",
+  "event_count": 16,
   "events": [
     {
       "category": "Boxing",
@@ -170,222 +170,254 @@
     },
     {
       "category": "Football",
-      "date": "01/04/2026",
-      "end_date": "01/04/2026",
-      "end_time": "21:20:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/696/image/dark",
-      "eventName": "UEFA Women's Champions League",
-      "id": 56,
-      "links": [
-        {
-          "api": "065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2",
-          "link": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
-          "name": "FANCODE FHD",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://streamer.nexyl.uk/69ef899e-8ca9-4537-9f1a-fe8b4216afbb.m3u8",
-          "name": "BBC TWO UK",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://a1.kora-plus.dad/watch/b1.m3u8|Referer=https://vsys.kora-top.zip/",
-          "name": "beIN ARABIC",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/66768/image",
-      "teamAName": "Chelsea FC",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/26243/image",
-      "teamBName": "Arsenal",
-      "time": "19:00:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "01/04/2026",
-      "end_date": "02/04/2026",
-      "end_time": "00:50:00",
+      "date": "02/04/2026",
+      "end_date": "03/04/2026",
+      "end_time": "00:20:00",
       "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/325/image/dark",
       "eventName": "Brasileirão Betano",
-      "id": 57,
+      "id": 66,
       "links": [
         {
-          "api": "56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3",
-          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd",
-          "name": "PREMIERER BR",
-          "scheme": 0,
-          "tokenApi": ""
+          "link": "https://no.link",
+          "name": "Link 1"
         }
       ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/1958/image",
-      "teamAName": "Botafogo",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/21982/image",
-      "teamBName": "Mirassol",
-      "time": "22:30:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "01/04/2026",
-      "end_date": "02/04/2026",
-      "end_time": "01:20:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/325/image/dark",
-      "eventName": "Brasileirão Betano",
-      "id": 58,
-      "links": [
-        {
-          "api": "d23f7433798a652a7d4f6791d9e1036c:4942eebd598b5727c5cc484cc62b52e8",
-          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/6onrfniyry/out/v1/f23069c61dbf4e00890a40b705a84079/cenc.mpd",
-          "name": "PREMIERER BR",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/1954/image",
-      "teamAName": "Cruzeiro",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/1962/image",
-      "teamBName": "Vitória",
-      "time": "23:00:00",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/21845/image",
+      "teamAName": "Chapecoense",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/1977/image",
+      "teamBName": "Atlético Mineiro",
+      "time": "22:00:00",
       "visible": true
     },
     {
       "category": "Football",
       "date": "02/04/2026",
       "end_date": "02/04/2026",
+      "end_time": "19:20:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/54/image/dark",
+      "eventName": "LaLiga 2",
+      "id": 67,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/6577/image",
+      "teamAName": "Las Palmas",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/33779/image",
+      "teamBName": "Granada",
+      "time": "17:00:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "02/04/2026",
+      "end_date": "02/04/2026",
+      "end_time": "21:20:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/696/image/dark",
+      "eventName": "UEFA Women's Champions League",
+      "id": 68,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/26245/image",
+      "teamAName": "OL Lyonnes",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/5556/image",
+      "teamBName": "VfL Wolfsburg",
+      "time": "19:00:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "03/04/2026",
+      "end_date": "03/04/2026",
       "end_time": "02:50:00",
       "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/325/image/dark",
       "eventName": "Brasileirão Betano",
-      "id": 59,
+      "id": 69,
       "links": [
         {
-          "api": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
-          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
-          "name": "SportDigital Fussball",
-          "scheme": 0,
-          "tokenApi": ""
+          "link": "https://no.link",
+          "name": "Link 1"
         }
       ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/1961/image",
-      "teamAName": "Fluminense",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/1957/image",
-      "teamBName": "Corinthians",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/1963/image",
+      "teamAName": "Palmeiras",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/5926/image",
+      "teamBName": "Grêmio",
       "time": "00:30:00",
       "visible": true
     },
     {
       "category": "Football",
-      "date": "01/04/2026",
-      "end_date": "01/04/2026",
+      "date": "02/04/2026",
+      "end_date": "02/04/2026",
+      "end_time": "19:05:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/696/image/dark",
+      "eventName": "UEFA Women's Champions League",
+      "id": 70,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/77889/image",
+      "teamAName": "Fútbol Club Barcelona",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/305051/image",
+      "teamBName": "Real Madrid",
+      "time": "16:45:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "03/04/2026",
+      "end_date": "03/04/2026",
+      "end_time": "02:50:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/325/image/dark",
+      "eventName": "Brasileirão Betano",
+      "id": 71,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/1999/image",
+      "teamAName": "Red Bull Bragantino",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/5981/image",
+      "teamBName": "Flamengo",
+      "time": "00:30:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "02/04/2026",
+      "end_date": "02/04/2026",
+      "end_time": "21:20:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/25/image/dark",
+      "eventName": "League Two",
+      "id": 72,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/63/image",
+      "teamAName": "Cambridge United",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/53/image",
+      "teamBName": "Swindon Town",
+      "time": "19:00:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "02/04/2026",
+      "end_date": "02/04/2026",
       "end_time": "21:50:00",
       "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/54/image/dark",
       "eventName": "LaLiga 2",
-      "id": 61,
+      "id": 73,
       "links": [
         {
-          "api": "d69894c7b729c5d1e85893e5e6cfcb0f:db0d53f871f5d2ef91d3a112c7ec9f30",
-          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/tcninbbnt5/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd",
-          "name": "Laliga Hypermotion ES",
-          "scheme": 0,
-          "tokenApi": ""
+          "link": "https://no.link",
+          "name": "Link 1"
         }
       ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2835/image",
-      "teamAName": "Real Racing Club",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2852/image",
-      "teamBName": "Sporting Gijón",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2845/image",
+      "teamAName": "Leganés",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2815/image",
+      "teamBName": "Real Zaragoza",
       "time": "19:30:00",
       "visible": true
     },
     {
       "category": "Football",
-      "date": "01/04/2026",
-      "end_date": "02/04/2026",
-      "end_time": "00:50:00",
+      "date": "02/04/2026",
+      "end_date": "03/04/2026",
+      "end_time": "00:20:00",
       "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/325/image/dark",
       "eventName": "Brasileirão Betano",
-      "id": 63,
+      "id": 74,
       "links": [
         {
-          "api": "9dc40460c93087aea84d6315f08ecb64:f69c8d4624fddff4ca89bd0b31bdc4a7",
-          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/oy6rp0jwmf/out/v1/580ecf12bad24979baf8dd993dce053e/cenc.mpd",
-          "name": "PREMIERER BR",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
-          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
-          "name": "SportDigital Fussball",
-          "scheme": 0,
-          "tokenApi": ""
+          "link": "https://no.link",
+          "name": "Link 1"
         }
       ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/1966/image",
-      "teamAName": "Internacional",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/1981/image",
-      "teamBName": "São Paulo",
-      "time": "22:30:00",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/1968/image",
+      "teamAName": "Santos",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2012/image",
+      "teamBName": "Remo",
+      "time": "22:00:00",
       "visible": true
     },
     {
-      "category": "Football",
-      "date": "01/04/2026",
-      "end_date": "02/04/2026",
-      "end_time": "01:50:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/325/image/dark",
-      "eventName": "Brasileirão Betano",
-      "id": 64,
+      "category": "Cricket",
+      "date": "02/04/2026",
+      "end_date": "",
+      "end_time": "",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11170/image/dark",
+      "eventName": "Pakistan Super League",
+      "id": 75,
       "links": [
         {
-          "api": "e23365c2ad97870c871712b73f0d6195:58709c714320bb862dbd07270df81c94",
-          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tirjor64kh/out/v1/fd2ed9916d994f09a3bd62b64141b9cb/cenc.mpd",
-          "name": "PREMIERER BR",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733",
-          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd",
-          "name": "SporTV BR",
-          "scheme": 0,
-          "tokenApi": ""
+          "link": "https://no.link",
+          "name": "Link 1"
         }
       ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/1982/image",
-      "teamAName": "Coritiba",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/1974/image",
-      "teamBName": "Vasco da Gama",
-      "time": "23:30:00",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/1178236/image",
+      "teamAName": "Rawalpindiz",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/212418/image",
+      "teamBName": "Karachi Kings",
+      "time": "14:00:00",
       "visible": true
     },
     {
-      "category": "Football",
-      "date": "01/04/2026",
-      "end_date": "02/04/2026",
-      "end_time": "01:20:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/325/image/dark",
-      "eventName": "Brasileirão Betano",
-      "id": 65,
+      "category": "Cricket",
+      "date": "02/04/2026",
+      "end_date": "",
+      "end_time": "",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11170/image/dark",
+      "eventName": "Pakistan Super League",
+      "id": 76,
       "links": [
         {
-          "api": "332f62eb3cae824e98a4124da29a7d31:d1698cda3d040f9051125a61745b596b",
-          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/1obktrybht/out/v1/08265453c8f64d9fbeb3cf43764403a8/cenc.mpd",
-          "name": "PREMIERER BR",
-          "scheme": 0,
-          "tokenApi": ""
+          "link": "https://no.link",
+          "name": "Link 1"
         }
       ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/1955/image",
-      "teamAName": "Bahia",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/1967/image",
-      "teamBName": "Athletico",
-      "time": "23:00:00",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/212416/image",
+      "teamAName": "Islamabad United",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/212417/image",
+      "teamBName": "Quetta Gladiators",
+      "time": "09:30:00",
+      "visible": true
+    },
+    {
+      "category": "Cricket",
+      "date": "02/04/2026",
+      "end_date": "",
+      "end_time": "",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark",
+      "eventName": "Indian Premier League",
+      "id": 77,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/187775/image",
+      "teamAName": "Kolkata Knight Riders",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/187844/image",
+      "teamBName": "Sunrisers Hyderabad",
+      "time": "14:00:00",
       "visible": true
     }
   ]
