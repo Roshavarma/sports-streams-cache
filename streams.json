@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-02T13:40:29.145158",
+  "last_updated": "2026-04-02T13:50:29.630997",
   "event_count": 16,
   "events": [
     {
@@ -485,15 +485,46 @@
     {
       "category": "Cricket",
       "date": "02/04/2026",
-      "end_date": "",
-      "end_time": "",
+      "end_date": "02/04/2026",
+      "end_time": "18:10:00",
       "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark",
       "eventName": "Indian Premier League",
       "id": 77,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "",
+          "link": "http://stream.pdtv.workers.dev/ratvottsports/netSTARSPORTS1HD1500.stream/playlist.m3u8",
+          "name": "SS 1 ENG - FHD",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "http://stream.pdtv.workers.dev/ratvottsports/netSTARSPORTS3HD1500.stream/playlist.m3u8",
+          "name": "SS HINDI - FHD",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https",
+          "name": "SKY CRICKET FHD",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://raw.githubusercontent.com/tummeng21/m3u8/refs/heads/main/fox-501.m3u8",
+          "name": "FOX CRICKET",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "http://195.178.110.25/hls/fafafaQ.m3u8|Referer=http://www.fawanews.sc/",
+          "name": "Willow SD",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/187775/image",
