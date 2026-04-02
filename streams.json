@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-02T16:30:44.943971",
-  "event_count": 16,
+  "last_updated": "2026-04-02T16:40:36.179430",
+  "event_count": 15,
   "events": [
     {
       "category": "Boxing",
@@ -199,8 +199,11 @@
       "id": 67,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "d69894c7b729c5d1e85893e5e6cfcb0f:db0d53f871f5d2ef91d3a112c7ec9f30",
+          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/tcninbbnt5/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd",
+          "name": "Laliga Hypermotion ES",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/6577/image",
@@ -262,8 +265,11 @@
       "id": 70,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "",
+          "link": "https://smarthard.click/hls/sabrouchespndeportes/index.m3u8",
+          "name": "ESPN DEPORTES ",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/77889/image",
@@ -407,79 +413,6 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/212418/image",
       "teamBName": "Karachi Kings",
       "time": "14:00:00",
-      "visible": true
-    },
-    {
-      "category": "Cricket",
-      "date": "02/04/2026",
-      "end_date": "02/04/2026",
-      "end_time": "13:40:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11170/image/dark",
-      "eventName": "Pakistan Super League",
-      "id": 76,
-      "links": [
-        {
-          "api": "d3ab0b339a3793b694756221f489e556:d60001d5b773d766df8c717701fda847",
-          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/u6h6kvmpix/out/v1/672ef74518df43b896d9a89abc11b5cd/cenc.mpd",
-          "name": "WILLOW [Ad-Free]",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://pslurdu.bigbaat.app/out/v1/0ef369b90c7b4025b76621e46ee5fb70/index.m3u8",
-          "name": "PSL TV [Urdu]",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
-          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
-          "name": "WILLOW FHD",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://psl.bigbaat.app/out/v1/f342445c31dd475bbf30c7304dbad14f/index.m3u8",
-          "name": "PSL TV [ENG]",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://live.incableinternet.com/v/kooker_ptvsportshd/kooker_ptvsportshd.m3u8",
-          "name": "PTV SPORTS HD",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://tencentcdn7.tamashaweb.com/v1/019beffa3f101567ee93346674d021/019bff96b0e415fc600b1b67f81951/TMSH_APP2_DIRTY.m3u8",
-          "name": "TAMASHA - PK",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "http://103.175.242.10:8080/tsports1/index.m3u8",
-          "name": "TSports HD",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "http://195.178.110.25/hls/uuuuu.m3u8|Referer=http://www.fawanews.sc/",
-          "name": "SD SERVER",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/212416/image",
-      "teamAName": "Islamabad United",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/212417/image",
-      "teamBName": "Quetta Gladiators",
-      "time": "09:30:00",
       "visible": true
     },
     {
