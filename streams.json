@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-02T09:31:17.010668",
+  "last_updated": "2026-04-02T09:40:30.264975",
   "event_count": 16,
   "events": [
     {
@@ -387,6 +387,13 @@
       "eventName": "Pakistan Super League",
       "id": 76,
       "links": [
+        {
+          "api": "d3ab0b339a3793b694756221f489e556:d60001d5b773d766df8c717701fda847",
+          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/u6h6kvmpix/out/v1/672ef74518df43b896d9a89abc11b5cd/cenc.mpd",
+          "name": "WILLOW [Ad-Free]",
+          "scheme": 0,
+          "tokenApi": ""
+        },
         {
           "api": "",
           "link": "https://pslurdu.bigbaat.app/out/v1/0ef369b90c7b4025b76621e46ee5fb70/index.m3u8",
