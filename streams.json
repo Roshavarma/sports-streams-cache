@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-03T15:50:22.552782",
+  "last_updated": "2026-04-03T15:56:52.017390",
   "event_count": 16,
   "events": [
     {
@@ -427,8 +427,11 @@
       "id": 63,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "",
+          "link": "https://live.uu6611.com/live/sd-1-4404693.m3u8?txSecret=3c9e2a032eb616dca9fa3ac8b469aa5b&txTime=69D02853|Referer=https://player.up909.com/",
+          "name": "SD SERVER ",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/269199/image",
@@ -448,8 +451,11 @@
       "id": 64,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "",
+          "link": "https://live.uu6611.com/live/sd-1-4404669.m3u8?txSecret=158421abb21b05e0a8cef1ddbbae567f&txTime=69D02853|Referer=https://player.up909.com/",
+          "name": "SD SERVER ",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/34315/image",
