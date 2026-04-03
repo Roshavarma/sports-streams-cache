@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-03T13:30:40.999924",
-  "event_count": 6,
+  "last_updated": "2026-04-03T13:40:22.923160",
+  "event_count": 16,
   "events": [
     {
       "category": "Boxing",
@@ -178,8 +178,18 @@
       "id": 56,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "",
+          "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https",
+          "name": "SKY CRICKET HD",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "http://195.178.110.25/hls/LLLLqq.m3u8|Referer=http://www.fawanews.sc/",
+          "name": "SD SERVER",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/187777/image",
@@ -199,8 +209,46 @@
       "id": 57,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "",
+          "link": "https://pslurdu.bigbaat.app/out/v1/0ef369b90c7b4025b76621e46ee5fb70/index.m3u8",
+          "name": "PSL TV [Urdu]",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
+          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+          "name": "WILLOW FHD",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://psl.bigbaat.app/out/v1/f342445c31dd475bbf30c7304dbad14f/index.m3u8",
+          "name": "PSL TV [ENG]",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://live.incableinternet.com/v/kooker_ptvsportshd/kooker_ptvsportshd.m3u8",
+          "name": "PTV SPORTS HD",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://tencentcdn7.tamashaweb.com/v1/019beffa3f101567ee93346674d021/019bff96b0e415fc600b1b67f81951/TMSH_APP2_DIRTY.m3u8",
+          "name": "TAMASHA - PK",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "http://103.175.242.10:8080/tsports1/index.m3u8",
+          "name": "TSports HD",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/273650/image",
@@ -208,6 +256,216 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/212419/image",
       "teamBName": "Lahore Qalandars",
       "time": "14:00:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "03/04/2026",
+      "end_date": "03/04/2026",
+      "end_time": "16:20:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark",
+      "eventName": "Championship",
+      "id": 58,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/8/image",
+      "teamAName": "West Bromwich Albion",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/64/image",
+      "teamBName": "Wrexham",
+      "time": "14:00:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "03/04/2026",
+      "end_date": "03/04/2026",
+      "end_time": "21:20:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark",
+      "eventName": "Championship",
+      "id": 59,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/11/image",
+      "teamAName": "Coventry City",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/27/image",
+      "teamBName": "Derby County",
+      "time": "19:00:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "03/04/2026",
+      "end_date": "03/04/2026",
+      "end_time": "16:20:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark",
+      "eventName": "Championship",
+      "id": 60,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/31/image",
+      "teamAName": "Leicester City",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/21/image",
+      "teamBName": "Preston North End",
+      "time": "14:00:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "03/04/2026",
+      "end_date": "03/04/2026",
+      "end_time": "16:20:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark",
+      "eventName": "Championship",
+      "id": 61,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/29/image",
+      "teamAName": "Stoke City",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/12/image",
+      "teamBName": "Sheffield Wednesday",
+      "time": "14:00:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "03/04/2026",
+      "end_date": "03/04/2026",
+      "end_time": "16:20:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark",
+      "eventName": "Championship",
+      "id": 62,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/95/image",
+      "teamAName": "Oxford United",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/96/image",
+      "teamBName": "Hull City",
+      "time": "14:00:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "03/04/2026",
+      "end_date": "03/04/2026",
+      "end_time": "18:20:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/955/image/dark",
+      "eventName": "Saudi Pro League",
+      "id": 63,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/269199/image",
+      "teamAName": "Al-Kholood",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/167228/image",
+      "teamBName": "Al-Khaleej",
+      "time": "16:00:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "03/04/2026",
+      "end_date": "03/04/2026",
+      "end_time": "18:35:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/955/image/dark",
+      "eventName": "Saudi Pro League",
+      "id": 64,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/34315/image",
+      "teamAName": "Al-Ittihad",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/168086/image",
+      "teamBName": "Al-Hazem",
+      "time": "16:15:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "03/04/2026",
+      "end_date": "03/04/2026",
+      "end_time": "21:05:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/34/image/dark",
+      "eventName": "Ligue 1",
+      "id": 65,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/1644/image",
+      "teamAName": "Paris Saint-Germain",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/1681/image",
+      "teamBName": "Toulouse",
+      "time": "18:45:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "03/04/2026",
+      "end_date": "03/04/2026",
+      "end_time": "20:20:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/955/image/dark",
+      "eventName": "Saudi Pro League",
+      "id": 66,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/23400/image",
+      "teamAName": "Al-Nassr",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/395831/image",
+      "teamBName": "Al-Najma SC",
+      "time": "18:00:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "03/04/2026",
+      "end_date": "03/04/2026",
+      "end_time": "21:20:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/8/image/dark",
+      "eventName": "LaLiga",
+      "id": 67,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2818/image",
+      "teamAName": "Rayo Vallecano",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2846/image",
+      "teamBName": "Elche",
+      "time": "19:00:00",
       "visible": true
     }
   ]
