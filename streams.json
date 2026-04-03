@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-03T18:27:03.250120",
-  "event_count": 12,
+  "last_updated": "2026-04-03T18:30:35.796176",
+  "event_count": 8,
   "events": [
     {
       "category": "Boxing",
@@ -169,131 +169,6 @@
       "visible": true
     },
     {
-      "category": "Cricket",
-      "date": "03/04/2026",
-      "end_date": "03/04/2026",
-      "end_time": "18:15:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark",
-      "eventName": "Indian Premier League",
-      "id": 56,
-      "links": [
-        {
-          "api": "bf4a5c832ba137a31310a5f4f3870cce:50a644fbe5f123ebf74454c272766861",
-          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/zsoj3odnee/out/v1/c952c04aa15d47eba29b175c89afb90c/cenc.mpd",
-          "name": "WILLOW - AQ",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "1e23e51b09a67b83813c17049870bcd4:c3d6288e378b0dc55320fd0e6fd2e55f",
-          "link": "https://ev-fast-mpd.starzplayarabia.com/live/eds/CricLife1/DASH/CricLife1.mpd",
-          "name": "STARZPLAY - AQ",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://starshare.online:443/live/Jen12345/Jen54321/703300.ts",
-          "name": "WILLOW HINDI FHD",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https",
-          "name": "SKY CRICKET HD",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "http://xui.mainserver.cc/play/oCkZyqACmAE6FvzKu_186PEFGOk9LoJ4xGfS1beyo7s/.m3u8",
-          "name": "Willow HD",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "http://195.178.110.25/hls/LLLLqq.m3u8|Referer=http://www.fawanews.sc/",
-          "name": "SD SERVER",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/187777/image",
-      "teamAName": "Chennai Super Kings",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/187776/image",
-      "teamBName": "Punjab Kings",
-      "time": "14:00:00",
-      "visible": true
-    },
-    {
-      "category": "Cricket",
-      "date": "03/04/2026",
-      "end_date": "03/04/2026",
-      "end_time": "18:10:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11170/image/dark",
-      "eventName": "Pakistan Super League",
-      "id": 57,
-      "links": [
-        {
-          "api": "588bd7dc74db5d293d56de88ff51bbbb:4de42d17a6f484405b15e18dd607f676",
-          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/k2699dsdaw/out/v1/95ae1e16f1574a86be6e4da822100025/cenc.mpd",
-          "name": "WILLOW [ADS FREE]",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://pslurdu.bigbaat.app/out/v1/0ef369b90c7b4025b76621e46ee5fb70/index.m3u8",
-          "name": "PSL TV [Urdu]",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
-          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
-          "name": "WILLOW FHD",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://psl.bigbaat.app/out/v1/f342445c31dd475bbf30c7304dbad14f/index.m3u8",
-          "name": "PSL TV [ENG]",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://live.incableinternet.com/v/kooker_ptvsportshd/kooker_ptvsportshd.m3u8",
-          "name": "PTV SPORTS HD",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://tencentcdn7.tamashaweb.com/v1/019beffa3f101567ee93346674d021/019bff96b0e415fc600b1b67f81951/TMSH_APP2_DIRTY.m3u8",
-          "name": "TAMASHA - PK",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "http://103.175.242.10:8080/tsports1/index.m3u8",
-          "name": "TSports HD",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/273650/image",
-      "teamAName": "Multan Sultans",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/212419/image",
-      "teamBName": "Lahore Qalandars",
-      "time": "14:00:00",
-      "visible": true
-    },
-    {
       "category": "Football",
       "date": "03/04/2026",
       "end_date": "03/04/2026",
@@ -328,76 +203,38 @@
       "category": "Football",
       "date": "03/04/2026",
       "end_date": "03/04/2026",
-      "end_time": "18:20:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/955/image/dark",
-      "eventName": "Saudi Pro League",
-      "id": 63,
-      "links": [
-        {
-          "api": "",
-          "link": "http://93.123.109.249/hls/jjjjZZZQQ.m3u8|Referer=http://www.fawanews.sc/",
-          "name": "HD SERVER ",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://live.uu6611.com/live/sd-1-4404693.m3u8?txSecret=3c9e2a032eb616dca9fa3ac8b469aa5b&txTime=69D02853|Referer=https://player.up909.com/",
-          "name": "SD SERVER ",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/269199/image",
-      "teamAName": "Al-Kholood",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/167228/image",
-      "teamBName": "Al-Khaleej",
-      "time": "16:00:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "03/04/2026",
-      "end_date": "03/04/2026",
-      "end_time": "18:35:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/955/image/dark",
-      "eventName": "Saudi Pro League",
-      "id": 64,
-      "links": [
-        {
-          "api": "",
-          "link": "http://93.123.109.249/hls/jjjjZZZQQQ.m3u8|Referer=http://www.fawanews.sc/",
-          "name": "HD SERVER ",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://live.uu6611.com/live/sd-1-4404669.m3u8?txSecret=158421abb21b05e0a8cef1ddbbae567f&txTime=69D02853|Referer=https://player.up909.com/",
-          "name": "SD SERVER ",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/34315/image",
-      "teamAName": "Al-Ittihad",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/168086/image",
-      "teamBName": "Al-Hazem",
-      "time": "16:15:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "03/04/2026",
-      "end_date": "03/04/2026",
       "end_time": "21:05:00",
       "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/34/image/dark",
       "eventName": "Ligue 1",
       "id": 65,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "",
+          "link": "https://chatgpt.hereisman.net/playlist/48237/load-playlist?|Referer=https://gooz.aapmains.net",
+          "name": "beIN Sports ES",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://live.uu6611.com/live/hd-en-1-4347930.m3u8?txSecret=d575865292650baa9e7e79a2f2e60434&txTime=69D04875|Referer=https://player.up909.com/",
+          "name": "HD SERVER ",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://eyk4pqe8.04334746.net:8443/hls/twqw57dijwx1t.m3u8?s=UNiWcJMCUb_KUx3bny1xiQ&e=1775261237|Referer=https://fisherman.click/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
+          "name": "beIN Sports USA",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://a1.kora-plus.dad/watch/bus.m3u8",
+          "name": "SD SERVER",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/1644/image",
