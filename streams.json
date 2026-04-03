@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-03T21:00:45.432394",
+  "last_updated": "2026-04-03T21:10:24.881941",
   "event_count": 8,
   "events": [
     {
@@ -285,8 +285,8 @@
     {
       "category": "Cricket",
       "date": "03/04/2026",
-      "end_date": "",
-      "end_time": "",
+      "end_date": "04/04/2026",
+      "end_time": "06:00:00",
       "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/18793/image/dark",
       "eventName": "ICC Women's Championship",
       "id": 68,
