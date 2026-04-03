@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-03T13:50:22.442545",
+  "last_updated": "2026-04-03T14:00:46.495912",
   "event_count": 16,
   "events": [
     {
@@ -171,12 +171,33 @@
     {
       "category": "Cricket",
       "date": "03/04/2026",
-      "end_date": "",
-      "end_time": "",
+      "end_date": "03/04/2026",
+      "end_time": "18:15:00",
       "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark",
       "eventName": "Indian Premier League",
       "id": 56,
       "links": [
+        {
+          "api": "bf4a5c832ba137a31310a5f4f3870cce:50a644fbe5f123ebf74454c272766861",
+          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/zsoj3odnee/out/v1/c952c04aa15d47eba29b175c89afb90c/cenc.mpd",
+          "name": "WILLOW - AQ",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "1e23e51b09a67b83813c17049870bcd4:c3d6288e378b0dc55320fd0e6fd2e55f",
+          "link": "https://ev-fast-mpd.starzplayarabia.com/live/eds/CricLife1/DASH/CricLife1.mpd",
+          "name": "STARZPLAY - AQ",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://starshare.online:443/live/Jen12345/Jen54321/703300.ts",
+          "name": "WILLOW HINDI FHD",
+          "scheme": 0,
+          "tokenApi": ""
+        },
         {
           "api": "",
           "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https",
@@ -209,12 +230,19 @@
     {
       "category": "Cricket",
       "date": "03/04/2026",
-      "end_date": "",
-      "end_time": "",
+      "end_date": "03/04/2026",
+      "end_time": "18:10:00",
       "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11170/image/dark",
       "eventName": "Pakistan Super League",
       "id": 57,
       "links": [
+        {
+          "api": "588bd7dc74db5d293d56de88ff51bbbb:4de42d17a6f484405b15e18dd607f676",
+          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/k2699dsdaw/out/v1/95ae1e16f1574a86be6e4da822100025/cenc.mpd",
+          "name": "WILLOW [ADS FREE]",
+          "scheme": 0,
+          "tokenApi": ""
+        },
         {
           "api": "",
           "link": "https://pslurdu.bigbaat.app/out/v1/0ef369b90c7b4025b76621e46ee5fb70/index.m3u8",
