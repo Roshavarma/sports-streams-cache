@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-03T20:52:39.519533",
+  "last_updated": "2026-04-03T21:00:45.432394",
   "event_count": 8,
   "events": [
     {
@@ -248,37 +248,6 @@
       "category": "Football",
       "date": "03/04/2026",
       "end_date": "03/04/2026",
-      "end_time": "20:20:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/955/image/dark",
-      "eventName": "Saudi Pro League",
-      "id": 66,
-      "links": [
-        {
-          "api": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811",
-          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
-          "name": "FOX DEPORTES",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "http://195.178.110.37/hls/abbbb.m3u8|Referer=http://www.fawanews.sc/",
-          "name": "SD SERVER ",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/23400/image",
-      "teamAName": "Al-Nassr",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/395831/image",
-      "teamBName": "Al-Najma SC",
-      "time": "18:00:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "03/04/2026",
-      "end_date": "03/04/2026",
       "end_time": "21:20:00",
       "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/8/image/dark",
       "eventName": "LaLiga",
@@ -311,6 +280,30 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/2846/image",
       "teamBName": "Elche",
       "time": "19:00:00",
+      "visible": true
+    },
+    {
+      "category": "Cricket",
+      "date": "03/04/2026",
+      "end_date": "",
+      "end_time": "",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/18793/image/dark",
+      "eventName": "ICC Women's Championship",
+      "id": 68,
+      "links": [
+        {
+          "api": "f288380ca4cef9ad3f27a92a08e9bb8b:9f18d26291d9230833501f7f822f6875",
+          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd",
+          "name": "TNT SPORTS FHD",
+          "scheme": 0,
+          "tokenApi": ""
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/213115/image",
+      "teamAName": "New Zealand Women",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/213118/image",
+      "teamBName": "South Africa Women",
+      "time": "22:00:00",
       "visible": true
     }
   ]
