@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-04T16:10:27.652431",
-  "event_count": 31,
+  "last_updated": "2026-04-04T16:18:51.044405",
+  "event_count": 26,
   "events": [
     {
       "category": "Boxing",
@@ -244,8 +244,11 @@
       "id": 71,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
+          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
+          "name": "SportDigital Fussball",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/2950/image",
@@ -328,8 +331,11 @@
       "id": 75,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "",
+          "link": "https://live.uu6611.com/live/sd-1-4404621.m3u8?txSecret=190617356e8602740a6d8384955ff7ff&txTime=69D17BFC|Referer=https://player.up909.com/",
+          "name": "SD SERVER ",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/530631/image",
@@ -349,8 +355,25 @@
       "id": 76,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a",
+          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd",
+          "name": "Laliga TV FHD",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
+          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
+          "name": "beIN ENGLISH",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://smarthard.click/hls/sabrouchespndeportes/index.m3u8",
+          "name": "ESPN DEPORTES",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/2816/image",
@@ -412,8 +435,11 @@
       "id": 79,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "",
+          "link": "https://live.uu6611.com/live/sd-1-4404631.m3u8?txSecret=70ce1bc799c3bc81bc2c61f5fb385455&txTime=69D17BBB|Referer=https://player.up909.com/",
+          "name": "HD SERVER ",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/34469/image",
@@ -442,51 +468,6 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/1658/image",
       "teamBName": "Stade Rennais",
       "time": "17:00:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "04/04/2026",
-      "end_date": "04/04/2026",
-      "end_time": "14:20:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/8/image/dark",
-      "eventName": "LaLiga",
-      "id": 81,
-      "links": [
-        {
-          "api": "620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a",
-          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd",
-          "name": "Laliga TV FHD",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
-          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
-          "name": "beIN ENGLISH",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2",
-          "link": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
-          "name": "FANCODE FHD",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://smarthard.click/hls/sabrouchespndeportes/index.m3u8",
-          "name": "ESPN DEPORTES",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2824/image",
-      "teamAName": "Real Sociedad",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2849/image",
-      "teamBName": "Levante UD",
-      "time": "12:00:00",
       "visible": true
     },
     {
@@ -544,8 +525,25 @@
       "id": 84,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b",
+          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd",
+          "name": "TNT SPORTS FHD",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://chatgpt.hereisman.net/playlist/48284/load-playlist?|Referer=https://gooz.aapmains.net",
+          "name": "TNT SPORTS HD",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
+          "link": "https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd",
+          "name": "NOVA SPORTS",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/38/image",
@@ -565,30 +563,16 @@
       "id": 85,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2677/image",
-      "teamAName": "VfB Stuttgart",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2673/image",
-      "teamBName": "Borussia Dortmund",
-      "time": "16:30:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "04/04/2026",
-      "end_date": "04/04/2026",
-      "end_time": "15:50:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/35/image/dark",
-      "eventName": "Bundesliga",
-      "id": 86,
-      "links": [
-        {
           "api": "4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733",
           "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd",
-          "name": "SporTV BR - AQ",
+          "name": "SporTV BR",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://chatgpt.hereisman.net/playlist/48285/load-playlist?|Referer=https://gooz.aapmains.net",
+          "name": "HD SERVER ",
           "scheme": 0,
           "tokenApi": ""
         },
@@ -598,58 +582,13 @@
           "name": "Sky Bundesliga HD",
           "scheme": 0,
           "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://smarthard.click/hls/8r59wy2BRApK/index.m3u8",
-          "name": "Sky Bundesliga SD",
-          "scheme": 0,
-          "tokenApi": ""
         }
       ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2538/image",
-      "teamAName": "SC Freiburg",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2672/image",
-      "teamBName": "FC Bayern München",
-      "time": "13:30:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "04/04/2026",
-      "end_date": "04/04/2026",
-      "end_time": "15:50:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/35/image/dark",
-      "eventName": "Bundesliga",
-      "id": 87,
-      "links": [
-        {
-          "api": "",
-          "link": "https://instreams.live/EU/HDTV12/index.m3u8?st=SportzX|Referer=https://streamfree.click/&Origin=https://streamfree.click",
-          "name": "Sky Bundesliga HD",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://smarthard.click/hls/9gSZoyFska/index.m3u8",
-          "name": "Sky Bundesliga SD",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://live.uu6611.com/live/hd-en-1-4347610.m3u8?txSecret=536f65525e4fe3650ec31dc5fa2cbdc2&txTime=69D15903|Referer=https://player.up909.com/",
-          "name": "HD SERVER ",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2681/image",
-      "teamAName": "Bayer 04 Leverkusen",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2524/image",
-      "teamBName": "VfL Wolfsburg",
-      "time": "13:30:00",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2677/image",
+      "teamAName": "VfB Stuttgart",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2673/image",
+      "teamBName": "Borussia Dortmund",
+      "time": "16:30:00",
       "visible": true
     },
     {
@@ -747,44 +686,6 @@
       "visible": true
     },
     {
-      "category": "Football",
-      "date": "04/04/2026",
-      "end_date": "04/04/2026",
-      "end_time": "15:20:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/23/image/dark",
-      "eventName": "Serie A",
-      "id": 93,
-      "links": [
-        {
-          "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
-          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
-          "name": "beIN ENGLISH FHD",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
-          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
-          "name": "CBS NETWORK",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811",
-          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
-          "name": "FOX DEPORTES",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2793/image",
-      "teamAName": "Sassuolo",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2719/image",
-      "teamBName": "Cagliari",
-      "time": "13:00:00",
-      "visible": true
-    },
-    {
       "category": "Cricket",
       "date": "04/04/2026",
       "end_date": "04/04/2026",
@@ -834,65 +735,6 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/187842/image",
       "teamBName": "Rajasthan Royals",
       "time": "14:00:00",
-      "visible": true
-    },
-    {
-      "category": "Cricket",
-      "date": "04/04/2026",
-      "end_date": "04/04/2026",
-      "end_time": "14:10:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark",
-      "eventName": "Indian Premier League",
-      "id": 95,
-      "links": [
-        {
-          "api": "f9bf2fc5edef8f9c01b2d080645fa06f:37ef689ddf8619259b02368d2b538b86",
-          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/gkte6ghqa9/out/v1/70f3278bc2bc4fdaaf07715fe5bd10bc/cenc.mpd",
-          "name": "WILLOW ENG - AQ",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https",
-          "name": "SKY CRICKET HD",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://ru-001.local-honduras-center.sbs/secure/api/v1/lchd-fs501.m3u8",
-          "name": "FOX CRICKET FHD",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://ru-001.local-honduras-center.sbs/secure/api/v1/lchd-ipltata.m3u8",
-          "name": "HINDI HD",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "1e23e51b09a67b83813c17049870bcd4:c3d6288e378b0dc55320fd0e6fd2e55f",
-          "link": "https://cors-proxy.cooks.fyi/https://ev-fast-mpd.starzplayarabia.com/live/eds/CricLife1/DASH/CricLife1.mpd",
-          "name": "STARZPLAY - AQ",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://livevideos.cricbuzz.com/hls/live/2123398/WCB-CA/9241/149684/master.m3u8?|user-agent=Cricbuzz/7.00.01 (Linux;Android 13) AndroidXMedia3/1.5.1&X-Forwarded-For=100.42.240.25&cookie=hdntl=exp=1775309959~acl=/*~id=xunivamy@denipl.com~data=hdntl,flavour:CB,matchId:149684,debug4xx:false,country:AE~hmac=4b684370c04d109e4e7088c4e22f20c0caeed68e703ea4f5c889c2d57eb38192",
-          "name": "Cricbuzz English - AQ",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/187841/image",
-      "teamAName": "Delhi Capitals",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/187780/image",
-      "teamBName": "Mumbai Indians",
-      "time": "10:00:00",
       "visible": true
     },
     {
