@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-04T14:00:47.824881",
+  "last_updated": "2026-04-04T14:10:23.573757",
   "event_count": 31,
   "events": [
     {
@@ -794,8 +794,8 @@
       "id": 94,
       "links": [
         {
-          "api": "f9bf2fc5edef8f9c01b2d080645fa06f:37ef689ddf8619259b02368d2b538b86",
-          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/gkte6ghqa9/out/v1/70f3278bc2bc4fdaaf07715fe5bd10bc/cenc.mpd",
+          "api": "242a0612eb2cf817fa69cd18ee140450:bef3f38b21b088a7f0644b5169fcfcae",
+          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tug1yvvlko/out/v1/809fadb196f043b8988ac1505100a204/cenc.mpd",
           "name": "WILLOW [Ad-Free]",
           "scheme": 0,
           "tokenApi": ""
@@ -818,6 +818,13 @@
           "api": "",
           "link": "https://livevideos.cricbuzz.com/hls/live/2123398/WCB-CA/9241/149699/master.m3u8?|user-agent=Cricbuzz/7.00.01 (Linux;Android 13) AndroidXMedia3/1.5.1&X-Forwarded-For=100.42.240.25&cookie=hdntl=exp=1775379903~acl=/*~id=xunivamy@denipl.com~data=hdntl,flavour:CB,matchId:149695,debug4xx:false,country:AE~hmac=d9b4e38e10f1344fa9a3ef37f87920243c7cf9808ba64516e7c23cb32dfd40cc",
           "name": "WILLOW ENG",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "dd06ecf8f97a4526ba6a4b55e00f931a:2b8648806e203a44adc5fb1326770c17:3335649259ea47f7a5053d8bdf57cd34:597c2f698102cb103cdd56723a4695a2",
+          "link": "http://foxteldashlive01.akamaized.net/live/channel091/channel091_mcs.isml/playlist_high.mpd?cm=yes&hdnts=exp=1775327321~hmac=e2a39cde4868b2aeaaf75a5fc284d16aff0f91a87a5f4658246b2775d102096b",
+          "name": "FOX SPORTS - AQ",
           "scheme": 0,
           "tokenApi": ""
         }
