@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-04T09:30:39.627286",
-  "event_count": 29,
+  "last_updated": "2026-04-04T09:40:23.861308",
+  "event_count": 32,
   "events": [
     {
       "category": "Boxing",
@@ -691,6 +691,100 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/2719/image",
       "teamBName": "Cagliari",
       "time": "13:00:00",
+      "visible": true
+    },
+    {
+      "category": "Cricket",
+      "date": "04/04/2026",
+      "end_date": "",
+      "end_time": "",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark",
+      "eventName": "Indian Premier League",
+      "id": 94,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/216006/image",
+      "teamAName": "Gujarat Titans",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/187842/image",
+      "teamBName": "Rajasthan Royals",
+      "time": "14:00:00",
+      "visible": true
+    },
+    {
+      "category": "Cricket",
+      "date": "04/04/2026",
+      "end_date": "04/04/2026",
+      "end_time": "14:10:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark",
+      "eventName": "Indian Premier League",
+      "id": 95,
+      "links": [
+        {
+          "api": "",
+          "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https",
+          "name": "SKY CRICKET HD",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://ru-001.local-honduras-center.sbs/secure/api/v1/lchd-fs501.m3u8",
+          "name": "FOX CRICKET FHD",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://ru-001.local-honduras-center.sbs/secure/api/v1/lchd-ipltata.m3u8",
+          "name": "HINDI HD",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "1e23e51b09a67b83813c17049870bcd4:c3d6288e378b0dc55320fd0e6fd2e55f",
+          "link": "https://cors-proxy.cooks.fyi/https://ev-fast-mpd.starzplayarabia.com/live/eds/CricLife1/DASH/CricLife1.mpd",
+          "name": "STARZPLAY - AQ",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://livevideos.cricbuzz.com/hls/live/2123398/WCB-CA/9241/149684/master.m3u8?|user-agent=Cricbuzz/7.00.01 (Linux;Android 13) AndroidXMedia3/1.5.1&X-Forwarded-For=100.42.240.25&cookie=hdntl=exp=1775309959~acl=/*~id=xunivamy@denipl.com~data=hdntl,flavour:CB,matchId:149684,debug4xx:false,country:AE~hmac=4b684370c04d109e4e7088c4e22f20c0caeed68e703ea4f5c889c2d57eb38192",
+          "name": "Cricbuzz English - AQ",
+          "scheme": 0,
+          "tokenApi": ""
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/187841/image",
+      "teamAName": "Delhi Capitals",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/187780/image",
+      "teamBName": "Mumbai Indians",
+      "time": "10:00:00",
+      "visible": true
+    },
+    {
+      "category": "Cricket",
+      "date": "04/04/2026",
+      "end_date": "",
+      "end_time": "",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11170/image/dark",
+      "eventName": "Pakistan Super League",
+      "id": 96,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/1178236/image",
+      "teamAName": "Rawalpindiz",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/212416/image",
+      "teamBName": "Islamabad United",
+      "time": "14:00:00",
       "visible": true
     }
   ]
