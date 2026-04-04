@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-04T19:00:52.647425",
+  "last_updated": "2026-04-04T19:09:02.108998",
   "event_count": 13,
   "events": [
     {
@@ -207,6 +207,27 @@
           "name": "TNT SPORTS FHD",
           "scheme": 0,
           "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://darmasaki888.s3.us-east-1.amazonaws.com/hornets.m3u8",
+          "name": "FHD SERVER ",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://chatgpt.hereisman.net/playlist/48289/load-playlist?|Referer=https://gooz.aapmains.net",
+          "name": "HD SERVER",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
+          "link": "https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd",
+          "name": "NOVA SPORTS",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/45/image",
@@ -333,8 +354,18 @@
       "id": 83,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "",
+          "link": "https://live.uu6611.com/live/hd-en-1-4347926.m3u8?txSecret=6767af8e9358b52fc8e125a46bde3463&txTime=69D19A5C|Referer=https://player.up909.com/",
+          "name": "HD SERVER ",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://a4.kora-plus.dad/watch/bus.m3u8",
+          "name": "beIN SPORTS SD",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/1643/image",
@@ -396,8 +427,11 @@
       "id": 92,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "",
+          "link": "https://live.uu6611.com/live/sd-1-4369032.m3u8?txSecret=33e9d7e7ccee416527719e7ee1526f54&txTime=69D199A0|Referer=https://player.up909.com/",
+          "name": "HD SERVER ",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/3002/image",
