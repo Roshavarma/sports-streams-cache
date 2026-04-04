@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-04T17:00:46.039173",
+  "last_updated": "2026-04-04T17:10:24.599712",
   "event_count": 26,
   "events": [
     {
@@ -268,8 +268,11 @@
       "id": 72,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae",
+          "link": "https://a166aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
+          "name": "FOX SPORTS AQ",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/21895/image",
@@ -459,8 +462,11 @@
       "id": 80,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "",
+          "link": "https://daffodil.premiumjh.shop/beines.m3u8|Referer=https://roxiestreams.info/",
+          "name": "beIN SPORTS FHD",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/1715/image",
