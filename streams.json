@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-04T13:50:23.216128",
-  "event_count": 32,
+  "last_updated": "2026-04-04T14:00:47.824881",
+  "event_count": 31,
   "events": [
     {
       "category": "Boxing",
@@ -698,58 +698,6 @@
       "category": "Football",
       "date": "04/04/2026",
       "end_date": "04/04/2026",
-      "end_time": "14:05:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/19/image/dark",
-      "eventName": "FA Cup",
-      "id": 90,
-      "links": [
-        {
-          "api": "294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b",
-          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd",
-          "name": "TNT SPORTS FHD",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
-          "link": "https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd",
-          "name": "NOVA SPORTS",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://darmasaki888.s3.us-east-1.amazonaws.com/hornets.m3u8",
-          "name": "FHD SERVER ",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://smarthard.click/hls/sabrouchespndeportes/index.m3u8",
-          "name": "ESPN DEPORTES",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://a1.kora-plus.dad/watch/b1.m3u8",
-          "name": "beIN Sports SD",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/17/image",
-      "teamAName": "Manchester City",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/44/image",
-      "teamBName": "Liverpool",
-      "time": "11:45:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "04/04/2026",
-      "end_date": "04/04/2026",
       "end_time": "18:20:00",
       "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/23/image/dark",
       "eventName": "Serie A",
@@ -861,14 +809,14 @@
         },
         {
           "api": "",
-          "link": "https://livevideos.cricbuzz.com/hls/live/2123519/WCB-CA-HINDI/9241/149695/master.m3u8|user-agent=Cricbuzz/7.00.01 (Linux;Android 13) AndroidXMedia3/1.5.1&X-Forwarded-For=100.42.240.25&cookie=hdntl=exp=1775379903~acl=%2f*~id=xunivamy%40denipl.com~data=hdntl,flavour%3aCB,matchId%3a149695,debug4xx%3afalse,country%3aAE~hmac=d9b4e38e10f1344fa9a3ef37f87920243c7cf9808ba64516e7c23cb32dfd40cc",
+          "link": "https://livevideos.cricbuzz.com/hls/live/2123519/WCB-CA-HINDI/9241/149699/master.m3u8|user-agent=Cricbuzz/7.00.01 (Linux;Android 13) AndroidXMedia3/1.5.1&X-Forwarded-For=100.42.240.25&cookie=hdntl=exp=1775379903~acl=/*~id=xunivamy@denipl.com~data=hdntl,flavour:CB,matchId:149695,debug4xx:false,country:AE~hmac=d9b4e38e10f1344fa9a3ef37f87920243c7cf9808ba64516e7c23cb32dfd40cc",
           "name": "WILLOW HINDI",
           "scheme": 0,
           "tokenApi": ""
         },
         {
           "api": "",
-          "link": "https://livevideos.cricbuzz.com/hls/live/2123398/WCB-CA/9241/149695/master.m3u8?|user-agent=Cricbuzz/7.00.01 (Linux;Android 13) AndroidXMedia3/1.5.1&X-Forwarded-For=100.42.240.25&cookie=hdntl=exp=1775379903~acl=%2f*~id=xunivamy%40denipl.com~data=hdntl,flavour%3aCB,matchId%3a149695,debug4xx%3afalse,country%3aAE~hmac=d9b4e38e10f1344fa9a3ef37f87920243c7cf9808ba64516e7c23cb32dfd40cc",
+          "link": "https://livevideos.cricbuzz.com/hls/live/2123398/WCB-CA/9241/149699/master.m3u8?|user-agent=Cricbuzz/7.00.01 (Linux;Android 13) AndroidXMedia3/1.5.1&X-Forwarded-For=100.42.240.25&cookie=hdntl=exp=1775379903~acl=/*~id=xunivamy@denipl.com~data=hdntl,flavour:CB,matchId:149695,debug4xx:false,country:AE~hmac=d9b4e38e10f1344fa9a3ef37f87920243c7cf9808ba64516e7c23cb32dfd40cc",
           "name": "WILLOW ENG",
           "scheme": 0,
           "tokenApi": ""
