@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-04T17:20:22.993335",
-  "event_count": 26,
+  "last_updated": "2026-04-04T17:30:35.021437",
+  "event_count": 22,
   "events": [
     {
       "category": "Boxing",
@@ -172,72 +172,6 @@
       "category": "Football",
       "date": "04/04/2026",
       "end_date": "04/04/2026",
-      "end_time": "16:50:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/238/image/dark",
-      "eventName": "Liga Portugal Betclic",
-      "id": 69,
-      "links": [
-        {
-          "link": "https://no.link",
-          "name": "Link 1"
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3013/image",
-      "teamAName": "CD Nacional",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3035/image",
-      "teamBName": "CF Estrela Amadora",
-      "time": "14:30:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "04/04/2026",
-      "end_date": "04/04/2026",
-      "end_time": "16:35:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/8/image/dark",
-      "eventName": "LaLiga",
-      "id": 70,
-      "links": [
-        {
-          "api": "620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a",
-          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd",
-          "name": "Laliga TV FHD",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
-          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
-          "name": "beIN ENGLISH",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2",
-          "link": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
-          "name": "FANCODE FHD",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://smarthard.click/hls/sabrouchespndeportes/index.m3u8",
-          "name": "ESPN DEPORTES",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2826/image",
-      "teamAName": "Mallorca",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2829/image",
-      "teamBName": "Real Madrid",
-      "time": "14:15:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "04/04/2026",
-      "end_date": "04/04/2026",
       "end_time": "19:05:00",
       "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/37/image/dark",
       "eventName": "VriendenLoterij Eredivisie",
@@ -280,27 +214,6 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/56021/image",
       "teamBName": "Al-Taawoun",
       "time": "18:00:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "04/04/2026",
-      "end_date": "04/04/2026",
-      "end_time": "17:20:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/34/image/dark",
-      "eventName": "Ligue 1",
-      "id": 73,
-      "links": [
-        {
-          "link": "https://no.link",
-          "name": "Link 1"
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/1659/image",
-      "teamAName": "RC Strasbourg",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/1661/image",
-      "teamBName": "Nice",
-      "time": "15:00:00",
       "visible": true
     },
     {
@@ -417,8 +330,25 @@
       "id": 78,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
+          "name": "beIN ENGLISH FHD",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
+          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
+          "name": "CBS NETWORK",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811",
+          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
+          "name": "FOX DEPORTES",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/2699/image",
@@ -474,30 +404,6 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/1658/image",
       "teamBName": "Stade Rennais",
       "time": "17:00:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "04/04/2026",
-      "end_date": "04/04/2026",
-      "end_time": "16:50:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/37/image/dark",
-      "eventName": "VriendenLoterij Eredivisie",
-      "id": 82,
-      "links": [
-        {
-          "api": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
-          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
-          "name": "SportDigital Fussball",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2952/image",
-      "teamAName": "PSV Eindhoven",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2948/image",
-      "teamBName": "FC Utrecht",
-      "time": "14:30:00",
       "visible": true
     },
     {
