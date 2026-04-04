@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-04T13:30:39.405607",
+  "last_updated": "2026-04-04T13:39:25.264125",
   "event_count": 32,
   "events": [
     {
@@ -586,6 +586,20 @@
       "id": 86,
       "links": [
         {
+          "api": "4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733",
+          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd",
+          "name": "SporTV BR - AQ",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://instreams.live/EU/HDTV11/index.m3u8?st=SportzX|Referer=https://streamfree.click/&Origin=https://streamfree.click",
+          "name": "Sky Bundesliga HD",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
           "api": "",
           "link": "https://smarthard.click/hls/8r59wy2BRApK/index.m3u8",
           "name": "Sky Bundesliga SD",
@@ -611,8 +625,22 @@
       "links": [
         {
           "api": "",
+          "link": "https://instreams.live/EU/HDTV12/index.m3u8?st=SportzX|Referer=https://streamfree.click/&Origin=https://streamfree.click",
+          "name": "Sky Bundesliga HD",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
           "link": "https://smarthard.click/hls/9gSZoyFska/index.m3u8",
           "name": "Sky Bundesliga SD",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://live.uu6611.com/live/hd-en-1-4347610.m3u8?txSecret=536f65525e4fe3650ec31dc5fa2cbdc2&txTime=69D15903|Referer=https://player.up909.com/",
+          "name": "HD SERVER ",
           "scheme": 0,
           "tokenApi": ""
         }
