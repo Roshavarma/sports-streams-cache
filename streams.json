@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-05T12:50:23.902667",
+  "last_updated": "2026-04-05T13:00:45.072948",
   "event_count": 27,
   "events": [
     {
@@ -286,8 +286,18 @@
       "id": 59,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "",
+          "link": "https://live.uu6611.com/live/sd-1-4353520.m3u8?txSecret=ec0acdc5c6ed4a927a7ef01fd3ace31c&txTime=69D2A1F7|Referer=https://player.up909.com/",
+          "name": "HD SERVER ",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "http://195.178.110.37/hls/UUUUQQQQQ.m3u8|Referer=http://www.fawanews.sc/",
+          "name": "SD SERVER",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/2356/image",
@@ -307,8 +317,32 @@
       "id": 60,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "",
+          "link": "https://live.uu6611.com/live/hd-en-1-4347923.m3u8?txSecret=b99acee19fdfbb89df9fbdd54e2be078&txTime=69D2A1F7|Referer=https://player.up909.com/",
+          "name": "HD SERVER ",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://instreams.live/US/NFLHD4/index.m3u8?st=SportzX|Referer=https://streamfree.click/&Origin=https://streamfree.click",
+          "name": "SKY SPORTS IT",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://a4.kora-plus.dad/watch/tv3.m3u8",
+          "name": "Sport TV SD",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://smarthard.click/hls/ZWevymm11TKF/index.m3u8",
+          "name": "Ligue1+ SD",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/1684/image",
@@ -443,8 +477,11 @@
       "id": 66,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "",
+          "link": "https://live.uu6611.com/live/hd-en-1-4347607.m3u8?txSecret=4452edf40525c7fbf046fd3d5dd57401&txTime=69D2A3B8|Referer=https://player.up909.com/",
+          "name": "HD SERVER ",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/2547/image",
