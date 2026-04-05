@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-05T17:48:20.996086",
-  "event_count": 20,
+  "last_updated": "2026-04-05T17:50:21.634341",
+  "event_count": 14,
   "events": [
     {
       "category": "Boxing",
@@ -290,68 +290,6 @@
       "category": "Football",
       "date": "05/04/2026",
       "end_date": "05/04/2026",
-      "end_time": "17:50:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/36/image/dark",
-      "eventName": "Scottish Premiership",
-      "id": 61,
-      "links": [
-        {
-          "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
-          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
-          "name": "beIN ENGLISH",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2357/image",
-      "teamAName": "Dundee FC",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2352/image",
-      "teamBName": "Celtic",
-      "time": "15:30:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "05/04/2026",
-      "end_date": "05/04/2026",
-      "end_time": "17:50:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/35/image/dark",
-      "eventName": "Bundesliga",
-      "id": 62,
-      "links": [
-        {
-          "api": "4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733",
-          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd",
-          "name": "SporTV BR",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://instreams.live/EU/HDTV18/index.m3u8?st=SportzX|Referer=https://streamfree.click/&Origin=https://streamfree.click",
-          "name": "DAZN SPORTS HD",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://smarthard.click/hls/2MKw3OQni0WR/index.m3u8",
-          "name": "SD SERVER",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2674/image",
-      "teamAName": "Eintracht Frankfurt",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2671/image",
-      "teamBName": "1. FC Köln",
-      "time": "15:30:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "05/04/2026",
-      "end_date": "05/04/2026",
       "end_time": "18:20:00",
       "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/23/image/dark",
       "eventName": "Serie A",
@@ -411,75 +349,6 @@
       "category": "Football",
       "date": "05/04/2026",
       "end_date": "05/04/2026",
-      "end_time": "17:35:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/34/image/dark",
-      "eventName": "Ligue 1",
-      "id": 67,
-      "links": [
-        {
-          "api": "",
-          "link": "https://live.uu6611.com/live/hd-en-1-4347928.m3u8?txSecret=0f660390d6e170e64a4a6b72f993e4fb&txTime=69D2BDE8|Referer=https://player.up909.com/",
-          "name": "HD SERVER ",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://py3hsjj2.04334746.net:8443/hls/2vxvol7d9dsht.m3u8?s=rTGGlYUpBs6StDL9XW3OoA&e=1775422096|Referer=https://d58qd4v2cj1ljg.dynamicsecular.net/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
-          "name": "Ligue1+ HD",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://smarthard.click/hls/A5K9d628j5Ec/index.m3u8",
-          "name": "Ligue1+ SD",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/1651/image",
-      "teamAName": "Metz",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/1647/image",
-      "teamBName": "Nantes",
-      "time": "15:15:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "05/04/2026",
-      "end_date": "05/04/2026",
-      "end_time": "17:35:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/34/image/dark",
-      "eventName": "Ligue 1",
-      "id": 68,
-      "links": [
-        {
-          "api": "",
-          "link": "https://live.uu6611.com/live/hd-en-1-4347925.m3u8?txSecret=62deb389615711c2588ca43978c7e5e3&txTime=69D2BDE8|Referer=https://player.up909.com/",
-          "name": "HD SERVER ",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://py3hsjj2.04334746.net:8443/hls/qjkjv39pieows.m3u8?s=lvBiI6l86TT7JPaw4wf4yQ&e=1775421957|Referer=https://d58qd4v2cj1ljg.dynamicsecular.net/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
-          "name": "Ligue1+ HD",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/1662/image",
-      "teamAName": "Le Havre",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/1646/image",
-      "teamBName": "Auxerre",
-      "time": "15:15:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "05/04/2026",
-      "end_date": "05/04/2026",
       "end_time": "21:05:00",
       "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/34/image/dark",
       "eventName": "Ligue 1",
@@ -495,89 +364,6 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/1641/image",
       "teamBName": "Olympique de Marseille",
       "time": "18:45:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "05/04/2026",
-      "end_date": "05/04/2026",
-      "end_time": "17:35:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/34/image/dark",
-      "eventName": "Ligue 1",
-      "id": 70,
-      "links": [
-        {
-          "api": "",
-          "link": "https://live.uu6611.com/live/hd-en-1-4347927.m3u8?txSecret=23cab639258af83311aee3ac5bd20152&txTime=69D2BDE8|Referer=https://player.up909.com/",
-          "name": "HD SERVER ",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://py3hsjj2.04334746.net:8443/hls/itptkyh7zc03l.m3u8?s=NDmpz-NJ6Fya1x0zWGKvWw&e=1775422046|Referer=https://d58qd4v2cj1ljg.dynamicsecular.net/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
-          "name": "Ligue1+ HD",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://smarthard.click/hls/4VrctMT0fxYg/index.m3u8",
-          "name": "Ligue1+ SD",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/1656/image",
-      "teamAName": "Lorient",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/6070/image",
-      "teamBName": "Paris FC",
-      "time": "15:15:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "05/04/2026",
-      "end_date": "05/04/2026",
-      "end_time": "17:50:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/19/image/dark",
-      "eventName": "FA Cup",
-      "id": 71,
-      "links": [
-        {
-          "api": "294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b",
-          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd",
-          "name": "TNT SPORTS FHD",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://instreams.live/US/NFLHD1/index.m3u8?st=SportzX|Referer=https://streamfree.click/&Origin=https://streamfree.click",
-          "name": "TNT SPORTS HD",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://chatgpt.hereisman.net/playlist/48338/load-playlist?|Referer=https://gooz.aapmains.net",
-          "name": "HD SERVER ",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://py3hsjj2.04334746.net:8443/hls/yx3xnxj4x9ngn.m3u8?s=4ahJmNWoCWJx5oOuAbH9uw&e=1775422192|Referer=https://d58qd4v2cj1ljg.dynamicsecular.net/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
-          "name": "SPANISH HD",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/37/image",
-      "teamAName": "West Ham United",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/34/image",
-      "teamBName": "Leeds United",
-      "time": "15:30:00",
       "visible": true
     },
     {
