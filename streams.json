@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-05T13:40:27.081335",
+  "last_updated": "2026-04-05T13:50:22.271014",
   "event_count": 27,
   "events": [
     {
@@ -247,6 +247,27 @@
           "api": "",
           "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https",
           "name": "SKY CRICKET",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://livevideos.cricbuzz.com/hls/live/2123398/WCB-CA/9241/149710/master.m3u8?hdntl=exp=1775467524~acl=/*~id=a61b5a07-bf57-4f17-85ba-c8c446a1080f~data=hdntl~hmac=022976054f9ce7e6e98c94dd7195e3b89f99c7cf60cfd2c945bd265a7f33ff5b|X-Forwarded-For=100.42.240.25",
+          "name": "Cricbuzz English - AQ",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://livevideos.cricbuzz.com/hls/live/2123519/WCB-CA-HINDI/9241/149710/master.m3u8?hdntl=exp=1775467524~acl=/*~id=a61b5a07-bf57-4f17-85ba-c8c446a1080f~data=hdntl~hmac=022976054f9ce7e6e98c94dd7195e3b89f99c7cf60cfd2c945bd265a7f33ff5b|X-Forwarded-For=100.42.240.25",
+          "name": "Cricbuzz Hindi - AQ",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "aefc2c8d1c8840f1b6981f856c9269ba:cf8ea114c45b4d6596b2748258ab74d6",
+          "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1775457122~acl=%2f*~id=91f1dc12-2598-494a-af7f-79d9f02b7e18~data=hdntl,aXA9MzguMTM3LjMyLjI0MiZleHA9MTc3NTM3MDc1MSZlaWQ9ODM3OTE3Jm9pZD0yMiZ0eXBlPVZPRCZ1aWQ9bnVsbCZjaWQ9bnVsbCZwdD1udWxs~hmac=b7fd614ab4b3b99220fa8917336b8005100fbf5b69242135fbeea9504eb8b594/dash/live/2093749/219026-314033/manifest-d.mpd",
+          "name": "SKY SPORTS NZ - AQ",
           "scheme": 0,
           "tokenApi": ""
         }
