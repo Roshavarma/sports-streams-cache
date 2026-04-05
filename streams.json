@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-05T18:20:23.230539",
-  "event_count": 14,
+  "last_updated": "2026-04-05T18:27:11.682858",
+  "event_count": 10,
   "events": [
     {
       "category": "Boxing",
@@ -169,162 +169,6 @@
       "visible": true
     },
     {
-      "category": "Cricket",
-      "date": "05/04/2026",
-      "end_date": "05/04/2026",
-      "end_time": "18:10:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark",
-      "eventName": "Indian Premier League",
-      "id": 57,
-      "links": [
-        {
-          "api": "da72912e65cf1077a732616c17c9943d:65374c514729172b57bc243897078f91",
-          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/oes6ybfnm1/out/v1/9f29cb13a8f04ad38bfe900a18d0ed35/cenc.mpd",
-          "name": "WILLOW ENG - AQ",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https",
-          "name": "SKY CRICKET",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://livevideos.cricbuzz.com/hls/live/2123398/WCB-CA/9241/149721/master.m3u8?hdntl=exp=1775467524~acl=/*~id=a61b5a07-bf57-4f17-85ba-c8c446a1080f~data=hdntl~hmac=022976054f9ce7e6e98c94dd7195e3b89f99c7cf60cfd2c945bd265a7f33ff5b|X-Forwarded-For=100.42.240.25&User-Agent=MXPlayer%2F1.87.0+%28Linux%3B+Android+14%3B+en-US%3B+M8241J56CG+Build%2FKR7.241112.184%29",
-          "name": "Cricbuzz English - AQ",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://livevideos.cricbuzz.com/hls/live/2123519/WCB-CA-HINDI/9241/149721/master.m3u8?hdntl=exp=1775467524~acl=/*~id=a61b5a07-bf57-4f17-85ba-c8c446a1080f~data=hdntl~hmac=022976054f9ce7e6e98c94dd7195e3b89f99c7cf60cfd2c945bd265a7f33ff5b|X-Forwarded-For=100.42.240.25&User-Agent=MXPlayer%2F1.87.0+%28Linux%3B+Android+14%3B+en-US%3B+M8241J56CG+Build%2FKR7.241112.184%29",
-          "name": "Cricbuzz Hindi - AQ",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "http://195.178.110.25/hls/KIKIKIQQQQQQ.m3u8|Referer=http://www.fawanews.sc/",
-          "name": "SD SERVER ",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/187843/image",
-      "teamAName": "Royal Challengers Bengaluru",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/187777/image",
-      "teamBName": "Chennai Super Kings",
-      "time": "14:00:00",
-      "visible": true
-    },
-    {
-      "category": "Cricket",
-      "date": "05/04/2026",
-      "end_date": "05/04/2026",
-      "end_time": "18:10:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11170/image/dark",
-      "eventName": "Pakistan Super League",
-      "id": 58,
-      "links": [
-        {
-          "api": "55722a2e6d8dd9f8fa7ba665e508cf78:cd9e3e681a273ce4b82af86e85772b80",
-          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/egzri6ewen/out/v1/624fcfd9bb744b8c8b3338dec50d4f5a/cenc.mpd",
-          "name": "WILLOW - AQ",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://pslurdu.bigbaat.app/out/v1/0ef369b90c7b4025b76621e46ee5fb70/index.m3u8",
-          "name": "PSL TV [Urdu]",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://psl.bigbaat.app/out/v1/f342445c31dd475bbf30c7304dbad14f/index.m3u8",
-          "name": "PSL TV [ENG]",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
-          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
-          "name": "WILLOW FHD",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://live.incableinternet.com/v/kooker_ptvsportshd/kooker_ptvsportshd.m3u8",
-          "name": "PTV SPORTS HD",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://tencentcdn7.tamashaweb.com/v1/019beffa3f101567ee93346674d021/019bff96b0e415fc600b1b67f81951/TMSH_APP2_DIRTY.m3u8",
-          "name": "TAMASHA - PK",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "http://103.175.242.10:8080/tsports1/index.m3u8",
-          "name": "TSports HD",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/273650/image",
-      "teamAName": "Multan Sultans",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/212417/image",
-      "teamBName": "Quetta Gladiators",
-      "time": "14:00:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "05/04/2026",
-      "end_date": "05/04/2026",
-      "end_time": "18:20:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/23/image/dark",
-      "eventName": "Serie A",
-      "id": 63,
-      "links": [
-        {
-          "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
-          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
-          "name": "beIN ENGLISH",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
-          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
-          "name": "CBS NETWORK",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811",
-          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
-          "name": "FOX DEPORTES",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2737/image",
-      "teamAName": "Pisa",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2696/image",
-      "teamBName": "Torino",
-      "time": "16:00:00",
-      "visible": true
-    },
-    {
       "category": "Football",
       "date": "05/04/2026",
       "end_date": "05/04/2026",
@@ -334,8 +178,25 @@
       "id": 64,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a",
+          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd",
+          "name": "Laliga TV FHD",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
+          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
+          "name": "beIN ENGLISH",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
+          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
+          "name": "PREMIER SPORTS",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/2885/image",
@@ -355,8 +216,25 @@
       "id": 69,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "",
+          "link": "https://live.uu6611.com/live/hd-en-1-4347929.m3u8?txSecret=a2cdfb1e21ebd0547f8770fcd54d451f&txTime=69D2E54C|Referer=https://player.up909.com/",
+          "name": "HD SERVER ",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://py3hsjj2.04334746.net:8443/hls/h3nks9hpg.m3u8?s=Ruxk4jWdhWGmUbLQefIxyw&e=1775434758|Referer=https://d58qd4v2cj1ljg.dynamicsecular.net/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
+          "name": "Ligue1+ HD",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://instreams.live/US/NFLHD4/index.m3u8?st=SportzX|Referer=https://streamfree.click/&Origin=https://streamfree.click",
+          "name": "SKY SPORT IT",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/1653/image",
@@ -376,8 +254,32 @@
       "id": 73,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b",
+          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd",
+          "name": "TNT SPORTS",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
+          "name": "beIN ENGLISH",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811",
+          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
+          "name": "FOX DEPORTES",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://live.uu6611.com/live/hd-en-1-4339782.m3u8?txSecret=7e05559b999ab6de3914ebb702d2439e&txTime=69D2E54C|Referer=https://player.up909.com/",
+          "name": "SD SERVER ",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/2697/image",
@@ -437,30 +339,6 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/56027/image",
       "teamBName": "Al-Qadsiah",
       "time": "18:00:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "05/04/2026",
-      "end_date": "05/04/2026",
-      "end_time": "18:15:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/955/image/dark",
-      "eventName": "Saudi Pro League",
-      "id": 77,
-      "links": [
-        {
-          "api": "",
-          "link": "https://live.uu6611.com/live/sd-1-4404631.m3u8?txSecret=70ce1bc799c3bc81bc2c61f5fb385455&txTime=69D17BBB|Referer=https://player.up909.com/",
-          "name": "HD SERVER ",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/336456/image",
-      "teamAName": "Al-Okhdood",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/56023/image",
-      "teamBName": "Al-Fateh",
-      "time": "15:55:00",
       "visible": true
     },
     {
