@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-05T08:00:50.707238",
-  "event_count": 24,
+  "last_updated": "2026-04-05T08:10:26.599923",
+  "event_count": 27,
   "events": [
     {
       "category": "Boxing",
@@ -586,6 +586,69 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/2833/image",
       "teamBName": "Sevilla",
       "time": "16:30:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "05/04/2026",
+      "end_date": "05/04/2026",
+      "end_time": "20:20:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/955/image/dark",
+      "eventName": "Saudi Pro League",
+      "id": 76,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/34318/image",
+      "teamAName": "Al-Ettifaq",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/56027/image",
+      "teamBName": "Al-Qadsiah",
+      "time": "18:00:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "05/04/2026",
+      "end_date": "05/04/2026",
+      "end_time": "18:15:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/955/image/dark",
+      "eventName": "Saudi Pro League",
+      "id": 77,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/336456/image",
+      "teamAName": "Al-Okhdood",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/56023/image",
+      "teamBName": "Al-Fateh",
+      "time": "15:55:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "05/04/2026",
+      "end_date": "05/04/2026",
+      "end_time": "20:20:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/955/image/dark",
+      "eventName": "Saudi Pro League",
+      "id": 78,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/168088/image",
+      "teamAName": "Al-Riyadh",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/34313/image",
+      "teamBName": "Al-Shabab",
+      "time": "18:00:00",
       "visible": true
     }
   ]
