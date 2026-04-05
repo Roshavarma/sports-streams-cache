@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-05T16:30:33.592790",
-  "event_count": 23,
+  "last_updated": "2026-04-05T16:40:22.559237",
+  "event_count": 20,
   "events": [
     {
       "category": "Boxing",
@@ -171,74 +171,8 @@
     {
       "category": "Cricket",
       "date": "05/04/2026",
-      "end_date": "",
-      "end_time": "",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark",
-      "eventName": "Indian Premier League",
-      "id": 56,
-      "links": [
-        {
-          "api": "baddc3119d7cab50853adf9d2299d961:adfcc1f4fbc3bcbe56a8fc0c31921922",
-          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/gw0wf3rp71/out/v1/21f066e10b854c9fa0c99c9c5d881836/cenc.mpd",
-          "name": "WILLOW ENG - AQ",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https",
-          "name": "SKY CRICKET FHD",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://livevideos.cricbuzz.com/hls/live/2123519/WCB-CA-HINDI/9241/149710/master.m3u8?hdntl=exp=1775467524~acl=/*~id=a61b5a07-bf57-4f17-85ba-c8c446a1080f~data=hdntl~hmac=022976054f9ce7e6e98c94dd7195e3b89f99c7cf60cfd2c945bd265a7f33ff5b|X-Forwarded-For=100.42.240.25",
-          "name": "Cricbuzz Hindi - AQ",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://ru-001.local-honduras-center.sbs/secure/api/v1/lchd-fs501.m3u8|Referer=https://extrraw.pages.dev/",
-          "name": "FOX SPORTS FHD",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://livevideos.cricbuzz.com/hls/live/2123398/WCB-CA/9241/149710/master.m3u8?hdntl=exp=1775467524~acl=/*~id=a61b5a07-bf57-4f17-85ba-c8c446a1080f~data=hdntl~hmac=022976054f9ce7e6e98c94dd7195e3b89f99c7cf60cfd2c945bd265a7f33ff5b|X-Forwarded-For=100.42.240.25",
-          "name": "Cricbuzz English - AQ",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "http://xui.mainserver.cc/play/oCkZyqACmAE6FvzKu_186PEFGOk9LoJ4xGfS1beyo7s/.m3u8",
-          "name": "Willow HD",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://ru-001.local-honduras-center.sbs/secure/api/v1/lchd-ipltata.m3u8|Referer=https://extrraw.pages.dev",
-          "name": "Star Sports Hindi",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/187844/image",
-      "teamAName": "Sunrisers Hyderabad",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/410010/image",
-      "teamBName": "Lucknow Super Giants",
-      "time": "10:00:00",
-      "visible": true
-    },
-    {
-      "category": "Cricket",
-      "date": "05/04/2026",
-      "end_date": "",
-      "end_time": "",
+      "end_date": "05/04/2026",
+      "end_time": "18:10:00",
       "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark",
       "eventName": "Indian Premier League",
       "id": 57,
@@ -289,8 +223,8 @@
     {
       "category": "Cricket",
       "date": "05/04/2026",
-      "end_date": "",
-      "end_time": "",
+      "end_date": "05/04/2026",
+      "end_time": "18:10:00",
       "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11170/image/dark",
       "eventName": "Pakistan Super League",
       "id": 58,
@@ -477,30 +411,6 @@
       "category": "Football",
       "date": "05/04/2026",
       "end_date": "05/04/2026",
-      "end_time": "15:50:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/35/image/dark",
-      "eventName": "Bundesliga",
-      "id": 66,
-      "links": [
-        {
-          "api": "",
-          "link": "https://live.uu6611.com/live/hd-en-1-4347607.m3u8?txSecret=4452edf40525c7fbf046fd3d5dd57401&txTime=69D2A3B8|Referer=https://player.up909.com/",
-          "name": "HD SERVER ",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2547/image",
-      "teamAName": "1. FC Union Berlin",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2526/image",
-      "teamBName": "FC St. Pauli",
-      "time": "13:30:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "05/04/2026",
-      "end_date": "05/04/2026",
       "end_time": "17:35:00",
       "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/34/image/dark",
       "eventName": "Ligue 1",
@@ -668,44 +578,6 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/34/image",
       "teamBName": "Leeds United",
       "time": "15:30:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "05/04/2026",
-      "end_date": "05/04/2026",
-      "end_time": "16:35:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/8/image/dark",
-      "eventName": "LaLiga",
-      "id": 72,
-      "links": [
-        {
-          "api": "620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a",
-          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd",
-          "name": "Laliga TV FHD",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
-          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
-          "name": "PREMIER SPORTS",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://smarthard.click/hls/sabrouchespndeportes/index.m3u8",
-          "name": "ESPN DEPORTES",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2828/image",
-      "teamAName": "Valencia",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2821/image",
-      "teamBName": "Celta Vigo",
-      "time": "14:15:00",
       "visible": true
     },
     {
