@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-05T09:50:24.289160",
+  "last_updated": "2026-04-05T09:59:29.250697",
   "event_count": 27,
   "events": [
     {
@@ -178,9 +178,51 @@
       "id": 56,
       "links": [
         {
+          "api": "baddc3119d7cab50853adf9d2299d961:adfcc1f4fbc3bcbe56a8fc0c31921922",
+          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/gw0wf3rp71/out/v1/21f066e10b854c9fa0c99c9c5d881836/cenc.mpd",
+          "name": "WILLOW ENG - AQ",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
           "api": "",
           "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https",
           "name": "SKY CRICKET FHD",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://livevideos.cricbuzz.com/hls/live/2123519/WCB-CA-HINDI/9241/149710/master.m3u8?hdntl=exp=1775467524~acl=/*~id=a61b5a07-bf57-4f17-85ba-c8c446a1080f~data=hdntl~hmac=022976054f9ce7e6e98c94dd7195e3b89f99c7cf60cfd2c945bd265a7f33ff5b|X-Forwarded-For=100.42.240.25",
+          "name": "Cricbuzz Hindi - AQ",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://ru-001.local-honduras-center.sbs/secure/api/v1/lchd-fs501.m3u8|Referer=https://extrraw.pages.dev/",
+          "name": "FOX SPORTS FHD",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://livevideos.cricbuzz.com/hls/live/2123398/WCB-CA/9241/149710/master.m3u8?hdntl=exp=1775467524~acl=/*~id=a61b5a07-bf57-4f17-85ba-c8c446a1080f~data=hdntl~hmac=022976054f9ce7e6e98c94dd7195e3b89f99c7cf60cfd2c945bd265a7f33ff5b|X-Forwarded-For=100.42.240.25",
+          "name": "Cricbuzz English - AQ",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "http://xui.mainserver.cc/play/oCkZyqACmAE6FvzKu_186PEFGOk9LoJ4xGfS1beyo7s/.m3u8",
+          "name": "Willow HD",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://ru-001.local-honduras-center.sbs/secure/api/v1/lchd-ipltata.m3u8|Referer=https://extrraw.pages.dev",
+          "name": "Star Sports Hindi",
           "scheme": 0,
           "tokenApi": ""
         }
