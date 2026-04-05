@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-05T19:20:22.324302",
-  "event_count": 10,
+  "last_updated": "2026-04-05T19:30:41.489491",
+  "event_count": 9,
   "events": [
     {
       "category": "Boxing",
@@ -287,27 +287,6 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/2702/image",
       "teamBName": "Roma",
       "time": "18:45:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "05/04/2026",
-      "end_date": "05/04/2026",
-      "end_time": "18:50:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/8/image/dark",
-      "eventName": "LaLiga",
-      "id": 75,
-      "links": [
-        {
-          "link": "https://no.link",
-          "name": "Link 1"
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2851/image",
-      "teamAName": "Real Oviedo",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2833/image",
-      "teamBName": "Sevilla",
-      "time": "16:30:00",
       "visible": true
     },
     {
