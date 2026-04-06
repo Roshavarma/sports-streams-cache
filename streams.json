@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-06T15:20:26.700855",
-  "event_count": 15,
+  "last_updated": "2026-04-06T15:30:38.347140",
+  "event_count": 12,
   "events": [
     {
       "category": "Boxing",
@@ -202,8 +202,11 @@
       "id": 58,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
+          "name": "beIN ENGLISH",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/2687/image",
@@ -265,8 +268,11 @@
       "id": 61,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
+          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
+          "name": "beIN ENGLISH",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/74/image",
@@ -274,75 +280,6 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/36/image",
       "teamBName": "Middlesbrough",
       "time": "16:30:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "06/04/2026",
-      "end_date": "06/04/2026",
-      "end_time": "15:20:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/23/image/dark",
-      "eventName": "Serie A",
-      "id": 62,
-      "links": [
-        {
-          "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
-          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
-          "name": "beIN ENGLISH - AQ",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://instreams.live/US/NFLHD3/index.m3u8?st=SportzX|Referer=https://instreams.click/&Origin=https://instreams.click",
-          "name": "DAZN ITALI HD - AQ",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://stream.huraweb.com/embed_view.php?id=62782be2318ca7fb",
-          "name": "Server 1 - All Devices",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2689/image",
-      "teamAName": "Lecce",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2686/image",
-      "teamBName": "Atalanta",
-      "time": "13:00:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "06/04/2026",
-      "end_date": "06/04/2026",
-      "end_time": "13:50:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark",
-      "eventName": "Championship",
-      "id": 63,
-      "links": [
-        {
-          "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
-          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
-          "name": "beIN ENGLISH",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://stream.huraweb.com/embed_view.php?id=09328296f98a4415",
-          "name": "Server 1 - All Devices ",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2/image",
-      "teamAName": "Portsmouth",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/95/image",
-      "teamBName": "Oxford United",
-      "time": "11:30:00",
       "visible": true
     },
     {
@@ -489,37 +426,6 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/1178236/image",
       "teamBName": "Rawalpindiz",
       "time": "14:00:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "06/04/2026",
-      "end_date": "06/04/2026",
-      "end_time": "14:20:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark",
-      "eventName": "Championship",
-      "id": 67,
-      "links": [
-        {
-          "api": "",
-          "link": "https://stream.huraweb.com/embed_view.php?id=75ea48132cd87cee",
-          "name": "Server 1 - All Devices ",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://stream.huraweb.com/embed_view.php?id=b3fa79aa26476de9",
-          "name": "Server 2 - All Devices ",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/25/image",
-      "teamAName": "Millwall",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/263/image",
-      "teamBName": "Norwich City",
-      "time": "12:00:00",
       "visible": true
     }
   ]
