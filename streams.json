@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-06T12:20:25.267149",
+  "last_updated": "2026-04-06T12:30:36.169887",
   "event_count": 16,
   "events": [
     {
@@ -425,8 +425,46 @@
       "id": 66,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "",
+          "link": "https://psl.bigbaat.app/out/v1/f342445c31dd475bbf30c7304dbad14f/index.m3u8",
+          "name": "PSL ENG - All Devices",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://psl.bigbaat.app/out/v1/0ef369b90c7b4025b76621e46ee5fb70/index.m3u8?st=playztv",
+          "name": "PSL URDU - All Devices",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://tencentcdn4.tamashaweb.com/v1/0196159d28a51ea5064913eb2a83e7/0196159e84f81ea506ec1adad310bd/TMSH_U1_APP.m3u8",
+          "name": "Tamasha ENG PK - All Devices ",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://tencentcdn10.tamashaweb.com/v1/019bf00a091715fc600b35c80a5fa9/019bffd5aa3e15fc60e91af7637f3f/TMSH_APP2_CLEAN.m3u8",
+          "name": "Tamasha Urdu PK - All Devices ",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://wasitv-pro.site/gdp/ptvpk/index.m3u8",
+          "name": "PTV Sports - All Devices ",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://ml-pull-rtmp-pk1.myco.io/English/hls/index/clean.m3u8",
+          "name": "MyCO ENG - PK",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/273650/image",
