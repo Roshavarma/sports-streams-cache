@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-06T11:34:17.353918",
-  "event_count": 15,
+  "last_updated": "2026-04-06T11:40:23.464516",
+  "event_count": 16,
   "events": [
     {
       "category": "Boxing",
@@ -424,6 +424,37 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/1178236/image",
       "teamBName": "Rawalpindiz",
       "time": "14:00:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "06/04/2026",
+      "end_date": "06/04/2026",
+      "end_time": "14:20:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark",
+      "eventName": "Championship",
+      "id": 67,
+      "links": [
+        {
+          "api": "",
+          "link": "https://stream.huraweb.com/embed_view.php?id=75ea48132cd87cee",
+          "name": "Server 1 - All Devices ",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://stream.huraweb.com/embed_view.php?id=b3fa79aa26476de9",
+          "name": "Server 2 - All Devices ",
+          "scheme": 0,
+          "tokenApi": ""
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/25/image",
+      "teamAName": "Millwall",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/263/image",
+      "teamBName": "Norwich City",
+      "time": "12:00:00",
       "visible": true
     }
   ]
