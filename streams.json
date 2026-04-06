@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-06T16:50:22.567984",
-  "event_count": 12,
+  "last_updated": "2026-04-06T17:00:49.719457",
+  "event_count": 11,
   "events": [
     {
       "category": "Boxing",
@@ -172,30 +172,6 @@
       "category": "Football",
       "date": "06/04/2026",
       "end_date": "06/04/2026",
-      "end_time": "16:20:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark",
-      "eventName": "Championship",
-      "id": 57,
-      "links": [
-        {
-          "api": "",
-          "link": "https://stream.huraweb.com/embed_view.php?id=d40320e431f6a368",
-          "name": "Server 1 - All Devices ",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/32/image",
-      "teamAName": "Ipswich Town",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/9/image",
-      "teamBName": "Birmingham City",
-      "time": "14:00:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "06/04/2026",
-      "end_date": "06/04/2026",
       "end_time": "18:20:00",
       "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/23/image/dark",
       "eventName": "Serie A",
@@ -254,8 +230,18 @@
       "id": 60,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b",
+          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd",
+          "name": "TNT SPORTS",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
+          "name": "beIN ENGLISH",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/2714/image",
