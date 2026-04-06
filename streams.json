@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-06T11:40:23.464516",
+  "last_updated": "2026-04-06T11:50:21.978562",
   "event_count": 16,
   "events": [
     {
@@ -321,8 +321,18 @@
       "id": 62,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
+          "name": "beIN ENGLISH",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://instreams.live/US/NFLHD3/index.m3u8?st=SportzX|Referer=https://instreams.click/&Origin=https://instreams.click",
+          "name": "DAZN ITALI HD",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/2689/image",
