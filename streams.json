@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-06T08:00:45.627370",
-  "event_count": 4,
+  "last_updated": "2026-04-06T08:10:23.364415",
+  "event_count": 15,
   "events": [
     {
       "category": "Boxing",
@@ -166,6 +166,237 @@
       "teamBFlag": "https://www.wwe.com/f/styles/wwe_show_logo_sm/public/all/2024/10/NXTonCW--0f06792893241464479338f55596a5bf.png",
       "teamBName": "NXT",
       "time": "00:00:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "06/04/2026",
+      "end_date": "06/04/2026",
+      "end_time": "12:50:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/23/image/dark",
+      "eventName": "Serie A",
+      "id": 56,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2695/image",
+      "teamAName": "Udinese",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2704/image",
+      "teamBName": "Como",
+      "time": "10:30:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "06/04/2026",
+      "end_date": "06/04/2026",
+      "end_time": "16:20:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark",
+      "eventName": "Championship",
+      "id": 57,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/32/image",
+      "teamAName": "Ipswich Town",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/9/image",
+      "teamBName": "Birmingham City",
+      "time": "14:00:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "06/04/2026",
+      "end_date": "06/04/2026",
+      "end_time": "18:20:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/23/image/dark",
+      "eventName": "Serie A",
+      "id": 58,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2687/image",
+      "teamAName": "Juventus",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2713/image",
+      "teamBName": "Genoa",
+      "time": "16:00:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "06/04/2026",
+      "end_date": "06/04/2026",
+      "end_time": "21:20:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/8/image/dark",
+      "eventName": "LaLiga",
+      "id": 59,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/24264/image",
+      "teamAName": "Girona FC",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2819/image",
+      "teamBName": "Villarreal",
+      "time": "19:00:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "06/04/2026",
+      "end_date": "06/04/2026",
+      "end_time": "21:05:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/23/image/dark",
+      "eventName": "Serie A",
+      "id": 60,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2714/image",
+      "teamAName": "Napoli",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2692/image",
+      "teamBName": "Milan",
+      "time": "18:45:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "06/04/2026",
+      "end_date": "06/04/2026",
+      "end_time": "18:50:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark",
+      "eventName": "Championship",
+      "id": 61,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/74/image",
+      "teamAName": "Swansea City",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/36/image",
+      "teamBName": "Middlesbrough",
+      "time": "16:30:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "06/04/2026",
+      "end_date": "06/04/2026",
+      "end_time": "15:20:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/23/image/dark",
+      "eventName": "Serie A",
+      "id": 62,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2689/image",
+      "teamAName": "Lecce",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2686/image",
+      "teamBName": "Atalanta",
+      "time": "13:00:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "06/04/2026",
+      "end_date": "06/04/2026",
+      "end_time": "13:50:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark",
+      "eventName": "Championship",
+      "id": 63,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2/image",
+      "teamAName": "Portsmouth",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/95/image",
+      "teamBName": "Oxford United",
+      "time": "11:30:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "06/04/2026",
+      "end_date": "06/04/2026",
+      "end_time": "21:20:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark",
+      "eventName": "Championship",
+      "id": 64,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/96/image",
+      "teamAName": "Hull City",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/11/image",
+      "teamBName": "Coventry City",
+      "time": "19:00:00",
+      "visible": true
+    },
+    {
+      "category": "Cricket",
+      "date": "06/04/2026",
+      "end_date": "",
+      "end_time": "",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark",
+      "eventName": "Indian Premier League",
+      "id": 65,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/187775/image",
+      "teamAName": "Kolkata Knight Riders",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/187776/image",
+      "teamBName": "Punjab Kings",
+      "time": "14:00:00",
+      "visible": true
+    },
+    {
+      "category": "Cricket",
+      "date": "06/04/2026",
+      "end_date": "",
+      "end_time": "",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11170/image/dark",
+      "eventName": "Pakistan Super League",
+      "id": 66,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/273650/image",
+      "teamAName": "Multan Sultans",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/1178236/image",
+      "teamBName": "Rawalpindiz",
+      "time": "14:00:00",
       "visible": true
     }
   ]
