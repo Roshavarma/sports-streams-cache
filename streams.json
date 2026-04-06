@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-06T12:40:26.376700",
-  "event_count": 16,
+  "last_updated": "2026-04-06T12:50:21.253367",
+  "event_count": 15,
   "events": [
     {
       "category": "Boxing",
@@ -172,44 +172,6 @@
       "category": "Football",
       "date": "06/04/2026",
       "end_date": "06/04/2026",
-      "end_time": "12:50:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/23/image/dark",
-      "eventName": "Serie A",
-      "id": 56,
-      "links": [
-        {
-          "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
-          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
-          "name": "beIN ENGLISH - AQ",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://stream.huraweb.com/embed_view.php?id=62782be2318ca7fb",
-          "name": "Server 1 - All Devices",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://stream.huraweb.com/embed_view.php?id=76b33213265bd4b8",
-          "name": "Server 2 - All Devices ",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2695/image",
-      "teamAName": "Udinese",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2704/image",
-      "teamBName": "Como",
-      "time": "10:30:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "06/04/2026",
-      "end_date": "06/04/2026",
       "end_time": "16:20:00",
       "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark",
       "eventName": "Championship",
@@ -323,14 +285,21 @@
         {
           "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
           "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
-          "name": "beIN ENGLISH",
+          "name": "beIN ENGLISH - AQ",
           "scheme": 0,
           "tokenApi": ""
         },
         {
           "api": "",
           "link": "https://instreams.live/US/NFLHD3/index.m3u8?st=SportzX|Referer=https://instreams.click/&Origin=https://instreams.click",
-          "name": "DAZN ITALI HD",
+          "name": "DAZN ITALI HD - AQ",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://stream.huraweb.com/embed_view.php?id=62782be2318ca7fb",
+          "name": "Server 1 - All Devices",
           "scheme": 0,
           "tokenApi": ""
         }
