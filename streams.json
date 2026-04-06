@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-06T09:40:22.942792",
+  "last_updated": "2026-04-06T09:50:22.875734",
   "event_count": 15,
   "events": [
     {
@@ -180,7 +180,21 @@
         {
           "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
           "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
-          "name": "beIN ENGLISH",
+          "name": "beIN ENGLISH - AQ",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://stream.huraweb.com/embed_view.php?id=62782be2318ca7fb",
+          "name": "Server 1 - All Devices",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://stream.huraweb.com/embed_view.php?id=76b33213265bd4b8",
+          "name": "Server 2 - All Devices ",
           "scheme": 0,
           "tokenApi": ""
         }
