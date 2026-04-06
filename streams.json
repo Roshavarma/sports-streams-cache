@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-06T11:30:38.130361",
+  "last_updated": "2026-04-06T11:34:17.353918",
   "event_count": 15,
   "events": [
     {
@@ -345,6 +345,13 @@
           "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
           "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
           "name": "beIN ENGLISH",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://stream.huraweb.com/embed_view.php?id=09328296f98a4415",
+          "name": "Server 1 - All Devices ",
           "scheme": 0,
           "tokenApi": ""
         }
