@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-06T13:40:24.643268",
+  "last_updated": "2026-04-06T13:50:23.128775",
   "event_count": 15,
   "events": [
     {
@@ -178,9 +178,9 @@
       "id": 57,
       "links": [
         {
-          "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
-          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
-          "name": "beIN ENGLISH",
+          "api": "",
+          "link": "https://stream.huraweb.com/embed_view.php?id=d40320e431f6a368",
+          "name": "Server 1 - All Devices ",
           "scheme": 0,
           "tokenApi": ""
         }
@@ -376,6 +376,13 @@
       "id": 65,
       "links": [
         {
+          "api": "b83f5ca011de1ebfd8a121c84961ca01:609ca477cab538803f2a4289f7e55c24",
+          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/a9iwtyobtf/out/v1/33819872fdbc4f17af37383b78ee70a4/cenc.mpd",
+          "name": "WILLOW - AQ",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
           "api": "",
           "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https",
           "name": "SKY CRICKET HD",
@@ -427,6 +434,13 @@
       "eventName": "Pakistan Super League",
       "id": 66,
       "links": [
+        {
+          "api": "837843d1228803337dea37c6568b8b18:43c6d2482a66e35b4a58a3b829bd478d",
+          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/rfoilgcdup/out/v1/efe78ac7de4441c98ca799052cf962bc/cenc.mpd",
+          "name": "WILLOW [ADS FREE]",
+          "scheme": 0,
+          "tokenApi": ""
+        },
         {
           "api": "",
           "link": "https://psl.bigbaat.app/out/v1/f342445c31dd475bbf30c7304dbad14f/index.m3u8",
