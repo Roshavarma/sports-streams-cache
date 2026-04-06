@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-06T13:30:39.334663",
+  "last_updated": "2026-04-06T13:40:24.643268",
   "event_count": 15,
   "events": [
     {
@@ -178,8 +178,11 @@
       "id": 57,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
+          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
+          "name": "beIN ENGLISH",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/32/image",
@@ -366,8 +369,8 @@
     {
       "category": "Cricket",
       "date": "06/04/2026",
-      "end_date": "",
-      "end_time": "",
+      "end_date": "06/04/2026",
+      "end_time": "18:15:00",
       "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark",
       "eventName": "Indian Premier League",
       "id": 65,
@@ -376,6 +379,34 @@
           "api": "",
           "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https",
           "name": "SKY CRICKET HD",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://livevideos.cricbuzz.com/hls/live/2123398/WCB-CA/9241/149732/master.m3u8?hdntl=exp=1775567860~acl=/*~id=52092b4a-fc59-4c6f-b51a-831253fed535~data=hdntl~hmac=af89c05d28a73555d9190bc6ab93e592ee15496af3dc1d52ec2164cb880cd71b|X-Forwarded-For=100.42.240.25",
+          "name": "Cricbuzz English - AQ",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://livevideos.cricbuzz.com/hls/live/2123519/WCB-CA-HINDI/9241/149732/master.m3u8?hdntl=exp=1775567860~acl=/*~id=52092b4a-fc59-4c6f-b51a-831253fed535~data=hdntl~hmac=af89c05d28a73555d9190bc6ab93e592ee15496af3dc1d52ec2164cb880cd71b|X-Forwarded-For=100.42.240.25",
+          "name": "Cricbuzz Hindi - AQ",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://valverdeaethegoat.himanshusoni3426.workers.dev/live.m3u8|User-agent=Mozilla/5.0 (Linux; Android 13; RMX3363 Build/TP1A.220905.001) AppleWebKit/537.36 (KHTML, like Gecko) Hyscvwnv/4.0 Chrome/146.0.7680.164 Mobile Safari/537.36&referer=https://matcheslinkz.pages.dev/&origin=https://matcheslinkz.pages.dev",
+          "name": "HOTSTAR HINDI - AQ",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "http://195.178.110.2/hls/NDDDQ.m3u8|Referer=http://www.fawanews.sc/",
+          "name": "SD SERVER ",
           "scheme": 0,
           "tokenApi": ""
         }
@@ -390,8 +421,8 @@
     {
       "category": "Cricket",
       "date": "06/04/2026",
-      "end_date": "",
-      "end_time": "",
+      "end_date": "06/04/2026",
+      "end_time": "18:15:00",
       "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11170/image/dark",
       "eventName": "Pakistan Super League",
       "id": 66,
