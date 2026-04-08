@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-08T19:01:02.723614",
+  "last_updated": "2026-04-08T19:10:44.103232",
   "event_count": 12,
   "events": [
     {
@@ -199,9 +199,9 @@
           "tokenApi": ""
         },
         {
-          "api": "",
-          "link": "https://602.simplyataide.boutique/tnt.m3u8|Referer=https://roxiestreams.info/",
-          "name": "TNT SPORTS FHD",
+          "api": "3c09b47d1fc6f8a1911dfc6016d27445:c14b2606515a6f300aafb6a03459358a",
+          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5hqgfribrb/out/v1/84636269a21f441ab85f05c711253fe4/cenc.mpd",
+          "name": "VIX SPANISH - AQ",
           "scheme": 0,
           "tokenApi": ""
         },
@@ -244,9 +244,9 @@
           "tokenApi": ""
         },
         {
-          "api": "",
-          "link": "https://chatgpt.hereisman.net/playlist/48503/load-playlist?|Referer=https://gooz.aapmains.net",
-          "name": "TNT SPORTS HD",
+          "api": "6c962c64abaf676810401b19a0c5cfd0:516eb7efea20dcb819ce3d9b1d227418",
+          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/67tnkd7hwi/out/v1/5ffdefde68be4b0cba143306037bbdf3/cenc.mpd",
+          "name": "VIX SPANISH - AQ",
           "scheme": 0,
           "tokenApi": ""
         },
@@ -254,6 +254,13 @@
           "api": "19ddf4e42f18bfc3c71c57af73949b17:e8f8f994d08cadb95fe1e29027214d21",
           "link": "https://otte.cache.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ebyufuwrml/out/v1/8e4dbe981d574983a5a0c96b874cc5b9/cenc.mpd",
           "name": "TNT BR AQ",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://chatgpt.hereisman.net/playlist/48503/load-playlist?|Referer=https://gooz.aapmains.net",
+          "name": "TNT SPORTS HD",
           "scheme": 0,
           "tokenApi": ""
         },
