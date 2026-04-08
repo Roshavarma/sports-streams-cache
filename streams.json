@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-08T18:10:41.558181",
-  "event_count": 15,
+  "last_updated": "2026-04-08T18:30:42.150646",
+  "event_count": 12,
   "events": [
     {
       "category": "Boxing",
@@ -332,124 +332,6 @@
       "visible": true
     },
     {
-      "category": "Cricket",
-      "date": "08/04/2026",
-      "end_date": "08/04/2026",
-      "end_time": "18:15:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark",
-      "eventName": "Indian Premier League",
-      "id": 68,
-      "links": [
-        {
-          "api": "632c11b631667bbcd92ad5d2508d49c0:41931cb5fc12556b5ef6072f8fd655cc",
-          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash-sd/enc/jhre3vjv3n/out/v1/8595e0c0e36040edae2c2d8a44703de0/cenc-sd.mpd",
-          "name": "WILLOW ENG - AQ",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https",
-          "name": "SKY CRICKET FHD",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://livevideos.cricbuzz.com/hls/live/2123398/WCB-CA/9241/149746/master.m3u8?|Cookie=hdntl=exp=1775655518~acl=/*~id=7db46d2f-e8c2-4a01-8d73-54ba3fffc8e2~data=hdntl~hmac=9b319410f7a5a9f06d3260fbed602dc230c503cf9348d8c1c935fd2577065ecd&user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36&X-Forwarded-For=100.42.240.25",
-          "name": "CRICBUZZ English - AQ",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://livevideos.cricbuzz.com/hls/live/2123516/WCB-US-HINDI/9241/149746/master.m3u8?|Cookie=hdntl=exp=1775655518~acl=/*~id=7db46d2f-e8c2-4a01-8d73-54ba3fffc8e2~data=hdntl~hmac=9b319410f7a5a9f06d3260fbed602dc230c503cf9348d8c1c935fd2577065ecd&user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36&X-Forwarded-For=100.42.240.25",
-          "name": "CRICBUZZ HINDI - AQ",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://stream.huraweb.com/embed_view.php?id=76b33213265bd4b8",
-          "name": "HOTSTAR HINDI - AQ",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/187841/image",
-      "teamAName": "Delhi Capitals",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/216006/image",
-      "teamBName": "Gujarat Titans",
-      "time": "14:00:00",
-      "visible": true
-    },
-    {
-      "category": "Cricket",
-      "date": "08/04/2026",
-      "end_date": "08/04/2026",
-      "end_time": "18:15:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11170/image/dark",
-      "eventName": "Pakistan Super League",
-      "id": 69,
-      "links": [
-        {
-          "api": "ca51cb28be87c612f1f84dcb57a309cd:95f2759705faf50a7a3412b34552d027",
-          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash-sd/enc/wmonycspak/out/v1/7e671a59cb3c4e45913a89ae3d759943/cenc-sd.mpd",
-          "name": "WILLOW - AQ",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://pslurdu.bigbaat.app/out/v1/0ef369b90c7b4025b76621e46ee5fb70/index.m3u8",
-          "name": "PSL TV [Urdu]",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
-          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
-          "name": "WILLOW FHD",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://psl.bigbaat.app/out/v1/f342445c31dd475bbf30c7304dbad14f/index.m3u8",
-          "name": "PSL TV [ENG]",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://live.incableinternet.com/v/kooker_ptvsportshd/kooker_ptvsportshd.m3u8",
-          "name": "PTV SPORTS HD",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://ml-pull-rtmp-pk1.myco.io/English/hls/index/clean.m3u8|referer=https://myco.io",
-          "name": "MyCO ENG - PK",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://ml-pull-rtmp-pk1.myco.io/Urdudirty/hls/index/urdudirty.m3u8|referer=https://myco.io",
-          "name": "MyCO URDU - PK",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/1178235/image",
-      "teamAName": "Hyderabad Kingsmen",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/212420/image",
-      "teamBName": "Peshawar Zalmi",
-      "time": "14:00:00",
-      "visible": true
-    },
-    {
       "category": "Football",
       "date": "08/04/2026",
       "end_date": "09/04/2026",
@@ -480,8 +362,11 @@
       "id": 72,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
+          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
+          "name": "SportDigital Fussball",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/5251/image",
@@ -520,37 +405,6 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/269199/image",
       "teamBName": "Al-Kholood",
       "time": "18:00:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "08/04/2026",
-      "end_date": "08/04/2026",
-      "end_time": "18:15:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/955/image/dark",
-      "eventName": "Saudi Pro League",
-      "id": 74,
-      "links": [
-        {
-          "api": "",
-          "link": "https://live.uu6611.com/live/sd-1-4404631.m3u8?txSecret=70ce1bc799c3bc81bc2c61f5fb385455&txTime=69D17BBB|Referer=https://player.up909.com/",
-          "name": "HD SERVER ",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://stream.huraweb.com/embed_view.php?id=62782be2318ca7fb",
-          "name": "SD stream ",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/168094/image",
-      "teamAName": "Al-Fayha",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/34469/image",
-      "teamBName": "Al-Ahli",
-      "time": "15:55:00",
       "visible": true
     },
     {
