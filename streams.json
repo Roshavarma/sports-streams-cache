@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-08T10:40:31.755601",
-  "event_count": 10,
+  "last_updated": "2026-04-08T10:44:13.624506",
+  "event_count": 16,
   "events": [
     {
       "category": "Boxing",
@@ -316,6 +316,132 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/85741/image",
       "teamBName": "True Bangkok United",
       "time": "10:00:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "08/04/2026",
+      "end_date": "09/04/2026",
+      "end_time": "00:20:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/384/image/dark",
+      "eventName": "CONMEBOL Libertadores",
+      "id": 71,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/21982/image",
+      "teamAName": "Mirassol",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3218/image",
+      "teamBName": "CA Lanús",
+      "time": "22:00:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "08/04/2026",
+      "end_date": "09/04/2026",
+      "end_time": "00:20:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/480/image/dark",
+      "eventName": "CONMEBOL Sudamericana",
+      "id": 72,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/5251/image",
+      "teamAName": "Deportivo Cuenca",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/1968/image",
+      "teamBName": "Santos",
+      "time": "22:00:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "08/04/2026",
+      "end_date": "08/04/2026",
+      "end_time": "20:20:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/955/image/dark",
+      "eventName": "Saudi Pro League",
+      "id": 73,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/21895/image",
+      "teamAName": "Al-Hilal",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/269199/image",
+      "teamBName": "Al-Kholood",
+      "time": "18:00:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "08/04/2026",
+      "end_date": "08/04/2026",
+      "end_time": "18:15:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/955/image/dark",
+      "eventName": "Saudi Pro League",
+      "id": 74,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/168094/image",
+      "teamAName": "Al-Fayha",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/34469/image",
+      "teamBName": "Al-Ahli",
+      "time": "15:55:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "08/04/2026",
+      "end_date": "08/04/2026",
+      "end_time": "20:20:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/955/image/dark",
+      "eventName": "Saudi Pro League",
+      "id": 75,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/34315/image",
+      "teamAName": "Al-Ittihad",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/530631/image",
+      "teamBName": "Neom SC",
+      "time": "18:00:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "08/04/2026",
+      "end_date": "09/04/2026",
+      "end_time": "00:20:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/384/image/dark",
+      "eventName": "CONMEBOL Libertadores",
+      "id": 76,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3165/image",
+      "teamAName": "Coquimbo Unido",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3230/image",
+      "teamBName": "Nacional",
+      "time": "22:00:00",
       "visible": true
     }
   ]
