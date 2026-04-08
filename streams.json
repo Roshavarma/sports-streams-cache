@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-08T16:40:29.573188",
+  "last_updated": "2026-04-08T16:50:28.674128",
   "event_count": 15,
   "events": [
     {
@@ -223,6 +223,20 @@
           "api": "192b1115da041585c77200128549efa1:634e10efe4abbb14be400a3ccbac0258",
           "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/pnu10tp36z/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd",
           "name": "TNT SPORTS - AQ",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://live.uu6611.com/live/hd-en-1-4517869.m3u8?txSecret=5b5a6932e72767b1518182e76beef46e&txTime=69D6CE64|Referer=https://player.up909.com/",
+          "name": "HD SERVER ",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://chatgpt.hereisman.net/playlist/48500/load-playlist?|Referer=https://gooz.aapmains.net",
+          "name": "TNT SPORTS HD",
           "scheme": 0,
           "tokenApi": ""
         }
