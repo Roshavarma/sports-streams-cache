@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-08T15:01:15.791739",
+  "last_updated": "2026-04-08T15:40:41.388069",
   "event_count": 15,
   "events": [
     {
@@ -234,8 +234,8 @@
     {
       "category": "Cricket",
       "date": "08/04/2026",
-      "end_date": "",
-      "end_time": "",
+      "end_date": "08/04/2026",
+      "end_time": "18:15:00",
       "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark",
       "eventName": "Indian Premier League",
       "id": 68,
@@ -286,8 +286,8 @@
     {
       "category": "Cricket",
       "date": "08/04/2026",
-      "end_date": "",
-      "end_time": "",
+      "end_date": "08/04/2026",
+      "end_time": "18:15:00",
       "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11170/image/dark",
       "eventName": "Pakistan Super League",
       "id": 69,
@@ -422,8 +422,11 @@
       "id": 74,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "",
+          "link": "https://live.uu6611.com/live/sd-1-4404631.m3u8?txSecret=70ce1bc799c3bc81bc2c61f5fb385455&txTime=69D17BBB|Referer=https://player.up909.com/",
+          "name": "HD SERVER ",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/168094/image",
