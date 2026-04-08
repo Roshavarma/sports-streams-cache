@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-08T17:20:26.813159",
+  "last_updated": "2026-04-08T17:30:42.524398",
   "event_count": 15,
   "events": [
     {
@@ -486,6 +486,13 @@
           "api": "",
           "link": "https://live.uu6611.com/live/sd-1-4404615.m3u8?txSecret=89c41d73149c24ab00fac565d5cbc796&txTime=69D2E0B4|Referer=https://player.up909.com/",
           "name": "SD SERVER ",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://stream.huraweb.com/embed_view.php?id=09328296f98a4415",
+          "name": "Server 2 - All Devices ",
           "scheme": 0,
           "tokenApi": ""
         }
