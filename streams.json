@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-08T13:30:48.804606",
-  "event_count": 16,
+  "last_updated": "2026-04-08T13:40:33.955876",
+  "event_count": 15,
   "events": [
     {
       "category": "Boxing",
@@ -241,8 +241,32 @@
       "id": 68,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "",
+          "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https",
+          "name": "SKY CRICKET FHD",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://livevideos.cricbuzz.com/hls/live/2123398/WCB-CA/9241/149746/master.m3u8?|Cookie=hdntl=exp=1775655518~acl=/*~id=7db46d2f-e8c2-4a01-8d73-54ba3fffc8e2~data=hdntl~hmac=9b319410f7a5a9f06d3260fbed602dc230c503cf9348d8c1c935fd2577065ecd&user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36&X-Forwarded-For=100.42.240.25",
+          "name": "CRICBUZZ English - AQ",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://livevideos.cricbuzz.com/hls/live/2123516/WCB-US-HINDI/9241/149746/master.m3u8?|Cookie=hdntl=exp=1775655518~acl=/*~id=7db46d2f-e8c2-4a01-8d73-54ba3fffc8e2~data=hdntl~hmac=9b319410f7a5a9f06d3260fbed602dc230c503cf9348d8c1c935fd2577065ecd&user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36&X-Forwarded-For=100.42.240.25",
+          "name": "CRICBUZZ HINDI - AQ",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://valverdeaethegoat.himanshusoni3426.workers.dev/live.m3u8|User-agent=Mozilla/5.0 (Linux; Android 13; RMX3363 Build/TP1A.220905.001) AppleWebKit/537.36 (KHTML, like Gecko) Hyscvwnv/4.0 Chrome/146.0.7680.164 Mobile Safari/537.36&referer=https://matcheslinkz.pages.dev/&origin=https://matcheslinkz.pages.dev",
+          "name": "HOTSTAR HINDI - AQ",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/187841/image",
@@ -262,8 +286,46 @@
       "id": 69,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "",
+          "link": "https://pslurdu.bigbaat.app/out/v1/0ef369b90c7b4025b76621e46ee5fb70/index.m3u8",
+          "name": "PSL TV [Urdu]",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
+          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+          "name": "WILLOW FHD",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://psl.bigbaat.app/out/v1/f342445c31dd475bbf30c7304dbad14f/index.m3u8",
+          "name": "PSL TV [ENG]",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://live.incableinternet.com/v/kooker_ptvsportshd/kooker_ptvsportshd.m3u8",
+          "name": "PTV SPORTS HD",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://ml-pull-rtmp-pk1.myco.io/English/hls/index/clean.m3u8|referer=https://myco.io",
+          "name": "MyCO ENG - PK",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://ml-pull-rtmp-pk1.myco.io/Urdudirty/hls/index/urdudirty.m3u8|referer=https://myco.io",
+          "name": "MyCO URDU - PK",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/1178235/image",
@@ -271,51 +333,6 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/212420/image",
       "teamBName": "Peshawar Zalmi",
       "time": "14:00:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "08/04/2026",
-      "end_date": "08/04/2026",
-      "end_time": "12:20:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/668/image/dark",
-      "eventName": "AFC Champions League Two",
-      "id": 70,
-      "links": [
-        {
-          "api": "",
-          "link": "https://stream.huraweb.com/embed_view.php?id=62782be2318ca7fb",
-          "name": "Server 1 - All Devices ",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://smarthard.click/hls/DzazxOvS3QE1/index.m3u8",
-          "name": "Server 2",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://play.ltwxsc.com/live/hd-en-6MwcqG8Z49fPsnm1kS.m3u8?txSecret=a327194b6194da2c0e95033cb0bbfc76&txTime=69D651C6",
-          "name": "Server 3",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
-          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
-          "name": "Server 4 - AQ",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3138/image",
-      "teamAName": "Gamba Osaka",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/85741/image",
-      "teamBName": "True Bangkok United",
-      "time": "10:00:00",
       "visible": true
     },
     {
