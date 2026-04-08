@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-08T17:30:42.524398",
+  "last_updated": "2026-04-08T17:50:27.696930",
   "event_count": 15,
   "events": [
     {
@@ -183,6 +183,55 @@
           "name": "TNT SPORTS - AQ",
           "scheme": 0,
           "tokenApi": ""
+        },
+        {
+          "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
+          "link": "https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
+          "name": "BeIN English - AQ",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://ru-001.winter-spring-api.shop/secure/api/v1/lchd-ucl3.m3u8|Referer=https://cxfoot.pages.dev",
+          "name": "Multi View FHD",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "73307447c35177a8acc3e8a42aa2516d:63a3ec36d4bdb812e41e74f132c5ff2f",
+          "link": "https://abgqhfdaaaaaaaameyaqykf5zy3tq.ta.bia-cf.live.pv-cdn.net/gru-nitro/live/clients/dash/enc/qxprlxa3hc/out/v1/0a5fbcc3fc124cf9b996201087a58b2f/cenc.mpd",
+          "name": "TNT BR AQ",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://storage.googleapis.com/qwertynguhoerobrix1/mux_video_ts1/index-1.m3u8",
+          "name": "PARAMOUNT+ HD",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://602.simplyataide.boutique/tnt.m3u8|Referer=https://roxiestreams.info/",
+          "name": "TNT SPORTS FHD",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://daffodil.simplyataide.boutique/tudn.m3u8|Referer=https://roxiestreams.info/",
+          "name": "TUDN ES",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://70.hls-syria.live/live/bein1",
+          "name": "beIN Arabic",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/2817/image",
@@ -202,8 +251,39 @@
       "id": 66,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b",
+          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd",
+          "name": "TNT SPORTS AQ",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281",
+          "link": "https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd",
+          "name": "BeIN English - AQ",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
+          "link": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
+          "name": "PREMIER - AQ",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "36e8cbbdffc40708f01095591b7c53a6:078d543be20fe4769221f5afb3ecf195",
+          "link": "https://abgqhfdaaaaaaaammgbgkps323cuq.ta.bia-cf.live.pv-cdn.net/gru-nitro/live/clients/dash/enc/tr85qesyaa/out/v1/8e4dbe981d574983a5a0c96b874cc5b9/cenc.mpd",
+          "name": "TNT BR AQ",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://ru-001.winter-spring-api.shop/secure/api/v1/lchd-ucl3.m3u8|Referer=https://cxfoot.pages.dev",
+          "name": "Multi View FHD",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/1644/image",
@@ -428,9 +508,9 @@
           "tokenApi": ""
         },
         {
-          "api": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811",
-          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
-          "name": "FOX DEPORTES",
+          "api": "",
+          "link": "https://stream.huraweb.com/embed_view.php?id=75ea48132cd87cee",
+          "name": "Server 1 - All Devices ",
           "scheme": 0,
           "tokenApi": ""
         }
