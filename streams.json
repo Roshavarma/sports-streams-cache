@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-08T08:10:36.414275",
-  "event_count": 7,
+  "last_updated": "2026-04-08T08:16:54.364755",
+  "event_count": 9,
   "events": [
     {
       "category": "Boxing",
@@ -139,8 +139,8 @@
     },
     {
       "category": "Boxing",
-      "date": "08/04/2026",
-      "end_date": "08/04/2026",
+      "date": "15/04/2026",
+      "end_date": "15/04/2026",
       "end_time": "05:00:00",
       "eventLogo": "https://www.wwe.com/f/styles/wwe_show_logo_sm/public/all/2024/10/NXTonCW--0f06792893241464479338f55596a5bf.png",
       "eventName": "🥊 WWE NXT",
@@ -170,109 +170,107 @@
     },
     {
       "category": "Football",
-      "date": "06/04/2026",
-      "end_date": "06/04/2026",
+      "date": "08/04/2026",
+      "end_date": "08/04/2026",
       "end_time": "21:20:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/8/image/dark",
-      "eventName": "LaLiga",
-      "id": 59,
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/7/image/dark",
+      "eventName": "UEFA Champions League",
+      "id": 65,
       "links": [
         {
-          "api": "620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a",
-          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd",
-          "name": "Laliga TV FHD",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f",
-          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
-          "name": "PREMIER SPORTS",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://smarthard.click/hls/sabrouchespndeportes/index.m3u8",
-          "name": "ESPN DEPORTES",
-          "scheme": 0,
-          "tokenApi": ""
+          "link": "https://no.link",
+          "name": "Link 1"
         }
       ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/24264/image",
-      "teamAName": "Girona FC",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2819/image",
-      "teamBName": "Villarreal",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2817/image",
+      "teamAName": "FC Barcelona",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2836/image",
+      "teamBName": "Atlético Madrid",
       "time": "19:00:00",
       "visible": true
     },
     {
       "category": "Football",
-      "date": "06/04/2026",
-      "end_date": "06/04/2026",
-      "end_time": "21:05:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/23/image/dark",
-      "eventName": "Serie A",
-      "id": 60,
+      "date": "08/04/2026",
+      "end_date": "08/04/2026",
+      "end_time": "21:20:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/7/image/dark",
+      "eventName": "UEFA Champions League",
+      "id": 66,
       "links": [
         {
-          "api": "294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b",
-          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd",
-          "name": "TNT SPORTS",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
-          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
-          "name": "beIN ENGLISH",
-          "scheme": 0,
-          "tokenApi": ""
+          "link": "https://no.link",
+          "name": "Link 1"
         }
       ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2714/image",
-      "teamAName": "Napoli",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2692/image",
-      "teamBName": "Milan",
-      "time": "18:45:00",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/1644/image",
+      "teamAName": "Paris Saint-Germain",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/44/image",
+      "teamBName": "Liverpool",
+      "time": "19:00:00",
       "visible": true
     },
     {
       "category": "Football",
-      "date": "06/04/2026",
-      "end_date": "06/04/2026",
-      "end_time": "21:20:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark",
-      "eventName": "Championship",
-      "id": 64,
+      "date": "08/04/2026",
+      "end_date": "08/04/2026",
+      "end_time": "19:05:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/679/image/dark",
+      "eventName": "UEFA Europa League",
+      "id": 67,
       "links": [
         {
-          "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
-          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
-          "name": "beIN ENGLISH",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
-          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
-          "name": "CBS NETWORK",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://live.uu6611.com/live/sd-1-4351679.m3u8?txSecret=b8dd5a0824d6f24fd0727f3b957a7a42&txTime=69D435D1|Referer=https://player.up909.com/",
-          "name": "HD SERVER ",
-          "scheme": 0,
-          "tokenApi": ""
+          "link": "https://no.link",
+          "name": "Link 1"
         }
       ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/96/image",
-      "teamAName": "Hull City",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/11/image",
-      "teamBName": "Coventry City",
-      "time": "19:00:00",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2999/image",
+      "teamAName": "Sporting Braga",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2816/image",
+      "teamBName": "Real Betis",
+      "time": "16:45:00",
+      "visible": true
+    },
+    {
+      "category": "Cricket",
+      "date": "08/04/2026",
+      "end_date": "",
+      "end_time": "",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark",
+      "eventName": "Indian Premier League",
+      "id": 68,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/187841/image",
+      "teamAName": "Delhi Capitals",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/216006/image",
+      "teamBName": "Gujarat Titans",
+      "time": "14:00:00",
+      "visible": true
+    },
+    {
+      "category": "Cricket",
+      "date": "08/04/2026",
+      "end_date": "",
+      "end_time": "",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11170/image/dark",
+      "eventName": "Pakistan Super League",
+      "id": 69,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/1178235/image",
+      "teamAName": "Hyderabad Kingsmen",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/212420/image",
+      "teamBName": "Peshawar Zalmi",
+      "time": "14:00:00",
       "visible": true
     }
   ]
