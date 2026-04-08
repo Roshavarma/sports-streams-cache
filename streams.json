@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-08T10:20:33.484391",
-  "event_count": 9,
+  "last_updated": "2026-04-08T10:30:45.277169",
+  "event_count": 10,
   "events": [
     {
       "category": "Boxing",
@@ -271,6 +271,51 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/212420/image",
       "teamBName": "Peshawar Zalmi",
       "time": "14:00:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "08/04/2026",
+      "end_date": "08/04/2026",
+      "end_time": "12:20:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/668/image/dark",
+      "eventName": "AFC Champions League Two",
+      "id": 70,
+      "links": [
+        {
+          "api": "",
+          "link": "https://stream.huraweb.com/embed_view.php?id=62782be2318ca7fb",
+          "name": "Server 1 - All Devices ",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://smarthard.click/hls/DzazxOvS3QE1/index.m3u8",
+          "name": "Server 2",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://play.ltwxsc.com/live/hd-en-6MwcqG8Z49fPsnm1kS.m3u8?txSecret=a327194b6194da2c0e95033cb0bbfc76&txTime=69D651C6",
+          "name": "Server 3",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
+          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
+          "name": "Server 4 - AQ",
+          "scheme": 0,
+          "tokenApi": ""
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3138/image",
+      "teamAName": "Gamba Osaka",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/85741/image",
+      "teamBName": "True Bangkok United",
+      "time": "10:00:00",
       "visible": true
     }
   ]
