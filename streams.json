@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-08T15:40:41.388069",
+  "last_updated": "2026-04-08T15:50:39.498625",
   "event_count": 15,
   "events": [
     {
@@ -425,6 +425,13 @@
           "api": "",
           "link": "https://live.uu6611.com/live/sd-1-4404631.m3u8?txSecret=70ce1bc799c3bc81bc2c61f5fb385455&txTime=69D17BBB|Referer=https://player.up909.com/",
           "name": "HD SERVER ",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "http://195.178.110.2/hls/SSSQQ.m3u8|referer=http://www.fawanews.sc/",
+          "name": "SD stream ",
           "scheme": 0,
           "tokenApi": ""
         }
