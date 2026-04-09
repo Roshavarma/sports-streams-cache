@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-09T18:50:26.943679",
+  "last_updated": "2026-04-09T19:00:47.229395",
   "event_count": 13,
   "events": [
     {
@@ -373,6 +373,20 @@
           "name": "TNT SPORTS FHD",
           "scheme": 0,
           "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://chatgpt.hereisman.net/playlist/48563/load-playlist?|Referer=https://gooz.aapmains.net",
+          "name": "PARAMOUNT+ HD",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://live.uu6611.com/live/hd-en-1-4517871.m3u8?txSecret=dc987379cefa208d4af4e4a73d70a48a&txTime=69D838D5|Referer=https://player.up909.com/",
+          "name": "SD SERVER ",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/3002/image",
@@ -423,8 +437,11 @@
       "id": 68,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "",
+          "link": "https://live.uu6611.com/live/hd-en-1-4517873.m3u8?txSecret=79e81df0109582d52aa8ffa7c9a62cc3&txTime=69D838D5|Referer=https://player.up909.com/",
+          "name": "SD SERVER ",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/3313/image",
