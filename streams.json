@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-09T13:40:28.751332",
-  "event_count": 17,
+  "last_updated": "2026-04-09T13:50:32.589029",
+  "event_count": 16,
   "events": [
     {
       "category": "Boxing",
@@ -178,15 +178,22 @@
       "id": 56,
       "links": [
         {
+          "api": "8eeab0f1dd4f47f2afaefd70680d7213:9d2b3ec2dc612d7d7d21d4ebbb4c93c5",
+          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/bfbdrvbuq1/out/v1/c5d559db7b324817b6fe159c723febaf/cenc.mpd",
+          "name": "Willow [Ad Free]",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
           "api": "",
-          "link": "https://livevideos.cricbuzz.com/hls/live/2123398/WCB-CA/9241/149757/master.m3u8|X-Forwarded-For=100.42.240.25&user-agent=jass/5.0&Cookie=hdntl=exp=1775741435~acl=%2f*~id=def20caf-50a8-400e-b780-eb30c51c8b97~data=hdntl~hmac=ae6649e28c97c6e3934eec52a0acdd93b303e4136a1de43df4d3c4117d54dff4",
+          "link": "https://livevideos.cricbuzz.com/hls/live/2123398/WCB-CA/9241/149757/master.m3u8|X-Forwarded-For=100.42.240.25&Cookie=hdntl=exp=1775827496~acl=%2f*~id=3e4356d6-2178-4e68-8d53-d57913f7943e~data=hdntl~hmac=85a06cb2018edac1eacd0c913df313e5ad7ebb4c4b2f0a3f31d176395c234dda&user-agent=jass/5.0",
           "name": "CRICBUZZ English - AQ",
           "scheme": 0,
           "tokenApi": ""
         },
         {
           "api": "",
-          "link": "https://livevideos.cricbuzz.com/hls/live/2123519/WCB-CA-HINDI/9241/149746/master.m3u8|X-Forwarded-For=100.42.240.25&user-agent=jass/5.0&Cookie=hdntl=exp=1775741435~acl=%2f*~id=def20caf-50a8-400e-b780-eb30c51c8b97~data=hdntl~hmac=ae6649e28c97c6e3934eec52a0acdd93b303e4136a1de43df4d3c4117d54dff4",
+          "link": "https://livevideos.cricbuzz.com/hls/live/2123519/WCB-CA-HINDI/9241/149757/master.m3u8|X-Forwarded-For=100.42.240.25&Cookie=hdntl=exp=1775827496~acl=%2f*~id=3e4356d6-2178-4e68-8d53-d57913f7943e~data=hdntl~hmac=85a06cb2018edac1eacd0c913df313e5ad7ebb4c4b2f0a3f31d176395c234dda&user-agent=jass/5.0",
           "name": "CRICBUZZ HINDI - AQ",
           "scheme": 0,
           "tokenApi": ""
@@ -230,6 +237,13 @@
       "id": 57,
       "links": [
         {
+          "api": "5fef21ea908ec6a5f25f024a11c75169:4e09cb683c26a835450ccc0d53f3bb7e",
+          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/0tp7s9nhbb/out/v1/3baa6e7bb60247bea92db2230b60585f/cenc.mpd",
+          "name": "Willow AQ",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
           "api": "",
           "link": "https://psl.bigbaat.app/out/v1/f342445c31dd475bbf30c7304dbad14f/index.m3u8",
           "name": "PSL TV ENG ",
@@ -270,72 +284,6 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/212420/image",
       "teamBName": "Peshawar Zalmi",
       "time": "14:00:00",
-      "visible": true
-    },
-    {
-      "category": "Cricket",
-      "date": "09/04/2026",
-      "end_date": "09/04/2026",
-      "end_time": "13:45:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11170/image/dark",
-      "eventName": "Pakistan Super League",
-      "id": 58,
-      "links": [
-        {
-          "api": "f5cab7a592b0a1070a1c32a2938c7924:603a99d6a4a274d6c11ada91176c4477",
-          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vfnpphnva3/out/v1/f397e353e67b40b390a76cb46ce4776e/cenc.mpd",
-          "name": "WILLOW - AQ",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://psl.bigbaat.app/out/v1/f342445c31dd475bbf30c7304dbad14f/index.m3u8",
-          "name": "PSL TV - ENG ",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
-          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
-          "name": "WILLOW SPORTS",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://pslurdu.bigbaat.app/out/v1/0ef369b90c7b4025b76621e46ee5fb70/index.m3u8",
-          "name": "PSL TV [Urdu]",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://live.incableinternet.com/v/kooker_ptvsportshd/kooker_ptvsportshd.m3u8",
-          "name": "PTV SPORTS HD",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://ml-pull-rtmp-pk1.myco.io/English/hls/index/clean.m3u8|referer=https://myco.io",
-          "name": "MyCO ENG - PK",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://ml-pull-rtmp-pk1.myco.io/Urdudirty/hls/index/urdudirty.m3u8|referer=https://myco.io",
-          "name": "MyCO URDU - PK",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/212419/image",
-      "teamAName": "Lahore Qalandars",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/212416/image",
-      "teamBName": "Islamabad United",
-      "time": "09:30:00",
       "visible": true
     },
     {
