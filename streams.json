@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-09T09:00:50.006166",
-  "event_count": 7,
+  "last_updated": "2026-04-09T09:10:31.412693",
+  "event_count": 17,
   "events": [
     {
       "category": "Boxing",
@@ -267,6 +267,216 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/212416/image",
       "teamBName": "Islamabad United",
       "time": "09:30:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "09/04/2026",
+      "end_date": "09/04/2026",
+      "end_time": "19:20:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/52/image/dark",
+      "eventName": "Trendyol Süper Lig",
+      "id": 59,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3064/image",
+      "teamAName": "Çaykur Rizespor",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3053/image",
+      "teamBName": "Samsunspor",
+      "time": "17:00:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "09/04/2026",
+      "end_date": "09/04/2026",
+      "end_time": "21:20:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/17015/image/dark",
+      "eventName": "UEFA Conference League",
+      "id": 60,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2556/image",
+      "teamAName": "1. FSV Mainz 05",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/1659/image",
+      "teamBName": "RC Strasbourg",
+      "time": "19:00:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "09/04/2026",
+      "end_date": "09/04/2026",
+      "end_time": "20:20:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/955/image/dark",
+      "eventName": "Saudi Pro League",
+      "id": 61,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/34318/image",
+      "teamAName": "Al-Ettifaq",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/168088/image",
+      "teamBName": "Al-Riyadh",
+      "time": "18:00:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "09/04/2026",
+      "end_date": "09/04/2026",
+      "end_time": "21:20:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/679/image/dark",
+      "eventName": "UEFA Europa League",
+      "id": 62,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2538/image",
+      "teamAName": "SC Freiburg",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2821/image",
+      "teamBName": "Celta Vigo",
+      "time": "19:00:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "09/04/2026",
+      "end_date": "09/04/2026",
+      "end_time": "21:20:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/679/image/dark",
+      "eventName": "UEFA Europa League",
+      "id": 63,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2685/image",
+      "teamAName": "Bologna",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/40/image",
+      "teamBName": "Aston Villa",
+      "time": "19:00:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "09/04/2026",
+      "end_date": "09/04/2026",
+      "end_time": "21:20:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/17015/image/dark",
+      "eventName": "UEFA Conference League",
+      "id": 64,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/7/image",
+      "teamAName": "Crystal Palace",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2693/image",
+      "teamBName": "Fiorentina",
+      "time": "19:00:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "09/04/2026",
+      "end_date": "09/04/2026",
+      "end_time": "21:20:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/679/image/dark",
+      "eventName": "UEFA Europa League",
+      "id": 65,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3002/image",
+      "teamAName": "FC Porto",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/14/image",
+      "teamBName": "Nottingham Forest",
+      "time": "19:00:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "09/04/2026",
+      "end_date": "09/04/2026",
+      "end_time": "18:20:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/955/image/dark",
+      "eventName": "Saudi Pro League",
+      "id": 66,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/204126/image",
+      "teamAName": "Damac FC",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/56027/image",
+      "teamBName": "Al-Qadsiah",
+      "time": "16:00:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "09/04/2026",
+      "end_date": "09/04/2026",
+      "end_time": "19:05:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/17015/image/dark",
+      "eventName": "UEFA Conference League",
+      "id": 67,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2818/image",
+      "teamAName": "Rayo Vallecano",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3250/image",
+      "teamBName": "AEK Athens",
+      "time": "16:45:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "09/04/2026",
+      "end_date": "09/04/2026",
+      "end_time": "21:20:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/17015/image/dark",
+      "eventName": "UEFA Conference League",
+      "id": 68,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3313/image",
+      "teamAName": "Shakhtar Donetsk",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2950/image",
+      "teamBName": "AZ Alkmaar",
+      "time": "19:00:00",
       "visible": true
     }
   ]
