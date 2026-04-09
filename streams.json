@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-09T07:00:50.004696",
-  "event_count": 12,
+  "last_updated": "2026-04-09T07:10:25.206707",
+  "event_count": 7,
   "events": [
     {
       "category": "Boxing",
@@ -169,280 +169,66 @@
       "visible": true
     },
     {
-      "category": "Football",
-      "date": "08/04/2026",
-      "end_date": "08/04/2026",
-      "end_time": "21:20:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/7/image/dark",
-      "eventName": "UEFA Champions League",
-      "id": 65,
-      "links": [
-        {
-          "api": "f288380ca4cef9ad3f27a92a08e9bb8b:9f18d26291d9230833501f7f822f6875",
-          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd",
-          "name": "TNT SPORTS - AQ",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "99fc44aa47210c6c3b0c1a199492b070:0c13d95fdabafa0efc1e5627937e9989",
-          "link": "https://abkv2pxaaaaaaaamlfvqlljfjz5f7.ta.bia-cf.live.pv-cdn.net/gru-nitro/live/clients/dash/enc/7bssxijr6b/out/v1/0a5fbcc3fc124cf9b996201087a58b2f/cenc.mpd",
-          "name": "TNT BR AQ",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://storage.googleapis.com/qwertynguhoerobrix1/mux_video_ts1/index-1.m3u8",
-          "name": "PARAMOUNT+ HD",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "3c09b47d1fc6f8a1911dfc6016d27445:c14b2606515a6f300aafb6a03459358a",
-          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5hqgfribrb/out/v1/84636269a21f441ab85f05c711253fe4/cenc.mpd",
-          "name": "VIX SPANISH - AQ",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://daffodil.simplyataide.boutique/tudn.m3u8|Referer=https://roxiestreams.info/",
-          "name": "TUDN ES",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://70.hls-syria.live/live/bein1",
-          "name": "beIN Arabic",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2817/image",
-      "teamAName": "FC Barcelona",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2836/image",
-      "teamBName": "Atlético Madrid",
-      "time": "19:00:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "08/04/2026",
-      "end_date": "08/04/2026",
-      "end_time": "21:20:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/7/image/dark",
-      "eventName": "UEFA Champions League",
-      "id": 66,
-      "links": [
-        {
-          "api": "294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b",
-          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd",
-          "name": "TNT SPORTS AQ",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "6c962c64abaf676810401b19a0c5cfd0:516eb7efea20dcb819ce3d9b1d227418",
-          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/67tnkd7hwi/out/v1/5ffdefde68be4b0cba143306037bbdf3/cenc.mpd",
-          "name": "VIX SPANISH - AQ",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "19ddf4e42f18bfc3c71c57af73949b17:e8f8f994d08cadb95fe1e29027214d21",
-          "link": "https://otte.cache.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ebyufuwrml/out/v1/8e4dbe981d574983a5a0c96b874cc5b9/cenc.mpd",
-          "name": "TNT BR AQ",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://chatgpt.hereisman.net/playlist/48503/load-playlist?|Referer=https://gooz.aapmains.net",
-          "name": "TNT SPORTS HD",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://live.uu6611.com/live/hd-en-1-4517580.m3u8?txSecret=440255911d190ee7c912cf462af61b4b&txTime=69D6E673|Referer=https://player.up909.com/",
-          "name": "HD SERVER ",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/1644/image",
-      "teamAName": "Paris Saint-Germain",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/44/image",
-      "teamBName": "Liverpool",
-      "time": "19:00:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "08/04/2026",
-      "end_date": "08/04/2026",
-      "end_time": "19:05:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/679/image/dark",
-      "eventName": "UEFA Europa League",
-      "id": 67,
-      "links": [
-        {
-          "api": "192b1115da041585c77200128549efa1:634e10efe4abbb14be400a3ccbac0258",
-          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/pnu10tp36z/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd",
-          "name": "TNT SPORTS - AQ",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://live.uu6611.com/live/hd-en-1-4517869.m3u8?txSecret=5b5a6932e72767b1518182e76beef46e&txTime=69D6CE64|Referer=https://player.up909.com/",
-          "name": "HD SERVER ",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://chatgpt.hereisman.net/playlist/48500/load-playlist?|Referer=https://gooz.aapmains.net",
-          "name": "TNT SPORTS HD",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2999/image",
-      "teamAName": "Sporting Braga",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2816/image",
-      "teamBName": "Real Betis",
-      "time": "16:45:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "08/04/2026",
-      "end_date": "09/04/2026",
-      "end_time": "00:20:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/384/image/dark",
-      "eventName": "CONMEBOL Libertadores",
-      "id": 71,
+      "category": "Cricket",
+      "date": "09/04/2026",
+      "end_date": "",
+      "end_time": "",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark",
+      "eventName": "Indian Premier League",
+      "id": 56,
       "links": [
         {
           "link": "https://no.link",
           "name": "Link 1"
         }
       ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/21982/image",
-      "teamAName": "Mirassol",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3218/image",
-      "teamBName": "CA Lanús",
-      "time": "22:00:00",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/187775/image",
+      "teamAName": "Kolkata Knight Riders",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/410010/image",
+      "teamBName": "Lucknow Super Giants",
+      "time": "14:00:00",
       "visible": true
     },
     {
-      "category": "Football",
-      "date": "08/04/2026",
-      "end_date": "09/04/2026",
-      "end_time": "00:20:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/480/image/dark",
-      "eventName": "CONMEBOL Sudamericana",
-      "id": 72,
-      "links": [
-        {
-          "api": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
-          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
-          "name": "SportDigital Fussball",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/5251/image",
-      "teamAName": "Deportivo Cuenca",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/1968/image",
-      "teamBName": "Santos",
-      "time": "22:00:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "08/04/2026",
-      "end_date": "08/04/2026",
-      "end_time": "20:20:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/955/image/dark",
-      "eventName": "Saudi Pro League",
-      "id": 73,
-      "links": [
-        {
-          "api": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae",
-          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
-          "name": "FOX SPORTS FHD",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://stream.huraweb.com/embed_view.php?id=75ea48132cd87cee",
-          "name": "Server 1 - All Devices ",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/21895/image",
-      "teamAName": "Al-Hilal",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/269199/image",
-      "teamBName": "Al-Kholood",
-      "time": "18:00:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "08/04/2026",
-      "end_date": "08/04/2026",
-      "end_time": "20:20:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/955/image/dark",
-      "eventName": "Saudi Pro League",
-      "id": 75,
-      "links": [
-        {
-          "api": "",
-          "link": "https://live.uu6611.com/live/sd-1-4404615.m3u8?txSecret=89c41d73149c24ab00fac565d5cbc796&txTime=69D2E0B4|Referer=https://player.up909.com/",
-          "name": "SD SERVER ",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://stream.huraweb.com/embed_view.php?id=09328296f98a4415",
-          "name": "Server 2 - All Devices ",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/34315/image",
-      "teamAName": "Al-Ittihad",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/530631/image",
-      "teamBName": "Neom SC",
-      "time": "18:00:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "08/04/2026",
-      "end_date": "09/04/2026",
-      "end_time": "00:20:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/384/image/dark",
-      "eventName": "CONMEBOL Libertadores",
-      "id": 76,
+      "category": "Cricket",
+      "date": "09/04/2026",
+      "end_date": "",
+      "end_time": "",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11170/image/dark",
+      "eventName": "Pakistan Super League",
+      "id": 57,
       "links": [
         {
           "link": "https://no.link",
           "name": "Link 1"
         }
       ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3165/image",
-      "teamAName": "Coquimbo Unido",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3230/image",
-      "teamBName": "Nacional",
-      "time": "22:00:00",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/212418/image",
+      "teamAName": "Karachi Kings",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/212420/image",
+      "teamBName": "Peshawar Zalmi",
+      "time": "14:00:00",
+      "visible": true
+    },
+    {
+      "category": "Cricket",
+      "date": "09/04/2026",
+      "end_date": "",
+      "end_time": "",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11170/image/dark",
+      "eventName": "Pakistan Super League",
+      "id": 58,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/212419/image",
+      "teamAName": "Lahore Qalandars",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/212416/image",
+      "teamBName": "Islamabad United",
+      "time": "09:30:00",
       "visible": true
     }
   ]
