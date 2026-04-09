@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-09T16:00:53.067437",
+  "last_updated": "2026-04-09T16:08:30.284696",
   "event_count": 16,
   "events": [
     {
@@ -443,9 +443,23 @@
       "id": 66,
       "links": [
         {
+          "api": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811",
+          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
+          "name": "FOX DEPORTES",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
           "api": "",
           "link": "https://stream.huraweb.com/embed_view.php?id=62782be2318ca7fb",
           "name": "Server 1 - All Devices ",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://play.ltwxsc.com/live/sd-6MvXc76ASyEJUYP1Z8.m3u8?txSecret=1cb98d10a737d20514e54e7435066ed4&txTime=69D7F3E5",
+          "name": "Server 2",
           "scheme": 0,
           "tokenApi": ""
         }
