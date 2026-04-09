@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-09T13:30:38.523111",
+  "last_updated": "2026-04-09T13:40:28.751332",
   "event_count": 17,
   "events": [
     {
@@ -202,6 +202,13 @@
           "api": "",
           "link": "https://ru-001.winter-spring-api.shop/secure/api/v1/fox-sports-501.m3u8?md5=71d937318b354a55622a811d9fa59453&exp=1775747079|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36&Referer=https://embed.timstreams.fit/&Origin=https://embed.timstreams.fit",
           "name": "FOX 50FPS - FHD",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "http://195.178.110.2/hls/FFFFB.m3u8|Referer=http://www.fawanews.sc/",
+          "name": "SD STREAM ",
           "scheme": 0,
           "tokenApi": ""
         }
