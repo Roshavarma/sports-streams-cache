@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-10T07:50:23.964661",
-  "event_count": 13,
+  "last_updated": "2026-04-10T08:00:52.498479",
+  "event_count": 18,
   "events": [
     {
       "category": "Boxing",
@@ -35,7 +35,7 @@
     },
     {
       "category": "Motorsports",
-      "date": "10/04/2026",
+      "date": "01/05/2026",
       "end_date": "",
       "end_time": "",
       "eventLogo": "https://access-control-center-prod.freevision.live/ss/category/36.png",
@@ -96,7 +96,7 @@
       "teamAName": "Formula 1",
       "teamBFlag": "https://access-control-center-prod.freevision.live/ss/category/36.png",
       "teamBName": "Formula 1",
-      "time": "12:00:00",
+      "time": "16:30:00",
       "visible": true
     },
     {
@@ -170,285 +170,296 @@
     },
     {
       "category": "Football",
-      "date": "09/04/2026",
-      "end_date": "09/04/2026",
-      "end_time": "19:20:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/52/image/dark",
-      "eventName": "Trendyol Süper Lig",
-      "id": 59,
-      "links": [
-        {
-          "api": "",
-          "link": "https://smarthard.click/hls/hhx33tWwGEeW/index.m3u8",
-          "name": "SD SERVER",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3064/image",
-      "teamAName": "Çaykur Rizespor",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3053/image",
-      "teamBName": "Samsunspor",
-      "time": "17:00:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "09/04/2026",
-      "end_date": "09/04/2026",
-      "end_time": "21:20:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/17015/image/dark",
-      "eventName": "UEFA Conference League",
-      "id": 60,
-      "links": [
-        {
-          "api": "",
-          "link": "https://chatgpt.hereisman.net/playlist/48565/load-playlist?|Referer=https://gooz.aapmains.net",
-          "name": "PARAMOUNT+ HD",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://live.uu6611.com/live/hd-en-1-4517877.m3u8?txSecret=3159a699fee2a6a0beca3dc805a214b3&txTime=69D838D5|Referer=https://player.up909.com/",
-          "name": "SD SERVER ",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2556/image",
-      "teamAName": "1. FSV Mainz 05",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/1659/image",
-      "teamBName": "RC Strasbourg",
-      "time": "19:00:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "09/04/2026",
-      "end_date": "09/04/2026",
-      "end_time": "20:20:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/955/image/dark",
-      "eventName": "Saudi Pro League",
-      "id": 61,
+      "date": "10/04/2026",
+      "end_date": "10/04/2026",
+      "end_time": "21:25:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/34/image/dark",
+      "eventName": "Ligue 1",
+      "id": 69,
       "links": [
         {
           "link": "https://no.link",
           "name": "Link 1"
         }
       ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/34318/image",
-      "teamAName": "Al-Ettifaq",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/168088/image",
-      "teamBName": "Al-Riyadh",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/1641/image",
+      "teamAName": "Olympique de Marseille",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/1651/image",
+      "teamBName": "Metz",
+      "time": "19:05:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "10/04/2026",
+      "end_date": "10/04/2026",
+      "end_time": "18:50:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/44/image/dark",
+      "eventName": "2. Bundesliga",
+      "id": 70,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2588/image",
+      "teamAName": "Fortuna Düsseldorf",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2573/image",
+      "teamBName": "Holstein Kiel",
+      "time": "16:30:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "10/04/2026",
+      "end_date": "10/04/2026",
+      "end_time": "20:20:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/37/image/dark",
+      "eventName": "VriendenLoterij Eredivisie",
+      "id": 71,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2955/image",
+      "teamAName": "FC Twente",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2968/image",
+      "teamBName": "FC Volendam",
       "time": "18:00:00",
       "visible": true
     },
     {
       "category": "Football",
-      "date": "09/04/2026",
-      "end_date": "09/04/2026",
-      "end_time": "21:20:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/679/image/dark",
-      "eventName": "UEFA Europa League",
-      "id": 62,
+      "date": "10/04/2026",
+      "end_date": "10/04/2026",
+      "end_time": "19:20:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/34/image/dark",
+      "eventName": "Ligue 1",
+      "id": 72,
       "links": [
         {
-          "api": "192b1115da041585c77200128549efa1:634e10efe4abbb14be400a3ccbac0258",
-          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/pnu10tp36z/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd",
-          "name": "TNT SPORTS FHD",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://chatgpt.hereisman.net/playlist/48567/load-playlist?|Referer=https://gooz.aapmains.net",
-          "name": "TNT SPORTS HD",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://live.uu6611.com/live/hd-en-1-4517858.m3u8?txSecret=54bda611bb38ff3803232426d70979cc&txTime=69D838D5|Referer=https://player.up909.com/",
-          "name": "SD SERVER ",
-          "scheme": 0,
-          "tokenApi": ""
+          "link": "https://no.link",
+          "name": "Link 1"
         }
       ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2538/image",
-      "teamAName": "SC Freiburg",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2821/image",
-      "teamBName": "Celta Vigo",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/6070/image",
+      "teamAName": "Paris FC",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/1653/image",
+      "teamBName": "AS Monaco",
+      "time": "17:00:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "10/04/2026",
+      "end_date": "10/04/2026",
+      "end_time": "20:50:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/54/image/dark",
+      "eventName": "LaLiga 2",
+      "id": 73,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2869/image",
+      "teamAName": "AD Ceuta",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/24360/image",
+      "teamBName": "Real Sociedad B U21",
+      "time": "18:30:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "10/04/2026",
+      "end_date": "10/04/2026",
+      "end_time": "19:20:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/52/image/dark",
+      "eventName": "Trendyol Süper Lig",
+      "id": 74,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3050/image",
+      "teamAName": "Beşiktaş JK",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3056/image",
+      "teamBName": "Antalyaspor",
+      "time": "17:00:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "10/04/2026",
+      "end_date": "10/04/2026",
+      "end_time": "18:50:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/44/image/dark",
+      "eventName": "2. Bundesliga",
+      "id": 75,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2553/image",
+      "teamAName": "Karlsruher SC",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2540/image",
+      "teamBName": "Arminia Bielefeld",
+      "time": "16:30:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "10/04/2026",
+      "end_date": "10/04/2026",
+      "end_time": "21:20:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark",
+      "eventName": "Championship",
+      "id": 76,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/8/image",
+      "teamAName": "West Bromwich Albion",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/25/image",
+      "teamBName": "Millwall",
       "time": "19:00:00",
       "visible": true
     },
     {
       "category": "Football",
-      "date": "09/04/2026",
-      "end_date": "09/04/2026",
+      "date": "10/04/2026",
+      "end_date": "10/04/2026",
       "end_time": "21:20:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/679/image/dark",
-      "eventName": "UEFA Europa League",
-      "id": 63,
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/17/image/dark",
+      "eventName": "Premier League",
+      "id": 77,
       "links": [
         {
-          "api": "f288380ca4cef9ad3f27a92a08e9bb8b:9f18d26291d9230833501f7f822f6875",
-          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd",
-          "name": "TNT SPORTS FHD",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://chatgpt.hereisman.net/playlist/48550/load-playlist?|Referer=https://gooz.aapmains.net",
-          "name": "PARAMOUNT+ HD",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://live.uu6611.com/live/hd-en-1-4517882.m3u8?txSecret=22fa8ac90fee4f446d0a56dec04064c0&txTime=69D838D5|Referer=https://player.up909.com/",
-          "name": "SD SERVER ",
-          "scheme": 0,
-          "tokenApi": ""
+          "link": "https://no.link",
+          "name": "Link 1"
         }
       ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2685/image",
-      "teamAName": "Bologna",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/40/image",
-      "teamBName": "Aston Villa",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/37/image",
+      "teamAName": "West Ham United",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3/image",
+      "teamBName": "Wolverhampton",
       "time": "19:00:00",
       "visible": true
     },
     {
       "category": "Football",
-      "date": "09/04/2026",
-      "end_date": "09/04/2026",
+      "date": "10/04/2026",
+      "end_date": "10/04/2026",
       "end_time": "21:20:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/17015/image/dark",
-      "eventName": "UEFA Conference League",
-      "id": 64,
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/8/image/dark",
+      "eventName": "LaLiga",
+      "id": 78,
       "links": [
         {
-          "api": "1d96ab366bbe6451edf7407b58e2fa16:0116201f4a63ac5bf5787d2c610c41a7",
-          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5sxuux529k/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd",
-          "name": "TNT SPORTS FHD",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://chatgpt.hereisman.net/playlist/48549/load-playlist?|Referer=https://gooz.aapmains.net",
-          "name": "TNT SPORTS HD",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://live.uu6611.com/live/hd-en-1-4517867.m3u8?txSecret=24251443a6870921dba7f1ad91622287&txTime=69D838D5|Referer=https://player.up909.com/",
-          "name": "SD SERVER ",
-          "scheme": 0,
-          "tokenApi": ""
+          "link": "https://no.link",
+          "name": "Link 1"
         }
       ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/7/image",
-      "teamAName": "Crystal Palace",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2693/image",
-      "teamBName": "Fiorentina",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2829/image",
+      "teamAName": "Real Madrid",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/24264/image",
+      "teamBName": "Girona FC",
       "time": "19:00:00",
       "visible": true
     },
     {
       "category": "Football",
-      "date": "09/04/2026",
-      "end_date": "09/04/2026",
-      "end_time": "21:20:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/679/image/dark",
-      "eventName": "UEFA Europa League",
-      "id": 65,
+      "date": "10/04/2026",
+      "end_date": "10/04/2026",
+      "end_time": "21:05:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/23/image/dark",
+      "eventName": "Serie A",
+      "id": 79,
       "links": [
         {
-          "api": "294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b",
-          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd",
-          "name": "TNT SPORTS FHD",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://chatgpt.hereisman.net/playlist/48563/load-playlist?|Referer=https://gooz.aapmains.net",
-          "name": "PARAMOUNT+ HD",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://live.uu6611.com/live/hd-en-1-4517871.m3u8?txSecret=dc987379cefa208d4af4e4a73d70a48a&txTime=69D838D5|Referer=https://player.up909.com/",
-          "name": "SD SERVER ",
-          "scheme": 0,
-          "tokenApi": ""
+          "link": "https://no.link",
+          "name": "Link 1"
         }
       ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3002/image",
-      "teamAName": "FC Porto",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/14/image",
-      "teamBName": "Nottingham Forest",
-      "time": "19:00:00",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2702/image",
+      "teamAName": "Roma",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2737/image",
+      "teamBName": "Pisa",
+      "time": "18:45:00",
       "visible": true
     },
     {
       "category": "Football",
-      "date": "09/04/2026",
-      "end_date": "09/04/2026",
-      "end_time": "19:05:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/17015/image/dark",
-      "eventName": "UEFA Conference League",
-      "id": 67,
+      "date": "10/04/2026",
+      "end_date": "10/04/2026",
+      "end_time": "20:50:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/35/image/dark",
+      "eventName": "Bundesliga",
+      "id": 80,
       "links": [
         {
-          "api": "192b1115da041585c77200128549efa1:634e10efe4abbb14be400a3ccbac0258",
-          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/pnu10tp36z/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd",
-          "name": "TNT SPORTS FHD",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://stream.huraweb.com/embed_view.php?id=76b33213265bd4b8",
-          "name": "Server 1 - All Devices ",
-          "scheme": 0,
-          "tokenApi": ""
+          "link": "https://no.link",
+          "name": "Link 1"
         }
       ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2818/image",
-      "teamAName": "Rayo Vallecano",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3250/image",
-      "teamBName": "AEK Athens",
-      "time": "16:45:00",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2600/image",
+      "teamAName": "FC Augsburg",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2569/image",
+      "teamBName": "TSG Hoffenheim",
+      "time": "18:30:00",
       "visible": true
     },
     {
-      "category": "Football",
-      "date": "09/04/2026",
-      "end_date": "09/04/2026",
-      "end_time": "21:20:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/17015/image/dark",
-      "eventName": "UEFA Conference League",
-      "id": 68,
+      "category": "Cricket",
+      "date": "10/04/2026",
+      "end_date": "",
+      "end_time": "",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark",
+      "eventName": "Indian Premier League",
+      "id": 81,
       "links": [
         {
-          "api": "",
-          "link": "https://live.uu6611.com/live/hd-en-1-4517873.m3u8?txSecret=79e81df0109582d52aa8ffa7c9a62cc3&txTime=69D838D5|Referer=https://player.up909.com/",
-          "name": "SD SERVER ",
-          "scheme": 0,
-          "tokenApi": ""
+          "link": "https://no.link",
+          "name": "Link 1"
         }
       ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3313/image",
-      "teamAName": "Shakhtar Donetsk",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2950/image",
-      "teamBName": "AZ Alkmaar",
-      "time": "19:00:00",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/187842/image",
+      "teamAName": "Rajasthan Royals",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/187843/image",
+      "teamBName": "Royal Challengers Bengaluru",
+      "time": "14:00:00",
+      "visible": true
+    },
+    {
+      "category": "Cricket",
+      "date": "10/04/2026",
+      "end_date": "",
+      "end_time": "",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11170/image/dark",
+      "eventName": "Pakistan Super League",
+      "id": 82,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/212417/image",
+      "teamAName": "Quetta Gladiators",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/1178236/image",
+      "teamBName": "Rawalpindiz",
+      "time": "14:00:00",
       "visible": true
     }
   ]
