@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-10T18:00:52.337400",
-  "event_count": 18,
+  "last_updated": "2026-04-10T18:10:25.247375",
+  "event_count": 16,
   "events": [
     {
       "category": "Boxing",
@@ -371,8 +371,18 @@
       "id": 76,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
+          "name": "beIN ENGLISH",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
+          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
+          "name": "CBS NETWORK",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/8/image",
@@ -392,8 +402,11 @@
       "id": 77,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "",
+          "link": "https://eventcdn02-nowe.akamaized.net/hls/CH621/index.m3u8",
+          "name": "NOW SPORTS PL",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/37/image",
@@ -413,8 +426,32 @@
       "id": 78,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a",
+          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd",
+          "name": "Laliga TV FHD",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281",
+          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd",
+          "name": "beIN ENGLISH",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2",
+          "link": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
+          "name": "FANCODE FHD",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://smarthard.click/hls/sabrouchespndeportes/index.m3u8",
+          "name": "ESPN DEPORTES",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/2829/image",
@@ -484,117 +521,6 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/2569/image",
       "teamBName": "TSG Hoffenheim",
       "time": "18:30:00",
-      "visible": true
-    },
-    {
-      "category": "Cricket",
-      "date": "10/04/2026",
-      "end_date": "10/04/2026",
-      "end_time": "18:00:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark",
-      "eventName": "Indian Premier League",
-      "id": 81,
-      "links": [
-        {
-          "api": "",
-          "link": "https://livevideos.cricbuzz.com/hls/live/2123398/WCB-CA/9241/149768/master.m3u8?|cookie=hdntl=exp=1775911839~acl=/*~id=de0685d1-d73a-4727-8c35-4feb33ee7385~data=hdntl~hmac=3148ba876293d7aa622f83d5e578c5c35184f17497dcfcb9a495f23d86516149&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36&X-Forwarded-For=100.42.240.25",
-          "name": "CRICBUZZ English - AQ",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://livevideos.cricbuzz.com/hls/live/2123519/WCB-CA-HINDI/9241/149768/master.m3u8?|cookie=hdntl=exp=1775911839~acl=/*~id=de0685d1-d73a-4727-8c35-4feb33ee7385~data=hdntl~hmac=3148ba876293d7aa622f83d5e578c5c35184f17497dcfcb9a495f23d86516149&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36&X-Forwarded-For=100.42.240.25",
-          "name": "CRICBUZZ HINDI - AQ",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=7bnkGmSODWhSvD7xUkjZYw&e=2075749396&scheme=https",
-          "name": "SKY CRICKET FHD",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "http://datahub11.com:80/live/Jen12345/Jen54321/703299.ts",
-          "name": "STAR 4K",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/187842/image",
-      "teamAName": "Rajasthan Royals",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/187843/image",
-      "teamBName": "Royal Challengers Bengaluru",
-      "time": "14:00:00",
-      "visible": true
-    },
-    {
-      "category": "Cricket",
-      "date": "10/04/2026",
-      "end_date": "10/04/2026",
-      "end_time": "18:00:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11170/image/dark",
-      "eventName": "Pakistan Super League",
-      "id": 82,
-      "links": [
-        {
-          "api": "",
-          "link": "https://psl.bigbaat.app/out/v1/f342445c31dd475bbf30c7304dbad14f/index.m3u8",
-          "name": "PSL ENG - AQ",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://psl.bigbaat.app/out/v1/0ef369b90c7b4025b76621e46ee5fb70/index.m3u8?st=playztv",
-          "name": "PSL URDU - AQ",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
-          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
-          "name": "WILLOW SPORTS",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "f5cab7a592b0a1070a1c32a2938c7924:603a99d6a4a274d6c11ada91176c4477",
-          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vfnpphnva3/out/v1/f397e353e67b40b390a76cb46ce4776e/cenc.mpd",
-          "name": "WILLOW [ADS FREE]",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://playztv-apps.pages.dev/asports/index.m3u8",
-          "name": "A SPORTS - HD",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://ml-pull-rtmp-pk1.myco.io/English/hls/index/clean.m3u8|referer=https://myco.io",
-          "name": "MyCO ENG - PK",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://alibabacdn10.tamashaweb.com/alibaba10/alibaba10stream_alibaba-10.m3u8?aliyunols=on&lhs_playback_mode=1&lhs_start_unix_s_0=1775832600",
-          "name": "Tamasha pro",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/212417/image",
-      "teamAName": "Quetta Gladiators",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/1178236/image",
-      "teamBName": "Rawalpindiz",
-      "time": "14:00:00",
       "visible": true
     }
   ]
