@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-10T19:00:51.059559",
+  "last_updated": "2026-04-10T19:10:30.128733",
   "event_count": 14,
   "events": [
     {
@@ -181,6 +181,13 @@
           "api": "",
           "link": "https://raw.githubusercontent.com/xmrt624/lpootvs/refs/heads/main/my.m3u8",
           "name": "Ligue1+ HD",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://live.uu6611.com/live/hd-en-1-4347936.m3u8?txSecret=1d4ce9db39ec6cd7bc8afa8f44bad852&txTime=69D98F46|Referer=https://player.up909.com/",
+          "name": "HD SERVER ",
           "scheme": 0,
           "tokenApi": ""
         }
