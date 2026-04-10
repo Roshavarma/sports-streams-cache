@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-10T16:50:29.568671",
+  "last_updated": "2026-04-10T17:07:07.642415",
   "event_count": 18,
   "events": [
     {
@@ -250,6 +250,13 @@
       "eventName": "Ligue 1",
       "id": 72,
       "links": [
+        {
+          "api": "",
+          "link": "https://raw.githubusercontent.com/xmrt624/lpootvs/refs/heads/main/my.m3u8",
+          "name": "Ligue1+ HD",
+          "scheme": 0,
+          "tokenApi": ""
+        },
         {
           "api": "",
           "link": "https://live.uu6611.com/live/hd-en-1-4347938.m3u8?txSecret=170aa2699c31a66b3b5479b78186d53e&txTime=69D96AAC|Referer=https://player.up909.com/",
