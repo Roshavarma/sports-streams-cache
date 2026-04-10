@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-10T15:20:32.260001",
+  "last_updated": "2026-04-10T15:30:48.362236",
   "event_count": 18,
   "events": [
     {
@@ -513,6 +513,13 @@
           "api": "",
           "link": "https://ml-pull-rtmp-pk1.myco.io/English/hls/index/clean.m3u8|referer=https://myco.io",
           "name": "MyCO ENG - PK",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://alibabacdn10.tamashaweb.com/alibaba10/alibaba10stream_alibaba-10.m3u8?aliyunols=on&lhs_playback_mode=1&lhs_start_unix_s_0=1775832600",
+          "name": "Tamasha pro",
           "scheme": 0,
           "tokenApi": ""
         }
