@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-10T18:50:26.676324",
-  "event_count": 16,
+  "last_updated": "2026-04-10T19:00:51.059559",
+  "event_count": 14,
   "events": [
     {
       "category": "Boxing",
@@ -196,37 +196,6 @@
       "category": "Football",
       "date": "10/04/2026",
       "end_date": "10/04/2026",
-      "end_time": "18:50:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/44/image/dark",
-      "eventName": "2. Bundesliga",
-      "id": 70,
-      "links": [
-        {
-          "api": "",
-          "link": "https://smarthard.click/hls/kjzxkCIqkhtb/index.m3u8",
-          "name": "Sky Bundesliga SD",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://live.uu6611.com/live/sd-1-4355813.m3u8?txSecret=3238f73b34a6658472f60fb2381eb730&txTime=69D96AAC|Referer=https://player.up909.com/",
-          "name": "HD SERVER ",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2588/image",
-      "teamAName": "Fortuna Düsseldorf",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2573/image",
-      "teamBName": "Holstein Kiel",
-      "time": "16:30:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "10/04/2026",
-      "end_date": "10/04/2026",
       "end_time": "20:20:00",
       "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/37/image/dark",
       "eventName": "VriendenLoterij Eredivisie",
@@ -337,37 +306,6 @@
       "category": "Football",
       "date": "10/04/2026",
       "end_date": "10/04/2026",
-      "end_time": "18:50:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/44/image/dark",
-      "eventName": "2. Bundesliga",
-      "id": 75,
-      "links": [
-        {
-          "api": "",
-          "link": "https://live.uu6611.com/live/sd-1-4355816.m3u8?txSecret=f7d51eb0b68dc7d9c87d3f437ea03bf7&txTime=69D96AAC|Referer=https://player.up909.com/",
-          "name": "HD SERVER ",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://smarthard.click/hls/Mhe8gotoGQlu/index.m3u8",
-          "name": "Sky Bundesliga SD",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2553/image",
-      "teamAName": "Karlsruher SC",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2540/image",
-      "teamBName": "Arminia Bielefeld",
-      "time": "16:30:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "10/04/2026",
-      "end_date": "10/04/2026",
       "end_time": "21:20:00",
       "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark",
       "eventName": "Championship",
@@ -408,6 +346,34 @@
           "api": "",
           "link": "https://eventcdn02-nowe.akamaized.net/hls/CH621/index.m3u8",
           "name": "NOW SPORTS PL",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f",
+          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd",
+          "name": "FUBO SPORTS - AQ",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://sarajane589.s3.us-east-1.amazonaws.com/arsenal.m3u8",
+          "name": "USA TV - AQ",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://chatgpt.hereisman.net/playlist/48614/load-playlist?|Referer=https://gooz.aapmains.net",
+          "name": "USA TV HD",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://live.uu6611.com/live/hd-en-1-4343367.m3u8?txSecret=8c79af3577708c48e9a54a4d066f5d4e&txTime=69D98F46|Referer=https://player.up909.com/",
+          "name": "HD SERVER ",
           "scheme": 0,
           "tokenApi": ""
         }
