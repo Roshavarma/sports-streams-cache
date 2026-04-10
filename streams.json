@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-10T16:20:27.470140",
+  "last_updated": "2026-04-10T16:30:47.701193",
   "event_count": 18,
   "events": [
     {
@@ -199,8 +199,18 @@
       "id": 70,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "",
+          "link": "https://smarthard.click/hls/kjzxkCIqkhtb/index.m3u8",
+          "name": "Sky Bundesliga SD",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://live.uu6611.com/live/sd-1-4355813.m3u8?txSecret=3238f73b34a6658472f60fb2381eb730&txTime=69D96AAC|Referer=https://player.up909.com/",
+          "name": "HD SERVER ",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/2588/image",
@@ -241,8 +251,11 @@
       "id": 72,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "",
+          "link": "https://live.uu6611.com/live/hd-en-1-4347938.m3u8?txSecret=170aa2699c31a66b3b5479b78186d53e&txTime=69D96AAC|Referer=https://player.up909.com/",
+          "name": "HD SERVER ",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/6070/image",
@@ -304,8 +317,18 @@
       "id": 75,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "",
+          "link": "https://live.uu6611.com/live/sd-1-4355816.m3u8?txSecret=f7d51eb0b68dc7d9c87d3f437ea03bf7&txTime=69D96AAC|Referer=https://player.up909.com/",
+          "name": "HD SERVER ",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://smarthard.click/hls/Mhe8gotoGQlu/index.m3u8",
+          "name": "Sky Bundesliga SD",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/2553/image",
