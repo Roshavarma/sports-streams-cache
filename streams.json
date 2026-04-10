@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-10T17:07:07.642415",
+  "last_updated": "2026-04-10T17:10:28.978648",
   "event_count": 18,
   "events": [
     {
@@ -303,8 +303,11 @@
       "id": 74,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "",
+          "link": "https://smarthard.click/hls/hhx33tWwGEeW/index.m3u8",
+          "name": "HD SERVER ",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/3050/image",
