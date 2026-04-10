@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-10T15:04:53.502400",
+  "last_updated": "2026-04-10T15:10:28.941845",
   "event_count": 18,
   "events": [
     {
@@ -423,8 +423,8 @@
     {
       "category": "Cricket",
       "date": "10/04/2026",
-      "end_date": "",
-      "end_time": "",
+      "end_date": "10/04/2026",
+      "end_time": "18:00:00",
       "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark",
       "eventName": "Indian Premier League",
       "id": 81,
@@ -468,8 +468,8 @@
     {
       "category": "Cricket",
       "date": "10/04/2026",
-      "end_date": "",
-      "end_time": "",
+      "end_date": "10/04/2026",
+      "end_time": "18:00:00",
       "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11170/image/dark",
       "eventName": "Pakistan Super League",
       "id": 82,
