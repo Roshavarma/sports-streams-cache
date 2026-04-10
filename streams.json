@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-10T13:40:32.078907",
+  "last_updated": "2026-04-10T13:50:29.155630",
   "event_count": 18,
   "events": [
     {
@@ -430,8 +430,32 @@
       "id": 81,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "",
+          "link": "https://livevideos.cricbuzz.com/hls/live/2123398/WCB-CA/9241/149768/master.m3u8?|cookie=hdntl=exp=1775911839~acl=/*~id=de0685d1-d73a-4727-8c35-4feb33ee7385~data=hdntl~hmac=3148ba876293d7aa622f83d5e578c5c35184f17497dcfcb9a495f23d86516149&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36&X-Forwarded-For=100.42.240.25",
+          "name": "CRICBUZZ English - AQ",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://livevideos.cricbuzz.com/hls/live/2123519/WCB-CA-HINDI/9241/149768/master.m3u8?|cookie=hdntl=exp=1775911839~acl=/*~id=de0685d1-d73a-4727-8c35-4feb33ee7385~data=hdntl~hmac=3148ba876293d7aa622f83d5e578c5c35184f17497dcfcb9a495f23d86516149&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36&X-Forwarded-For=100.42.240.25",
+          "name": "CRICBUZZ HINDI - AQ",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=7bnkGmSODWhSvD7xUkjZYw&e=2075749396&scheme=https",
+          "name": "SKY CRICKET FHD",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "http://datahub11.com:80/live/Jen12345/Jen54321/703299.ts",
+          "name": "STAR 4K",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/187842/image",
@@ -451,8 +475,46 @@
       "id": 82,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "",
+          "link": "https://psl.bigbaat.app/out/v1/f342445c31dd475bbf30c7304dbad14f/index.m3u8",
+          "name": "PSL ENG - AQ",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://psl.bigbaat.app/out/v1/0ef369b90c7b4025b76621e46ee5fb70/index.m3u8?st=playztv",
+          "name": "PSL URDU - AQ",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
+          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+          "name": "WILLOW SPORTS",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "f5cab7a592b0a1070a1c32a2938c7924:603a99d6a4a274d6c11ada91176c4477",
+          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vfnpphnva3/out/v1/f397e353e67b40b390a76cb46ce4776e/cenc.mpd",
+          "name": "WILLOW [ADS FREE]",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://playztv-apps.pages.dev/asports/index.m3u8",
+          "name": "A SPORTS - HD",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://ml-pull-rtmp-pk1.myco.io/English/hls/index/clean.m3u8|referer=https://myco.io",
+          "name": "MyCO ENG - PK",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/212417/image",
