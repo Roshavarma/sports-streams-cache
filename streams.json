@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-10T18:20:29.285131",
+  "last_updated": "2026-04-10T18:30:41.634847",
   "event_count": 16,
   "events": [
     {
@@ -178,8 +178,11 @@
       "id": 69,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "",
+          "link": "https://raw.githubusercontent.com/xmrt624/lpootvs/refs/heads/main/my.m3u8",
+          "name": "Ligue1+ HD",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/1641/image",
