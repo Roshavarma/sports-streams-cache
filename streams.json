@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-11T16:30:40.539089",
+  "last_updated": "2026-04-11T16:40:25.577567",
   "event_count": 21,
   "events": [
     {
@@ -411,6 +411,13 @@
           "api": "",
           "link": "https://chatgpt.hereisman.net/playlist/48714/load-playlist?|Referer=https://gooz.aapmains.net/",
           "name": "HD SERVER",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://live5.msrktz.app/live/90865415.m3u8",
+          "name": "NEW",
           "scheme": 0,
           "tokenApi": ""
         }
