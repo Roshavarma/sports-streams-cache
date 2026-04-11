@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-11T11:38:25.617099",
+  "last_updated": "2026-04-11T11:40:28.287356",
   "event_count": 42,
   "events": [
     {
@@ -766,8 +766,18 @@
       "id": 84,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "",
+          "link": "https://smarthard.click/hls/hhx33tWwGEeW/index.m3u8",
+          "name": "beIN SPORTS",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://live.uu6611.com/live/sd-1-4366141.m3u8?txSecret=308aed34387c1cc32dae37fa5abeb9ee&txTime=69DA7320|Referer=https://player.up909.com/",
+          "name": "HD STREAM ",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/3086/image",
