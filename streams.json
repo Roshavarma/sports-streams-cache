@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-11T10:30:45.163134",
+  "last_updated": "2026-04-11T10:40:27.322430",
   "event_count": 42,
   "events": [
     {
@@ -1017,6 +1017,13 @@
           "api": "",
           "link": "http://103.175.242.10:8080/tsports1/index.m3u8",
           "name": "T SPORTS - HD",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/189M/playlist.m3u8",
+          "name": "PTV",
           "scheme": 0,
           "tokenApi": ""
         }
