@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-12T13:50:28.578623",
-  "event_count": 42,
+  "last_updated": "2026-04-12T14:00:49.978621",
+  "event_count": 37,
   "events": [
     {
       "category": "Boxing",
@@ -280,30 +280,6 @@
       "category": "Football",
       "date": "12/04/2026",
       "end_date": "12/04/2026",
-      "end_time": "13:50:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/44/image/dark",
-      "eventName": "2. Bundesliga",
-      "id": 61,
-      "links": [
-        {
-          "api": "",
-          "link": "https://smarthard.click/hls/kjzxkCIqkhtb/index.m3u8",
-          "name": "SKY BUNDESLIGA SD",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2561/image",
-      "teamAName": "SC Paderborn 07",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2591/image",
-      "teamBName": "1. FC Magdeburg",
-      "time": "11:30:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "12/04/2026",
-      "end_date": "12/04/2026",
       "end_time": "15:20:00",
       "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/23/image/dark",
       "eventName": "Serie A",
@@ -504,30 +480,6 @@
       "category": "Football",
       "date": "12/04/2026",
       "end_date": "12/04/2026",
-      "end_time": "13:50:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/44/image/dark",
-      "eventName": "2. Bundesliga",
-      "id": 71,
-      "links": [
-        {
-          "api": "",
-          "link": "https://smarthard.click/hls/9gSZoyFska/index.m3u8",
-          "name": "SKY BUNDESLIGA SD",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2598/image",
-      "teamAName": "SV 07 Elversberg",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2530/image",
-      "teamBName": "FC Schalke 04",
-      "time": "11:30:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "12/04/2026",
-      "end_date": "12/04/2026",
       "end_time": "17:35:00",
       "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/34/image/dark",
       "eventName": "Ligue 1",
@@ -564,30 +516,6 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/17/image",
       "teamBName": "Manchester City",
       "time": "15:30:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "12/04/2026",
-      "end_date": "12/04/2026",
-      "end_time": "13:50:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/52/image/dark",
-      "eventName": "Trendyol Süper Lig",
-      "id": 74,
-      "links": [
-        {
-          "api": "",
-          "link": "https://smarthard.click/hls/hhx33tWwGEeW/index.m3u8",
-          "name": "beIN SPORTS SD",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3085/image",
-      "teamAName": "Konyaspor",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4954/image",
-      "teamBName": "Fatih Karagümrük",
-      "time": "11:30:00",
       "visible": true
     },
     {
@@ -764,30 +692,6 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/40/image",
       "teamBName": "Aston Villa",
       "time": "13:00:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "12/04/2026",
-      "end_date": "12/04/2026",
-      "end_time": "13:50:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/44/image/dark",
-      "eventName": "2. Bundesliga",
-      "id": 83,
-      "links": [
-        {
-          "api": "",
-          "link": "https://smarthard.click/hls/Mhe8gotoGQlu/index.m3u8",
-          "name": "SKY BUNDESLIGA SD",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2542/image",
-      "teamAName": "VfL Bochum 1848",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2557/image",
-      "teamBName": "Eintracht Braunschweig",
-      "time": "11:30:00",
       "visible": true
     },
     {
@@ -1055,85 +959,19 @@
     {
       "category": "Cricket",
       "date": "12/04/2026",
-      "end_date": "12/04/2026",
-      "end_time": "14:00:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark",
-      "eventName": "Indian Premier League",
-      "id": 96,
-      "links": [
-        {
-          "api": "a5169cff06cb0c69b222606bf3e7b9f2:717fec03081b4ffa14267ee85f9a4946",
-          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/lgm5rxt4tj/out/v1/4b2f91723f8f40cba2ed801356a31b99/cenc.mpd",
-          "name": "WILLOW - AQ",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://livevideos.cricbuzz.com/hls/live/2123398/WCB-CA/9241/149801/master.m3u8|cookie=hdntl=exp=1776070320~acl=%2f*~id=5ff9c0a2-5fa1-43f2-aa74-47026a8103a4~data=hdntl~hmac=128f183c74e63e39498a689799333d833b28abfcee7ffffd4a479df52f23cc52&User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/146.0.0.0%20Safari/537.36&X-Forwarded-For=100.42.240.25",
-          "name": "CRICBUZZ English - AQ",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https",
-          "name": "SKY CRICKET HD",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "aefc2c8d1c8840f1b6981f856c9269ba:cf8ea114c45b4d6596b2748258ab74d6",
-          "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1776067493~acl=%2f*~id=ddf19d4c-e79e-43fa-ac60-93421ab352f6~data=hdntl,aXA9NjUuMS45Mi4yMjImZXhwPTE3NzU5ODExMjMmZWlkPTgzNzkxNyZvaWQ9MjImdHlwZT1WT0QmdWlkPW51bGwmY2lkPW51bGwmcHQ9bnVsbA~hmac=857b1e7c88c1b3b67c44f918f41093f1f80f29822e34031873baceadb9a73496/dash/live/2093749/219026-314033/manifest-d.mpd",
-          "name": "SKY SPORTS NZ",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://livevideos.cricbuzz.com/hls/live/2123519/WCB-CA-HINDI/9241/149801/master.m3u8|cookie=hdntl=exp=1776070713~acl=%2f*~id=29e10eac-453d-4e9a-b000-ada64e2e1b46~data=hdntl~hmac=4ac3eaf3a64761dfd2e044e007d4e06ba0d80b3112db70d592e673dad28b8c03&User-Agent=BURCHATTA&X-Forwarded-For=100.42.240.25",
-          "name": "CRICBUZZ HINDI - AQ",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://lb-nl-50gbs.zenostreams-cdn-001.com/secure/api/v1/fox-sports-501.m3u8?md5=9cd315df8e6834820ed73158ac0cb843&exp=1775993616|User-Agent=Mozilla/5.0 (Linux; Android 13; SM-T837A) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36&Referer=https://www.foulembeds.live/&Origin=https://www.foulembeds.live",
-          "name": "FOX 50FPS - FGD",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://valverdeaethegoat.himanshusoni3426.workers.dev/live.m3u8|User-agent=Mozilla/5.0 (Linux; Android 13; RMX3363 Build/TP1A.220905.001) AppleWebKit/537.36 (KHTML, like Gecko) Hyscvwnv/4.0 Chrome/146.0.7680.164 Mobile Safari/537.36&referer=https://matcheslinkz.pages.dev/&origin=https://matcheslinkz.pages.dev",
-          "name": "HOTSTAR HINDI - AQ",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://z.zcqvev.shop/hls/JRRR.m3u8|Referer=http://www.fawanews.sc/",
-          "name": "SD SERVER",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/410010/image",
-      "teamAName": "Lucknow Super Giants",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/216006/image",
-      "teamBName": "Gujarat Titans",
-      "time": "10:00:00",
-      "visible": true
-    },
-    {
-      "category": "Cricket",
-      "date": "12/04/2026",
       "end_date": "",
       "end_time": "",
       "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11170/image/dark",
       "eventName": "Pakistan Super League",
       "id": 97,
       "links": [
+        {
+          "api": "502165ec1d126b0e5e510442638bb95d:e35e2840e2f7575054bff19993be7ed0",
+          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ukkueppmq2/out/v1/7d50b4591e4f4cf9806ce9f13309adad/cenc.mpd",
+          "name": "WILLOW - AQ",
+          "scheme": 0,
+          "tokenApi": ""
+        },
         {
           "api": "",
           "link": "https://psl.bigbaat.app/out/v1/f342445c31dd475bbf30c7304dbad14f/index.m3u8",
@@ -1201,6 +1039,13 @@
       "id": 98,
       "links": [
         {
+          "api": "ec31e8a0ed9597f6e7f9732ce4e7c88c:169e244c2c08a4de6e274a5c8ea9f619",
+          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nze1joywnu/out/v1/d626ba5f1a07483b8c6d10372911dd19/cenc.mpd",
+          "name": "Willow [Ad Free]",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
           "api": "",
           "link": "https://livevideos.cricbuzz.com/hls/live/2123398/WCB-CA/9241/149801/master.m3u8|cookie=hdntl=exp=1776070320~acl=/*~id=5ff9c0a2-5fa1-43f2-aa74-47026a8103a4~data=hdntl~hmac=128f183c74e63e39498a689799333d833b28abfcee7ffffd4a479df52f23cc52&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36&X-Forwarded-For=100.42.240.25",
           "name": "CRICBUZZ English - AQ",
@@ -1215,8 +1060,8 @@
           "tokenApi": ""
         },
         {
-          "api": "aefc2c8d1c8840f1b6981f856c9269ba:cf8ea114c45b4d6596b2748258ab74d6",
-          "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1776067493~acl=%2f*~id=ddf19d4c-e79e-43fa-ac60-93421ab352f6~data=hdntl,aXA9NjUuMS45Mi4yMjImZXhwPTE3NzU5ODExMjMmZWlkPTgzNzkxNyZvaWQ9MjImdHlwZT1WT0QmdWlkPW51bGwmY2lkPW51bGwmcHQ9bnVsbA~hmac=857b1e7c88c1b3b67c44f918f41093f1f80f29822e34031873baceadb9a73496/dash/live/2093749/219026-314033/manifest-d.mpd",
+          "api": "2e2636daa74141b68cc14882ea3ff82b:0961f48287324adbb4b7ff3c9d82b3c9",
+          "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1776067493~acl=%2f*~id=ddf19d4c-e79e-43fa-ac60-93421ab352f6~data=hdntl,aXA9NjUuMS45Mi4yMjImZXhwPTE3NzU5ODExMjMmZWlkPTgzNzkxNyZvaWQ9MjImdHlwZT1WT0QmdWlkPW51bGwmY2lkPW51bGwmcHQ9bnVsbA~hmac=857b1e7c88c1b3b67c44f918f41093f1f80f29822e34031873baceadb9a73496/dash/live/2093734/219028-313801/manifest-d.mpd",
           "name": "SKY SP NZ - AQ",
           "scheme": 0,
           "tokenApi": ""
