@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-12T09:59:46.385036",
+  "last_updated": "2026-04-12T10:00:54.880676",
   "event_count": 47,
   "events": [
     {
@@ -1031,8 +1031,15 @@
       "id": 96,
       "links": [
         {
+          "api": "a5169cff06cb0c69b222606bf3e7b9f2:717fec03081b4ffa14267ee85f9a4946",
+          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/lgm5rxt4tj/out/v1/4b2f91723f8f40cba2ed801356a31b99/cenc.mpd",
+          "name": "WILLOW - AQ",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
           "api": "",
-          "link": "https://livevideos.cricbuzz.com/hls/live/2123398/WCB-CA/9241/149790/master.m3u8?|cookie=hdntl=exp=1775986490~acl=/*~id=5f6820fc-0a2a-46b3-9a40-911744cf338e~data=hdntl~hmac=fdc7793a857e0e0a75d3260e1069c14d45683c3758346e3bc2de92b26ea6899d&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36&X-Forwarded-For=100.42.240.25",
+          "link": "https://livevideos.cricbuzz.com/hls/live/2123398/WCB-CA/9241/149801/master.m3u8|cookie=hdntl=exp=1776070320~acl=%2f*~id=5ff9c0a2-5fa1-43f2-aa74-47026a8103a4~data=hdntl~hmac=128f183c74e63e39498a689799333d833b28abfcee7ffffd4a479df52f23cc52&User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/146.0.0.0%20Safari/537.36&X-Forwarded-For=100.42.240.25",
           "name": "CRICBUZZ English - AQ",
           "scheme": 0,
           "tokenApi": ""
@@ -1053,7 +1060,7 @@
         },
         {
           "api": "",
-          "link": "https://livevideos.cricbuzz.com/hls/live/2123519/WCB-CA-HINDI/9241/149790/master.m3u8?|cookie=hdntl=exp=1775986490~acl=/*~id=5f6820fc-0a2a-46b3-9a40-911744cf338e~data=hdntl~hmac=fdc7793a857e0e0a75d3260e1069c14d45683c3758346e3bc2de92b26ea6899d&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36&X-Forwarded-For=100.42.240.25",
+          "link": "https://livevideos.cricbuzz.com/hls/live/2123519/WCB-CA-HINDI/9241/149801/master.m3u8|cookie=hdntl=exp=1776070713~acl=%2f*~id=29e10eac-453d-4e9a-b000-ada64e2e1b46~data=hdntl~hmac=4ac3eaf3a64761dfd2e044e007d4e06ba0d80b3112db70d592e673dad28b8c03&User-Agent=BURCHATTA&X-Forwarded-For=100.42.240.25",
           "name": "CRICBUZZ HINDI - AQ",
           "scheme": 0,
           "tokenApi": ""
