@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-12T10:00:54.880676",
+  "last_updated": "2026-04-12T10:10:27.642318",
   "event_count": 47,
   "events": [
     {
@@ -1062,6 +1062,13 @@
           "api": "",
           "link": "https://livevideos.cricbuzz.com/hls/live/2123519/WCB-CA-HINDI/9241/149801/master.m3u8|cookie=hdntl=exp=1776070713~acl=%2f*~id=29e10eac-453d-4e9a-b000-ada64e2e1b46~data=hdntl~hmac=4ac3eaf3a64761dfd2e044e007d4e06ba0d80b3112db70d592e673dad28b8c03&User-Agent=BURCHATTA&X-Forwarded-For=100.42.240.25",
           "name": "CRICBUZZ HINDI - AQ",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://lb-nl-50gbs.zenostreams-cdn-001.com/secure/api/v1/fox-sports-501.m3u8?md5=9cd315df8e6834820ed73158ac0cb843&exp=1775993616|User-Agent=Mozilla/5.0 (Linux; Android 13; SM-T837A) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36&Referer=https://www.foulembeds.live/&Origin=https://www.foulembeds.live",
+          "name": "FOX 50FPS - FGD",
           "scheme": 0,
           "tokenApi": ""
         },
