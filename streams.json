@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-12T13:00:52.563710",
-  "event_count": 46,
+  "last_updated": "2026-04-12T13:10:28.486708",
+  "event_count": 42,
   "events": [
     {
       "category": "Boxing",
@@ -356,30 +356,6 @@
       "category": "Football",
       "date": "12/04/2026",
       "end_date": "12/04/2026",
-      "end_time": "12:35:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/37/image/dark",
-      "eventName": "VriendenLoterij Eredivisie",
-      "id": 64,
-      "links": [
-        {
-          "api": "",
-          "link": "https://smarthard.click/hls/zk0Nc2A3VdSM/index.m3u8",
-          "name": "ESPN NL SD",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2957/image",
-      "teamAName": "Fortuna Sittard",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2947/image",
-      "teamBName": "NAC Breda",
-      "time": "10:15:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "12/04/2026",
-      "end_date": "12/04/2026",
       "end_time": "14:50:00",
       "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/37/image/dark",
       "eventName": "VriendenLoterij Eredivisie",
@@ -419,37 +395,6 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/2689/image",
       "teamBName": "Lecce",
       "time": "16:00:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "12/04/2026",
-      "end_date": "12/04/2026",
-      "end_time": "13:20:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark",
-      "eventName": "Championship",
-      "id": 67,
-      "links": [
-        {
-          "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
-          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
-          "name": "beIN ENGLISH FHD",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://xstm.250909.cc/live/SPORTSFLUX-PRD-10065-1/a01f4324d192/1025.m3u8",
-          "name": "SKY FOOTBALL FHD",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/9/image",
-      "teamAName": "Birmingham City",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/64/image",
-      "teamBName": "Wrexham",
-      "time": "11:00:00",
       "visible": true
     },
     {
@@ -633,68 +578,6 @@
       "category": "Football",
       "date": "12/04/2026",
       "end_date": "12/04/2026",
-      "end_time": "12:50:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/23/image/dark",
-      "eventName": "Serie A",
-      "id": 76,
-      "links": [
-        {
-          "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
-          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
-          "name": "beIN ENGLISH",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811",
-          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
-          "name": "FOX DEPORTES",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2713/image",
-      "teamAName": "Genoa",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2793/image",
-      "teamBName": "Sassuolo",
-      "time": "10:30:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "12/04/2026",
-      "end_date": "12/04/2026",
-      "end_time": "13:20:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/36/image/dark",
-      "eventName": "Scottish Premiership",
-      "id": 77,
-      "links": [
-        {
-          "api": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
-          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
-          "name": "CBS NETWORK",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
-          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
-          "name": "SportDigital Fussball",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2363/image",
-      "teamAName": "Falkirk FC",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2351/image",
-      "teamBName": "Rangers",
-      "time": "11:00:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "12/04/2026",
-      "end_date": "12/04/2026",
       "end_time": "14:50:00",
       "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/37/image/dark",
       "eventName": "VriendenLoterij Eredivisie",
@@ -745,6 +628,13 @@
       "eventName": "Premier League",
       "id": 80,
       "links": [
+        {
+          "api": "dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f",
+          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd",
+          "name": "FUBO SPORTS",
+          "scheme": 0,
+          "tokenApi": ""
+        },
         {
           "api": "",
           "link": "https://eventcdn02-nowe.akamaized.net/hls/CH621/index.m3u8",
@@ -797,6 +687,13 @@
       "eventName": "Premier League",
       "id": 82,
       "links": [
+        {
+          "api": "96b67fa09140329a89b7a1ead134eda3:c618d32c56cdc6cad8330eb98507ca3f",
+          "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-east)/master.mpd",
+          "name": "NBC UNIVERSO AQ",
+          "scheme": 0,
+          "tokenApi": ""
+        },
         {
           "api": "",
           "link": "https://eventcdn02-nowe.akamaized.net/hls/CH622/index.m3u8",
