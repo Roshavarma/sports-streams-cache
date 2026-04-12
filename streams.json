@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-12T18:40:28.040669",
-  "event_count": 22,
+  "last_updated": "2026-04-12T18:50:27.373219",
+  "event_count": 13,
   "events": [
     {
       "category": "Boxing",
@@ -172,131 +172,6 @@
       "category": "Football",
       "date": "12/04/2026",
       "end_date": "12/04/2026",
-      "end_time": "17:35:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/34/image/dark",
-      "eventName": "Ligue 1",
-      "id": 60,
-      "links": [
-        {
-          "link": "https://no.link",
-          "name": "Link 1"
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/1661/image",
-      "teamAName": "Nice",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/1662/image",
-      "teamBName": "Le Havre",
-      "time": "15:15:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "12/04/2026",
-      "end_date": "12/04/2026",
-      "end_time": "18:20:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/23/image/dark",
-      "eventName": "Serie A",
-      "id": 66,
-      "links": [
-        {
-          "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
-          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
-          "name": "beIN ENGLISH",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2685/image",
-      "teamAName": "Bologna",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2689/image",
-      "teamBName": "Lecce",
-      "time": "16:00:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "12/04/2026",
-      "end_date": "12/04/2026",
-      "end_time": "17:35:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/34/image/dark",
-      "eventName": "Ligue 1",
-      "id": 72,
-      "links": [
-        {
-          "link": "https://no.link",
-          "name": "Link 1"
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/1681/image",
-      "teamAName": "Toulouse",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/1643/image",
-      "teamBName": "Lille",
-      "time": "15:15:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "12/04/2026",
-      "end_date": "12/04/2026",
-      "end_time": "17:50:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/17/image/dark",
-      "eventName": "Premier League",
-      "id": 73,
-      "links": [
-        {
-          "api": "",
-          "link": "https://eventcdn02-nowe.akamaized.net/hls/CH621/index.m3u8",
-          "name": "NOW SPORTS PL",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://chatgpt.hereisman.net/playlist/48810/load-playlist?|Referer=https://gooz.aapmains.net",
-          "name": "USA TV HD",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://s3.us-east-1.amazonaws.com/emre.gundap/ESPN.m3u8",
-          "name": "USA TV - AQ",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/38/image",
-      "teamAName": "Chelsea",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/17/image",
-      "teamBName": "Manchester City",
-      "time": "15:30:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "12/04/2026",
-      "end_date": "12/04/2026",
-      "end_time": "17:50:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/35/image/dark",
-      "eventName": "Bundesliga",
-      "id": 79,
-      "links": [
-        {
-          "link": "https://no.link",
-          "name": "Link 1"
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2677/image",
-      "teamAName": "VfB Stuttgart",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2676/image",
-      "teamBName": "Hamburger SV",
-      "time": "15:30:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "12/04/2026",
-      "end_date": "12/04/2026",
       "end_time": "21:20:00",
       "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/8/image/dark",
       "eventName": "LaLiga",
@@ -324,8 +199,11 @@
       "id": 86,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "",
+          "link": "https://live.uu6611.com/live/hd-en-1-4347935.m3u8?txSecret=1bf573204e47316c7d1565b965a29acc&txTime=69DC2A22|Referer=https://player.up909.com/",
+          "name": "HD SERVER ",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/1649/image",
@@ -442,8 +320,32 @@
       "id": 91,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b",
+          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd",
+          "name": "TNT SPORTS FHD",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f",
+          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd",
+          "name": "FUBO SPORTS FHD",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
+          "name": "beIN ENGLISH",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://chatgpt.hereisman.net/playlist/48815/load-playlist?|Referer=https://gooz.aapmains.net",
+          "name": "HD SERVER",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/2704/image",
@@ -481,30 +383,6 @@
       "category": "Football",
       "date": "12/04/2026",
       "end_date": "12/04/2026",
-      "end_time": "18:50:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/54/image/dark",
-      "eventName": "LaLiga 2",
-      "id": 93,
-      "links": [
-        {
-          "api": "d69894c7b729c5d1e85893e5e6cfcb0f:db0d53f871f5d2ef91d3a112c7ec9f30",
-          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/tcninbbnt5/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd",
-          "name": "Laliga Hypermotion ES",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4488/image",
-      "teamAName": "Cádiz",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/324871/image",
-      "teamBName": "FC Andorra",
-      "time": "16:30:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "12/04/2026",
-      "end_date": "12/04/2026",
       "end_time": "19:20:00",
       "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/238/image/dark",
       "eventName": "Liga Portugal Betclic",
@@ -523,190 +401,6 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/25777/image",
       "teamBName": "FC Arouca",
       "time": "17:00:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "12/04/2026",
-      "end_date": "12/04/2026",
-      "end_time": "18:50:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/8/image/dark",
-      "eventName": "LaLiga",
-      "id": 95,
-      "links": [
-        {
-          "api": "620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a",
-          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd",
-          "name": "Laliga TV FHD",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
-          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
-          "name": "beIN ENGLISH FHD",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f",
-          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
-          "name": "PREMIER SPORTS",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2",
-          "link": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
-          "name": "FANCODE FHD",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://smarthard.click/hls/sabrouchespndeportes/index.m3u8",
-          "name": "ESPN DEPORTES",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2821/image",
-      "teamAName": "Celta Vigo",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2851/image",
-      "teamBName": "Real Oviedo",
-      "time": "16:30:00",
-      "visible": true
-    },
-    {
-      "category": "Cricket",
-      "date": "12/04/2026",
-      "end_date": "",
-      "end_time": "",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11170/image/dark",
-      "eventName": "Pakistan Super League",
-      "id": 97,
-      "links": [
-        {
-          "api": "502165ec1d126b0e5e510442638bb95d:e35e2840e2f7575054bff19993be7ed0",
-          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ukkueppmq2/out/v1/7d50b4591e4f4cf9806ce9f13309adad/cenc.mpd",
-          "name": "WILLOW - AQ",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://psl.bigbaat.app/out/v1/f342445c31dd475bbf30c7304dbad14f/index.m3u8",
-          "name": "PSL ENG ",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://psl.bigbaat.app/out/v1/0ef369b90c7b4025b76621e46ee5fb70/index.m3u8?st=playztv",
-          "name": "PSL URDU ",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
-          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
-          "name": "WILLOW SPORTS",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://playztv-apps.pages.dev/tsports/index.m3u8",
-          "name": "T Sports HD",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://playztv-apps.pages.dev/asports/index.m3u8",
-          "name": "A SPORTS - HD",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://ml-pull-rtmp-pk1.myco.io/English/hls/index/clean.m3u8|referer=https://myco.io",
-          "name": "MyCO ENG - PK",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://ml-pull-rtmp-pk1.myco.io/Urdudirty/hls/index/urdudirty.m3u8|referer=https://myco.io",
-          "name": "MyCO URDU - PK",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/1178235/image",
-      "teamAName": "Hyderabad Kingsmen",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/212416/image",
-      "teamBName": "Islamabad United",
-      "time": "14:00:00",
-      "visible": true
-    },
-    {
-      "category": "Cricket",
-      "date": "12/04/2026",
-      "end_date": "",
-      "end_time": "",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark",
-      "eventName": "Indian Premier League",
-      "id": 98,
-      "links": [
-        {
-          "api": "ec31e8a0ed9597f6e7f9732ce4e7c88c:169e244c2c08a4de6e274a5c8ea9f619",
-          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nze1joywnu/out/v1/d626ba5f1a07483b8c6d10372911dd19/cenc.mpd",
-          "name": "Willow [Ad Free]",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://livevideos.cricbuzz.com/hls/live/2123398/WCB-CA/9241/149812/master.m3u8|cookie=hdntl=exp=1776070320~acl=%2f*~id=5ff9c0a2-5fa1-43f2-aa74-47026a8103a4~data=hdntl~hmac=128f183c74e63e39498a689799333d833b28abfcee7ffffd4a479df52f23cc52&User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/146.0.0.0%20Safari/537.36&X-Forwarded-For=100.42.240.25",
-          "name": "CRICBUZZ English - AQ",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://livevideos.cricbuzz.com/hls/live/2123519/WCB-CA-HINDI/9241/149812/master.m3u8|cookie=hdntl=exp=1776070320~acl=%2f*~id=5ff9c0a2-5fa1-43f2-aa74-47026a8103a4~data=hdntl~hmac=128f183c74e63e39498a689799333d833b28abfcee7ffffd4a479df52f23cc52&User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/146.0.0.0%20Safari/537.36&X-Forwarded-For=100.42.240.25",
-          "name": "CRICBUZZ HINDI - AQ",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "2e2636daa74141b68cc14882ea3ff82b:0961f48287324adbb4b7ff3c9d82b3c9",
-          "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1776067493~acl=%2f*~id=ddf19d4c-e79e-43fa-ac60-93421ab352f6~data=hdntl,aXA9NjUuMS45Mi4yMjImZXhwPTE3NzU5ODExMjMmZWlkPTgzNzkxNyZvaWQ9MjImdHlwZT1WT0QmdWlkPW51bGwmY2lkPW51bGwmcHQ9bnVsbA~hmac=857b1e7c88c1b3b67c44f918f41093f1f80f29822e34031873baceadb9a73496/dash/live/2093734/219028-313801/manifest-d.mpd",
-          "name": "SKY SP NZ - AQ",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://www.foulembeds.live/embed/fox-sports-501|User-Agent=Mozilla/5.0 (Linux; Android 13; SM-T837A) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36&Referer=https://www.foulembeds.live/&Origin=https://www.foulembeds.live",
-          "name": "FOX 50FPS - FHD",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://valverdeaethegoat.himanshusoni3426.workers.dev/live.m3u8|User-agent=Mozilla/5.0 (Linux; Android 13; RMX3363 Build/TP1A.220905.001) AppleWebKit/537.36 (KHTML, like Gecko) Hyscvwnv/4.0 Chrome/146.0.7680.164 Mobile Safari/537.36&referer=https://matcheslinkz.pages.dev/&origin=https://matcheslinkz.pages.dev",
-          "name": "HOTSTAR HINDI - AQ",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/187780/image",
-      "teamAName": "Mumbai Indians",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/187843/image",
-      "teamBName": "Royal Challengers Bengaluru",
-      "time": "14:00:00",
       "visible": true
     }
   ]
