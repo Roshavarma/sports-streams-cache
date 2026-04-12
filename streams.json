@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-12T09:50:28.031910",
+  "last_updated": "2026-04-12T09:59:46.385036",
   "event_count": 47,
   "events": [
     {
@@ -1039,6 +1039,20 @@
         },
         {
           "api": "",
+          "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https",
+          "name": "SKY CRICKET HD",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "aefc2c8d1c8840f1b6981f856c9269ba:cf8ea114c45b4d6596b2748258ab74d6",
+          "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1776067493~acl=%2f*~id=ddf19d4c-e79e-43fa-ac60-93421ab352f6~data=hdntl,aXA9NjUuMS45Mi4yMjImZXhwPTE3NzU5ODExMjMmZWlkPTgzNzkxNyZvaWQ9MjImdHlwZT1WT0QmdWlkPW51bGwmY2lkPW51bGwmcHQ9bnVsbA~hmac=857b1e7c88c1b3b67c44f918f41093f1f80f29822e34031873baceadb9a73496/dash/live/2093749/219026-314033/manifest-d.mpd",
+          "name": "SKY SPORTS NZ",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
           "link": "https://livevideos.cricbuzz.com/hls/live/2123519/WCB-CA-HINDI/9241/149790/master.m3u8?|cookie=hdntl=exp=1775986490~acl=/*~id=5f6820fc-0a2a-46b3-9a40-911744cf338e~data=hdntl~hmac=fdc7793a857e0e0a75d3260e1069c14d45683c3758346e3bc2de92b26ea6899d&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36&X-Forwarded-For=100.42.240.25",
           "name": "CRICBUZZ HINDI - AQ",
           "scheme": 0,
@@ -1048,6 +1062,13 @@
           "api": "",
           "link": "https://valverdeaethegoat.himanshusoni3426.workers.dev/live.m3u8|User-agent=Mozilla/5.0 (Linux; Android 13; RMX3363 Build/TP1A.220905.001) AppleWebKit/537.36 (KHTML, like Gecko) Hyscvwnv/4.0 Chrome/146.0.7680.164 Mobile Safari/537.36&referer=https://matcheslinkz.pages.dev/&origin=https://matcheslinkz.pages.dev",
           "name": "HOTSTAR HINDI - AQ",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://z.zcqvev.shop/hls/JRRR.m3u8|Referer=http://www.fawanews.sc/",
+          "name": "SD SERVER",
           "scheme": 0,
           "tokenApi": ""
         }
