@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-12T09:10:32.152547",
+  "last_updated": "2026-04-12T09:20:40.079971",
   "event_count": 47,
   "events": [
     {
@@ -346,8 +346,11 @@
       "id": 64,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "",
+          "link": "https://smarthard.click/hls/zk0Nc2A3VdSM/index.m3u8",
+          "name": "ESPN NL SD",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/2957/image",
@@ -598,8 +601,18 @@
       "id": 76,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
+          "name": "beIN ENGLISH",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811",
+          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
+          "name": "FOX DEPORTES",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/2713/image",
