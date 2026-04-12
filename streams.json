@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-12T12:30:45.514397",
+  "last_updated": "2026-04-12T12:50:28.853914",
   "event_count": 46,
   "events": [
     {
@@ -286,8 +286,25 @@
       "id": 62,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "f288380ca4cef9ad3f27a92a08e9bb8b:9f18d26291d9230833501f7f822f6875",
+          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd",
+          "name": "TNT SPORTS FHD",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
+          "name": "beIN ENGLISH",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811",
+          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
+          "name": "FOX DEPORTES",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/2690/image",
@@ -729,8 +746,11 @@
       "id": 80,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "",
+          "link": "https://eventcdn02-nowe.akamaized.net/hls/CH621/index.m3u8",
+          "name": "NOW SPORTS PL",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/41/image",
@@ -771,8 +791,18 @@
       "id": 82,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "",
+          "link": "https://eventcdn02-nowe.akamaized.net/hls/CH622/index.m3u8",
+          "name": "NOW SPORTS PL",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://xstm.250909.cc/live/SPORTSFLUX-PRD-10065-1/a01f4324d192/1028.m3u8",
+          "name": "SKY PL FHD",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/14/image",
@@ -816,8 +846,11 @@
       "id": 84,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "",
+          "link": "https://eventcdn02-nowe.akamaized.net/hls/CH623/index.m3u8",
+          "name": "NOW SPORTS PL",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/7/image",
