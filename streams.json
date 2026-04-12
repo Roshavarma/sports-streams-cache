@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-12T13:43:48.968408",
+  "last_updated": "2026-04-12T13:50:28.578623",
   "event_count": 42,
   "events": [
     {
@@ -600,8 +600,11 @@
       "id": 75,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "",
+          "link": "https://live.uu6611.com/live/hd-en-1-4347643.m3u8?txSecret=490744cc9fa716b599b502d7875d57fc&txTime=69DBE4DA|Referer=https://player.up909.com/",
+          "name": "HD SERVER ",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/2671/image",
