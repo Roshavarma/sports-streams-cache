@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-12T12:50:28.853914",
+  "last_updated": "2026-04-12T13:00:52.563710",
   "event_count": 46,
   "events": [
     {
@@ -751,6 +751,13 @@
           "name": "NOW SPORTS PL",
           "scheme": 0,
           "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://s.zejjj.shop/hls/GTGTGT.m3u8|Referer=http://www.fawanews.sc/",
+          "name": "SD STREAM ",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/41/image",
@@ -803,6 +810,13 @@
           "name": "SKY PL FHD",
           "scheme": 0,
           "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://a.zegtkiku.shop/hls/FCCCQ.m3u8|Referer=http://www.fawanews.sc/",
+          "name": "SD SERVER ",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/14/image",
@@ -849,6 +863,13 @@
           "api": "",
           "link": "https://eventcdn02-nowe.akamaized.net/hls/CH623/index.m3u8",
           "name": "NOW SPORTS PL",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://a.zeerhtrj.shop/hls/FCCC.m3u8|Referer=http://www.fawanews.sc/",
+          "name": "SD SERVER ",
           "scheme": 0,
           "tokenApi": ""
         }
