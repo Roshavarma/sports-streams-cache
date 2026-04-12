@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-12T14:00:49.978621",
-  "event_count": 37,
+  "last_updated": "2026-04-12T14:10:27.949417",
+  "event_count": 35,
   "events": [
     {
       "category": "Boxing",
@@ -244,8 +244,18 @@
       "id": 59,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
+          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
+          "name": "SportDigital Fussball",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://smarthard.click/hls/uSPCfTgzHQY3/index.m3u8",
+          "name": "ESPN NL SD",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/2950/image",
@@ -312,44 +322,6 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/2714/image",
       "teamBName": "Napoli",
       "time": "13:00:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "12/04/2026",
-      "end_date": "12/04/2026",
-      "end_time": "14:20:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/8/image/dark",
-      "eventName": "LaLiga",
-      "id": 63,
-      "links": [
-        {
-          "api": "620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a",
-          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd",
-          "name": "Laliga TV FHD",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
-          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
-          "name": "PREMIER SPORTS",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2",
-          "link": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
-          "name": "FANCODE FHD",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2820/image",
-      "teamAName": "Osasuna",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2816/image",
-      "teamBName": "Real Betis",
-      "time": "12:00:00",
       "visible": true
     },
     {
@@ -450,30 +422,6 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/10/image",
       "teamBName": "Stockport County",
       "time": "14:00:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "12/04/2026",
-      "end_date": "12/04/2026",
-      "end_time": "14:20:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/54/image/dark",
-      "eventName": "LaLiga 2",
-      "id": 70,
-      "links": [
-        {
-          "api": "d69894c7b729c5d1e85893e5e6cfcb0f:db0d53f871f5d2ef91d3a112c7ec9f30",
-          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/tcninbbnt5/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd",
-          "name": "Laliga Hypermotion ES",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/33779/image",
-      "teamAName": "Granada",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2868/image",
-      "teamBName": "Cultural Leonesa",
-      "time": "12:00:00",
       "visible": true
     },
     {
@@ -1047,14 +995,14 @@
         },
         {
           "api": "",
-          "link": "https://livevideos.cricbuzz.com/hls/live/2123398/WCB-CA/9241/149801/master.m3u8|cookie=hdntl=exp=1776070320~acl=/*~id=5ff9c0a2-5fa1-43f2-aa74-47026a8103a4~data=hdntl~hmac=128f183c74e63e39498a689799333d833b28abfcee7ffffd4a479df52f23cc52&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36&X-Forwarded-For=100.42.240.25",
+          "link": "https://livevideos.cricbuzz.com/hls/live/2123398/WCB-CA/9241/149812/master.m3u8|cookie=hdntl=exp=1776070320~acl=%2f*~id=5ff9c0a2-5fa1-43f2-aa74-47026a8103a4~data=hdntl~hmac=128f183c74e63e39498a689799333d833b28abfcee7ffffd4a479df52f23cc52&User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/146.0.0.0%20Safari/537.36&X-Forwarded-For=100.42.240.25",
           "name": "CRICBUZZ English - AQ",
           "scheme": 0,
           "tokenApi": ""
         },
         {
           "api": "",
-          "link": "https://livevideos.cricbuzz.com/hls/live/2123519/WCB-CA-HINDI/9241/149801/master.m3u8?|cookie=hdntl=exp=1776070713~acl=/*~id=29e10eac-453d-4e9a-b000-ada64e2e1b46~data=hdntl~hmac=4ac3eaf3a64761dfd2e044e007d4e06ba0d80b3112db70d592e673dad28b8c03&User-Agent=BURCHATTA&X-Forwarded-For=100.42.240.25",
+          "link": "https://livevideos.cricbuzz.com/hls/live/2123519/WCB-CA-HINDI/9241/149812/master.m3u8|cookie=hdntl=exp=1776070320~acl=%2f*~id=5ff9c0a2-5fa1-43f2-aa74-47026a8103a4~data=hdntl~hmac=128f183c74e63e39498a689799333d833b28abfcee7ffffd4a479df52f23cc52&User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/146.0.0.0%20Safari/537.36&X-Forwarded-For=100.42.240.25",
           "name": "CRICBUZZ HINDI - AQ",
           "scheme": 0,
           "tokenApi": ""
