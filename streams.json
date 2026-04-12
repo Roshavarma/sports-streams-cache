@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-12T09:20:40.079971",
+  "last_updated": "2026-04-12T09:30:47.046925",
   "event_count": 47,
   "events": [
     {
@@ -1031,8 +1031,25 @@
       "id": 96,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "",
+          "link": "https://livevideos.cricbuzz.com/hls/live/2123398/WCB-CA/9241/149790/master.m3u8?|cookie=hdntl=exp=1775986490~acl=/*~id=5f6820fc-0a2a-46b3-9a40-911744cf338e~data=hdntl~hmac=fdc7793a857e0e0a75d3260e1069c14d45683c3758346e3bc2de92b26ea6899d&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36&X-Forwarded-For=100.42.240.25",
+          "name": "CRICBUZZ English - AQ",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://livevideos.cricbuzz.com/hls/live/2123519/WCB-CA-HINDI/9241/149790/master.m3u8?|cookie=hdntl=exp=1775986490~acl=/*~id=5f6820fc-0a2a-46b3-9a40-911744cf338e~data=hdntl~hmac=fdc7793a857e0e0a75d3260e1069c14d45683c3758346e3bc2de92b26ea6899d&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36&X-Forwarded-For=100.42.240.25",
+          "name": "CRICBUZZ HINDI - AQ",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://valverdeaethegoat.himanshusoni3426.workers.dev/live.m3u8|User-agent=Mozilla/5.0 (Linux; Android 13; RMX3363 Build/TP1A.220905.001) AppleWebKit/537.36 (KHTML, like Gecko) Hyscvwnv/4.0 Chrome/146.0.7680.164 Mobile Safari/537.36&referer=https://matcheslinkz.pages.dev/&origin=https://matcheslinkz.pages.dev",
+          "name": "HOTSTAR HINDI - AQ",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/410010/image",
