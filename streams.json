@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-12T11:50:29.897021",
-  "event_count": 47,
+  "last_updated": "2026-04-12T12:00:53.147370",
+  "event_count": 46,
   "events": [
     {
       "category": "Boxing",
@@ -166,27 +166,6 @@
       "teamBFlag": "https://www.wwe.com/f/styles/wwe_show_logo_sm/public/all/2024/10/NXTonCW--0f06792893241464479338f55596a5bf.png",
       "teamBName": "NXT",
       "time": "00:00:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "12/04/2026",
-      "end_date": "12/04/2026",
-      "end_time": "14:20:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/493/image/dark",
-      "eventName": "Regionalliga West",
-      "id": 56,
-      "links": [
-        {
-          "link": "https://no.link",
-          "name": "Link 1"
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2683/image",
-      "teamAName": "SC Fortuna Köln",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/260007/image",
-      "teamBName": "FC Schalke 04 II U23",
-      "time": "12:00:00",
       "visible": true
     },
     {
@@ -488,8 +467,11 @@
       "id": 70,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "d69894c7b729c5d1e85893e5e6cfcb0f:db0d53f871f5d2ef91d3a112c7ec9f30",
+          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/tcninbbnt5/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd",
+          "name": "Laliga Hypermotion ES",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/33779/image",
