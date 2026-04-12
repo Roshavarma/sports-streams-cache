@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-12T17:00:52.159583",
-  "event_count": 35,
+  "last_updated": "2026-04-12T17:10:27.369188",
+  "event_count": 22,
   "events": [
     {
       "category": "Boxing",
@@ -172,103 +172,6 @@
       "category": "Football",
       "date": "12/04/2026",
       "end_date": "12/04/2026",
-      "end_time": "16:35:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/8/image/dark",
-      "eventName": "LaLiga",
-      "id": 57,
-      "links": [
-        {
-          "api": "620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a",
-          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd",
-          "name": "Laliga TV FHD",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
-          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
-          "name": "beIN ENGLISH FHD",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
-          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
-          "name": "PREMIER SPORTS",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2",
-          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
-          "name": "FANCODE - AQ",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2826/image",
-      "teamAName": "Mallorca",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2818/image",
-      "teamBName": "Rayo Vallecano",
-      "time": "14:15:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "12/04/2026",
-      "end_date": "12/04/2026",
-      "end_time": "16:50:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/238/image/dark",
-      "eventName": "Liga Portugal Betclic",
-      "id": 58,
-      "links": [
-        {
-          "link": "https://no.link",
-          "name": "Link 1"
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/190328/image",
-      "teamAName": "FC Alverca",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/36365/image",
-      "teamBName": "Casa Pia",
-      "time": "14:30:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "12/04/2026",
-      "end_date": "12/04/2026",
-      "end_time": "17:05:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/37/image/dark",
-      "eventName": "VriendenLoterij Eredivisie",
-      "id": 59,
-      "links": [
-        {
-          "api": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
-          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
-          "name": "SportDigital Fussball",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://smarthard.click/hls/uSPCfTgzHQY3/index.m3u8",
-          "name": "ESPN NL SD",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2950/image",
-      "teamAName": "AZ Alkmaar",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2964/image",
-      "teamBName": "SC Heerenveen",
-      "time": "14:45:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "12/04/2026",
-      "end_date": "12/04/2026",
       "end_time": "17:35:00",
       "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/34/image/dark",
       "eventName": "Ligue 1",
@@ -284,68 +187,6 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/1662/image",
       "teamBName": "Le Havre",
       "time": "15:15:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "12/04/2026",
-      "end_date": "12/04/2026",
-      "end_time": "15:20:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/23/image/dark",
-      "eventName": "Serie A",
-      "id": 62,
-      "links": [
-        {
-          "api": "f288380ca4cef9ad3f27a92a08e9bb8b:9f18d26291d9230833501f7f822f6875",
-          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd",
-          "name": "TNT SPORTS FHD",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
-          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
-          "name": "beIN ENGLISH",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811",
-          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
-          "name": "FOX DEPORTES",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2690/image",
-      "teamAName": "Parma",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2714/image",
-      "teamBName": "Napoli",
-      "time": "13:00:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "12/04/2026",
-      "end_date": "12/04/2026",
-      "end_time": "14:50:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/37/image/dark",
-      "eventName": "VriendenLoterij Eredivisie",
-      "id": 65,
-      "links": [
-        {
-          "api": "",
-          "link": "https://smarthard.click/hls/uSPCfTgzHQY3/index.m3u8",
-          "name": "ESPN NL SD",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2971/image",
-      "teamAName": "PEC Zwolle",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2967/image",
-      "teamBName": "Excelsior",
-      "time": "12:30:00",
       "visible": true
     },
     {
@@ -370,61 +211,6 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/2689/image",
       "teamBName": "Lecce",
       "time": "16:00:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "12/04/2026",
-      "end_date": "12/04/2026",
-      "end_time": "16:20:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/52/image/dark",
-      "eventName": "Trendyol Süper Lig",
-      "id": 68,
-      "links": [
-        {
-          "api": "",
-          "link": "https://smarthard.click/hls/hhx33tWwGEeW/index.m3u8",
-          "name": "beIN SPORTS SD",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3054/image",
-      "teamAName": "Göztepe",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/6063/image",
-      "teamBName": "Kasımpaşa",
-      "time": "14:00:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "12/04/2026",
-      "end_date": "12/04/2026",
-      "end_time": "16:20:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/334/image/dark",
-      "eventName": "Football League Trophy",
-      "id": 69,
-      "links": [
-        {
-          "api": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
-          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
-          "name": "CBS NETWORK",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://xstm.250909.cc/live/SPORTSFLUX-PRD-10065-1/a01f4324d192/1025.m3u8",
-          "name": "SKY FOOTBALL FHD",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/72/image",
-      "teamAName": "Luton Town",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/10/image",
-      "teamBName": "Stockport County",
-      "time": "14:00:00",
       "visible": true
     },
     {
@@ -490,54 +276,6 @@
       "category": "Football",
       "date": "12/04/2026",
       "end_date": "12/04/2026",
-      "end_time": "15:50:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/35/image/dark",
-      "eventName": "Bundesliga",
-      "id": 75,
-      "links": [
-        {
-          "api": "",
-          "link": "https://live.uu6611.com/live/hd-en-1-4347643.m3u8?txSecret=490744cc9fa716b599b502d7875d57fc&txTime=69DBE4DA|Referer=https://player.up909.com/",
-          "name": "HD SERVER ",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2671/image",
-      "teamAName": "1. FC Köln",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2534/image",
-      "teamBName": "SV Werder Bremen",
-      "time": "13:30:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "12/04/2026",
-      "end_date": "12/04/2026",
-      "end_time": "14:50:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/37/image/dark",
-      "eventName": "VriendenLoterij Eredivisie",
-      "id": 78,
-      "links": [
-        {
-          "api": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
-          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
-          "name": "SportDigital Fussball",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2962/image",
-      "teamAName": "NEC Nijmegen",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2959/image",
-      "teamBName": "Feyenoord",
-      "time": "12:30:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "12/04/2026",
-      "end_date": "12/04/2026",
       "end_time": "17:50:00",
       "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/35/image/dark",
       "eventName": "Bundesliga",
@@ -553,144 +291,6 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/2676/image",
       "teamBName": "Hamburger SV",
       "time": "15:30:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "12/04/2026",
-      "end_date": "12/04/2026",
-      "end_time": "15:20:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/17/image/dark",
-      "eventName": "Premier League",
-      "id": 80,
-      "links": [
-        {
-          "api": "dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f",
-          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd",
-          "name": "FUBO SPORTS",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://eventcdn02-nowe.akamaized.net/hls/CH621/index.m3u8",
-          "name": "NOW SPORTS PL",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://s.zejjj.shop/hls/GTGTGT.m3u8|Referer=http://www.fawanews.sc/",
-          "name": "SD STREAM ",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/41/image",
-      "teamAName": "Sunderland",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/33/image",
-      "teamBName": "Tottenham Hotspur",
-      "time": "13:00:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "12/04/2026",
-      "end_date": "12/04/2026",
-      "end_time": "16:35:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/54/image/dark",
-      "eventName": "LaLiga 2",
-      "id": 81,
-      "links": [
-        {
-          "api": "d69894c7b729c5d1e85893e5e6cfcb0f:db0d53f871f5d2ef91d3a112c7ec9f30",
-          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/tcninbbnt5/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd",
-          "name": "Laliga Hypermotion ES",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/24265/image",
-      "teamAName": "Huesca",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2832/image",
-      "teamBName": "Deportivo La Coruña",
-      "time": "14:15:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "12/04/2026",
-      "end_date": "12/04/2026",
-      "end_time": "15:20:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/17/image/dark",
-      "eventName": "Premier League",
-      "id": 82,
-      "links": [
-        {
-          "api": "96b67fa09140329a89b7a1ead134eda3:c618d32c56cdc6cad8330eb98507ca3f",
-          "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-east)/master.mpd",
-          "name": "NBC UNIVERSO AQ",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://eventcdn02-nowe.akamaized.net/hls/CH622/index.m3u8",
-          "name": "NOW SPORTS PL",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://xstm.250909.cc/live/SPORTSFLUX-PRD-10065-1/a01f4324d192/1028.m3u8",
-          "name": "SKY PL FHD",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://a.zegtkiku.shop/hls/FCCCQ.m3u8|Referer=http://www.fawanews.sc/",
-          "name": "SD SERVER ",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/14/image",
-      "teamAName": "Nottingham Forest",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/40/image",
-      "teamBName": "Aston Villa",
-      "time": "13:00:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "12/04/2026",
-      "end_date": "12/04/2026",
-      "end_time": "15:20:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/17/image/dark",
-      "eventName": "Premier League",
-      "id": 84,
-      "links": [
-        {
-          "api": "",
-          "link": "https://eventcdn02-nowe.akamaized.net/hls/CH623/index.m3u8",
-          "name": "NOW SPORTS PL",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://a.zeerhtrj.shop/hls/FCCC.m3u8|Referer=http://www.fawanews.sc/",
-          "name": "SD SERVER ",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/7/image",
-      "teamAName": "Crystal Palace",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/39/image",
-      "teamBName": "Newcastle United",
-      "time": "13:00:00",
       "visible": true
     },
     {
@@ -769,8 +369,18 @@
       "id": 88,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "",
+          "link": "https://chatgpt.hereisman.net/playlist/48820/load-playlist?|Referer=https://gooz.aapmains.net",
+          "name": "Bundesliga HD",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://live.uu6611.com/live/hd-en-1-4347611.m3u8?txSecret=c7b3e96f4e13fe2f22d19880718e8d0a&txTime=69DC1605|Referer=https://player.up909.com/",
+          "name": "SD SERVER ",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/2556/image",
@@ -901,8 +511,11 @@
       "id": 94,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "",
+          "link": "https://live.uu6611.com/live/sd-1-4369042.m3u8?txSecret=ccb378ec776f3d0d877615785cf3fb8f&txTime=69DC1605|Referer=https://player.up909.com/",
+          "name": "SD SERVER ",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/2999/image",
