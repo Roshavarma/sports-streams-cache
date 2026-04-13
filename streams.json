@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-13T17:00:55.349867",
-  "event_count": 15,
+  "last_updated": "2026-04-13T17:20:26.258679",
+  "event_count": 14,
   "events": [
     {
       "category": "Boxing",
@@ -199,8 +199,11 @@
       "id": 57,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "",
+          "link": "https://live.uu6611.com/live/hd-en-1-4520555.m3u8?txSecret=865666656a32e542202b9b51e0bb4971&txTime=69DD5BC1|Referer=https://player.up909.com/",
+          "name": "HD SERVER ",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/21895/image",
@@ -220,8 +223,18 @@
       "id": 58,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "",
+          "link": "https://live.uu6611.com/live/sd-1-4366190.m3u8?txSecret=888bb915c2b7c76bdccbbc9a0515bf35&txTime=69DD5BC1|Referer=https://player.up909.com/",
+          "name": "HD SERVER ",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://smarthard.click/hls/DcTxPWHOB5aM/index.m3u8|Referer=https://gigstream.click/",
+          "name": "beIN SPORTS SD",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/3064/image",
@@ -229,30 +242,6 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/5138/image",
       "teamBName": "Gaziantep FK",
       "time": "17:00:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "13/04/2026",
-      "end_date": "13/04/2026",
-      "end_time": "17:05:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/463/image/dark",
-      "eventName": "AFC Champions League Elite",
-      "id": 59,
-      "links": [
-        {
-          "api": "",
-          "link": "http://195.178.110.2/hls/MFFFQQQ.m3u8|referer=http://www.fawanews.sc/",
-          "name": "SD Stream ",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/34469/image",
-      "teamAName": "Al-Ahli",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/44441/image",
-      "teamBName": "Al Duhail",
-      "time": "14:45:00",
       "visible": true
     },
     {
@@ -286,8 +275,18 @@
       "id": 61,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "",
+          "link": "https://live.uu6611.com/live/sd-1-4366146.m3u8?txSecret=15c4c2665a0c97c76b84824ee00e1a2d&txTime=69DD5BC1|Referer=https://player.up909.com/",
+          "name": "HD SERVER ",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://smarthard.click/hls/hhx33tWwGEeW/index.m3u8|Referer=https://gigstream.click/",
+          "name": "beIN SPORTS SD",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/7040/image",
