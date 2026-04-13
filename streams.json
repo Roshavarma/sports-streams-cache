@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-13T08:40:28.498767",
-  "event_count": 13,
+  "last_updated": "2026-04-13T08:50:29.230825",
+  "event_count": 15,
   "events": [
     {
       "category": "Boxing",
@@ -355,6 +355,48 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/3010/image",
       "teamBName": "Gil Vicente",
       "time": "19:15:00",
+      "visible": true
+    },
+    {
+      "category": "Cricket",
+      "date": "13/04/2026",
+      "end_date": "",
+      "end_time": "",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark",
+      "eventName": "Indian Premier League",
+      "id": 65,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/187844/image",
+      "teamAName": "Sunrisers Hyderabad",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/187842/image",
+      "teamBName": "Rajasthan Royals",
+      "time": "14:00:00",
+      "visible": true
+    },
+    {
+      "category": "Cricket",
+      "date": "13/04/2026",
+      "end_date": "",
+      "end_time": "",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11170/image/dark",
+      "eventName": "Pakistan Super League",
+      "id": 66,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/212420/image",
+      "teamAName": "Peshawar Zalmi",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/273650/image",
+      "teamBName": "Multan Sultans",
+      "time": "14:00:00",
       "visible": true
     }
   ]
