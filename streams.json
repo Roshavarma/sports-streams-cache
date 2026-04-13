@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-13T14:30:40.753227",
+  "last_updated": "2026-04-13T14:40:29.541947",
   "event_count": 15,
   "events": [
     {
@@ -241,8 +241,11 @@
       "id": 59,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "",
+          "link": "http://195.178.110.2/hls/MFFFQQQ.m3u8|referer=http://www.fawanews.sc/",
+          "name": "SD Stream ",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/34469/image",
