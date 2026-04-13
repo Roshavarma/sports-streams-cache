@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-13T13:50:26.104056",
+  "last_updated": "2026-04-13T14:00:53.928815",
   "event_count": 15,
   "events": [
     {
@@ -367,6 +367,13 @@
       "id": 65,
       "links": [
         {
+          "api": "64c514a0d8ff545caa60a63f65b6bbba:f3cd2cd7ed626d0e9e4f66e3e27e1b80",
+          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/itrcru6rh4/out/v1/1fd74291835141e5861039de03dd3942/cenc.mpd",
+          "name": "WILLOW - AQ",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
           "api": "",
           "link": "https://livevideos.cricbuzz.com/hls/live/2123398/WCB-CA/9241/151752/master.m3u8?|cookie=hdntl=exp=1776173735~acl=/*~id=d69ebd92-ebda-4cd5-9547-d00bd114ab92~data=hdntl~hmac=cc54df41ec34173ce497d6ce6185af1f83bd7f0053fb7ce216c7accd1828f34a&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36&X-Forwarded-For=100.42.240.25",
           "name": "CRICBUZZ English - AQ",
@@ -412,8 +419,8 @@
     {
       "category": "Cricket",
       "date": "13/04/2026",
-      "end_date": "",
-      "end_time": "",
+      "end_date": "13/04/2026",
+      "end_time": "18:15:00",
       "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11170/image/dark",
       "eventName": "Pakistan Super League",
       "id": 66,
@@ -443,6 +450,27 @@
           "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
           "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
           "name": "WILLOW SPORTS",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://playztv-apps.pages.dev/asports/index.m3u8",
+          "name": "A SPORTS - HD",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://ml-pull-rtmp-pk1.myco.io/English/hls/index/clean.m3u8|referer=https://myco.io",
+          "name": "MyCO ENG - PK",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://ml-pull-rtmp-pk1.myco.io/Urdudirty/hls/index/urdudirty.m3u8|referer=https://myco.io",
+          "name": "MyCO URDU - PK",
           "scheme": 0,
           "tokenApi": ""
         }
