@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-13T18:50:27.710145",
-  "event_count": 14,
+  "last_updated": "2026-04-13T19:00:49.408657",
+  "event_count": 12,
   "events": [
     {
       "category": "Boxing",
@@ -278,6 +278,13 @@
           "tokenApi": ""
         },
         {
+          "api": "",
+          "link": "https://chatgpt.hereisman.net/playlist/48895/load-playlist?|Referer=https://gooz.aapmains.net",
+          "name": "PARAMOUNT+ HD",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
           "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
           "link": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd",
           "name": "Sport 1 CZ AQ",
@@ -361,6 +368,13 @@
           "tokenApi": ""
         },
         {
+          "api": "",
+          "link": "https://eventcdn02-nowe.akamaized.net/hls/CH621/index.m3u8",
+          "name": "NOW SPOSTS AQ",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
           "api": "96b67fa09140329a89b7a1ead134eda3:c618d32c56cdc6cad8330eb98507ca3f",
           "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-east)/master.mpd",
           "name": "NBC UNIVERSO",
@@ -369,8 +383,15 @@
         },
         {
           "api": "",
-          "link": "https://eventcdn02-nowe.akamaized.net/hls/CH621/index.m3u8",
-          "name": "NOW SPOSTS AQ",
+          "link": "https://s3.us-east-1.amazonaws.com/emre.gundap/ESPN.m3u8",
+          "name": "USA TV - AQ",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://chatgpt.hereisman.net/playlist/48898/load-playlist?|Referer=https://gooz.aapmains.net",
+          "name": "USA TV HD",
           "scheme": 0,
           "tokenApi": ""
         },
@@ -453,131 +474,6 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/3010/image",
       "teamBName": "Gil Vicente",
       "time": "19:15:00",
-      "visible": true
-    },
-    {
-      "category": "Cricket",
-      "date": "13/04/2026",
-      "end_date": "13/04/2026",
-      "end_time": "18:15:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark",
-      "eventName": "Indian Premier League",
-      "id": 65,
-      "links": [
-        {
-          "api": "64c514a0d8ff545caa60a63f65b6bbba:f3cd2cd7ed626d0e9e4f66e3e27e1b80",
-          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/itrcru6rh4/out/v1/1fd74291835141e5861039de03dd3942/cenc.mpd",
-          "name": "WILLOW - AQ",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://livevideos.cricbuzz.com/hls/live/2123398/WCB-CA/9241/151752/master.m3u8?|cookie=hdntl=exp=1776173735~acl=/*~id=d69ebd92-ebda-4cd5-9547-d00bd114ab92~data=hdntl~hmac=cc54df41ec34173ce497d6ce6185af1f83bd7f0053fb7ce216c7accd1828f34a&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36&X-Forwarded-For=100.42.240.25",
-          "name": "CRICBUZZ English - AQ",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://livevideos.cricbuzz.com/hls/live/2123519/WCB-CA-HINDI/9241/151752/master.m3u8?|cookie=hdntl=exp=1776173735~acl=/*~id=d69ebd92-ebda-4cd5-9547-d00bd114ab92~data=hdntl~hmac=cc54df41ec34173ce497d6ce6185af1f83bd7f0053fb7ce216c7accd1828f34a&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36&X-Forwarded-For=100.42.240.25",
-          "name": "CRICBUZZ HINDI - AQ",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://lb-nl-50gbs.zenostreams-cdn-001.com/secure/api/v1/fox-sports-501.m3u8?md5=425610cd25d37b006f1dd5d9d34ea428&exp=1776093163|User-Agent=Mozilla/5.0 (Linux; Android 13; SM-T837A) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36&Referer=https://www.foulembeds.live/&Origin=https://www.foulembeds.live",
-          "name": "FOX 50FPS - FHD",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://lb-nl-50gbs.zenostreams-cdn-001.com/secure/api/v1/star-sport-1.m3u8?md5=2f702f3a2a58fc345ad3b76bb4f6ca08&exp=1776094111|User-Agent=Mozilla/5.0 (Linux; Android 13; SM-T837A) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36&Referer=https://www.foulembeds.live/&Origin=https://www.foulembeds.live",
-          "name": "SS1 ENG - FHD",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "http://datahub11.com:80/live/Jen12345/Jen54321/703300.ts",
-          "name": "WILLOW HINDI",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/187844/image",
-      "teamAName": "Sunrisers Hyderabad",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/187842/image",
-      "teamBName": "Rajasthan Royals",
-      "time": "14:00:00",
-      "visible": true
-    },
-    {
-      "category": "Cricket",
-      "date": "13/04/2026",
-      "end_date": "13/04/2026",
-      "end_time": "18:15:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11170/image/dark",
-      "eventName": "Pakistan Super League",
-      "id": 66,
-      "links": [
-        {
-          "api": "cbbe573c303a8e1d3b09fd2eb2ff2749:8f4b6a6bb322c33afa6b096d20f0c297",
-          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/sdrrf1ybh8/out/v1/90596312358241ba8a7276f658269cb0/cenc.mpd",
-          "name": "WILLOW [ADS FREE]",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://psl.bigbaat.app/out/v1/f342445c31dd475bbf30c7304dbad14f/index.m3u8",
-          "name": "PSL ENG ",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://psl.bigbaat.app/out/v1/0ef369b90c7b4025b76621e46ee5fb70/index.m3u8?st=playztv",
-          "name": "PSL URDU ",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
-          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
-          "name": "WILLOW SPORTS",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://playztv-apps.pages.dev/asports/index.m3u8",
-          "name": "A SPORTS - HD",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://ml-pull-rtmp-pk1.myco.io/English/hls/index/clean.m3u8|referer=https://myco.io",
-          "name": "MyCO ENG - PK",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://ml-pull-rtmp-pk1.myco.io/Urdudirty/hls/index/urdudirty.m3u8|referer=https://myco.io",
-          "name": "MyCO URDU - PK",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/212420/image",
-      "teamAName": "Peshawar Zalmi",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/273650/image",
-      "teamBName": "Multan Sultans",
-      "time": "14:00:00",
       "visible": true
     }
   ]
