@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-13T07:50:32.027182",
+  "last_updated": "2026-04-13T08:00:52.513739",
   "event_count": 13,
   "events": [
     {
@@ -170,274 +170,191 @@
     },
     {
       "category": "Football",
-      "date": "12/04/2026",
-      "end_date": "12/04/2026",
-      "end_time": "21:20:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/8/image/dark",
-      "eventName": "LaLiga",
-      "id": 85,
+      "date": "13/04/2026",
+      "end_date": "13/04/2026",
+      "end_time": "20:50:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/54/image/dark",
+      "eventName": "LaLiga 2",
+      "id": 56,
       "links": [
         {
-          "api": "620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a",
-          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd",
-          "name": "Laliga TV FHD",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
-          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
-          "name": "beIN ENGLISH FHD",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f",
-          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
-          "name": "PREMIER SPORTS",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2",
-          "link": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
-          "name": "FANCODE FHD",
-          "scheme": 0,
-          "tokenApi": ""
+          "link": "https://no.link",
+          "name": "Link 1"
         }
       ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2825/image",
-      "teamAName": "Athletic Club",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2819/image",
-      "teamBName": "Villarreal",
-      "time": "19:00:00",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2831/image",
+      "teamAName": "Real Valladolid",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2839/image",
+      "teamBName": "Eibar",
+      "time": "18:30:00",
       "visible": true
     },
     {
       "category": "Football",
-      "date": "12/04/2026",
-      "end_date": "12/04/2026",
-      "end_time": "21:05:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/34/image/dark",
-      "eventName": "Ligue 1",
-      "id": 86,
+      "date": "13/04/2026",
+      "end_date": "13/04/2026",
+      "end_time": "20:20:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/463/image/dark",
+      "eventName": "AFC Champions League Elite",
+      "id": 57,
       "links": [
         {
-          "api": "",
-          "link": "https://live.uu6611.com/live/hd-en-1-4347935.m3u8?txSecret=1bf573204e47316c7d1565b965a29acc&txTime=69DC2A22|Referer=https://player.up909.com/",
-          "name": "HD SERVER ",
-          "scheme": 0,
-          "tokenApi": ""
+          "link": "https://no.link",
+          "name": "Link 1"
         }
       ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/1649/image",
-      "teamAName": "Olympique Lyonnais",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/1656/image",
-      "teamBName": "Lorient",
-      "time": "18:45:00",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/21895/image",
+      "teamAName": "Al-Hilal",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/39733/image",
+      "teamBName": "Al-Sadd",
+      "time": "18:00:00",
       "visible": true
     },
     {
       "category": "Football",
-      "date": "12/04/2026",
-      "end_date": "12/04/2026",
+      "date": "13/04/2026",
+      "end_date": "13/04/2026",
       "end_time": "19:20:00",
       "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/52/image/dark",
       "eventName": "Trendyol Süper Lig",
-      "id": 87,
+      "id": 58,
       "links": [
         {
-          "api": "",
-          "link": "https://smarthard.click/hls/hhx33tWwGEeW/index.m3u8",
-          "name": "beIN SPORTS SD",
-          "scheme": 0,
-          "tokenApi": ""
+          "link": "https://no.link",
+          "name": "Link 1"
         }
       ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3061/image",
-      "teamAName": "Galatasaray",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3065/image",
-      "teamBName": "Kocaelispor",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3064/image",
+      "teamAName": "Çaykur Rizespor",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/5138/image",
+      "teamBName": "Gaziantep FK",
       "time": "17:00:00",
       "visible": true
     },
     {
       "category": "Football",
-      "date": "12/04/2026",
-      "end_date": "12/04/2026",
-      "end_time": "19:50:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/35/image/dark",
-      "eventName": "Bundesliga",
-      "id": 88,
+      "date": "13/04/2026",
+      "end_date": "13/04/2026",
+      "end_time": "17:05:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/463/image/dark",
+      "eventName": "AFC Champions League Elite",
+      "id": 59,
       "links": [
         {
-          "api": "",
-          "link": "https://chatgpt.hereisman.net/playlist/48820/load-playlist?|Referer=https://gooz.aapmains.net",
-          "name": "Bundesliga HD",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://live.uu6611.com/live/hd-en-1-4347611.m3u8?txSecret=c7b3e96f4e13fe2f22d19880718e8d0a&txTime=69DC1605|Referer=https://player.up909.com/",
-          "name": "SD SERVER ",
-          "scheme": 0,
-          "tokenApi": ""
+          "link": "https://no.link",
+          "name": "Link 1"
         }
       ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2556/image",
-      "teamAName": "1. FSV Mainz 05",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2538/image",
-      "teamBName": "SC Freiburg",
-      "time": "17:30:00",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/34469/image",
+      "teamAName": "Al-Ahli",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/44441/image",
+      "teamBName": "Al Duhail",
+      "time": "14:45:00",
       "visible": true
     },
     {
       "category": "Football",
-      "date": "12/04/2026",
-      "end_date": "12/04/2026",
-      "end_time": "21:20:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/54/image/dark",
-      "eventName": "LaLiga 2",
-      "id": 89,
-      "links": [
-        {
-          "api": "d69894c7b729c5d1e85893e5e6cfcb0f:db0d53f871f5d2ef91d3a112c7ec9f30",
-          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/tcninbbnt5/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd",
-          "name": "Laliga Hypermotion ES",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2835/image",
-      "teamAName": "Real Racing Club",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2858/image",
-      "teamBName": "Almería",
-      "time": "19:00:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "12/04/2026",
-      "end_date": "12/04/2026",
-      "end_time": "21:50:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/238/image/dark",
-      "eventName": "Liga Portugal Betclic",
-      "id": 90,
-      "links": [
-        {
-          "api": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
-          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
-          "name": "SportDigital Fussball",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://live.uu6611.com/live/sd-1-4369043.m3u8?txSecret=8a6d89507e4752b4a4acd0de4ac61274&txTime=69DC3177|Referer=https://player.up909.com/",
-          "name": "HD SERVER ",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4500/image",
-      "teamAName": "Estoril Praia",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3002/image",
-      "teamBName": "FC Porto",
-      "time": "19:30:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "12/04/2026",
-      "end_date": "12/04/2026",
+      "date": "13/04/2026",
+      "end_date": "13/04/2026",
       "end_time": "21:05:00",
       "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/23/image/dark",
       "eventName": "Serie A",
-      "id": 91,
+      "id": 60,
       "links": [
         {
-          "api": "294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b",
-          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd",
-          "name": "TNT SPORTS FHD",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f",
-          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd",
-          "name": "FUBO SPORTS FHD",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
-          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
-          "name": "beIN ENGLISH",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://chatgpt.hereisman.net/playlist/48815/load-playlist?|Referer=https://gooz.aapmains.net",
-          "name": "HD SERVER",
-          "scheme": 0,
-          "tokenApi": ""
+          "link": "https://no.link",
+          "name": "Link 1"
         }
       ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2704/image",
-      "teamAName": "Como",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2697/image",
-      "teamBName": "Inter",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2693/image",
+      "teamAName": "Fiorentina",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2699/image",
+      "teamBName": "Lazio",
       "time": "18:45:00",
       "visible": true
     },
     {
       "category": "Football",
-      "date": "12/04/2026",
-      "end_date": "12/04/2026",
+      "date": "13/04/2026",
+      "end_date": "13/04/2026",
       "end_time": "19:20:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/238/image/dark",
-      "eventName": "Liga Portugal Betclic",
-      "id": 92,
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/52/image/dark",
+      "eventName": "Trendyol Süper Lig",
+      "id": 61,
       "links": [
         {
-          "api": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
-          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
-          "name": "SportDigital Fussball",
-          "scheme": 0,
-          "tokenApi": ""
+          "link": "https://no.link",
+          "name": "Link 1"
         }
       ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3006/image",
-      "teamAName": "Benfica",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3013/image",
-      "teamBName": "CD Nacional",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/7040/image",
+      "teamAName": "Eyüpspor",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3053/image",
+      "teamBName": "Samsunspor",
       "time": "17:00:00",
       "visible": true
     },
     {
       "category": "Football",
-      "date": "12/04/2026",
-      "end_date": "12/04/2026",
-      "end_time": "19:20:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/238/image/dark",
-      "eventName": "Liga Portugal Betclic",
-      "id": 94,
+      "date": "13/04/2026",
+      "end_date": "13/04/2026",
+      "end_time": "21:20:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/17/image/dark",
+      "eventName": "Premier League",
+      "id": 62,
       "links": [
         {
-          "api": "",
-          "link": "https://live.uu6611.com/live/sd-1-4369042.m3u8?txSecret=ccb378ec776f3d0d877615785cf3fb8f&txTime=69DC1605|Referer=https://player.up909.com/",
-          "name": "SD SERVER ",
-          "scheme": 0,
-          "tokenApi": ""
+          "link": "https://no.link",
+          "name": "Link 1"
         }
       ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2999/image",
-      "teamAName": "Sporting Braga",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/25777/image",
-      "teamBName": "FC Arouca",
-      "time": "17:00:00",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/35/image",
+      "teamAName": "Manchester United",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/34/image",
+      "teamBName": "Leeds United",
+      "time": "19:00:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "13/04/2026",
+      "end_date": "13/04/2026",
+      "end_time": "21:20:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/8/image/dark",
+      "eventName": "LaLiga",
+      "id": 63,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2849/image",
+      "teamAName": "Levante UD",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2859/image",
+      "teamBName": "Getafe",
+      "time": "19:00:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "13/04/2026",
+      "end_date": "13/04/2026",
+      "end_time": "21:35:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/238/image/dark",
+      "eventName": "Liga Portugal Betclic",
+      "id": 64,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/38396/image",
+      "teamAName": "Tondela",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3010/image",
+      "teamBName": "Gil Vicente",
+      "time": "19:15:00",
       "visible": true
     }
   ]
