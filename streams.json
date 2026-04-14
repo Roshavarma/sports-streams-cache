@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-14T07:50:26.543620",
-  "event_count": 12,
+  "last_updated": "2026-04-14T07:59:05.393285",
+  "event_count": 14,
   "events": [
     {
       "category": "Boxing",
@@ -101,9 +101,9 @@
     },
     {
       "category": "Boxing",
-      "date": "14/04/2026",
-      "end_date": "14/04/2026",
-      "end_time": "06:00:00",
+      "date": "21/04/2026",
+      "end_date": "21/04/2026",
+      "end_time": "05:00:00",
       "eventLogo": "https://images2.minutemediacdn.com/image/upload/c_crop,w_1920,h_1080,x_0,y_0/c_fill,w_1080,ar_16:9,f_auto,q_auto,g_auto/images%2FvoltaxMediaLibrary%2Fmmsport%2Fwrestling_on_fannation%2F01j7cr769n5sz41833rh.jpg",
       "eventName": " WWE Monday Night RAW",
       "id": 54,
@@ -134,7 +134,7 @@
       "teamAName": "WWE",
       "teamBFlag": "https://images2.minutemediacdn.com/image/upload/c_crop,w_1920,h_1080,x_0,y_0/c_fill,w_1080,ar_16:9,f_auto,q_auto,g_auto/images%2FvoltaxMediaLibrary%2Fmmsport%2Fwrestling_on_fannation%2F01j7cr769n5sz41833rh.jpg",
       "teamBName": "WWE",
-      "time": "01:00:00",
+      "time": "00:00:00",
       "visible": true
     },
     {
@@ -169,299 +169,180 @@
       "visible": true
     },
     {
-      "category": "Football",
-      "date": "13/04/2026",
-      "end_date": "13/04/2026",
-      "end_time": "20:50:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/54/image/dark",
-      "eventName": "LaLiga 2",
+      "category": "Cricket",
+      "date": "14/04/2026",
+      "end_date": "",
+      "end_time": "",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark",
+      "eventName": "Indian Premier League",
       "id": 56,
       "links": [
         {
-          "api": "d69894c7b729c5d1e85893e5e6cfcb0f:db0d53f871f5d2ef91d3a112c7ec9f30",
-          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/tcninbbnt5/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd",
-          "name": "Laliga Hypermotion ES",
-          "scheme": 0,
-          "tokenApi": ""
+          "link": "https://no.link",
+          "name": "Link 1"
         }
       ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2831/image",
-      "teamAName": "Real Valladolid",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2839/image",
-      "teamBName": "Eibar",
-      "time": "18:30:00",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/187777/image",
+      "teamAName": "Chennai Super Kings",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/187775/image",
+      "teamBName": "Kolkata Knight Riders",
+      "time": "14:00:00",
       "visible": true
     },
     {
       "category": "Football",
-      "date": "13/04/2026",
-      "end_date": "13/04/2026",
-      "end_time": "20:20:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/463/image/dark",
-      "eventName": "AFC Champions League Elite",
+      "date": "14/04/2026",
+      "end_date": "15/04/2026",
+      "end_time": "00:20:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/384/image/dark",
+      "eventName": "CONMEBOL Libertadores",
       "id": 57,
       "links": [
         {
-          "api": "",
-          "link": "https://live.uu6611.com/live/hd-en-1-4520555.m3u8?txSecret=865666656a32e542202b9b51e0bb4971&txTime=69DD5BC1|Referer=https://player.up909.com/",
-          "name": "HD SERVER ",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://raw.githubusercontent.com/xmrt624/lpootvs/refs/heads/main/beinarabic2.m3u8",
-          "name": "beIN Arabic",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://b.zfezhtr.shop/hls/HHHHRQQQQQ.m3u8|Referer=http://www.fawanews.sc/",
-          "name": "SD SERVER ",
-          "scheme": 0,
-          "tokenApi": ""
+          "link": "https://no.link",
+          "name": "Link 1"
         }
       ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/21895/image",
-      "teamAName": "Al-Hilal",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/39733/image",
-      "teamBName": "Al-Sadd",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3206/image",
+      "teamAName": "Estudiantes de La Plata",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/63760/image",
+      "teamBName": "Cusco FC",
+      "time": "22:00:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "14/04/2026",
+      "end_date": "15/04/2026",
+      "end_time": "00:20:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/384/image/dark",
+      "eventName": "CONMEBOL Libertadores",
+      "id": 58,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/5991/image",
+      "teamAName": "Cerro Porteño",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/6105/image",
+      "teamBName": "Junior Barranquilla",
+      "time": "22:00:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "14/04/2026",
+      "end_date": "14/04/2026",
+      "end_time": "20:20:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/955/image/dark",
+      "eventName": "Saudi Pro League",
+      "id": 59,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/56027/image",
+      "teamAName": "Al-Qadsiah",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/34313/image",
+      "teamBName": "Al-Shabab",
       "time": "18:00:00",
       "visible": true
     },
     {
       "category": "Football",
-      "date": "13/04/2026",
-      "end_date": "13/04/2026",
-      "end_time": "19:20:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/52/image/dark",
-      "eventName": "Trendyol Süper Lig",
-      "id": 58,
-      "links": [
-        {
-          "api": "",
-          "link": "https://live.uu6611.com/live/sd-1-4366190.m3u8?txSecret=888bb915c2b7c76bdccbbc9a0515bf35&txTime=69DD5BC1|Referer=https://player.up909.com/",
-          "name": "HD SERVER ",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://smarthard.click/hls/DcTxPWHOB5aM/index.m3u8|Referer=https://gigstream.click/",
-          "name": "beIN SPORTS SD",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3064/image",
-      "teamAName": "Çaykur Rizespor",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/5138/image",
-      "teamBName": "Gaziantep FK",
-      "time": "17:00:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "13/04/2026",
-      "end_date": "13/04/2026",
-      "end_time": "21:05:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/23/image/dark",
-      "eventName": "Serie A",
+      "date": "14/04/2026",
+      "end_date": "14/04/2026",
+      "end_time": "21:20:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/7/image/dark",
+      "eventName": "UEFA Champions League",
       "id": 60,
       "links": [
         {
-          "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
-          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
-          "name": "beIN ENGLISH FHD",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://chatgpt.hereisman.net/playlist/48895/load-playlist?|Referer=https://gooz.aapmains.net",
-          "name": "PARAMOUNT+ HD",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
-          "link": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd",
-          "name": "Sport 1 CZ AQ",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://1syrialive.s3.us-east-2.amazonaws.com/ad1/master.m3u8",
-          "name": "Arabic ",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://b.zfhisoam.shop/hls/ZNNNQQQ.m3u8|Referer=http://www.fawanews.sc/",
-          "name": "HD SERVER ",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://raw.githubusercontent.com/reeekala/ev84x/refs/heads/main/skysport251it.m3u8",
-          "name": "Sky Sport IT",
-          "scheme": 0,
-          "tokenApi": ""
+          "link": "https://no.link",
+          "name": "Link 1"
         }
       ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2693/image",
-      "teamAName": "Fiorentina",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2699/image",
-      "teamBName": "Lazio",
-      "time": "18:45:00",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/44/image",
+      "teamAName": "Liverpool",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/1644/image",
+      "teamBName": "Paris Saint-Germain",
+      "time": "19:00:00",
       "visible": true
     },
     {
       "category": "Football",
-      "date": "13/04/2026",
-      "end_date": "13/04/2026",
-      "end_time": "19:20:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/52/image/dark",
-      "eventName": "Trendyol Süper Lig",
+      "date": "14/04/2026",
+      "end_date": "14/04/2026",
+      "end_time": "21:20:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/7/image/dark",
+      "eventName": "UEFA Champions League",
       "id": 61,
       "links": [
         {
-          "api": "",
-          "link": "https://live.uu6611.com/live/sd-1-4366146.m3u8?txSecret=15c4c2665a0c97c76b84824ee00e1a2d&txTime=69DD5BC1|Referer=https://player.up909.com/",
-          "name": "HD SERVER ",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://smarthard.click/hls/hhx33tWwGEeW/index.m3u8|Referer=https://gigstream.click/",
-          "name": "beIN SPORTS SD",
-          "scheme": 0,
-          "tokenApi": ""
+          "link": "https://no.link",
+          "name": "Link 1"
         }
       ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/7040/image",
-      "teamAName": "Eyüpspor",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3053/image",
-      "teamBName": "Samsunspor",
-      "time": "17:00:00",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2836/image",
+      "teamAName": "Atlético Madrid",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2817/image",
+      "teamBName": "FC Barcelona",
+      "time": "19:00:00",
       "visible": true
     },
     {
       "category": "Football",
-      "date": "13/04/2026",
-      "end_date": "13/04/2026",
-      "end_time": "21:20:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/17/image/dark",
-      "eventName": "Premier League",
+      "date": "14/04/2026",
+      "end_date": "15/04/2026",
+      "end_time": "00:20:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/384/image/dark",
+      "eventName": "CONMEBOL Libertadores",
       "id": 62,
       "links": [
         {
-          "api": "dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f",
-          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd",
-          "name": "FUBO SPORTS",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://eventcdn02-nowe.akamaized.net/hls/CH621/index.m3u8",
-          "name": "NOW SPOSTS AQ",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "96b67fa09140329a89b7a1ead134eda3:c618d32c56cdc6cad8330eb98507ca3f",
-          "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-east)/master.mpd",
-          "name": "NBC UNIVERSO",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://s3.us-east-1.amazonaws.com/emre.gundap/ESPN.m3u8",
-          "name": "USA TV - AQ",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://chatgpt.hereisman.net/playlist/48898/load-playlist?|Referer=https://gooz.aapmains.net",
-          "name": "USA TV HD",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "http://195.178.110.27/hls/viii.m3u8|Referer=http://www.fawanews.sc/",
-          "name": "HD SERVER ",
-          "scheme": 0,
-          "tokenApi": ""
+          "link": "https://no.link",
+          "name": "Link 1"
         }
       ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/35/image",
-      "teamAName": "Manchester United",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/34/image",
-      "teamBName": "Leeds United",
-      "time": "19:00:00",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3230/image",
+      "teamAName": "Nacional",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/6111/image",
+      "teamBName": "Deportes Tolima",
+      "time": "22:00:00",
       "visible": true
     },
     {
       "category": "Football",
-      "date": "13/04/2026",
-      "end_date": "13/04/2026",
-      "end_time": "21:20:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/8/image/dark",
-      "eventName": "LaLiga",
+      "date": "14/04/2026",
+      "end_date": "14/04/2026",
+      "end_time": "20:20:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/463/image/dark",
+      "eventName": "AFC Champions League Elite",
       "id": 63,
       "links": [
         {
-          "api": "620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a",
-          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd",
-          "name": "Laliga TV FHD",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
-          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
-          "name": "beIN ENGLISH",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f",
-          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
-          "name": "PREMIER SPORTS",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://smarthard.click/hls/sabrouchespndeportes/index.m3u8",
-          "name": "ESPN DEPORTES",
-          "scheme": 0,
-          "tokenApi": ""
+          "link": "https://no.link",
+          "name": "Link 1"
         }
       ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2849/image",
-      "teamAName": "Levante UD",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2859/image",
-      "teamBName": "Getafe",
-      "time": "19:00:00",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/34315/image",
+      "teamAName": "Al-Ittihad",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/264115/image",
+      "teamBName": "Al-Wahda FC",
+      "time": "18:00:00",
       "visible": true
     },
     {
       "category": "Football",
-      "date": "13/04/2026",
-      "end_date": "13/04/2026",
-      "end_time": "21:35:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/238/image/dark",
-      "eventName": "Liga Portugal Betclic",
+      "date": "14/04/2026",
+      "end_date": "14/04/2026",
+      "end_time": "21:20:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark",
+      "eventName": "Championship",
       "id": 64,
       "links": [
         {
@@ -469,11 +350,32 @@
           "name": "Link 1"
         }
       ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/38396/image",
-      "teamAName": "Tondela",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3010/image",
-      "teamBName": "Gil Vicente",
-      "time": "19:15:00",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2/image",
+      "teamAName": "Portsmouth",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/32/image",
+      "teamBName": "Ipswich Town",
+      "time": "19:00:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "14/04/2026",
+      "end_date": "14/04/2026",
+      "end_time": "17:05:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/463/image/dark",
+      "eventName": "AFC Champions League Elite",
+      "id": 65,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/53715/image",
+      "teamAName": "Tractor FC",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/264111/image",
+      "teamBName": "Shabab Al-Ahli Dubai",
+      "time": "14:45:00",
       "visible": true
     }
   ]
