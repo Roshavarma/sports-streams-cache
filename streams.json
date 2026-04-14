@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-14T17:40:25.443226",
-  "event_count": 14,
+  "last_updated": "2026-04-14T17:50:40.213328",
+  "event_count": 13,
   "events": [
     {
       "category": "Boxing",
@@ -293,8 +293,18 @@
       "id": 59,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae",
+          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
+          "name": "FOX SPORTS FHD",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://live.vivo200.com/live/sd-1-4404671.m3u8?txSecret=f20186adb65cd6a99d11246b0a82988a&txTime=69DEC34D|Referer=https://player.787200.com/",
+          "name": "HD SERVER ",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/56027/image",
@@ -377,8 +387,18 @@
       "id": 63,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "",
+          "link": "https://live.vivo200.com/live/hd-en-1-4520558.m3u8?txSecret=4aa8840752c98a0933c65c8a01310b05&txTime=69DEC34D|Referer=https://player.787200.com/",
+          "name": "HD SERVER ",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://smarthard.click/hls/DzazxOvS3QE1/index.m3u8|Referer=https://hardsmart.click/",
+          "name": "ESPN NL",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/34315/image",
@@ -407,30 +427,6 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/32/image",
       "teamBName": "Ipswich Town",
       "time": "19:00:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "14/04/2026",
-      "end_date": "14/04/2026",
-      "end_time": "17:05:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/463/image/dark",
-      "eventName": "AFC Champions League Elite",
-      "id": 65,
-      "links": [
-        {
-          "api": "",
-          "link": "https://smarthard.click/hls/DzazxOvS3QE1/index.m3u8|Referer=https://hardsmart.click/",
-          "name": "ESPN NL",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/53715/image",
-      "teamAName": "Tractor FC",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/264111/image",
-      "teamBName": "Shabab Al-Ahli Dubai",
-      "time": "14:45:00",
       "visible": true
     }
   ]
