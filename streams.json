@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-14T18:40:30.327578",
+  "last_updated": "2026-04-14T18:50:26.204532",
   "event_count": 13,
   "events": [
     {
@@ -370,8 +370,29 @@
         },
         {
           "api": "",
+          "link": "https://s3.us-east-1.amazonaws.com/emre.gundap/mma.m3u8",
+          "name": "TNT SPORTS - AQ",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
           "link": "http://93.123.109.249/hls/NAAA.m3u8|Referer=http://www.fawanews.sc/",
           "name": "SD SERVER ",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://chatgpt.hereisman.net/playlist/48944/load-playlist?|Referer=https://gooz.aapmains.net",
+          "name": "TNT SPORTS HD",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "3cfa8625f650406ebf6a4d1ea737f572:0534e747c70b364aa7210e1bf3191df0",
+          "link": "https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw266117884_-1972819316/PLTV/86/224/3221241560/3221241560.mpd?accountinfo=~~V2.0~OhA1DF4svOZppKxb-t-Ngw144cce44121c63284a33d5453493e5c8~1_Fmlu5PevHMYnEi9Z_HX2goKAd0VHSuxZMoIcAXcawYvG1meqGp2eQ2Ibhjvh7e59e7f6df3d57f23a32024ad67f0f19dc:UTC,",
+          "name": "ZIGGO SPORTS",
           "scheme": 0,
           "tokenApi": ""
         }
@@ -445,8 +466,18 @@
       "id": 64,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
+          "name": "beIN ENGLISH",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
+          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
+          "name": "CBS NETWORK",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/2/image",
