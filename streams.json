@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-15T17:50:33.052322",
-  "event_count": 16,
+  "last_updated": "2026-04-15T18:01:03.081099",
+  "event_count": 15,
   "events": [
     {
       "category": "Boxing",
@@ -191,27 +191,6 @@
     },
     {
       "category": "Football",
-      "date": "15/04/2026",
-      "end_date": "15/04/2026",
-      "end_time": "14:35:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/668/image/dark",
-      "eventName": "AFC Champions League Two",
-      "id": 57,
-      "links": [
-        {
-          "link": "https://no.link",
-          "name": "Link 1"
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/85741/image",
-      "teamAName": "True Bangkok United",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3138/image",
-      "teamBName": "Gamba Osaka",
-      "time": "12:15:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
       "date": "16/04/2026",
       "end_date": "16/04/2026",
       "end_time": "02:50:00",
@@ -283,8 +262,32 @@
       "id": 61,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae",
+          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
+          "name": "FOX SPORTS FHD",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811",
+          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
+          "name": "FOX DEPORTES",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
+          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
+          "name": "SportDigital Fussball",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://live.vivo200.com/live/sd-1-4404671.m3u8?txSecret=f20186adb65cd6a99d11246b0a82988a&txTime=69DEC34D|Referer=https://player.787200.com/",
+          "name": "SD SERVER ",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/23400/image",
