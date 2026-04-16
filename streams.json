@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-16T18:50:34.893848",
+  "last_updated": "2026-04-16T19:00:49.106523",
   "event_count": 11,
   "events": [
     {
@@ -207,6 +207,13 @@
           "name": "SD SERVER ",
           "scheme": 0,
           "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://sonydaimenew.akamaized.net/hls/live/2022315/Strasbou1604/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776407831~acl=/*~id=48383606138427445895570040319928~hmac=5498f22af30d5f266b13a658116c0f6d3e55911fd9628ad378f9cc072cb96dc3",
+          "name": "SONYLIV ",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/1659/image",
@@ -231,6 +238,13 @@
           "name": "SD SERVER ",
           "scheme": 0,
           "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://sonydaimenew.akamaized.net/hls/live/2022319/Athens_F1604/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776407831~acl=/*~id=48383606138427445895570040319928~hmac=5498f22af30d5f266b13a658116c0f6d3e55911fd9628ad378f9cc072cb96dc3",
+          "name": "SONYLIV ",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/3250/image",
@@ -253,6 +267,13 @@
           "api": "294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b",
           "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd",
           "name": "TNT SPORTS FHD",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://sonydaimenew.akamaized.net/hls/live/2022318/Nottingh1604/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776407831~acl=/*~id=48383606138427445895570040319928~hmac=5498f22af30d5f266b13a658116c0f6d3e55911fd9628ad378f9cc072cb96dc3",
+          "name": "SONYLIV ",
           "scheme": 0,
           "tokenApi": ""
         }
@@ -284,6 +305,13 @@
           "api": "",
           "link": "https://lb-nl-50gbs.zenostreams-cdn-001.com/secure/api/v1/tnt-sports-3.m3u8?md5=51062993cc9560dcd0400ea578659f16&exp=1776371294|User-Agent=Mozilla/5.0 (Linux; Android 13; SM-T837A) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36&Referer=https://www.foulembeds.live/&Origin=https://www.foulembeds.live",
           "name": "TNT FHD",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://sonydaimenew.akamaized.net/hls/live/2018457/Fiorenti1604/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776407831~acl=/*~id=48383606138427445895570040319928~hmac=5498f22af30d5f266b13a658116c0f6d3e55911fd9628ad378f9cc072cb96dc3",
+          "name": "SONYLIV ",
           "scheme": 0,
           "tokenApi": ""
         }
@@ -332,6 +360,13 @@
           "api": "3fb40d85724942f994d86943f48021db:a6da8742502c8a2153067f5f2a70fb02",
           "link": "https://mag04.tvx.prd.tv.odido.nl/wh7f454c46tw865586829_-819821292/PLTV/86/224/3221241610/3221241610.mpd?accountinfo=~~V2.0~LNS2PBO5tyhp5z1Pe6ObBA6cd7a4ec35c4492167b9376e6dff2932~BZw2dESHw-I1PQCFh9gGxCMvrIIzgMdYAe900qj8l6aoXUX9ahyR6I9EUIu7nDR4f4887615c83ea7a8cee6dd33137c4ebe:UTC,",
           "name": "ZIGGO SPORTS",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://sonydaimenew.akamaized.net/hls/live/2005445/Real_Bet1604/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776407831~acl=/*~id=48383606138427445895570040319928~hmac=5498f22af30d5f266b13a658116c0f6d3e55911fd9628ad378f9cc072cb96dc3",
+          "name": "SONYLIV ",
           "scheme": 0,
           "tokenApi": ""
         }
