@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-16T19:00:49.106523",
-  "event_count": 11,
+  "last_updated": "2026-04-16T19:10:27.977469",
+  "event_count": 9,
   "events": [
     {
       "category": "Boxing",
@@ -172,35 +172,18 @@
       "category": "Football",
       "date": "16/04/2026",
       "end_date": "16/04/2026",
-      "end_time": "19:05:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/679/image/dark",
-      "eventName": "UEFA Europa League",
-      "id": 56,
-      "links": [
-        {
-          "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
-          "link": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd",
-          "name": "Sport 1 CZ AQ",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2821/image",
-      "teamAName": "Celta Vigo",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2538/image",
-      "teamBName": "SC Freiburg",
-      "time": "16:45:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "16/04/2026",
-      "end_date": "16/04/2026",
       "end_time": "21:20:00",
       "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/17015/image/dark",
       "eventName": "UEFA Conference League",
       "id": 57,
       "links": [
+        {
+          "api": "cd56264bc2244d9d4685047661fac903:8d4d5536718d5e4eabe9df7b1ae69af8",
+          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/qpbqgbvppg/out/v1/5edd423d949e412c98bf34042cb95d4e/cenc.mpd",
+          "name": "VIX SPANISH - AQ",
+          "scheme": 0,
+          "tokenApi": ""
+        },
         {
           "api": "",
           "link": "http://195.178.110.52/hls/ZGGG.m3u8|Referer=http://www.fawanews.sc/",
@@ -232,6 +215,13 @@
       "eventName": "UEFA Conference League",
       "id": 58,
       "links": [
+        {
+          "api": "a57ccdd2a9daeb3e525bd83d45ddc5ff:f50096d28cc64941103baf264fdd69fc",
+          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/rshjqikako/out/v1/c36180058f2a49a9ac8e96607922aa95/cenc.mpd",
+          "name": "VIX SPANISH - AQ",
+          "scheme": 0,
+          "tokenApi": ""
+        },
         {
           "api": "",
           "link": "http://195.178.110.52/hls/ZGGGQ.m3u8|Referer=http://www.fawanews.sc/",
@@ -271,6 +261,13 @@
           "tokenApi": ""
         },
         {
+          "api": "f3a2716ad01f32df047b58d1884e5236:d70f0bdb5df9a32f7f9342ed5094d027",
+          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7rhulohbhs/out/v1/0243b44c809941c7a5e0132e783bab69/cenc.mpd",
+          "name": "VIX SPANISH - AQ",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
           "api": "",
           "link": "https://sonydaimenew.akamaized.net/hls/live/2022318/Nottingh1604/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776407831~acl=/*~id=48383606138427445895570040319928~hmac=5498f22af30d5f266b13a658116c0f6d3e55911fd9628ad378f9cc072cb96dc3",
           "name": "SONYLIV ",
@@ -302,6 +299,13 @@
           "tokenApi": ""
         },
         {
+          "api": "cdd044e8b6472fa86296bc8eef1fb004:a9b2591e95016a6581ed54492c0047fb",
+          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/xzrumhvk25/out/v1/83e94e1e8f76494f8173edb038f25837/cenc.mpd",
+          "name": "VIX SPANISH - AQ",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
           "api": "",
           "link": "https://lb-nl-50gbs.zenostreams-cdn-001.com/secure/api/v1/tnt-sports-3.m3u8?md5=51062993cc9560dcd0400ea578659f16&exp=1776371294|User-Agent=Mozilla/5.0 (Linux; Android 13; SM-T837A) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36&Referer=https://www.foulembeds.live/&Origin=https://www.foulembeds.live",
           "name": "TNT FHD",
@@ -321,30 +325,6 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/7/image",
       "teamBName": "Crystal Palace",
       "time": "19:00:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "16/04/2026",
-      "end_date": "16/04/2026",
-      "end_time": "19:05:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/17015/image/dark",
-      "eventName": "UEFA Conference League",
-      "id": 61,
-      "links": [
-        {
-          "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
-          "link": "https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd",
-          "name": "Sport 2 CZ AQ",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2950/image",
-      "teamAName": "AZ Alkmaar",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3313/image",
-      "teamBName": "Shakhtar Donetsk",
-      "time": "16:45:00",
       "visible": true
     },
     {
