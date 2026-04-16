@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-16T06:00:47.518487",
-  "event_count": 4,
+  "last_updated": "2026-04-16T06:10:25.484024",
+  "event_count": 14,
   "events": [
     {
       "category": "Boxing",
@@ -166,6 +166,216 @@
       "teamBFlag": "https://www.wwe.com/f/styles/wwe_show_logo_sm/public/all/2024/10/NXTonCW--0f06792893241464479338f55596a5bf.png",
       "teamBName": "NXT",
       "time": "01:00:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "16/04/2026",
+      "end_date": "16/04/2026",
+      "end_time": "19:05:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/679/image/dark",
+      "eventName": "UEFA Europa League",
+      "id": 56,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2821/image",
+      "teamAName": "Celta Vigo",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2538/image",
+      "teamBName": "SC Freiburg",
+      "time": "16:45:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "16/04/2026",
+      "end_date": "16/04/2026",
+      "end_time": "21:20:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/17015/image/dark",
+      "eventName": "UEFA Conference League",
+      "id": 57,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/1659/image",
+      "teamAName": "RC Strasbourg",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2556/image",
+      "teamBName": "1. FSV Mainz 05",
+      "time": "19:00:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "16/04/2026",
+      "end_date": "16/04/2026",
+      "end_time": "21:20:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/17015/image/dark",
+      "eventName": "UEFA Conference League",
+      "id": 58,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3250/image",
+      "teamAName": "AEK Athens",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2818/image",
+      "teamBName": "Rayo Vallecano",
+      "time": "19:00:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "16/04/2026",
+      "end_date": "16/04/2026",
+      "end_time": "21:20:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/679/image/dark",
+      "eventName": "UEFA Europa League",
+      "id": 59,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/14/image",
+      "teamAName": "Nottingham Forest",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3002/image",
+      "teamBName": "FC Porto",
+      "time": "19:00:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "16/04/2026",
+      "end_date": "16/04/2026",
+      "end_time": "21:20:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/17015/image/dark",
+      "eventName": "UEFA Conference League",
+      "id": 60,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2693/image",
+      "teamAName": "Fiorentina",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/7/image",
+      "teamBName": "Crystal Palace",
+      "time": "19:00:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "16/04/2026",
+      "end_date": "16/04/2026",
+      "end_time": "19:05:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/17015/image/dark",
+      "eventName": "UEFA Conference League",
+      "id": 61,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2950/image",
+      "teamAName": "AZ Alkmaar",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3313/image",
+      "teamBName": "Shakhtar Donetsk",
+      "time": "16:45:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "16/04/2026",
+      "end_date": "16/04/2026",
+      "end_time": "21:20:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/679/image/dark",
+      "eventName": "UEFA Europa League",
+      "id": 62,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2816/image",
+      "teamAName": "Real Betis",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2999/image",
+      "teamBName": "Sporting Braga",
+      "time": "19:00:00",
+      "visible": true
+    },
+    {
+      "category": "Cricket",
+      "date": "16/04/2026",
+      "end_date": "",
+      "end_time": "",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11170/image/dark",
+      "eventName": "Pakistan Super League",
+      "id": 63,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/1178235/image",
+      "teamAName": "Hyderabad Kingsmen",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/1178236/image",
+      "teamBName": "Rawalpindiz",
+      "time": "09:30:00",
+      "visible": true
+    },
+    {
+      "category": "Cricket",
+      "date": "16/04/2026",
+      "end_date": "",
+      "end_time": "",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11170/image/dark",
+      "eventName": "Pakistan Super League",
+      "id": 64,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/212418/image",
+      "teamAName": "Karachi Kings",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/212416/image",
+      "teamBName": "Islamabad United",
+      "time": "14:00:00",
+      "visible": true
+    },
+    {
+      "category": "Cricket",
+      "date": "16/04/2026",
+      "end_date": "",
+      "end_time": "",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark",
+      "eventName": "Indian Premier League",
+      "id": 65,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/187780/image",
+      "teamAName": "Mumbai Indians",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/187776/image",
+      "teamBName": "Punjab Kings",
+      "time": "14:00:00",
       "visible": true
     }
   ]
