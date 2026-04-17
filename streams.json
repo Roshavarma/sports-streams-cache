@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-17T16:20:33.096568",
+  "last_updated": "2026-04-17T16:30:43.982630",
   "event_count": 10,
   "events": [
     {
@@ -171,8 +171,8 @@
     {
       "category": "Cricket",
       "date": "17/04/2026",
-      "end_date": "",
-      "end_time": "",
+      "end_date": "17/04/2026",
+      "end_time": "18:15:00",
       "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11170/image/dark",
       "eventName": "Pakistan Super League",
       "id": 56,
@@ -251,8 +251,8 @@
     {
       "category": "Cricket",
       "date": "17/04/2026",
-      "end_date": "",
-      "end_time": "",
+      "end_date": "17/04/2026",
+      "end_time": "18:10:00",
       "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark",
       "eventName": "Indian Premier League",
       "id": 57,
@@ -373,8 +373,25 @@
       "id": 60,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
+          "name": "beIN ENGLISH FHD",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://live.vivo200.com/live/hd-en-1-4339755.m3u8?txSecret=186045cee45c61b21ba574743ca80bcb&txTime=69E2A36E|Referer=https://player.787200.com/",
+          "name": "HD SERVER ",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://cdn.damitv.pro/iptv-proxy/streamed/play?source=echo&id=sassuolo-vs-como-football-1378191&streamNo=1",
+          "name": "DAZN ITALY HD",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/2793/image",
