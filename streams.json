@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-17T07:00:52.503563",
-  "event_count": 9,
+  "last_updated": "2026-04-17T07:10:29.529483",
+  "event_count": 6,
   "events": [
     {
       "category": "Boxing",
@@ -169,193 +169,45 @@
       "visible": true
     },
     {
-      "category": "Football",
-      "date": "16/04/2026",
-      "end_date": "16/04/2026",
-      "end_time": "21:20:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/17015/image/dark",
-      "eventName": "UEFA Conference League",
+      "category": "Cricket",
+      "date": "17/04/2026",
+      "end_date": "",
+      "end_time": "",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11170/image/dark",
+      "eventName": "Pakistan Super League",
+      "id": 56,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/212419/image",
+      "teamAName": "Lahore Qalandars",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/212417/image",
+      "teamBName": "Quetta Gladiators",
+      "time": "14:00:00",
+      "visible": true
+    },
+    {
+      "category": "Cricket",
+      "date": "17/04/2026",
+      "end_date": "",
+      "end_time": "",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark",
+      "eventName": "Indian Premier League",
       "id": 57,
       "links": [
         {
-          "api": "cd56264bc2244d9d4685047661fac903:8d4d5536718d5e4eabe9df7b1ae69af8",
-          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/qpbqgbvppg/out/v1/5edd423d949e412c98bf34042cb95d4e/cenc.mpd",
-          "name": "VIX SPANISH - AQ",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "http://195.178.110.52/hls/ZGGG.m3u8|Referer=http://www.fawanews.sc/",
-          "name": "SD SERVER ",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://sonydaimenew.akamaized.net/hls/live/2022315/Strasbou1604/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776407831~acl=/*~id=48383606138427445895570040319928~hmac=5498f22af30d5f266b13a658116c0f6d3e55911fd9628ad378f9cc072cb96dc3",
-          "name": "SONYLIV ",
-          "scheme": 0,
-          "tokenApi": ""
+          "link": "https://no.link",
+          "name": "Link 1"
         }
       ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/1659/image",
-      "teamAName": "RC Strasbourg",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2556/image",
-      "teamBName": "1. FSV Mainz 05",
-      "time": "19:00:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "16/04/2026",
-      "end_date": "16/04/2026",
-      "end_time": "21:20:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/17015/image/dark",
-      "eventName": "UEFA Conference League",
-      "id": 58,
-      "links": [
-        {
-          "api": "a57ccdd2a9daeb3e525bd83d45ddc5ff:f50096d28cc64941103baf264fdd69fc",
-          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/rshjqikako/out/v1/c36180058f2a49a9ac8e96607922aa95/cenc.mpd",
-          "name": "VIX SPANISH - AQ",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "http://195.178.110.52/hls/ZGGGQ.m3u8|Referer=http://www.fawanews.sc/",
-          "name": "SD SERVER ",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://sonydaimenew.akamaized.net/hls/live/2022319/Athens_F1604/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776407831~acl=/*~id=48383606138427445895570040319928~hmac=5498f22af30d5f266b13a658116c0f6d3e55911fd9628ad378f9cc072cb96dc3",
-          "name": "SONYLIV ",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3250/image",
-      "teamAName": "AEK Athens",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2818/image",
-      "teamBName": "Rayo Vallecano",
-      "time": "19:00:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "16/04/2026",
-      "end_date": "16/04/2026",
-      "end_time": "21:20:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/679/image/dark",
-      "eventName": "UEFA Europa League",
-      "id": 59,
-      "links": [
-        {
-          "api": "294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b",
-          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd",
-          "name": "TNT SPORTS FHD",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "f3a2716ad01f32df047b58d1884e5236:d70f0bdb5df9a32f7f9342ed5094d027",
-          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7rhulohbhs/out/v1/0243b44c809941c7a5e0132e783bab69/cenc.mpd",
-          "name": "VIX SPANISH - AQ",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://sonydaimenew.akamaized.net/hls/live/2022318/Nottingh1604/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776407831~acl=/*~id=48383606138427445895570040319928~hmac=5498f22af30d5f266b13a658116c0f6d3e55911fd9628ad378f9cc072cb96dc3",
-          "name": "SONYLIV ",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/14/image",
-      "teamAName": "Nottingham Forest",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3002/image",
-      "teamBName": "FC Porto",
-      "time": "19:00:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "16/04/2026",
-      "end_date": "16/04/2026",
-      "end_time": "21:20:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/17015/image/dark",
-      "eventName": "UEFA Conference League",
-      "id": 60,
-      "links": [
-        {
-          "api": "1d96ab366bbe6451edf7407b58e2fa16:0116201f4a63ac5bf5787d2c610c41a7",
-          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5sxuux529k/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd",
-          "name": "TNT SPORTS FHD",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "cdd044e8b6472fa86296bc8eef1fb004:a9b2591e95016a6581ed54492c0047fb",
-          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/xzrumhvk25/out/v1/83e94e1e8f76494f8173edb038f25837/cenc.mpd",
-          "name": "VIX SPANISH - AQ",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://lb-nl-50gbs.zenostreams-cdn-001.com/secure/api/v1/tnt-sports-3.m3u8?md5=51062993cc9560dcd0400ea578659f16&exp=1776371294|User-Agent=Mozilla/5.0 (Linux; Android 13; SM-T837A) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36&Referer=https://www.foulembeds.live/&Origin=https://www.foulembeds.live",
-          "name": "TNT FHD",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://sonydaimenew.akamaized.net/hls/live/2018457/Fiorenti1604/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776407831~acl=/*~id=48383606138427445895570040319928~hmac=5498f22af30d5f266b13a658116c0f6d3e55911fd9628ad378f9cc072cb96dc3",
-          "name": "SONYLIV ",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2693/image",
-      "teamAName": "Fiorentina",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/7/image",
-      "teamBName": "Crystal Palace",
-      "time": "19:00:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "16/04/2026",
-      "end_date": "16/04/2026",
-      "end_time": "21:20:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/679/image/dark",
-      "eventName": "UEFA Europa League",
-      "id": 62,
-      "links": [
-        {
-          "api": "3fb40d85724942f994d86943f48021db:a6da8742502c8a2153067f5f2a70fb02",
-          "link": "https://mag04.tvx.prd.tv.odido.nl/wh7f454c46tw865586829_-819821292/PLTV/86/224/3221241610/3221241610.mpd?accountinfo=~~V2.0~LNS2PBO5tyhp5z1Pe6ObBA6cd7a4ec35c4492167b9376e6dff2932~BZw2dESHw-I1PQCFh9gGxCMvrIIzgMdYAe900qj8l6aoXUX9ahyR6I9EUIu7nDR4f4887615c83ea7a8cee6dd33137c4ebe:UTC,",
-          "name": "ZIGGO SPORTS",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://sonydaimenew.akamaized.net/hls/live/2005445/Real_Bet1604/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776407831~acl=/*~id=48383606138427445895570040319928~hmac=5498f22af30d5f266b13a658116c0f6d3e55911fd9628ad378f9cc072cb96dc3",
-          "name": "SONYLIV ",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2816/image",
-      "teamAName": "Real Betis",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2999/image",
-      "teamBName": "Sporting Braga",
-      "time": "19:00:00",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/216006/image",
+      "teamAName": "Gujarat Titans",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/187775/image",
+      "teamBName": "Kolkata Knight Riders",
+      "time": "14:00:00",
       "visible": true
     }
   ]
