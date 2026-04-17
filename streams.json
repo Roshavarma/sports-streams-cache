@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-17T18:35:01.459677",
+  "last_updated": "2026-04-17T18:40:34.541583",
   "event_count": 8,
   "events": [
     {
@@ -178,9 +178,23 @@
       "id": 58,
       "links": [
         {
-          "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
-          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
-          "name": "beIN ENGLISH FHD",
+          "api": "",
+          "link": "https://edge.cdnlivetv.ru/secure/api/v1/de-sky-sport-bundesliga-1/playlist.m3u8?token=42ea29d442371b0dd03aaac66d0bf43ee1edc2ef881c2dcce5f1603e862a1ab3.1776450288.2493de1a43874879157db33e5093fded.f00cfc48198247de00bc27de10a4e7ab.861d4608b8ebe9faecee904dbb1c20be&signature=4ec1b3412a3e252d55262aa439a6f675a4d0d7b8d5477f2f216fa1878f197155|Referer=https://cdnlivetv.tv/",
+          "name": "SKY BUNDESLIGA HD",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://rr4---sn-8pxuuxa-on.googlecdncloudsg.com/LIVE_DE_SKY_Sport_TOP_Event_HD/index.m3u8|Referer=https://kilatlive.net/",
+          "name": "SKY TOP EVENT",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://smarthard.click/hls/8r59wy2BRApK/index.m3u8|Referer=https://hardsmart.click/",
+          "name": "SKY BUNDESLIGA SD",
           "scheme": 0,
           "tokenApi": ""
         }
@@ -264,8 +278,18 @@
       "id": 61,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "",
+          "link": "https://edge.cdnlivetv.ru/secure/api/v1/us-bein-sports/playlist.m3u8?token=444c96c504cf154ba59b826c93f0592667d9546b34a5c78d624b0393ebd95fa5.1776450579.dd528c89bbe900aedfab6605bc752c35.fd88f5fa2612d69dc585611688de58ba.482eaa63888b71a15aa8c05079b09b49&signature=5b01858889833d189df8f95f56607e720cca220c65fbf32c8d061b1605654aa0|Referer=https://cdnlivetv.tv/",
+          "name": "beIN SPORTS US",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://live.vivo200.com/live/hd-en-1-4347944.m3u8?txSecret=fc0c8230abf78186676e98ea852e91f3&txTime=69E2C4C9|Referer=https://player.787200.com/",
+          "name": "HD SERVER ",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/1648/image",
