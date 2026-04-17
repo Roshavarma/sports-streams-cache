@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-17T07:10:29.529483",
-  "event_count": 6,
+  "last_updated": "2026-04-17T07:20:28.850715",
+  "event_count": 10,
   "events": [
     {
       "category": "Boxing",
@@ -208,6 +208,90 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/187775/image",
       "teamBName": "Kolkata Knight Riders",
       "time": "14:00:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "17/04/2026",
+      "end_date": "17/04/2026",
+      "end_time": "20:50:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/35/image/dark",
+      "eventName": "Bundesliga",
+      "id": 58,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2526/image",
+      "teamAName": "FC St. Pauli",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2671/image",
+      "teamBName": "1. FC Köln",
+      "time": "18:30:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "17/04/2026",
+      "end_date": "17/04/2026",
+      "end_time": "21:05:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/23/image/dark",
+      "eventName": "Serie A",
+      "id": 59,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2697/image",
+      "teamAName": "Inter",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2719/image",
+      "teamBName": "Cagliari",
+      "time": "18:45:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "17/04/2026",
+      "end_date": "17/04/2026",
+      "end_time": "18:50:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/23/image/dark",
+      "eventName": "Serie A",
+      "id": 60,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2793/image",
+      "teamAName": "Sassuolo",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2704/image",
+      "teamBName": "Como",
+      "time": "16:30:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "17/04/2026",
+      "end_date": "17/04/2026",
+      "end_time": "21:05:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/34/image/dark",
+      "eventName": "Ligue 1",
+      "id": 61,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/1648/image",
+      "teamAName": "RC Lens",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/1681/image",
+      "teamBName": "Toulouse",
+      "time": "18:45:00",
       "visible": true
     }
   ]
