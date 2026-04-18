@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-18T13:10:28.705769",
+  "last_updated": "2026-04-18T13:20:27.508199",
   "event_count": 37,
   "events": [
     {
@@ -665,8 +665,32 @@
       "id": 81,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "",
+          "link": "https://chatgpt.hereisman.net/playlist/49147/load-playlist?|Referer=https://gooz.aapmains.net",
+          "name": "Bundesliga HD [ENG]",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://xstm.250909.cc/live/SPORTSFLUX-PRD-75441-100/3015d8e2ea17/401.m3u8",
+          "name": "ESPN HD",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://smarthard.click/hls/kjzxkCIqkhtb/index.m3u8",
+          "name": "SKY BUNDESLIGA SD",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://smarthard.click/hls/sabrouchespndeportes/index.m3u8|Referer=https://hardsmart.click/",
+          "name": "ESPN DEPORTES",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/2569/image",
