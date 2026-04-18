@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-18T15:50:27.656319",
-  "event_count": 31,
+  "last_updated": "2026-04-18T16:00:48.978170",
+  "event_count": 26,
   "events": [
     {
       "category": "Cricket",
@@ -310,8 +310,11 @@
       "id": 65,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "",
+          "link": "https://live.vivo200.com/live/sd-1-4366136.m3u8?txSecret=80ff489ffa21f44f3d1b84b7410940e9&txTime=69E2AF2D|Referer=https://player.787200.com/",
+          "name": "HD SERVER ",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/7802/image",
@@ -367,45 +370,17 @@
       "category": "Football",
       "date": "18/04/2026",
       "end_date": "18/04/2026",
-      "end_time": "15:20:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/23/image/dark",
-      "eventName": "Serie A",
-      "id": 68,
-      "links": [
-        {
-          "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
-          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
-          "name": "beIN ENGLISH FHD",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811",
-          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
-          "name": "FOX DEPORTES",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2695/image",
-      "teamAName": "Udinese",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2690/image",
-      "teamBName": "Parma",
-      "time": "13:00:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "18/04/2026",
-      "end_date": "18/04/2026",
       "end_time": "18:50:00",
       "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/54/image/dark",
       "eventName": "LaLiga 2",
       "id": 69,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "d69894c7b729c5d1e85893e5e6cfcb0f:db0d53f871f5d2ef91d3a112c7ec9f30",
+          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/tcninbbnt5/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd",
+          "name": "Laliga Hypermotion ES",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/5067/image",
@@ -515,8 +490,25 @@
       "id": 74,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "",
+          "link": "https://eventcdn02-nowe.akamaized.net/hls/CH621/index.m3u8",
+          "name": "NOW SPORTS PL",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "96b67fa09140329a89b7a1ead134eda3:c618d32c56cdc6cad8330eb98507ca3f",
+          "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-east)/master.mpd",
+          "name": "NBC UNIVERSO",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://xstm.250909.cc/live/SPORTSFLUX-PRD-75441-100/3015d8e2ea17/1028.m3u8",
+          "name": "SKY SPORTS PL",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/33/image",
@@ -581,8 +573,11 @@
       "id": 77,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "",
+          "link": "https://cdn.damitv.pro/stream/Sport%20TV%201",
+          "name": "SPORT TV HD",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/36365/image",
@@ -633,8 +628,32 @@
       "id": 80,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "",
+          "link": "https://playlist.cfbu247.sbs/?url=aHR0cHMlM0ElMkYlMkZjaGV2eS5zb3lzcGFjZS5jeW91JTJGcHJveHklMkZ3aW5kJTJGcHJlbWl1bTQzJTJGbW9uby5tM3U4JTI2ZGF0YSUzRFQzSnBaMmx1UFdoMGRIQnpPaTh2WlhCcFkzQnNZWGx3YkdGNUxtTm1aQSUzRCUzRA&headers=eyJSZWZlcmVyIjoiaHR0cHM6Ly9lcGljcGxheXBsYXkuY2ZkLyJ9",
+          "name": "PPV HD STREAM",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://playlist.cfbu247.sbs/?url=aHR0cHMlM0ElMkYlMkZjaGV2eS5zb3lzcGFjZS5jeW91JTJGcHJveHklMkZ3aW5kJTJGcHJlbWl1bTQzJTJGbW9uby5tM3U4JTI2ZGF0YSUzRFQzSnBaMmx1UFdoMGRIQnpPaTh2WlhCcFkzQnNZWGx3YkdGNUxtTm1aQSUzRCUzRA&headers=eyJSZWZlcmVyIjoiaHR0cHM6Ly9lcGljcGxheXBsYXkuY2ZkLyJ9",
+          "name": "PPV SD STREAM",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "http://195.178.110.40/hls/hcccQ.m3u8|Referer=http://www.fawanews.sc/",
+          "name": "HD SERVER ",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://xstm.250808.cc/live/SPORTSFLUX-PRD-75441-100/3015d8e2ea17/1039.m3u8",
+          "name": "SKY SPORTS HD",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/34218/image",
@@ -648,88 +667,15 @@
       "category": "Football",
       "date": "18/04/2026",
       "end_date": "18/04/2026",
-      "end_time": "15:50:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/35/image/dark",
-      "eventName": "Bundesliga",
-      "id": 81,
-      "links": [
-        {
-          "api": "",
-          "link": "https://chatgpt.hereisman.net/playlist/49147/load-playlist?|Referer=https://gooz.aapmains.net",
-          "name": "Bundesliga HD [ENG]",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://xstm.250909.cc/live/SPORTSFLUX-PRD-75441-100/3015d8e2ea17/401.m3u8",
-          "name": "ESPN HD",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://smarthard.click/hls/kjzxkCIqkhtb/index.m3u8",
-          "name": "SKY BUNDESLIGA SD",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://smarthard.click/hls/sabrouchespndeportes/index.m3u8|Referer=https://hardsmart.click/",
-          "name": "ESPN DEPORTES",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2569/image",
-      "teamAName": "TSG Hoffenheim",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2673/image",
-      "teamBName": "Borussia Dortmund",
-      "time": "13:30:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "18/04/2026",
-      "end_date": "18/04/2026",
       "end_time": "18:50:00",
       "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/35/image/dark",
       "eventName": "Bundesliga",
       "id": 82,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2674/image",
-      "teamAName": "Eintracht Frankfurt",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/36360/image",
-      "teamBName": "RB Leipzig",
-      "time": "16:30:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "18/04/2026",
-      "end_date": "18/04/2026",
-      "end_time": "15:50:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/35/image/dark",
-      "eventName": "Bundesliga",
-      "id": 84,
-      "links": [
-        {
-          "api": "",
-          "link": "https://chatgpt.hereisman.net/playlist/49146/load-playlist?|Referer=https://gooz.aapmains.net",
-          "name": "Bundesliga HD [ENG]",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://live.vivo200.com/live/hd-en-1-4347608.m3u8?txSecret=25be3c295a2332de426e9598def127e1&txTime=69E3CAF1|Referer=https://player.787200.com/",
-          "name": "HD SERVER ",
+          "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
+          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
+          "name": "beIN ENGLISH",
           "scheme": 0,
           "tokenApi": ""
         },
@@ -741,49 +687,11 @@
           "tokenApi": ""
         }
       ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2534/image",
-      "teamAName": "SV Werder Bremen",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2676/image",
-      "teamBName": "Hamburger SV",
-      "time": "13:30:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "18/04/2026",
-      "end_date": "18/04/2026",
-      "end_time": "15:50:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/35/image/dark",
-      "eventName": "Bundesliga",
-      "id": 86,
-      "links": [
-        {
-          "api": "",
-          "link": "https://chatgpt.hereisman.net/playlist/49149/load-playlist?|Referer=https://gooz.aapmains.net",
-          "name": "Bundesliga HD [ENG]",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://live.vivo200.com/live/hd-en-1-4347623.m3u8?txSecret=f9c24aba93921a6a26b965d32d65a1b9&txTime=69E3CAF1|Referer=https://player.787200.com/",
-          "name": "HD SERVER ",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://smarthard.click/hls/Mhe8gotoGQlu/index.m3u8|Referer=https://hardsmart.click/",
-          "name": "SKY BUNDESLIGA SD",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2681/image",
-      "teamAName": "Bayer 04 Leverkusen",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2600/image",
-      "teamBName": "FC Augsburg",
-      "time": "13:30:00",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2674/image",
+      "teamAName": "Eintracht Frankfurt",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/36360/image",
+      "teamBName": "RB Leipzig",
+      "time": "16:30:00",
       "visible": true
     },
     {
@@ -827,8 +735,25 @@
       "id": 88,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b",
+          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd",
+          "name": "TNT SPORTS FHD",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
+          "name": "beIN ENGLISH FHD",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811",
+          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
+          "name": "FOX DEPORTES",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/2714/image",
@@ -860,44 +785,6 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/2869/image",
       "teamBName": "AD Ceuta",
       "time": "14:15:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "18/04/2026",
-      "end_date": "18/04/2026",
-      "end_time": "15:50:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/35/image/dark",
-      "eventName": "Bundesliga",
-      "id": 91,
-      "links": [
-        {
-          "api": "",
-          "link": "https://chatgpt.hereisman.net/playlist/49145/load-playlist?|Referer=https://gooz.aapmains.net",
-          "name": "Bundesliga HD [ENG]",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://live.vivo200.com/live/hd-en-1-4347630.m3u8?txSecret=5a4cf21d316fbbbe349083ba72d2e134&txTime=69E3CAF1|Referer=https://player.787200.com/",
-          "name": "HD SERVER ",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://smarthard.click/hls/9gSZoyFska/index.m3u8",
-          "name": "SKY BUNDESLIGA SD",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2547/image",
-      "teamAName": "1. FC Union Berlin",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2524/image",
-      "teamBName": "VfL Wolfsburg",
-      "time": "13:30:00",
       "visible": true
     },
     {
