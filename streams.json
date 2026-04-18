@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-18T18:32:53.920468",
-  "event_count": 17,
+  "last_updated": "2026-04-18T18:40:24.850831",
+  "event_count": 13,
   "events": [
     {
       "category": "Boxing",
@@ -282,30 +282,6 @@
       "category": "Football",
       "date": "18/04/2026",
       "end_date": "18/04/2026",
-      "end_time": "18:50:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/54/image/dark",
-      "eventName": "LaLiga 2",
-      "id": 69,
-      "links": [
-        {
-          "api": "d69894c7b729c5d1e85893e5e6cfcb0f:db0d53f871f5d2ef91d3a112c7ec9f30",
-          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/tcninbbnt5/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd",
-          "name": "Laliga Hypermotion ES",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/5067/image",
-      "teamAName": "CD Castellón",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2854/image",
-      "teamBName": "Burgos Club de Fútbol",
-      "time": "16:30:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "18/04/2026",
-      "end_date": "18/04/2026",
       "end_time": "21:05:00",
       "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/23/image/dark",
       "eventName": "Serie A",
@@ -345,44 +321,6 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/3009/image",
       "teamBName": "Vitória SC",
       "time": "19:30:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "18/04/2026",
-      "end_date": "18/04/2026",
-      "end_time": "18:50:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/17/image/dark",
-      "eventName": "Premier League",
-      "id": 74,
-      "links": [
-        {
-          "api": "",
-          "link": "https://eventcdn02-nowe.akamaized.net/hls/CH621/index.m3u8",
-          "name": "NOW SPORTS PL",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "96b67fa09140329a89b7a1ead134eda3:c618d32c56cdc6cad8330eb98507ca3f",
-          "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-east)/master.mpd",
-          "name": "NBC UNIVERSO",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://xstm.250909.cc/live/SPORTSFLUX-PRD-75441-100/3015d8e2ea17/1028.m3u8",
-          "name": "SKY SPORTS PL",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/33/image",
-      "teamAName": "Tottenham Hotspur",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/30/image",
-      "teamBName": "Brighton & Hove Albion",
-      "time": "16:30:00",
       "visible": true
     },
     {
@@ -459,82 +397,6 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/3011/image",
       "teamBName": "Santa Clara",
       "time": "17:00:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "18/04/2026",
-      "end_date": "18/04/2026",
-      "end_time": "18:35:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/463/image/dark",
-      "eventName": "AFC Champions League Elite",
-      "id": 80,
-      "links": [
-        {
-          "api": "",
-          "link": "https://playlist.cfbu247.sbs/?url=aHR0cHMlM0ElMkYlMkZjaGV2eS5zb3lzcGFjZS5jeW91JTJGcHJveHklMkZ3aW5kJTJGcHJlbWl1bTQzJTJGbW9uby5tM3U4JTI2ZGF0YSUzRFQzSnBaMmx1UFdoMGRIQnpPaTh2WlhCcFkzQnNZWGx3YkdGNUxtTm1aQSUzRCUzRA&headers=eyJSZWZlcmVyIjoiaHR0cHM6Ly9lcGljcGxheXBsYXkuY2ZkLyJ9",
-          "name": "PPV HD STREAM",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://playlist.cfbu247.sbs/?url=aHR0cHMlM0ElMkYlMkZjaGV2eS5zb3lzcGFjZS5jeW91JTJGcHJveHklMkZ3aW5kJTJGcHJlbWl1bTQzJTJGbW9uby5tM3U4JTI2ZGF0YSUzRFQzSnBaMmx1UFdoMGRIQnpPaTh2WlhCcFkzQnNZWGx3YkdGNUxtTm1aQSUzRCUzRA&headers=eyJSZWZlcmVyIjoiaHR0cHM6Ly9lcGljcGxheXBsYXkuY2ZkLyJ9",
-          "name": "PPV SD STREAM",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "http://195.178.110.40/hls/hcccQ.m3u8|Referer=http://www.fawanews.sc/",
-          "name": "HD SERVER ",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://xstm.250808.cc/live/SPORTSFLUX-PRD-75441-100/3015d8e2ea17/1039.m3u8",
-          "name": "SKY SPORTS HD",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/34218/image",
-      "teamAName": "Buriram United",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/264111/image",
-      "teamBName": "Shabab Al-Ahli Dubai",
-      "time": "16:15:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "18/04/2026",
-      "end_date": "18/04/2026",
-      "end_time": "18:50:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/35/image/dark",
-      "eventName": "Bundesliga",
-      "id": 82,
-      "links": [
-        {
-          "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
-          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
-          "name": "beIN ENGLISH",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://smarthard.click/hls/8r59wy2BRApK/index.m3u8|Referer=https://hardsmart.click/",
-          "name": "SKY BUNDESLIGA SD",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2674/image",
-      "teamAName": "Eintracht Frankfurt",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/36360/image",
-      "teamBName": "RB Leipzig",
-      "time": "16:30:00",
       "visible": true
     },
     {
