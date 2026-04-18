@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-18T09:50:25.959844",
+  "last_updated": "2026-04-18T10:00:53.286567",
   "event_count": 38,
   "events": [
     {
@@ -808,8 +808,32 @@
       "id": 92,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "37552b55f620758d16945215d71e8419:7f3f418aaeca0f05a3291bb5c9db2992",
+          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/aluw6sbekd/out/v1/9d1d6c30ffb54e49ada82f217509d5f0/cenc.mpd",
+          "name": "WILLOW - AQ",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https",
+          "name": "SKY SP CRICKET - AQ",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "2e2636daa74141b68cc14882ea3ff82b:0961f48287324adbb4b7ff3c9d82b3c9",
+          "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1776580323~acl=/*~id=c3306428-dcb4-4a74-a24a-d10f3725b3bc~data=hdntl,aXA9MzguMTM3LjIwLjQ1JmV4cD0xNzc2NDkzOTUyJmVpZD04Mzc5MTcmb2lkPTIyJnR5cGU9Vk9EJnVpZD1udWxsJmNpZD1udWxsJnB0PW51bGw~hmac=2693665239735aa8fa728925ce4cee35dcc6f06599c7fcd5068d359e1a9f97ed/dash/live/2093734/219028-313801/manifest-d.mpd",
+          "name": "SKY SP NZ - AQ",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://vsd233.okcdn.ru/cmaf/15099590085375/sig/8qcBlQYA0Ak/expires/1776590764841/srcIp/152.58.159.241/urls/185.226.55.70/clientType/36/srcAg/CHROME/mid/13909091895295/get/hls_13909091895295.tu-BEHp8Bko.m3u8",
+          "name": "FOX SPORTS - AQ",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/187843/image",
