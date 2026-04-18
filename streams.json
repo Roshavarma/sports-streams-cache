@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-18T14:10:26.116103",
-  "event_count": 37,
+  "last_updated": "2026-04-18T14:20:27.073795",
+  "event_count": 31,
   "events": [
     {
       "category": "Cricket",
@@ -304,27 +304,6 @@
       "category": "Football",
       "date": "18/04/2026",
       "end_date": "18/04/2026",
-      "end_time": "13:20:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/44/image/dark",
-      "eventName": "2. Bundesliga",
-      "id": 63,
-      "links": [
-        {
-          "link": "https://no.link",
-          "name": "Link 1"
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2540/image",
-      "teamAName": "Arminia Bielefeld",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2523/image",
-      "teamBName": "1. FC Nürnberg",
-      "time": "11:00:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "18/04/2026",
-      "end_date": "18/04/2026",
       "end_time": "19:20:00",
       "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/52/image/dark",
       "eventName": "Trendyol Süper Lig",
@@ -509,8 +488,11 @@
       "id": 73,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "",
+          "link": "https://cdn.damitv.pro/stream/Sport%20TV%201",
+          "name": "SPORT TV HD",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/3013/image",
@@ -642,37 +624,6 @@
       "category": "Football",
       "date": "18/04/2026",
       "end_date": "18/04/2026",
-      "end_time": "13:50:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/52/image/dark",
-      "eventName": "Trendyol Süper Lig",
-      "id": 79,
-      "links": [
-        {
-          "api": "",
-          "link": "https://live.vivo200.com/live/sd-1-4366120.m3u8?txSecret=a773df7fc44a6e0e41b801d7d233e42a&txTime=69E3B04A|Referer=https://player.787200.com/",
-          "name": "HD SERVER ",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://smarthard.click/hls/hhx33tWwGEeW/index.m3u8|Referer=https://hardsmart.click/",
-          "name": "beIN SPORTS SD",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4954/image",
-      "teamAName": "Fatih Karagümrük",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/7040/image",
-      "teamBName": "Eyüpspor",
-      "time": "11:30:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "18/04/2026",
-      "end_date": "18/04/2026",
       "end_time": "18:35:00",
       "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/463/image/dark",
       "eventName": "AFC Champions League Elite",
@@ -760,65 +711,6 @@
       "category": "Football",
       "date": "18/04/2026",
       "end_date": "18/04/2026",
-      "end_time": "13:50:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/17/image/dark",
-      "eventName": "Premier League",
-      "id": 83,
-      "links": [
-        {
-          "api": "294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b",
-          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd",
-          "name": "TNT SPORTS FHD",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f",
-          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd",
-          "name": "FUBO SPORTS",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://eventcdn02-nowe.akamaized.net/hls/CH621/index.m3u8",
-          "name": "NOW SPORTS PL",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "96b67fa09140329a89b7a1ead134eda3:c618d32c56cdc6cad8330eb98507ca3f",
-          "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-east)/master.mpd",
-          "name": "NBC UNIVERSO",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://chatgpt.hereisman.net/playlist/49142/load-playlist?|Referer=https://gooz.aapmains.net",
-          "name": "HD SERVER",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://xstm.250909.cc/live/SPORTSFLUX-PRD-75441-100/3015d8e2ea17/195.m3u8",
-          "name": "USA TV HD",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/50/image",
-      "teamAName": "Brentford",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/43/image",
-      "teamBName": "Fulham",
-      "time": "11:30:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "18/04/2026",
-      "end_date": "18/04/2026",
       "end_time": "15:50:00",
       "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/35/image/dark",
       "eventName": "Bundesliga",
@@ -851,27 +743,6 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/2676/image",
       "teamBName": "Hamburger SV",
       "time": "13:30:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "18/04/2026",
-      "end_date": "18/04/2026",
-      "end_time": "13:20:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/44/image/dark",
-      "eventName": "2. Bundesliga",
-      "id": 85,
-      "links": [
-        {
-          "link": "https://no.link",
-          "name": "Link 1"
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2591/image",
-      "teamAName": "1. FC Magdeburg",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2588/image",
-      "teamBName": "Fortuna Düsseldorf",
-      "time": "11:00:00",
       "visible": true
     },
     {
@@ -968,27 +839,6 @@
       "category": "Football",
       "date": "18/04/2026",
       "end_date": "18/04/2026",
-      "end_time": "13:20:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/44/image/dark",
-      "eventName": "2. Bundesliga",
-      "id": 89,
-      "links": [
-        {
-          "link": "https://no.link",
-          "name": "Link 1"
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2595/image",
-      "teamAName": "SG Dynamo Dresden",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2542/image",
-      "teamBName": "VfL Bochum 1848",
-      "time": "11:00:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "18/04/2026",
-      "end_date": "18/04/2026",
       "end_time": "16:35:00",
       "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/54/image/dark",
       "eventName": "LaLiga 2",
@@ -1045,51 +895,6 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/2524/image",
       "teamBName": "VfL Wolfsburg",
       "time": "13:30:00",
-      "visible": true
-    },
-    {
-      "category": "Cricket",
-      "date": "18/04/2026",
-      "end_date": "",
-      "end_time": "",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark",
-      "eventName": "Indian Premier League",
-      "id": 92,
-      "links": [
-        {
-          "api": "37552b55f620758d16945215d71e8419:7f3f418aaeca0f05a3291bb5c9db2992",
-          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/aluw6sbekd/out/v1/9d1d6c30ffb54e49ada82f217509d5f0/cenc.mpd",
-          "name": "WILLOW - AQ",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https",
-          "name": "SKY SP CRICKET - AQ",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "2e2636daa74141b68cc14882ea3ff82b:0961f48287324adbb4b7ff3c9d82b3c9",
-          "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1776580323~acl=/*~id=c3306428-dcb4-4a74-a24a-d10f3725b3bc~data=hdntl,aXA9MzguMTM3LjIwLjQ1JmV4cD0xNzc2NDkzOTUyJmVpZD04Mzc5MTcmb2lkPTIyJnR5cGU9Vk9EJnVpZD1udWxsJmNpZD1udWxsJnB0PW51bGw~hmac=2693665239735aa8fa728925ce4cee35dcc6f06599c7fcd5068d359e1a9f97ed/dash/live/2093734/219028-313801/manifest-d.mpd",
-          "name": "SKY SP NZ - AQ",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://vsd233.okcdn.ru/cmaf/15099590085375/sig/8qcBlQYA0Ak/expires/1776590764841/srcIp/152.58.159.241/urls/185.226.55.70/clientType/36/srcAg/CHROME/mid/13909091895295/get/hls_13909091895295.tu-BEHp8Bko.m3u8",
-          "name": "FOX SPORTS - AQ",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/187843/image",
-      "teamAName": "Royal Challengers Bengaluru",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/187841/image",
-      "teamBName": "Delhi Capitals",
-      "time": "10:00:00",
       "visible": true
     },
     {
