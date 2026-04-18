@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-18T12:50:31.149386",
-  "event_count": 38,
+  "last_updated": "2026-04-18T13:00:55.012185",
+  "event_count": 37,
   "events": [
     {
       "category": "Cricket",
@@ -284,37 +284,6 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/2523/image",
       "teamBName": "1. FC Nürnberg",
       "time": "11:00:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "18/04/2026",
-      "end_date": "18/04/2026",
-      "end_time": "15:20:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/1054/image/dark",
-      "eventName": "CAF Champions League",
-      "id": 64,
-      "links": [
-        {
-          "api": "e51aa21f2a0fef9aabc120dfb655b52f:a12a987fe725a40b6be95cd84b15f689",
-          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
-          "name": "TSN SPORTS FHD",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "f5c2b30eac11be1e8cdfc9585f5fe6af:a8198d17bf9b0da77450fbb919a38b2d",
-          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/lzhmuzmjsl/out/v1/c171eeb214c749f2b351c79df317b21e/cenc.mpd",
-          "name": "TSN SPORTS HD",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/7665/image",
-      "teamAName": "Mamelodi Sundowns",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/59628/image",
-      "teamBName": "Espérance Tunis",
-      "time": "13:00:00",
       "visible": true
     },
     {
