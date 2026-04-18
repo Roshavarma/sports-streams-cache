@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-18T14:30:38.068235",
+  "last_updated": "2026-04-18T14:40:25.511219",
   "event_count": 31,
   "events": [
     {
@@ -425,8 +425,11 @@
       "id": 70,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "",
+          "link": "https://live.vivo200.com/live/hd-en-1-4347946.m3u8?txSecret=346594712c930ec7a96c24c41b5111fb&txTime=69E3DC82|Referer=https://player.787200.com/",
+          "name": "HD SERVER ",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/1656/image",
