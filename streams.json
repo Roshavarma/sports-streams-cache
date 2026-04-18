@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-18T19:00:49.390886",
-  "event_count": 13,
+  "last_updated": "2026-04-18T19:29:17.606703",
+  "event_count": 10,
   "events": [
     {
       "category": "Boxing",
@@ -210,52 +210,28 @@
       "category": "Football",
       "date": "18/04/2026",
       "end_date": "18/04/2026",
-      "end_time": "19:20:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/52/image/dark",
-      "eventName": "Trendyol Süper Lig",
-      "id": 65,
-      "links": [
-        {
-          "api": "",
-          "link": "https://live.vivo200.com/live/sd-1-4366136.m3u8?txSecret=80ff489ffa21f44f3d1b84b7410940e9&txTime=69E2AF2D|Referer=https://player.787200.com/",
-          "name": "HD SERVER ",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/7802/image",
-      "teamAName": "Gençlerbirliği",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3061/image",
-      "teamBName": "Galatasaray",
-      "time": "17:00:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "18/04/2026",
-      "end_date": "18/04/2026",
       "end_time": "21:20:00",
       "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/329/image/dark",
       "eventName": "Copa del Rey",
       "id": 66,
       "links": [
         {
-          "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
-          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
-          "name": "beIN ENGLISH FHD",
+          "api": "065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2",
+          "link": "https://a166aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
+          "name": "FANCODE  - AQ",
           "scheme": 0,
           "tokenApi": ""
         },
         {
           "api": "",
-          "link": "https://eyk4pqe8.04334746.net:8443/hls/71urpyq.m3u8?s=tB3cdBavjQuSVCPWtkJrHQ&e=1776464318|Referer=https://fisherman.click&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
-          "name": "DAZN ITALY HD",
+          "link": "https://mainstreams.pro/hls/377qj1h2727.m3u8?st=MWWpdiygfvZZORrk328P73StRorDKaZ9vvuAuBUsq8U&e=1776549760|Referer=https://streamcenter.live/",
+          "name": "SD STREAM ",
           "scheme": 0,
           "tokenApi": ""
         },
         {
           "api": "",
-          "link": "https://live.vivo200.com/live/hd-en-1-4339755.m3u8?txSecret=186045cee45c61b21ba574743ca80bcb&txTime=69E2A36E|Referer=https://player.787200.com/",
+          "link": "https://s.zetiyuiyu.shop/hls/UCCCQQQQ.m3u8|Referer=http://www.fawanews.sc/",
           "name": "HD Stream ",
           "scheme": 0,
           "tokenApi": ""
@@ -266,44 +242,6 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/2824/image",
       "teamBName": "Real Sociedad",
       "time": "19:00:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "18/04/2026",
-      "end_date": "18/04/2026",
-      "end_time": "19:20:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/34/image/dark",
-      "eventName": "Ligue 1",
-      "id": 67,
-      "links": [
-        {
-          "api": "",
-          "link": "https://live.vivo200.com/live/hd-en-1-4347943.m3u8?txSecret=11be8d2ba195065513d5a1ee1ca9cfb0&txTime=69E3FE2B|Referer=https://player.787200.com/",
-          "name": "HD SERVER ",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://mainstreams.pro/hls/dza5z8f69.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-          "name": "beIN SPORTS US",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://rr4---sn-8pxuuxa-on.googlecdncloudsg.com/live_usa_bein_sport_espanol/index.m3u8|Referer=https://kilatlive.net/",
-          "name": "beIN SPORTS ES",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/1684/image",
-      "teamAName": "Angers",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/1662/image",
-      "teamBName": "Le Havre",
-      "time": "17:00:00",
       "visible": true
     },
     {
@@ -347,8 +285,11 @@
       "id": 72,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "",
+          "link": "https://s.zfuiuiu.shop/hls/UCCCQQQQQQQ.m3u8|Referer=http://www.fawanews.sc/",
+          "name": "SD STREAM ",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/3010/image",
@@ -401,37 +342,6 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/35/image",
       "teamBName": "Manchester United",
       "time": "19:00:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "18/04/2026",
-      "end_date": "18/04/2026",
-      "end_time": "19:20:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/238/image/dark",
-      "eventName": "Liga Portugal Betclic",
-      "id": 77,
-      "links": [
-        {
-          "api": "",
-          "link": "https://live.vivo200.com/live/sd-1-4369050.m3u8?txSecret=f8f873f27a53dff24045b0fd9c26d92f&txTime=69E3FE2B|Referer=https://player.787200.com/",
-          "name": "HD SERVER ",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://cdn.damitv.pro/stream/Sport%20TV%201",
-          "name": "SPORT TV HD",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/36365/image",
-      "teamAName": "Casa Pia",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3011/image",
-      "teamBName": "Santa Clara",
-      "time": "17:00:00",
       "visible": true
     },
     {
