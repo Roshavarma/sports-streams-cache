@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-18T19:40:23.517925",
+  "last_updated": "2026-04-18T19:50:22.969773",
   "event_count": 10,
   "events": [
     {
@@ -355,10 +355,10 @@
       "links": [
         {
           "api": "",
-          "link": "https://no.link",
+          "link": "https://embedsports.top/embed/admin/ppv-lille-vs-nice/1",
           "name": "Link 1",
           "scheme": 0,
-          "tokenApi": "{\"url\":\"https:\\/\\/no.link\",\"api\":\"https:\\/\\/embedsports.top\\/embed\\/admin\\/ppv-atl-tico-madrid-vs-real-sociedad\\/1\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/187775/image",
