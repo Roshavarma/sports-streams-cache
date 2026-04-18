@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-18T20:30:43.144602",
-  "event_count": 10,
+  "last_updated": "2026-04-18T20:40:29.565955",
+  "event_count": 11,
   "events": [
     {
       "category": "Boxing",
@@ -373,6 +373,37 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/187842/image",
       "teamBName": "Rajasthan Royals",
       "time": "10:00:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "18/04/2026",
+      "end_date": "18/04/2026",
+      "end_time": "22:50:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/242/image/dark",
+      "eventName": "MLS",
+      "id": 94,
+      "links": [
+        {
+          "api": "",
+          "link": "https://embedsports.top/embed/delta/live_mls_colorado-inter-miami-live-streaming-1118042838/1",
+          "name": "Server 1",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://embedsports.top/embed/echo/colorado-rapids-vs-inter-miami-football-1490213/1",
+          "name": "Server 2",
+          "scheme": 0,
+          "tokenApi": ""
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2510/image",
+      "teamAName": "Colorado Rapids",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/337602/image",
+      "teamBName": "Inter Miami CF",
+      "time": "20:30:00",
       "visible": true
     }
   ]
