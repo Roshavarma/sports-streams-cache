@@ -1,7 +1,83 @@
 {
-  "last_updated": "2026-04-18T12:30:42.025095",
+  "last_updated": "2026-04-18T12:50:31.149386",
   "event_count": 38,
   "events": [
+    {
+      "category": "Cricket",
+      "date": "18/04/2026",
+      "end_date": "",
+      "end_time": "",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark",
+      "eventName": "Indian Premier League",
+      "id": 94,
+      "links": [
+        {
+          "api": "",
+          "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https",
+          "name": "SKY CRICKET HD",
+          "scheme": 0,
+          "tokenApi": ""
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/187844/image",
+      "teamAName": "Sunrisers Hyderabad",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/187777/image",
+      "teamBName": "Chennai Super Kings",
+      "time": "14:00:00",
+      "visible": true
+    },
+    {
+      "category": "Cricket",
+      "date": "18/04/2026",
+      "end_date": "",
+      "end_time": "",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11170/image/dark",
+      "eventName": "Pakistan Super League",
+      "id": 95,
+      "links": [
+        {
+          "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
+          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+          "name": "WILLOW FHD",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://pslurdu.bigbaat.app/out/v1/0ef369b90c7b4025b76621e46ee5fb70/index.m3u8",
+          "name": "PSL Urdu - PK",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://psl.bigbaat.app/out/v1/f342445c31dd475bbf30c7304dbad14f/index.m3u8",
+          "name": "PSL ENG - PK",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://live.incableinternet.com/v/kooker_ptvsportshd/kooker_ptvsportshd.m3u8",
+          "name": "PTV SPORTS HD",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://tencentcdn7.tamashaweb.com/v1/019beffa3f101567ee93346674d021/019bff96b0e415fc600b1b67f81951/TMSH_APP2_DIRTY.m3u8",
+          "name": "TAMASHA - PK",
+          "scheme": 0,
+          "tokenApi": ""
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/212419/image",
+      "teamAName": "Lahore Qalandars",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/1178236/image",
+      "teamBName": "Rawalpindiz",
+      "time": "14:00:00",
+      "visible": true
+    },
     {
       "category": "Boxing",
       "date": "25/04/2026",
@@ -220,8 +296,18 @@
       "id": 64,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "e51aa21f2a0fef9aabc120dfb655b52f:a12a987fe725a40b6be95cd84b15f689",
+          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
+          "name": "TSN SPORTS FHD",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "f5c2b30eac11be1e8cdfc9585f5fe6af:a8198d17bf9b0da77450fbb919a38b2d",
+          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/lzhmuzmjsl/out/v1/c171eeb214c749f2b351c79df317b21e/cenc.mpd",
+          "name": "TSN SPORTS HD",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/7665/image",
@@ -304,8 +390,18 @@
       "id": 68,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
+          "name": "beIN ENGLISH FHD",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811",
+          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
+          "name": "FOX DEPORTES",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/2695/image",
@@ -472,8 +568,11 @@
       "id": 76,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "",
+          "link": "https://eventcdn02-nowe.akamaized.net/hls/CH621/index.m3u8",
+          "name": "NOW SPORTS PL",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/34/image",
@@ -514,8 +613,18 @@
       "id": 78,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "",
+          "link": "https://eventcdn02-nowe.akamaized.net/hls/CH622/index.m3u8",
+          "name": "NOW SPORTS PL",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "96b67fa09140329a89b7a1ead134eda3:c618d32c56cdc6cad8330eb98507ca3f",
+          "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-east)/master.mpd",
+          "name": "NBC UNIVERSO",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/39/image",
@@ -751,8 +860,18 @@
       "id": 87,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "",
+          "link": "https://live.vivo200.com/live/sd-1-4355822.m3u8?txSecret=6d317783a2daf4d9f3b5d7ad7c37a4c0&txTime=69E2A36E|Referer=https://player.787200.com/",
+          "name": "HD SERVER ",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://smarthard.click/hls/kjzxkCIqkhtb/index.m3u8|Referer=https://hardsmart.click/",
+          "name": "SKY BUNDESLIGA SD",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/3065/image",
@@ -814,8 +933,11 @@
       "id": 90,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "d69894c7b729c5d1e85893e5e6cfcb0f:db0d53f871f5d2ef91d3a112c7ec9f30",
+          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/tcninbbnt5/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd",
+          "name": "Laliga Hypermotion ES",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/2815/image",
@@ -835,8 +957,11 @@
       "id": 91,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "",
+          "link": "https://smarthard.click/hls/9gSZoyFska/index.m3u8",
+          "name": "SKY BUNDESLIGA SD",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/2547/image",
@@ -910,48 +1035,6 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/187842/image",
       "teamBName": "Rajasthan Royals",
       "time": "10:00:00",
-      "visible": true
-    },
-    {
-      "category": "Cricket",
-      "date": "18/04/2026",
-      "end_date": "",
-      "end_time": "",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark",
-      "eventName": "Indian Premier League",
-      "id": 94,
-      "links": [
-        {
-          "link": "https://no.link",
-          "name": "Link 1"
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/187844/image",
-      "teamAName": "Sunrisers Hyderabad",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/187777/image",
-      "teamBName": "Chennai Super Kings",
-      "time": "14:00:00",
-      "visible": true
-    },
-    {
-      "category": "Cricket",
-      "date": "18/04/2026",
-      "end_date": "",
-      "end_time": "",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11170/image/dark",
-      "eventName": "Pakistan Super League",
-      "id": 95,
-      "links": [
-        {
-          "link": "https://no.link",
-          "name": "Link 1"
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/212419/image",
-      "teamAName": "Lahore Qalandars",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/1178236/image",
-      "teamBName": "Rawalpindiz",
-      "time": "14:00:00",
       "visible": true
     }
   ]
