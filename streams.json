@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-19T13:45:51.859914",
-  "event_count": 33,
+  "last_updated": "2026-04-19T13:50:33.414766",
+  "event_count": 32,
   "events": [
     {
       "category": "Boxing",
@@ -910,8 +910,53 @@
       "id": 115,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "660b12ab9ff8f5d7a9c9e87d2cd0ac3a:562d1d0574a3d3ea6a85e2500867d4dd",
+          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/xdwqi5l00r/out/v1/36587570a1c84b31a8fc2b44a7c6dc14/cenc.mpd",
+          "name": "WILLOW - AQ",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https",
+          "name": "SKY SP CRICKET - AQ",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://lb-nl-50gbs.zenostreams-cdn-001.com/secure/api/v1/fox-sports-501.m3u8?md5=04a41af7f32cd165bd5b962083cc92c1&exp=1776612372|User-Agent=Mozilla/5.0 (Linux; Android 13; SM-T837A) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36&Referer=https://www.foulembeds.live/&Origin=https://www.foulembeds.live",
+          "name": "FOX 50FPS - AQ",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://lb-nl-50gbs.zenostreams-cdn-001.com/secure/api/v1/sky-sport-1-nz.m3u8?md5=fe70228544e438edadb89e4079b5f7d4&exp=1776608275|Referer=https://www.foulembeds.live/&Origin=https://www.foulembeds.live",
+          "name": "SKY SP NZ - FHD",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://qmaalhy7acgxwhm.ngolpdkyoctjcddxshli469r.org/sunshine/gwS4sjlblgrgSwB96w1fs6H3QnYv9oauYkZqDk53uRSzruvIO7DYzivB9jnfTKA6AXbkaty7FjdJWiVSd770ygQBtZ89yB-SjUrvLiqsX_-z27V7PjmDiNzkb2I5uHPOPZbsPQweU2PgSdzjKoG7nf6Yo132BtDNgz380uBJf1oIbvFWq-ZwCeTiDYTjBHd9xQHPr24TkuUws1eEhiTwBXZTHE0fRMOl-R_9xmjPXgwD6nQw2siD-Yyth6MYdeW9/hls/index.m3u8",
+          "name": "CRICBUZZ ",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://lb-nl-50gbs.zenostreams-cdn-001.com/secure/api/v1/willow-cricket-2.m3u8?md5=d8832a57cdec1c69c654133755bf2ccd&exp=1776608337|Referer=https://www.foulembeds.live/&Origin=https://www.foulembeds.live",
+          "name": "WILLOW HIN - HD",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "http://starshare.one:80/live/Anthony2/Anthony123/705131.ts",
+          "name": "HOTSTAR HINDI",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/187776/image",
@@ -919,86 +964,6 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/410010/image",
       "teamBName": "Lucknow Super Giants",
       "time": "14:00:00",
-      "visible": true
-    },
-    {
-      "category": "Cricket",
-      "date": "19/04/2026",
-      "end_date": "19/04/2026",
-      "end_time": "13:40:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11170/image/dark",
-      "eventName": "Pakistan Super League",
-      "id": 116,
-      "links": [
-        {
-          "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
-          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
-          "name": "WILLOW FHD",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/hdntl=exp=1776604409~acl=/*~data=hdntl~hmac=45e18a698f5ecdd97fddc9beca6639422f978eb97e552cb2e38a2d97c3e42f58/level_0.m3u8",
-          "name": "TAPMAD - FHD",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://pslurdu.bigbaat.app/out/v1/0ef369b90c7b4025b76621e46ee5fb70/index.m3u8",
-          "name": "PSL Urdu - PK",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://psl.bigbaat.app/out/v1/f342445c31dd475bbf30c7304dbad14f/index.m3u8",
-          "name": "PSL ENG - PK",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://live.incableinternet.com/v/kooker_ptvsportshd/kooker_ptvsportshd.m3u8",
-          "name": "PTV SPORTS HD",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://tencentcdn7.tamashaweb.com/v1/019beffa3f101567ee93346674d021/019bff96b0e415fc600b1b67f81951/TMSH_APP2_DIRTY.m3u8",
-          "name": "TAMASHA - PK",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://playztv-apps.pages.dev/tsports/index.m3u8",
-          "name": "T Sports HD",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://playztv-apps.pages.dev/asports/index.m3u8",
-          "name": "A SPORTS - HD",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://ml-pull-rtmp-pk1.myco.io/English/hls/index/clean.m3u8|referer=https://myco.io",
-          "name": "MyCO ENG - PK",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/273650/image",
-      "teamAName": "Multan Sultans",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/212418/image",
-      "teamBName": "Karachi Kings",
-      "time": "09:30:00",
       "visible": true
     },
     {
