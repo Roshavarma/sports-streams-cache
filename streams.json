@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-19T11:00:49.252437",
+  "last_updated": "2026-04-19T11:10:27.908965",
   "event_count": 29,
   "events": [
     {
@@ -177,6 +177,20 @@
       "eventName": "Indian Premier League",
       "id": 93,
       "links": [
+        {
+          "api": "cf8dc1675617f4e166c6caecd68fad93:6bd5dd50f57c78fc7386aa286e391d19",
+          "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/uxfgeomshq/out/v1/821a400ce1774390830544a8b83391ff/cenc.mpd",
+          "name": "WILLOW ENG - AQ",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://iplstream.noon.com/hls/live/2098770/NOON/9241/151829/master.m3u8|user-agent=Cricbuzz/7.00.01 (Linux;Android 13) AndroidXMedia3/1.5.1&X-Forwarded-For=1.178.20.23&cookie=hdntl=exp=1776679696~acl=%2f*~id=0f315406-f1c9-43f7-a925-01554eb0416f~data=hdntl~hmac=1640614048e473889bc238f24c637743843b589052be065453ebaf61b8838b93",
+          "name": "CRICBUZZ ENG - AQ",
+          "scheme": 0,
+          "tokenApi": ""
+        },
         {
           "api": "",
           "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https",
