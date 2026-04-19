@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-19T18:40:30.111226",
+  "last_updated": "2026-04-19T18:50:28.411176",
   "event_count": 13,
   "events": [
     {
@@ -314,6 +314,13 @@
       "links": [
         {
           "api": "",
+          "link": "https://livecdn-bp-dara-iptv.maypn.stream/live_abr/161357_hd/index.m3u8?is_vip=true&token=dara-jjgrwks5&x-sign=a57b7e677679dd23c137f07255811b2c&x-time=1776623820",
+          "name": "SPORT TV",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
           "link": "https://embedsports.top/embed/echo/sc-braga-vs-famalicao-football-1396499/1",
           "name": "Server 3",
           "scheme": 0,
@@ -376,6 +383,13 @@
       "links": [
         {
           "api": "",
+          "link": "https://live.vivo200.com/live/sd-1-4369054.m3u8?txSecret=a73dd007619cd2e5bc7c9efd6890f3b8&txTime=69E3DC82|Referer=https://player.787200.com/",
+          "name": "HD SERVER ",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
           "link": "https://embedsports.top/embed/echo/fc-porto-vs-tondela-football-1396501/1",
           "name": "Server 3",
           "scheme": 0,
@@ -427,8 +441,11 @@
       "id": 119,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3",
+          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd",
+          "name": "PREMIERER BR",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/1968/image",
@@ -448,8 +465,11 @@
       "id": 121,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "",
+          "link": "https://live.vivo200.com/live/sd-1-4351744.m3u8?txSecret=14962b6fc96130ab0116ed09fc5104de&txTime=69E3D1C8|Referer=https://player.787200.com/",
+          "name": "HD SERVER ",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/1982/image",
