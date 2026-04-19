@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-19T10:50:25.198199",
+  "last_updated": "2026-04-19T10:59:10.569397",
   "event_count": 29,
   "events": [
     {
@@ -413,6 +413,13 @@
       "eventName": "Championship",
       "id": 100,
       "links": [
+        {
+          "api": "",
+          "link": "https://cdn.damitv.pro/iptv-proxy/streamed/play?source=echo&id=ipswich-vs-middlesbrough-football-1387057/4&.m3u8",
+          "name": "HD SERVER ",
+          "scheme": 0,
+          "tokenApi": ""
+        },
         {
           "api": "",
           "link": "https://embedsports.top/embed/echo/ipswich-vs-middlesbrough-football-1387057/1",
