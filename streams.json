@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-19T08:50:24.535639",
+  "last_updated": "2026-04-19T09:00:53.112857",
   "event_count": 29,
   "events": [
     {
@@ -205,6 +205,13 @@
           "api": "",
           "link": "https://streams.center/embed/ch1.php",
           "name": "Server 1 - ENG",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://v3.sportssonline.click/channels/hd/hd5.php",
+          "name": "Server 2",
           "scheme": 0,
           "tokenApi": ""
         }
