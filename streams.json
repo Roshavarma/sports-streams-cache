@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-19T09:30:41.269188",
+  "last_updated": "2026-04-19T09:40:30.896889",
   "event_count": 29,
   "events": [
     {
@@ -181,6 +181,34 @@
           "api": "",
           "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https",
           "name": "SKY CRICKET HD",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "http://datahub11.com:80/live/Jen12345/Jen54321/703300.ts",
+          "name": "WILLOW HINDI [ADS FREE]",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "http://datahub11.com:80/live/Jen12345/Jen54321/705132.ts",
+          "name": "IPL English",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "http://starhub.pro/live/Jen12345/Jen54321/703299.ts",
+          "name": "STAR 4K",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "http://starshare.one:80/live/Anthony2/Anthony123/705131.ts",
+          "name": "HOTSTAR HINDI",
           "scheme": 0,
           "tokenApi": ""
         }
