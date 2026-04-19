@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-19T08:00:47.110014",
+  "last_updated": "2026-04-19T08:10:27.928570",
   "event_count": 29,
   "events": [
     {
@@ -202,8 +202,11 @@
       "id": 94,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "",
+          "link": "https://streams.center/embed/ch1.php",
+          "name": "Server 1 - ENG",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/48/image",
