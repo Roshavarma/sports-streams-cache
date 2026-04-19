@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-19T10:40:28.602606",
+  "last_updated": "2026-04-19T10:50:25.198199",
   "event_count": 29,
   "events": [
     {
@@ -424,6 +424,13 @@
           "api": "",
           "link": "https://embedsports.top/embed/echo/ipswich-vs-middlesbrough-football-1387057/3",
           "name": "Server 4",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://a.vzcecza.shop/hls/HIII.m3u8|Referer=http://www.fawanews.sc/",
+          "name": "SD SERVER ",
           "scheme": 0,
           "tokenApi": ""
         }
