@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-19T15:00:51.486403",
-  "event_count": 31,
+  "last_updated": "2026-04-19T15:10:27.982607",
+  "event_count": 26,
   "events": [
     {
       "category": "Boxing",
@@ -172,103 +172,6 @@
       "category": "Football",
       "date": "19/04/2026",
       "end_date": "19/04/2026",
-      "end_time": "15:20:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/17/image/dark",
-      "eventName": "Premier League",
-      "id": 94,
-      "links": [
-        {
-          "api": "",
-          "link": "https://eventcdn02-nowe.akamaized.net/hls/CH621/index.m3u8",
-          "name": "NOW SPORTS PL",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://xstm.250909.cc/live/SPORTSFLUX-PRD-75441-100/3015d8e2ea17/195.m3u8",
-          "name": "USA TV HD",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://live.vivo200.com/live/hd-en-1-4343384.m3u8?txSecret=5f9d918ccc2235c2d5bdedc1aa74ef55&txTime=69E50A52|Referer=https://player.787200.com/",
-          "name": "HD SERVER ",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://streams.center/embed/ch1.php",
-          "name": "Server 1 - ENG",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://v3.sportssonline.click/channels/hd/hd5.php",
-          "name": "Server 2",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://tiplink.fans/totalsporteks/tracker1/",
-          "name": "Server 3",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/48/image",
-      "teamAName": "Everton",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/44/image",
-      "teamBName": "Liverpool",
-      "time": "13:00:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "19/04/2026",
-      "end_date": "19/04/2026",
-      "end_time": "15:20:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/17/image/dark",
-      "eventName": "Premier League",
-      "id": 95,
-      "links": [
-        {
-          "api": "",
-          "link": "https://eventcdn02-nowe.akamaized.net/hls/CH623/index.m3u8",
-          "name": "NOW SPORTS PL",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://embedsports.top/embed/admin/ppv-nottingham-forest-vs-burnley/1",
-          "name": "Server 3",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://streams.center/embed/ch3.php",
-          "name": "Server 4",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/14/image",
-      "teamAName": "Nottingham Forest",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/6/image",
-      "teamBName": "Burnley",
-      "time": "13:00:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "19/04/2026",
-      "end_date": "19/04/2026",
       "end_time": "19:20:00",
       "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/238/image/dark",
       "eventName": "Liga Portugal Betclic",
@@ -284,44 +187,6 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/3006/image",
       "teamBName": "Benfica",
       "time": "17:00:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "19/04/2026",
-      "end_date": "19/04/2026",
-      "end_time": "15:20:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/34/image/dark",
-      "eventName": "Ligue 1",
-      "id": 97,
-      "links": [
-        {
-          "api": "",
-          "link": "https://embedsports.top/embed/admin/ppv-as-monaco-vs-aj-auxerre/1",
-          "name": "Server 3",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://embedsports.top/embed/admin/ppv-as-monaco-vs-aj-auxerre/3",
-          "name": "Server 4",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://streams.center/embed/ch7.php",
-          "name": "Server 5",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/1653/image",
-      "teamAName": "AS Monaco",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/1646/image",
-      "teamBName": "Auxerre",
-      "time": "13:00:00",
       "visible": true
     },
     {
@@ -364,51 +229,6 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/1649/image",
       "teamBName": "Olympique Lyonnais",
       "time": "18:45:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "19/04/2026",
-      "end_date": "19/04/2026",
-      "end_time": "15:20:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/23/image/dark",
-      "eventName": "Serie A",
-      "id": 101,
-      "links": [
-        {
-          "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
-          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
-          "name": "beIN ENGLISH FHD",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://embedsports.top/embed/admin/ppv-hellas-verona-vs-ac-milan/1",
-          "name": "Server 3",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://embedsports.top/embed/admin/ppv-hellas-verona-vs-ac-milan/3",
-          "name": "Server 4",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://streams.center/embed/ch9.php",
-          "name": "Server 5",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2701/image",
-      "teamAName": "Hellas Verona",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2692/image",
-      "teamBName": "Milan",
-      "time": "13:00:00",
       "visible": true
     },
     {
@@ -529,6 +349,13 @@
       "links": [
         {
           "api": "",
+          "link": "https://raw.githubusercontent.com/xmrt624/lpootv/refs/heads/main/ligue4.m3u8",
+          "name": "Ligue1+ HD",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
           "link": "https://embedsports.top/embed/admin/ppv-strasbourg-vs-stade-rennais/1",
           "name": "Server 3",
           "scheme": 0,
@@ -596,58 +423,6 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/2556/image",
       "teamBName": "1. FSV Mainz 05",
       "time": "17:30:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "19/04/2026",
-      "end_date": "19/04/2026",
-      "end_time": "15:20:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/17/image/dark",
-      "eventName": "Premier League",
-      "id": 108,
-      "links": [
-        {
-          "api": "",
-          "link": "https://eventcdn02-nowe.akamaized.net/hls/CH622/index.m3u8",
-          "name": "NOW SPORTS PL",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://live.vivo200.com/live/hd-en-1-4343374.m3u8?txSecret=a4d7b546449a6a660a553766ef0898f4&txTime=69E50A52|Referer=https://player.787200.com/",
-          "name": "HD SERVER ",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://streams.center/embed/ch2.php",
-          "name": "Server 3",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://embedsports.top/embed/admin/ppv-aston-villa-vs-sunderland/1",
-          "name": "Server 4",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://embedsports.top/embed/admin/ppv-aston-villa-vs-sunderland/3",
-          "name": "Server 5",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/40/image",
-      "teamAName": "Aston Villa",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/41/image",
-      "teamBName": "Sunderland",
-      "time": "13:00:00",
       "visible": true
     },
     {
@@ -734,6 +509,13 @@
       "links": [
         {
           "api": "",
+          "link": "https://raw.githubusercontent.com/xmrt624/lpootv/refs/heads/main/ligue5.m3u8",
+          "name": "Ligue1+ HD",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
           "link": "https://streams.center/embed/ch4.php",
           "name": "Server 3",
           "scheme": 0,
@@ -772,6 +554,13 @@
       "links": [
         {
           "api": "",
+          "link": "https://raw.githubusercontent.com/xmrt624/lpootv/refs/heads/main/ligue6.m3u8",
+          "name": "Ligue1+ HD",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
           "link": "https://embedsports.top/embed/admin/ppv-metz-vs-paris-fc/1",
           "name": "Server 3",
           "scheme": 0,
@@ -788,6 +577,13 @@
           "api": "",
           "link": "https://streams.center/embed/ch7.php",
           "name": "Server 5",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://raw.githubusercontent.com/xmrt624/lpootv/refs/heads/main/beinarabic4.m3u8",
+          "name": "beIN Arabic",
           "scheme": 0,
           "tokenApi": ""
         }
