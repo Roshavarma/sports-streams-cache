@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-19T17:10:28.940182",
-  "event_count": 21,
+  "last_updated": "2026-04-19T17:30:41.226897",
+  "event_count": 18,
   "events": [
     {
       "category": "Boxing",
@@ -290,51 +290,6 @@
       "category": "Football",
       "date": "19/04/2026",
       "end_date": "19/04/2026",
-      "end_time": "17:35:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/34/image/dark",
-      "eventName": "Ligue 1",
-      "id": 105,
-      "links": [
-        {
-          "api": "",
-          "link": "https://raw.githubusercontent.com/xmrt624/lpootv/refs/heads/main/ligue4.m3u8",
-          "name": "Ligue1+ HD",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://embedsports.top/embed/admin/ppv-strasbourg-vs-stade-rennais/1",
-          "name": "Server 3",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://embedsports.top/embed/admin/ppv-strasbourg-vs-stade-rennais/3",
-          "name": "Server 4",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://streams.center/embed/ch5.php",
-          "name": "Server 5",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/1659/image",
-      "teamAName": "RC Strasbourg",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/1658/image",
-      "teamBName": "Stade Rennais",
-      "time": "15:15:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "19/04/2026",
-      "end_date": "19/04/2026",
       "end_time": "21:50:00",
       "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/238/image/dark",
       "eventName": "Liga Portugal Betclic",
@@ -362,8 +317,18 @@
       "id": 107,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "",
+          "link": "https://raw.githubusercontent.com/xmrt624/lpootv/refs/heads/main/dazn1de.m3u8",
+          "name": "DAZN1 DE",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://z.zgetjykyt.shop/hls/JTTTQ.m3u8|Referer=http://www.fawanews.sc/",
+          "name": "SD STREAM ",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/2527/image",
@@ -444,103 +409,6 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/38396/image",
       "teamBName": "Tondela",
       "time": "19:30:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "19/04/2026",
-      "end_date": "19/04/2026",
-      "end_time": "17:35:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/34/image/dark",
-      "eventName": "Ligue 1",
-      "id": 111,
-      "links": [
-        {
-          "api": "",
-          "link": "https://raw.githubusercontent.com/xmrt624/lpootv/refs/heads/main/ligue5.m3u8",
-          "name": "Ligue1+ HD",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://streams.center/embed/ch4.php",
-          "name": "Server 3",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://embedsports.top/embed/admin/ppv-nantes-vs-brest/1",
-          "name": "Server 4",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://embedsports.top/embed/admin/ppv-nantes-vs-brest/3",
-          "name": "Server 5",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/1647/image",
-      "teamAName": "Nantes",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/1715/image",
-      "teamBName": "Stade Brestois",
-      "time": "15:15:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "19/04/2026",
-      "end_date": "19/04/2026",
-      "end_time": "17:35:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/34/image/dark",
-      "eventName": "Ligue 1",
-      "id": 112,
-      "links": [
-        {
-          "api": "",
-          "link": "https://raw.githubusercontent.com/xmrt624/lpootv/refs/heads/main/ligue6.m3u8",
-          "name": "Ligue1+ HD",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://embedsports.top/embed/admin/ppv-metz-vs-paris-fc/1",
-          "name": "Server 3",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://embedsports.top/embed/admin/ppv-metz-vs-paris-fc/3",
-          "name": "Server 4",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://streams.center/embed/ch7.php",
-          "name": "Server 5",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://raw.githubusercontent.com/xmrt624/lpootv/refs/heads/main/beinarabic4.m3u8",
-          "name": "beIN Arabic",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/1651/image",
-      "teamAName": "Metz",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/6070/image",
-      "teamBName": "Paris FC",
-      "time": "15:15:00",
       "visible": true
     },
     {
