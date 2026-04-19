@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-19T14:30:39.645605",
+  "last_updated": "2026-04-19T14:40:28.078040",
   "event_count": 31,
   "events": [
     {
@@ -497,8 +497,18 @@
       "id": 104,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "",
+          "link": "https://livecdn-bp-dara-iptv.maypn.stream/live_abr/161358_hd/index.m3u8?is_vip=true&token=dara-26s1504m&x-sign=234600ce1b20d882e64ee6160d99a4ae&x-time=1776607800",
+          "name": "SPORT TV",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://live.vivo200.com/live/sd-1-4369048.m3u8?txSecret=bcb9619292edc91dcc448c473275dea7&txTime=69E52B32|Referer=https://player.787200.com/",
+          "name": "HD SERVER ",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/25777/image",
@@ -838,21 +848,14 @@
         },
         {
           "api": "",
-          "link": "https://lb-nl-50gbs.zenostreams-cdn-001.com/secure/api/v1/fox-sports-501.m3u8?md5=04a41af7f32cd165bd5b962083cc92c1&exp=1776612372|User-Agent=Mozilla/5.0 (Linux; Android 13; SM-T837A) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36&Referer=https://www.foulembeds.live/&Origin=https://www.foulembeds.live",
+          "link": "https://lchd-314.zenostreams-cdn-001.com/fox501.m3u8",
           "name": "FOX 50FPS - AQ",
           "scheme": 0,
           "tokenApi": ""
         },
         {
           "api": "",
-          "link": "https://lb-nl-50gbs.zenostreams-cdn-001.com/secure/api/v1/sky-sport-1-nz.m3u8?md5=fe70228544e438edadb89e4079b5f7d4&exp=1776608275|Referer=https://www.foulembeds.live/&Origin=https://www.foulembeds.live",
-          "name": "SKY SP NZ - FHD",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://qmaalhy7acgxwhm.ngolpdkyoctjcddxshli469r.org/sunshine/gwS4sjlblgrgSwB96w1fs6H3QnYv9oauYkZqDk53uRSzruvIO7DYzivB9jnfTKA6AXbkaty7FjdJWiVSd770ygQBtZ89yB-SjUrvLiqsX_-z27V7PjmDiNzkb2I5uHPOPZbsPQweU2PgSdzjKoG7nf6Yo132BtDNgz380uBJf1oIbvFWq-ZwCeTiDYTjBHd9xQHPr24TkuUws1eEhiTwBXZTHE0fRMOl-R_9xmjPXgwD6nQw2siD-Yyth6MYdeW9/hls/index.m3u8",
+          "link": "https://iplstream.noon.com/hls/live/2098770/NOON/9241/151840/master.m3u8?|user-agent=Cricbuzz/7.00.01 (Linux;Android 13) AndroidXMedia3/1.5.1&X-Forwarded-For=1.178.20.23&cookie=hdntl=exp=1776679696~acl=%2f*~id=0f315406-f1c9-43f7-a925-01554eb0416f~data=hdntl~hmac=1640614048e473889bc238f24c637743843b589052be065453ebaf61b8838b93",
           "name": "CRICBUZZ ",
           "scheme": 0,
           "tokenApi": ""
