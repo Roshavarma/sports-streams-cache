@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-19T15:23:13.723746",
+  "last_updated": "2026-04-19T15:30:43.052634",
   "event_count": 26,
   "events": [
     {
@@ -278,6 +278,20 @@
       "eventName": "Serie A",
       "id": 103,
       "links": [
+        {
+          "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+          "link": "https://a166aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
+          "name": "BeIN ENG AQ",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://raw.githubusercontent.com/xmrt624/lpootv/refs/heads/main/daznitzone.m3u8",
+          "name": "DAZN IT HD",
+          "scheme": 0,
+          "tokenApi": ""
+        },
         {
           "api": "",
           "link": "https://embedsports.top/embed/admin/ppv-pisa-vs-genoa/1",
