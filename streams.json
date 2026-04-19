@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-19T13:00:58.704088",
+  "last_updated": "2026-04-19T13:10:27.717478",
   "event_count": 35,
   "events": [
     {
@@ -298,6 +298,13 @@
           "name": "Server 2",
           "scheme": 0,
           "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://tiplink.fans/totalsporteks/tracker1/",
+          "name": "Server 3",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/48/image",
@@ -318,36 +325,8 @@
       "links": [
         {
           "api": "",
-          "link": "https://eventcdn02-nowe.akamaized.net/hls/CH621/index.m3u8",
+          "link": "https://eventcdn02-nowe.akamaized.net/hls/CH623/index.m3u8",
           "name": "NOW SPORTS PL",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "96b67fa09140329a89b7a1ead134eda3:c618d32c56cdc6cad8330eb98507ca3f",
-          "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-east)/master.mpd",
-          "name": "NBC UNIVERSO",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://oshanrd4.s3.us-east-1.amazonaws.com/espn.m3u8",
-          "name": "NBC SPORTS - AQ",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://customer-fpmmd9cdewmb1wz2.cloudflarestream.com/f6f236cb01bdb58bbb446d70f9b9c759/manifest/video.m3u8",
-          "name": "SKY MAIN EVENT",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://soccer.250909.cc/event/780/index.m3u8",
-          "name": "PEACOCK TV HD",
           "scheme": 0,
           "tokenApi": ""
         },
@@ -529,16 +508,9 @@
       "id": 101,
       "links": [
         {
-          "api": "065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2",
-          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
-          "name": "FANCODE FHD",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://smarthard.click/hls/sabrouchespndeportes/index.m3u8|Referer=https://hardsmart.click/",
-          "name": "ESPN DEPORTES",
+          "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
+          "name": "beIN ENGLISH FHD",
           "scheme": 0,
           "tokenApi": ""
         },
