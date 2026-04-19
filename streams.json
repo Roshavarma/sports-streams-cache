@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-19T13:10:27.717478",
-  "event_count": 35,
+  "last_updated": "2026-04-19T13:20:28.263481",
+  "event_count": 33,
   "events": [
     {
       "category": "Boxing",
@@ -457,51 +457,6 @@
       "category": "Football",
       "date": "19/04/2026",
       "end_date": "19/04/2026",
-      "end_time": "13:20:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark",
-      "eventName": "Championship",
-      "id": 100,
-      "links": [
-        {
-          "api": "",
-          "link": "https://cdn.damitv.pro/iptv-proxy/streamed/play?source=echo&id=ipswich-vs-middlesbrough-football-1387057/4&.m3u8",
-          "name": "HD SERVER ",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://embedsports.top/embed/echo/ipswich-vs-middlesbrough-football-1387057/1",
-          "name": "Server 3",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://embedsports.top/embed/echo/ipswich-vs-middlesbrough-football-1387057/3",
-          "name": "Server 4",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://a.vzcecza.shop/hls/HIII.m3u8|Referer=http://www.fawanews.sc/",
-          "name": "SD SERVER ",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/32/image",
-      "teamAName": "Ipswich Town",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/36/image",
-      "teamBName": "Middlesbrough",
-      "time": "11:00:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "19/04/2026",
-      "end_date": "19/04/2026",
       "end_time": "15:20:00",
       "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/23/image/dark",
       "eventName": "Serie A",
@@ -553,9 +508,9 @@
       "id": 102,
       "links": [
         {
-          "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
-          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
-          "name": "beIN ENGLISH FHD",
+          "api": "",
+          "link": "https://raw.githubusercontent.com/xmrt624/lpootv/refs/heads/main/dazn1de.m3u8",
+          "name": "DAZN1 DE",
           "scheme": 0,
           "tokenApi": ""
         },
@@ -946,72 +901,6 @@
       "visible": true
     },
     {
-      "category": "Football",
-      "date": "19/04/2026",
-      "end_date": "19/04/2026",
-      "end_time": "12:50:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/23/image/dark",
-      "eventName": "Serie A",
-      "id": 114,
-      "links": [
-        {
-          "api": "dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f",
-          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd",
-          "name": "FUBO SPORTS AQ",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
-          "link": "https://a166aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
-          "name": "beIN ENG AQ",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811",
-          "link": "https://a166aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
-          "name": "Fox Deportes AQ",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://z.zgetjykyt.shop/hls/FNNNQQQQ.m3u8|referer=http://www.fawanews.sc/",
-          "name": "HD Stream ",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://embedsports.top/embed/admin/ppv-cremonese-vs-torino/1",
-          "name": "Server 3 - ENG",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://embedsports.top/embed/admin/ppv-cremonese-vs-torino/3",
-          "name": "Server 4 - ENG (SD)",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://streams.center/embed/ch9.php",
-          "name": "Server 5 - IT",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2761/image",
-      "teamAName": "Cremonese",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2696/image",
-      "teamBName": "Torino",
-      "time": "10:30:00",
-      "visible": true
-    },
-    {
       "category": "Cricket",
       "date": "19/04/2026",
       "end_date": "",
@@ -1122,8 +1011,25 @@
       "id": 117,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
+          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+          "name": "WILLOW SPORTS",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://codeberg.org/royjaalexa/bn/raw/branch/main/%F0%9F%96%95.m3u8",
+          "name": "TAPMAD - AQ (ADS FREE)",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://psl.bigbaat.app/out/v1/f342445c31dd475bbf30c7304dbad14f/index.m3u8",
+          "name": "PSL Tv ENG - PK",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/212420/image",
