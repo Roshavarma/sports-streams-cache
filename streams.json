@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-19T12:10:26.110759",
-  "event_count": 29,
+  "last_updated": "2026-04-19T12:20:32.332909",
+  "event_count": 35,
   "events": [
     {
       "category": "Boxing",
@@ -171,8 +171,8 @@
     {
       "category": "Cricket",
       "date": "19/04/2026",
-      "end_date": "",
-      "end_time": "",
+      "end_date": "19/04/2026",
+      "end_time": "14:00:00",
       "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark",
       "eventName": "Indian Premier League",
       "id": 93,
@@ -266,6 +266,27 @@
       "links": [
         {
           "api": "",
+          "link": "https://eventcdn02-nowe.akamaized.net/hls/CH621/index.m3u8",
+          "name": "NOW SPORTS PL",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://xstm.250909.cc/live/SPORTSFLUX-PRD-75441-100/3015d8e2ea17/195.m3u8",
+          "name": "USA TV HD",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://live.vivo200.com/live/hd-en-1-4343384.m3u8?txSecret=5f9d918ccc2235c2d5bdedc1aa74ef55&txTime=69E50A52|Referer=https://player.787200.com/",
+          "name": "HD SERVER ",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
           "link": "https://streams.center/embed/ch1.php",
           "name": "Server 1 - ENG",
           "scheme": 0,
@@ -295,6 +316,41 @@
       "eventName": "Premier League",
       "id": 95,
       "links": [
+        {
+          "api": "",
+          "link": "https://eventcdn02-nowe.akamaized.net/hls/CH621/index.m3u8",
+          "name": "NOW SPORTS PL",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "96b67fa09140329a89b7a1ead134eda3:c618d32c56cdc6cad8330eb98507ca3f",
+          "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-east)/master.mpd",
+          "name": "NBC UNIVERSO",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://oshanrd4.s3.us-east-1.amazonaws.com/espn.m3u8",
+          "name": "NBC SPORTS - AQ",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://customer-fpmmd9cdewmb1wz2.cloudflarestream.com/f6f236cb01bdb58bbb446d70f9b9c759/manifest/video.m3u8",
+          "name": "SKY MAIN EVENT",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://soccer.250909.cc/event/780/index.m3u8",
+          "name": "PEACOCK TV HD",
+          "scheme": 0,
+          "tokenApi": ""
+        },
         {
           "api": "",
           "link": "https://embedsports.top/embed/admin/ppv-nottingham-forest-vs-burnley/1",
@@ -473,6 +529,20 @@
       "id": 101,
       "links": [
         {
+          "api": "065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2",
+          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
+          "name": "FANCODE FHD",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://smarthard.click/hls/sabrouchespndeportes/index.m3u8|Referer=https://hardsmart.click/",
+          "name": "ESPN DEPORTES",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
           "api": "",
           "link": "https://embedsports.top/embed/admin/ppv-hellas-verona-vs-ac-milan/1",
           "name": "Server 3",
@@ -510,6 +580,13 @@
       "eventName": "Bundesliga",
       "id": 102,
       "links": [
+        {
+          "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
+          "name": "beIN ENGLISH FHD",
+          "scheme": 0,
+          "tokenApi": ""
+        },
         {
           "api": "",
           "link": "https://embedsports.top/embed/admin/ppv-sc-freiburg-vs-1-fc-heidenheim-1846/1",
@@ -646,6 +723,20 @@
       "eventName": "Premier League",
       "id": 108,
       "links": [
+        {
+          "api": "",
+          "link": "https://eventcdn02-nowe.akamaized.net/hls/CH622/index.m3u8",
+          "name": "NOW SPORTS PL",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://live.vivo200.com/live/hd-en-1-4343374.m3u8?txSecret=a4d7b546449a6a660a553766ef0898f4&txTime=69E50A52|Referer=https://player.787200.com/",
+          "name": "HD SERVER ",
+          "scheme": 0,
+          "tokenApi": ""
+        },
         {
           "api": "",
           "link": "https://streams.center/embed/ch2.php",
@@ -870,8 +961,8 @@
     {
       "category": "Cricket",
       "date": "19/04/2026",
-      "end_date": "",
-      "end_time": "",
+      "end_date": "19/04/2026",
+      "end_time": "13:40:00",
       "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11170/image/dark",
       "eventName": "Pakistan Super League",
       "id": 116,
@@ -965,6 +1056,132 @@
       "teamAName": "Peshawar Zalmi",
       "teamBFlag": "https://img.sofascore.com/api/v1/team/212417/image",
       "teamBName": "Quetta Gladiators",
+      "time": "14:00:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "19/04/2026",
+      "end_date": "19/04/2026",
+      "end_time": "21:20:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/668/image/dark",
+      "eventName": "AFC Champions League Two",
+      "id": 118,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/44443/image",
+      "teamAName": "Al-Ahli Doha",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/117204/image",
+      "teamBName": "Al-Hussein Irbid",
+      "time": "19:00:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "19/04/2026",
+      "end_date": "19/04/2026",
+      "end_time": "21:20:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/325/image/dark",
+      "eventName": "Brasileirão Betano",
+      "id": 119,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/1968/image",
+      "teamAName": "Santos",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/1961/image",
+      "teamBName": "Fluminense",
+      "time": "19:00:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "19/04/2026",
+      "end_date": "19/04/2026",
+      "end_time": "16:20:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/668/image/dark",
+      "eventName": "AFC Champions League Two",
+      "id": 120,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/47674/image",
+      "teamAName": "Al Wasl",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/23400/image",
+      "teamBName": "Al-Nassr",
+      "time": "14:00:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "19/04/2026",
+      "end_date": "19/04/2026",
+      "end_time": "21:20:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/325/image/dark",
+      "eventName": "Brasileirão Betano",
+      "id": 121,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/1982/image",
+      "teamAName": "Coritiba",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/1977/image",
+      "teamBName": "Atlético Mineiro",
+      "time": "19:00:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "19/04/2026",
+      "end_date": "19/04/2026",
+      "end_time": "16:20:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/52/image/dark",
+      "eventName": "Trendyol Süper Lig",
+      "id": 122,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3053/image",
+      "teamAName": "Samsunspor",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3050/image",
+      "teamBName": "Beşiktaş JK",
+      "time": "14:00:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "19/04/2026",
+      "end_date": "19/04/2026",
+      "end_time": "16:20:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/325/image/dark",
+      "eventName": "Brasileirão Betano",
+      "id": 123,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/1966/image",
+      "teamAName": "Internacional",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/21982/image",
+      "teamBName": "Mirassol",
       "time": "14:00:00",
       "visible": true
     }
