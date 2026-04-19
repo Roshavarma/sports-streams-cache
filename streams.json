@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-19T16:40:29.515156",
+  "last_updated": "2026-04-19T16:50:26.133046",
   "event_count": 21,
   "events": [
     {
@@ -598,8 +598,8 @@
     {
       "category": "Cricket",
       "date": "19/04/2026",
-      "end_date": "",
-      "end_time": "",
+      "end_date": "19/04/2026",
+      "end_time": "18:00:00",
       "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark",
       "eventName": "Indian Premier League",
       "id": 115,
@@ -620,7 +620,7 @@
         },
         {
           "api": "",
-          "link": "https://lchd-314.zenostreams-cdn-001.com/fox501.m3u8",
+          "link": "https://www.foulembeds.live/embed/fox-sports-501",
           "name": "FOX 50FPS - AQ",
           "scheme": 0,
           "tokenApi": ""
@@ -664,8 +664,8 @@
     {
       "category": "Cricket",
       "date": "19/04/2026",
-      "end_date": "",
-      "end_time": "",
+      "end_date": "19/04/2026",
+      "end_time": "18:10:00",
       "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11170/image/dark",
       "eventName": "Pakistan Super League",
       "id": 117,
