@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-20T18:20:30.676669",
-  "event_count": 8,
+  "last_updated": "2026-04-20T18:30:46.101686",
+  "event_count": 6,
   "events": [
     {
       "category": "Boxing",
@@ -178,8 +178,39 @@
       "id": 57,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
+          "name": "beIN ENGLISH FHD",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://soccer.250909.cc/event/1019/index.m3u8",
+          "name": "PARAMOUNT+ HD",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://mainstreams.pro/hls/syaLqucEne4k.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+          "name": "DAZN IT HD",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://chatgpt.hereisman.net/playlist/49242/load-playlist?|Referer=https://gooz.aapmains.net",
+          "name": "HD SERVER",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://rr4---sn-8pxuuxa-on.googlecdncloudsg.com/live_event_bbc_alba/index.m3u8|Referer=https://kilatlive.net/",
+          "name": "BBC SPORTS HD",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/2689/image",
@@ -208,117 +239,6 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/37/image",
       "teamBName": "West Ham United",
       "time": "19:00:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "20/04/2026",
-      "end_date": "20/04/2026",
-      "end_time": "18:35:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/463/image/dark",
-      "eventName": "AFC Champions League Elite",
-      "id": 59,
-      "links": [
-        {
-          "api": "",
-          "link": "https://raw.githubusercontent.com/xmrt624/lpootv/refs/heads/main/beinarabic1.m3u8",
-          "name": "beIN Arabic",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://raw.githubusercontent.com/xmrt624/lpootv/refs/heads/main/espn2nl.m3u8",
-          "name": "ESPN2 NL",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3146/image",
-      "teamAName": "Vissel Kobe",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/34469/image",
-      "teamBName": "Al-Ahli",
-      "time": "16:15:00",
-      "visible": true
-    },
-    {
-      "category": "Cricket",
-      "date": "20/04/2026",
-      "end_date": "20/04/2026",
-      "end_time": "18:15:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark",
-      "eventName": "Indian Premier League",
-      "id": 60,
-      "links": [
-        {
-          "api": "b423817670d6a5c883baca247286a26b:385964b47c3e00da4c322184a4ef10b8",
-          "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/x9qixsryxv/out/v1/130bd90dfebd445397a9f63d9610f789/cenc.mpd",
-          "name": "WILLOW ENG - AQ",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "http://datahub11.com:80/live/Jen12345/Jen54321/703300.ts",
-          "name": "WILLOW HINDI [ADS FREE]",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https",
-          "name": "SKY SP CRICKET - AQ",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://raw.githubusercontent.com/xmrt624/lpootv/refs/heads/main/willowhindi.m3u8",
-          "name": "Willow HIN",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://lb-nl-50gbs.zenostreams-cdn-001.com/secure/api/v1/sky-sport-1-nz.m3u8?md5=9f7e23ba58eb9b8d6f8315978d9a2607&exp=1776698795|User-Agent=Mozilla/5.0 (Linux; Android 13; SM-T837A) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36&Referer=https://www.foulembeds.live/&Origin=https://www.foulembeds.live",
-          "name": "SKY SP NZ - FHD",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "http://datahub11.com:80/live/Jen12345/Jen54321/705132.ts",
-          "name": "IPL English",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "http://starhub.pro/live/Jen12345/Jen54321/703299.ts",
-          "name": "STAR 4K",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "http://starshare.one:80/live/Anthony2/Anthony123/705131.ts",
-          "name": "HOTSTAR HINDI",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "http://195.178.110.69/hls/JFFFq.m3u8|Referer=http://www.fawanews.sc/",
-          "name": "SD SERVER ",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/216006/image",
-      "teamAName": "Gujarat Titans",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/187780/image",
-      "teamBName": "Mumbai Indians",
-      "time": "14:00:00",
       "visible": true
     }
   ]
