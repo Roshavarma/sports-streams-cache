@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-20T13:30:47.929361",
+  "last_updated": "2026-04-20T13:50:31.009032",
   "event_count": 8,
   "events": [
     {
@@ -242,6 +242,13 @@
       "links": [
         {
           "api": "",
+          "link": "http://datahub11.com:80/live/Jen12345/Jen54321/703300.ts",
+          "name": "WILLOW HINDI [ADS FREE]",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
           "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https",
           "name": "SKY SP CRICKET - AQ",
           "scheme": 0,
@@ -251,6 +258,41 @@
           "api": "",
           "link": "https://raw.githubusercontent.com/xmrt624/lpootv/refs/heads/main/willowhindi.m3u8",
           "name": "Willow HIN",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://lb-nl-50gbs.zenostreams-cdn-001.com/secure/api/v1/sky-sport-1-nz.m3u8?md5=9f7e23ba58eb9b8d6f8315978d9a2607&exp=1776698795|User-Agent=Mozilla/5.0 (Linux; Android 13; SM-T837A) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36&Referer=https://www.foulembeds.live/&Origin=https://www.foulembeds.live",
+          "name": "SKY SP NZ - FHD",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "http://datahub11.com:80/live/Jen12345/Jen54321/705132.ts",
+          "name": "IPL English",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "http://starhub.pro/live/Jen12345/Jen54321/703299.ts",
+          "name": "STAR 4K",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "http://starshare.one:80/live/Anthony2/Anthony123/705131.ts",
+          "name": "HOTSTAR HINDI",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "http://195.178.110.69/hls/JFFFq.m3u8|Referer=http://www.fawanews.sc/",
+          "name": "SD SERVER ",
           "scheme": 0,
           "tokenApi": ""
         }
