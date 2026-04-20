@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-20T12:40:28.130919",
-  "event_count": 10,
+  "last_updated": "2026-04-20T13:00:58.263857",
+  "event_count": 9,
   "events": [
     {
       "category": "Boxing",
@@ -293,8 +293,11 @@
       "id": 60,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "",
+          "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https",
+          "name": "SKY SP CRICKET - AQ",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/216006/image",
@@ -302,27 +305,6 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/187780/image",
       "teamBName": "Mumbai Indians",
       "time": "14:00:00",
-      "visible": true
-    },
-    {
-      "category": "Cricket",
-      "date": "20/04/2026",
-      "end_date": "",
-      "end_time": "",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark",
-      "eventName": "T20 International",
-      "id": 61,
-      "links": [
-        {
-          "link": "https://no.link",
-          "name": "Link 1"
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/187772/image",
-      "teamAName": "Nepal",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/187771/image",
-      "teamBName": "United Arab Emirates",
-      "time": "11:15:00",
       "visible": true
     }
   ]
