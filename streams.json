@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-20T07:30:41.822730",
-  "event_count": 5,
+  "last_updated": "2026-04-20T07:40:33.177433",
+  "event_count": 9,
   "events": [
     {
       "category": "Boxing",
@@ -171,8 +171,8 @@
     {
       "category": "Cricket",
       "date": "20/04/2026",
-      "end_date": "",
-      "end_time": "",
+      "end_date": "20/04/2026",
+      "end_time": "13:15:00",
       "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark",
       "eventName": "One Day International",
       "id": 56,
@@ -204,6 +204,90 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/187755/image",
       "teamBName": "New Zealand",
       "time": "05:00:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "20/04/2026",
+      "end_date": "20/04/2026",
+      "end_time": "21:05:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/23/image/dark",
+      "eventName": "Serie A",
+      "id": 57,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2689/image",
+      "teamAName": "Lecce",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2693/image",
+      "teamBName": "Fiorentina",
+      "time": "18:45:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "20/04/2026",
+      "end_date": "20/04/2026",
+      "end_time": "21:20:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/17/image/dark",
+      "eventName": "Premier League",
+      "id": 58,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/7/image",
+      "teamAName": "Crystal Palace",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/37/image",
+      "teamBName": "West Ham United",
+      "time": "19:00:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "20/04/2026",
+      "end_date": "20/04/2026",
+      "end_time": "18:35:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/463/image/dark",
+      "eventName": "AFC Champions League Elite",
+      "id": 59,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3146/image",
+      "teamAName": "Vissel Kobe",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/34469/image",
+      "teamBName": "Al-Ahli",
+      "time": "16:15:00",
+      "visible": true
+    },
+    {
+      "category": "Cricket",
+      "date": "20/04/2026",
+      "end_date": "",
+      "end_time": "",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark",
+      "eventName": "Indian Premier League",
+      "id": 60,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/216006/image",
+      "teamAName": "Gujarat Titans",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/187780/image",
+      "teamBName": "Mumbai Indians",
+      "time": "14:00:00",
       "visible": true
     }
   ]
