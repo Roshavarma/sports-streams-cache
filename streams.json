@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-20T13:20:29.800056",
-  "event_count": 9,
+  "last_updated": "2026-04-20T13:30:47.929361",
+  "event_count": 8,
   "events": [
     {
       "category": "Boxing",
@@ -169,58 +169,6 @@
       "visible": true
     },
     {
-      "category": "Cricket",
-      "date": "20/04/2026",
-      "end_date": "20/04/2026",
-      "end_time": "13:15:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark",
-      "eventName": "One Day International",
-      "id": 56,
-      "links": [
-        {
-          "api": "f288380ca4cef9ad3f27a92a08e9bb8b:9f18d26291d9230833501f7f822f6875",
-          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd",
-          "name": "TNT SPORTS FHD",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2",
-          "link": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
-          "name": "FANCODE FHD",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "http://sm-monirul.top/AyNa/play.php?id=fc95d30e-5323-4c12-bb38-7a1e3f04acc2&e=.m3u8",
-          "name": "T SPORTS - HD",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "http://75be7132.rostelekom.xyz/iptv/R3A7B6MZZFDCUL/19146/index.m3u8",
-          "name": "FOX SPORTS - FHD",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://xstm.250909.cc/live/SPORTSFLUX-PRD-75441-100/3015d8e2ea17/1644.m3u8",
-          "name": "SD STREAM",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/187744/image",
-      "teamAName": "Bangladesh",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/187755/image",
-      "teamBName": "New Zealand",
-      "time": "05:00:00",
-      "visible": true
-    },
-    {
       "category": "Football",
       "date": "20/04/2026",
       "end_date": "20/04/2026",
@@ -296,6 +244,13 @@
           "api": "",
           "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https",
           "name": "SKY SP CRICKET - AQ",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://raw.githubusercontent.com/xmrt624/lpootv/refs/heads/main/willowhindi.m3u8",
+          "name": "Willow HIN",
           "scheme": 0,
           "tokenApi": ""
         }
