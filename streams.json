@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-21T06:10:26.604955",
-  "event_count": 6,
+  "last_updated": "2026-04-21T06:20:25.555932",
+  "event_count": 13,
   "events": [
     {
       "category": "Boxing",
@@ -101,8 +101,8 @@
     },
     {
       "category": "Boxing",
-      "date": "21/04/2026",
-      "end_date": "21/04/2026",
+      "date": "28/04/2026",
+      "end_date": "28/04/2026",
       "end_time": "05:00:00",
       "eventLogo": "https://images2.minutemediacdn.com/image/upload/c_crop,w_1920,h_1080,x_0,y_0/c_fill,w_1080,ar_16:9,f_auto,q_auto,g_auto/images%2FvoltaxMediaLibrary%2Fmmsport%2Fwrestling_on_fannation%2F01j7cr769n5sz41833rh.jpg",
       "eventName": " WWE Monday Night RAW",
@@ -170,85 +170,191 @@
     },
     {
       "category": "Football",
-      "date": "20/04/2026",
-      "end_date": "20/04/2026",
-      "end_time": "21:05:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/23/image/dark",
-      "eventName": "Serie A",
-      "id": 57,
+      "date": "21/04/2026",
+      "end_date": "21/04/2026",
+      "end_time": "21:20:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/17/image/dark",
+      "eventName": "Premier League",
+      "id": 56,
       "links": [
         {
-          "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
-          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
-          "name": "beIN ENGLISH FHD",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://soccer.250909.cc/event/1019/index.m3u8",
-          "name": "PARAMOUNT+ HD",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://mainstreams.pro/hls/syaLqucEne4k.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-          "name": "DAZN IT HD",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://chatgpt.hereisman.net/playlist/49242/load-playlist?|Referer=https://gooz.aapmains.net",
-          "name": "HD SERVER",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://rr4---sn-8pxuuxa-on.googlecdncloudsg.com/live_event_bbc_alba/index.m3u8|Referer=https://kilatlive.net/",
-          "name": "BBC SPORTS HD",
-          "scheme": 0,
-          "tokenApi": ""
+          "link": "https://no.link",
+          "name": "Link 1"
         }
       ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2689/image",
-      "teamAName": "Lecce",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2693/image",
-      "teamBName": "Fiorentina",
-      "time": "18:45:00",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/30/image",
+      "teamAName": "Brighton & Hove Albion",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/38/image",
+      "teamBName": "Chelsea",
+      "time": "19:00:00",
       "visible": true
     },
     {
       "category": "Football",
-      "date": "20/04/2026",
-      "end_date": "20/04/2026",
-      "end_time": "21:20:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/17/image/dark",
-      "eventName": "Premier League",
+      "date": "21/04/2026",
+      "end_date": "21/04/2026",
+      "end_time": "19:20:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/8/image/dark",
+      "eventName": "LaLiga",
+      "id": 57,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2826/image",
+      "teamAName": "Mallorca",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2828/image",
+      "teamBName": "Valencia",
+      "time": "17:00:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "21/04/2026",
+      "end_date": "21/04/2026",
+      "end_time": "19:20:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/8/image/dark",
+      "eventName": "LaLiga",
       "id": 58,
       "links": [
         {
-          "api": "dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f",
-          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd",
-          "name": "FUBO SPORTS",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://eventcdn02-nowe.akamaized.net/hls/CH621/index.m3u8",
-          "name": "NOW SPORTS PL",
-          "scheme": 0,
-          "tokenApi": ""
+          "link": "https://no.link",
+          "name": "Link 1"
         }
       ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/7/image",
-      "teamAName": "Crystal Palace",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/37/image",
-      "teamBName": "West Ham United",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2825/image",
+      "teamAName": "Athletic Club",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2820/image",
+      "teamBName": "Osasuna",
+      "time": "17:00:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "21/04/2026",
+      "end_date": "21/04/2026",
+      "end_time": "21:20:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/328/image/dark",
+      "eventName": "Coppa Italia",
+      "id": 59,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2697/image",
+      "teamAName": "Inter",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2704/image",
+      "teamBName": "Como",
       "time": "19:00:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "21/04/2026",
+      "end_date": "21/04/2026",
+      "end_time": "21:50:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/8/image/dark",
+      "eventName": "LaLiga",
+      "id": 60,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/24264/image",
+      "teamAName": "Girona FC",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2816/image",
+      "teamBName": "Real Betis",
+      "time": "19:30:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "21/04/2026",
+      "end_date": "21/04/2026",
+      "end_time": "21:50:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/8/image/dark",
+      "eventName": "LaLiga",
+      "id": 61,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2829/image",
+      "teamAName": "Real Madrid",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2885/image",
+      "teamBName": "Deportivo Alavés",
+      "time": "19:30:00",
+      "visible": true
+    },
+    {
+      "category": "Cricket",
+      "date": "21/04/2026",
+      "end_date": "",
+      "end_time": "",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark",
+      "eventName": "Indian Premier League",
+      "id": 62,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/187844/image",
+      "teamAName": "Sunrisers Hyderabad",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/187841/image",
+      "teamBName": "Delhi Capitals",
+      "time": "14:00:00",
+      "visible": true
+    },
+    {
+      "category": "Cricket",
+      "date": "21/04/2026",
+      "end_date": "",
+      "end_time": "",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11170/image/dark",
+      "eventName": "Pakistan Super League",
+      "id": 63,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/212419/image",
+      "teamAName": "Lahore Qalandars",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/212417/image",
+      "teamBName": "Quetta Gladiators",
+      "time": "09:30:00",
+      "visible": true
+    },
+    {
+      "category": "Cricket",
+      "date": "21/04/2026",
+      "end_date": "",
+      "end_time": "",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11170/image/dark",
+      "eventName": "Pakistan Super League",
+      "id": 64,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/1178236/image",
+      "teamAName": "Rawalpindiz",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/273650/image",
+      "teamBName": "Multan Sultans",
+      "time": "14:00:00",
       "visible": true
     }
   ]
