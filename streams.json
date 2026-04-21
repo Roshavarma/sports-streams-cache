@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-21T13:30:47.054335",
-  "event_count": 14,
+  "last_updated": "2026-04-21T13:40:27.302549",
+  "event_count": 12,
   "events": [
     {
       "category": "Boxing",
@@ -304,8 +304,53 @@
       "id": 62,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "",
+          "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https",
+          "name": "SKY SP CRICKET - AQ",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://lb-nl-50gbs.zenostreams-cdn-001.com/secure/api/v1/star-sport-1-hindi.m3u8?md5=3aab3509906584070ce90a2d7a793b59&exp=1776708608|Referer=https://www.foulembeds.live/&Origin=https://www.foulembeds.live",
+          "name": "SS1 HINDI - FHD",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "http://datahub11.com:80/live/Jen12345/Jen54321/703300.ts",
+          "name": "WILLOW HINDI [ADS FREE]",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "http://195.178.110.69/hls/gzzz.m3u8|Referer=http://www.fawanews.sc/",
+          "name": "SD SERVER",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "http://datahub11.com:80/live/Jen12345/Jen54321/705132.ts",
+          "name": "IPL English",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "http://starhub.pro/live/Jen12345/Jen54321/703299.ts",
+          "name": "STAR 4K",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "http://starshare.one:80/live/Anthony2/Anthony123/705131.ts",
+          "name": "HOTSTAR HINDI",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/187844/image",
@@ -313,51 +358,6 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/187841/image",
       "teamBName": "Delhi Capitals",
       "time": "14:00:00",
-      "visible": true
-    },
-    {
-      "category": "Cricket",
-      "date": "21/04/2026",
-      "end_date": "",
-      "end_time": "",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11170/image/dark",
-      "eventName": "Pakistan Super League",
-      "id": 63,
-      "links": [
-        {
-          "api": "",
-          "link": "https://psl.bigbaat.app/out/v1/f342445c31dd475bbf30c7304dbad14f/index.m3u8",
-          "name": "PSL Tv ENG",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://psl.bigbaat.app/out/v1/0ef369b90c7b4025b76621e46ee5fb70/index.m3u8?st=playztv",
-          "name": "PSL Tv URDU",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://tencentcdn4.tamashaweb.com/v1/0196159d28a51ea5064913eb2a83e7/0196159e84f81ea506ec1adad310bd/TMSH_U1_APP.m3u8",
-          "name": "English PRO",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://tencentcdn10.tamashaweb.com/v1/019bf00a091715fc600b35c80a5fa9/019bffd5aa3e15fc60e91af7637f3f/TMSH_APP2_CLEAN.m3u8",
-          "name": "Tamasha URDU ",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/212419/image",
-      "teamAName": "Lahore Qalandars",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/212417/image",
-      "teamBName": "Quetta Gladiators",
-      "time": "09:30:00",
       "visible": true
     },
     {
@@ -379,37 +379,6 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/273650/image",
       "teamBName": "Multan Sultans",
       "time": "14:00:00",
-      "visible": true
-    },
-    {
-      "category": "Cricket",
-      "date": "21/04/2026",
-      "end_date": "",
-      "end_time": "",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark",
-      "eventName": "T20 International",
-      "id": 65,
-      "links": [
-        {
-          "api": "",
-          "link": "https://yosintv100.pages.dev/shaka?id=nepal",
-          "name": "Server 1",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://www.youtube.com/watch?v=ORaWiY3_gg4",
-          "name": "Server 2",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/187772/image",
-      "teamAName": "Nepal",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/187771/image",
-      "teamBName": "United Arab Emirates",
-      "time": "11:15:00",
       "visible": true
     }
   ]
