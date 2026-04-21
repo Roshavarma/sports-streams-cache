@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-21T08:30:53.639437",
-  "event_count": 13,
+  "last_updated": "2026-04-21T08:40:28.484790",
+  "event_count": 14,
   "events": [
     {
       "category": "Boxing",
@@ -355,6 +355,27 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/273650/image",
       "teamBName": "Multan Sultans",
       "time": "14:00:00",
+      "visible": true
+    },
+    {
+      "category": "Cricket",
+      "date": "21/04/2026",
+      "end_date": "",
+      "end_time": "",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark",
+      "eventName": "T20 International",
+      "id": 65,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/187772/image",
+      "teamAName": "Nepal",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/187771/image",
+      "teamBName": "United Arab Emirates",
+      "time": "11:15:00",
       "visible": true
     }
   ]
