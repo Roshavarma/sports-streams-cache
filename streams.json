@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-21T08:40:28.484790",
+  "last_updated": "2026-04-21T08:50:26.175152",
   "event_count": 14,
   "events": [
     {
@@ -325,8 +325,32 @@
       "id": 63,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "",
+          "link": "https://psl.bigbaat.app/out/v1/f342445c31dd475bbf30c7304dbad14f/index.m3u8",
+          "name": "PSL Tv ENG",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://psl.bigbaat.app/out/v1/0ef369b90c7b4025b76621e46ee5fb70/index.m3u8?st=playztv",
+          "name": "PSL Tv URDU",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://tencentcdn4.tamashaweb.com/v1/0196159d28a51ea5064913eb2a83e7/0196159e84f81ea506ec1adad310bd/TMSH_U1_APP.m3u8",
+          "name": "English PRO",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://tencentcdn10.tamashaweb.com/v1/019bf00a091715fc600b35c80a5fa9/019bffd5aa3e15fc60e91af7637f3f/TMSH_APP2_CLEAN.m3u8",
+          "name": "Tamasha URDU ",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/212419/image",
