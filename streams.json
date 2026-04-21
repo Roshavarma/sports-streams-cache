@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-21T13:50:29.102708",
+  "last_updated": "2026-04-21T14:01:04.609143",
   "event_count": 12,
   "events": [
     {
@@ -304,9 +304,23 @@
       "id": 62,
       "links": [
         {
+          "api": "795f092c10514d301f43b42e2c8dfa3f:042a0e40da4af60cf7ebb495723a5d73",
+          "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/iexgaxrphl/out/v1/a2afb2a462ed4263b4b92e17794b36de/cenc.mpd",
+          "name": "WILLOW [Ad-Free]",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
           "api": "",
           "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https",
           "name": "SKY SP CRICKET - AQ",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://lchd-314.zenostreams-cdn-001.com/fox501.m3u8",
+          "name": "FOX CRICKET - AQ",
           "scheme": 0,
           "tokenApi": ""
         },
@@ -370,8 +384,53 @@
       "id": 64,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "e52df5c43f028ac74841d8666dd82957:c0ba26e9891ae381420b7303717f9142",
+          "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/50frhikpnl/out/v1/bfde08c2fa824ed389aa58bec2c698a2/cenc.mpd",
+          "name": "WILLOW - AQ",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
+          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+          "name": "WILLOW SPORTS",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://psl.bigbaat.app/out/v1/f342445c31dd475bbf30c7304dbad14f/index.m3u8",
+          "name": "PSL ENGLISH - AQ",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://pslurdu.bigbaat.app/out/v1/0ef369b90c7b4025b76621e46ee5fb70/index.m3u8",
+          "name": "PSL URDU - AQ",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://playztv-apps.pages.dev/tsports/index.m3u8",
+          "name": "T Sports HD",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://playztv-apps.pages.dev/asports/index.m3u8",
+          "name": "A SPORTS - HD",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "http://93.123.109.249/hls/vavavaQQ.m3u8|referer=http://www.fawanews.sc/",
+          "name": "SD STREAM ",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/1178236/image",
