@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-21T11:20:24.630878",
+  "last_updated": "2026-04-21T11:30:44.650561",
   "event_count": 14,
   "events": [
     {
@@ -391,8 +391,18 @@
       "id": 65,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "",
+          "link": "https://yosintv100.pages.dev/shaka?id=nepal",
+          "name": "Server 1",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://www.youtube.com/watch?v=ORaWiY3_gg4",
+          "name": "Server 2",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/187772/image",
