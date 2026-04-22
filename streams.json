@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-22T16:50:29.196511",
+  "last_updated": "2026-04-22T17:00:58.314905",
   "event_count": 22,
   "events": [
     {
@@ -357,7 +357,7 @@
         {
           "api": "",
           "link": "https://sportzys.pages.dev/iframe?url=https://la14hd.com/vivo/canales.php?stream=espn5",
-          "name": "6 - All Devices ",
+          "name": "6 - All Devices - Español",
           "scheme": 0,
           "tokenApi": ""
         }
@@ -572,15 +572,15 @@
       "links": [
         {
           "api": "",
-          "link": "https://hlsplayers.pages.dev/iframe?url=https://streams.center/embed/ch7.php",
-          "name": "Android / PC / IOS",
+          "link": "https://sportzys.pages.dev/iframe?url=https://streams.center/embed/ch7.php",
+          "name": "Android / PC / IOS - ENG",
           "scheme": 0,
           "tokenApi": ""
         },
         {
           "api": "",
-          "link": "https://hlsplayers.pages.dev/iframe?url=https://v3.sportssonline.click/channels/hd/hd4.php",
-          "name": "Android / PC / IOS",
+          "link": "https://hlsplayers.pages.dev/iframe?url=https://v3.sportssonline.click/channels/hd/hd8.php",
+          "name": "Android / PC / IOS - ENG",
           "scheme": 0,
           "tokenApi": ""
         },
@@ -588,6 +588,20 @@
           "api": "",
           "link": "https://embedsports.top/embed/admin/ppv-paris-saint-germain-vs-nantes/1",
           "name": "Android / PC",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://sportzys.pages.dev/iframe?url=https://la14hd.com/vivo/canales.php?stream=espn2",
+          "name": "All Devices - Español",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://sportzys.pages.dev/iframe?url=https://la14hd.com/vivo/canales.php?stream=beinsportes",
+          "name": "All Devices - Español",
           "scheme": 0,
           "tokenApi": ""
         }
