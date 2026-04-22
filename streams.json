@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-22T09:10:29.906431",
+  "last_updated": "2026-04-22T09:20:29.126862",
   "event_count": 21,
   "events": [
     {
@@ -139,9 +139,9 @@
     },
     {
       "category": "Boxing",
-      "date": "22/04/2026",
-      "end_date": "22/04/2026",
-      "end_time": "06:00:00",
+      "date": "29/04/2026",
+      "end_date": "29/04/2026",
+      "end_time": "05:00:00",
       "eventLogo": "https://www.wwe.com/f/styles/wwe_show_logo_sm/public/all/2024/10/NXTonCW--0f06792893241464479338f55596a5bf.png",
       "eventName": "🥊 WWE NXT",
       "id": 55,
@@ -165,7 +165,7 @@
       "teamAName": "NXT",
       "teamBFlag": "https://www.wwe.com/f/styles/wwe_show_logo_sm/public/all/2024/10/NXTonCW--0f06792893241464479338f55596a5bf.png",
       "teamBName": "NXT",
-      "time": "01:00:00",
+      "time": "00:00:00",
       "visible": true
     },
     {
@@ -178,8 +178,32 @@
       "id": 56,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
+          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+          "name": "Android / PC",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://psl.bigbaat.app/out/v1/f342445c31dd475bbf30c7304dbad14f/index.m3u8",
+          "name": "Android / PC / IOS (PK)",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://psl.bigbaat.app/out/v1/0ef369b90c7b4025b76621e46ee5fb70/index.m3u8",
+          "name": "Android / PC / IOS (PK) Urdu",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://playztv-apps.pages.dev/tsports/index.m3u8",
+          "name": "Android / PC / IOS",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/212418/image",
@@ -296,8 +320,18 @@
       "id": 61,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "",
+          "link": "https://hlsplayers.pages.dev/iframe?url=https://v3.sportssonline.click/channels/hd/hd5.php",
+          "name": "Android / PC",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://sportzys.pages.dev/iframe?url=https://v3.sportssonline.click/channels/hd/hd5.php",
+          "name": "Android / PC / IOS",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/2846/image",
