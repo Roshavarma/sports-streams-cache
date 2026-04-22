@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-22T15:40:33.922908",
+  "last_updated": "2026-04-22T15:45:22.863662",
   "event_count": 22,
   "events": [
     {
@@ -321,29 +321,36 @@
       "links": [
         {
           "api": "",
-          "link": "https://v3.sportssonline.click/channels/pt/eleven1.php",
-          "name": "Android / PC / IOS",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
           "link": "https://sportzys.pages.dev/iframe?url=https://v3.sportssonline.click/channels/hd/hd5.php",
-          "name": "Android / PC / IOS",
+          "name": "1 - All Devices ",
           "scheme": 0,
           "tokenApi": ""
         },
         {
           "api": "",
           "link": "https://sportzys.pages.dev/iframe?https://streams.center/embed/ch6.php",
-          "name": "Android / PC / IOS",
+          "name": "2 - All Devices ",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
+          "name": "3 - Android / PC",
           "scheme": 0,
           "tokenApi": ""
         },
         {
           "api": "",
           "link": "https://embedsports.top/embed/admin/ppv-elche-vs-atl-tico-madrid/1",
-          "name": "Android / PC",
+          "name": "4 - Android / PC",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a",
+          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd",
+          "name": "5 - Android / PC",
           "scheme": 0,
           "tokenApi": ""
         }
@@ -623,8 +630,18 @@
       "id": 73,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "",
+          "link": "https://sportzys.pages.dev/iframe?url=https://streams.center/embed/ch15.php",
+          "name": "1 - All Devices",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://sportzys.pages.dev/?url=https://streams.center/embed/ch15.php",
+          "name": "2 - All Devices",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/3639/image",
