@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-22T15:30:48.094442",
-  "event_count": 20,
+  "last_updated": "2026-04-22T15:40:33.922908",
+  "event_count": 22,
   "events": [
     {
       "category": "Boxing",
@@ -314,27 +314,6 @@
       "category": "Football",
       "date": "22/04/2026",
       "end_date": "22/04/2026",
-      "end_time": "16:20:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/22795/image/dark",
-      "eventName": "AFC Challenge League",
-      "id": 60,
-      "links": [
-        {
-          "link": "https://no.link",
-          "name": "Link 1"
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/468660/image",
-      "teamAName": "Muras United",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/32525/image",
-      "teamBName": "Al Kuwait SC",
-      "time": "14:00:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "22/04/2026",
-      "end_date": "22/04/2026",
       "end_time": "19:20:00",
       "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/8/image/dark",
       "eventName": "LaLiga",
@@ -632,6 +611,69 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/337602/image",
       "teamBName": "Inter Miami CF",
       "time": "01:30:00",
+      "visible": true
+    },
+    {
+      "category": "Baseball",
+      "date": "22/04/2026",
+      "end_date": "22/04/2026",
+      "end_time": "19:10:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+      "eventName": "MLB",
+      "id": 73,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3639/image",
+      "teamAName": "Miami Marlins",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3632/image",
+      "teamBName": "St. Louis Cardinals",
+      "time": "16:10:00",
+      "visible": true
+    },
+    {
+      "category": "Baseball",
+      "date": "22/04/2026",
+      "end_date": "22/04/2026",
+      "end_time": "20:10:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+      "eventName": "MLB",
+      "id": 74,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3653/image",
+      "teamAName": "Tampa Bay Rays",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3633/image",
+      "teamBName": "Cincinnati Reds",
+      "time": "17:10:00",
+      "visible": true
+    },
+    {
+      "category": "Baseball",
+      "date": "22/04/2026",
+      "end_date": "22/04/2026",
+      "end_time": "20:10:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+      "eventName": "MLB",
+      "id": 75,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3650/image",
+      "teamAName": "Cleveland Guardians",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3655/image",
+      "teamBName": "Houston Astros",
+      "time": "17:10:00",
       "visible": true
     }
   ]
