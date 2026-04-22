@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-22T15:50:27.819708",
+  "last_updated": "2026-04-22T16:00:53.478865",
   "event_count": 22,
   "events": [
     {
@@ -382,6 +382,20 @@
           "api": "",
           "link": "https://hlsplayers.pages.dev/iframe?url=https://v3.sportssonline.click/channels/bra/br6.php",
           "name": "Android / PC / IOS",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://streamtpnew.com/global1.php?stream=disney1",
+          "name": "All Devices ",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://sportzys.pages.dev/iframe?url=https://streamtpnew.com/global1.php?stream=disney1",
+          "name": "All Devices ",
           "scheme": 0,
           "tokenApi": ""
         }
