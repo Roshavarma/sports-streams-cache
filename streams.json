@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-22T09:30:42.418699",
+  "last_updated": "2026-04-22T09:40:28.416776",
   "event_count": 22,
   "events": [
     {
@@ -202,6 +202,20 @@
           "api": "",
           "link": "https://playztv-apps.pages.dev/tsports/index.m3u8",
           "name": "Android / PC / IOS",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-P2s6L_9a5s8d2f5/master.m3u8",
+          "name": "Android/IOS/PC",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_P2U8B2G5T6/master.m3u8",
+          "name": "ANDROID/PC/IOS",
           "scheme": 0,
           "tokenApi": ""
         }
