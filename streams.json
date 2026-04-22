@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-22T15:45:22.863662",
+  "last_updated": "2026-04-22T15:50:27.819708",
   "event_count": 22,
   "events": [
     {
@@ -661,8 +661,11 @@
       "id": 74,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "",
+          "link": "https://sportzys.pages.dev/iframe?url=https://streams.center/embed/ch16.php",
+          "name": "1 - All Devices",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/3653/image",
@@ -682,8 +685,11 @@
       "id": 75,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "",
+          "link": "https://sportzys.pages.dev/iframe?url=https://streams.center/embed/ch17.php",
+          "name": "1 - All Devices",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/3650/image",
