@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-22T17:30:51.264245",
-  "event_count": 22,
+  "last_updated": "2026-04-22T17:40:34.704578",
+  "event_count": 34,
   "events": [
     {
       "category": "Boxing",
@@ -739,6 +739,258 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/3655/image",
       "teamBName": "Houston Astros",
       "time": "17:10:00",
+      "visible": true
+    },
+    {
+      "category": "Baseball",
+      "date": "22/04/2026",
+      "end_date": "22/04/2026",
+      "end_time": "21:10:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+      "eventName": "MLB",
+      "id": 76,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3651/image",
+      "teamAName": "Kansas City Royals",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3652/image",
+      "teamBName": "Baltimore Orioles",
+      "time": "18:10:00",
+      "visible": true
+    },
+    {
+      "category": "Baseball",
+      "date": "22/04/2026",
+      "end_date": "23/04/2026",
+      "end_time": "01:40:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+      "eventName": "MLB",
+      "id": 77,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3648/image",
+      "teamAName": "Detroit Tigers",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3630/image",
+      "teamBName": "Milwaukee Brewers",
+      "time": "22:40:00",
+      "visible": true
+    },
+    {
+      "category": "Baseball",
+      "date": "22/04/2026",
+      "end_date": "23/04/2026",
+      "end_time": "02:10:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+      "eventName": "MLB",
+      "id": 78,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3629/image",
+      "teamAName": "New York Mets",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3649/image",
+      "teamBName": "Minnesota Twins",
+      "time": "23:10:00",
+      "visible": true
+    },
+    {
+      "category": "Baseball",
+      "date": "22/04/2026",
+      "end_date": "23/04/2026",
+      "end_time": "02:40:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+      "eventName": "MLB",
+      "id": 79,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3627/image",
+      "teamAName": "Chicago Cubs",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3635/image",
+      "teamBName": "Philadelphia Phillies",
+      "time": "23:40:00",
+      "visible": true
+    },
+    {
+      "category": "Baseball",
+      "date": "23/04/2026",
+      "end_date": "23/04/2026",
+      "end_time": "04:40:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+      "eventName": "MLB",
+      "id": 80,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3640/image",
+      "teamAName": "Arizona Diamondbacks",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3644/image",
+      "teamBName": "Chicago White Sox",
+      "time": "01:40:00",
+      "visible": true
+    },
+    {
+      "category": "Baseball",
+      "date": "22/04/2026",
+      "end_date": "22/04/2026",
+      "end_time": "22:07:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+      "eventName": "MLB",
+      "id": 81,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/5929/image",
+      "teamAName": "Los Angeles Angels",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3642/image",
+      "teamBName": "Toronto Blue Jays",
+      "time": "19:07:00",
+      "visible": true
+    },
+    {
+      "category": "Baseball",
+      "date": "22/04/2026",
+      "end_date": "23/04/2026",
+      "end_time": "01:45:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+      "eventName": "MLB",
+      "id": 82,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/5930/image",
+      "teamAName": "Washington Nationals",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3656/image",
+      "teamBName": "Atlanta Braves",
+      "time": "22:45:00",
+      "visible": true
+    },
+    {
+      "category": "Baseball",
+      "date": "23/04/2026",
+      "end_date": "23/04/2026",
+      "end_time": "03:40:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+      "eventName": "MLB",
+      "id": 83,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3628/image",
+      "teamAName": "Colorado Rockies",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3636/image",
+      "teamBName": "San Diego Padres",
+      "time": "00:40:00",
+      "visible": true
+    },
+    {
+      "category": "Baseball",
+      "date": "23/04/2026",
+      "end_date": "23/04/2026",
+      "end_time": "04:45:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+      "eventName": "MLB",
+      "id": 84,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3634/image",
+      "teamAName": "San Francisco Giants",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3638/image",
+      "teamBName": "Los Angeles Dodgers",
+      "time": "01:45:00",
+      "visible": true
+    },
+    {
+      "category": "Baseball",
+      "date": "22/04/2026",
+      "end_date": "22/04/2026",
+      "end_time": "23:10:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+      "eventName": "MLB",
+      "id": 85,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3641/image",
+      "teamAName": "Seattle Mariners",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3645/image",
+      "teamBName": "Athletics",
+      "time": "20:10:00",
+      "visible": true
+    },
+    {
+      "category": "Baseball",
+      "date": "22/04/2026",
+      "end_date": "23/04/2026",
+      "end_time": "01:45:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+      "eventName": "MLB",
+      "id": 86,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3646/image",
+      "teamAName": "Boston Red Sox",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3654/image",
+      "teamBName": "New York Yankees",
+      "time": "22:45:00",
+      "visible": true
+    },
+    {
+      "category": "Baseball",
+      "date": "23/04/2026",
+      "end_date": "23/04/2026",
+      "end_time": "03:05:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+      "eventName": "MLB",
+      "id": 87,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3647/image",
+      "teamAName": "Texas Rangers",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3637/image",
+      "teamBName": "Pittsburgh Pirates",
+      "time": "00:05:00",
       "visible": true
     }
   ]
