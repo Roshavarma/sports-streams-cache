@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-22T16:00:53.478865",
+  "last_updated": "2026-04-22T16:10:34.267542",
   "event_count": 22,
   "events": [
     {
@@ -373,13 +373,6 @@
       "links": [
         {
           "api": "",
-          "link": "https://hlsplayers.pages.dev/iframe?url=https://v3.sportssonline.click/channels/hd/hd10.php",
-          "name": "Android / PC / IOS",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
           "link": "https://hlsplayers.pages.dev/iframe?url=https://v3.sportssonline.click/channels/bra/br6.php",
           "name": "Android / PC / IOS",
           "scheme": 0,
@@ -387,14 +380,21 @@
         },
         {
           "api": "",
-          "link": "https://streamtpnew.com/global1.php?stream=disney1",
+          "link": "https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-2a5e8i6o4u/master.m3u8",
+          "name": "Android / PC / IOS",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://5syrialive.s3.us-east-2.amazonaws.com/bein2/master.m3u8",
           "name": "All Devices ",
           "scheme": 0,
           "tokenApi": ""
         },
         {
           "api": "",
-          "link": "https://sportzys.pages.dev/iframe?url=https://streamtpnew.com/global1.php?stream=disney1",
+          "link": "https://live.vivo200.com/live/hd-en-1-4533358.m3u8?txSecret=9c046a60ebc33d5ebda5bd171c19c391&txTime=69E930FA",
           "name": "All Devices ",
           "scheme": 0,
           "tokenApi": ""
