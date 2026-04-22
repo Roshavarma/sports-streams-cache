@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-22T13:30:44.895327",
-  "event_count": 21,
+  "last_updated": "2026-04-22T13:40:27.979807",
+  "event_count": 20,
   "events": [
     {
       "category": "Boxing",
@@ -172,73 +172,17 @@
       "category": "Cricket",
       "date": "22/04/2026",
       "end_date": "22/04/2026",
-      "end_time": "13:45:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11170/image/dark",
-      "eventName": "Pakistan Super League",
-      "id": 56,
-      "links": [
-        {
-          "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
-          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
-          "name": "Android / PC",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://psl.bigbaat.app/out/v1/f342445c31dd475bbf30c7304dbad14f/index.m3u8",
-          "name": "Android / PC / IOS (PK)",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://psl.bigbaat.app/out/v1/0ef369b90c7b4025b76621e46ee5fb70/index.m3u8",
-          "name": "Android / PC / IOS (PK) Urdu",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://sportzys.pages.dev/?url=https://yosintv100.pages.dev/shaka?id=psl1",
-          "name": "Android / PC / IOS",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-P2s6L_9a5s8d2f5/master.m3u8",
-          "name": "Android/IOS/PC",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_P2U8B2G5T6/master.m3u8",
-          "name": "ANDROID/PC/IOS",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/212418/image",
-      "teamAName": "Karachi Kings",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/212420/image",
-      "teamBName": "Peshawar Zalmi",
-      "time": "09:30:00",
-      "visible": true
-    },
-    {
-      "category": "Cricket",
-      "date": "22/04/2026",
-      "end_date": "22/04/2026",
       "end_time": "18:15:00",
       "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11170/image/dark",
       "eventName": "Pakistan Super League",
       "id": 57,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "",
+          "link": "https://tvsen7.aynascope.net/tsports-hd/index.m3u8?e=1776852997&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=d0a20080e2144a1383498e653d19604f",
+          "name": "Android / PC / IOS",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/1178235/image",
@@ -259,15 +203,15 @@
       "links": [
         {
           "api": "",
-          "link": "https://hlsplayers.pages.dev/iframe?url=https://www.foulembeds.live/embed/fox-sports-501",
-          "name": "PC / Android / IOS",
+          "link": "https://hlsplayers.pages.dev/iframe?url=https://wikisport.club/strm/t11.php",
+          "name": "Android / PC / IOS",
           "scheme": 0,
           "tokenApi": ""
         },
         {
           "api": "",
-          "link": "https://hlsplayers.pages.dev/iframe?url=https://wikisport.club/strm/t11.php",
-          "name": "Android / PC / IOS",
+          "link": "https://sportzys.pages.dev/iframe?url=https://www.foulembeds.live/embed/fox-sports-501",
+          "name": "PC / Android / IOS",
           "scheme": 0,
           "tokenApi": ""
         },
