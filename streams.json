@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-22T08:50:38.312663",
+  "last_updated": "2026-04-22T09:00:53.740040",
   "event_count": 21,
   "events": [
     {
@@ -251,8 +251,11 @@
       "id": 59,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "",
+          "link": "https://hlsplayers.pages.dev/yt?url=Fw8ZK8EXqvI",
+          "name": "Test",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/187744/image",
