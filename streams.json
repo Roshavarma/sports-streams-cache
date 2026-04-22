@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-22T13:40:27.979807",
+  "last_updated": "2026-04-22T13:50:30.198066",
   "event_count": 20,
   "events": [
     {
@@ -178,9 +178,37 @@
       "id": 57,
       "links": [
         {
+          "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
+          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+          "name": "Android / PC",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
           "api": "",
-          "link": "https://tvsen7.aynascope.net/tsports-hd/index.m3u8?e=1776852997&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=d0a20080e2144a1383498e653d19604f",
-          "name": "Android / PC / IOS",
+          "link": "https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_P2U8B2G5T6/master.m3u8",
+          "name": "URDU - All Devices",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-P2s6L_9a5s8d2f5/master.m3u8",
+          "name": "All Devices",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://psl.bigbaat.app/out/v1/0ef369b90c7b4025b76621e46ee5fb70/index.m3u8",
+          "name": "All Devices - PK Only",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://hlsplayers.pages.dev/iframe?url=https://wapgoo.pages.dev/?id=T%20Sports%20HD",
+          "name": "Android / PC",
           "scheme": 0,
           "tokenApi": ""
         }
@@ -210,8 +238,8 @@
         },
         {
           "api": "",
-          "link": "https://sportzys.pages.dev/iframe?url=https://www.foulembeds.live/embed/fox-sports-501",
-          "name": "PC / Android / IOS",
+          "link": "https://forthwall.zenostreams-cdn-001.com/out/v1/e9a95b51106aa43e93b7cdafa156eb61/index.m3u8",
+          "name": "All Devices",
           "scheme": 0,
           "tokenApi": ""
         },
@@ -219,6 +247,13 @@
           "api": "",
           "link": "https://embedsports.top/embed/admin/ppv-lucknow-super-giants-vs-rajasthan-royals/2",
           "name": "Android / PC",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://sportzys.pages.dev/iframe?url=https://www.foulembeds.live/embed/fox-sports-501",
+          "name": "PC / Android / IOS",
           "scheme": 0,
           "tokenApi": ""
         },
