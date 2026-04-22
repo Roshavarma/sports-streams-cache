@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-22T16:20:32.025498",
+  "last_updated": "2026-04-22T16:40:27.871753",
   "event_count": 22,
   "events": [
     {
@@ -351,6 +351,13 @@
           "api": "620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a",
           "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd",
           "name": "5 - Android / PC",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://sportzys.pages.dev/iframe?url=https://la14hd.com/vivo/canales.php?stream=espn5",
+          "name": "6 - All Devices ",
           "scheme": 0,
           "tokenApi": ""
         }
