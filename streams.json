@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-22T09:20:29.126862",
-  "event_count": 21,
+  "last_updated": "2026-04-22T09:30:42.418699",
+  "event_count": 22,
   "events": [
     {
       "category": "Boxing",
@@ -321,8 +321,8 @@
       "links": [
         {
           "api": "",
-          "link": "https://hlsplayers.pages.dev/iframe?url=https://v3.sportssonline.click/channels/hd/hd5.php",
-          "name": "Android / PC",
+          "link": "https://v3.sportssonline.click/channels/pt/eleven1.php",
+          "name": "Android / PC / IOS",
           "scheme": 0,
           "tokenApi": ""
         },
@@ -330,6 +330,20 @@
           "api": "",
           "link": "https://sportzys.pages.dev/iframe?url=https://v3.sportssonline.click/channels/hd/hd5.php",
           "name": "Android / PC / IOS",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://sportzys.pages.dev/iframe?https://streams.center/embed/ch6.php",
+          "name": "Android / PC / IOS",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://embedsports.top/embed/admin/ppv-elche-vs-atl-tico-madrid/1",
+          "name": "Android / PC",
           "scheme": 0,
           "tokenApi": ""
         }
@@ -597,6 +611,37 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/337602/image",
       "teamBName": "Inter Miami CF",
       "time": "01:30:00",
+      "visible": true
+    },
+    {
+      "category": "Cricket",
+      "date": "22/04/2026",
+      "end_date": "23/04/2026",
+      "end_time": "09:26:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/18793/image/dark",
+      "eventName": "ICC Women's Championship",
+      "id": 73,
+      "links": [
+        {
+          "api": "7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe",
+          "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
+          "name": "FANCODE - HD",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "709c812e1b4174002605df1d17d34a4c:0bbee6c9c20a0f065bf8369d54cbf83e",
+          "link": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash-sd/enc/qddnwqthpp/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd",
+          "name": "FANCODE - SD",
+          "scheme": 0,
+          "tokenApi": ""
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/187809/image",
+      "teamAName": "Bangladesh Women",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/187806/image",
+      "teamBName": "Sri Lanka Women",
+      "time": "09:15:00",
       "visible": true
     }
   ]
