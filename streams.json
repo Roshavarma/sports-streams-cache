@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-22T08:12:16.252463",
+  "last_updated": "2026-04-22T08:20:29.906825",
   "event_count": 21,
   "events": [
     {
@@ -316,7 +316,14 @@
         {
           "api": "",
           "link": "https://hlsplayers.pages.dev/iframe?url=https://v3.sportssonline.click/channels/hd/hd10.php",
-          "name": "Android / PC",
+          "name": "Android / PC / IOS",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://hlsplayers.pages.dev/iframe?url=https://v3.sportssonline.click/channels/bra/br6.php",
+          "name": "Android / PC / IOS",
           "scheme": 0,
           "tokenApi": ""
         }
