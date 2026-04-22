@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-22T08:20:29.906825",
+  "last_updated": "2026-04-22T08:30:42.862220",
   "event_count": 21,
   "events": [
     {
@@ -492,8 +492,25 @@
       "id": 70,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "",
+          "link": "https://hlsplayers.pages.dev/iframe?url=https://streams.center/embed/ch7.php",
+          "name": "Android / PC / IOS",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://hlsplayers.pages.dev/iframe?url=https://v3.sportssonline.click/channels/hd/hd4.php",
+          "name": "Android / PC / IOS",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://embedsports.top/embed/admin/ppv-paris-saint-germain-vs-nantes/1",
+          "name": "Android / PC",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/1644/image",
