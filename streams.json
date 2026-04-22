@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-22T07:50:36.225875",
+  "last_updated": "2026-04-22T08:00:51.072350",
   "event_count": 21,
   "events": [
     {
@@ -220,8 +220,18 @@
       "id": 58,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "",
+          "link": "iframe?url=https://wikisport.club/strm/t11.php",
+          "name": "Android / IOS / PC",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://hlsplayers.pages.dev/iframe?url=https://wikisport.club/strm/t11.php",
+          "name": "Android",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/410010/image",
