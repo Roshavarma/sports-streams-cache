@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-22T13:20:29.223410",
+  "last_updated": "2026-04-22T13:30:44.895327",
   "event_count": 21,
   "events": [
     {
@@ -259,6 +259,13 @@
       "links": [
         {
           "api": "",
+          "link": "https://hlsplayers.pages.dev/iframe?url=https://www.foulembeds.live/embed/fox-sports-501",
+          "name": "PC / Android / IOS",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
           "link": "https://hlsplayers.pages.dev/iframe?url=https://wikisport.club/strm/t11.php",
           "name": "Android / PC / IOS",
           "scheme": 0,
@@ -267,6 +274,13 @@
         {
           "api": "",
           "link": "https://embedsports.top/embed/admin/ppv-lucknow-super-giants-vs-rajasthan-royals/2",
+          "name": "Android / PC",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://embedsports.top/embed/admin/admin-willow-cricket/1",
           "name": "Android / PC",
           "scheme": 0,
           "tokenApi": ""
