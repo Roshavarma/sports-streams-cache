@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-29T13:40:26.555078",
-  "event_count": 15,
+  "last_updated": "2026-04-29T13:50:25.588557",
+  "event_count": 13,
   "events": [
     {
       "category": "Boxing",
@@ -211,75 +211,6 @@
       "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgDXg8WOTxDGYhsU_r4iaau8PucLtaXmSVO3Y_9CwO2Q&s=10",
       "teamBName": "MotoGP",
       "time": "10:00:00",
-      "visible": true
-    },
-    {
-      "category": "Cricket",
-      "date": "29/04/2026",
-      "end_date": "",
-      "end_time": "",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark",
-      "eventName": "T20 International",
-      "id": 88,
-      "links": [
-        {
-          "api": "192b1115da041585c77200128549efa1:634e10efe4abbb14be400a3ccbac0258",
-          "link": "https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/dash/enc/pnu10tp36z/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd",
-          "name": "TNT SPORTS - Android/PC",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2",
-          "link": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
-          "name": "FANCODE - Android/PC",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://wasitv-pro.site/crichd/skyscric/playlist.m3u8",
-          "name": "CRIC",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/187744/image",
-      "teamAName": "Bangladesh",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/187755/image",
-      "teamBName": "New Zealand",
-      "time": "08:00:00",
-      "visible": true
-    },
-    {
-      "category": "Cricket",
-      "date": "29/04/2026",
-      "end_date": "29/04/2026",
-      "end_time": "10:00:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/21958/image/dark",
-      "eventName": "ICC CWC League 2",
-      "id": 90,
-      "links": [
-        {
-          "api": "",
-          "link": "https://kickplayer.pages.dev/kick2?id=",
-          "name": "Player 1 - All",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://hlsplayers.pages.dev/yt?url=hP28P1pRlqc",
-          "name": "Player 2 - All",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/187772/image",
-      "teamAName": "Nepal",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/199279/image",
-      "teamBName": "Oman",
-      "time": "03:45:00",
       "visible": true
     },
     {
