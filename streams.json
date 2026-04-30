@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-30T12:10:31.227886",
-  "event_count": 13,
+  "last_updated": "2026-04-30T12:20:31.179199",
+  "event_count": 12,
   "events": [
     {
       "category": "Boxing",
@@ -349,8 +349,25 @@
       "id": 63,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "",
+          "link": "https://sportzys.pages.dev/iframe?url=https://calm-sun-04d5.rojoni9589.workers.dev/indexind?dtv=https://crichd.uhd2026.workers.dev/?v=willowextra",
+          "name": "Willow Hin - All",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://sportzys.pages.dev/player3?url=https://wasitv-pro.site/crichd/skyscric/playlist.m3u8",
+          "name": "Sky Sports - All",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://sportzys.pages.dev/iframe?url=https://calm-sun-04d5.rojoni9589.workers.dev/indexind?dtv=https://crichd.uhd2026.workers.dev/?v=willowusa",
+          "name": "Willow ENG - All",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/216006/image",
@@ -358,27 +375,6 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/187843/image",
       "teamBName": "Royal Challengers Bengaluru",
       "time": "14:00:00",
-      "visible": true
-    },
-    {
-      "category": "Cricket",
-      "date": "30/04/2026",
-      "end_date": "",
-      "end_time": "",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11222/image/dark",
-      "eventName": "Twenty20 International Women",
-      "id": 64,
-      "links": [
-        {
-          "link": "https://no.link",
-          "name": "Link 1"
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/187809/image",
-      "teamAName": "Bangladesh Women",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/187806/image",
-      "teamBName": "Sri Lanka Women",
-      "time": "07:30:00",
       "visible": true
     }
   ]
