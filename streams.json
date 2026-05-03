@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-05-03T06:40:29.092216",
+  "last_updated": "2026-05-03T14:50:29.143140",
   "event_count": 2,
   "events": {
-    "error": "bad_status",
-    "status": 404
+    "details": "Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON",
+    "error": "Proxy failed"
   }
 }
