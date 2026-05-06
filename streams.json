@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-06T18:40:31.526516",
+  "last_updated": "2026-05-06T18:50:36.358777",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "12:05:32 AM 07-05-2026",
+    "Last update time": "12:20:29 AM 07-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -771,9 +771,21 @@
           },
           {
             "api": "5933bd605eb7a1e5b8403eb374d6d60b:8eb13c287f71e94d40f604cd12e35d7b",
-            "link": "https://abkv2pwaaaaaaaamdcddknxc6gxpy.ta.bia-cf.live.pv-cdn.net/gru-nitro/live/clients/dash/enc/btrchvjt1v/out/v1/0a5fbcc3fc124cf9b996201087a58b2f/cenc.mpd",
+            "link": "https://otte.cache.aiv-cdn.net/gru-nitro/live/clients/dash/enc/btrchvjt1v/out/v1/0a5fbcc3fc124cf9b996201087a58b2f/cenc.mpd",
             "title": "TNT BRASIL FHD",
             "type": "1"
+          },
+          {
+            "api": "fbe2bb1c0a60bc1434a289049fdbba71:e8ec5845316f530303c51f967220ed28",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/mxtcqpemg9/out/v1/5edd423d949e412c98bf34042cb95d4e/cenc.mpd",
+            "title": "ViX SPANISH FHD",
+            "type": "1"
+          },
+          {
+            "api": "",
+            "link": "https://customer-fs1fh3v94c4r9bi3.cloudflarestream.com/a9ca1c400592bd44c595658c044c962b/manifest/video.m3u8",
+            "title": "PARAMOUNT+ MQ",
+            "type": "0"
           },
           {
             "api": "",
@@ -783,8 +795,14 @@
           },
           {
             "api": "",
-            "link": "https://hghndasw.gbgdhdffhf.shop/sec/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW0iOiJ1ZWZhLTEiLCJpcCI6IjE2OS4xOTcuODUuMC8yNCIsInNlc3Npb25faWQiOiI0ODYyZjNjYy0xNzU2LTRkYTYtYjFkOC05Mjg5ZjdlNzI2OWUiLCJleHAiOjE3NzgxMDExOTl9.0KTYJBsPsAFzV0gBGdl0LzhIoJVqzkM7xs3DTsWA_0c/uefa-1.m3u8",
+            "link": "https://bhghgh.gbgdhdffhf.shop/uefa-1.m3u8|Origin=https://cxfoot.pages.dev",
             "title": "PARAMOUNT+ FHD",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://storage.googleapis.com/qtyngheroverbrix1/mux_video_ts1/index-1.m3u8",
+            "title": "PARAMOUNT+ HD",
             "type": "0"
           },
           {
@@ -813,7 +831,7 @@
           },
           {
             "api": "",
-            "link": "https://hghndasw.gbgdhdffhf.shop/sec/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW0iOiJ1ZWZhLTIiLCJpcCI6IjE2OS4xOTcuODUuMC8yNCIsInNlc3Npb25faWQiOiI2NzljZDA4Yy1lNjlkLTRlNzgtYTQzMi05ODA1YmE3NTAxNDMiLCJleHAiOjE3NzgxMDEyMjl9.Quk3d9owhqrbkvsETsJwmSXHdSyDR4LXpWjaieJ9bpU/uefa-2.m3u8",
+            "link": "https://bhghgh.gbgdhdffhf.shop/uefa-2.m3u8|Origin=https://cxfoot.pages.dev",
             "title": "Beckham Watch Along",
             "type": "0"
           },
@@ -827,6 +845,12 @@
             "api": "",
             "link": "https://pul-tenm.nbs3g.com/live/hd-en-1-4531807.m3u8?txSecret=940adc3324d4c6415f510487f4a1e222&txTime=69FCD2AB",
             "title": "FAST SERVER",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://live.vivo200.com/live/hd-en-1-4531807.m3u8?txSecret=39b735037f4f4bcf217895f258c08332&txTime=69FBD278|Referer=https://player.787200.com/",
+            "title": "FAST SERVER 2",
             "type": "0"
           }
         ],
