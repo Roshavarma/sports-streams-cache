@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-06T14:20:32.314129",
+  "last_updated": "2026-05-06T14:30:46.522984",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "07:45:31 PM 06-05-2026",
+    "Last update time": "07:55:29 PM 06-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -692,6 +692,39 @@
       },
       {
         "adsLimit": "0",
+        "cat": "Pro League 🇸🇦",
+        "channels_data": [
+          {
+            "api": "0:0",
+            "link": "https://d1yi40sjj0ca0v.cloudfront.net/TVD1451/index.mpd",
+            "title": "THMANYAH HD",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/06 20:00:00 +0000",
+          "eventName": "Al-Ahli vs Al-Fateh",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/06 18:00:00 +0000",
+          "teamA": "Al-Ahli",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/34469/image",
+          "teamB": "Al-Fateh",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/56023/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "THMANYAH HD"
+          }
+        ],
+        "id": "385",
+        "image": "o",
+        "publish": "1",
+        "title": "Al-Ahli vs Al-Fateh"
+      },
+      {
+        "adsLimit": "0",
         "cat": "UCL",
         "channels_data": [
           {
@@ -752,6 +785,39 @@
         "image": "o",
         "publish": "1",
         "title": "Bayern vs PSG"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "CONCACAF Cup 🇺🇸",
+        "channels_data": [
+          {
+            "api": "5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd",
+            "title": "FOX SPORTS FHD",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/07 03:30:00 +0000",
+          "eventName": "CD Toluca vs Los Angeles",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/07 01:30:00 +0000",
+          "teamA": "Toluca",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/1931/image",
+          "teamB": "Los Angeles",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/274650/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "FOX SPORTS FHD"
+          }
+        ],
+        "id": "401",
+        "image": "o",
+        "publish": "1",
+        "title": "Toluca vs Los Angeles"
       }
     ]
   }
