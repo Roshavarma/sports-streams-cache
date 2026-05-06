@@ -1,8 +1,524 @@
 {
-  "last_updated": "2026-05-06T09:50:25.017837",
-  "event_count": 2,
+  "last_updated": "2026-05-06T10:00:57.988926",
+  "event_count": 4,
   "events": {
-    "error": "bad_status",
-    "status": 404
+    "AUTHOR": "iVan_FLUx",
+    "Last update time": "03:28:11 PM 06-05-2026",
+    "TELEGRAM": "https://t.me/iVan_flux",
+    "events": [
+      {
+        "adsLimit": "0",
+        "cat": "F1",
+        "channels_data": [
+          {
+            "api": "aefc2c8d1c8840f1b6981f856c9269ba:cf8ea114c45b4d6596b2748258ab74d6",
+            "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1777909489~acl=%2f*~id=b77eb585-70bb-4b92-824f-cbd87312047c~data=hdntl,aXA9MTA4LjE4MS4xLjI0MSZleHA9MTc3NzgyMzExOCZlaWQ9OTM2NjQzJm9pZD0xNTQmdHlwZT1WT0QmdWlkPXhSUnFvOXxiY2FlYTdjZi1jMzM3LTQwMzktODE1OC0zYzFjZTQ5ZTcyOTMmY2lkPWRjZS5maXNmZWQmcHQ9bnVsbA~hmac=65d5d1abb802159ed195e8e88247316ef382ad1a555c76bb7f4e0c5732a73e72/dash/live/2093749/219026-314033/manifest-d.mpd",
+            "title": "SKY SPORTS FHD",
+            "type": "1"
+          },
+          {
+            "api": "e853333da2c9196ea11374634231bc45:de2e2dbe818d78dfad07d6cd9a4c63d4",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/jkcljgqbx8/out/v1/63bfa701559340f3a2a2cb1fccd24807/cenc.mpd",
+            "title": "TSN SPORTS FHD",
+            "type": "1"
+          },
+          {
+            "api": "7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
+            "title": "FANCODE FHD",
+            "type": "1"
+          },
+          {
+            "api": "4d346b1d1ae64d4a800409cffa14983e:208c972bd2da4359ac94e6944fe378b6",
+            "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1777909488~acl=%2f*~id=c4e7285a-4b85-4cf8-9113-5cf0fce56b08~data=hdntl,aXA9MTA4LjE4MS4xLjI0MSZleHA9MTc3NzgyMzExOCZlaWQ9OTM5MjI1Jm9pZD0xNTQmdHlwZT1WT0QmdWlkPXhSUnFvOXxiY2FlYTdjZi1jMzM3LTQwMzktODE1OC0zYzFjZTQ5ZTcyOTMmY2lkPWRjZS5maXNmZWQmcHQ9bnVsbA~hmac=40072fb54ef71544d38ffffae7cb690792baf750f07976a0840b74a8ee2ed6b2/dash/live/2093666/294921-318514/manifest-d.mpd",
+            "title": "SKY SPORTS 4k",
+            "type": "1"
+          },
+          {
+            "api": "",
+            "link": "https://chatgpt.hereisman.net/playlist/49858/load-playlist?|Referer=https://gooz.aapmains.net",
+            "title": "SPORTIFy F1 HD",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://hghndasw.dg7yhiudjydg.shop/sec/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW0iOiJmMS1vbi1hcHBsZSIsImV4cCI6MTc3Nzg0MjA4Mn0.wI57eSX4ERHx1ckODNCWFCUfEb3bE91t_6Cw0ORtF80/f1-on-apple.m3u8",
+            "title": "APPLE TV FHD",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://storage.googleapis.com/bakuknhertyung4/mux_video_ts1/index-1.m3u8",
+            "title": "SKY SPORT F1",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://rifusfcollins.s3.us-east-1.amazonaws.com/sportsnet.m3u8",
+            "title": "SKY F1 - AQ",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://mainstreams.pro/hls/hbfkazbkaznc49.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+            "title": "SKY SPORTS HD",
+            "type": "0"
+          },
+          {
+            "api": "69021095220f3c0eae9bc24215fd692b:eb58cfe0458ed0b48f7351fa3393ad59",
+            "link": "https://r.e.blueonline.tv/l/tvsmart/live/eds/Eleven_Sport_1/DHD/Manifest.mpd",
+            "title": "ELEVEN SPORTS",
+            "type": "1"
+          },
+          {
+            "api": "",
+            "link": "https://instreams.pro/EU/HDTV25/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
+            "title": "CANAL+ HD",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://instreams.pro/bil2/skyf1de/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
+            "title": "Sky F1 DE",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://smarthard.click/hls/RdKfpotjL5g/index.m3u8|Referer=https://hardsmart.click/",
+            "title": "DAZN ES SD",
+            "type": "0"
+          },
+          {
+            "api": "609d795905904705028ef54653019af7:2c791eb611e57a7d7f203022bc1b9ba3",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/duqbirmk0d/out/v1/40f53c7cbc95498db3afd081c377d776/cenc.mpd",
+            "title": "F1 TV FHD",
+            "type": "1"
+          },
+          {
+            "api": "2fbdaa3bea0d0323ae011b318d1db716:8726ef7eaf5b9dce15fb6aa9f80bd53f",
+            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/oboxe53wyo/out/v1/f7892a9d706d419a846d738fa22ea33e/cenc.mpd",
+            "title": "Fox Sports - AQ",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/22 21:30:00 +0000",
+          "eventName": "Formula 1 - Canada GP",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/22 16:30:00 +0000",
+          "teamA": "Formula 1",
+          "teamAFlag": "https://scdnmain.net/assets/tournament/40-c.png",
+          "teamB": "Formula 1",
+          "teamBFlag": "https://scdnmain.net/assets/tournament/40-c.png"
+        },
+        "id": "312",
+        "image": "o",
+        "publish": "1",
+        "title": "Formula 1"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "MotoGP",
+        "channels_data": [
+          {
+            "api": "f288380ca4cef9ad3f27a92a08e9bb8b:9f18d26291d9230833501f7f822f6875",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd",
+            "title": "TNT SPORTS - AQ",
+            "type": "1"
+          },
+          {
+            "api": "065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2",
+            "link": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
+            "title": "FANCODE FHD",
+            "type": "1"
+          },
+          {
+            "api": "7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed",
+            "link": "https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd",
+            "title": "SPO TV - AQ",
+            "type": "1"
+          },
+          {
+            "api": "ef34ae91b4f2415e8439b2ad105e7488:243248d8de1ff8c7c587ee2057317523",
+            "link": "https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw75168188_-627298088/PLTV/86/224/3221241590/3221241590.mpd?zoneoffset=0&devkbps=1-7000&servicetype=1&icpid=86&accounttype=1&limitflux=-1&limitdur=-1&tenantId=3103&accountinfo=~~V2.0~qbcsJh_jU5C9BcZc959e_wae44b4867b3417aa76b5db2da20fe46c~KZzTWjB8qD1zdgbJjRPVLJX-tV0qiN9RBHC_iseGrsmTSRjj06oGDtGlpSCRGOwF3626cf085c08d024c7e4aafc18c32440~ExtInfo5Ro3VppWiUusj2ippqUPkQ%3D%3D4a2d2c8ce133f43026d0e31b822b8474%3A20240601012829%3AUTC%2C10001003329222%2C87.212.140.171%2C20240601012829%2C3103_SP1S%2C10001003329222%2C-1%2C0%2C1%2C%2C%2C2%2C3103_Sport1%2C%2C%2C2%2C10000044444303%2C0%2C10000025050255%2CNDEzODg2NTY3MzEwMzI2NzMwNjMwNTY%3D%2C%2C%2C5%2C1%2CEND&GuardEncType=2&RTS=1717205309&from=11&hms_devid=1008&online=1717205309&mag_hms=1008,311,305&_=1717205322621",
+            "title": "ZIGGO SPORT - AQ",
+            "type": "1"
+          },
+          {
+            "api": "",
+            "link": "https://instreams.pro/bil1/motogpen/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
+            "title": "TNT SPORTS SD",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://instreams.pro/bil1/motogpfr/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
+            "title": "DAZN SPORTS",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://instreams.pro/EU/HDTV27/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
+            "title": "CANAL+ HD",
+            "type": "2"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/08 14:45:00 +0000",
+          "eventName": "MotoGP - Grand Prix de France",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/08 08:45:00 +0000",
+          "teamA": "MotoGP",
+          "teamAFlag": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8fGgE14VBFQKRIMiWIvOlIwpL6AEobQtL3OkLLu7AzsBPGzeXGHsz5PL0NED5DHlAyKCFhPHoNaFB4Z1csH_vvpU47Pbtslr1za618knr-wojLCDa1hyW40v59Qw_UjMGWLREzicm9ZDl7yMuylyu7xMdMoQG3-XXKLoZafem7lpKqxfKavQu-33Mbck/s1600/mgp.png",
+          "teamB": "MotoGP",
+          "teamBFlag": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8fGgE14VBFQKRIMiWIvOlIwpL6AEobQtL3OkLLu7AzsBPGzeXGHsz5PL0NED5DHlAyKCFhPHoNaFB4Z1csH_vvpU47Pbtslr1za618knr-wojLCDa1hyW40v59Qw_UjMGWLREzicm9ZDl7yMuylyu7xMdMoQG3-XXKLoZafem7lpKqxfKavQu-33Mbck/s1600/mgp.png"
+        },
+        "id": "313",
+        "image": "o",
+        "publish": "1",
+        "title": "MotoGP"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "Boxing",
+        "channels_data": [
+          {
+            "api": "308006101c8fd0262c0f529319b9c127:37683aadc75b1450efa82d62c647984d",
+            "link": "https://live-pv-ta.amazon.fastly-edge.com/syd-nitro/live/clients/dash/enc/kkfdbi2d1c/out/v1/a5b9b32dafd5499688240287ef8c9b90/cenc.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+            "title": "One Fight - AQ",
+            "type": "1"
+          },
+          {
+            "api": "60dc08aae52f4c0b806a8e43f24a12c8:30d5b579966d822b215ec51a91d8a271",
+            "link": "https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd",
+            "title": "Server 2",
+            "type": "1"
+          },
+          {
+            "api": "a6b967afcb974bb5a549377b4f09befd:87d993257a099324ccd0215475fc61a0",
+            "link": "https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561402/index.mpd",
+            "title": "Server 3",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/08 16:30:00 +0000",
+          "eventName": "ONE Friday Fights",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/08 12:30:00 +0000",
+          "teamA": "Friday Fights",
+          "teamAFlag": "https://iili.io/FDjaT1R.md.png",
+          "teamB": "Friday Fights",
+          "teamBFlag": "https://iili.io/FDjaT1R.md.png"
+        },
+        "id": "327",
+        "image": "o",
+        "publish": "1",
+        "title": "ONE Friday Fights 130"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "WWE",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://chatgpt.hereisman.net/playlist/50090/load-playlist?|Referer=https://gooz.aapmains.net",
+            "title": "SPORTIFy WWE",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://29pisfqlcvyi.windows-devs.top/AccessLog2/83_FHD/apache.m3u8|Referer=https://29pisfqlcvyi.windows-devs.top/",
+            "title": "SPORTIFy HD",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://27lftgqlgzmy.windows-devs.top/AccessLog2/83_FHD/apache.m3u8|Referer=https://27lftgqlgzmy.windows-devs.top/",
+            "title": "Backup SD",
+            "type": "0"
+          },
+          {
+            "api": "eabd2d95c89e42f2b0b0b40ce4179ea0:0e7e35a07e2c12822316c0dc4873903f",
+            "link": "https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd",
+            "title": "Tap Sport LQ",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/12 02:30:00 +0000",
+          "eventName": "🥊 WWE Monday Night RAW",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/12 00:00:00 +0000",
+          "teamA": "WWE",
+          "teamAFlag": "https://images2.minutemediacdn.com/image/upload/c_crop,w_1920,h_1080,x_0,y_0/c_fill,w_1080,ar_16:9,f_auto,q_auto,g_auto/images%2FvoltaxMediaLibrary%2Fmmsport%2Fwrestling_on_fannation%2F01j7cr769n5sz41833rh.jpg",
+          "teamB": "WWE",
+          "teamBFlag": "https://images2.minutemediacdn.com/image/upload/c_crop,w_1920,h_1080,x_0,y_0/c_fill,w_1080,ar_16:9,f_auto,q_auto,g_auto/images%2FvoltaxMediaLibrary%2Fmmsport%2Fwrestling_on_fannation%2F01j7cr769n5sz41833rh.jpg"
+        },
+        "id": "328",
+        "image": "o",
+        "publish": "1",
+        "title": "WWE Raw"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "WWE",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://27lftgqlgzmy.windows-devs.top/AccessLog2/83_FHD/apache.m3u8|Referer=https://27lftgqlgzmy.windows-devs.top/",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://28ugbcsxrxra.windows-devs.top/AccessLog2/108084_HD/apache.m3u8|Referer=https://28ugbcsxrxra.windows-devs.top/",
+            "title": "Backup HD",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://android-database1.firebase-api.com/AccessLog2/108085_HD/apache.m3u8|Referer=https://android-database1.firebase-api.com",
+            "title": "Backup SD",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://28ugbcsxrxra.windows-devs.top/AccessLog2/108084_HD/apache.m3u8|Referer=https://28ugbcsxrxra.windows-devs.top/",
+            "title": "USA TV HD",
+            "type": "0"
+          },
+          {
+            "api": "58551b13211b37d5b325d67e5c6cabef:3b4c3f8b4236fc57d66cdb54a606fe41",
+            "link": "https://g001-sle-us-cmaf-prd-ak.pcdn03.cssott.com/Content/CMAF_OS1-CTR-4s-v2/Live/channel(12010340-12010340-4445585a62764)/master_2hr.mpd",
+            "title": "USA TV (USA VPN)",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/09 02:45:00 +0000",
+          "eventName": "🥊 WWE Friday Night SmackDown",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/09 00:00:00 +0000",
+          "teamA": "WWE",
+          "teamAFlag": "https://www.wwe.com/f/styles/wwe_show_logo_l/public/all/2024/09/Smackdown_LOGO--c8e0b09904cb1356d309a8ea2acb0422.png",
+          "teamB": "WWE",
+          "teamBFlag": "https://www.wwe.com/f/styles/wwe_show_logo_l/public/all/2024/09/Smackdown_LOGO--c8e0b09904cb1356d309a8ea2acb0422.png"
+        },
+        "id": "329",
+        "image": "o",
+        "publish": "1",
+        "title": "WWE Smackdown"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "WWE",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://27lftgqlgzmy.windows-devs.top/AccessLog2/83_FHD/apache.m3u8|Referer=https://27lftgqlgzmy.windows-devs.top/",
+            "title": "HD SERVER",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://29pisfqlcvyi.windows-devs.top/AccessLog2/108085_HD/apache.m3u8|Referer=https://29pisfqlcvyi.windows-devs.top/",
+            "title": "Backup SD",
+            "type": "0"
+          },
+          {
+            "api": "eabd2d95c89e42f2b0b0b40ce4179ea0:0e7e35a07e2c12822316c0dc4873903f",
+            "link": "https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd",
+            "title": "Tap Sports",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/13 02:30:00 +0000",
+          "eventName": "🥊 WWE NXT",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/13 00:00:00 +0000",
+          "teamA": "NXT",
+          "teamAFlag": "https://www.wwe.com/f/styles/wwe_show_logo_sm/public/all/2024/10/NXTonCW--0f06792893241464479338f55596a5bf.png",
+          "teamB": "NXT",
+          "teamBFlag": "https://www.wwe.com/f/styles/wwe_show_logo_sm/public/all/2024/10/NXTonCW--0f06792893241464479338f55596a5bf.png"
+        },
+        "id": "337",
+        "image": "o",
+        "publish": "1",
+        "title": "WWE NXT"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "WWE",
+        "channels_data": [
+          {
+            "api": "daa8ea92553fd16cd6bfae2b8c582715:4042e041b5639b79b69ae07a872eef9b",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3n6slkgh54/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd",
+            "title": "TSN SPORTS",
+            "type": "1"
+          },
+          {
+            "api": "",
+            "link": "https://chatgpt.hereisman.net/playlist/49815/load-playlist?|Referer=https://gooz.aapmains.net",
+            "title": "SPORTIFy WWE",
+            "type": "0"
+          },
+          {
+            "api": "9f327d24c66fbd84e15ab5c9ead7c7a4:83837185529c0c4048f81386c2d36426",
+            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd",
+            "title": "Fox Sports Premium",
+            "type": "1"
+          },
+          {
+            "api": "",
+            "link": "https://27lftgqlgzmy.windows-devs.top/AccessLog2/83_FHD/apache.m3u8|Referer=https://27lftgqlgzmy.windows-devs.top/",
+            "title": "BACKUP HD",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://27lftgqlgzmy.windows-devs.top/AccessLog2/108087_HD/apache.m3u8|Referer=https://27lftgqlgzmy.windows-devs.top/",
+            "title": "BACKUP SD",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/07 02:30:00 +0000",
+          "eventName": "AEW Dynamite",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/07 00:00:00 +0000",
+          "teamA": "AEW",
+          "teamAFlag": "https://static.wixstatic.com/media/815952_5964d86934774f97a1a12b104c8b0a7a~mv2.png/v1/fill/w_146,h_54,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/aewlogo24b.png",
+          "teamB": "AEW",
+          "teamBFlag": "https://static.wixstatic.com/media/815952_5964d86934774f97a1a12b104c8b0a7a~mv2.png/v1/fill/w_146,h_54,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/aewlogo24b.png"
+        },
+        "id": "354",
+        "image": "o",
+        "publish": "1",
+        "title": "WWE"
+      },
+      {
+        "adsLimit": "8",
+        "cat": "Indian Premier League",
+        "channels_data": [
+          {
+            "api": "89d123dcd7e8749f5dc2e40fe6300f8f:c6ce0aee9567471f181becfdfe3\u00146b07",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/6x6wufbl6q/out/v1/91da49eda4bd48bfb82c3b16d1a97d70/cenc.mpd",
+            "title": "WILLOW [Ad-Free]",
+            "type": "1"
+          },
+          {
+            "api": "aefc2c8d1c8840f1b6981f856c9269ba:cf8ea114c45b4d6596b27482x8aB74d6",
+            "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1778064297~acl=%2F*~id=f1dd1487-6001-4c3f-8c86-fd52732e22fc~data=hdntl,aXA9MjA4Ljg3LjI0Mi4xMTEmZXhwPTE3Nzc5Nzc5MjcmZWlkPTkzOTYwMCZvaWQ9MTU0JnR5cGU9Vk9EJnVpZD14UlJxbzl8YmNhZWE3Y2YtYzMzNy00MDM5LTgxNTgtM2MxY2U0OWU3MjkzJmNpZD1kY2UuZmlzZmVkJnB0PW51bGw~hmac=2ffbd41e7574d1dc4875f190dde9700da622c894d05ac07a63899b93af2d9e91/dash/live/2093749/219026-314033/manifest-d.mpd",
+            "title": "SKY SPORTS FHD",
+            "type": "1"
+          },
+          {
+            "api": "4d346b1d1ae64d4a800409cffa14983e:208c972bd2da4359ac94e694wfe\u001378b6",
+            "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1778064301~acl=%2F*~id=9fbcb049-91f8-48ad-b814-0595ed2bdca0~data=hdntl,aXA9MjA4Ljg3LjI0Mi4xMTEmZXhwPTE3Nzc5Nzc5MzEmZWlkPTkzODU0NiZvaWQ9MTU0JnR5cGU9Vk9EJnVpZD14UlJxbzl8YmNhZWE3Y2YtYzMzNy00MDM5LTgxNTgtM2MxY2U0OWU3MjkzJmNpZD1kY2UuZmlzZmVkJnB0PW51bGw~hmac=f54c327f3b0b54369bce9428fea38543273211f5c0f3c6258d01c54f5052b300/dash/live/2093666/294921-318514/manifest-d.mpd",
+            "title": "SKY SPORTS 4k",
+            "type": "1"
+          },
+          {
+            "api": "",
+            "link": "https://dai.google.com/linear/hls/event/mbsfWpAoS2Olw5e-nkM-gw/master.m3u8|user-agent=Cricbuzz/7.00.01 (Linux;Android 13) AndroidXMedia3/1.5.1&x-forwarded-for=1.178.20.23",
+            "title": "NOON SPORTS",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla",
+            "title": "SKY CRICKET",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://bhghgh.gbgdhdffhf.shop/starhindi.m3u8|referer=https://estraaw.pages.dev",
+            "title": "Star Sports HIN",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "http://datahub11.com/live/Jen12345/Jen54321/703300.ts",
+            "title": "WILLOW HINDI",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://a.jyulkil.shop/hls/FEEEEQQQQQq.m3u8|Referer=http://www.fawanews.sc/",
+            "title": "SD SERVER",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/06 17:45:00 +0000",
+          "eventName": "Sunrisers Hyderabad vs Punjab Kings",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/06 14:00:00 +0000",
+          "teamA": "SRH",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/187844/image",
+          "teamB": "PBKS",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/187776/image"
+        },
+        "id": "366",
+        "image": "o",
+        "publish": "1",
+        "title": "IPL - 01"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "UCL",
+        "channels_data": [
+          {
+            "api": "294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd",
+            "title": "TNT SPORTS FHD",
+            "type": "1"
+          },
+          {
+            "api": "0:0",
+            "link": "https://d1yi40sjj0ca0v.cloudfront.net/TVD232/index.mpd",
+            "title": "DAZN SPORTS DE",
+            "type": "1"
+          },
+          {
+            "api": "",
+            "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2094589/UCL_Athl0505/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com",
+            "title": "SonyLiv [ENG]",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2094589/UCL_Athl0505/HIN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com",
+            "title": "SonyLiv [HIN]",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/06 21:10:00 +0000",
+          "eventName": "Bayern München vs Paris Saint-Germain",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/06 19:00:00 +0000",
+          "teamA": "Bayern",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2672/image",
+          "teamB": "PSG",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/1644/image"
+        },
+        "id": "400",
+        "image": "o",
+        "publish": "1",
+        "title": "Bayern vs PSG"
+      }
+    ]
   }
 }
