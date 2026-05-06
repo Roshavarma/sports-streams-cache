@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-06T18:30:43.367992",
+  "last_updated": "2026-05-06T18:40:31.526516",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "11:55:26 PM 06-05-2026",
+    "Last update time": "12:05:32 AM 07-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -782,6 +782,12 @@
             "type": "0"
           },
           {
+            "api": "",
+            "link": "https://hghndasw.gbgdhdffhf.shop/sec/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW0iOiJ1ZWZhLTEiLCJpcCI6IjE2OS4xOTcuODUuMC8yNCIsInNlc3Npb25faWQiOiI0ODYyZjNjYy0xNzU2LTRkYTYtYjFkOC05Mjg5ZjdlNzI2OWUiLCJleHAiOjE3NzgxMDExOTl9.0KTYJBsPsAFzV0gBGdl0LzhIoJVqzkM7xs3DTsWA_0c/uefa-1.m3u8",
+            "title": "PARAMOUNT+ FHD",
+            "type": "0"
+          },
+          {
             "api": "0:0",
             "link": "https://d1yi40sjj0ca0v.cloudfront.net/TVD232/index.mpd",
             "title": "DAZN SPORTS DE",
@@ -807,16 +813,28 @@
           },
           {
             "api": "",
+            "link": "https://hghndasw.gbgdhdffhf.shop/sec/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW0iOiJ1ZWZhLTIiLCJpcCI6IjE2OS4xOTcuODUuMC8yNCIsInNlc3Npb25faWQiOiI2NzljZDA4Yy1lNjlkLTRlNzgtYTQzMi05ODA1YmE3NTAxNDMiLCJleHAiOjE3NzgxMDEyMjl9.Quk3d9owhqrbkvsETsJwmSXHdSyDR4LXpWjaieJ9bpU/uefa-2.m3u8",
+            "title": "Beckham Watch Along",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://17syrialive.s3.eu-central-1.amazonaws.com/bein1/master.m3u8",
+            "title": "beIN SPORTS FHD",
+            "type": "0"
+          },
+          {
+            "api": "",
             "link": "https://pul-tenm.nbs3g.com/live/hd-en-1-4531807.m3u8?txSecret=940adc3324d4c6415f510487f4a1e222&txTime=69FCD2AB",
             "title": "FAST SERVER",
             "type": "0"
           }
         ],
         "eventInfo": {
-          "endTime": "2026/05/06 21:10:00 +0000",
+          "endTime": "2026/05/06 21:15:00 +0000",
           "eventName": "Bayern München vs Paris Saint-Germain",
           "eventType": "null",
-          "isHot": "0",
+          "isHot": "1",
           "startTime": "2026/05/06 19:00:00 +0000",
           "teamA": "Bayern",
           "teamAFlag": "https://img.sofascore.com/api/v1/team/2672/image",
@@ -1148,6 +1166,147 @@
         "image": "o",
         "publish": "1",
         "title": "Nationals vs Minnesota Twins"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "CON. Libertadores",
+        "channels_data": [
+          {
+            "api": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
+            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
+            "title": "SportDigital Fussball",
+            "type": "1"
+          },
+          {
+            "api": "",
+            "link": "https://pul-tenm.nbs3g.com/live/sd-1-4534767.m3u8?txSecret=32f944c24757252b0964b43b5861dfb8&txTime=69FB7B8C",
+            "title": "A Spor HD",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/07 00:00:00 +0000",
+          "eventName": "Cusco vs Estudiantes",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/06 22:00:00 +0000",
+          "teamA": "Cusco",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/63760/image",
+          "teamB": "Estudiantes",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3206/image"
+        },
+        "id": "412",
+        "image": "o",
+        "publish": "1",
+        "title": "Cusco vs Estudiantes"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "CON. Libertadores",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://mainstreams.pro/hls/ojzkajnach21.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/07 02:30:00 +0000",
+          "eventName": "Santa Fe vs Corinthians",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/07 00:30:00 +0000",
+          "teamA": "Santa Fe",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/6116/image",
+          "teamB": "Corinthians",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/1957/image"
+        },
+        "id": "413",
+        "image": "o",
+        "publish": "1",
+        "title": "Santa Fe vs Corinthians"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "CON. Libertadores",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://mainstreams.pro/hls/ijfnakfidch22.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/07 00:00:00 +0000",
+          "eventName": "La Guaira vs Bolívar",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/06 22:00:00 +0000",
+          "teamA": "La Guaira",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/36437/image",
+          "teamB": "Bolívar",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/7059/image"
+        },
+        "id": "414",
+        "image": "o",
+        "publish": "1",
+        "title": "La Guaira vs Bolívar"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "CON. Libertadores",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://mainstreams.pro/hls/jnzkdzjfanch23.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/07 02:30:00 +0000",
+          "eventName": "Ind. Rivadavia vs Fluminense",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/07 00:30:00 +0000",
+          "teamA": "Ind. Rivadavia",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/36842/image",
+          "teamB": "Fluminense",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/1961/image"
+        },
+        "id": "415",
+        "image": "o",
+        "publish": "1",
+        "title": "Ind. Rivadavia vs Fluminense"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "CON. Libertadores",
+        "channels_data": [
+          {
+            "api": "0:0",
+            "link": "https://d1yi40sjj0ca0v.cloudfront.net/TVD2088/index.mpd",
+            "title": "LIGUE1+ HD",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/07 04:00:00 +0000",
+          "eventName": "Deportes Tolima vs Nacional",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/07 02:00:00 +0000",
+          "teamA": "Tolima",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/6111/image",
+          "teamB": "Nacional",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3230/image"
+        },
+        "id": "416",
+        "image": "o",
+        "publish": "1",
+        "title": "Deportes Tolima vs Nacional"
       }
     ]
   }
