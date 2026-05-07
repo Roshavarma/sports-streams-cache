@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-07T05:00:50.039864",
+  "last_updated": "2026-05-07T05:10:24.124385",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "10:25:24 AM 07-05-2026",
+    "Last update time": "10:35:24 AM 07-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -732,72 +732,6 @@
         "image": "o",
         "publish": "1",
         "title": "Al-Shabab vs Al-Nassr"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "MLB",
-        "channels_data": [
-          {
-            "api": "",
-            "link": "https://mainstreams.pro/hls/dzjhkfazbka26.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-            "title": "SPORTIFy Live",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/07 02:40:00 +0000",
-          "eventName": "Chicago Cubs vs Cincinnati Reds",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/06 23:40:00 +0000",
-          "teamA": "Cubs",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3627/image",
-          "teamB": "Reds",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3633/image"
-        },
-        "formatsNew": [
-          {
-            "logo": "",
-            "title": "SportzX Live"
-          }
-        ],
-        "id": "395",
-        "image": "o",
-        "publish": "1",
-        "title": "Chicago Cubs"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "MLB",
-        "channels_data": [
-          {
-            "api": "",
-            "link": "https://mainstreams.pro/hls/hefbafbakx28.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-            "title": "SPORTIFy LIVE",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/07 04:20:00 +0000",
-          "eventName": "Colorado Rockies vs New York Mets",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/07 01:20:00 +0000",
-          "teamA": "Rockies",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3628/image",
-          "teamB": "Mets",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3629/image"
-        },
-        "formatsNew": [
-          {
-            "logo": "",
-            "title": "SportzX LIVE"
-          }
-        ],
-        "id": "398",
-        "image": "o",
-        "publish": "1",
-        "title": "Colorado Rockies"
       },
       {
         "adsLimit": "0",
