@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-07T04:20:30.015413",
+  "last_updated": "2026-05-07T04:30:39.719460",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "09:45:33 AM 07-05-2026",
+    "Last update time": "09:55:19 AM 07-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -844,7 +844,7 @@
       },
       {
         "adsLimit": "0",
-        "cat": "UCL",
+        "cat": "UEFA Europa",
         "channels_data": [
           {
             "api": "294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b",
@@ -956,15 +956,15 @@
           }
         ],
         "eventInfo": {
-          "endTime": "2026/05/06 21:15:00 +0000",
-          "eventName": "Bayern München vs Paris Saint-Germain",
+          "endTime": "2026/05/07 21:00:00 +0000",
+          "eventName": "Aston Villa vs Nottingham Forest",
           "eventType": "null",
           "isHot": "0",
-          "startTime": "2026/05/06 19:00:00 +0000",
-          "teamA": "Bayern",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2672/image",
-          "teamB": "PSG",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/1644/image"
+          "startTime": "2026/05/07 19:00:00 +0000",
+          "teamA": "Aston Villa",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/40/image",
+          "teamB": "Forest",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/14/image"
         },
         "formatsNew": [
           {
@@ -1043,11 +1043,11 @@
         "id": "400",
         "image": "o",
         "publish": "1",
-        "title": "Bayern vs PSG"
+        "title": "Aston Villa vs Nottingham Forest"
       },
       {
         "adsLimit": "0",
-        "cat": "CONCACAF Cup 🇺🇸",
+        "cat": "UEFA Europa",
         "channels_data": [
           {
             "api": "5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16",
@@ -1057,59 +1057,92 @@
           }
         ],
         "eventInfo": {
-          "endTime": "2026/05/07 03:30:00 +0000",
-          "eventName": "CD Toluca vs Los Angeles",
+          "endTime": "2026/05/07 21:00:00 +0000",
+          "eventName": "SC Freiburg vs Sporting Braga",
           "eventType": "null",
           "isHot": "0",
-          "startTime": "2026/05/07 01:30:00 +0000",
-          "teamA": "Toluca",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/1931/image",
-          "teamB": "Los Angeles",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/274650/image"
+          "startTime": "2026/05/07 19:00:00 +0000",
+          "teamA": "Freiburg",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2538/image",
+          "teamB": "Braga",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2999/image"
         },
         "formatsNew": [
           {
             "logo": "",
-            "title": "FOX SPORTS FHD"
+            "title": "TNT SPORTS FHD"
           }
         ],
         "id": "401",
         "image": "o",
         "publish": "1",
-        "title": "Toluca vs Los Angeles"
+        "title": "SC Freiburg vs Sporting Braga"
       },
       {
         "adsLimit": "0",
-        "cat": "CON. Libertadores",
+        "cat": "UEFA Conference",
         "channels_data": [
           {
-            "api": "0:0",
-            "link": "https://d1yi40sjj0ca0v.cloudfront.net/TVD2088/index.mpd",
-            "title": "LIGUE1+ HD",
-            "type": "1"
+            "api": "",
+            "link": "https://mainstreams.pro/hls/ihfazugfyjcazich17.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+            "title": "SPORTIFy Live",
+            "type": "0"
           }
         ],
         "eventInfo": {
-          "endTime": "2026/05/07 04:00:00 +0000",
-          "eventName": "Deportes Tolima vs Nacional",
+          "endTime": "2026/05/07 21:00:00 +0000",
+          "eventName": "Crystal Palace vs Shakhtar Donetsk",
           "eventType": "null",
           "isHot": "0",
-          "startTime": "2026/05/07 02:00:00 +0000",
-          "teamA": "Tolima",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/6111/image",
-          "teamB": "Nacional",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3230/image"
+          "startTime": "2026/05/07 19:00:00 +0000",
+          "teamA": "Crystal Palace",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/7/image",
+          "teamB": "Shakhtar",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3313/image"
         },
         "formatsNew": [
           {
             "logo": "",
-            "title": "beIN ENGLISH 1"
+            "title": "TNT SPORTS FHD"
           }
         ],
-        "id": "416",
+        "id": "402",
         "image": "o",
         "publish": "1",
-        "title": "Deportes Tolima vs Nacional"
+        "title": "Crystal Palace vs Shakhtar Donetsk"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "UEFA Conference",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://mainstreams.pro/hls/16yuitzaerghbhc16.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/07 21:00:00 +0000",
+          "eventName": "Strasbourg vs Rayo Vallecano",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/07 19:00:00 +0000",
+          "teamA": "Strasbourg",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/1659/image",
+          "teamB": "Rayo Vallecano",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2818/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "SportzX Live"
+          }
+        ],
+        "id": "403",
+        "image": "o",
+        "publish": "1",
+        "title": "Strasbourg vs Rayo Vallecano"
       }
     ]
   }
