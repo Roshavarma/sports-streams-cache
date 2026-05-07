@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-07T18:50:23.699845",
+  "last_updated": "2026-05-07T19:00:54.062357",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "12:15:28 AM 08-05-2026",
+    "Last update time": "12:25:29 AM 08-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -723,6 +723,12 @@
             "type": "1"
           },
           {
+            "api": "95b2bd68b00a44c9381ac122e01a2797:b07b5ca2beca08c458e325f829aa9f43",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/dviqurckoe/out/v1/5edd423d949e412c98bf34042cb95d4e/cenc.mpd",
+            "title": "VIX SPANISH FHD",
+            "type": "1"
+          },
+          {
             "api": "",
             "link": "https://cdn-1.ttvb.eu.org/api/TNT-Sports-1/index.m3u8",
             "title": "TNT SPORTS FHD",
@@ -762,6 +768,12 @@
             "type": "1"
           },
           {
+            "api": "fb194ba1c53f8c89a159f76e7830e2fb:37fca5c5cdd27d87ce1c78070d237274",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/shyc39mi7a/out/v1/c36180058f2a49a9ac8e96607922aa95/cenc.mpd",
+            "title": "VIX SPANISH FHD",
+            "type": "1"
+          },
+          {
             "api": "",
             "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/20000301/UEFA_Eur0705/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com",
             "title": "SonyLiv [ENG]",
@@ -792,6 +804,12 @@
             "api": "f288380ca4cef9ad3f27a92a08e9bb8b:9f18d26291d9230833501f7f822f6875",
             "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd",
             "title": "TNT SPORTS FHD",
+            "type": "1"
+          },
+          {
+            "api": "7ba2e290f682b30416182bc363a660a1:f2b3686e840c38fbdbea8c9a01b6638d",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/3pxu2gzore/out/v1/59dc0639d2c44432bf89984131478749/cenc.mpd",
+            "title": "VIX SPANISH FHD",
             "type": "1"
           },
           {
@@ -827,6 +845,12 @@
         "adsLimit": "0",
         "cat": "UEFA Conference",
         "channels_data": [
+          {
+            "api": "055a60e4c666c2100d35e208fa8674a4:8635d0eb122d911e9a72f318fc21c59d",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/if97djnean/out/v1/b853456a96d8434cb6cea6ade4feddd3/cenc.mpd",
+            "title": "VIX SPANISH FHD",
+            "type": "1"
+          },
           {
             "api": "",
             "link": "https://chatgpt.hereisman.net/playlist/50203/load-playlist?|Referer=https://gooz.aapmains.net",
