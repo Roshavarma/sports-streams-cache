@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-07T04:50:27.036778",
+  "last_updated": "2026-05-07T05:00:50.039864",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "10:15:23 AM 07-05-2026",
+    "Last update time": "10:25:24 AM 07-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -689,49 +689,6 @@
         "image": "o",
         "publish": "1",
         "title": "IPL - 01"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "NBA",
-        "channels_data": [
-          {
-            "api": "",
-            "link": "https://mainstreams.pro/hls/wfazgsqtrezu66.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
-            "title": "SPORTIFy Live",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://instreams.pro/US/NBA2/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
-            "title": "HD SERVER",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/07 04:30:00 +0000",
-          "eventName": "Spurs vs Minnesota Timberwolves",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/07 01:30:00 +0000",
-          "teamA": "Spurs",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3429/image",
-          "teamB": "Timberwolves",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3426/image"
-        },
-        "formatsNew": [
-          {
-            "logo": "",
-            "title": "SportzX Live"
-          },
-          {
-            "logo": "",
-            "title": "HD SERVER"
-          }
-        ],
-        "id": "374",
-        "image": "o",
-        "publish": "1",
-        "title": "Minnesota Timberwolves"
       },
       {
         "adsLimit": "0",
