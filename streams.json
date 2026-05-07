@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-07T13:30:44.293273",
+  "last_updated": "2026-05-07T13:40:27.404011",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "06:55:23 PM 07-05-2026",
+    "Last update time": "07:05:23 PM 07-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -112,6 +112,68 @@
           "teamB": "Formula 1",
           "teamBFlag": "https://scdnmain.net/assets/tournament/40-c.png"
         },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "SKY SPORTS FHD"
+          },
+          {
+            "logo": "",
+            "title": "TSN SPORTS FHD"
+          },
+          {
+            "logo": "",
+            "title": "FANCODE FHD"
+          },
+          {
+            "logo": "",
+            "title": "SKY SPORTS 4k"
+          },
+          {
+            "logo": "",
+            "title": "SportzX F1 HD"
+          },
+          {
+            "logo": "",
+            "title": "APPLE TV FHD"
+          },
+          {
+            "logo": "",
+            "title": "SKY SPORT F1"
+          },
+          {
+            "logo": "",
+            "title": "SKY F1 - AQ"
+          },
+          {
+            "logo": "",
+            "title": "SKY SPORTS HD"
+          },
+          {
+            "logo": "",
+            "title": "ELEVEN SPORTS"
+          },
+          {
+            "logo": "",
+            "title": "CANAL+ HD"
+          },
+          {
+            "logo": "",
+            "title": "Sky F1 DE"
+          },
+          {
+            "logo": "",
+            "title": "DAZN ES SD"
+          },
+          {
+            "logo": "",
+            "title": "F1 TV FHD"
+          },
+          {
+            "logo": "",
+            "title": "Fox Sports - AQ"
+          }
+        ],
         "id": "312",
         "image": "o",
         "publish": "1",
@@ -175,6 +237,36 @@
           "teamB": "MotoGP",
           "teamBFlag": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8fGgE14VBFQKRIMiWIvOlIwpL6AEobQtL3OkLLu7AzsBPGzeXGHsz5PL0NED5DHlAyKCFhPHoNaFB4Z1csH_vvpU47Pbtslr1za618knr-wojLCDa1hyW40v59Qw_UjMGWLREzicm9ZDl7yMuylyu7xMdMoQG3-XXKLoZafem7lpKqxfKavQu-33Mbck/s1600/mgp.png"
         },
+        "formatsNew": [
+          {
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10",
+            "title": "TNT SPORTS - AQ"
+          },
+          {
+            "logo": "",
+            "title": "FANCODE FHD"
+          },
+          {
+            "logo": "",
+            "title": "SPO TV - AQ"
+          },
+          {
+            "logo": "",
+            "title": "ZIGGO SPORT - AQ"
+          },
+          {
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10",
+            "title": "TNT SPORTS SD"
+          },
+          {
+            "logo": "",
+            "title": "DAZN SPORTS"
+          },
+          {
+            "logo": "",
+            "title": "CANAL+ HD"
+          }
+        ],
         "id": "313",
         "image": "o",
         "publish": "1",
@@ -214,6 +306,20 @@
           "teamB": "Friday Fights",
           "teamBFlag": "https://iili.io/FDjaT1R.md.png"
         },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "One Fight - AQ"
+          },
+          {
+            "logo": "",
+            "title": "Server 2"
+          },
+          {
+            "logo": "",
+            "title": "Server 3"
+          }
+        ],
         "id": "327",
         "image": "o",
         "publish": "1",
@@ -259,6 +365,24 @@
           "teamB": "WWE",
           "teamBFlag": "https://images2.minutemediacdn.com/image/upload/c_crop,w_1920,h_1080,x_0,y_0/c_fill,w_1080,ar_16:9,f_auto,q_auto,g_auto/images%2FvoltaxMediaLibrary%2Fmmsport%2Fwrestling_on_fannation%2F01j7cr769n5sz41833rh.jpg"
         },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "SportzX WWE"
+          },
+          {
+            "logo": "",
+            "title": "SportzX HD"
+          },
+          {
+            "logo": "",
+            "title": "Backup SD"
+          },
+          {
+            "logo": "",
+            "title": "Tap Sport LQ"
+          }
+        ],
         "id": "328",
         "image": "o",
         "publish": "1",
@@ -310,6 +434,28 @@
           "teamB": "WWE",
           "teamBFlag": "https://www.wwe.com/f/styles/wwe_show_logo_l/public/all/2024/09/Smackdown_LOGO--c8e0b09904cb1356d309a8ea2acb0422.png"
         },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "SportzX Live"
+          },
+          {
+            "logo": "",
+            "title": "Backup HD"
+          },
+          {
+            "logo": "",
+            "title": "Backup SD"
+          },
+          {
+            "logo": "",
+            "title": "USA TV HD"
+          },
+          {
+            "logo": "",
+            "title": "USA TV (USA VPN)"
+          }
+        ],
         "id": "329",
         "image": "o",
         "publish": "1",
@@ -349,6 +495,20 @@
           "teamB": "NXT",
           "teamBFlag": "https://www.wwe.com/f/styles/wwe_show_logo_sm/public/all/2024/10/NXTonCW--0f06792893241464479338f55596a5bf.png"
         },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "HD SERVER"
+          },
+          {
+            "logo": "",
+            "title": "Backup SD"
+          },
+          {
+            "logo": "",
+            "title": "Tap Sports"
+          }
+        ],
         "id": "337",
         "image": "o",
         "publish": "1",
@@ -400,6 +560,28 @@
           "teamB": "AEW",
           "teamBFlag": "https://static.wixstatic.com/media/815952_5964d86934774f97a1a12b104c8b0a7a~mv2.png/v1/fill/w_146,h_54,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/aewlogo24b.png"
         },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "TSN SPORTS"
+          },
+          {
+            "logo": "",
+            "title": "SportzX WWE"
+          },
+          {
+            "logo": "",
+            "title": "Fox Sports Premium"
+          },
+          {
+            "logo": "",
+            "title": "BACKUP HD"
+          },
+          {
+            "logo": "",
+            "title": "BACKUP SD"
+          }
+        ],
         "id": "354",
         "image": "o",
         "publish": "1",
@@ -433,6 +615,16 @@
           "teamB": "PAK",
           "teamBFlag": "https://img.sofascore.com/api/v1/team/187754/image"
         },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "FANCODE FHD"
+          },
+          {
+            "logo": "",
+            "title": "FANCODE - SD"
+          }
+        ],
         "id": "355",
         "image": "o",
         "publish": "1",
@@ -503,6 +695,36 @@
           "teamB": "RCB",
           "teamBFlag": "https://img.sofascore.com/api/v1/team/187843/image"
         },
+        "formatsNew": [
+          {
+            "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
+            "title": "WILLOW [Ad-Free]"
+          },
+          {
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
+            "title": "SKY SPORTS 4k"
+          },
+          {
+            "logo": "",
+            "title": "NOON SPORTS"
+          },
+          {
+            "logo": "",
+            "title": "SKY CRICKET"
+          },
+          {
+            "logo": "",
+            "title": "Star Sports HIN"
+          },
+          {
+            "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
+            "title": "WILLOW HINDI"
+          },
+          {
+            "logo": "",
+            "title": "SD SERVER"
+          }
+        ],
         "id": "366",
         "image": "o",
         "publish": "1",
@@ -548,6 +770,24 @@
           "teamB": "Cavaliers",
           "teamBFlag": "https://img.sofascore.com/api/v1/team/3432/image"
         },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "TSN SPORTS FHD"
+          },
+          {
+            "logo": "",
+            "title": "TSN SPORTS HD"
+          },
+          {
+            "logo": "",
+            "title": "SportzX Live"
+          },
+          {
+            "logo": "",
+            "title": "HD SERVER"
+          }
+        ],
         "id": "373",
         "image": "o",
         "publish": "1",
@@ -581,6 +821,16 @@
           "teamB": "Lakers",
           "teamBFlag": "https://img.sofascore.com/api/v1/team/3427/image"
         },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "SportzX Live"
+          },
+          {
+            "logo": "",
+            "title": "HD SERVER"
+          }
+        ],
         "id": "374",
         "image": "o",
         "publish": "1",
@@ -614,6 +864,16 @@
           "teamB": "Al-Nassr",
           "teamBFlag": "https://img.sofascore.com/api/v1/team/23400/image"
         },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "THMANYAH HD"
+          },
+          {
+            "logo": "",
+            "title": "SportzX Live"
+          }
+        ],
         "id": "385",
         "image": "o",
         "publish": "1",
@@ -653,6 +913,20 @@
           "teamB": "Hurricanes",
           "teamBFlag": "https://img.sofascore.com/api/v1/team/3680/image"
         },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "PREMIER SPORTS"
+          },
+          {
+            "logo": "",
+            "title": "SportzX Live"
+          },
+          {
+            "logo": "",
+            "title": "HD SERVER"
+          }
+        ],
         "id": "386",
         "image": "o",
         "publish": "1",
@@ -782,6 +1056,80 @@
           "teamB": "Forest",
           "teamBFlag": "https://img.sofascore.com/api/v1/team/14/image"
         },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "TNT SPORTS - AQ"
+          },
+          {
+            "logo": "",
+            "title": "SETANTA SPORTS"
+          },
+          {
+            "logo": "",
+            "title": "TNT BRASIL FHD"
+          },
+          {
+            "logo": "",
+            "title": "ViX SPANISH FHD"
+          },
+          {
+            "logo": "",
+            "title": "PARAMOUNT+ MQ"
+          },
+          {
+            "logo": "",
+            "title": "TNT SPORTS FHD"
+          },
+          {
+            "logo": "",
+            "title": "PARAMOUNT+ FHD"
+          },
+          {
+            "logo": "",
+            "title": "PARAMOUNT+ HD"
+          },
+          {
+            "logo": "",
+            "title": "CBS SPORTS HD"
+          },
+          {
+            "logo": "",
+            "title": "DAZN SPORTS DE"
+          },
+          {
+            "logo": "",
+            "title": "HBO MAX BR"
+          },
+          {
+            "logo": "",
+            "title": "SonyLiv [ENG]"
+          },
+          {
+            "logo": "",
+            "title": "SonyLiv [HIN]"
+          },
+          {
+            "logo": "",
+            "title": "Beckham Watch Along"
+          },
+          {
+            "logo": "",
+            "title": "beIN SPORTS FHD"
+          },
+          {
+            "logo": "",
+            "title": "FAST SERVER"
+          },
+          {
+            "logo": "",
+            "title": "FAST SERVER 2"
+          },
+          {
+            "logo": "",
+            "title": "HD SERVER FAST"
+          }
+        ],
         "id": "400",
         "image": "o",
         "publish": "1",
@@ -809,6 +1157,12 @@
           "teamB": "Braga",
           "teamBFlag": "https://img.sofascore.com/api/v1/team/2999/image"
         },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "TNT SPORTS FHD"
+          }
+        ],
         "id": "401",
         "image": "o",
         "publish": "1",
@@ -836,6 +1190,12 @@
           "teamB": "Shakhtar",
           "teamBFlag": "https://img.sofascore.com/api/v1/team/3313/image"
         },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "TNT SPORTS FHD"
+          }
+        ],
         "id": "402",
         "image": "o",
         "publish": "1",
@@ -863,10 +1223,258 @@
           "teamB": "Rayo Vallecano",
           "teamBFlag": "https://img.sofascore.com/api/v1/team/2818/image"
         },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "SportzX Live"
+          }
+        ],
         "id": "403",
         "image": "o",
         "publish": "1",
         "title": "Strasbourg vs Rayo Vallecano"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "MLB",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://mainstreams.pro/hls/dazhfiach15.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/07 19:35:00 +0000",
+          "eventName": "Yankees vs Texas Rangers",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/07 16:35:00 +0000",
+          "teamA": "Yankees",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3654/image",
+          "teamB": "Rangers",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3647/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "SportzX Live"
+          }
+        ],
+        "id": "404",
+        "image": "o",
+        "publish": "1",
+        "title": "Yankees vs Texas Rangers"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "MLB",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://mainstreams.pro/hls/Czajafjihafch18.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/07 20:05:00 +0000",
+          "eventName": "Nationals vs Minnesota Twins",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/07 17:05:00 +0000",
+          "teamA": "Nationals",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/5930/image",
+          "teamB": "Twins",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3649/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "SportzX Live"
+          }
+        ],
+        "id": "405",
+        "image": "o",
+        "publish": "1",
+        "title": "Nationals vs Minnesota Twins"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "MLB",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://mainstreams.pro/hls/bzagLHzach19.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/07 21:10:00 +0000",
+          "eventName": "Royals vs Cleveland Guardians",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/07 18:10:00 +0000",
+          "teamA": "Royals",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3651/image",
+          "teamB": "Guardians",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3650/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "SportzX Live"
+          }
+        ],
+        "id": "406",
+        "image": "o",
+        "publish": "1",
+        "title": "Royals vs Cleveland Guardians"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "MLB",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://chatgpt.hereisman.net/playlist/50135/load-playlist?|Referer=https://gooz.aapmains.net",
+            "title": "SPORTIFy MLB",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://mainstreams.pro/hls/jkzahzadach20.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/07 21:20:00 +0000",
+          "eventName": "Chicago Cubs vs Cincinnati Reds",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/07 18:20:00 +0000",
+          "teamA": "Cubs",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3627/image",
+          "teamB": "Reds",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3633/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "SportzX Live"
+          }
+        ],
+        "id": "407",
+        "image": "o",
+        "publish": "1",
+        "title": "Chicago Cubs vs Cincinnati Reds"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "MLB",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://chatgpt.hereisman.net/playlist/50137/load-playlist?|Referer=https://gooz.aapmains.net",
+            "title": "SPORTIFy MLB",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://mainstreams.pro/hls/ojzkajnach21.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/07 22:10:00 +0000",
+          "eventName": "Colorado Rockies vs New York Mets",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/07 19:10:00 +0000",
+          "teamA": "Rockies",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3628/image",
+          "teamB": "Mets",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3629/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "SportzX Live"
+          }
+        ],
+        "id": "408",
+        "image": "o",
+        "publish": "1",
+        "title": "Colorado Rockies vs New York Mets"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "MLB",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://chatgpt.hereisman.net/playlist/50140/load-playlist?|Referer=https://gooz.aapmains.net",
+            "title": "SPORTIFy MLB",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://mainstreams.pro/hls/ijfnakfidch22.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/07 22:40:00 +0000",
+          "eventName": "Diamondbacks vs Pittsburgh Pirates",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/07 19:40:00 +0000",
+          "teamA": "Diamondbacks",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3640/image",
+          "teamB": "Pirates",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3637/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "SportzX Live"
+          }
+        ],
+        "id": "409",
+        "image": "o",
+        "publish": "1",
+        "title": "Diamondbacks vs Pittsburgh Pirates"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "MLB",
+        "channels_data": {},
+        "eventInfo": {
+          "endTime": "2026/05/08 00:40:00 +0000",
+          "eventName": "Miami Marlins vs Baltimore Orioles",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/07 22:40:00 +0000",
+          "teamA": "Marlins",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3639/image",
+          "teamB": "Orioles",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3652/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "SportzX Live"
+          }
+        ],
+        "id": "410",
+        "image": "o",
+        "publish": "1",
+        "title": "Miami Marlins vs Baltimore Orioles"
       }
     ]
   }
