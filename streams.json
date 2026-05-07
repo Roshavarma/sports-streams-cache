@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-07T14:00:58.333527",
+  "last_updated": "2026-05-07T14:10:28.284035",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "07:25:32 PM 07-05-2026",
+    "Last update time": "07:35:38 PM 07-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -443,9 +443,15 @@
         "cat": "Indian Premier League",
         "channels_data": [
           {
-            "api": "ef4828a787a483a1c7b3dfb0348549eb:6e1beea97c21c4a5be178be018a\u0017a3d9",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/7uk7kcx8hc/out/v1/5abb539d810f4f1faef0547d1282b0e9/cenc.mpd",
+            "api": "bf5fc3a8ef9be88d9fc23a853028015d:ada046fda0c799235eb6c9a3z59\u0018177f",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/etfucc0arp/out/v1/66dfa44fa35240958306401fa8ca0cf3/cenc-sd.mpd",
             "title": "WILLOW [Ad-Free]",
+            "type": "1"
+          },
+          {
+            "api": "cd367f8c38b65fc1ba5e4ec0045b62f6:0b87682a93db137c983a132fz9dE3694",
+            "link": "https://dck1-ac-live.cdn.indazn.com/out/v1/814bffb9b389f652/be7d99b8df8c4f399c07f3e0e16555fa/index.mpd",
+            "title": "KAYO HINDI FHD",
             "type": "1"
           },
           {
@@ -695,63 +701,9 @@
             "type": "1"
           },
           {
-            "api": "25cd285194cc41a0be94c9b33fb344a5:f5064de56bc24304be98258de84e4a9f",
-            "link": "https://adjara-live-eu.akamaized.net/exp=1778179489~acl=%2f*~id=efbfd37b-3fb1-4ffb-839c-cd1305c69e94~data=hdntl,aXA9ODIuMTQwLjE4Ny4yOCZleHA9MTc3ODA5MzExMyZlaWQ9OTUxODk3Jm9pZD0xNTQmdHlwZT1WT0QmdWlkPXhSUnFvOXxiY2FlYTdjZi1jMzM3LTQwMzktODE1OC0zYzFjZTQ5ZTcyOTMmY2lkPWRjZS5maXNmZWQmcHQ9bnVsbA~hmac=393c9ea8e4c7a83e6ac6f45785d40de0c1c0431c08a801b237aa9d8ac62c53bb/dash/live/2019616/302465-321137/manifest-d.mpd",
-            "title": "SETANTA SPORTS",
-            "type": "1"
-          },
-          {
-            "api": "5933bd605eb7a1e5b8403eb374d6d60b:8eb13c287f71e94d40f604cd12e35d7b",
-            "link": "https://otte.cache.aiv-cdn.net/gru-nitro/live/clients/dash/enc/btrchvjt1v/out/v1/0a5fbcc3fc124cf9b996201087a58b2f/cenc.mpd",
-            "title": "TNT BRASIL FHD",
-            "type": "1"
-          },
-          {
-            "api": "fbe2bb1c0a60bc1434a289049fdbba71:e8ec5845316f530303c51f967220ed28",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/mxtcqpemg9/out/v1/5edd423d949e412c98bf34042cb95d4e/cenc.mpd",
-            "title": "ViX SPANISH FHD",
-            "type": "1"
-          },
-          {
-            "api": "",
-            "link": "https://customer-fs1fh3v94c4r9bi3.cloudflarestream.com/a9ca1c400592bd44c595658c044c962b/manifest/video.m3u8",
-            "title": "PARAMOUNT+ MQ",
-            "type": "0"
-          },
-          {
             "api": "",
             "link": "https://cdn-1.ttvb.eu.org/api/TNT-Sports-1/index.m3u8",
             "title": "TNT SPORTS FHD",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://bhghgh.gbgdhdffhf.shop/uefa-1.m3u8|Origin=https://cxfoot.pages.dev",
-            "title": "PARAMOUNT+ FHD",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://storage.googleapis.com/qtyngheroverbrix1/mux_video_ts1/index-1.m3u8",
-            "title": "PARAMOUNT+ HD",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://chatgpt.hereisman.net/playlist/50163/load-playlist?|Referer=https://gooz.aapmains.net",
-            "title": "CBS SPORTS HD",
-            "type": "0"
-          },
-          {
-            "api": "0:0",
-            "link": "https://d1yi40sjj0ca0v.cloudfront.net/TVD232/index.mpd",
-            "title": "DAZN SPORTS DE",
-            "type": "1"
-          },
-          {
-            "api": "",
-            "link": "https://image-storage-31.imgcontent.xyz/live/bayern-de-munique-x-psg/index.m3u8",
-            "title": "HBO MAX BR",
             "type": "0"
           },
           {
@@ -764,36 +716,6 @@
             "api": "",
             "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2094588/Bayern_v0605/HIN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com",
             "title": "SonyLiv [HIN]",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://bhghgh.gbgdhdffhf.shop/uefa-2.m3u8|Origin=https://cxfoot.pages.dev",
-            "title": "Beckham Watch Along",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://17syrialive.s3.eu-central-1.amazonaws.com/bein1/master.m3u8",
-            "title": "beIN SPORTS FHD",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://pul-tenm.nbs3g.com/live/hd-en-1-4531807.m3u8?txSecret=940adc3324d4c6415f510487f4a1e222&txTime=69FCD2AB",
-            "title": "FAST SERVER",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://live.vivo200.com/live/hd-en-1-4531807.m3u8?txSecret=39b735037f4f4bcf217895f258c08332&txTime=69FBD278|Referer=https://player.787200.com/",
-            "title": "FAST SERVER 2",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://livecdn-bp-livestream.rumsport7.live/stream/1/chunks.m3u8?is_vip=false&token=d9281b93e57381f7e8dc3553bca8ef5697b96b12&x-sign=e4fb018b1ed1cfea55cd959ddb8de1b8&x-time=1778093340",
-            "title": "HD SERVER FAST",
             "type": "0"
           }
         ],
