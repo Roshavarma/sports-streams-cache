@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-07T19:07:17.643736",
+  "last_updated": "2026-05-07T19:10:31.505671",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "12:30:51 AM 08-05-2026",
+    "Last update time": "12:35:24 AM 08-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -1030,6 +1030,12 @@
           },
           {
             "api": "",
+            "link": "https://livecdn-bp-livestream.rumsport7.live/stream/25/chunks.m3u8?is_vip=false&token=397508636a282d0664a97c78856437fa4cf7b893&x-sign=1dd3b3342f8533cbfd1c7198ecb69060&x-time=1778180340",
+            "title": "CBS SPORTS HD",
+            "type": "0"
+          },
+          {
+            "api": "",
             "link": "https://cdn-1.ttvb.eu.org/api/TNT-Sports-1/index.m3u8",
             "title": "TNT SPORTS FHD",
             "type": "0"
@@ -1054,7 +1060,7 @@
         },
         "formatsNew": [
           {
-            "logo": "",
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10",
             "title": "TNT SPORTS - AQ"
           },
           {
@@ -1063,6 +1069,10 @@
           },
           {
             "logo": "",
+            "title": "CBS SPORTS HD"
+          },
+          {
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10",
             "title": "TNT SPORTS FHD"
           },
           {
@@ -1117,7 +1127,7 @@
         },
         "formatsNew": [
           {
-            "logo": "",
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10",
             "title": "TNT SPORTS FHD"
           },
           {
@@ -1126,7 +1136,7 @@
           },
           {
             "logo": "",
-            "title": "SportzX Live"
+            "title": "CBS SPORTS HD"
           },
           {
             "logo": "",
@@ -1186,7 +1196,7 @@
         },
         "formatsNew": [
           {
-            "logo": "",
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10",
             "title": "TNT SPORTS FHD"
           },
           {
@@ -1194,7 +1204,7 @@
             "title": "VIX SPANISH FHD"
           },
           {
-            "logo": "",
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10",
             "title": "TNT SPORTS HD"
           },
           {
