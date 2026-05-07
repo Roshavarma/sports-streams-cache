@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-07T14:10:28.284035",
+  "last_updated": "2026-05-07T14:20:33.971234",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "07:35:38 PM 07-05-2026",
+    "Last update time": "07:50:32 PM 07-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -443,6 +443,12 @@
         "cat": "Indian Premier League",
         "channels_data": [
           {
+            "api": "222545886018e93c2db68f393d748faf:50c45f45da5fb19842ab6b49xe7\u0019e8a4",
+            "link": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/clients/dash/enc/nyhtosqh5k/out/v1/170ea63dc5ab4a09b1ee549b92b6e15f/cenc.mpd",
+            "title": "WILLOW FHD",
+            "type": "1"
+          },
+          {
             "api": "bf5fc3a8ef9be88d9fc23a853028015d:ada046fda0c799235eb6c9a3z59\u0018177f",
             "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/etfucc0arp/out/v1/66dfa44fa35240958306401fa8ca0cf3/cenc-sd.mpd",
             "title": "WILLOW [Ad-Free]",
@@ -492,7 +498,7 @@
           },
           {
             "api": "",
-            "link": "https://a.jyulkil.shop/hls/FEEEEQQQQQq.m3u8|Referer=http://www.fawanews.sc/",
+            "link": "http://193.47.62.194/hls/plll.m3u8|Referer=http://www.fawanews.sc/",
             "title": "SD SERVER",
             "type": "0"
           }
