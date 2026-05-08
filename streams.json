@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-08T07:50:28.466758",
+  "last_updated": "2026-05-08T08:00:55.474346",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "01:15:28 PM 08-05-2026",
+    "Last update time": "01:25:26 PM 08-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -544,70 +544,60 @@
           {
             "api": "222545886018e93c2db68f393d748faf:50c45f45da5fb19842ab6b49xe7\u0019e8a4",
             "link": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/clients/dash/enc/nyhtosqh5k/out/v1/170ea63dc5ab4a09b1ee549b92b6e15f/cenc.mpd",
-            "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
             "title": "WILLOW FHD",
             "type": "1"
           },
           {
             "api": "bf5fc3a8ef9be88d9fc23a853028015d:ada046fda0c799235eb6c9a3z59\u0018177f",
             "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/etfucc0arp/out/v1/66dfa44fa35240958306401fa8ca0cf3/cenc-sd.mpd",
-            "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
             "title": "WILLOW [Ad-Free]",
             "type": "1"
           },
           {
             "api": "cd367f8c38b65fc1ba5e4ec0045b62f6:0b87682a93db137c983a132fz9dE3694",
             "link": "https://dck1-ac-live.cdn.indazn.com/out/v1/814bffb9b389f652/be7d99b8df8c4f399c07f3e0e16555fa/index.mpd",
-            "logo": "https://play-lh.googleusercontent.com/cnJUFy1qP5kPvc1gFrTNuh1Lg8KlS0meXk2Sxsxr-7VfDD0PAJnFkI41fKC41BQlE44",
             "title": "KAYO HINDI FHD",
             "type": "1"
           },
           {
             "api": "aefc2c8d1c8840f1b6981f856c9269ba:cf8ea114c45b4d6596b27482x8aB74d6",
             "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1778238536~acl=%2F*~id=af025ef8-b76f-48f1-982c-1f6c569f2d9e~data=hdntl,aXA9MTA4LjE4MS4wLjEwOSZleHA9MTc3ODE1MjE2NiZlaWQ9OTM2MDAwJm9pZD0xNTQmdHlwZT1WT0QmdWlkPXhSUnFvOXxiY2FlYTdjZi1jMzM3LTQwMzktODE1OC0zYzFjZTQ5ZTcyOTMmY2lkPWRjZS5maXNmZWQmcHQ9bnVsbA~hmac=86ee821ad6b5498d907829f982ff21de75a0b5f121bdf77764606d628c3bf1ee/dash/live/2093710/219026-321025/manifest-d.mpd",
-            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
             "title": "SKY SPORTS FHD",
             "type": "1"
           },
           {
             "api": "4d346b1d1ae64d4a800409cffa14983e:208c972bd2da4359ac94e694wfe\u001378b6",
             "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1778238538~acl=%2F*~id=dc6e1c27-0a3b-4d79-a416-0820f8433266~data=hdntl,aXA9MTA4LjE4MS4wLjEwOSZleHA9MTc3ODE1MjE2OCZlaWQ9OTM5OTU5Jm9pZD0xNTQmdHlwZT1WT0QmdWlkPXhSUnFvOXxiY2FlYTdjZi1jMzM3LTQwMzktODE1OC0zYzFjZTQ5ZTcyOTMmY2lkPWRjZS5maXNmZWQmcHQ9bnVsbA~hmac=a64b976d727c6a42220edad5e45e5673a9408f9ae8f4e06b91be5e0775cc8f58/dash/live/2093666/294921-318514/manifest-d.mpd",
-            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
             "title": "SKY SPORTS 4k",
             "type": "1"
           },
           {
             "api": "",
             "link": "https://dai.google.com/linear/hls/event/mbsfWpAoS2Olw5e-nkM-gw/master.m3u8|user-agent=Cricbuzz/7.00.01 (Linux;Android 13) AndroidXMedia3/1.5.1&x-forwarded-for=1.178.20.23",
-            "logo": "",
             "title": "NOON SPORTS",
             "type": "0"
           },
           {
             "api": "",
             "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla",
-            "logo": "",
             "title": "SKY CRICKET",
             "type": "0"
           },
           {
             "api": "",
-            "link": "https://bhghgh.gbgdhdffhf.shop/starhindi.m3u8|referer=https://estraaw.pages.dev",
-            "logo": "",
+            "link": "https://stb-air.wasmer.app//play.php?id=LIVETV_LIVETVCHANNEL_STAR_SPORTS_1_HD&uid=999&pass=999",
             "title": "Star Sports HIN",
             "type": "0"
           },
           {
             "api": "",
             "link": "http://datahub11.com/live/Jen12345/Jen54321/703300.ts",
-            "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
             "title": "WILLOW HINDI",
             "type": "0"
           },
           {
             "api": "",
             "link": "http://193.47.62.194/hls/plll.m3u8|Referer=http://www.fawanews.sc/",
-            "logo": "",
             "title": "SD SERVER",
             "type": "0"
           }
