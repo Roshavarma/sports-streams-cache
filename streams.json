@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-08T04:00:49.362267",
+  "last_updated": "2026-05-08T04:10:24.959533",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "09:25:27 AM 08-05-2026",
+    "Last update time": "09:35:22 AM 08-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -592,6 +592,12 @@
         "cat": "Cricket",
         "channels_data": [
           {
+            "api": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
+            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
+            "title": "PREMIER SPORTS",
+            "type": "1"
+          },
+          {
             "api": "7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe",
             "link": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
             "title": "FANCODE FHD",
@@ -616,6 +622,10 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/187754/image"
         },
         "formatsNew": [
+          {
+            "logo": "",
+            "title": "PREMIER SPORTS"
+          },
           {
             "logo": "",
             "title": "FANCODE FHD"
@@ -1125,6 +1135,88 @@
         "image": "o",
         "publish": "1",
         "title": "Fulham vs Bournemouth"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://chatgpt.hereisman.net/playlist/50195/load-playlist?|Referer=https://gooz.aapmains.net",
+            "title": "SPORTIFy MLB",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://edge2caster.pro/hls/dazhfiach15.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/09 16:00:00 +0000",
+          "eventName": "Brighton vs Wolverhampton",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/09 14:00:00 +0000",
+          "teamA": "Brighton",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/30/image",
+          "teamB": "Wolves",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "SportzX Live"
+          }
+        ],
+        "id": "404",
+        "image": "o",
+        "publish": "1",
+        "title": "Brighton vs Wolverhampton"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "LaLiga 🇪🇸",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://chatgpt.hereisman.net/playlist/50197/load-playlist?|Referer=https://gooz.aapmains.net",
+            "title": "SPORTIFy MLB",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://edge2caster.pro/hls/16yuitzaerghbhc16.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/09 14:00:00 +0000",
+          "eventName": "Elche vs Deportivo Alavés",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/09 12:00:00 +0000",
+          "teamA": "Elche",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2846/image",
+          "teamB": "Alavés",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2885/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "PREMIER SPORTS"
+          },
+          {
+            "logo": "",
+            "title": "ESPN DEPORTES"
+          }
+        ],
+        "id": "405",
+        "image": "o",
+        "publish": "1",
+        "title": "Elche vs Deportivo Alavés"
       }
     ]
   }
