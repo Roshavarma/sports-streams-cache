@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-08T02:20:32.375676",
+  "last_updated": "2026-05-08T02:30:44.390454",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "07:45:29 AM 08-05-2026",
+    "Last update time": "07:55:34 AM 08-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -535,37 +535,16 @@
         "channels_data": [
           {
             "api": "",
-            "link": "https://mainstreams.pro/hls/mlkijfezag65.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
-            "title": "SPORTIFy Live",
+            "link": "https://chatgpt.hereisman.net/playlist/50225/load-playlist?|Referer=https://gooz.aapmains.net",
+            "title": "SPORTIFy NBA",
             "type": "0"
           },
           {
             "api": "",
-            "link": "https://instreams.pro/US/NBA1/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
-            "title": "HD SERVER",
+            "link": "https://daffodil.lphone.support/nba.m3u8",
+            "title": "NBA LIVE FHD",
             "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/08 02:00:00 +0000",
-          "eventName": "Detroit Pistons vs Cleveland Cavaliers",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/07 23:00:00 +0000",
-          "teamA": "Pistons",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3424/image",
-          "teamB": "Cavaliers",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3432/image"
-        },
-        "id": "373",
-        "image": "o",
-        "publish": "1",
-        "title": "Detroit Pistons"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "NBA",
-        "channels_data": [
+          },
           {
             "api": "",
             "link": "https://mainstreams.pro/hls/wfazgsqtrezu66.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
@@ -885,264 +864,6 @@
         "image": "o",
         "publish": "1",
         "title": "Yankees vs Texas Rangers"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "MLB",
-        "channels_data": [
-          {
-            "api": "",
-            "link": "https://chatgpt.hereisman.net/playlist/50197/load-playlist?|Referer=https://gooz.aapmains.net",
-            "title": "SPORTIFy MLB",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://edge2caster.pro/hls/16yuitzaerghbhc16.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-            "title": "SPORTIFy Live",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/07 20:05:00 +0000",
-          "eventName": "Nationals vs Minnesota Twins",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/07 17:05:00 +0000",
-          "teamA": "Nationals",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/5930/image",
-          "teamB": "Twins",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3649/image"
-        },
-        "id": "405",
-        "image": "o",
-        "publish": "1",
-        "title": "Nationals vs Minnesota Twins"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "MLB",
-        "channels_data": [
-          {
-            "api": "",
-            "link": "https://chatgpt.hereisman.net/playlist/50199/load-playlist?|Referer=https://gooz.aapmains.net",
-            "title": "SPORTIFy MLB",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://edge2caster.pro/hls/ihfazugfyjcazich17.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-            "title": "SPORTIFy Live",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/07 21:10:00 +0000",
-          "eventName": "Royals vs Cleveland Guardians",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/07 18:10:00 +0000",
-          "teamA": "Royals",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3651/image",
-          "teamB": "Guardians",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3650/image"
-        },
-        "id": "406",
-        "image": "o",
-        "publish": "1",
-        "title": "Royals vs Cleveland Guardians"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "MLB",
-        "channels_data": [
-          {
-            "api": "",
-            "link": "https://chatgpt.hereisman.net/playlist/50202/load-playlist?|Referer=https://gooz.aapmains.net",
-            "title": "SPORTIFy MLB",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://edgestreams.pro/hls/Czajafjihafch18.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-            "title": "SPORTIFy Live",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/07 21:20:00 +0000",
-          "eventName": "Chicago Cubs vs Cincinnati Reds",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/07 18:20:00 +0000",
-          "teamA": "Cubs",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3627/image",
-          "teamB": "Reds",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3633/image"
-        },
-        "id": "407",
-        "image": "o",
-        "publish": "1",
-        "title": "Chicago Cubs vs Cincinnati Reds"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "MLB",
-        "channels_data": [
-          {
-            "api": "",
-            "link": "https://chatgpt.hereisman.net/playlist/50205/load-playlist?|Referer=https://gooz.aapmains.net",
-            "title": "SPORTIFy MLB",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://edge2caster.pro/hls/bzagLHzach19.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-            "title": "SPORTIFy Live",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/07 22:10:00 +0000",
-          "eventName": "Colorado Rockies vs New York Mets",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/07 19:10:00 +0000",
-          "teamA": "Rockies",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3628/image",
-          "teamB": "Mets",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3629/image"
-        },
-        "id": "408",
-        "image": "o",
-        "publish": "1",
-        "title": "Colorado Rockies vs New York Mets"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "MLB",
-        "channels_data": [
-          {
-            "api": "",
-            "link": "https://chatgpt.hereisman.net/playlist/50209/load-playlist?|Referer=https://gooz.aapmains.net",
-            "title": "SPORTIFy MLB",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://edgestreams.pro/hls/jkzahzadach20.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-            "title": "SPORTIFy Live",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/07 22:40:00 +0000",
-          "eventName": "Diamondbacks vs Pittsburgh Pirates",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/07 19:40:00 +0000",
-          "teamA": "Diamondbacks",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3640/image",
-          "teamB": "Pirates",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3637/image"
-        },
-        "id": "409",
-        "image": "o",
-        "publish": "1",
-        "title": "Diamondbacks vs Pittsburgh Pirates"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "MLB",
-        "channels_data": [
-          {
-            "api": "",
-            "link": "https://chatgpt.hereisman.net/playlist/50141/load-playlist?|Referer=https://gooz.aapmains.net",
-            "title": "SPORTIFy MLB",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://mainstreams.pro/hls/jnzkdzjfanch23.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-            "title": "SPORTIFy Live",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/08 00:40:00 +0000",
-          "eventName": "Miami Marlins vs Baltimore Orioles",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/07 22:40:00 +0000",
-          "teamA": "Marlins",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3639/image",
-          "teamB": "Orioles",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3652/image"
-        },
-        "id": "410",
-        "image": "o",
-        "publish": "1",
-        "title": "Miami Marlins vs Baltimore Orioles"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "MLB",
-        "channels_data": [
-          {
-            "api": "",
-            "link": "https://mainstreams.pro/hls/fskjanach24.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-            "title": "SPORTIFy Live",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/08 01:40:00 +0000",
-          "eventName": "Philadelphia Phillies vs Athletics",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/07 22:40:00 +0000",
-          "teamA": "Phillies",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3635/image",
-          "teamB": "Athletics",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3645/image"
-        },
-        "id": "411",
-        "image": "o",
-        "publish": "1",
-        "title": "Philadelphia Phillies vs Athletics"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "MLB",
-        "channels_data": [
-          {
-            "api": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
-            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
-            "title": "SportDigital Fussball",
-            "type": "1"
-          },
-          {
-            "api": "",
-            "link": "https://pul-tenm.nbs3g.com/live/sd-1-4534767.m3u8?txSecret=32f944c24757252b0964b43b5861dfb8&txTime=69FB7B8C",
-            "title": "A Spor HD",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/08 02:10:00 +0000",
-          "eventName": "Red Sox vs Tampa Bay Rays",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/07 23:10:00 +0000",
-          "teamA": "Red Sox",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3646/image",
-          "teamB": "Rays",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3653/image"
-        },
-        "id": "412",
-        "image": "o",
-        "publish": "1",
-        "title": "Red Sox vs Tampa Bay Rays"
       },
       {
         "adsLimit": "0",
