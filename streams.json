@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-08T02:30:44.390454",
+  "last_updated": "2026-05-08T02:40:29.949782",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "07:55:34 AM 08-05-2026",
+    "Last update time": "08:05:26 AM 08-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -645,57 +645,6 @@
         "cat": "UEFA Europa",
         "channels_data": [
           {
-            "api": "294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd",
-            "title": "TNT SPORTS - AQ",
-            "type": "1"
-          },
-          {
-            "api": "95b2bd68b00a44c9381ac122e01a2797:b07b5ca2beca08c458e325f829aa9f43",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/dviqurckoe/out/v1/5edd423d949e412c98bf34042cb95d4e/cenc.mpd",
-            "title": "VIX SPANISH FHD",
-            "type": "1"
-          },
-          {
-            "api": "",
-            "link": "https://livecdn-bp-livestream.rumsport7.live/stream/25/chunks.m3u8?is_vip=false&token=397508636a282d0664a97c78856437fa4cf7b893&x-sign=1dd3b3342f8533cbfd1c7198ecb69060&x-time=1778180340",
-            "title": "CBS SPORTS HD",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://cdn-1.ttvb.eu.org/api/TNT-Sports-1/index.m3u8",
-            "title": "TNT SPORTS FHD",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2005444/UEFA_Eur0705/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com",
-            "title": "SonyLiv [ENG]",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/07 21:00:00 +0000",
-          "eventName": "Aston Villa vs Nottingham Forest",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/07 19:00:00 +0000",
-          "teamA": "Aston Villa",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/40/image",
-          "teamB": "Forest",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/14/image"
-        },
-        "id": "400",
-        "image": "o",
-        "publish": "1",
-        "title": "Aston Villa vs Nottingham Forest"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "UEFA Europa",
-        "channels_data": [
-          {
             "api": "1d96ab366bbe6451edf7407b58e2fa16:0116201f4a63ac5bf5787d2c610c41a7",
             "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5sxuux529k/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd",
             "title": "TNT SPORTS FHD",
@@ -735,135 +684,6 @@
         "image": "o",
         "publish": "1",
         "title": "SC Freiburg vs Sporting Braga"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "UEFA Conference",
-        "channels_data": [
-          {
-            "api": "f288380ca4cef9ad3f27a92a08e9bb8b:9f18d26291d9230833501f7f822f6875",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd",
-            "title": "TNT SPORTS FHD",
-            "type": "1"
-          },
-          {
-            "api": "7ba2e290f682b30416182bc363a660a1:f2b3686e840c38fbdbea8c9a01b6638d",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/3pxu2gzore/out/v1/59dc0639d2c44432bf89984131478749/cenc.mpd",
-            "title": "VIX SPANISH FHD",
-            "type": "1"
-          },
-          {
-            "api": "",
-            "link": "https://chatgpt.hereisman.net/playlist/50207/load-playlist?|Referer=https://gooz.aapmains.net",
-            "title": "TNT SPORTS HD",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://livecdn-bp-livestream.rumsport7.live/stream/24/chunks.m3u8?is_vip=false&token=397508636a282d0664a97c78856437fa4cf7b893&x-sign=2f9fabee55202520279a67d3cdd4c396&x-time=1778180160",
-            "title": "SPORTIFy Live",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/20000296/Football0705/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com",
-            "title": "SonyLiv [ENG]",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/07 21:00:00 +0000",
-          "eventName": "Crystal Palace vs Shakhtar Donetsk",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/07 19:00:00 +0000",
-          "teamA": "Crystal Palace",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/7/image",
-          "teamB": "Shakhtar",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3313/image"
-        },
-        "id": "402",
-        "image": "o",
-        "publish": "1",
-        "title": "Crystal Palace vs Shakhtar Donetsk"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "UEFA Conference",
-        "channels_data": [
-          {
-            "api": "055a60e4c666c2100d35e208fa8674a4:8635d0eb122d911e9a72f318fc21c59d",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/if97djnean/out/v1/b853456a96d8434cb6cea6ade4feddd3/cenc.mpd",
-            "title": "VIX SPANISH FHD",
-            "type": "1"
-          },
-          {
-            "api": "",
-            "link": "https://livecdn-bp-livestream.rumsport7.live/stream/1/chunks.m3u8?is_vip=false&token=397508636a282d0664a97c78856437fa4cf7b893&x-sign=96ad65fce9dd0ab85c46b4b70a8ed3a1&x-time=1778179980",
-            "title": "SPY LIVE HD",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://chatgpt.hereisman.net/playlist/50203/load-playlist?|Referer=https://gooz.aapmains.net",
-            "title": "SPORTIFy TV+ HD",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2094588/UEFA_Str0705/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com",
-            "title": "SonyLiv [ENG]",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/07 21:00:00 +0000",
-          "eventName": "Strasbourg vs Rayo Vallecano",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/07 19:00:00 +0000",
-          "teamA": "Strasbourg",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/1659/image",
-          "teamB": "Rayo Vallecano",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2818/image"
-        },
-        "id": "403",
-        "image": "o",
-        "publish": "1",
-        "title": "Strasbourg vs Rayo Vallecano"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "MLB",
-        "channels_data": [
-          {
-            "api": "",
-            "link": "https://chatgpt.hereisman.net/playlist/50195/load-playlist?|Referer=https://gooz.aapmains.net",
-            "title": "SPORTIFy MLB",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://edge2caster.pro/hls/dazhfiach15.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-            "title": "SPORTIFy Live",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/07 19:35:00 +0000",
-          "eventName": "Yankees vs Texas Rangers",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/07 16:35:00 +0000",
-          "teamA": "Yankees",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3654/image",
-          "teamB": "Rangers",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3647/image"
-        },
-        "id": "404",
-        "image": "o",
-        "publish": "1",
-        "title": "Yankees vs Texas Rangers"
       },
       {
         "adsLimit": "0",
