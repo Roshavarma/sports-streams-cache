@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-08T05:30:36.577845",
+  "last_updated": "2026-05-08T05:40:28.843595",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "10:55:22 AM 08-05-2026",
+    "Last update time": "11:10:23 AM 08-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -271,6 +271,105 @@
         "image": "o",
         "publish": "1",
         "title": "MotoGP"
+      },
+      {
+        "adsLimit": "13",
+        "cat": "UFC",
+        "channels_data": [
+          {
+            "api": "d0f2e5c39e70c18f29bf77768a1ad89a:d6853c51fcf37a18905f0609972395d7",
+            "link": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd",
+            "title": "TNT Sports",
+            "type": "1"
+          },
+          {
+            "api": "",
+            "link": "https://indiasmellsverybad.xyz/live/ufc-on-espn-73-royval-vs-kape720p/index.m3u8",
+            "title": "SPORTIFy UFC",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://gg.poocloud.in/ufc/tracks-v1a1/mono.ts.m3u8?|Referer=https://ppv.to/&Origin=https://ppv.to",
+            "title": "SPORTIFy FHD",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://red9.lumenlyra.space/playlist/41184/load-playlist?|Referer=https://gooz.aapmains.net",
+            "title": "SPORTIFy TV+ HD",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://edgestreams.pro/hls/zeuryuegn48.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+            "title": "SPORTIFy Low",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://azplay.live/hls/NFLHD30/index.m3u8?|Referer=https://arizonaplay.club/&Origin=https://arizonaplay.club",
+            "title": "SPORTIFy HD",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://cdn1.dtplumber.cfd/live/cdn1/chunks.m3u8",
+            "title": "FAST Server",
+            "type": "0"
+          },
+          {
+            "api": "a49085f8da5e65af1efff0edac830b1f:4659bc58a85c062e3fe0c039a446fe47",
+            "link": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/8mxwjnh2te/out/v1/356704796c0c4bed81f67cd3518d0c8a/cenc.mpd",
+            "title": "UFC+ - AQ",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/10 04:30:00 +0000",
+          "eventName": "UFC 328: Chimaev vs Strickland",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/09 21:00:00 +0000",
+          "teamA": "K. Chimaev",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/467464/image",
+          "teamB": "S. Strickland",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/461861/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "TNT SPORTS FHD"
+          },
+          {
+            "logo": "",
+            "title": "SETANTA SPORTS"
+          },
+          {
+            "logo": "",
+            "title": "SportzX+ UFC"
+          },
+          {
+            "logo": "",
+            "title": "UFC+ FHD"
+          },
+          {
+            "logo": "",
+            "title": "Paramount+ BR"
+          },
+          {
+            "logo": "",
+            "title": "SportzX LIVE"
+          },
+          {
+            "logo": "",
+            "title": "UFC+ - AQ"
+          }
+        ],
+        "id": "324",
+        "image": "o",
+        "publish": "1",
+        "title": "UFC"
       },
       {
         "adsLimit": "0",
@@ -1775,6 +1874,92 @@
         "image": "o",
         "publish": "1",
         "title": "Cádiz vs Deportivo"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "2. Bundesliga",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://instreams.pro/bil2/foxnl2/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
+            "title": "ESPN NL",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/08 18:30:00 +0000",
+          "eventName": "Kaiserslautern vs Arminia Bielefeld",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/08 16:30:00 +0000",
+          "teamA": "Kaiserslautern",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2675/image",
+          "teamB": "Bielefeld",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2540/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "ELEVEN SPORTS"
+          },
+          {
+            "logo": "",
+            "title": "SKY BUNDESLIGA SD"
+          }
+        ],
+        "id": "423",
+        "image": "o",
+        "publish": "1",
+        "title": "Kaiserslautern vs Arminia Bielefeld"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "2. Bundesliga",
+        "channels_data": [
+          {
+            "api": "0:0",
+            "link": "https://d1yi40sjj0ca0v.cloudfront.net/TVD2700/index.mpd",
+            "title": "NOVA SPORTS",
+            "type": "1"
+          },
+          {
+            "api": "",
+            "link": "https://live.vivo200.com/live/sd-1-4344737.m3u8?txSecret=b316a00ded4f81ba86f1c4350b0b98c6&txTime=69F78567|Referer=https://player.787200.com/",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://instreams.pro/bil2/foxnl3/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
+            "title": "ESPN NL",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/08 18:30:00 +0000",
+          "eventName": "Paderborn vs Karlsruher",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/08 16:30:00 +0000",
+          "teamA": "Paderborn",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2561/image",
+          "teamB": "Karlsruhe",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2553/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "ELEVEN SPORTS"
+          },
+          {
+            "logo": "",
+            "title": "SKY BUNDESLIGA SD"
+          }
+        ],
+        "id": "424",
+        "image": "o",
+        "publish": "1",
+        "title": "Paderborn vs Karlsruher"
       }
     ]
   }
