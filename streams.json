@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-08T05:10:23.184582",
+  "last_updated": "2026-05-08T05:20:29.038792",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "10:35:24 AM 08-05-2026",
+    "Last update time": "10:45:33 AM 08-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -1453,6 +1453,182 @@
         "image": "o",
         "publish": "1",
         "title": "Levante UD vs Osasuna"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "Serie A 🇮🇹",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://mainstreams.pro/hls/jnzkdzjfanch23.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/09 15:00:00 +0000",
+          "eventName": "Cagliari vs Udinese",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/09 13:00:00 +0000",
+          "teamA": "Cagliari",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2719/image",
+          "teamB": "Udinese",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2695/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "beIN ENGLISH FHD"
+          },
+          {
+            "logo": "",
+            "title": "COSMOTE Sport HD"
+          }
+        ],
+        "id": "415",
+        "image": "o",
+        "publish": "1",
+        "title": "Cagliari vs Udinese"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "Serie A 🇮🇹",
+        "channels_data": [
+          {
+            "api": "0:0",
+            "link": "https://d1yi40sjj0ca0v.cloudfront.net/TVD2088/index.mpd",
+            "title": "LIGUE1+ HD",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/09 18:00:00 +0000",
+          "eventName": "Lazio vs Inter",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/09 16:00:00 +0000",
+          "teamA": "Lazio",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2699/image",
+          "teamB": "Inter",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2697/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "beIN ENGLISH FHD"
+          },
+          {
+            "logo": "",
+            "title": "FOX DEPORTES"
+          },
+          {
+            "logo": "",
+            "title": "COSMOTE Sport HD"
+          }
+        ],
+        "id": "416",
+        "image": "o",
+        "publish": "1",
+        "title": "Lazio vs Inter"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "Serie A 🇮🇹",
+        "channels_data": [
+          {
+            "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
+            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
+            "title": "beIN ENGLISH",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/09 20:45:00 +0000",
+          "eventName": "Lecce vs Juventus",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/09 18:45:00 +0000",
+          "teamA": "Lecce",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2689/image",
+          "teamB": "Juventus",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2687/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "TNT SPORTS FHD"
+          },
+          {
+            "logo": "",
+            "title": "beIN ENGLISH FHD"
+          },
+          {
+            "logo": "",
+            "title": "COSMOTE Sport HD"
+          }
+        ],
+        "id": "417",
+        "image": "o",
+        "publish": "1",
+        "title": "Lecce vs Juventus"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "Serie A 🇮🇹",
+        "channels_data": [
+          {
+            "api": "0:0",
+            "link": "https://d1yi40sjj0ca0v.cloudfront.net/TVD2084/index.mpd",
+            "title": "LIGUE1+ HD",
+            "type": "1"
+          },
+          {
+            "api": "",
+            "link": "https://edgestreams.pro/hls/dza5z8f69.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+            "title": "beIN SPORTS US",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://live.vivo200.com/live/hd-en-1-4347963.m3u8?txSecret=742011b44acca43ad67d6d62a4383744&txTime=69F7DE6B|Referer=https://player.787200.com/",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/08 20:45:00 +0000",
+          "eventName": "Torino vs Sassuolo",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/08 18:45:00 +0000",
+          "teamA": "Torino",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2696/image",
+          "teamB": "Sassuolo",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2793/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "beIN ENGLISH FHD"
+          },
+          {
+            "logo": "",
+            "title": "FOX DEPORTES"
+          },
+          {
+            "logo": "",
+            "title": "COSMOTE Sport HD"
+          },
+          {
+            "logo": "",
+            "title": "ELEVEN SPORTS"
+          }
+        ],
+        "id": "418",
+        "image": "o",
+        "publish": "1",
+        "title": "Torino vs Sassuolo"
       }
     ]
   }
