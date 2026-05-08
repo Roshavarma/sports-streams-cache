@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-08T16:10:30.043994",
+  "last_updated": "2026-05-08T16:20:29.784464",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "09:35:25 PM 08-05-2026",
+    "Last update time": "09:45:28 PM 08-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -1365,6 +1365,12 @@
           },
           {
             "api": "",
+            "link": "https://livecdn-bp-livestream.rumsport7.live/stream/25/chunks.m3u8?is_vip=false&token=397508636a282d0664a97c78856437fa4cf7b893&x-sign=e2337471e2b71bf507395e416b12ef52&x-time=1778256540",
+            "title": "HD SERVER",
+            "type": "0"
+          },
+          {
+            "api": "",
             "link": "https://instreams.pro/bil2/bundes2/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
             "title": "SKY BUNDESLIGA SD",
             "type": "0"
@@ -1395,6 +1401,12 @@
             "link": "https://d1yi40sjj0ca0v.cloudfront.net/TVD6412/index.mpd",
             "title": "ELEVEN SPORTS",
             "type": "1"
+          },
+          {
+            "api": "",
+            "link": "https://livecdn-bp-livestream.rumsport7.live/stream/27/chunks.m3u8?is_vip=false&token=397508636a282d0664a97c78856437fa4cf7b893&x-sign=9782805c5c1c79d7a193a5a88d006afd&x-time=1778256480",
+            "title": "HD SERVER",
+            "type": "0"
           },
           {
             "api": "",
