@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-08T04:20:27.453263",
+  "last_updated": "2026-05-08T04:30:33.720347",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "09:45:33 AM 08-05-2026",
+    "Last update time": "09:55:25 AM 08-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -112,6 +112,68 @@
           "teamB": "Formula 1",
           "teamBFlag": "https://scdnmain.net/assets/tournament/40-c.png"
         },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "SKY SPORTS FHD"
+          },
+          {
+            "logo": "",
+            "title": "TSN SPORTS FHD"
+          },
+          {
+            "logo": "",
+            "title": "FANCODE FHD"
+          },
+          {
+            "logo": "",
+            "title": "SKY SPORTS 4k"
+          },
+          {
+            "logo": "",
+            "title": "SportzX F1 HD"
+          },
+          {
+            "logo": "",
+            "title": "APPLE TV FHD"
+          },
+          {
+            "logo": "",
+            "title": "SKY SPORT F1"
+          },
+          {
+            "logo": "",
+            "title": "SKY F1 - AQ"
+          },
+          {
+            "logo": "",
+            "title": "SKY SPORTS HD"
+          },
+          {
+            "logo": "",
+            "title": "ELEVEN SPORTS"
+          },
+          {
+            "logo": "",
+            "title": "CANAL+ HD"
+          },
+          {
+            "logo": "",
+            "title": "Sky F1 DE"
+          },
+          {
+            "logo": "",
+            "title": "DAZN ES SD"
+          },
+          {
+            "logo": "",
+            "title": "F1 TV FHD"
+          },
+          {
+            "logo": "",
+            "title": "Fox Sports - AQ"
+          }
+        ],
         "id": "312",
         "image": "o",
         "publish": "1",
@@ -175,6 +237,36 @@
           "teamB": "MotoGP",
           "teamBFlag": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8fGgE14VBFQKRIMiWIvOlIwpL6AEobQtL3OkLLu7AzsBPGzeXGHsz5PL0NED5DHlAyKCFhPHoNaFB4Z1csH_vvpU47Pbtslr1za618knr-wojLCDa1hyW40v59Qw_UjMGWLREzicm9ZDl7yMuylyu7xMdMoQG3-XXKLoZafem7lpKqxfKavQu-33Mbck/s1600/mgp.png"
         },
+        "formatsNew": [
+          {
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10",
+            "title": "TNT SPORTS - AQ"
+          },
+          {
+            "logo": "",
+            "title": "FANCODE FHD"
+          },
+          {
+            "logo": "",
+            "title": "SPO TV - AQ"
+          },
+          {
+            "logo": "",
+            "title": "ZIGGO SPORT - AQ"
+          },
+          {
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10",
+            "title": "TNT SPORTS SD"
+          },
+          {
+            "logo": "",
+            "title": "DAZN SPORTS"
+          },
+          {
+            "logo": "",
+            "title": "CANAL+ HD"
+          }
+        ],
         "id": "313",
         "image": "o",
         "publish": "1",
@@ -214,6 +306,20 @@
           "teamB": "Friday Fights",
           "teamBFlag": "https://iili.io/FDjaT1R.md.png"
         },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "One Fight - AQ"
+          },
+          {
+            "logo": "",
+            "title": "Server 2"
+          },
+          {
+            "logo": "",
+            "title": "Server 3"
+          }
+        ],
         "id": "327",
         "image": "o",
         "publish": "1",
@@ -259,6 +365,24 @@
           "teamB": "WWE",
           "teamBFlag": "https://images2.minutemediacdn.com/image/upload/c_crop,w_1920,h_1080,x_0,y_0/c_fill,w_1080,ar_16:9,f_auto,q_auto,g_auto/images%2FvoltaxMediaLibrary%2Fmmsport%2Fwrestling_on_fannation%2F01j7cr769n5sz41833rh.jpg"
         },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "SportzX WWE"
+          },
+          {
+            "logo": "",
+            "title": "SportzX HD"
+          },
+          {
+            "logo": "",
+            "title": "Backup SD"
+          },
+          {
+            "logo": "",
+            "title": "Tap Sport LQ"
+          }
+        ],
         "id": "328",
         "image": "o",
         "publish": "1",
@@ -310,6 +434,28 @@
           "teamB": "WWE",
           "teamBFlag": "https://www.wwe.com/f/styles/wwe_show_logo_l/public/all/2024/09/Smackdown_LOGO--c8e0b09904cb1356d309a8ea2acb0422.png"
         },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "SportzX Live"
+          },
+          {
+            "logo": "",
+            "title": "Backup HD"
+          },
+          {
+            "logo": "",
+            "title": "Backup SD"
+          },
+          {
+            "logo": "",
+            "title": "USA TV HD"
+          },
+          {
+            "logo": "",
+            "title": "USA TV (USA VPN)"
+          }
+        ],
         "id": "329",
         "image": "o",
         "publish": "1",
@@ -349,6 +495,20 @@
           "teamB": "NXT",
           "teamBFlag": "https://www.wwe.com/f/styles/wwe_show_logo_sm/public/all/2024/10/NXTonCW--0f06792893241464479338f55596a5bf.png"
         },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "HD SERVER"
+          },
+          {
+            "logo": "",
+            "title": "Backup SD"
+          },
+          {
+            "logo": "",
+            "title": "Tap Sports"
+          }
+        ],
         "id": "337",
         "image": "o",
         "publish": "1",
@@ -400,6 +560,28 @@
           "teamB": "AEW",
           "teamBFlag": "https://static.wixstatic.com/media/815952_5964d86934774f97a1a12b104c8b0a7a~mv2.png/v1/fill/w_146,h_54,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/aewlogo24b.png"
         },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "TSN SPORTS"
+          },
+          {
+            "logo": "",
+            "title": "SportzX WWE"
+          },
+          {
+            "logo": "",
+            "title": "Fox Sports Premium"
+          },
+          {
+            "logo": "",
+            "title": "BACKUP HD"
+          },
+          {
+            "logo": "",
+            "title": "BACKUP SD"
+          }
+        ],
         "id": "354",
         "image": "o",
         "publish": "1",
@@ -445,6 +627,32 @@
           "teamB": "PAK",
           "teamBFlag": "https://img.sofascore.com/api/v1/team/187754/image"
         },
+        "formatsNew": [
+          {
+            "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
+            "title": "WILLOW [Ad-Free]"
+          },
+          {
+            "logo": "",
+            "title": "PREMIER SPORTS"
+          },
+          {
+            "logo": "",
+            "title": "FANCODE FHD"
+          },
+          {
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
+            "title": "SKY SPORTS HD"
+          },
+          {
+            "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
+            "title": "WILLOW - LQ"
+          },
+          {
+            "logo": "",
+            "title": "FANCODE - SD"
+          }
+        ],
         "id": "355",
         "image": "o",
         "publish": "1",
@@ -536,6 +744,48 @@
           "teamB": "KKR",
           "teamBFlag": "https://img.sofascore.com/api/v1/team/187775/image"
         },
+        "formatsNew": [
+          {
+            "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
+            "title": "WILLOW FHD"
+          },
+          {
+            "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
+            "title": "WILLOW [Ad-Free]"
+          },
+          {
+            "logo": "https://play-lh.googleusercontent.com/cnJUFy1qP5kPvc1gFrTNuh1Lg8KlS0meXk2Sxsxr-7VfDD0PAJnFkI41fKC41BQlE44",
+            "title": "KAYO HINDI FHD"
+          },
+          {
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
+            "title": "SKY SPORTS FHD"
+          },
+          {
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
+            "title": "SKY SPORTS 4k"
+          },
+          {
+            "logo": "",
+            "title": "NOON SPORTS"
+          },
+          {
+            "logo": "",
+            "title": "SKY CRICKET"
+          },
+          {
+            "logo": "",
+            "title": "Star Sports HIN"
+          },
+          {
+            "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
+            "title": "WILLOW HINDI"
+          },
+          {
+            "logo": "",
+            "title": "SD SERVER"
+          }
+        ],
         "id": "366",
         "image": "o",
         "publish": "1",
@@ -581,6 +831,24 @@
           "teamB": "Lakers",
           "teamBFlag": "https://img.sofascore.com/api/v1/team/3427/image"
         },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "SportzX NBA"
+          },
+          {
+            "logo": "",
+            "title": "NBA LIVE FHD"
+          },
+          {
+            "logo": "",
+            "title": "SportzX Live"
+          },
+          {
+            "logo": "",
+            "title": "HD SERVER"
+          }
+        ],
         "id": "374",
         "image": "o",
         "publish": "1",
@@ -614,6 +882,16 @@
           "teamB": "Cardinals",
           "teamBFlag": "https://img.sofascore.com/api/v1/team/3632/image"
         },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "SportzX MLB"
+          },
+          {
+            "logo": "",
+            "title": "SportzX Live"
+          }
+        ],
         "id": "399",
         "image": "o",
         "publish": "1",
@@ -665,6 +943,20 @@
           "teamB": "Chelsea",
           "teamBFlag": "https://img.sofascore.com/api/v1/team/38/image"
         },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "TNT SPORTS FHD"
+          },
+          {
+            "logo": "",
+            "title": "FUBO SPORTS"
+          },
+          {
+            "logo": "",
+            "title": "NOVA SPORTS PL"
+          }
+        ],
         "id": "400",
         "image": "o",
         "publish": "1",
@@ -692,6 +984,12 @@
           "teamB": "Man Utd",
           "teamBFlag": "https://img.sofascore.com/api/v1/team/35/image"
         },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "NOVA SPORTS PL"
+          }
+        ],
         "id": "401",
         "image": "o",
         "publish": "1",
@@ -743,6 +1041,20 @@
           "teamB": "Brentford",
           "teamBFlag": "https://img.sofascore.com/api/v1/team/50/image"
         },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "FUBO SPORTS"
+          },
+          {
+            "logo": "",
+            "title": "UNIVERSO FHD"
+          },
+          {
+            "logo": "",
+            "title": "NOVA SPORTS PL"
+          }
+        ],
         "id": "402",
         "image": "o",
         "publish": "1",
@@ -788,6 +1100,12 @@
           "teamB": "Bournemouth",
           "teamBFlag": "https://img.sofascore.com/api/v1/team/60/image"
         },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "UNIVERSO FHD"
+          }
+        ],
         "id": "403",
         "image": "o",
         "publish": "1",
@@ -821,6 +1139,12 @@
           "teamB": "Wolves",
           "teamBFlag": "https://img.sofascore.com/api/v1/team/3/image"
         },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "SportzX Live"
+          }
+        ],
         "id": "404",
         "image": "o",
         "publish": "1",
@@ -854,6 +1178,16 @@
           "teamB": "Alavés",
           "teamBFlag": "https://img.sofascore.com/api/v1/team/2885/image"
         },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "PREMIER SPORTS"
+          },
+          {
+            "logo": "",
+            "title": "ESPN DEPORTES"
+          }
+        ],
         "id": "405",
         "image": "o",
         "publish": "1",
@@ -887,6 +1221,16 @@
           "teamB": "Espanyol",
           "teamBFlag": "https://img.sofascore.com/api/v1/team/2814/image"
         },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "Laliga TV FHD"
+          },
+          {
+            "logo": "",
+            "title": "ESPN DEPORTES"
+          }
+        ],
         "id": "406",
         "image": "o",
         "publish": "1",
@@ -926,6 +1270,20 @@
           "teamB": "Celta",
           "teamBFlag": "https://img.sofascore.com/api/v1/team/2821/image"
         },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "beIN ENGLISH FHD"
+          },
+          {
+            "logo": "",
+            "title": "Laliga TV FHD"
+          },
+          {
+            "logo": "",
+            "title": "ESPN DEPORTES"
+          }
+        ],
         "id": "407",
         "image": "o",
         "publish": "1",
@@ -959,10 +1317,94 @@
           "teamB": "Real Betis",
           "teamBFlag": "https://img.sofascore.com/api/v1/team/2816/image"
         },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "ESPN DEPORTES"
+          }
+        ],
         "id": "408",
         "image": "o",
         "publish": "1",
         "title": "Real Sociedad vs Real Betis"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "Bundesliga 🇩🇪",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://chatgpt.hereisman.net/playlist/50209/load-playlist?|Referer=https://gooz.aapmains.net",
+            "title": "SPORTIFy MLB",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://edgestreams.pro/hls/jkzahzadach20.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/09 15:30:00 +0000",
+          "eventName": "Stuttgart vs Bayer Leverkusen",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/09 13:30:00 +0000",
+          "teamA": "Stuttgart",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2677/image",
+          "teamB": "Leverkusen",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2681/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "SKY BUNDESLIGA SD"
+          }
+        ],
+        "id": "409",
+        "image": "o",
+        "publish": "1",
+        "title": "Stuttgart vs Bayer Leverkusen"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "Bundesliga 🇩🇪",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://chatgpt.hereisman.net/playlist/50141/load-playlist?|Referer=https://gooz.aapmains.net",
+            "title": "SPORTIFy MLB",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://mainstreams.pro/hls/jnzkdzjfanch23.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/09 18:30:00 +0000",
+          "eventName": "Wolfsburg vs Bayern München",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/09 16:30:00 +0000",
+          "teamA": "Wolfsburg",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2524/image",
+          "teamB": "Bayern",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2672/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "SKY BUNDESLIGA SD"
+          }
+        ],
+        "id": "410",
+        "image": "o",
+        "publish": "1",
+        "title": "Wolfsburg vs Bayern München"
       }
     ]
   }
