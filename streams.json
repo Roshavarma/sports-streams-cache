@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-08T02:10:22.005558",
+  "last_updated": "2026-05-08T02:20:32.375676",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "07:35:26 AM 08-05-2026",
+    "Last update time": "07:45:29 AM 08-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -634,6 +634,12 @@
         "channels_data": [
           {
             "api": "",
+            "link": "https://chatgpt.hereisman.net/playlist/50226/load-playlist?|Referer=https://gooz.aapmains.net",
+            "title": "SPORTIFy MLB",
+            "type": "0"
+          },
+          {
+            "api": "",
             "link": "https://edge2caster.pro/hls/fskjanach24.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
             "title": "SPORTIFy Live",
             "type": "0"
@@ -1137,60 +1143,6 @@
         "image": "o",
         "publish": "1",
         "title": "Red Sox vs Tampa Bay Rays"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "CON. Libertadores",
-        "channels_data": [
-          {
-            "api": "",
-            "link": "https://mainstreams.pro/hls/ojzkajnach21.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-            "title": "SPORTIFy Live",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/08 00:00:00 +0000",
-          "eventName": "Mirassol vs LDU",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/07 22:00:00 +0000",
-          "teamA": "Mirassol",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/21982/image",
-          "teamB": "LDU",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/5257/image"
-        },
-        "id": "413",
-        "image": "o",
-        "publish": "1",
-        "title": "Mirassol vs LDU"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "CON. Libertadores",
-        "channels_data": [
-          {
-            "api": "",
-            "link": "https://mainstreams.pro/hls/ijfnakfidch22.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-            "title": "SPORTIFy Live",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/08 00:00:00 +0000",
-          "eventName": "Platense vs Peñarol",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/07 22:00:00 +0000",
-          "teamA": "Platense",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/36837/image",
-          "teamB": "Peñarol",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3227/image"
-        },
-        "id": "414",
-        "image": "o",
-        "publish": "1",
-        "title": "Platense vs Peñarol"
       },
       {
         "adsLimit": "0",
