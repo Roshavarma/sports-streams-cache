@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-08T05:20:29.038792",
+  "last_updated": "2026-05-08T05:30:36.577845",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "10:45:33 AM 08-05-2026",
+    "Last update time": "10:55:22 AM 08-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -1629,6 +1629,152 @@
         "image": "o",
         "publish": "1",
         "title": "Torino vs Sassuolo"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "Bundesliga 🇩🇪",
+        "channels_data": [
+          {
+            "api": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
+            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
+            "title": "CBS NETWORK",
+            "type": "1"
+          },
+          {
+            "api": "",
+            "link": "https://smarthard.click/hls/sabrouchespndeportes/index.m3u8|referer=https://hardsmart.click/",
+            "title": "ESPN DEPORTES",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/08 20:30:00 +0000",
+          "eventName": "Borussia Dortmund vs Frankfurt",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/08 18:30:00 +0000",
+          "teamA": "Dortmund",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2673/image",
+          "teamB": "Frankfurt",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2674/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "SporTV BR FHD"
+          },
+          {
+            "logo": "",
+            "title": "ELEVEN SPORTS"
+          },
+          {
+            "logo": "",
+            "title": "SKY BUNDESLIGA SD"
+          }
+        ],
+        "id": "419",
+        "image": "o",
+        "publish": "1",
+        "title": "Borussia Dortmund vs Frankfurt"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "Ligue 1 🇫🇷",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://fallback-video.ivan-flux.workers.dev/video/index.m3u8",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/08 20:45:00 +0000",
+          "eventName": "RC Lens vs Nantes",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/08 18:45:00 +0000",
+          "teamA": "Lens",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/1648/image",
+          "teamB": "Nantes",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/1647/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "LIGUE 1+ HD"
+          }
+        ],
+        "id": "420",
+        "image": "o",
+        "publish": "1",
+        "title": "RC Lens vs Nantes"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "Kings Cup",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://live.vivo200.com/live/sd-1-4369067.m3u8?txSecret=8756e0b68e9b71f5ee342291d70fd6ce&txTime=69F7C3B2|Referer=https://player.787200.com/",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/08 20:00:00 +0000",
+          "eventName": "Al-Hilal vs Al-Kholood",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/08 18:00:00 +0000",
+          "teamA": "Al-Hilal",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/21895/image",
+          "teamB": "Al-Kholood",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/269199/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "FOX DEPORTES"
+          }
+        ],
+        "id": "421",
+        "image": "o",
+        "publish": "1",
+        "title": "Al-Hilal vs Al-Kholood"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "LaLiga 2",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://fallback-video.ivan-flux.workers.dev/video/index.m3u8",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/08 20:30:00 +0000",
+          "eventName": "Cádiz vs Deportivo",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/08 18:30:00 +0000",
+          "teamA": "Cádiz",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/4488/image",
+          "teamB": "Deportivo",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2832/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "Laliga Hypermotion ES"
+          }
+        ],
+        "id": "422",
+        "image": "o",
+        "publish": "1",
+        "title": "Cádiz vs Deportivo"
       }
     ]
   }
