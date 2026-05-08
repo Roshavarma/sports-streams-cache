@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-08T16:20:29.784464",
+  "last_updated": "2026-05-08T16:30:48.911237",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "09:45:28 PM 08-05-2026",
+    "Last update time": "09:55:34 PM 08-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -1371,7 +1371,13 @@
           },
           {
             "api": "",
-            "link": "https://instreams.pro/bil2/bundes2/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
+            "link": "https://pul-tenm.nbs3g.com/live/sd-1-4355852.m3u8?txSecret=268640b3db5c146ea05252770e5f2ec6&txTime=69FF5D4F",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://instreams.pro/bil2/bundes4/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
             "title": "SKY BUNDESLIGA SD",
             "type": "0"
           }
@@ -1390,7 +1396,7 @@
         "id": "423",
         "image": "o",
         "publish": "1",
-        "title": "Kaiserslautern vs Arminia Bielefeld"
+        "title": "Kaiserslautern vs Arminia"
       },
       {
         "adsLimit": "0",
@@ -1406,6 +1412,12 @@
             "api": "",
             "link": "https://livecdn-bp-livestream.rumsport7.live/stream/27/chunks.m3u8?is_vip=false&token=397508636a282d0664a97c78856437fa4cf7b893&x-sign=9782805c5c1c79d7a193a5a88d006afd&x-time=1778256480",
             "title": "HD SERVER",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://pul-tenm.nbs3g.com/live/sd-1-4355854.m3u8?txSecret=1c4265c96a232ae4878c29f3dd27dee7&txTime=69FF5D4F",
+            "title": "SPORTIFy Live",
             "type": "0"
           },
           {
