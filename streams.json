@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-08T02:40:29.949782",
+  "last_updated": "2026-05-08T02:50:27.515431",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "08:05:26 AM 08-05-2026",
+    "Last update time": "08:15:28 AM 08-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -639,51 +639,6 @@
         "image": "o",
         "publish": "1",
         "title": "San Diego Padres"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "UEFA Europa",
-        "channels_data": [
-          {
-            "api": "1d96ab366bbe6451edf7407b58e2fa16:0116201f4a63ac5bf5787d2c610c41a7",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5sxuux529k/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd",
-            "title": "TNT SPORTS FHD",
-            "type": "1"
-          },
-          {
-            "api": "fb194ba1c53f8c89a159f76e7830e2fb:37fca5c5cdd27d87ce1c78070d237274",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/shyc39mi7a/out/v1/c36180058f2a49a9ac8e96607922aa95/cenc.mpd",
-            "title": "VIX SPANISH FHD",
-            "type": "1"
-          },
-          {
-            "api": "",
-            "link": "https://livecdn-bp-livestream.rumsport7.live/stream/27/chunks.m3u8?is_vip=false&token=397508636a282d0664a97c78856437fa4cf7b893&x-sign=55c64d10ae0d8c57aaa56146b72b74eb&x-time=1778180100",
-            "title": "SPORTIFy Live",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/20000301/UEFA_Eur0705/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com",
-            "title": "SonyLiv [ENG]",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/07 21:00:00 +0000",
-          "eventName": "SC Freiburg vs Sporting Braga",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/07 19:00:00 +0000",
-          "teamA": "Freiburg",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2538/image",
-          "teamB": "Braga",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2999/image"
-        },
-        "id": "401",
-        "image": "o",
-        "publish": "1",
-        "title": "SC Freiburg vs Sporting Braga"
       },
       {
         "adsLimit": "0",
