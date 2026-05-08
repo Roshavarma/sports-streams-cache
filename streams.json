@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-08T17:50:30.415096",
+  "last_updated": "2026-05-08T18:00:48.501488",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "11:15:37 PM 08-05-2026",
+    "Last update time": "11:25:26 PM 08-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -522,11 +522,10 @@
           }
         ],
         "eventInfo": {
-          "endTime": "2026/05/08 11:30:00 +0000",
+          "endTime": "2026/05/09 11:30:00 +0000",
           "eventName": "Bangladesh vs Pakistan",
           "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/08 04:00:00 +0000",
+          "startTime": "2026/05/09 04:00:00 +0000",
           "teamA": "BAN",
           "teamAFlag": "https://img.sofascore.com/api/v1/team/187744/image",
           "teamB": "PAK",
@@ -1601,8 +1600,14 @@
         "cat": "Kings Cup",
         "channels_data": [
           {
+            "api": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
+            "title": "FOX DEPORTES",
+            "type": "1"
+          },
+          {
             "api": "",
-            "link": "https://live.vivo200.com/live/sd-1-4369067.m3u8?txSecret=8756e0b68e9b71f5ee342291d70fd6ce&txTime=69F7C3B2|Referer=https://player.787200.com/",
+            "link": "https://pul-tenm.nbs3g.com/live/sd-1-4532680.m3u8?txSecret=cf4847515657efa4be283426deb6b809&txTime=69FF7354",
             "title": "SPORTIFy Live",
             "type": "0"
           }
