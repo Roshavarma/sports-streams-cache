@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-08T18:50:24.832026",
+  "last_updated": "2026-05-08T19:00:47.213116",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "12:15:33 AM 09-05-2026",
+    "Last update time": "12:25:20 AM 09-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -1381,9 +1381,21 @@
         "cat": "LaLiga 🇪🇸",
         "channels_data": [
           {
+            "api": "620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a",
+            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd",
+            "title": "Laliga TV FHD",
+            "type": "1"
+          },
+          {
+            "api": "7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe",
+            "link": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
+            "title": "FANCODE FHD",
+            "type": "1"
+          },
+          {
             "api": "",
-            "link": "https://mainstreams.pro/hls/ijfnakfidch22.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-            "title": "SPORTIFy Live",
+            "link": "https://smarthard.click/hls/sabrouchespndeportes/index.m3u8|referer=https://hardsmart.click/",
+            "title": "ESPN DEPORTES",
             "type": "0"
           }
         ],
@@ -1489,15 +1501,15 @@
         "cat": "Serie A 🇮🇹",
         "channels_data": [
           {
-            "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
-            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
-            "title": "beIN ENGLISH FHD",
+            "api": "dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd",
+            "title": "FUBO SPORTS",
             "type": "1"
           },
           {
-            "api": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
-            "title": "FOX DEPORTES",
+            "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
+            "title": "beIN ENGLISH FHD",
             "type": "1"
           },
           {
@@ -1636,6 +1648,12 @@
             "api": "",
             "link": "https://livecdn-bp-iptv.rumsport7.live/live_abr/398_hd/index.m3u8?is_vip=false&token=397508636a282d0664a97c78856437fa4cf7b893&x-sign=2592c7a887dc873af61ba3c30591d70b&x-time=1778265420",
             "title": "beIN SPORTS US",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://xstm.250909.cc/live/SPORTSFLUX-PRD-75441-100/3015d8e2ea17/894.m3u8",
+            "title": "beIN SPORTS FHD",
             "type": "0"
           },
           {
