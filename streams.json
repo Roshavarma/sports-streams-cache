@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-08T18:00:48.501488",
+  "last_updated": "2026-05-08T18:10:32.099146",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "11:25:26 PM 08-05-2026",
+    "Last update time": "11:35:36 PM 08-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -1573,10 +1573,10 @@
         "cat": "Ligue 1 🇫🇷",
         "channels_data": [
           {
-            "api": "",
-            "link": "https://fallback-video.ivan-flux.workers.dev/video/index.m3u8",
-            "title": "SPORTIFy Live",
-            "type": "0"
+            "api": "0:0",
+            "link": "https://d1yi40sjj0ca0v.cloudfront.net/TVD2084/index.mpd",
+            "title": "LIGUE 1+ HD",
+            "type": "1"
           }
         ],
         "eventInfo": {
@@ -1603,6 +1603,12 @@
             "api": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811",
             "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
             "title": "FOX DEPORTES",
+            "type": "1"
+          },
+          {
+            "api": "0:0",
+            "link": "https://d1yi40sjj0ca0v.cloudfront.net/TVD1451/index.mpd",
+            "title": "THMANYAH HD",
             "type": "1"
           },
           {
