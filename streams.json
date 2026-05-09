@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-09T14:10:29.509737",
+  "last_updated": "2026-05-09T14:20:21.300076",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "07:38:28 PM 09-05-2026",
+    "Last update time": "07:45:25 PM 09-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -593,7 +593,7 @@
           "endTime": "2026/05/09 17:45:00 +0000",
           "eventName": "Rajasthan Royals vs Gujarat Titans",
           "eventType": "null",
-          "isHot": "0",
+          "isHot": "1",
           "startTime": "2026/05/09 14:00:00 +0000",
           "teamA": "RR",
           "teamAFlag": "https://img.sofascore.com/api/v1/team/187842/image",
@@ -1225,12 +1225,6 @@
         "cat": "LaLiga 🇪🇸",
         "channels_data": [
           {
-            "api": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f",
-            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
-            "title": "PREMIER SPORTS",
-            "type": "1"
-          },
-          {
             "api": "620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a",
             "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd",
             "title": "Laliga TV FHD",
@@ -1240,57 +1234,6 @@
             "api": "7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe",
             "link": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
             "title": "FANCODE FHD",
-            "type": "1"
-          },
-          {
-            "api": "",
-            "link": "https://livecdn-bp-livestream.rumsport7.live/stream/8/chunks.m3u8?is_vip=false&token=d9281b93e57381f7e8dc3553bca8ef5697b96b12&x-sign=13589da748bbfce633afa32845e6014b&x-time=1778327700",
-            "title": "DAZN SPORTS HD",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://chatgpt.hereisman.net/playlist/50281/load-playlist?|Referer=https://gooz.aapmains.net",
-            "title": "ESPN DEPORTES",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://pul-tenm.nbs3g.com/live/hd-en-1-4358332.m3u8?txSecret=a0511a8722a1be40aca8d2baa2737262&txTime=6A0072CA",
-            "title": "SPORTIFy Live",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://livecdn-bp-iptv.rumsport7.live/live_abr/51328_sd/index.m3u8?is_vip=false&token=d9281b93e57381f7e8dc3553bca8ef5697b96b12&x-sign=eec615a2898b47bfa74ceeeea1cde429&x-time=1778327880",
-            "title": "SD SERVER",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/09 14:00:00 +0000",
-          "eventName": "Elche vs Deportivo Alavés",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/09 12:00:00 +0000",
-          "teamA": "Elche",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2846/image",
-          "teamB": "Alavés",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2885/image"
-        },
-        "id": "405",
-        "image": "o",
-        "publish": "1",
-        "title": "Elche vs Deportivo Alavés"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "LaLiga 🇪🇸",
-        "channels_data": [
-          {
-            "api": "620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a",
-            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd",
-            "title": "Laliga TV FHD",
             "type": "1"
           },
           {
@@ -2167,141 +2110,6 @@
         "image": "o",
         "publish": "1",
         "title": "Málaga vs Sporting Gijón"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "2. Bundesliga",
-        "channels_data": [
-          {
-            "api": "0:0",
-            "link": "https://d1yi40sjj0ca0v.cloudfront.net/TVD6412/index.mpd",
-            "title": "ELEVEN SPORTS HD",
-            "type": "1"
-          },
-          {
-            "api": "",
-            "link": "https://livecdn-bp-livestream.rumsport7.live/stream/18/chunks.m3u8?is_vip=false&token=d9281b93e57381f7e8dc3553bca8ef5697b96b12&x-sign=8b597026ff5c8424bf9baec9cbd3bf9d&x-time=1778323920",
-            "title": "BUNDESLIGA HD",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://pul-tenm.nbs3g.com/live/sd-1-4355848.m3u8?txSecret=2d0e7984a4901e76e225590bc8ad8e33&txTime=6A006357",
-            "title": "SPORTIFy Live",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://instreams.pro/bil2/bundes3/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
-            "title": "SKY BUNDESLIGA SD",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/09 13:00:00 +0000",
-          "eventName": "Braunschweig vs Dynamo Dresden",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/09 11:00:00 +0000",
-          "teamA": "Braunschweig",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2557/image",
-          "teamB": "Dresden",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2595/image"
-        },
-        "id": "427",
-        "image": "o",
-        "publish": "1",
-        "title": "Braunschweig vs Dynamo Dresden"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "2. Bundesliga",
-        "channels_data": [
-          {
-            "api": "0:0",
-            "link": "https://d1yi40sjj0ca0v.cloudfront.net/TVD6414/index.mpd",
-            "title": "ELEVEN SPORTS HD",
-            "type": "1"
-          },
-          {
-            "api": "",
-            "link": "https://livecdn-bp-livestream.rumsport7.live/stream/9/chunks.m3u8?is_vip=false&token=d9281b93e57381f7e8dc3553bca8ef5697b96b12&x-sign=0688662b0abe2db1e1fb27e045c19e7f&x-time=1778323980",
-            "title": "BUNDESLIGA HD",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://pul-tenm.nbs3g.com/live/sd-1-4355847.m3u8?txSecret=4b97c7cb09a68d94c9f850d9655444d8&txTime=6A006357",
-            "title": "SPORTIFy Live",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://instreams.pro/bil2/bundes4/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
-            "title": "SKY BUNDESLIGA SD",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/09 13:00:00 +0000",
-          "eventName": "Bochum vs Hannover 96",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/09 11:00:00 +0000",
-          "teamA": "Bochum",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2542/image",
-          "teamB": "Hannover",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2541/image"
-        },
-        "id": "428",
-        "image": "o",
-        "publish": "1",
-        "title": "Bochum vs Hannover 96"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "2. Bundesliga",
-        "channels_data": [
-          {
-            "api": "0:0",
-            "link": "https://d1yi40sjj0ca0v.cloudfront.net/TVD6411/index.mpd",
-            "title": "ELEVEN SPORTS HD",
-            "type": "1"
-          },
-          {
-            "api": "",
-            "link": "https://livecdn-bp-livestream.rumsport7.live/stream/17/chunks.m3u8?is_vip=false&token=d9281b93e57381f7e8dc3553bca8ef5697b96b12&x-sign=1570cc331faec61f02854cf13b111daa&x-time=1778323920",
-            "title": "BUNDESLIGA HD",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://pul-tenm.nbs3g.com/live/sd-1-4355851.m3u8?txSecret=ab0e93c0e4123e332f551afa59bfd17d&txTime=6A006357",
-            "title": "SPORTIFy Live",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://instreams.pro/bil2/bundes5/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
-            "title": "SKY BUNDESLIGA SD",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/09 13:00:00 +0000",
-          "eventName": "Holstein Kiel vs Magdeburg",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/09 11:00:00 +0000",
-          "teamA": "Kiel",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2573/image",
-          "teamB": "Magdeburg",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2591/image"
-        },
-        "id": "429",
-        "image": "o",
-        "publish": "1",
-        "title": "Holstein Kiel vs Magdeburg"
       },
       {
         "adsLimit": "0",
