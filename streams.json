@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-09T11:50:26.141664",
+  "last_updated": "2026-05-09T12:00:43.868435",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "05:15:29 PM 09-05-2026",
+    "Last update time": "05:25:24 PM 09-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -227,11 +227,11 @@
           }
         ],
         "eventInfo": {
-          "endTime": "2026/05/08 14:45:00 +0000",
+          "endTime": "2026/05/09 14:45:00 +0000",
           "eventName": "MotoGP - Grand Prix de France",
           "eventType": "null",
           "isHot": "0",
-          "startTime": "2026/05/08 08:45:00 +0000",
+          "startTime": "2026/05/09 13:00:00 +0000",
           "teamA": "MotoGP",
           "teamAFlag": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8fGgE14VBFQKRIMiWIvOlIwpL6AEobQtL3OkLLu7AzsBPGzeXGHsz5PL0NED5DHlAyKCFhPHoNaFB4Z1csH_vvpU47Pbtslr1za618knr-wojLCDa1hyW40v59Qw_UjMGWLREzicm9ZDl7yMuylyu7xMdMoQG3-XXKLoZafem7lpKqxfKavQu-33Mbck/s1600/mgp.png",
           "teamB": "MotoGP",
@@ -870,6 +870,81 @@
         "image": "o",
         "publish": "1",
         "title": "IPL - 01"
+      },
+      {
+        "adsLimit": "9",
+        "cat": "Boxing",
+        "channels_data": [
+          {
+            "api": "192b1115da041585c77200128549efa1:634e10efe4abbb14be400a3ccbac0258",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/pnu10tp36z/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd",
+            "title": "TNT Sports 4",
+            "type": "1"
+          },
+          {
+            "api": "",
+            "link": "https://cdn16348712.blazingcdn.net/dx14fhd/index.m3u8|Referer=https://yahoo.com/&Origin=https://yahoo.com&User-Agent=AppleCoreMedia/1.0.0.23D5103d (iPhone; U; CPU OS 26_3 like Mac OS X; en_us)",
+            "title": "WILLOW (Ad Free)",
+            "type": "0"
+          },
+          {
+            "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+            "title": "WILLOW FHD",
+            "type": "1"
+          },
+          {
+            "api": "",
+            "link": "https://crichdplayer.com/willow-cricket-live-stream-2026",
+            "title": "WILLOW SD",
+            "type": "2"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/09 20:30:00 +0000",
+          "eventName": "Fabio Wardley vs Daniel Dubois",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/09 17:00:00 +0000",
+          "teamA": "F. Wardley",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/931824/image",
+          "teamB": "D. Dubois",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/928177/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "DAZN SPORTS HD"
+          },
+          {
+            "logo": "",
+            "title": "DAZN SPORTS - AQ"
+          },
+          {
+            "logo": "",
+            "title": "PPV Sports FHD"
+          },
+          {
+            "logo": "",
+            "title": "SportzX PPV HD"
+          },
+          {
+            "logo": "",
+            "title": "DAZN SPORTS FHD"
+          },
+          {
+            "logo": "",
+            "title": "DAZN SPANISH HD"
+          },
+          {
+            "logo": "",
+            "title": "SD SERVER"
+          }
+        ],
+        "id": "372",
+        "image": "o",
+        "publish": "1",
+        "title": "Fabio Wardley vs Daniel Dubois"
       },
       {
         "adsLimit": "0",
@@ -1703,6 +1778,10 @@
           {
             "logo": "",
             "title": "ESPN DEPORTES"
+          },
+          {
+            "logo": "",
+            "title": "FANCODE FHD"
           }
         ],
         "id": "405",
