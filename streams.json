@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-09T19:10:22.657867",
+  "last_updated": "2026-05-09T19:20:23.821485",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "12:35:22 AM 10-05-2026",
+    "Last update time": "12:45:26 AM 10-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -818,16 +818,10 @@
         "cat": "NHL",
         "channels_data": [
           {
-            "api": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f",
-            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
+            "api": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
+            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
             "title": "PREMIER SPORTS",
             "type": "1"
-          },
-          {
-            "api": "",
-            "link": "https://chatgpt.hereisman.net/playlist/50267/load-playlist?|Referer=https://gooz.aapmains.net",
-            "title": "SPORTIFy NHL",
-            "type": "0"
           },
           {
             "api": "",
@@ -860,12 +854,153 @@
       },
       {
         "adsLimit": "0",
+        "cat": "MLB",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://edgestreams.pro/hls/kjhfzua25.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/10 02:10:00 +0000",
+          "eventName": "Chicago White Sox vs Seattle Mariners",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/09 23:10:00 +0000",
+          "teamA": "White Sox",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3644/image",
+          "teamB": "Mariners",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3641/image"
+        },
+        "id": "394",
+        "image": "o",
+        "publish": "1",
+        "title": "Chicago White Sox"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "MLB",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://edgestreams.pro/hls/dzjhkfazbka26.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/10 02:15:00 +0000",
+          "eventName": "Arizona Diamondbacks vs New York Mets",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/09 23:15:00 +0000",
+          "teamA": "Diamondbacks",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3640/image",
+          "teamB": "Mets",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3629/image"
+        },
+        "id": "395",
+        "image": "o",
+        "publish": "1",
+        "title": "Arizona Diamondbacks"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "MLB",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://edgestreams.pro/hls/jzabfazkbf27.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/10 02:15:00 +0000",
+          "eventName": "San Diego Padres vs St. Louis Cardinals",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/09 23:15:00 +0000",
+          "teamA": "Padres",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3636/image",
+          "teamB": "Cardinals",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3632/image"
+        },
+        "id": "397",
+        "image": "o",
+        "publish": "1",
+        "title": "San Diego Padres"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "MLB",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://edgestreams.pro/hls/hefbafbakx28.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+            "title": "SPORTIFy LIVE",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/10 04:05:00 +0000",
+          "eventName": "San Francisco Giants vs Pittsburgh Pirates",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/10 01:05:00 +0000",
+          "teamA": "Giants",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3634/image",
+          "teamB": "Pirates",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3637/image"
+        },
+        "id": "398",
+        "image": "o",
+        "publish": "1",
+        "title": "San Francisco Giants"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "MLB",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://edge2caster.pro/hls/hfzljfahzcax29.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/10 04:10:00 +0000",
+          "eventName": "Los Angeles Dodgers vs Atlanta Braves",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/10 01:10:00 +0000",
+          "teamA": "Dodgers",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3638/image",
+          "teamB": "Braves",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3656/image"
+        },
+        "id": "399",
+        "image": "o",
+        "publish": "1",
+        "title": "Atlanta Braves"
+      },
+      {
+        "adsLimit": "0",
         "cat": "WWE",
         "channels_data": [
           {
             "api": "",
             "link": "https://27lftgqlgzmy.windows-devs.top/AccessLog2/83_FHD/apache.m3u8|Referer=https://27lftgqlgzmy.windows-devs.top/",
             "title": "HD SERVER",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://edgestreams.pro/hls/oeenzgezcz47.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+            "title": "SPORTIFy Live",
             "type": "0"
           }
         ],
