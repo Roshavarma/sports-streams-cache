@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-09T08:10:22.490943",
+  "last_updated": "2026-05-09T08:20:29.733421",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "01:35:23 PM 09-05-2026",
+    "Last update time": "01:40:23 PM 09-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -2813,6 +2813,309 @@
         "image": "o",
         "publish": "1",
         "title": "Red Sox vs Tampa Bay Rays"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "MLB",
+        "channels_data": [
+          {
+            "api": "294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd",
+            "title": "TNT SPORTS FHD",
+            "type": "1"
+          },
+          {
+            "api": "",
+            "link": "https://edge2caster.pro/hls/jnzkdzjfanch23.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/09 23:10:00 +0000",
+          "eventName": "Cincinnati Reds vs Houston Astros",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/09 20:10:00 +0000",
+          "teamA": "Reds",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3633/image",
+          "teamB": "Astros",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3655/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "SportzX Live"
+          }
+        ],
+        "id": "434",
+        "image": "o",
+        "publish": "1",
+        "title": "Cincinnati Reds vs Houston Astros"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "MLB",
+        "channels_data": [
+          {
+            "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
+            "title": "beIN ENGLISH FHD",
+            "type": "1"
+          },
+          {
+            "api": "",
+            "link": "https://livecdn-bp-iptv.rumsport7.live/live_abr/372_hd/index.m3u8?is_vip=false&token=397508636a282d0664a97c78856437fa4cf7b893&x-sign=ef53086c1337748ceb8c04499d85749a&x-time=1778266980",
+            "title": "SKY SPORTS HD",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://pul-tenm.nbs3g.com/live/sd-1-4538275.m3u8?txSecret=7fb208996ac96250598b4b0f12b7f02f&txTime=69FF7F84",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://livecdn-bp-iptv.rumsport7.live/live_abr/284_hd/index.m3u8?is_vip=false&token=397508636a282d0664a97c78856437fa4cf7b893&x-sign=db5fe5578fcf1189bac992ede62d4580&x-time=1778267040",
+            "title": "SKY MAIN EVENT",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/09 23:10:00 +0000",
+          "eventName": "Miami Marlins vs Nationals",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/09 20:10:00 +0000",
+          "teamA": "Marlins",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3639/image",
+          "teamB": "Nationals",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/5930/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "SportzX Live"
+          }
+        ],
+        "id": "435",
+        "image": "o",
+        "publish": "1",
+        "title": "Miami Marlins vs Nationals"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "MLB",
+        "channels_data": [
+          {
+            "api": "d69894c7b729c5d1e85893e5e6cfcb0f:db0d53f871f5d2ef91d3a112c7ec9f30",
+            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/tcninbbnt5/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd",
+            "title": "Laliga Hypermotion ES",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/10 01:05:00 +0000",
+          "eventName": "Phillies vs Colorado Rockies",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/09 22:05:00 +0000",
+          "teamA": "Phillies",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3635/image",
+          "teamB": "Rockies",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3628/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "SportzX Live"
+          }
+        ],
+        "id": "436",
+        "image": "o",
+        "publish": "1",
+        "title": "Phillies vs Colorado Rockies"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "MLB",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://instreams.pro/bil2/bundes3/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
+            "title": "SKY BUNDESLIGA SD",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://live.vivo200.com/live/sd-1-4355839.m3u8?txSecret=1bcd4019e9c6406f85b67014d1c71afe&txTime=69F772E2|Referer=https://player.787200.com/",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://instreams.pro/EU/HDTV15/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
+            "title": "SKY BUNDESLIGA HD",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/10 01:10:00 +0000",
+          "eventName": "Cleveland Guardians vs Minnesota Twins",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/09 22:10:00 +0000",
+          "teamA": "Guardians",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3650/image",
+          "teamB": "Twins",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3649/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "SportzX Live"
+          }
+        ],
+        "id": "437",
+        "image": "o",
+        "publish": "1",
+        "title": "Guardians vs Minnesota Twins"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "MLB",
+        "channels_data": [
+          {
+            "api": "69021095220f3c0eae9bc24215fd692b:eb58cfe0458ed0b48f7351fa3393ad59",
+            "link": "https://r.e.blueonline.tv/l/tvsmart/live/eds/Eleven_Sport_1/DHD/Manifest.mpd",
+            "title": "ELEVEN SPORTS",
+            "type": "1"
+          },
+          {
+            "api": "",
+            "link": "https://instreams.pro/EU/HDTV15/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
+            "title": "SKY BUNDESLIGA HD",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://instreams.pro/bil2/bundes3/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
+            "title": "SKY BUNDESLIGA SD",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://live.vivo200.com/live/sd-1-4355838.m3u8?txSecret=42a21b53c8c84edcc91ef5b95b499d34&txTime=69F61FD0|Referer=https://player.787200.com/",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/10 02:05:00 +0000",
+          "eventName": "Texas Rangers vs Chicago Cubs",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/09 23:05:00 +0000",
+          "teamA": "Rangers",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3647/image",
+          "teamB": "Cubs",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3627/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "SportzX Live"
+          }
+        ],
+        "id": "438",
+        "image": "o",
+        "publish": "1",
+        "title": "Texas Rangers vs Chicago Cubs"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "MLB",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://instreams.pro/bil2/bundes6/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
+            "title": "SKY BUNDESLIGA SD",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://live.vivo200.com/live/sd-1-4355843.m3u8?txSecret=f784b199f4fa7024a8069220f60478c6&txTime=69F773B8|Referer=https://player.787200.com/",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/10 02:10:00 +0000",
+          "eventName": "Kansas City Royals vs Detroit Tigers",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/09 23:10:00 +0000",
+          "teamA": "Royals",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3651/image",
+          "teamB": "Tigers",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3648/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "SportzX Live"
+          }
+        ],
+        "id": "439",
+        "image": "o",
+        "publish": "1",
+        "title": "Royals vs Detroit Tigers"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "MLB",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://instreams.pro/EU/HDTV17/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
+            "title": "SKY BUNDESLIGA HD",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://instreams.pro/bil2/bundes5/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
+            "title": "SKY BUNDESLIGA SD",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://live.vivo200.com/live/sd-1-4355842.m3u8?txSecret=99450e9c8e2108f9d9a72c1751d3d080&txTime=69F61F54|Referer=https://player.787200.com/",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/10 02:10:00 +0000",
+          "eventName": "Milwaukee Brewers vs Yankees",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/09 23:10:00 +0000",
+          "teamA": "Brewers",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3630/image",
+          "teamB": "Yankees",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3654/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "SportzX Live"
+          }
+        ],
+        "id": "440",
+        "image": "o",
+        "publish": "1",
+        "title": "Milwaukee Brewers vs Yankees"
       }
     ]
   }
