@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-09T19:00:45.421858",
+  "last_updated": "2026-05-09T19:10:22.657867",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "12:25:21 AM 10-05-2026",
+    "Last update time": "12:35:22 AM 10-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -753,39 +753,6 @@
         "channels_data": [
           {
             "api": "0:0",
-            "link": "https://d1yi40sjj0ca0v.cloudfront.net/TVD6737/index.mpd",
-            "title": "THMANYAH HD",
-            "type": "1"
-          },
-          {
-            "api": "",
-            "link": "https://live.vivo200.com/live/sd-1-4404665.m3u8?txSecret=33d1ad4c7abf212daea0bf7acdac6781&txTime=69FFA4C6|referer=https://player.online909.com/",
-            "title": "SPORTIFy Live",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/09 18:15:00 +0000",
-          "eventName": "Al-Najma SC vs Al-Hazem",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/09 16:15:00 +0000",
-          "teamA": "Al-Najma",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/395831/image",
-          "teamB": "Al-Hazem",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/168086/image"
-        },
-        "id": "384",
-        "image": "o",
-        "publish": "1",
-        "title": "Al-Najma SC vs Al-Hazem"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "Pro League 🇸🇦",
-        "channels_data": [
-          {
-            "api": "0:0",
             "link": "https://d1yi40sjj0ca0v.cloudfront.net/TVD1403/index.mpd",
             "title": "THMANYAH HD",
             "type": "1"
@@ -1072,10 +1039,22 @@
         "cat": "LaLiga 🇪🇸",
         "channels_data": [
           {
+            "api": "065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2",
+            "link": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
+            "title": "FANCODE FHD",
+            "type": "1"
+          },
+          {
             "api": "",
             "link": "https://chatgpt.hereisman.net/playlist/50305/load-playlist?|Referer=https://gooz.aapmains.net",
             "title": "ESPN DEPORTES",
             "type": "0"
+          },
+          {
+            "api": "5689304538fa9f3bb3da99c939a2ad4f:6907c88ed8ebdd35a2fa80b9684715e1",
+            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash-sd/enc/v8g0dlo4z8/out/v1/946019f85dc64ae99ff9ce64a9727a62/cenc-sd.mpd",
+            "title": "FANCODE - SD",
+            "type": "1"
           },
           {
             "api": "",
@@ -1477,16 +1456,10 @@
         "cat": "LaLiga 2",
         "channels_data": [
           {
-            "api": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
-            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
-            "title": "SportDigital Fussball",
+            "api": "d69894c7b729c5d1e85893e5e6cfcb0f:db0d53f871f5d2ef91d3a112c7ec9f30",
+            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/tcninbbnt5/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd",
+            "title": "Laliga Hypermotion ES",
             "type": "1"
-          },
-          {
-            "api": "",
-            "link": "https://instreams.pro/bil2/foxnl2/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
-            "title": "ESPN NL",
-            "type": "0"
           }
         ],
         "eventInfo": {
@@ -1942,16 +1915,16 @@
         "cat": "Brasileirão",
         "channels_data": [
           {
-            "api": "",
-            "link": "https://chatgpt.hereisman.net/playlist/50028/load-playlist?|Referer=https://gooz.aapmains.net",
-            "title": "SPORTIFy MLB",
-            "type": "0"
+            "api": "56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd",
+            "title": "PREMIERER BR",
+            "type": "1"
           },
           {
-            "api": "",
-            "link": "https://mainstreams.pro/hls/dazhfiach15.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-            "title": "SPORTIFy Live",
-            "type": "0"
+            "api": "4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733",
+            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd",
+            "title": "SporTV BR",
+            "type": "1"
           }
         ],
         "eventInfo": {
@@ -1975,16 +1948,16 @@
         "cat": "Brasileirão",
         "channels_data": [
           {
-            "api": "",
-            "link": "https://chatgpt.hereisman.net/playlist/50035/load-playlist?|Referer=https://gooz.aapmains.net",
-            "title": "SPORTIFy MLB",
-            "type": "0"
+            "api": "9dc40460c93087aea84d6315f08ecb64:f69c8d4624fddff4ca89bd0b31bdc4a7",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/oy6rp0jwmf/out/v1/580ecf12bad24979baf8dd993dce053e/cenc.mpd",
+            "title": "PREMIERER BR",
+            "type": "1"
           },
           {
-            "api": "",
-            "link": "https://mainstreams.pro/hls/Czajafjihafch18.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-            "title": "SPORTIFy Live",
-            "type": "0"
+            "api": "4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733",
+            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd",
+            "title": "SporTV BR",
+            "type": "1"
           }
         ],
         "eventInfo": {
