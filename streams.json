@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-09T03:10:22.975748",
+  "last_updated": "2026-05-09T03:20:19.430379",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "08:35:22 AM 09-05-2026",
+    "Last update time": "08:45:22 AM 09-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -829,33 +829,6 @@
         "image": "o",
         "publish": "1",
         "title": "Golden Knights"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "MLB",
-        "channels_data": [
-          {
-            "api": "",
-            "link": "https://edgestreams.pro/hls/kjhfzua25.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-            "title": "SPORTIFy Live",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/09 03:05:00 +0000",
-          "eventName": "Texas Rangers vs Chicago Cubs",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/09 00:05:00 +0000",
-          "teamA": "Rangers",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3647/image",
-          "teamB": "Cubs",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3627/image"
-        },
-        "id": "394",
-        "image": "o",
-        "publish": "1",
-        "title": "Texas Rangers"
       },
       {
         "adsLimit": "0",
@@ -1852,66 +1825,6 @@
         "image": "o",
         "publish": "1",
         "title": "White Sox vs Seattle Mariners"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "MLB",
-        "channels_data": [
-          {
-            "api": "d69894c7b729c5d1e85893e5e6cfcb0f:db0d53f871f5d2ef91d3a112c7ec9f30",
-            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/tcninbbnt5/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd",
-            "title": "Laliga Hypermotion ES",
-            "type": "1"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/09 02:40:00 +0000",
-          "eventName": "Kansas City Royals vs Detroit Tigers",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/08 23:40:00 +0000",
-          "teamA": "Royals",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3651/image",
-          "teamB": "Tigers",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3648/image"
-        },
-        "id": "433",
-        "image": "o",
-        "publish": "1",
-        "title": "Kansas City Royals vs Detroit Tigers"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "MLB",
-        "channels_data": [
-          {
-            "api": "294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd",
-            "title": "TNT SPORTS FHD",
-            "type": "1"
-          },
-          {
-            "api": "",
-            "link": "https://edge2caster.pro/hls/jnzkdzjfanch23.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-            "title": "SPORTIFy Live",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/09 02:40:00 +0000",
-          "eventName": "Milwaukee Brewers vs Yankees",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/08 23:40:00 +0000",
-          "teamA": "Brewers",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3630/image",
-          "teamB": "Yankees",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3654/image"
-        },
-        "id": "434",
-        "image": "o",
-        "publish": "1",
-        "title": "Milwaukee Brewers vs Yankees"
       }
     ]
   }
