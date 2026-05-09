@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-09T13:51:32.368363",
+  "last_updated": "2026-05-09T14:00:51.519546",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "07:15:31 PM 09-05-2026",
+    "Last update time": "07:25:27 PM 09-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -547,9 +547,15 @@
         "cat": "Indian Premier League",
         "channels_data": [
           {
-            "api": "312caacca6c466f5cd0370c2e8e8c9f4:fc7c0c9b47aa40e38ff54a37z32\u0014664b",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oza9awjiss/out/v1/2a778994779d49aab71f12a506f7dfd5/cenc.mpd",
+            "api": "fbf23b89ab8d11e020f1dd432f627f2e:ca01504f23c670108d9aa43bUb3\u0017e413",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zskke7j0bk/out/v1/3cb77d5891424c098c13b7e0229edfa0/cenc.mpd",
             "title": "WILLOW [Ad-Free]",
+            "type": "1"
+          },
+          {
+            "api": "8d12d73fee3ba1b021898fb38fe4ebb1:97dd1dffe50a33cd90463e84t02\u00132d76",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/gdyvb1frmv/out/v1/e70f4454df554f47b3352767ab325543/cenc-sd.mpd",
+            "title": "WILLOW - SD",
             "type": "1"
           },
           {
@@ -985,10 +991,28 @@
             "type": "1"
           },
           {
+            "api": "",
+            "link": "https://chatgpt.hereisman.net/playlist/50288/load-playlist?|Referer=https://gooz.aapmains.net",
+            "title": "PEACOCK TV HD",
+            "type": "0"
+          },
+          {
             "api": "0:0",
             "link": "https://d1yi40sjj0ca0v.cloudfront.net/TVD6219/index.mpd",
             "title": "NOVA SPORTS PL",
             "type": "1"
+          },
+          {
+            "api": "",
+            "link": "https://storage.googleapis.com/unicertyngher2/mux_video_ts1/index-1.m3u8",
+            "title": "SKY SPORTS HD",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://live.vivo200.com/live/hd-en-1-4343263.m3u8?txSecret=c32b039c449350f0b38b9c6e71c9796d&txTime=69FF8318|referer=https://player.online909.com/",
+            "title": "SPORTIFy Live",
+            "type": "0"
           },
           {
             "api": "",
@@ -1088,6 +1112,24 @@
           },
           {
             "api": "",
+            "link": "https://storage.googleapis.com/unicertyngher3/mux_video_ts1/index-1.m3u8",
+            "title": "USA NETWORK HD",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://chatgpt.hereisman.net/playlist/50289/load-playlist?|Referer=https://gooz.aapmains.net",
+            "title": "USA TV HD",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://live.vivo200.com/live/hd-en-1-4343243.m3u8?txSecret=5237c540ea8dc73b51df579001bf280d&txTime=69FF838A|referer=https://player.online909.com/",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          },
+          {
+            "api": "",
             "link": "https://cdn-1.ttvb.eu.org/api/Hub-Premier-2/index.m3u8",
             "title": "HUB PREMIER HD",
             "type": "0"
@@ -1118,6 +1160,24 @@
             "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1778407461~acl=%2F*~id=638a748f-951e-403b-aa3f-0f342172f46e~data=hdntl,aXA9MjA4Ljg3LjI0Mi4yMyZleHA9MTc3ODMyMTA5MCZlaWQ9OTM4NTQ3Jm9pZD0xNTQmdHlwZT1WT0QmdWlkPXhSUnFvOXxiY2FlYTdjZi1jMzM3LTQwMzktODE1OC0zYzFjZTQ5ZTcyOTMmY2lkPWRjZS5maXNmZWQmcHQ9bnVsbA~hmac=7af817fc5df624e16b23f2334fdc33c97f490f3f076a4128d0cd8bcdd3d3481d/dash/live/2093717/219028-321030/manifest-d.mpd",
             "title": "SKY SPORTS FHD",
             "type": "1"
+          },
+          {
+            "api": "",
+            "link": "https://chatgpt.hereisman.net/playlist/50287/load-playlist?|Referer=https://gooz.aapmains.net",
+            "title": "PEACOCK TV HD",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://storage.googleapis.com/unicertyngher1/mux_video_ts1/index-1.m3u8",
+            "title": "SKY SPORTS HD",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://live.vivo200.com/live/hd-en-1-4343253.m3u8?txSecret=47c8e648340361b6c85e809f14836413&txTime=69FF83AC|referer=https://player.online909.com/",
+            "title": "SPORTIFy Live",
+            "type": "0"
           },
           {
             "api": "",
