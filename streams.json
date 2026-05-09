@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-09T16:00:46.821312",
+  "last_updated": "2026-05-09T16:06:22.723327",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "09:25:21 PM 09-05-2026",
+    "Last update time": "09:30:50 PM 09-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -1105,69 +1105,6 @@
         "cat": "EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
         "channels_data": [
           {
-            "api": "01d02c97d1c949f9877acd230dcaa56d:708410b8bf1f4e998931183e8fab5d1e",
-            "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1778407470~acl=%2F*~id=e9e9354d-c0f4-41da-9d16-c97e89c40165~data=hdntl,aXA9MjA4Ljg3LjI0Mi4yMyZleHA9MTc3ODMyMTEwMCZlaWQ9OTM5OTYzJm9pZD0xNTQmdHlwZT1WT0QmdWlkPXhSUnFvOXxiY2FlYTdjZi1jMzM3LTQwMzktODE1OC0zYzFjZTQ5ZTcyOTMmY2lkPWRjZS5maXNmZWQmcHQ9bnVsbA~hmac=f587292364824a9d280a97c138c9703b285561bd300ce8c93195ed7da577ede1/dash/live/2093719/219037-321031/manifest-d.mpd",
-            "title": "SKY SPORTS FHD",
-            "type": "1"
-          },
-          {
-            "api": "96b67fa09140329a89b7a1ead134eda3:c618d32c56cdc6cad8330eb98507ca3f",
-            "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-east)/master.mpd",
-            "title": "UNIVERSO FHD",
-            "type": "1"
-          },
-          {
-            "api": "",
-            "link": "https://storage.googleapis.com/unicertyngher3/mux_video_ts1/index-1.m3u8",
-            "title": "USA NETWORK HD",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://chatgpt.hereisman.net/playlist/50289/load-playlist?|Referer=https://gooz.aapmains.net",
-            "title": "USA TV HD",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://live.vivo200.com/live/hd-en-1-4343243.m3u8?txSecret=5237c540ea8dc73b51df579001bf280d&txTime=69FF838A|referer=https://player.online909.com/",
-            "title": "SPORTIFy Live",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://livecdn-bp-livestream.rumsport7.live/stream/27/chunks.m3u8?is_vip=false&token=d9281b93e57381f7e8dc3553bca8ef5697b96b12&x-sign=be7131a4aba41e5977fd4e7c13ebf1cf&x-time=1778335200",
-            "title": "FUBO SPORTS HD",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://livecdn-bp-iptv.rumsport7.live/live_abr/144254_hd/index.m3u8?is_vip=false&token=d9281b93e57381f7e8dc3553bca8ef5697b96b12&x-sign=cb266428f9bfb47986e821c30886f3b8&x-time=1778335140",
-            "title": "HUB PREMIER HD",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/09 16:00:00 +0000",
-          "eventName": "Fulham vs Bournemouth",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/09 14:00:00 +0000",
-          "teamA": "Fulham",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/43/image",
-          "teamB": "Bournemouth",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/60/image"
-        },
-        "id": "403",
-        "image": "o",
-        "publish": "1",
-        "title": "Fulham vs Bournemouth"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-        "channels_data": [
-          {
             "api": "2e2636daa74141b68cc14882ea3ff82b:0961f48287324adbb4b7ff3c9d82b3c9",
             "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1778407461~acl=%2F*~id=638a748f-951e-403b-aa3f-0f342172f46e~data=hdntl,aXA9MjA4Ljg3LjI0Mi4yMyZleHA9MTc3ODMyMTA5MCZlaWQ9OTM4NTQ3Jm9pZD0xNTQmdHlwZT1WT0QmdWlkPXhSUnFvOXxiY2FlYTdjZi1jMzM3LTQwMzktODE1OC0zYzFjZTQ5ZTcyOTMmY2lkPWRjZS5maXNmZWQmcHQ9bnVsbA~hmac=7af817fc5df624e16b23f2334fdc33c97f490f3f076a4128d0cd8bcdd3d3481d/dash/live/2093717/219028-321030/manifest-d.mpd",
             "title": "SKY SPORTS FHD",
@@ -1403,6 +1340,12 @@
             "link": "https://d1yi40sjj0ca0v.cloudfront.net/TVD6414/index.mpd",
             "title": "ELEVEN SPORTS HD",
             "type": "1"
+          },
+          {
+            "api": "",
+            "link": "https://edgestreams.pro/hls/ueyeztrazb4.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+            "title": "SKY BUNDESLIGA HD",
+            "type": "0"
           },
           {
             "api": "",
@@ -1714,6 +1657,12 @@
             "api": "",
             "link": "https://livecdn-bp-livestream.rumsport7.live/stream/7/chunks.m3u8?is_vip=false&token=d9281b93e57381f7e8dc3553bca8ef5697b96b12&x-sign=7e560fbdb5bb249cc61ddadac996d9fa&x-time=1778341860",
             "title": "CBS SPORTS HD",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://instreams.pro/EU/HDTV11/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
+            "title": "DAZN SPORTS IT",
             "type": "0"
           },
           {
