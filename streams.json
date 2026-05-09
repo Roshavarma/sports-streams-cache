@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-09T04:10:25.885841",
+  "last_updated": "2026-05-09T04:20:19.526524",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "09:35:28 AM 09-05-2026",
+    "Last update time": "09:45:29 AM 09-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -485,6 +485,12 @@
         "cat": "Cricket",
         "channels_data": [
           {
+            "api": "fc4baaceff24386758d4fa5029c0f20a:d8cabe7f21ce9d6e83d7780f374abd5f",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/is0vmlzfsu/out/v1/d9f9e2edcb7b42e9814b3af8dccf9c40/cenc.mpd",
+            "title": "Willow [Ad-Free]",
+            "type": "1"
+          },
+          {
             "api": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f",
             "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
             "title": "PREMIER SPORTS",
@@ -501,6 +507,12 @@
             "link": "https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJyZWZlcmVyIjoiaHR0cHM6Ly9kb25pcy5qaW1wZW5vcGlzb25saW5lLm9ubGluZS9wcmVtaXVtdHYvZGFkZHk0LnBocD9pZD01OTIiLCJtM3U4IjoiaHR0cHM6Ly96b3Rvcy52b2dsZW1wYW5pcy5vbmxpbmUvcHJlbWl1bTU5Mi90cmFja3MtdjFhMS9tb25vLmNzcyIsInRzIjoxNzc4MjEzNTYyODIwLCJjaGFubmVsSWQiOiI1OTIifQ",
             "title": "SKY SPORTS HD",
             "type": "0"
+          },
+          {
+            "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+            "title": "Willow HD",
+            "type": "1"
           },
           {
             "api": "709c812e1b4174002605df1d17d34a4c:0bbee6c9c20a0f065bf8369d54cbf83e",
