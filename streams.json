@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-09T01:25:04.307917",
+  "last_updated": "2026-05-09T01:30:41.575307",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "06:50:34 AM 09-05-2026",
+    "Last update time": "06:55:28 AM 09-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -1537,138 +1537,6 @@
         "image": "o",
         "publish": "1",
         "title": "Lecce vs Juventus"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "Serie A 🇮🇹",
-        "channels_data": [
-          {
-            "api": "dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd",
-            "title": "FUBO SPORTS",
-            "type": "1"
-          },
-          {
-            "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
-            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
-            "title": "beIN ENGLISH FHD",
-            "type": "1"
-          },
-          {
-            "api": "",
-            "link": "https://livecdn-bp-livestream.rumsport7.live/stream/25/chunks.m3u8?is_vip=false&token=397508636a282d0664a97c78856437fa4cf7b893&x-sign=135deca1ac7e837a9a959fc4b86c9361&x-time=1778265480",
-            "title": "PARAMOUNT+ HD",
-            "type": "0"
-          },
-          {
-            "api": "0:0",
-            "link": "https://d1yi40sjj0ca0v.cloudfront.net/TVD4071/index.mpd",
-            "title": "COSMOTE Sport HD",
-            "type": "1"
-          },
-          {
-            "api": "0:0",
-            "link": "https://d1yi40sjj0ca0v.cloudfront.net/TVD6414/index.mpd",
-            "title": "ELEVEN SPORTS",
-            "type": "1"
-          },
-          {
-            "api": "",
-            "link": "https://edge2caster.pro/hls/syaLqucEne4k.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-            "title": "DAZN SPORTS IT",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://pul-tenm.nbs3g.com/live/hd-en-1-4339704.m3u8?txSecret=184e50f5b5cc3d88f446d38c32b8b811&txTime=69FF7F84",
-            "title": "SPORTIFy Live",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/08 20:45:00 +0000",
-          "eventName": "Torino vs Sassuolo",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/08 18:45:00 +0000",
-          "teamA": "Torino",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2696/image",
-          "teamB": "Sassuolo",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2793/image"
-        },
-        "id": "418",
-        "image": "o",
-        "publish": "1",
-        "title": "Torino vs Sassuolo"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "Bundesliga 🇩🇪",
-        "channels_data": [
-          {
-            "api": "3de028eafb3b2caffec03be1c1c818b3:8fbdd8a9ae6748696bb13e547bb093fc",
-            "link": "https://otte.cache.aiv-cdn.net/gru-nitro/live/clients/dash/enc/dsa3hwuhd1/out/v1/631b48c8d9ea437e8309d1a4b55acef5/cenc.mpd",
-            "title": "SporTV BR FHD",
-            "type": "1"
-          },
-          {
-            "api": "",
-            "link": "https://livecdn-bp-livestream.rumsport7.live/stream/8/chunks.m3u8?is_vip=false&token=397508636a282d0664a97c78856437fa4cf7b893&x-sign=6c8a2a9b7e3fc18c4ef97accbd76ec12&x-time=1778264040",
-            "title": "BUNDESLIGA HD",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://soccer.250909.cc/event/1726/index.m3u8",
-            "title": "DAZN SPORTS",
-            "type": "0"
-          },
-          {
-            "api": "0:0",
-            "link": "https://d1yi40sjj0ca0v.cloudfront.net/TVD6411/index.mpd",
-            "title": "ELEVEN SPORTS",
-            "type": "1"
-          },
-          {
-            "api": "",
-            "link": "https://edge2caster.pro/hls/ueyeztrazb4.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-            "title": "SKY BUNDESLIGA HD",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://pul-tenm.nbs3g.com/live/hd-en-1-4347626.m3u8?txSecret=e2e247c12338a1b5013ef7ec2bf75ddc&txTime=69FF7C3E",
-            "title": "SPORTIFy Live",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://instreams.pro/bil2/bundes1/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
-            "title": "SKY BUNDESLIGA SD",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/20000291/BLIGA_Bo0805/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com",
-            "title": "SonyLiv HD",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/08 20:30:00 +0000",
-          "eventName": "Borussia Dortmund vs Frankfurt",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/08 18:30:00 +0000",
-          "teamA": "Dortmund",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2673/image",
-          "teamB": "Frankfurt",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2674/image"
-        },
-        "id": "419",
-        "image": "o",
-        "publish": "1",
-        "title": "Borussia Dortmund vs Frankfurt"
       },
       {
         "adsLimit": "0",
