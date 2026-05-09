@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-09T18:40:27.286239",
+  "last_updated": "2026-05-09T18:50:26.919569",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "12:05:27 AM 10-05-2026",
+    "Last update time": "12:15:32 AM 10-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -664,14 +664,20 @@
           {
             "api": "c4088f5f265f9de50cffd80bf89308b7:2c4d2239d96d532b4ec2050653611003",
             "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
-            "title": "TSN 4",
+            "title": "TSN SPORTS FHD",
             "type": "1"
           },
           {
             "api": "e51aa21f2a0fef9aabc120dfb655b52f:a12a987fe725a40b6be95cd84b15f689",
             "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
-            "title": "TSN 1",
+            "title": "TSN SPORTS HD",
             "type": "1"
+          },
+          {
+            "api": "",
+            "link": "https://chatgpt.hereisman.net/playlist/50304/load-playlist?|Referer=https://gooz.aapmains.net",
+            "title": "SPORTIFy NBA",
+            "type": "0"
           },
           {
             "api": "",
@@ -707,28 +713,10 @@
         "cat": "NBA",
         "channels_data": [
           {
-            "api": "e51aa21f2a0fef9aabc120dfb655b52f:a12a987fe725a40b6be95cd84b15f689",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
+            "api": "c4088f5f265f9de50cffd80bf89308b7:2c4d2239d96d532b4ec2050653611003",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
             "title": "TSN SPORTS FHD",
             "type": "1"
-          },
-          {
-            "api": "",
-            "link": "https://chatgpt.hereisman.net/playlist/50266/load-playlist?|Referer=https://gooz.aapmains.net",
-            "title": "SPORTIFy NBA",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://nb2.bpfiles.cfd/live/timber/stream.m3u8",
-            "title": "NBA LIVE FHD",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://pul-tenm.nbs3g.com/live/hd-en-2-3918855.m3u8?txSecret=08342df6047b9a3676afdb797fd38025&txTime=69FFE44B",
-            "title": "SPY LIVE HD",
-            "type": "0"
           },
           {
             "api": "",
@@ -740,12 +728,6 @@
             "api": "",
             "link": "https://instreams.pro/US/NBA2/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
             "title": "HD SERVER",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "http://193.47.62.192/hls/waaax.m3u8|Referer=http://www.fawanews.sc/",
-            "title": "SD SERVER",
             "type": "0"
           }
         ],
@@ -911,30 +893,29 @@
       },
       {
         "adsLimit": "0",
-        "cat": "EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+        "cat": "WWE",
         "channels_data": [
           {
-            "api": "7a2758575dc04d63acc3573ab594d441:47071dd80de746a38cdc6a4dcde21abc",
-            "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1778407475~acl=%2f*~id=abb506c5-4e11-4f2a-8f4c-bc87e14db85a~data=hdntl,aXA9MjA4Ljg3LjI0Mi4yMyZleHA9MTc3ODMyMTEwNSZlaWQ9OTM2NDI0Jm9pZD0xNTQmdHlwZT1WT0QmdWlkPXhSUnFvOXxiY2FlYTdjZi1jMzM3LTQwMzktODE1OC0zYzFjZTQ5ZTcyOTMmY2lkPWRjZS5maXNmZWQmcHQ9bnVsbA~hmac=06e99f1f8445fdc9f801ffe190da453128aff20c7541f4ab80fcdadfecb29663/dash/live/2093712/219035-321027/manifest-d.mpd",
-            "title": "SKY SPORTS FHD",
-            "type": "1"
+            "api": "",
+            "link": "https://27lftgqlgzmy.windows-devs.top/AccessLog2/83_FHD/apache.m3u8|Referer=https://27lftgqlgzmy.windows-devs.top/",
+            "title": "HD SERVER",
+            "type": "0"
           }
         ],
         "eventInfo": {
-          "endTime": "2026/05/09 16:00:00 +0000",
-          "eventName": "EPL Goal Rush",
+          "endTime": "2026/05/10 02:30:00 +0000",
+          "eventName": "WWE Backlash",
           "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/09 13:55:00 +0000",
-          "teamA": "EPL",
-          "teamAFlag": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/47.png",
-          "teamB": "EPL",
-          "teamBFlag": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/47.png"
+          "startTime": "2026/05/09 21:00:00 +0000",
+          "teamA": "WWE Backlash",
+          "teamAFlag": "https://upload.wikimedia.org/wikipedia/en/9/98/WWE_Backlash_2025_logo.png",
+          "teamB": "WWE Backlash",
+          "teamBFlag": "https://upload.wikimedia.org/wikipedia/en/9/98/WWE_Backlash_2025_logo.png"
         },
         "id": "400",
         "image": "o",
         "publish": "1",
-        "title": "EPL Goal Rush"
+        "title": "WWE Backlash"
       },
       {
         "adsLimit": "0",
@@ -1329,6 +1310,12 @@
             "link": "https://livecdn-bp-livestream.rumsport7.live/stream/7/chunks.m3u8?is_vip=false&token=d9281b93e57381f7e8dc3553bca8ef5697b96b12&x-sign=1bef15cc5cb8e0dcf6ef5f3a62e7a8a4&x-time=1778351460",
             "title": "CBS SPORTS HD",
             "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://edge2caster.pro/hls/syaLqucEne4k.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+            "title": "DAZN SPORTS IT",
+            "type": "0"
           }
         ],
         "eventInfo": {
@@ -1529,39 +1516,6 @@
         "image": "o",
         "publish": "1",
         "title": "Beşiktaş vs Trabzonspor"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "LaLiga 2",
-        "channels_data": [
-          {
-            "api": "",
-            "link": "https://live.vivo200.com/live/sd-1-4344751.m3u8?txSecret=634bbd47f9396006ae2287790d849e72&txTime=69F7859B|Referer=https://player.787200.com/",
-            "title": "SPORTIFy Live",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://instreams.pro/bil2/foxnl1/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
-            "title": "ESPN NL",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/09 18:30:00 +0000",
-          "eventName": "Real Valladolid vs Real Zaragoza",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/09 16:30:00 +0000",
-          "teamA": "Real Valladolid",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2831/image",
-          "teamB": "Real Zaragoza",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2815/image"
-        },
-        "id": "425",
-        "image": "o",
-        "publish": "1",
-        "title": "Valladolid vs Zaragoza"
       },
       {
         "adsLimit": "0",
