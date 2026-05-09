@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-09T18:50:26.919569",
+  "last_updated": "2026-05-09T19:00:45.421858",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "12:15:32 AM 10-05-2026",
+    "Last update time": "12:25:21 AM 10-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -1073,8 +1073,14 @@
         "channels_data": [
           {
             "api": "",
-            "link": "https://smarthard.click/hls/sabrouchespndeportes/index.m3u8|referer=https://hardsmart.click/",
+            "link": "https://chatgpt.hereisman.net/playlist/50305/load-playlist?|Referer=https://gooz.aapmains.net",
             "title": "ESPN DEPORTES",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://livecdn-bp-livestream.rumsport7.live/stream/8/chunks.m3u8?is_vip=false&token=d9281b93e57381f7e8dc3553bca8ef5697b96b12&x-sign=a51a4c614ca63b924964a24fac08390f&x-time=1778352840",
+            "title": "SPORTIFy Live",
             "type": "0"
           }
         ],
@@ -1288,6 +1294,12 @@
             "type": "1"
           },
           {
+            "api": "",
+            "link": "https://chatgpt.hereisman.net/playlist/50303/load-playlist?|Referer=https://gooz.aapmains.net",
+            "title": "PARAMOUNT+ HD",
+            "type": "0"
+          },
+          {
             "api": "0:0",
             "link": "https://d1yi40sjj0ca0v.cloudfront.net/TVD4071/index.mpd",
             "title": "COSMOTE Sport HD",
@@ -1339,45 +1351,15 @@
         "cat": "Scottish Premiership",
         "channels_data": [
           {
-            "api": "dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd",
-            "title": "FUBO SPORTS",
-            "type": "1"
-          },
-          {
-            "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
-            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
-            "title": "beIN ENGLISH FHD",
+            "api": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
+            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
+            "title": "SportDigital Fussball",
             "type": "1"
           },
           {
             "api": "",
-            "link": "https://livecdn-bp-livestream.rumsport7.live/stream/25/chunks.m3u8?is_vip=false&token=397508636a282d0664a97c78856437fa4cf7b893&x-sign=135deca1ac7e837a9a959fc4b86c9361&x-time=1778265480",
-            "title": "PARAMOUNT+ HD",
-            "type": "0"
-          },
-          {
-            "api": "0:0",
-            "link": "https://d1yi40sjj0ca0v.cloudfront.net/TVD4071/index.mpd",
-            "title": "COSMOTE Sport HD",
-            "type": "1"
-          },
-          {
-            "api": "0:0",
-            "link": "https://d1yi40sjj0ca0v.cloudfront.net/TVD6414/index.mpd",
-            "title": "ELEVEN SPORTS",
-            "type": "1"
-          },
-          {
-            "api": "",
-            "link": "https://edge2caster.pro/hls/syaLqucEne4k.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-            "title": "DAZN SPORTS IT",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://pul-tenm.nbs3g.com/live/hd-en-1-4339704.m3u8?txSecret=184e50f5b5cc3d88f446d38c32b8b811&txTime=69FF7F84",
-            "title": "SPORTIFy Live",
+            "link": "https://livecdn-bp-iptv.rumsport7.live/live_abr/284_hd/index.m3u8?is_vip=false&token=d9281b93e57381f7e8dc3553bca8ef5697b96b12&x-sign=71078a5e241783ca3a30dfc8083e2138&x-time=1778352720",
+            "title": "SKY MAIN EVENT",
             "type": "0"
           }
         ],
@@ -1396,33 +1378,6 @@
         "image": "o",
         "publish": "1",
         "title": "Motherwell vs Heart"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "League One 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-        "channels_data": [
-          {
-            "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
-            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
-            "title": "beIN ENGLISH",
-            "type": "1"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/09 16:00:00 +0000",
-          "eventName": "Stevenage vs Stockport County",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/09 14:00:00 +0000",
-          "teamA": "Stevenage",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/133/image",
-          "teamB": "Stockport County",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/10/image"
-        },
-        "id": "419",
-        "image": "o",
-        "publish": "1",
-        "title": "Stevenage vs Stockport"
       },
       {
         "adsLimit": "0",
@@ -1593,6 +1548,12 @@
         "adsLimit": "0",
         "cat": "MLB",
         "channels_data": [
+          {
+            "api": "",
+            "link": "https://chatgpt.hereisman.net/playlist/50307/load-playlist?|Referer=https://gooz.aapmains.net",
+            "title": "SPORTIFy MLB",
+            "type": "0"
+          },
           {
             "api": "",
             "link": "https://mainstreams.pro/hls/dazhfiach15.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
@@ -1948,6 +1909,126 @@
         "image": "o",
         "publish": "1",
         "title": "Milwaukee Brewers vs Yankees"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "Brasileirão",
+        "channels_data": [
+          {
+            "api": "9dc40460c93087aea84d6315f08ecb64:f69c8d4624fddff4ca89bd0b31bdc4a7",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/oy6rp0jwmf/out/v1/580ecf12bad24979baf8dd993dce053e/cenc.mpd",
+            "title": "PREMIERER BR",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/09 21:00:00 +0000",
+          "eventName": "Coritiba vs Internacional",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/09 19:00:00 +0000",
+          "teamA": "Coritiba",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/1982/image",
+          "teamB": "Internacional",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/1966/image"
+        },
+        "id": "441",
+        "image": "o",
+        "publish": "1",
+        "title": "Coritiba vs Internacional"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "Brasileirão",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://chatgpt.hereisman.net/playlist/50028/load-playlist?|Referer=https://gooz.aapmains.net",
+            "title": "SPORTIFy MLB",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://mainstreams.pro/hls/dazhfiach15.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/09 23:00:00 +0000",
+          "eventName": "Fluminense vs Vitória",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/09 21:00:00 +0000",
+          "teamA": "Fluminense",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/1961/image",
+          "teamB": "Vitória",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/1962/image"
+        },
+        "id": "442",
+        "image": "o",
+        "publish": "1",
+        "title": "Fluminense vs Vitória"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "Brasileirão",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://chatgpt.hereisman.net/playlist/50035/load-playlist?|Referer=https://gooz.aapmains.net",
+            "title": "SPORTIFy MLB",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://mainstreams.pro/hls/Czajafjihafch18.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/10 02:00:00 +0000",
+          "eventName": "Bahia vs Cruzeiro",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/10 00:00:00 +0000",
+          "teamA": "Bahia",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/1955/image",
+          "teamB": "Cruzeiro",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/1954/image"
+        },
+        "id": "443",
+        "image": "o",
+        "publish": "1",
+        "title": "Bahia vs Cruzeiro"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "League One 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+        "channels_data": [
+          {
+            "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
+            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
+            "title": "beIN ENGLISH FHD",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/09 21:00:00 +0000",
+          "eventName": "Bolton vs Bradford City",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/09 19:00:00 +0000",
+          "teamA": "Bolton",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/5/image",
+          "teamB": "Bradford",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/22/image"
+        },
+        "id": "444",
+        "image": "o",
+        "publish": "1",
+        "title": "Bolton vs Bradford City"
       }
     ]
   }
