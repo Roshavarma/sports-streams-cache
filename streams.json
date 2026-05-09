@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-09T03:40:24.681799",
+  "last_updated": "2026-05-09T03:50:22.962792",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "09:05:25 AM 09-05-2026",
+    "Last update time": "09:15:31 AM 09-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -2194,52 +2194,10 @@
         "cat": "League One 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
         "channels_data": [
           {
-            "api": "3de028eafb3b2caffec03be1c1c818b3:8fbdd8a9ae6748696bb13e547bb093fc",
-            "link": "https://otte.cache.aiv-cdn.net/gru-nitro/live/clients/dash/enc/dsa3hwuhd1/out/v1/631b48c8d9ea437e8309d1a4b55acef5/cenc.mpd",
-            "title": "SporTV BR FHD",
+            "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
+            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
+            "title": "beIN ENGLISH",
             "type": "1"
-          },
-          {
-            "api": "",
-            "link": "https://livecdn-bp-livestream.rumsport7.live/stream/8/chunks.m3u8?is_vip=false&token=397508636a282d0664a97c78856437fa4cf7b893&x-sign=6c8a2a9b7e3fc18c4ef97accbd76ec12&x-time=1778264040",
-            "title": "BUNDESLIGA HD",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://soccer.250909.cc/event/1726/index.m3u8",
-            "title": "DAZN SPORTS",
-            "type": "0"
-          },
-          {
-            "api": "0:0",
-            "link": "https://d1yi40sjj0ca0v.cloudfront.net/TVD6411/index.mpd",
-            "title": "ELEVEN SPORTS",
-            "type": "1"
-          },
-          {
-            "api": "",
-            "link": "https://edge2caster.pro/hls/ueyeztrazb4.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-            "title": "SKY BUNDESLIGA HD",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://pul-tenm.nbs3g.com/live/hd-en-1-4347626.m3u8?txSecret=e2e247c12338a1b5013ef7ec2bf75ddc&txTime=69FF7C3E",
-            "title": "SPORTIFy Live",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://instreams.pro/bil2/bundes1/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
-            "title": "SKY BUNDESLIGA SD",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/20000291/BLIGA_Bo0805/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com",
-            "title": "SonyLiv HD",
-            "type": "0"
           }
         ],
         "eventInfo": {
@@ -2263,6 +2221,334 @@
         "image": "o",
         "publish": "1",
         "title": "Stevenage vs Stockport"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "Super Lig",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://instreams.pro/bil1/ligtv1/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
+            "title": "beIN SPORTS SD",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/09 19:00:00 +0000",
+          "eventName": "Galatasaray vs Antalyaspor",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/09 17:00:00 +0000",
+          "teamA": "Galatasaray",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3061/image",
+          "teamB": "Antalyaspor",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3056/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "beIN SPORTS SD"
+          }
+        ],
+        "id": "420",
+        "image": "o",
+        "publish": "1",
+        "title": "Galatasaray vs Antalyaspor"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "Super Lig",
+        "channels_data": [
+          {
+            "api": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
+            "title": "FOX DEPORTES",
+            "type": "1"
+          },
+          {
+            "api": "0:0",
+            "link": "https://d1yi40sjj0ca0v.cloudfront.net/TVD1451/index.mpd",
+            "title": "THMANYAH HD",
+            "type": "1"
+          },
+          {
+            "api": "",
+            "link": "https://pul-tenm.nbs3g.com/live/sd-1-4532680.m3u8?txSecret=cf4847515657efa4be283426deb6b809&txTime=69FF7354",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/09 19:00:00 +0000",
+          "eventName": "Konyaspor vs Fenerbahçe",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/09 17:00:00 +0000",
+          "teamA": "Konyaspor",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3085/image",
+          "teamB": "Fenerbahçe",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3052/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "beIN SPORTS SD"
+          }
+        ],
+        "id": "421",
+        "image": "o",
+        "publish": "1",
+        "title": "Konyaspor vs Fenerbahçe"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "Super Lig",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://fallback-video.ivan-flux.workers.dev/video/index.m3u8",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/09 19:00:00 +0000",
+          "eventName": "Beşiktaş vs Trabzonspor",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/09 17:00:00 +0000",
+          "teamA": "Beşiktaş",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3050/image",
+          "teamB": "Trabzonspor",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3051/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "beIN SPORTS SD"
+          }
+        ],
+        "id": "422",
+        "image": "o",
+        "publish": "1",
+        "title": "Beşiktaş vs Trabzonspor"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "LaLiga 2",
+        "channels_data": [
+          {
+            "api": "0:0",
+            "link": "https://d1yi40sjj0ca0v.cloudfront.net/TVD6414/index.mpd",
+            "title": "ELEVEN SPORTS",
+            "type": "1"
+          },
+          {
+            "api": "",
+            "link": "https://livecdn-bp-livestream.rumsport7.live/stream/25/chunks.m3u8?is_vip=false&token=397508636a282d0664a97c78856437fa4cf7b893&x-sign=e2337471e2b71bf507395e416b12ef52&x-time=1778256540",
+            "title": "BUNDESLIGA HD [ENG]",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://pul-tenm.nbs3g.com/live/sd-1-4355852.m3u8?txSecret=268640b3db5c146ea05252770e5f2ec6&txTime=69FF5D4F",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://instreams.pro/bil2/bundes4/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
+            "title": "SKY BUNDESLIGA SD",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/09 14:00:00 +0000",
+          "eventName": "AD Ceuta vs CD Castellón",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/09 12:00:00 +0000",
+          "teamA": "Ceuta",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2869/image",
+          "teamB": "Castellón",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/5067/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "Laliga Hypermotion ES"
+          }
+        ],
+        "id": "423",
+        "image": "o",
+        "publish": "1",
+        "title": "AD Ceuta vs CD Castellón"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "LaLiga 2",
+        "channels_data": [
+          {
+            "api": "0:0",
+            "link": "https://d1yi40sjj0ca0v.cloudfront.net/TVD6412/index.mpd",
+            "title": "ELEVEN SPORTS",
+            "type": "1"
+          },
+          {
+            "api": "",
+            "link": "https://livecdn-bp-livestream.rumsport7.live/stream/27/chunks.m3u8?is_vip=false&token=397508636a282d0664a97c78856437fa4cf7b893&x-sign=9782805c5c1c79d7a193a5a88d006afd&x-time=1778256480",
+            "title": "BUNDESLIGA HD [ENG]",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://pul-tenm.nbs3g.com/live/sd-1-4355854.m3u8?txSecret=1c4265c96a232ae4878c29f3dd27dee7&txTime=69FF5D4F",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://instreams.pro/bil2/bundes3/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
+            "title": "SKY BUNDESLIGA SD",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/09 16:15:00 +0000",
+          "eventName": "Burgos vs Almería",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/09 14:15:00 +0000",
+          "teamA": "Burgos",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2854/image",
+          "teamB": "Almería",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2858/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "Laliga Hypermotion ES"
+          }
+        ],
+        "id": "424",
+        "image": "o",
+        "publish": "1",
+        "title": "Burgos vs Almería"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "LaLiga 2",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://live.vivo200.com/live/sd-1-4344751.m3u8?txSecret=634bbd47f9396006ae2287790d849e72&txTime=69F7859B|Referer=https://player.787200.com/",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://instreams.pro/bil2/foxnl1/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
+            "title": "ESPN NL",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/09 18:30:00 +0000",
+          "eventName": "Real Valladolid vs Real Zaragoza",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/09 16:30:00 +0000",
+          "teamA": "Real Valladolid",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2831/image",
+          "teamB": "Real Zaragoza",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2815/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "Laliga Hypermotion ES"
+          }
+        ],
+        "id": "425",
+        "image": "o",
+        "publish": "1",
+        "title": "Valladolid vs Zaragoza"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "LaLiga 2",
+        "channels_data": [
+          {
+            "api": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
+            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
+            "title": "SportDigital Fussball",
+            "type": "1"
+          },
+          {
+            "api": "",
+            "link": "https://instreams.pro/bil2/foxnl2/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
+            "title": "ESPN NL",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/09 21:00:00 +0000",
+          "eventName": "Málaga vs Sporting Gijón",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/09 19:00:00 +0000",
+          "teamA": "Málaga",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2830/image",
+          "teamB": "Sporting",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2852/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "Laliga Hypermotion ES"
+          }
+        ],
+        "id": "426",
+        "image": "o",
+        "publish": "1",
+        "title": "Málaga vs Sporting Gijón"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "2. Bundesliga",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://instreams.pro/bil2/foxnl3/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
+            "title": "ESPN NL",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/09 13:00:00 +0000",
+          "eventName": "Braunschweig vs Dynamo Dresden",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/09 11:00:00 +0000",
+          "teamA": "Braunschweig",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2557/image",
+          "teamB": "Dresden",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2595/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "ELEVEN SPORTS HD"
+          },
+          {
+            "logo": "",
+            "title": "SKY BUNDESLIGA SD"
+          }
+        ],
+        "id": "427",
+        "image": "o",
+        "publish": "1",
+        "title": "Braunschweig vs Dynamo Dresden"
       }
     ]
   }
