@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-09T03:20:19.430379",
+  "last_updated": "2026-05-09T03:30:39.057701",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "08:45:22 AM 09-05-2026",
+    "Last update time": "09:00:33 AM 09-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -485,14 +485,8 @@
         "cat": "Cricket",
         "channels_data": [
           {
-            "api": "c3c6dcd8c0211c4ae43a9e91417ab3e0:48b8eb26027c0eb2c9655cf1f68bf455",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oel2fnzvjx/out/v1/77f22dcc960c4aa6a62392c552ec2930/cenc.mpd",
-            "title": "WILLOW [Ad-Free]",
-            "type": "1"
-          },
-          {
-            "api": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
-            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
+            "api": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f",
+            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
             "title": "PREMIER SPORTS",
             "type": "1"
           },
@@ -507,12 +501,6 @@
             "link": "https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJyZWZlcmVyIjoiaHR0cHM6Ly9kb25pcy5qaW1wZW5vcGlzb25saW5lLm9ubGluZS9wcmVtaXVtdHYvZGFkZHk0LnBocD9pZD01OTIiLCJtM3U4IjoiaHR0cHM6Ly96b3Rvcy52b2dsZW1wYW5pcy5vbmxpbmUvcHJlbWl1bTU5Mi90cmFja3MtdjFhMS9tb25vLmNzcyIsInRzIjoxNzc4MjEzNTYyODIwLCJjaGFubmVsSWQiOiI1OTIifQ",
             "title": "SKY SPORTS HD",
             "type": "0"
-          },
-          {
-            "api": "f991f8d21990530ccd469179be41b367:7ec9beccf0a7834aeffd27c566a87fe7",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/ha6eigwvps/out/v1/b5438f60c0e542668e392b9d4ab615cf/cenc-sd.mpd",
-            "title": "WILLOW - LQ",
-            "type": "1"
           },
           {
             "api": "709c812e1b4174002605df1d17d34a4c:0bbee6c9c20a0f065bf8369d54cbf83e",
@@ -1561,270 +1549,6 @@
         "image": "o",
         "publish": "1",
         "title": "Lecce vs Juventus"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "MLB",
-        "channels_data": [
-          {
-            "api": "",
-            "link": "https://live.vivo200.com/live/sd-1-4344751.m3u8?txSecret=634bbd47f9396006ae2287790d849e72&txTime=69F7859B|Referer=https://player.787200.com/",
-            "title": "SPORTIFy Live",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://instreams.pro/bil2/foxnl1/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
-            "title": "ESPN NL",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/09 01:10:00 +0000",
-          "eventName": "Cincinnati Reds vs Houston Astros",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/08 22:10:00 +0000",
-          "teamA": "Reds",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3633/image",
-          "teamB": "Astros",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3655/image"
-        },
-        "id": "425",
-        "image": "o",
-        "publish": "1",
-        "title": "Cincinnati Reds vs Houston Astros"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "MLB",
-        "channels_data": [
-          {
-            "api": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
-            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
-            "title": "SportDigital Fussball",
-            "type": "1"
-          },
-          {
-            "api": "",
-            "link": "https://instreams.pro/bil2/foxnl2/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
-            "title": "ESPN NL",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/09 01:40:00 +0000",
-          "eventName": "Philadelphia Phillies vs Colorado Rockies",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/08 22:40:00 +0000",
-          "teamA": "Phillies",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3635/image",
-          "teamB": "Rockies",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3628/image"
-        },
-        "id": "426",
-        "image": "o",
-        "publish": "1",
-        "title": "Philadelphia Phillies vs Colorado Rockies"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "MLB",
-        "channels_data": [
-          {
-            "api": "",
-            "link": "https://instreams.pro/bil2/foxnl3/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
-            "title": "ESPN NL",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/09 02:05:00 +0000",
-          "eventName": "Baltimore Orioles vs Athletics",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/08 23:05:00 +0000",
-          "teamA": "Orioles",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3652/image",
-          "teamB": "Athletics",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3645/image"
-        },
-        "id": "427",
-        "image": "o",
-        "publish": "1",
-        "title": "Baltimore Orioles vs Athletics"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "MLB",
-        "channels_data": [
-          {
-            "api": "",
-            "link": "https://live.vivo200.com/live/sd-1-4366099.m3u8?txSecret=af6bad8225144716a950cc1c553e9a63&txTime=69F7C424|Referer=https://player.787200.com/",
-            "title": "SPORTIFy Live",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://instreams.pro/bil1/ligtv2/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
-            "title": "beIN SPORTS SD",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/09 02:07:00 +0000",
-          "eventName": "Toronto Blue Jays vs Angels",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/08 23:07:00 +0000",
-          "teamA": "Blue Jays",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3642/image",
-          "teamB": "Angels",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/5929/image"
-        },
-        "id": "428",
-        "image": "o",
-        "publish": "1",
-        "title": "Toronto Blue Jays vs Angels"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "MLB",
-        "channels_data": [
-          {
-            "api": "",
-            "link": "https://live.vivo200.com/live/sd-1-4366170.m3u8?txSecret=cfcf5234e2b9e6a7f6c0dbf6f03e2412&txTime=69F7C3D9|Referer=https://player.787200.com/",
-            "title": "SPORTIFy Live",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://instreams.pro/bil1/ligtv3/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
-            "title": "beIN SPORTS SD",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/09 02:10:00 +0000",
-          "eventName": "Red Sox vs Tampa Bay Rays",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/08 23:10:00 +0000",
-          "teamA": "Red Sox",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3646/image",
-          "teamB": "Rays",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3653/image"
-        },
-        "id": "429",
-        "image": "o",
-        "publish": "1",
-        "title": "Red Sox vs Tampa Bay Rays"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "MLB",
-        "channels_data": [
-          {
-            "api": "",
-            "link": "https://live.vivo200.com/live/sd-1-4366152.m3u8?txSecret=84a4537987803c00ab4b71361cc86ca8&txTime=69F7C454|Referer=https://player.787200.com/",
-            "title": "SPORTIFy Live",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://instreams.pro/bil1/ligtv1/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
-            "title": "beIN SPORTS SD",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/09 02:10:00 +0000",
-          "eventName": "Miami Marlins vs Nationals",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/08 23:10:00 +0000",
-          "teamA": "Marlins",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3639/image",
-          "teamB": "Nationals",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/5930/image"
-        },
-        "id": "430",
-        "image": "o",
-        "publish": "1",
-        "title": "Miami Marlins vs Nationals"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "MLB",
-        "channels_data": [
-          {
-            "api": "",
-            "link": "https://fallback-video.ivan-flux.workers.dev/video/index.m3u8",
-            "title": "SPORTIFy Live",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/09 02:15:00 +0000",
-          "eventName": "Cleveland Guardians vs Minnesota Twins",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/08 23:15:00 +0000",
-          "teamA": "Guardians",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3650/image",
-          "teamB": "Twins",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3649/image"
-        },
-        "id": "431",
-        "image": "o",
-        "publish": "1",
-        "title": "Cleveland Guardians vs Minnesota Twins"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "MLB",
-        "channels_data": [
-          {
-            "api": "335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281",
-            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd",
-            "title": "beIN ENGLISH FHD",
-            "type": "1"
-          },
-          {
-            "api": "",
-            "link": "https://hghndasw.dg7yhiudjydg.shop/sec/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW0iOiJjYnMtc3BvcnRzLW5ldHdvcmsiLCJleHAiOjE3Nzc4MTY2MTR9.YCLKISdQvR0CULZIXhawDa3CW1fDsTr703nr6X1X_0A/cbs-sports-network.m3u8",
-            "title": "CBS SPORTS FHD",
-            "type": "0"
-          },
-          {
-            "api": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
-            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
-            "title": "SportDigital Fussball",
-            "type": "1"
-          },
-          {
-            "api": "",
-            "link": "https://live.vivo200.com/live/sd-1-4529564.m3u8?txSecret=c76bc24fd7d14ed87a5782d555086684&txTime=69F775A0|Referer=https://player.787200.com/",
-            "title": "SPORTIFy Live",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/09 02:40:00 +0000",
-          "eventName": "White Sox vs Seattle Mariners",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/08 23:40:00 +0000",
-          "teamA": "White Sox",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3644/image",
-          "teamB": "Mariners",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3641/image"
-        },
-        "id": "432",
-        "image": "o",
-        "publish": "1",
-        "title": "White Sox vs Seattle Mariners"
       }
     ]
   }
