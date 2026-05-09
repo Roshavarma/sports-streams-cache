@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-09T13:00:46.263415",
+  "last_updated": "2026-05-09T13:10:22.604494",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "06:25:19 PM 09-05-2026",
+    "Last update time": "06:35:26 PM 09-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -1605,13 +1605,19 @@
           {
             "api": "",
             "link": "https://livecdn-bp-livestream.rumsport7.live/stream/7/chunks.m3u8?is_vip=false&token=d9281b93e57381f7e8dc3553bca8ef5697b96b12&x-sign=8d85f9fa67729351651f9554ecfebe47&x-time=1778328780",
-            "title": "HD SERVER",
+            "title": "CBS SPORTS HD",
             "type": "0"
           },
           {
             "api": "",
             "link": "https://pul-tenm.nbs3g.com/live/hd-en-1-4339673.m3u8?txSecret=c3b72abc9c372b70a392687c24d2b679&txTime=6A00768F",
             "title": "SPORTIFy Live",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://chatgpt.hereisman.net/playlist/50282/load-playlist?|Referer=https://gooz.aapmains.net",
+            "title": "HD SERVER",
             "type": "0"
           }
         ],
