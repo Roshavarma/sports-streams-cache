@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-09T16:20:24.236393",
+  "last_updated": "2026-05-09T16:30:36.843776",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "09:45:29 PM 09-05-2026",
+    "Last update time": "09:55:26 PM 09-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -1079,8 +1079,14 @@
           },
           {
             "api": "",
-            "link": "https://cdn-1.ttvb.eu.org/api/Hub-Premier-1/index.m3u8",
-            "title": "HUB PREMIER HD",
+            "link": "https://livecdn-bp-livestream.rumsport7.live/stream/24/chunks.m3u8?is_vip=false&token=d9281b93e57381f7e8dc3553bca8ef5697b96b12&x-sign=aa8d5e30c2396b6e52e127b9868bc0f9&x-time=1778343600",
+            "title": "STAN SPORTS HD",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://live.vivo200.com/live/hd-en-1-4343259.m3u8?txSecret=c199228ded6369473b67e5d2cc60554e&txTime=69FFA674|referer=https://player.online909.com/",
+            "title": "SPORTIFy Live",
             "type": "0"
           }
         ],
@@ -1223,6 +1229,12 @@
             "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd",
             "title": "Laliga TV FHD",
             "type": "1"
+          },
+          {
+            "api": "",
+            "link": "https://livecdn-bp-livestream.rumsport7.live/stream/8/chunks.m3u8?is_vip=false&token=d9281b93e57381f7e8dc3553bca8ef5697b96b12&x-sign=e73ac4191b7af2fc96333d8c41d73757&x-time=1778343660",
+            "title": "DAZN SPORTS HD",
+            "type": "0"
           }
         ],
         "eventInfo": {
@@ -1357,6 +1369,18 @@
             "api": "",
             "link": "https://chatgpt.hereisman.net/playlist/50296/load-playlist?|Referer=https://gooz.aapmains.net",
             "title": "ESPN DEPORTES",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://livecdn-bp-livestream.rumsport7.live/stream/18/chunks.m3u8?is_vip=false&token=d9281b93e57381f7e8dc3553bca8ef5697b96b12&x-sign=4a37c28cb611d6426104798a52fbff82&x-time=1778343540",
+            "title": "ESPN HD LIVE",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://live.vivo200.com/live/hd-en-1-4347603.m3u8?txSecret=d9e0ed3bf5e3ea6f42242ff883e53ee6&txTime=69FFA6D4|referer=https://player.online909.com/",
+            "title": "SPORTIFy Live",
             "type": "0"
           }
         ],
