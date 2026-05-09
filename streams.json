@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-09T13:30:45.193528",
+  "last_updated": "2026-05-09T13:40:34.317264",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "06:55:26 PM 09-05-2026",
+    "Last update time": "07:05:26 PM 09-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -952,99 +952,26 @@
         "cat": "EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
         "channels_data": [
           {
-            "api": "294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd",
-            "title": "TNT SPORTS FHD",
-            "type": "1"
-          },
-          {
             "api": "7a2758575dc04d63acc3573ab594d441:47071dd80de746a38cdc6a4dcde21abc",
             "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1778407475~acl=%2f*~id=abb506c5-4e11-4f2a-8f4c-bc87e14db85a~data=hdntl,aXA9MjA4Ljg3LjI0Mi4yMyZleHA9MTc3ODMyMTEwNSZlaWQ9OTM2NDI0Jm9pZD0xNTQmdHlwZT1WT0QmdWlkPXhSUnFvOXxiY2FlYTdjZi1jMzM3LTQwMzktODE1OC0zYzFjZTQ5ZTcyOTMmY2lkPWRjZS5maXNmZWQmcHQ9bnVsbA~hmac=06e99f1f8445fdc9f801ffe190da453128aff20c7541f4ab80fcdadfecb29663/dash/live/2093712/219035-321027/manifest-d.mpd",
             "title": "SKY SPORTS FHD",
             "type": "1"
-          },
-          {
-            "api": "dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd",
-            "title": "FUBO SPORTS",
-            "type": "1"
-          },
-          {
-            "api": "",
-            "link": "https://chatgpt.hereisman.net/playlist/50280/load-playlist?|Referer=https://gooz.aapmains.net",
-            "title": "NBC PEACOCK HD",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://justinyouwesi.s3.us-east-1.amazonaws.com/sportsnet.m3u8",
-            "title": "NBC PEACOCK FHD",
-            "type": "0"
-          },
-          {
-            "api": "0:0",
-            "link": "https://d1yi40sjj0ca0v.cloudfront.net/TVD6219/index.mpd",
-            "title": "NOVA SPORTS PL",
-            "type": "1"
-          },
-          {
-            "api": "",
-            "link": "https://storage.googleapis.com/unicertyngher1/mux_video_ts1/index-1.m3u8",
-            "title": "SKY SPORTS HD",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://20syrialive.s3.us-east-2.amazonaws.com/bein1/master.m3u8",
-            "title": "beIN ARABIC HD",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://live.vivo200.com/live/hd-en-1-4343256.m3u8?txSecret=018777877188e5c72877ea56f143db3f&txTime=69FF5E17|referer=https://player.online909.com/",
-            "title": "SPORTIFy Live",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://livecdn-bp-iptv.rumsport7.live/live_abr/366_hd/index.m3u8?is_vip=false&token=d9281b93e57381f7e8dc3553bca8ef5697b96b12&x-sign=30d2b6543d81ed66f9e9835af4902bf9&x-time=1778325180",
-            "title": "TNT SPORTS HD",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://livecdn-bp-iptv.rumsport7.live/live_abr/144253_hd/index.m3u8?is_vip=false&token=d9281b93e57381f7e8dc3553bca8ef5697b96b12&x-sign=0e4b15de34251b0a6729a80c06bed65d&x-time=1778325300",
-            "title": "HUB PREMIER HD",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://livecdn-bp-livestream.rumsport7.live/stream/24/chunks.m3u8?is_vip=false&token=d9281b93e57381f7e8dc3553bca8ef5697b96b12&x-sign=0d0728f5551705bf8c7f3b649b18bf3b&x-time=1778325480",
-            "title": "STAN SPORTS HD",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://livecdn-bp-iptv.rumsport7.live/live_abr/366_sd/index.m3u8?is_vip=false&token=d9281b93e57381f7e8dc3553bca8ef5697b96b12&x-sign=71f59b84fd6f3199879441f826408783&x-time=1778325180",
-            "title": "TNT SPORTS SD",
-            "type": "0"
           }
         ],
         "eventInfo": {
-          "endTime": "2026/05/09 13:30:00 +0000",
-          "eventName": "Liverpool vs Chelsea",
+          "endTime": "2026/05/09 16:00:00 +0000",
+          "eventName": "EPL Goal Rush",
           "eventType": "null",
-          "isHot": "1",
-          "startTime": "2026/05/09 11:30:00 +0000",
-          "teamA": "Liverpool",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/44/image",
-          "teamB": "Chelsea",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/38/image"
+          "startTime": "2026/05/09 13:55:00 +0000",
+          "teamA": "EPL",
+          "teamAFlag": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/47.png",
+          "teamB": "EPL",
+          "teamBFlag": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/47.png"
         },
         "id": "400",
         "image": "o",
         "publish": "1",
-        "title": "Liverpool vs Chelsea"
+        "title": "EPL Goal Rush"
       },
       {
         "adsLimit": "0",
@@ -1603,7 +1530,7 @@
       },
       {
         "adsLimit": "0",
-        "cat": "Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+        "cat": "MLS 🇺🇸",
         "channels_data": [
           {
             "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
@@ -1637,20 +1564,20 @@
           }
         ],
         "eventInfo": {
-          "endTime": "2026/05/09 13:30:00 +0000",
-          "eventName": "Middlesbrough vs Southampton",
+          "endTime": "2026/05/09 19:10:00 +0000",
+          "eventName": "Toronto FC vs Inter Miami",
           "eventType": "null",
           "isHot": "0",
-          "startTime": "2026/05/09 11:30:00 +0000",
-          "teamA": "Middlesbrough",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/36/image",
-          "teamB": "Southampton",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/45/image"
+          "startTime": "2026/05/09 17:00:00 +0000",
+          "teamA": "Toronto",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/7080/image",
+          "teamB": "Inter Miami",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/337602/image"
         },
         "id": "414",
         "image": "o",
         "publish": "1",
-        "title": "Middlesbrough vs Southampton"
+        "title": "Toronto FC vs Inter Miami"
       },
       {
         "adsLimit": "0",
