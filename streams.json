@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-09T16:06:22.723327",
+  "last_updated": "2026-05-09T16:10:22.167142",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "09:30:50 PM 09-05-2026",
+    "Last update time": "09:35:26 PM 09-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -1223,12 +1223,6 @@
             "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd",
             "title": "Laliga TV FHD",
             "type": "1"
-          },
-          {
-            "api": "",
-            "link": "https://smarthard.click/hls/sabrouchespndeportes/index.m3u8|referer=https://hardsmart.click/",
-            "title": "ESPN DEPORTES",
-            "type": "0"
           }
         ],
         "eventInfo": {
@@ -1336,6 +1330,12 @@
         "cat": "Bundesliga 🇩🇪",
         "channels_data": [
           {
+            "api": "4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733",
+            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd",
+            "title": "SporTV BR FHD",
+            "type": "1"
+          },
+          {
             "api": "0:0",
             "link": "https://d1yi40sjj0ca0v.cloudfront.net/TVD6414/index.mpd",
             "title": "ELEVEN SPORTS HD",
@@ -1351,6 +1351,12 @@
             "api": "",
             "link": "https://instreams.pro/bil2/bundes1/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
             "title": "SKY BUNDESLIGA SD",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://smarthard.click/hls/sabrouchespndeportes/index.m3u8|referer=https://hardsmart.click/",
+            "title": "ESPN DEPORTES",
             "type": "0"
           }
         ],
@@ -1652,6 +1658,12 @@
             "link": "https://d1yi40sjj0ca0v.cloudfront.net/TVD6411/index.mpd",
             "title": "ELEVEN SPORTS HD",
             "type": "1"
+          },
+          {
+            "api": "",
+            "link": "https://chatgpt.hereisman.net/playlist/50293/load-playlist?|Referer=https://gooz.aapmains.net",
+            "title": "PARAMOUNT+ HD",
+            "type": "0"
           },
           {
             "api": "",
