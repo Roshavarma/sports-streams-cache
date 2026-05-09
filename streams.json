@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-09T19:30:43.136822",
+  "last_updated": "2026-05-09T19:34:53.874858",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "12:55:20 AM 10-05-2026",
+    "Last update time": "01:00:42 AM 10-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -1464,6 +1464,12 @@
         "adsLimit": "0",
         "cat": "Scottish Premiership",
         "channels_data": [
+          {
+            "api": "",
+            "link": "https://customer-zbcm6pq2tkb2rho0.cloudflarestream.com/1719e2f2cf8b19a82dad1bdc46fedfa9/manifest/video.m3u8",
+            "title": "MAIN EVENT FHD",
+            "type": "0"
+          },
           {
             "api": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
             "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
