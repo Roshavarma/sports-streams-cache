@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-09T01:50:29.175569",
+  "last_updated": "2026-05-09T02:00:43.956226",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "07:15:22 AM 09-05-2026",
+    "Last update time": "07:25:24 AM 09-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -604,39 +604,6 @@
         "cat": "NBA",
         "channels_data": [
           {
-            "api": "",
-            "link": "https://mainstreams.pro/hls/mlkijfezag65.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
-            "title": "SPORTIFy Live",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://instreams.pro/US/NBA1/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
-            "title": "HD SERVER",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/09 02:00:00 +0000",
-          "eventName": "Philadelphia 76ers vs New York Knicks",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/08 23:00:00 +0000",
-          "teamA": "76ers",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3420/image",
-          "teamB": "Knicks",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3421/image"
-        },
-        "id": "373",
-        "image": "o",
-        "publish": "1",
-        "title": "Philadelphia 76ers"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "NBA",
-        "channels_data": [
-          {
             "api": "e51aa21f2a0fef9aabc120dfb655b52f:a12a987fe725a40b6be95cd84b15f689",
             "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
             "title": "TSN SPORTS FHD",
@@ -650,6 +617,18 @@
           },
           {
             "api": "",
+            "link": "https://nb2.bpfiles.cfd/live/timber/stream.m3u8",
+            "title": "NBA LIVE FHD",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://pul-tenm.nbs3g.com/live/hd-en-2-3918855.m3u8?txSecret=08342df6047b9a3676afdb797fd38025&txTime=69FFE44B",
+            "title": "SPY LIVE HD",
+            "type": "0"
+          },
+          {
+            "api": "",
             "link": "https://mainstreams.pro/hls/wfazgsqtrezu66.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
             "title": "SPORTIFy Live",
             "type": "0"
@@ -659,14 +638,20 @@
             "link": "https://instreams.pro/US/NBA2/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
             "title": "HD SERVER",
             "type": "0"
+          },
+          {
+            "api": "",
+            "link": "http://193.47.62.192/hls/waaax.m3u8|Referer=http://www.fawanews.sc/",
+            "title": "SD SERVER",
+            "type": "0"
           }
         ],
         "eventInfo": {
-          "endTime": "2026/05/09 04:30:00 +0000",
+          "endTime": "2026/05/09 04:45:00 +0000",
           "eventName": "Minnesota Timberwolves vs San Antonio Spurs",
           "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/09 01:30:00 +0000",
+          "isHot": "1",
+          "startTime": "2026/05/09 01:45:00 +0000",
           "teamA": "Timberwolves",
           "teamAFlag": "https://img.sofascore.com/api/v1/team/3426/image",
           "teamB": "Spurs",
@@ -799,45 +784,6 @@
         "image": "o",
         "publish": "1",
         "title": "Al-Fayha vs Al-Qadsiah"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "NHL",
-        "channels_data": [
-          {
-            "api": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f",
-            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
-            "title": "PREMIER SPORTS",
-            "type": "1"
-          },
-          {
-            "api": "",
-            "link": "https://mainstreams.pro/hls/uyopzarf50.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
-            "title": "SPORTIFy Live",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://instreams.pro/US/NHL1/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
-            "title": "HD SERVER",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/09 02:00:00 +0000",
-          "eventName": "Buffalo Sabres vs Montréal Canadiens",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/08 23:00:00 +0000",
-          "teamA": "Sabres",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3678/image",
-          "teamB": "Canadiens",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3690/image"
-        },
-        "id": "386",
-        "image": "o",
-        "publish": "1",
-        "title": "Buffalo Sabres"
       },
       {
         "adsLimit": "0",
@@ -1126,34 +1072,28 @@
         "cat": "EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
         "channels_data": [
           {
-            "api": "f288380ca4cef9ad3f27a92a08e9bb8b:9f18d26291d9230833501f7f822f6875",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd",
-            "title": "TNT SPORTS FHD",
+            "api": "dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd",
+            "title": "FUBO SPORTS",
             "type": "1"
           },
           {
-            "api": "7ba2e290f682b30416182bc363a660a1:f2b3686e840c38fbdbea8c9a01b6638d",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/3pxu2gzore/out/v1/59dc0639d2c44432bf89984131478749/cenc.mpd",
-            "title": "VIX SPANISH FHD",
+            "api": "7a2758575dc04d63acc3573ab594d441:47071dd80de746a38cdc6a4dcde21abc",
+            "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1778363892~acl=%2F*~id=2cd8004e-7ae0-43d1-9805-76bc88479344~data=hdntl,aXA9MTA4LjE4MS4zLjE0OSZleHA9MTc3ODI3NzUyMiZlaWQ9OTM5NjY2Jm9pZD0xNTQmdHlwZT1WT0QmdWlkPXhSUnFvOXxiY2FlYTdjZi1jMzM3LTQwMzktODE1OC0zYzFjZTQ5ZTcyOTMmY2lkPWRjZS5maXNmZWQmcHQ9bnVsbA~hmac=917885330f3ece39a3194b2812ca7c0e8cc1c93bfcda87409969c0dd45a3c026/dash/live/2093712/219035-321027/manifest-d.mpd",
+            "title": "SKY SPORTS FHD",
             "type": "1"
           },
           {
-            "api": "",
-            "link": "https://chatgpt.hereisman.net/playlist/50207/load-playlist?|Referer=https://gooz.aapmains.net",
-            "title": "TNT SPORTS HD",
-            "type": "0"
+            "api": "96b67fa09140329a89b7a1ead134eda3:c618d32c56cdc6cad8330eb98507ca3f",
+            "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-east)/master.mpd",
+            "title": "UNIVERSO FHD",
+            "type": "1"
           },
           {
-            "api": "",
-            "link": "https://livecdn-bp-livestream.rumsport7.live/stream/24/chunks.m3u8?is_vip=false&token=397508636a282d0664a97c78856437fa4cf7b893&x-sign=2f9fabee55202520279a67d3cdd4c396&x-time=1778180160",
-            "title": "SPORTIFy Live",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/20000296/Football0705/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com",
-            "title": "SonyLiv [ENG]",
-            "type": "0"
+            "api": "0:0",
+            "link": "https://d1yi40sjj0ca0v.cloudfront.net/TVD6219/index.mpd",
+            "title": "NOVA SPORTS PL",
+            "type": "1"
           }
         ],
         "eventInfo": {
