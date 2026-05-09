@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-09T14:20:21.300076",
+  "last_updated": "2026-05-09T14:30:33.678516",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "07:45:25 PM 09-05-2026",
+    "Last update time": "07:55:24 PM 09-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -2117,14 +2117,8 @@
         "channels_data": [
           {
             "api": "",
-            "link": "https://live.vivo200.com/live/sd-1-4366152.m3u8?txSecret=84a4537987803c00ab4b71361cc86ca8&txTime=69F7C454|Referer=https://player.787200.com/",
-            "title": "SPORTIFy Live",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://instreams.pro/bil1/ligtv1/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
-            "title": "beIN SPORTS SD",
+            "link": "https://instreams.pro/bil2/bundes2/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
+            "title": "SKY BUNDESLIGA SD",
             "type": "0"
           }
         ],
