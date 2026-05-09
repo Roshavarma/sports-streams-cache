@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-09T23:30:39.446773",
+  "last_updated": "2026-05-09T23:40:27.517113",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "04:55:23 AM 10-05-2026",
+    "Last update time": "05:10:25 AM 10-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -181,7 +181,7 @@
         "title": "MotoGP"
       },
       {
-        "adsLimit": "13",
+        "adsLimit": "17",
         "cat": "UFC",
         "channels_data": [
           {
@@ -613,51 +613,6 @@
         "title": "IPL - 01"
       },
       {
-        "adsLimit": "9",
-        "cat": "Boxing",
-        "channels_data": [
-          {
-            "api": "192b1115da041585c77200128549efa1:634e10efe4abbb14be400a3ccbac0258",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/pnu10tp36z/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd",
-            "title": "TNT Sports 4",
-            "type": "1"
-          },
-          {
-            "api": "",
-            "link": "https://cdn16348712.blazingcdn.net/dx14fhd/index.m3u8|Referer=https://yahoo.com/&Origin=https://yahoo.com&User-Agent=AppleCoreMedia/1.0.0.23D5103d (iPhone; U; CPU OS 26_3 like Mac OS X; en_us)",
-            "title": "WILLOW (Ad Free)",
-            "type": "0"
-          },
-          {
-            "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
-            "title": "WILLOW FHD",
-            "type": "1"
-          },
-          {
-            "api": "",
-            "link": "https://crichdplayer.com/willow-cricket-live-stream-2026",
-            "title": "WILLOW SD",
-            "type": "2"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/09 23:30:00 +0000",
-          "eventName": "Fabio Wardley vs Daniel Dubois",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/09 17:00:00 +0000",
-          "teamA": "F. Wardley",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/931824/image",
-          "teamB": "D. Dubois",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/928177/image"
-        },
-        "id": "372",
-        "image": "o",
-        "publish": "1",
-        "title": "Fabio Wardley vs Daniel Dubois"
-      },
-      {
         "adsLimit": "0",
         "cat": "NBA",
         "channels_data": [
@@ -717,6 +672,12 @@
             "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
             "title": "TSN SPORTS FHD",
             "type": "1"
+          },
+          {
+            "api": "",
+            "link": "https://chatgpt.hereisman.net/playlist/50343/load-playlist?|Referer=https://gooz.aapmains.net",
+            "title": "SPORTIFy NBA",
+            "type": "0"
           },
           {
             "api": "",
