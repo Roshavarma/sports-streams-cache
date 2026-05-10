@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-10T11:20:21.005626",
+  "last_updated": "2026-05-10T11:30:31.670512",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "04:45:27 PM 10-05-2026",
+    "Last update time": "04:55:24 PM 10-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -548,63 +548,60 @@
           {
             "api": "708a98b352bd4418a73a028edd84da8f:b1fa5c2bca4c4b57b924b748x64\u001532cb",
             "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1778479839~acl=%2F*~id=c52d0b69-3c58-4413-b232-bbcc30356f04~data=hdntl,aXA9MTA4LjE4MS4wLjEwOSZleHA9MTc3ODM5MzQ2OCZlaWQ9OTM5OTU5Jm9pZD0xNTQmdHlwZT1WT0QmdWlkPXhSUnFvOXxiY2FlYTdjZi1jMzM3LTQwMzktODE1OC0zYzFjZTQ5ZTcyOTMmY2lkPWRjZS5maXNmZWQmcHQ9bnVsbA~hmac=c1e6210ae1d481c8b6d83ef80e8008939a5ad0900b6e7ee90a4d12acf39f1ddc/dash/live/2093715/219027-321028/manifest-d.mpd",
-            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
             "title": "SKY SPORTS FHD",
+            "type": "1"
+          },
+          {
+            "api": "3356fbe9735158679f44c9c219e74abb:cd9fbf926965283a687fdeb2ScfA21cf",
+            "link": "https://dck1-ac-live.cdn.indazn.com/out/v1/814bffb9b389f652/9cd76b42af874557abc77e009ce2218d/index.mpd",
+            "title": "KAYO HINDI FHD",
             "type": "1"
           },
           {
             "api": "972c0f230e5cffd3f79dce694a1e2052:69340051ae5c04e1fdd16d6fy2c\u0015a59f",
             "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/zdkmm4fqqh/out/v1/314343225df34e4eb8c128a327b8652a/cenc-sd.mpd",
-            "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
             "title": "WILLOW [Ad-Free]",
             "type": "1"
           },
           {
             "api": "",
             "link": "https://dai.google.com/linear/hls/event/mbsfWpAoS2Olw5e-nkM-gw/master.m3u8|user-agent=Cricbuzz/7.00.01 (Linux;Android 13) AndroidXMedia3/1.5.1&x-forwarded-for=1.178.20.23",
-            "logo": "",
             "title": "NOON SPORTS",
             "type": "0"
           },
           {
             "api": "",
             "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla",
-            "logo": "",
             "title": "SKY CRICKET",
             "type": "0"
           },
           {
             "api": "",
             "link": "https://stb-air.wasmer.app//play.php?id=LIVETV_LIVETVCHANNEL_STAR_SPORTS_1_HD&uid=999&pass=999",
-            "logo": "",
             "title": "Star Sports HIN",
             "type": "0"
           },
           {
             "api": "",
             "link": "http://datahub11.com/live/Jen12345/Jen54321/703300.ts",
-            "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
             "title": "WILLOW HINDI",
             "type": "0"
           },
           {
             "api": "",
             "link": "http://193.47.62.194/hls/plll.m3u8|Referer=http://www.fawanews.sc/",
-            "logo": "",
             "title": "SD SERVER",
             "type": "0"
           },
           {
             "api": "81872faa1d6b45fa9045cdeb2e310000:9b88168e61274587a471962cw6b\u00194675",
             "link": "https://livetv.hotstar.com/mp1/gec-india-1540065788/fa6a4f0005ef4f90ab24484d165b0aaf/index.mpd?|cookie=hdntl=exp=1778457651~acl=%2f*~id=8e35b4f8bf57a80ad58eff80800f20bf~data=hdntl~hmac=038ae8f949f65209ff4845c81c3352f9a5d2c655dd16e144d424357fd798a60c&User-agent=Hotstar;in.startv.hotstar/SportsLover(Android/15)",
-            "logo": "",
             "title": "STAR SPORTS HIN",
             "type": "1"
           },
           {
             "api": "9dacc80134404c34ba184022c28d0000:982183fb4d9449c995859b7cXf5\u00112092",
             "link": "https://livetv.hotstar.com/mp2/gec-india-1540065785/a00717b1324f45eb814eec9e48a12db8/index.mpd?|cookie=hdntl=exp=1778457651~acl=%2f*~id=8e35b4f8bf57a80ad58eff80800f20bf~data=hdntl~hmac=038ae8f949f65209ff4845c81c3352f9a5d2c655dd16e144d424357fd798a60c&User-agent=Hotstar;in.startv.hotstar/SportsLover(Android/15)",
-            "logo": "",
             "title": "STAR SPORTS ENG",
             "type": "1"
           }
@@ -833,35 +830,30 @@
           {
             "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
             "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
-            "logo": "",
             "title": "beIN ENGLISH FHD",
             "type": "1"
           },
           {
             "api": "",
             "link": "https://iframe.rumsport10.live/stream.m3u8?is_vip=false&token=d9281b93e57381f7e8dc3553bca8ef5697b96b12&url=https%3A%2F%2Flivecdn-bp-iptv.rumsport7.live%2Flive_abr%2F274860%2Fabr.m3u8&verify=1778403600-eB9DOUymIFy2yQadiDlojXo6191kKl1feKlgk27vFmY%3D",
-            "logo": "https://iili.io/BtCdabj.png",
             "title": "CBS SPORTS HD",
             "type": "0"
           },
           {
             "api": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
             "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
-            "logo": "",
             "title": "SportDigital Fussball",
             "type": "1"
           },
           {
             "api": "",
             "link": "https://chatgpt.hereisman.net/playlist/50355/load-playlist?|Referer=https://gooz.aapmains.net",
-            "logo": "",
             "title": "SKY MAIN EVENT",
             "type": "0"
           },
           {
             "api": "",
             "link": "https://pul-tenm.nbs3g.com/live/sd-1-4529568.m3u8?txSecret=2a0ef95dbe121a19cf7442a766ff3493&txTime=6A01AD52",
-            "logo": "",
             "title": "SPORTIFy Live",
             "type": "0"
           }
@@ -987,8 +979,14 @@
           },
           {
             "api": "",
-            "link": "https://smarthard.click/hls/sabrouchespndeportes/index.m3u8|referer=https://hardsmart.click/",
+            "link": "https://chatgpt.hereisman.net/playlist/50358/load-playlist?|Referer=https://gooz.aapmains.net/",
             "title": "ESPN DEPORTES",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://livecdn-bp-iptv.rumsport7.live/live_abr/51328_hd/index.m3u8?is_vip=false&token=d9281b93e57381f7e8dc3553bca8ef5697b96b12&x-sign=30eab7bae624ebc74764f4fa9a9a46f9&x-time=1778412240",
+            "title": "LALIGA TV HD",
             "type": "0"
           }
         ],
@@ -1124,6 +1122,12 @@
             "api": "",
             "link": "https://livecdn-bp-livestream.rumsport7.live/stream/7/chunks.m3u8?is_vip=false&token=d9281b93e57381f7e8dc3553bca8ef5697b96b12&x-sign=a0ab7a940f5af9403755e9f51335d846&x-time=1778408220",
             "title": "CBS SPORTS HD",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://livecdn-bp-iptv.rumsport7.live/live_abr/54043_hd/index.m3u8?is_vip=false&token=d9281b93e57381f7e8dc3553bca8ef5697b96b12&x-sign=92af84ed6f5c13bc7bae7648b1279444&x-time=1778411820",
+            "title": "DAZN SPORTS IT",
             "type": "0"
           },
           {
@@ -1788,6 +1792,12 @@
           },
           {
             "api": "",
+            "link": "https://livecdn-bp-livestream.rumsport7.live/stream/3/chunks.m3u8?is_vip=false&token=d9281b93e57381f7e8dc3553bca8ef5697b96b12&x-sign=30eb961cb2769f6ad8450ba2b308b912&x-time=1778411940",
+            "title": "BUNDESLIGA HD",
+            "type": "0"
+          },
+          {
+            "api": "",
             "link": "https://instreams.pro/bil2/bundes2/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
             "title": "SKY BUNDESLIGA SD",
             "type": "0"
@@ -1821,6 +1831,12 @@
           },
           {
             "api": "",
+            "link": "https://livecdn-bp-livestream.rumsport7.live/stream/1/chunks.m3u8?is_vip=false&token=d9281b93e57381f7e8dc3553bca8ef5697b96b12&x-sign=5d4ac2dde6b1805ef3048d64deafb38d&x-time=1778411940",
+            "title": "BUNDESLIGA HD",
+            "type": "0"
+          },
+          {
+            "api": "",
             "link": "https://instreams.pro/bil2/bundes3/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
             "title": "SKY BUNDESLIGA SD",
             "type": "0"
@@ -1846,6 +1862,12 @@
         "adsLimit": "0",
         "cat": "2. Bundesliga",
         "channels_data": [
+          {
+            "api": "",
+            "link": "https://livecdn-bp-livestream.rumsport7.live/stream/4/chunks.m3u8?is_vip=false&token=d9281b93e57381f7e8dc3553bca8ef5697b96b12&x-sign=7b3d8d9c70696ab77457e3c500e4ba6a&x-time=1778411880",
+            "title": "BUNDESLIGA HD",
+            "type": "0"
+          },
           {
             "api": "",
             "link": "https://instreams.pro/bil2/bundes4/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
