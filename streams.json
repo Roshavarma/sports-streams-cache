@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-10T18:10:42.990025",
+  "last_updated": "2026-05-10T18:20:21.159891",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "11:35:25 PM 10-05-2026",
+    "Last update time": "11:45:31 PM 10-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -2654,6 +2654,213 @@
         "image": "o",
         "publish": "1",
         "title": "Texas Rangers vs Chicago Cubs"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "Brasileirão",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://chatgpt.hereisman.net/playlist/50038/load-playlist?|Referer=https://gooz.aapmains.net",
+            "title": "SPORTIFy MLB",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://mainstreams.pro/hls/ojzkajnach21.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/10 21:00:00 +0000",
+          "eventName": "Atlético Mineiro vs Botafogo",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/10 19:00:00 +0000",
+          "teamA": "Atlético-MG",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/1977/image",
+          "teamB": "Botafogo",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/1958/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "PREMIERER BR"
+          },
+          {
+            "logo": "",
+            "title": "SportDigital Fussball"
+          }
+        ],
+        "id": "448",
+        "image": "o",
+        "publish": "1",
+        "title": "Atlético Mineiro vs Botafogo"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "Brasileirão",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://chatgpt.hereisman.net/playlist/50044/load-playlist?|Referer=https://gooz.aapmains.net",
+            "title": "SPORTIFy MLB",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://mainstreams.pro/hls/ijfnakfidch22.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/10 21:00:00 +0000",
+          "eventName": "Remo vs Palmeiras",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/10 19:00:00 +0000",
+          "teamA": "Remo",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2012/image",
+          "teamB": "Palmeiras",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/1963/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "PREMIERER BR"
+          }
+        ],
+        "id": "449",
+        "image": "o",
+        "publish": "1",
+        "title": "Remo vs Palmeiras"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "Brasileirão",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://chatgpt.hereisman.net/playlist/50047/load-playlist?|Referer=https://gooz.aapmains.net",
+            "title": "SPORTIFy MLB",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://mainstreams.pro/hls/jnzkdzjfanch23.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/10 23:30:00 +0000",
+          "eventName": "Santos vs Red Bull Bragantino",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/10 21:30:00 +0000",
+          "teamA": "Santos",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/1968/image",
+          "teamB": "RB Bragantino",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/1999/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "PREMIERER BR FHD"
+          },
+          {
+            "logo": "",
+            "title": "PREMIERER BR HD"
+          }
+        ],
+        "id": "450",
+        "image": "o",
+        "publish": "1",
+        "title": "Santos vs Red Bull Bragantino"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "Brasileirão",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://chatgpt.hereisman.net/playlist/50052/load-playlist?|Referer=https://gooz.aapmains.net",
+            "title": "SPORTIFy MLB",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://mainstreams.pro/hls/fskjanach24.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/10 23:30:00 +0000",
+          "eventName": "Corinthians vs São Paulo",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/10 21:30:00 +0000",
+          "teamA": "Corinthians",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/1957/image",
+          "teamB": "São Paulo",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/1981/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "PREMIER SPORTS"
+          },
+          {
+            "logo": "",
+            "title": "SportDigital Fussball"
+          }
+        ],
+        "id": "451",
+        "image": "o",
+        "publish": "1",
+        "title": "Corinthians vs São Paulo"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "Brasileirão",
+        "channels_data": [
+          {
+            "api": "192b1115da041585c77200128549efa1:634e10efe4abbb14be400a3ccbac0258",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/pnu10tp36z/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd",
+            "title": "TNT SPORTS",
+            "type": "1"
+          },
+          {
+            "api": "",
+            "link": "https://mainstreams.pro/hls/kjhfzua25.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/10 23:30:00 +0000",
+          "eventName": "Mirassol vs Chapecoense",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/10 21:30:00 +0000",
+          "teamA": "Mirassol",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/21982/image",
+          "teamB": "Chapecoense",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/21845/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "PREMIERER BR"
+          }
+        ],
+        "id": "452",
+        "image": "o",
+        "publish": "1",
+        "title": "Mirassol vs Chapecoense"
       }
     ]
   }
