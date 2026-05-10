@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-10T10:20:19.908641",
+  "last_updated": "2026-05-10T10:30:31.847545",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "03:45:23 PM 10-05-2026",
+    "Last update time": "03:55:32 PM 10-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -826,6 +826,18 @@
             "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
             "title": "SportDigital Fussball",
             "type": "1"
+          },
+          {
+            "api": "",
+            "link": "https://chatgpt.hereisman.net/playlist/50355/load-playlist?|Referer=https://gooz.aapmains.net",
+            "title": "SKY MAIN EVENT",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://pul-tenm.nbs3g.com/live/sd-1-4529568.m3u8?txSecret=2a0ef95dbe121a19cf7442a766ff3493&txTime=6A01AD52",
+            "title": "SPORTIFy Live",
+            "type": "0"
           }
         ],
         "eventInfo": {
@@ -1081,6 +1093,18 @@
             "link": "https://d1yi40sjj0ca0v.cloudfront.net/TVD6411/index.mpd",
             "title": "ELEVEN SPORTS HD",
             "type": "1"
+          },
+          {
+            "api": "",
+            "link": "https://livecdn-bp-livestream.rumsport7.live/stream/7/chunks.m3u8?is_vip=false&token=d9281b93e57381f7e8dc3553bca8ef5697b96b12&x-sign=a0ab7a940f5af9403755e9f51335d846&x-time=1778408220",
+            "title": "CBS SPORTS HD",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://pul-tenm.nbs3g.com/live/hd-en-1-4339705.m3u8?txSecret=5406ccbd0a7cf2ead2aa5ff7116de227&txTime=6A01AD52",
+            "title": "SPORTIFy Live",
+            "type": "0"
           }
         ],
         "eventInfo": {
