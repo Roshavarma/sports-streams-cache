@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-10T00:30:36.485380",
+  "last_updated": "2026-05-10T00:40:20.286318",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "05:55:20 AM 10-05-2026",
+    "Last update time": "06:05:19 AM 10-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -688,6 +688,24 @@
           },
           {
             "api": "",
+            "link": "https://pul-tenm.nbs3g.com/live/hd-en-2-3919010.m3u8?txSecret=dbbd7010e950d0c1165b130bdae1a7dd&txTime=6A0120B6",
+            "title": "SPY HD LIVE",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://daffodil.ellitescripts.com/nba.m3u8",
+            "title": "SPY LIVE FHD",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://nb3.bpfiles.cfd/live/lakerss/stream.m3u8",
+            "title": "SPY LIVE HD",
+            "type": "0"
+          },
+          {
+            "api": "",
             "link": "https://mainstreams.pro/hls/wfazgsqtrezu66.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
             "title": "SPORTIFy Live",
             "type": "0"
@@ -1131,60 +1149,6 @@
       },
       {
         "adsLimit": "0",
-        "cat": "Super Lig",
-        "channels_data": [
-          {
-            "api": "",
-            "link": "https://fallback-video.ivan-flux.workers.dev/video/index.m3u8",
-            "title": "SPORTIFy Live",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/09 19:00:00 +0000",
-          "eventName": "Beşiktaş vs Trabzonspor",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/09 17:00:00 +0000",
-          "teamA": "Beşiktaş",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3050/image",
-          "teamB": "Trabzonspor",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3051/image"
-        },
-        "id": "422",
-        "image": "o",
-        "publish": "1",
-        "title": "Beşiktaş vs Trabzonspor"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "LaLiga 2",
-        "channels_data": [
-          {
-            "api": "d69894c7b729c5d1e85893e5e6cfcb0f:db0d53f871f5d2ef91d3a112c7ec9f30",
-            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/tcninbbnt5/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd",
-            "title": "Laliga Hypermotion ES",
-            "type": "1"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/09 21:00:00 +0000",
-          "eventName": "Málaga vs Sporting Gijón",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/09 19:00:00 +0000",
-          "teamA": "Málaga",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2830/image",
-          "teamB": "Sporting",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2852/image"
-        },
-        "id": "426",
-        "image": "o",
-        "publish": "1",
-        "title": "Málaga vs Sporting Gijón"
-      },
-      {
-        "adsLimit": "0",
         "cat": "MLB",
         "channels_data": [
           {
@@ -1375,66 +1339,6 @@
             "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/oy6rp0jwmf/out/v1/580ecf12bad24979baf8dd993dce053e/cenc.mpd",
             "title": "PREMIERER BR",
             "type": "1"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/09 21:00:00 +0000",
-          "eventName": "Coritiba vs Internacional",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/09 19:00:00 +0000",
-          "teamA": "Coritiba",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/1982/image",
-          "teamB": "Internacional",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/1966/image"
-        },
-        "id": "441",
-        "image": "o",
-        "publish": "1",
-        "title": "Coritiba vs Internacional"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "Brasileirão",
-        "channels_data": [
-          {
-            "api": "56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd",
-            "title": "PREMIERER BR",
-            "type": "1"
-          },
-          {
-            "api": "4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733",
-            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd",
-            "title": "SporTV BR",
-            "type": "1"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/09 23:00:00 +0000",
-          "eventName": "Fluminense vs Vitória",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/09 21:00:00 +0000",
-          "teamA": "Fluminense",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/1961/image",
-          "teamB": "Vitória",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/1962/image"
-        },
-        "id": "442",
-        "image": "o",
-        "publish": "1",
-        "title": "Fluminense vs Vitória"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "Brasileirão",
-        "channels_data": [
-          {
-            "api": "9dc40460c93087aea84d6315f08ecb64:f69c8d4624fddff4ca89bd0b31bdc4a7",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/oy6rp0jwmf/out/v1/580ecf12bad24979baf8dd993dce053e/cenc.mpd",
-            "title": "PREMIERER BR",
-            "type": "1"
           },
           {
             "api": "4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733",
@@ -1458,33 +1362,6 @@
         "image": "o",
         "publish": "1",
         "title": "Bahia vs Cruzeiro"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "League One 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-        "channels_data": [
-          {
-            "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
-            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
-            "title": "beIN ENGLISH FHD",
-            "type": "1"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/09 21:00:00 +0000",
-          "eventName": "Bolton vs Bradford City",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/09 19:00:00 +0000",
-          "teamA": "Bolton",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/5/image",
-          "teamB": "Bradford",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/22/image"
-        },
-        "id": "444",
-        "image": "o",
-        "publish": "1",
-        "title": "Bolton vs Bradford City"
       }
     ]
   }
