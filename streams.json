@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-10T13:00:45.625128",
+  "last_updated": "2026-05-10T13:10:21.969849",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "06:25:25 PM 10-05-2026",
+    "Last update time": "06:35:18 PM 10-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -934,6 +934,12 @@
             "link": "https://chatgpt.hereisman.net/playlist/50362/load-playlist?|Referer=https://gooz.aapmains.net",
             "title": "USA TV HD",
             "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://pul-tenm.nbs3g.com/live/hd-en-1-4343282.m3u8?txSecret=a5844d931846c99d79ec14b501f8f47d&txTime=6A01D34C",
+            "title": "SPORTIFy Live",
+            "type": "0"
           }
         ],
         "eventInfo": {
@@ -961,6 +967,18 @@
             "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1778479831~acl=%2F*~id=c9b5bf19-c82f-42c3-bf2b-16e9b2ddbb88~data=hdntl,aXA9MTA4LjE4MS4wLjEwOSZleHA9MTc3ODM5MzQ2MSZlaWQ9OTM5OTY0Jm9pZD0xNTQmdHlwZT1WT0QmdWlkPXhSUnFvOXxiY2FlYTdjZi1jMzM3LTQwMzktODE1OC0zYzFjZTQ5ZTcyOTMmY2lkPWRjZS5maXNmZWQmcHQ9bnVsbA~hmac=c3fa85e47a4b5dd54afb95510c0949a9ccdc5d0c97d70d88064b73af7d0fc634/dash/live/2093716/219036-321029/manifest-d.mpd",
             "title": "SKY SPORTS FHD",
             "type": "1"
+          },
+          {
+            "api": "",
+            "link": "https://chatgpt.hereisman.net/playlist/50361/load-playlist?|Referer=https://gooz.aapmains.net",
+            "title": "PEACOCK TV+ HD",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://pul-tenm.nbs3g.com/live/hd-en-1-4343250.m3u8?txSecret=574d6cdf020198e37feeda36af100606&txTime=6A01D34C",
+            "title": "SPORTIFy Live",
+            "type": "0"
           }
         ],
         "eventInfo": {
@@ -1161,6 +1179,18 @@
             "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
             "title": "beIN ENGLISH FHD",
             "type": "1"
+          },
+          {
+            "api": "",
+            "link": "https://chatgpt.hereisman.net/playlist/50365/load-playlist?|Referer=https://gooz.aapmains.net",
+            "title": "CBS SPORTS HD",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://mainstreams.pro/hls/syaLqucEne4k.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+            "title": "DAZN SPORTS HD",
+            "type": "0"
           }
         ],
         "eventInfo": {
@@ -1194,6 +1224,18 @@
             "link": "https://d1yi40sjj0ca0v.cloudfront.net/TVD6411/index.mpd",
             "title": "ELEVEN SPORTS HD",
             "type": "1"
+          },
+          {
+            "api": "",
+            "link": "https://chatgpt.hereisman.net/playlist/50364/load-playlist?|Referer=https://gooz.aapmains.net",
+            "title": "CBS SPORTS HD",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://mainstreams.pro/hls/hflfkrtib42.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+            "title": "DAZN SPORTS HD",
+            "type": "0"
           }
         ],
         "eventInfo": {
