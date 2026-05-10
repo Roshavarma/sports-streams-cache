@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-10T12:50:23.556144",
+  "last_updated": "2026-05-10T13:00:45.625128",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "06:15:25 PM 10-05-2026",
+    "Last update time": "06:25:25 PM 10-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -883,6 +883,12 @@
             "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1778479833~acl=%2F*~id=033df977-a88c-4415-99b7-153500fe8cb1~data=hdntl,aXA9MTA4LjE4MS4wLjEwOSZleHA9MTc3ODM5MzQ2MiZlaWQ9OTM2NDY0Jm9pZD0xNTQmdHlwZT1WT0QmdWlkPXhSUnFvOXxiY2FlYTdjZi1jMzM3LTQwMzktODE1OC0zYzFjZTQ5ZTcyOTMmY2lkPWRjZS5maXNmZWQmcHQ9bnVsbA~hmac=9e23e0808e6c5d8433c05fc4324b6f10bef5b6612478f05a5ae8f6389127d1d3/dash/live/2093719/219037-321031/manifest-d.mpd",
             "title": "SKY SPORTS FHD",
             "type": "1"
+          },
+          {
+            "api": "",
+            "link": "https://chatgpt.hereisman.net/playlist/50363/load-playlist?|Referer=https://gooz.aapmains.net",
+            "title": "PEACOCK TV+ HD",
+            "type": "0"
           }
         ],
         "eventInfo": {
@@ -922,6 +928,12 @@
             "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd",
             "title": "TELEMUNDO FHD",
             "type": "1"
+          },
+          {
+            "api": "",
+            "link": "https://chatgpt.hereisman.net/playlist/50362/load-playlist?|Referer=https://gooz.aapmains.net",
+            "title": "USA TV HD",
+            "type": "0"
           }
         ],
         "eventInfo": {
@@ -1116,66 +1128,29 @@
       },
       {
         "adsLimit": "0",
-        "cat": "Serie A 🇮🇹",
+        "cat": "EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
         "channels_data": [
           {
-            "api": "dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd",
-            "title": "FUBO SPORTS FHD",
+            "api": "7a2758575dc04d63acc3573ab594d441:47071dd80de746a38cdc6a4dcde21abc",
+            "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1778479835~acl=%2F*~id=adfecf30-7146-41d7-96cb-b3f40b0779c3~data=hdntl,aXA9MTA4LjE4MS4wLjEwOSZleHA9MTc3ODM5MzQ2NSZlaWQ9OTM2NTc1Jm9pZD0xNTQmdHlwZT1WT0QmdWlkPXhSUnFvOXxiY2FlYTdjZi1jMzM3LTQwMzktODE1OC0zYzFjZTQ5ZTcyOTMmY2lkPWRjZS5maXNmZWQmcHQ9bnVsbA~hmac=db8acad46f3aa0d3921ecb81859cdbf7b7a2ea991bb46e48aabc27499dc61ca7/dash/live/2093712/219035-321027/manifest-d.mpd",
+            "title": "SKY SPORTS FHD",
             "type": "1"
-          },
-          {
-            "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
-            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
-            "title": "beIN ENGLISH FHD",
-            "type": "1"
-          },
-          {
-            "api": "0:0",
-            "link": "https://d1yi40sjj0ca0v.cloudfront.net/TVD4071/index.mpd",
-            "title": "COSMOTE Sport HD",
-            "type": "1"
-          },
-          {
-            "api": "0:0",
-            "link": "https://d1yi40sjj0ca0v.cloudfront.net/TVD6411/index.mpd",
-            "title": "ELEVEN SPORTS HD",
-            "type": "1"
-          },
-          {
-            "api": "",
-            "link": "https://livecdn-bp-livestream.rumsport7.live/stream/7/chunks.m3u8?is_vip=false&token=d9281b93e57381f7e8dc3553bca8ef5697b96b12&x-sign=a0ab7a940f5af9403755e9f51335d846&x-time=1778408220",
-            "title": "CBS SPORTS HD",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://livecdn-bp-iptv.rumsport7.live/live_abr/54043_hd/index.m3u8?is_vip=false&token=d9281b93e57381f7e8dc3553bca8ef5697b96b12&x-sign=92af84ed6f5c13bc7bae7648b1279444&x-time=1778411820",
-            "title": "DAZN SPORTS IT",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://pul-tenm.nbs3g.com/live/hd-en-1-4339705.m3u8?txSecret=5406ccbd0a7cf2ead2aa5ff7116de227&txTime=6A01AD52",
-            "title": "SPORTIFy Live",
-            "type": "0"
           }
         ],
         "eventInfo": {
-          "endTime": "2026/05/10 12:30:00 +0000",
-          "eventName": "Verona vs Como",
+          "endTime": "2026/05/10 14:00:00 +0000",
+          "eventName": "EPL Goal Rush",
           "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/10 10:30:00 +0000",
-          "teamA": "Verona",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2701/image",
-          "teamB": "Como",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2704/image"
+          "startTime": "2026/05/10 12:55:00 +0000",
+          "teamA": "EPL",
+          "teamAFlag": "https://images.fotmob.com/image_resources/logo/leaguelogo/47.png",
+          "teamB": "EPL",
+          "teamBFlag": "https://images.fotmob.com/image_resources/logo/leaguelogo/47.png"
         },
         "id": "409",
         "image": "o",
         "publish": "1",
-        "title": "Verona vs Como"
+        "title": "EPL Goal Rush"
       },
       {
         "adsLimit": "0",
