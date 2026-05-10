@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-10T11:30:31.670512",
+  "last_updated": "2026-05-10T11:32:45.033290",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "04:55:24 PM 10-05-2026",
+    "Last update time": "05:00:34 PM 10-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -879,10 +879,10 @@
         "cat": "EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
         "channels_data": [
           {
-            "api": "",
-            "link": "https://fallback-video.ivan-flux.workers.dev/video/index.m3u8",
-            "title": "SPORTIFy Live",
-            "type": "0"
+            "api": "01d02c97d1c949f9877acd230dcaa56d:708410b8bf1f4e998931183e8fab5d1e",
+            "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1778479833~acl=%2F*~id=033df977-a88c-4415-99b7-153500fe8cb1~data=hdntl,aXA9MTA4LjE4MS4wLjEwOSZleHA9MTc3ODM5MzQ2MiZlaWQ9OTM2NDY0Jm9pZD0xNTQmdHlwZT1WT0QmdWlkPXhSUnFvOXxiY2FlYTdjZi1jMzM3LTQwMzktODE1OC0zYzFjZTQ5ZTcyOTMmY2lkPWRjZS5maXNmZWQmcHQ9bnVsbA~hmac=9e23e0808e6c5d8433c05fc4324b6f10bef5b6612478f05a5ae8f6389127d1d3/dash/live/2093719/219037-321031/manifest-d.mpd",
+            "title": "SKY SPORTS FHD",
+            "type": "1"
           }
         ],
         "eventInfo": {
@@ -939,10 +939,10 @@
         "cat": "EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
         "channels_data": [
           {
-            "api": "",
-            "link": "https://fallback-video.ivan-flux.workers.dev/video/index.m3u8",
-            "title": "SPORTIFy Live",
-            "type": "0"
+            "api": "72002c630e2343849984b5d3ec418162:ae6f8e3ff42a4963ae25686cca56c8e8",
+            "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1778479831~acl=%2F*~id=c9b5bf19-c82f-42c3-bf2b-16e9b2ddbb88~data=hdntl,aXA9MTA4LjE4MS4wLjEwOSZleHA9MTc3ODM5MzQ2MSZlaWQ9OTM5OTY0Jm9pZD0xNTQmdHlwZT1WT0QmdWlkPXhSUnFvOXxiY2FlYTdjZi1jMzM3LTQwMzktODE1OC0zYzFjZTQ5ZTcyOTMmY2lkPWRjZS5maXNmZWQmcHQ9bnVsbA~hmac=c3fa85e47a4b5dd54afb95510c0949a9ccdc5d0c97d70d88064b73af7d0fc634/dash/live/2093716/219036-321029/manifest-d.mpd",
+            "title": "SKY SPORTS FHD",
+            "type": "1"
           }
         ],
         "eventInfo": {
@@ -987,6 +987,18 @@
             "api": "",
             "link": "https://livecdn-bp-iptv.rumsport7.live/live_abr/51328_hd/index.m3u8?is_vip=false&token=d9281b93e57381f7e8dc3553bca8ef5697b96b12&x-sign=30eab7bae624ebc74764f4fa9a9a46f9&x-time=1778412240",
             "title": "LALIGA TV HD",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://livecdn-bp-livestream.rumsport7.live/stream/25/chunks.m3u8?is_vip=false&token=d9281b93e57381f7e8dc3553bca8ef5697b96b12&x-sign=952c0874e2cad35ef7370339b64b8ae3&x-time=1778412240",
+            "title": "HD SERVER",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://livecdn-bp-iptv.rumsport7.live/live_abr/271339_hd/index.m3u8?is_vip=false&token=d9281b93e57381f7e8dc3553bca8ef5697b96b12&x-sign=f103acdf45b67b4a4bcbfcc695b4cd64&x-time=1778412300",
+            "title": "SPORTIFy Live",
             "type": "0"
           }
         ],
