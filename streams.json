@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-10T14:11:58.246141",
+  "last_updated": "2026-05-10T14:20:20.658681",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "07:40:31 PM 10-05-2026",
+    "Last update time": "07:45:29 PM 10-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -2145,6 +2145,12 @@
             "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
             "title": "SportDigital Fussball",
             "type": "1"
+          },
+          {
+            "api": "",
+            "link": "https://pul-tenm.nbs3g.com/live/sd-1-4344767.m3u8?txSecret=8c8b484aebe12ff55cccde02405e5d6c&txTime=6A01E2C3",
+            "title": "SPORTIFy Live",
+            "type": "0"
           }
         ],
         "eventInfo": {
@@ -2171,6 +2177,18 @@
             "api": "",
             "link": "https://instreams.pro/bil2/foxnl4/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
             "title": "ESPN NL SD",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://livecdn-bp-livestream.rumsport7.live/stream/4/chunks.m3u8?is_vip=false&token=423f801e50d6d76224865486813545aa22a805e4&x-sign=6e0611fb29cf4af58cb19d335ee7d521&x-time=1778422260",
+            "title": "SPY LIVE HD",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://pul-tenm.nbs3g.com/live/sd-1-4344700.m3u8?txSecret=f74f57f0b70fd34005789e6e996b36e8&txTime=6A01E2C3",
+            "title": "SPORTIFy Live",
             "type": "0"
           }
         ],
@@ -2199,6 +2217,18 @@
             "link": "https://instreams.pro/bil2/foxnl3/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
             "title": "ESPN NL SD",
             "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://livecdn-bp-livestream.rumsport7.live/stream/3/chunks.m3u8?is_vip=false&token=423f801e50d6d76224865486813545aa22a805e4&x-sign=585f276c4e72b733d6a17427a6db74f9&x-time=1778422380",
+            "title": "SPY LIVE HD",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://pul-tenm.nbs3g.com/live/sd-1-4344796.m3u8?txSecret=3b182b9e08df11a2f6e36566e15e56e3&txTime=6A01E2C3",
+            "title": "SPORTIFy Live",
+            "type": "0"
           }
         ],
         "eventInfo": {
@@ -2223,7 +2253,7 @@
         "channels_data": [
           {
             "api": "",
-            "link": "https://fallback-video.ivan-flux.workers.dev/video/index.m3u8",
+            "link": "https://pul-tenm.nbs3g.com/live/sd-1-4344709.m3u8?txSecret=4341450adac6c15aa515320febc35127&txTime=6A01E2C3",
             "title": "SPORTIFy Live",
             "type": "0"
           }
