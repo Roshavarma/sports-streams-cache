@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-10T14:10:22.702982",
+  "last_updated": "2026-05-10T14:11:58.246141",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "07:35:25 PM 10-05-2026",
+    "Last update time": "07:40:31 PM 10-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -664,7 +664,7 @@
           },
           {
             "api": "",
-            "link": "http://195.178.110.76/hls/ZDDDZQQ.m3u8|Referer=http://www.fawanews.sc/",
+            "link": "https://v.zgdyoqa.shop/hls/JPPPX.m3u8|Referer=http://www.fawanews.sc/",
             "title": "SD SERVER",
             "type": "0"
           }
@@ -684,6 +684,120 @@
         "image": "o",
         "publish": "1",
         "title": "IPL - 02"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "NBA",
+        "channels_data": [
+          {
+            "api": "c4088f5f265f9de50cffd80bf89308b7:2c4d2239d96d532b4ec2050653611003",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
+            "title": "TSN SPORTS FHD",
+            "type": "1"
+          },
+          {
+            "api": "e51aa21f2a0fef9aabc120dfb655b52f:a12a987fe725a40b6be95cd84b15f689",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
+            "title": "TSN SPORTS HD",
+            "type": "1"
+          },
+          {
+            "api": "",
+            "link": "https://chatgpt.hereisman.net/playlist/50304/load-playlist?|Referer=https://gooz.aapmains.net",
+            "title": "SPORTIFy NBA",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://mainstreams.pro/hls/mlkijfezag65.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://instreams.pro/US/NBA1/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
+            "title": "HD SERVER",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/10 22:30:00 +0000",
+          "eventName": "Philadelphia 76ers vs New York Knicks",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/10 19:30:00 +0000",
+          "teamA": "76ers",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3420/image",
+          "teamB": "Knicks",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3421/image"
+        },
+        "id": "373",
+        "image": "o",
+        "publish": "1",
+        "title": "Philadelphia 76ers"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "NBA",
+        "channels_data": [
+          {
+            "api": "c4088f5f265f9de50cffd80bf89308b7:2c4d2239d96d532b4ec2050653611003",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
+            "title": "TSN SPORTS FHD",
+            "type": "1"
+          },
+          {
+            "api": "",
+            "link": "https://chatgpt.hereisman.net/playlist/50343/load-playlist?|Referer=https://gooz.aapmains.net",
+            "title": "SPORTIFy NBA",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://pul-tenm.nbs3g.com/live/hd-en-2-3919010.m3u8?txSecret=dbbd7010e950d0c1165b130bdae1a7dd&txTime=6A0120B6",
+            "title": "SPY HD LIVE",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://daffodil.ellitescripts.com/nba.m3u8",
+            "title": "SPY LIVE FHD",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://nb3.bpfiles.cfd/live/lakerss/stream.m3u8",
+            "title": "SPY LIVE HD",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://mainstreams.pro/hls/wfazgsqtrezu66.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://instreams.pro/US/NBA2/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
+            "title": "HD SERVER",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/11 02:30:00 +0000",
+          "eventName": "Minnesota Timberwolves vs San Antonio Spurs",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/10 23:30:00 +0000",
+          "teamA": "Timberwolves",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3426/image",
+          "teamB": "Spurs",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3429/image"
+        },
+        "id": "374",
+        "image": "o",
+        "publish": "1",
+        "title": "Minnesota Timberwolves"
       },
       {
         "adsLimit": "0",
@@ -750,6 +864,90 @@
         "image": "o",
         "publish": "1",
         "title": "Al-Ittihad vs Damac FC"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "NHL",
+        "channels_data": [
+          {
+            "api": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f",
+            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
+            "title": "PREMIER SPORTS",
+            "type": "1"
+          },
+          {
+            "api": "",
+            "link": "https://mainstreams.pro/hls/uyopzarf50.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://instreams.pro/US/NHL1/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
+            "title": "HD SERVER",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/11 02:00:00 +0000",
+          "eventName": "Montréal Canadiens vs Buffalo Sabres",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/10 23:00:00 +0000",
+          "teamA": "Canadiens",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3690/image",
+          "teamB": "Sabres",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3678/image"
+        },
+        "id": "386",
+        "image": "o",
+        "publish": "1",
+        "title": "Buffalo Sabres"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "NHL",
+        "channels_data": [
+          {
+            "api": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
+            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
+            "title": "PREMIER SPORTS",
+            "type": "1"
+          },
+          {
+            "api": "",
+            "link": "https://chatgpt.hereisman.net/playlist/50347/load-playlist?|Referer=https://gooz.aapmains.net",
+            "title": "SPORTIFy NHL",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://mainstreams.pro/hls/hjksgdfauzy51.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://instreams.pro/US/NHL2/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
+            "title": "HD SERVER",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/11 04:30:00 +0000",
+          "eventName": "Anaheim Ducks vs Vegas Golden Knights",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/11 01:30:00 +0000",
+          "teamA": "Ducks",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3675/image",
+          "teamB": "Golden Knights",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/257523/image"
+        },
+        "id": "387",
+        "image": "o",
+        "publish": "1",
+        "title": "Golden Knights"
       },
       {
         "adsLimit": "0",
@@ -1260,8 +1458,14 @@
             "type": "1"
           },
           {
+            "api": "7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe",
+            "link": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
+            "title": "FANCODE FHD",
+            "type": "1"
+          },
+          {
             "api": "",
-            "link": "https://smarthard.click/hls/sabrouchespndeportes/index.m3u8|referer=https://hardsmart.click/",
+            "link": "https://chatgpt.hereisman.net/playlist/50371/load-playlist?|Referer=https://gooz.aapmains.net",
             "title": "ESPN DEPORTES",
             "type": "0"
           }
