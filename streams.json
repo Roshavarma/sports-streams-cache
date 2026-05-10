@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-10T00:40:20.286318",
+  "last_updated": "2026-05-10T00:50:20.617833",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "06:05:19 AM 10-05-2026",
+    "Last update time": "06:15:28 AM 10-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -671,6 +671,51 @@
         "title": "IPL - 02"
       },
       {
+        "adsLimit": "9",
+        "cat": "Boxing",
+        "channels_data": [
+          {
+            "api": "192b1115da041585c77200128549efa1:634e10efe4abbb14be400a3ccbac0258",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/pnu10tp36z/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd",
+            "title": "TNT Sports 4",
+            "type": "1"
+          },
+          {
+            "api": "",
+            "link": "https://cdn16348712.blazingcdn.net/dx14fhd/index.m3u8|Referer=https://yahoo.com/&Origin=https://yahoo.com&User-Agent=AppleCoreMedia/1.0.0.23D5103d (iPhone; U; CPU OS 26_3 like Mac OS X; en_us)",
+            "title": "WILLOW (Ad Free)",
+            "type": "0"
+          },
+          {
+            "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+            "title": "WILLOW FHD",
+            "type": "1"
+          },
+          {
+            "api": "",
+            "link": "https://crichdplayer.com/willow-cricket-live-stream-2026",
+            "title": "WILLOW SD",
+            "type": "2"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/10 04:30:00 +0000",
+          "eventName": "Angelo Leo vs Raeese Aleem",
+          "eventType": "null",
+          "isHot": "1",
+          "startTime": "2026/05/10 00:00:00 +0000",
+          "teamA": "Angelo Leo",
+          "teamAFlag": "https://static.flashscore.com/res/image/data/WhJUYmyB-dpWsEXH8.png",
+          "teamB": "Raeese Aleem",
+          "teamBFlag": "https://static.flashscore.com/res/image/data/lh4y7bg5-zc4CLUAc.png"
+        },
+        "id": "372",
+        "image": "o",
+        "publish": "1",
+        "title": "Angelo Leo vs Raeese Aleem"
+      },
+      {
         "adsLimit": "0",
         "cat": "NBA",
         "channels_data": [
@@ -721,7 +766,7 @@
           "endTime": "2026/05/10 03:30:00 +0000",
           "eventName": "Los Angeles Lakers vs Oklahoma City Thunder",
           "eventType": "null",
-          "isHot": "0",
+          "isHot": "1",
           "startTime": "2026/05/10 00:30:00 +0000",
           "teamA": "Lakers",
           "teamAFlag": "https://img.sofascore.com/api/v1/team/3427/image",
