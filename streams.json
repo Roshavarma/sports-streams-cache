@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-10T13:20:20.128404",
+  "last_updated": "2026-05-10T13:30:31.629234",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "06:45:26 PM 10-05-2026",
+    "Last update time": "06:55:20 PM 10-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -553,7 +553,7 @@
           },
           {
             "api": "3356fbe9735158679f44c9c219e74abb:cd9fbf926965283a687fdeb2ScfA21cf",
-            "link": "https://dck1-ac-live.cdn.indazn.com/out/v1/814bffb9b389f652/9cd76b42af874557abc77e009ce2218d/index.mpd",
+            "link": "https://dck1-ak-livedazn.akamaized.net/out/v1/814bffb9b389f652/9cd76b42af874557abc77e009ce2218d/index.mpd",
             "title": "KAYO HINDI FHD",
             "type": "1"
           },
@@ -627,27 +627,15 @@
         "cat": "Indian Premier League",
         "channels_data": [
           {
-            "api": "82eabe094566556d22f1708a1b466113:8ea1e0002435567dd51ef8c848f65bbe",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/adb04xbxx2/out/v1/cc995fdb08e045308b91b144b3acc5a6/cenc.mpd",
-            "title": "WILLOW [Ad-Free]",
+            "api": "278b8746b7c7410e901af0aa3774f037:15e1142d647b474ebbd49e41efa2a9d7",
+            "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1778479837~acl=%2F*~id=f982c1bc-036d-4277-baf9-6df46863b3ee~data=hdntl,aXA9MTA4LjE4MS4wLjEwOSZleHA9MTc3ODM5MzQ2NyZlaWQ9OTM5NjY2Jm9pZD0xNTQmdHlwZT1WT0QmdWlkPXhSUnFvOXxiY2FlYTdjZi1jMzM3LTQwMzktODE1OC0zYzFjZTQ5ZTcyOTMmY2lkPWRjZS5maXNmZWQmcHQ9bnVsbA~hmac=a0a3328a3b0e5421968984ebacecaf3ebf8fac58bf8a7ff905f235b2076347d9/dash/live/2093720/219029-321032/manifest-d.mpd",
+            "title": "SKY SPORTS FHD",
             "type": "1"
           },
           {
             "api": "",
-            "link": "https://livevideos.cricbuzz.com/hls/live/2123516/WCB-US-HINDI/9241/152009/master.m3u8?hdntl=exp=1777895597~acl=%2f*~id=qa.team%40cricbuzz.com~data=hdntl,flavour%3aCB,matchId%3a65907,country%3aUS~hmac=b6997764845c66b647d773d5bb011f254e8ec632ae6bc24be538b0c873239776|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
-            "title": "CRICBUZZ HIN",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://livevideos.cricbuzz.com/hls/live/2123398/WCB-CA/9241/152009/master.m3u8?hdntl=exp=1777895597~acl=%2f*~id=qa.team%40cricbuzz.com~data=hdntl,flavour%3aCB,matchId%3a65907,country%3aUS~hmac=b6997764845c66b647d773d5bb011f254e8ec632ae6bc24be538b0c873239776|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
-            "title": "CRICBUZZ ENG",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://hghndasw.dg7yhiudjydg.shop/sec/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW0iOiJmb3gtc3BvcnRzLTUwMSIsImV4cCI6MTc3NzgzODQ3NH0.9WlORCa8PboayG8yh9Rm1a6unfy4bDyP0U8wRSGYpk4/fox-sports-501.m3u8",
-            "title": "FOX CRICKET",
+            "link": "https://dai.google.com/linear/hls/event/mbsfWpAoS2Olw5e-nkM-gw/master.m3u8|user-agent=Cricbuzz/7.00.01 (Linux;Android 13) AndroidXMedia3/1.5.1&x-forwarded-for=1.178.20.23",
+            "title": "NOON SPORTS",
             "type": "0"
           },
           {
@@ -901,6 +889,18 @@
             "link": "https://pul-tenm.nbs3g.com/live/hd-en-1-4343246.m3u8?txSecret=adaa95ac60a69d7149e217c35c70fda7&txTime=6A01D34C",
             "title": "SPORTIFy Live",
             "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://livecdn-bp-iptv.rumsport7.live/live_abr/144254_hd/index.m3u8?is_vip=false&token=423f801e50d6d76224865486813545aa22a805e4&x-sign=3becff836185ea8a4249ceb52fa924a8&x-time=1778419320",
+            "title": "HUB PREMIER HD",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://livecdn-bp-iptv.rumsport7.live/live_abr/52436_hd/index.m3u8?is_vip=false&token=423f801e50d6d76224865486813545aa22a805e4&x-sign=ccd6702f4b66cffb3eb2b75bb0007c81&x-time=1778419380",
+            "title": "SPY LIVE HD",
+            "type": "0"
           }
         ],
         "eventInfo": {
@@ -1002,6 +1002,12 @@
             "api": "",
             "link": "https://pul-tenm.nbs3g.com/live/hd-en-1-4343250.m3u8?txSecret=574d6cdf020198e37feeda36af100606&txTime=6A01D34C",
             "title": "SPORTIFy Live",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://livecdn-bp-iptv.rumsport7.live/live_abr/144256_hd/index.m3u8?is_vip=false&token=423f801e50d6d76224865486813545aa22a805e4&x-sign=8d73d4fcbd7369a3fa9b6c8530710d8e&x-time=1778419200",
+            "title": "HUB PREMIER HD",
             "type": "0"
           }
         ],
@@ -1391,6 +1397,12 @@
             "type": "1"
           },
           {
+            "api": "",
+            "link": "https://livecdn-bp-livestream.rumsport7.live/stream/6/chunks.m3u8?is_vip=false&token=423f801e50d6d76224865486813545aa22a805e4&x-sign=cc75643c7dba7f61ee6e881408908acb&x-time=1778419440",
+            "title": "BUNDESLIGA HD",
+            "type": "0"
+          },
+          {
             "api": "0:0",
             "link": "https://d1yi40sjj0ca0v.cloudfront.net/TVD6414/index.mpd",
             "title": "ELEVEN SPORTS HD",
@@ -1400,6 +1412,12 @@
             "api": "",
             "link": "https://pul-tenm.nbs3g.com/live/hd-en-1-4347605.m3u8?txSecret=b6c637e1de4268677ccbfd0135af1631&txTime=6A01D531",
             "title": "SPORTIFy Live",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2094589/Bliga_Ha1005/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com",
+            "title": "SonyLiv [ASIA]",
             "type": "0"
           }
         ],
