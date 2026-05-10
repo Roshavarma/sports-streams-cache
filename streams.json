@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-10T10:00:43.967452",
+  "last_updated": "2026-05-10T10:10:24.116550",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "03:25:26 PM 10-05-2026",
+    "Last update time": "03:35:20 PM 10-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -580,6 +580,18 @@
             "link": "http://193.47.62.194/hls/plll.m3u8|Referer=http://www.fawanews.sc/",
             "title": "SD SERVER",
             "type": "0"
+          },
+          {
+            "api": "81872faa1d6b45fa9045cdeb2e310000:9b88168e61274587a471962cw6b\u00194675",
+            "link": "https://livetv.hotstar.com/mp1/gec-india-1540065788/fa6a4f0005ef4f90ab24484d165b0aaf/index.mpd?|cookie=hdntl=exp=1778457651~acl=%2f*~id=8e35b4f8bf57a80ad58eff80800f20bf~data=hdntl~hmac=038ae8f949f65209ff4845c81c3352f9a5d2c655dd16e144d424357fd798a60c&User-agent=Hotstar;in.startv.hotstar/SportsLover(Android/15)",
+            "title": "STAR SPORTS HIN",
+            "type": "1"
+          },
+          {
+            "api": "9dacc80134404c34ba184022c28d0000:982183fb4d9449c995859b7cXf5\u00112092",
+            "link": "https://livetv.hotstar.com/mp2/gec-india-1540065785/a00717b1324f45eb814eec9e48a12db8/index.mpd?|cookie=hdntl=exp=1778457651~acl=%2f*~id=8e35b4f8bf57a80ad58eff80800f20bf~data=hdntl~hmac=038ae8f949f65209ff4845c81c3352f9a5d2c655dd16e144d424357fd798a60c&User-agent=Hotstar;in.startv.hotstar/SportsLover(Android/15)",
+            "title": "STAR SPORTS ENG",
+            "type": "1"
           }
         ],
         "eventInfo": {
