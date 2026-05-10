@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-10T15:40:21.545405",
+  "last_updated": "2026-05-10T15:50:25.727861",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "09:05:27 PM 10-05-2026",
+    "Last update time": "09:15:29 PM 10-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -1114,6 +1114,12 @@
           },
           {
             "api": "",
+            "link": "https://customer-zbcm6pq2tkb2rho0.cloudflarestream.com/1719e2f2cf8b19a82dad1bdc46fedfa9/manifest/video.m3u8",
+            "title": "USA TV - AQ",
+            "type": "0"
+          },
+          {
+            "api": "",
             "link": "https://chatgpt.hereisman.net/playlist/50368/load-playlist?|Referer=https://gooz.aapmains.net",
             "title": "USA TV HD",
             "type": "0"
@@ -1132,8 +1138,8 @@
           },
           {
             "api": "",
-            "link": "https://noahxzflj854.s3.us-east-1.amazonaws.com/btsport.m3u8",
-            "title": "USA TV - AQ",
+            "link": "https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1778427306~acl=/hls/*~hmac=64dee0791acf3c3623b0fd7b2a30caa828323de3c61607ac5a3f4570199f2a1f",
+            "title": "TAPMAD FHD",
             "type": "0"
           },
           {
@@ -1269,171 +1275,6 @@
       },
       {
         "adsLimit": "0",
-        "cat": "EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-        "channels_data": [
-          {
-            "api": "01d02c97d1c949f9877acd230dcaa56d:708410b8bf1f4e998931183e8fab5d1e",
-            "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1778479833~acl=%2F*~id=033df977-a88c-4415-99b7-153500fe8cb1~data=hdntl,aXA9MTA4LjE4MS4wLjEwOSZleHA9MTc3ODM5MzQ2MiZlaWQ9OTM2NDY0Jm9pZD0xNTQmdHlwZT1WT0QmdWlkPXhSUnFvOXxiY2FlYTdjZi1jMzM3LTQwMzktODE1OC0zYzFjZTQ5ZTcyOTMmY2lkPWRjZS5maXNmZWQmcHQ9bnVsbA~hmac=9e23e0808e6c5d8433c05fc4324b6f10bef5b6612478f05a5ae8f6389127d1d3/dash/live/2093719/219037-321031/manifest-d.mpd",
-            "title": "SKY SPORTS FHD",
-            "type": "1"
-          },
-          {
-            "api": "",
-            "link": "https://chatgpt.hereisman.net/playlist/50363/load-playlist?|Referer=https://gooz.aapmains.net",
-            "title": "PEACOCK TV+ HD",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://noahxzflj854.s3.us-east-1.amazonaws.com/sportsnet.m3u8",
-            "title": "PEACOCK TV+ AQ",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://pul-tenm.nbs3g.com/live/hd-en-1-4343246.m3u8?txSecret=adaa95ac60a69d7149e217c35c70fda7&txTime=6A01D34C",
-            "title": "SPORTIFy Live",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://livecdn-bp-iptv.rumsport7.live/live_abr/144254_hd/index.m3u8?is_vip=false&token=423f801e50d6d76224865486813545aa22a805e4&x-sign=3becff836185ea8a4249ceb52fa924a8&x-time=1778419320",
-            "title": "HUB PREMIER HD",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://livecdn-bp-iptv.rumsport7.live/live_abr/52436_hd/index.m3u8?is_vip=false&token=423f801e50d6d76224865486813545aa22a805e4&x-sign=ccd6702f4b66cffb3eb2b75bb0007c81&x-time=1778419380",
-            "title": "SPY LIVE HD",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/10 15:00:00 +0000",
-          "eventName": "Burnley vs Aston Villa",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/10 13:00:00 +0000",
-          "teamA": "Burnley",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/6/image",
-          "teamB": "Aston Villa",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/40/image"
-        },
-        "id": "403",
-        "image": "o",
-        "publish": "1",
-        "title": "Burnley vs Aston Villa"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-        "channels_data": [
-          {
-            "api": "af95024eda94455e922b90a39a3af93e:852e715ef4064b05b8e1cdee285648b5",
-            "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1778479831~acl=%2F*~id=c9b5bf19-c82f-42c3-bf2b-16e9b2ddbb88~data=hdntl,aXA9MTA4LjE4MS4wLjEwOSZleHA9MTc3ODM5MzQ2MSZlaWQ9OTM5OTY0Jm9pZD0xNTQmdHlwZT1WT0QmdWlkPXhSUnFvOXxiY2FlYTdjZi1jMzM3LTQwMzktODE1OC0zYzFjZTQ5ZTcyOTMmY2lkPWRjZS5maXNmZWQmcHQ9bnVsbA~hmac=c3fa85e47a4b5dd54afb95510c0949a9ccdc5d0c97d70d88064b73af7d0fc634/dash/live/2093711/219034-321026/manifest-d.mpd",
-            "title": "SKY SPORTS FHD",
-            "type": "1"
-          },
-          {
-            "api": "0:0",
-            "link": "https://d1yi40sjj0ca0v.cloudfront.net/TVD6219/index.mpd",
-            "title": "NOVA SPORTS PL",
-            "type": "1"
-          },
-          {
-            "api": "ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1",
-            "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd",
-            "title": "TELEMUNDO FHD",
-            "type": "1"
-          },
-          {
-            "api": "",
-            "link": "https://chatgpt.hereisman.net/playlist/50362/load-playlist?|Referer=https://gooz.aapmains.net",
-            "title": "USA TV HD",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://noahxzflj854.s3.us-east-1.amazonaws.com/btsport.m3u8",
-            "title": "USA TV - AQ",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://601.jcmainclr.top/main.m3u8",
-            "title": "MAIN EVENT FHD",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://pul-tenm.nbs3g.com/live/hd-en-1-4343282.m3u8?txSecret=a5844d931846c99d79ec14b501f8f47d&txTime=6A01D34C",
-            "title": "SPORTIFy Live",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/10 15:00:00 +0000",
-          "eventName": "Nottingham Forest vs Newcastle",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/10 13:00:00 +0000",
-          "teamA": "Forest",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/14/image",
-          "teamB": "Newcastle",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/39/image"
-        },
-        "id": "404",
-        "image": "o",
-        "publish": "1",
-        "title": "Nottingham Forest vs Newcastle"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-        "channels_data": [
-          {
-            "api": "72002c630e2343849984b5d3ec418162:ae6f8e3ff42a4963ae25686cca56c8e8",
-            "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1778479831~acl=%2F*~id=c9b5bf19-c82f-42c3-bf2b-16e9b2ddbb88~data=hdntl,aXA9MTA4LjE4MS4wLjEwOSZleHA9MTc3ODM5MzQ2MSZlaWQ9OTM5OTY0Jm9pZD0xNTQmdHlwZT1WT0QmdWlkPXhSUnFvOXxiY2FlYTdjZi1jMzM3LTQwMzktODE1OC0zYzFjZTQ5ZTcyOTMmY2lkPWRjZS5maXNmZWQmcHQ9bnVsbA~hmac=c3fa85e47a4b5dd54afb95510c0949a9ccdc5d0c97d70d88064b73af7d0fc634/dash/live/2093716/219036-321029/manifest-d.mpd",
-            "title": "SKY SPORTS FHD",
-            "type": "1"
-          },
-          {
-            "api": "",
-            "link": "https://chatgpt.hereisman.net/playlist/50361/load-playlist?|Referer=https://gooz.aapmains.net",
-            "title": "PEACOCK TV+ HD",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://pul-tenm.nbs3g.com/live/hd-en-1-4343250.m3u8?txSecret=574d6cdf020198e37feeda36af100606&txTime=6A01D34C",
-            "title": "SPORTIFy Live",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://livecdn-bp-iptv.rumsport7.live/live_abr/144256_hd/index.m3u8?is_vip=false&token=423f801e50d6d76224865486813545aa22a805e4&x-sign=8d73d4fcbd7369a3fa9b6c8530710d8e&x-time=1778419200",
-            "title": "HUB PREMIER HD",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/10 15:00:00 +0000",
-          "eventName": "Crystal Palace vs Everton",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/10 13:00:00 +0000",
-          "teamA": "Crystal Palace",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/7/image",
-          "teamB": "Everton",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/48/image"
-        },
-        "id": "405",
-        "image": "o",
-        "publish": "1",
-        "title": "Crystal Palace vs Everton"
-      },
-      {
-        "adsLimit": "0",
         "cat": "LaLiga 🇪🇸",
         "channels_data": [
           {
@@ -1501,7 +1342,7 @@
           },
           {
             "api": "",
-            "link": "https://smarthard.click/hls/sabrouchespndeportes/index.m3u8|referer=https://hardsmart.click/",
+            "link": "https://chatgpt.hereisman.net/playlist/50375/load-playlist?|Referer=https://gooz.aapmains.net/",
             "title": "ESPN DEPORTES",
             "type": "0"
           }
@@ -1521,128 +1362,6 @@
         "image": "o",
         "publish": "1",
         "title": "Real Oviedo vs Getafe"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-        "channels_data": [
-          {
-            "api": "7a2758575dc04d63acc3573ab594d441:47071dd80de746a38cdc6a4dcde21abc",
-            "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1778479835~acl=%2F*~id=adfecf30-7146-41d7-96cb-b3f40b0779c3~data=hdntl,aXA9MTA4LjE4MS4wLjEwOSZleHA9MTc3ODM5MzQ2NSZlaWQ9OTM2NTc1Jm9pZD0xNTQmdHlwZT1WT0QmdWlkPXhSUnFvOXxiY2FlYTdjZi1jMzM3LTQwMzktODE1OC0zYzFjZTQ5ZTcyOTMmY2lkPWRjZS5maXNmZWQmcHQ9bnVsbA~hmac=db8acad46f3aa0d3921ecb81859cdbf7b7a2ea991bb46e48aabc27499dc61ca7/dash/live/2093712/219035-321027/manifest-d.mpd",
-            "title": "SKY SPORTS FHD",
-            "type": "1"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/10 14:00:00 +0000",
-          "eventName": "EPL Goal Rush",
-          "eventType": "null",
-          "startTime": "2026/05/10 12:55:00 +0000",
-          "teamA": "EPL",
-          "teamAFlag": "https://images.fotmob.com/image_resources/logo/leaguelogo/47.png",
-          "teamB": "EPL",
-          "teamBFlag": "https://images.fotmob.com/image_resources/logo/leaguelogo/47.png"
-        },
-        "id": "409",
-        "image": "o",
-        "publish": "1",
-        "title": "EPL Goal Rush"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "Serie A 🇮🇹",
-        "channels_data": [
-          {
-            "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
-            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
-            "title": "beIN ENGLISH FHD",
-            "type": "1"
-          },
-          {
-            "api": "",
-            "link": "https://chatgpt.hereisman.net/playlist/50365/load-playlist?|Referer=https://gooz.aapmains.net",
-            "title": "CBS SPORTS HD",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://mainstreams.pro/hls/syaLqucEne4k.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-            "title": "DAZN SPORTS HD",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://pul-tenm.nbs3g.com/live/hd-en-1-4339692.m3u8?txSecret=631242759b5a74e895c32e479eff873a&txTime=6A01D43D",
-            "title": "SPORTIFy Live",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/10 15:00:00 +0000",
-          "eventName": "Cremonese vs Pisa",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/10 13:00:00 +0000",
-          "teamA": "Cremonese",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2761/image",
-          "teamB": "Pisa",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2737/image"
-        },
-        "id": "410",
-        "image": "o",
-        "publish": "1",
-        "title": "Cremonese vs Pisa"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "Serie A 🇮🇹",
-        "channels_data": [
-          {
-            "api": "0:0",
-            "link": "https://d1yi40sjj0ca0v.cloudfront.net/TVD4071/index.mpd",
-            "title": "COSMOTE Sport HD",
-            "type": "1"
-          },
-          {
-            "api": "0:0",
-            "link": "https://d1yi40sjj0ca0v.cloudfront.net/TVD6411/index.mpd",
-            "title": "ELEVEN SPORTS HD",
-            "type": "1"
-          },
-          {
-            "api": "",
-            "link": "https://chatgpt.hereisman.net/playlist/50364/load-playlist?|Referer=https://gooz.aapmains.net",
-            "title": "CBS SPORTS HD",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://mainstreams.pro/hls/hflfkrtib42.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-            "title": "DAZN SPORTS HD",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://pul-tenm.nbs3g.com/live/hd-en-1-4339695.m3u8?txSecret=146042f2ee428357edbaa6466612b019&txTime=6A01D43D",
-            "title": "SPORTIFy Live",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/10 15:00:00 +0000",
-          "eventName": "Fiorentina vs Genoa",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/10 13:00:00 +0000",
-          "teamA": "Fiorentina",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2693/image",
-          "teamB": "Genoa",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2713/image"
-        },
-        "id": "411",
-        "image": "o",
-        "publish": "1",
-        "title": "Fiorentina vs Genoa"
       },
       {
         "adsLimit": "0",
@@ -1671,6 +1390,18 @@
             "link": "https://d1yi40sjj0ca0v.cloudfront.net/TVD6414/index.mpd",
             "title": "ELEVEN SPORTS HD",
             "type": "1"
+          },
+          {
+            "api": "",
+            "link": "https://mainstreams.pro/hls/syaLqucEne4k.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+            "title": "DAZN SPORTS HD",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://livecdn-bp-livestream.rumsport7.live/stream/7/chunks.m3u8?is_vip=false&token=423f801e50d6d76224865486813545aa22a805e4&x-sign=666d83bb6c45110eb209ae0c5893d845&x-time=1778427300",
+            "title": "PARAMOUNT+ HD",
+            "type": "0"
           }
         ],
         "eventInfo": {
@@ -1733,63 +1464,6 @@
         "image": "o",
         "publish": "1",
         "title": "Milan vs Atalanta"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "Bundesliga 🇩🇪",
-        "channels_data": [
-          {
-            "api": "",
-            "link": "https://chatgpt.hereisman.net/playlist/50366/load-playlist?|Referer=https://gooz.aapmains.net",
-            "title": "ESPN BUNDESLIGA HD",
-            "type": "0"
-          },
-          {
-            "api": "0:0",
-            "link": "https://d1yi40sjj0ca0v.cloudfront.net/TVD232/index.mpd",
-            "title": "DAZN DE HD",
-            "type": "1"
-          },
-          {
-            "api": "",
-            "link": "https://livecdn-bp-livestream.rumsport7.live/stream/6/chunks.m3u8?is_vip=false&token=423f801e50d6d76224865486813545aa22a805e4&x-sign=cc75643c7dba7f61ee6e881408908acb&x-time=1778419440",
-            "title": "BUNDESLIGA HD",
-            "type": "0"
-          },
-          {
-            "api": "0:0",
-            "link": "https://d1yi40sjj0ca0v.cloudfront.net/TVD6414/index.mpd",
-            "title": "ELEVEN SPORTS HD",
-            "type": "1"
-          },
-          {
-            "api": "",
-            "link": "https://pul-tenm.nbs3g.com/live/hd-en-1-4347605.m3u8?txSecret=b6c637e1de4268677ccbfd0135af1631&txTime=6A01D531",
-            "title": "SPORTIFy Live",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2094589/Bliga_Ha1005/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com",
-            "title": "SonyLiv [ASIA]",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/10 15:30:00 +0000",
-          "eventName": "Hamburger vs Freiburg",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/10 13:30:00 +0000",
-          "teamA": "HSV",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2676/image",
-          "teamB": "Freiburg",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2538/image"
-        },
-        "id": "414",
-        "image": "o",
-        "publish": "1",
-        "title": "Hamburger vs Freiburg"
       },
       {
         "adsLimit": "0",
@@ -2279,117 +1953,6 @@
       },
       {
         "adsLimit": "0",
-        "cat": "2. Bundesliga",
-        "channels_data": [
-          {
-            "api": "0:0",
-            "link": "https://d1yi40sjj0ca0v.cloudfront.net/TVD6414/index.mpd",
-            "title": "ELEVEN SPORTS HD",
-            "type": "1"
-          },
-          {
-            "api": "",
-            "link": "https://livecdn-bp-livestream.rumsport7.live/stream/3/chunks.m3u8?is_vip=false&token=d9281b93e57381f7e8dc3553bca8ef5697b96b12&x-sign=30eb961cb2769f6ad8450ba2b308b912&x-time=1778411940",
-            "title": "BUNDESLIGA HD",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://instreams.pro/bil2/bundes2/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
-            "title": "SKY BUNDESLIGA SD",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/10 13:30:00 +0000",
-          "eventName": "Fortuna vs Elversberg",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/10 11:30:00 +0000",
-          "teamA": "Fortuna",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2588/image",
-          "teamB": "Elversberg",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2598/image"
-        },
-        "id": "431",
-        "image": "o",
-        "publish": "1",
-        "title": "Fortuna vs Elversberg"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "2. Bundesliga",
-        "channels_data": [
-          {
-            "api": "0:0",
-            "link": "https://d1yi40sjj0ca0v.cloudfront.net/TVD6412/index.mpd",
-            "title": "ELEVEN SPORTS HD",
-            "type": "1"
-          },
-          {
-            "api": "",
-            "link": "https://livecdn-bp-livestream.rumsport7.live/stream/1/chunks.m3u8?is_vip=false&token=d9281b93e57381f7e8dc3553bca8ef5697b96b12&x-sign=5d4ac2dde6b1805ef3048d64deafb38d&x-time=1778411940",
-            "title": "BUNDESLIGA HD",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://instreams.pro/bil2/bundes3/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
-            "title": "SKY BUNDESLIGA SD",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/10 13:30:00 +0000",
-          "eventName": "Hertha BSC vs Greuther Fürth",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/10 11:30:00 +0000",
-          "teamA": "Hertha",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2528/image",
-          "teamB": "Fürth",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2551/image"
-        },
-        "id": "432",
-        "image": "o",
-        "publish": "1",
-        "title": "Hertha vs Greuther Fürth"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "2. Bundesliga",
-        "channels_data": [
-          {
-            "api": "",
-            "link": "https://livecdn-bp-livestream.rumsport7.live/stream/4/chunks.m3u8?is_vip=false&token=d9281b93e57381f7e8dc3553bca8ef5697b96b12&x-sign=7b3d8d9c70696ab77457e3c500e4ba6a&x-time=1778411880",
-            "title": "BUNDESLIGA HD",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://instreams.pro/bil2/bundes4/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
-            "title": "SKY BUNDESLIGA SD",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/10 13:30:00 +0000",
-          "eventName": "Münster vs Darmstadt 98",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/10 11:30:00 +0000",
-          "teamA": "Münster",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2590/image",
-          "teamB": "Darmstadt",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2576/image"
-        },
-        "id": "433",
-        "image": "o",
-        "publish": "1",
-        "title": "Münster vs Darmstadt 98"
-      },
-      {
-        "adsLimit": "0",
         "cat": "LaLiga 2",
         "channels_data": [
           {
@@ -2500,6 +2063,12 @@
         "adsLimit": "0",
         "cat": "MLB",
         "channels_data": [
+          {
+            "api": "",
+            "link": "https://chatgpt.hereisman.net/playlist/50374/load-playlist?|Referer=https://gooz.aapmains.net",
+            "title": "SPORTIFy MLB",
+            "type": "0"
+          },
           {
             "api": "",
             "link": "https://mainstreams.pro/hls/dazhfiach15.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
