@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-10T13:30:31.629234",
+  "last_updated": "2026-05-10T13:40:23.232433",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "06:55:20 PM 10-05-2026",
+    "Last update time": "07:05:26 PM 10-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -1390,6 +1390,12 @@
         "adsLimit": "0",
         "cat": "Bundesliga 🇩🇪",
         "channels_data": [
+          {
+            "api": "",
+            "link": "https://chatgpt.hereisman.net/playlist/50366/load-playlist?|Referer=https://gooz.aapmains.net",
+            "title": "ESPN BUNDESLIGA HD",
+            "type": "0"
+          },
           {
             "api": "0:0",
             "link": "https://d1yi40sjj0ca0v.cloudfront.net/TVD232/index.mpd",
