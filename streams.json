@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-10T13:10:21.969849",
+  "last_updated": "2026-05-10T13:20:20.128404",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "06:35:18 PM 10-05-2026",
+    "Last update time": "06:45:26 PM 10-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -889,6 +889,18 @@
             "link": "https://chatgpt.hereisman.net/playlist/50363/load-playlist?|Referer=https://gooz.aapmains.net",
             "title": "PEACOCK TV+ HD",
             "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://noahxzflj854.s3.us-east-1.amazonaws.com/sportsnet.m3u8",
+            "title": "PEACOCK TV+ AQ",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://pul-tenm.nbs3g.com/live/hd-en-1-4343246.m3u8?txSecret=adaa95ac60a69d7149e217c35c70fda7&txTime=6A01D34C",
+            "title": "SPORTIFy Live",
+            "type": "0"
           }
         ],
         "eventInfo": {
@@ -933,6 +945,18 @@
             "api": "",
             "link": "https://chatgpt.hereisman.net/playlist/50362/load-playlist?|Referer=https://gooz.aapmains.net",
             "title": "USA TV HD",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://noahxzflj854.s3.us-east-1.amazonaws.com/btsport.m3u8",
+            "title": "USA TV - AQ",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://601.jcmainclr.top/main.m3u8",
+            "title": "MAIN EVENT FHD",
             "type": "0"
           },
           {
@@ -1191,6 +1215,12 @@
             "link": "https://mainstreams.pro/hls/syaLqucEne4k.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
             "title": "DAZN SPORTS HD",
             "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://pul-tenm.nbs3g.com/live/hd-en-1-4339692.m3u8?txSecret=631242759b5a74e895c32e479eff873a&txTime=6A01D43D",
+            "title": "SPORTIFy Live",
+            "type": "0"
           }
         ],
         "eventInfo": {
@@ -1235,6 +1265,12 @@
             "api": "",
             "link": "https://mainstreams.pro/hls/hflfkrtib42.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
             "title": "DAZN SPORTS HD",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://pul-tenm.nbs3g.com/live/hd-en-1-4339695.m3u8?txSecret=146042f2ee428357edbaa6466612b019&txTime=6A01D43D",
+            "title": "SPORTIFy Live",
             "type": "0"
           }
         ],
@@ -1359,6 +1395,12 @@
             "link": "https://d1yi40sjj0ca0v.cloudfront.net/TVD6414/index.mpd",
             "title": "ELEVEN SPORTS HD",
             "type": "1"
+          },
+          {
+            "api": "",
+            "link": "https://pul-tenm.nbs3g.com/live/hd-en-1-4347605.m3u8?txSecret=b6c637e1de4268677ccbfd0135af1631&txTime=6A01D531",
+            "title": "SPORTIFy Live",
+            "type": "0"
           }
         ],
         "eventInfo": {
