@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-10T00:50:20.617833",
+  "last_updated": "2026-05-10T01:00:46.555823",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "06:15:28 AM 10-05-2026",
+    "Last update time": "06:25:17 AM 10-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -1197,10 +1197,10 @@
         "cat": "MLB",
         "channels_data": [
           {
-            "api": "d69894c7b729c5d1e85893e5e6cfcb0f:db0d53f871f5d2ef91d3a112c7ec9f30",
-            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/tcninbbnt5/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd",
-            "title": "Laliga Hypermotion ES",
-            "type": "1"
+            "api": "",
+            "link": "https://edgestreams.pro/hls/jkzahzadach20.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+            "title": "SPORTIFy Live",
+            "type": "0"
           }
         ],
         "eventInfo": {
@@ -1225,20 +1225,8 @@
         "channels_data": [
           {
             "api": "",
-            "link": "https://instreams.pro/bil2/bundes3/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
-            "title": "SKY BUNDESLIGA SD",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://live.vivo200.com/live/sd-1-4355839.m3u8?txSecret=1bcd4019e9c6406f85b67014d1c71afe&txTime=69F772E2|Referer=https://player.787200.com/",
+            "link": "https://edge2caster.pro/hls/ojzkajnach21.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
             "title": "SPORTIFy Live",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://instreams.pro/EU/HDTV15/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
-            "title": "SKY BUNDESLIGA HD",
             "type": "0"
           }
         ],
@@ -1263,26 +1251,8 @@
         "cat": "MLB",
         "channels_data": [
           {
-            "api": "69021095220f3c0eae9bc24215fd692b:eb58cfe0458ed0b48f7351fa3393ad59",
-            "link": "https://r.e.blueonline.tv/l/tvsmart/live/eds/Eleven_Sport_1/DHD/Manifest.mpd",
-            "title": "ELEVEN SPORTS",
-            "type": "1"
-          },
-          {
             "api": "",
-            "link": "https://instreams.pro/EU/HDTV15/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
-            "title": "SKY BUNDESLIGA HD",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://instreams.pro/bil2/bundes3/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
-            "title": "SKY BUNDESLIGA SD",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://live.vivo200.com/live/sd-1-4355838.m3u8?txSecret=42a21b53c8c84edcc91ef5b95b499d34&txTime=69F61FD0|Referer=https://player.787200.com/",
+            "link": "https://edge2caster.pro/hls/ijfnakfidch22.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
             "title": "SPORTIFy Live",
             "type": "0"
           }
@@ -1309,13 +1279,7 @@
         "channels_data": [
           {
             "api": "",
-            "link": "https://instreams.pro/bil2/bundes6/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
-            "title": "SKY BUNDESLIGA SD",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://live.vivo200.com/live/sd-1-4355843.m3u8?txSecret=f784b199f4fa7024a8069220f60478c6&txTime=69F773B8|Referer=https://player.787200.com/",
+            "link": "https://edge2caster.pro/hls/jnzkdzjfanch23.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
             "title": "SPORTIFy Live",
             "type": "0"
           }
@@ -1342,19 +1306,7 @@
         "channels_data": [
           {
             "api": "",
-            "link": "https://instreams.pro/EU/HDTV17/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
-            "title": "SKY BUNDESLIGA HD",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://instreams.pro/bil2/bundes5/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
-            "title": "SKY BUNDESLIGA SD",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://live.vivo200.com/live/sd-1-4355842.m3u8?txSecret=99450e9c8e2108f9d9a72c1751d3d080&txTime=69F61F54|Referer=https://player.787200.com/",
+            "link": "https://edge2caster.pro/hls/fskjanach24.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
             "title": "SPORTIFy Live",
             "type": "0"
           }
