@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-10T18:30:33.329403",
+  "last_updated": "2026-05-10T18:40:28.296891",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "11:55:22 PM 10-05-2026",
+    "Last update time": "12:05:19 AM 11-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -1203,6 +1203,12 @@
         "adsLimit": "0",
         "cat": "Ligue 1 🇫🇷",
         "channels_data": [
+          {
+            "api": "34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4",
+            "link": "https://a121aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/jo3rmhhp2r/out/v1/50656942ce4e40a1be824c9d83578fe9/cenc.mpd",
+            "title": "CAZE SPORTS HD",
+            "type": "1"
+          },
           {
             "api": "0:0",
             "link": "https://d1yi40sjj0ca0v.cloudfront.net/TVD2084/index.mpd",
