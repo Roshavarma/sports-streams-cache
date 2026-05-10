@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-10T16:00:50.904655",
+  "last_updated": "2026-05-10T16:10:21.527827",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "09:25:24 PM 10-05-2026",
+    "Last update time": "09:35:24 PM 10-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -1164,6 +1164,12 @@
             "api": "",
             "link": "https://livecdn-bp-iptv.rumsport7.live/live_abr/144254_sd/index.m3u8?is_vip=false&token=423f801e50d6d76224865486813545aa22a805e4&x-sign=dc105eb86dcc226e173bff9ae7b54a24&x-time=1778427060",
             "title": "HUB PREMIER SD",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/VIvuyoMzQpz-z1sYzkeGpQn2BmTO1hguyp8hpJUmlzXlNQuu1Fo-fSI_5EtrHnaWNyNtV9svr-TArkimk7FM5g/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_delta.m3u8?type=live",
+            "title": "beIN ARABIC HD",
             "type": "0"
           }
         ],
