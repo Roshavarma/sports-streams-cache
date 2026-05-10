@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-10T00:10:20.591933",
+  "last_updated": "2026-05-10T00:20:19.740478",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "05:35:23 AM 10-05-2026",
+    "Last update time": "05:45:33 AM 10-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -598,20 +598,77 @@
           }
         ],
         "eventInfo": {
-          "endTime": "2026/05/10 12:00:00 +0000",
+          "endTime": "2026/05/10 13:45:00 +0000",
           "eventName": "Chennai Super Kings vs Lucknow Super Giants",
           "eventType": "null",
           "isHot": "0",
           "startTime": "2026/05/10 10:00:00 +0000",
-          "teamA": "Chennai Super Kings",
+          "teamA": "CSK",
           "teamAFlag": "https://img.sofascore.com/api/v1/team/187777/image",
-          "teamB": "Lucknow Super Giants",
+          "teamB": "LSG",
           "teamBFlag": "https://img.sofascore.com/api/v1/team/410010/image"
         },
         "id": "366",
         "image": "o",
         "publish": "1",
         "title": "IPL - 01"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "Indian Premier League",
+        "channels_data": [
+          {
+            "api": "82eabe094566556d22f1708a1b466113:8ea1e0002435567dd51ef8c848f65bbe",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/adb04xbxx2/out/v1/cc995fdb08e045308b91b144b3acc5a6/cenc.mpd",
+            "title": "WILLOW [Ad-Free]",
+            "type": "1"
+          },
+          {
+            "api": "",
+            "link": "https://livevideos.cricbuzz.com/hls/live/2123516/WCB-US-HINDI/9241/152009/master.m3u8?hdntl=exp=1777895597~acl=%2f*~id=qa.team%40cricbuzz.com~data=hdntl,flavour%3aCB,matchId%3a65907,country%3aUS~hmac=b6997764845c66b647d773d5bb011f254e8ec632ae6bc24be538b0c873239776|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
+            "title": "CRICBUZZ HIN",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://livevideos.cricbuzz.com/hls/live/2123398/WCB-CA/9241/152009/master.m3u8?hdntl=exp=1777895597~acl=%2f*~id=qa.team%40cricbuzz.com~data=hdntl,flavour%3aCB,matchId%3a65907,country%3aUS~hmac=b6997764845c66b647d773d5bb011f254e8ec632ae6bc24be538b0c873239776|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
+            "title": "CRICBUZZ ENG",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://hghndasw.dg7yhiudjydg.shop/sec/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW0iOiJmb3gtc3BvcnRzLTUwMSIsImV4cCI6MTc3NzgzODQ3NH0.9WlORCa8PboayG8yh9Rm1a6unfy4bDyP0U8wRSGYpk4/fox-sports-501.m3u8",
+            "title": "FOX CRICKET",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "http://datahub11.com:80/live/Jen12345/Jen54321/703300.ts",
+            "title": "WILLOW HINDI",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "http://195.178.110.76/hls/ZDDDZQQ.m3u8|Referer=http://www.fawanews.sc/",
+            "title": "SD SERVER",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/10 17:45:00 +0000",
+          "eventName": "Royal Challengers Bengaluru vs Mumbai Indians",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/10 14:00:00 +0000",
+          "teamA": "RCB",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/187843/image",
+          "teamB": "MI",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/187780/image"
+        },
+        "id": "367",
+        "image": "o",
+        "publish": "1",
+        "title": "IPL - 02"
       },
       {
         "adsLimit": "0",
@@ -1002,7 +1059,7 @@
       },
       {
         "adsLimit": "0",
-        "cat": "EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+        "cat": "LaLiga 🇪🇸",
         "channels_data": [
           {
             "api": "72002c630e2343849984b5d3ec418162:ae6f8e3ff42a4963ae25686cca56c8e8",
@@ -1054,101 +1111,53 @@
           }
         ],
         "eventInfo": {
-          "endTime": "2026/05/09 16:00:00 +0000",
-          "eventName": "Sunderland vs Manchester United",
+          "endTime": "2026/05/10 21:10:00 +0000",
+          "eventName": "Barcelona vs Real Madrid",
           "eventType": "null",
           "isHot": "0",
-          "startTime": "2026/05/09 14:00:00 +0000",
-          "teamA": "Sunderland",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/41/image",
-          "teamB": "Man Utd",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/35/image"
+          "startTime": "2026/05/10 19:00:00 +0000",
+          "teamA": "Barcelona",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2817/image",
+          "teamB": "Real Madrid",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2829/image"
         },
         "id": "401",
         "image": "o",
         "publish": "1",
-        "title": "Sunderland vs Manchester United"
+        "title": "Barcelona vs Real Madrid"
       },
       {
         "adsLimit": "0",
-        "cat": "EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+        "cat": "Scottish Premiership",
         "channels_data": [
           {
-            "api": "dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd",
-            "title": "FUBO SPORTS",
+            "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
+            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
+            "title": "beIN ENGLISH FHD",
             "type": "1"
           },
           {
-            "api": "7a2758575dc04d63acc3573ab594d441:47071dd80de746a38cdc6a4dcde21abc",
-            "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1778363892~acl=%2F*~id=2cd8004e-7ae0-43d1-9805-76bc88479344~data=hdntl,aXA9MTA4LjE4MS4zLjE0OSZleHA9MTc3ODI3NzUyMiZlaWQ9OTM5NjY2Jm9pZD0xNTQmdHlwZT1WT0QmdWlkPXhSUnFvOXxiY2FlYTdjZi1jMzM3LTQwMzktODE1OC0zYzFjZTQ5ZTcyOTMmY2lkPWRjZS5maXNmZWQmcHQ9bnVsbA~hmac=917885330f3ece39a3194b2812ca7c0e8cc1c93bfcda87409969c0dd45a3c026/dash/live/2093712/219035-321027/manifest-d.mpd",
-            "title": "SKY SPORTS FHD",
+            "api": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
+            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
+            "title": "SportDigital Fussball",
             "type": "1"
-          },
-          {
-            "api": "96b67fa09140329a89b7a1ead134eda3:c618d32c56cdc6cad8330eb98507ca3f",
-            "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-east)/master.mpd",
-            "title": "UNIVERSO FHD",
-            "type": "1"
-          },
-          {
-            "api": "",
-            "link": "https://customer-zbcm6pq2tkb2rho0.cloudflarestream.com/1719e2f2cf8b19a82dad1bdc46fedfa9/manifest/video.m3u8",
-            "title": "SKY MAIN EVENT",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://chatgpt.hereisman.net/playlist/50294/load-playlist?|Referer=https://gooz.aapmains.net",
-            "title": "MAIN EVENT HD",
-            "type": "0"
-          },
-          {
-            "api": "0:0",
-            "link": "https://d1yi40sjj0ca0v.cloudfront.net/TVD6219/index.mpd",
-            "title": "NOVA SPORTS PL",
-            "type": "1"
-          },
-          {
-            "api": "",
-            "link": "https://storage.googleapis.com/unicertyngher1/mux_video_ts1/index-1.m3u8",
-            "title": "SKY SPORTS HD",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://justinyouwesi.s3.us-east-1.amazonaws.com/sportsnet.m3u8",
-            "title": "PEACOCK TV+ AQ",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://livecdn-bp-livestream.rumsport7.live/stream/24/chunks.m3u8?is_vip=false&token=d9281b93e57381f7e8dc3553bca8ef5697b96b12&x-sign=aa8d5e30c2396b6e52e127b9868bc0f9&x-time=1778343600",
-            "title": "STAN SPORTS HD",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://live.vivo200.com/live/hd-en-1-4343259.m3u8?txSecret=c199228ded6369473b67e5d2cc60554e&txTime=69FFA674|referer=https://player.online909.com/",
-            "title": "SPORTIFy Live",
-            "type": "0"
           }
         ],
         "eventInfo": {
-          "endTime": "2026/05/09 18:30:00 +0000",
-          "eventName": "Manchester City vs Brentford",
+          "endTime": "2026/05/10 13:00:00 +0000",
+          "eventName": "Celtic vs Rangers",
           "eventType": "null",
           "isHot": "0",
-          "startTime": "2026/05/09 16:30:00 +0000",
-          "teamA": "Man City",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/17/image",
-          "teamB": "Brentford",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/50/image"
+          "startTime": "2026/05/10 11:00:00 +0000",
+          "teamA": "Celtic",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2352/image",
+          "teamB": "Rangers",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2351/image"
         },
         "id": "402",
         "image": "o",
         "publish": "1",
-        "title": "Manchester City vs Brentford"
+        "title": "Celtic vs Rangers"
       },
       {
         "adsLimit": "0",
