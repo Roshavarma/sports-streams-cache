@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-10T00:03:55.272257",
+  "last_updated": "2026-05-10T00:10:20.591933",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "05:29:06 AM 10-05-2026",
+    "Last update time": "05:35:23 AM 10-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -528,10 +528,11 @@
           }
         ],
         "eventInfo": {
-          "endTime": "2026/05/09 11:30:00 +0000",
+          "endTime": "2026/05/10 11:30:00 +0000",
           "eventName": "Bangladesh vs Pakistan",
           "eventType": "null",
-          "startTime": "2026/05/09 04:00:00 +0000",
+          "isHot": "0",
+          "startTime": "2026/05/10 04:00:00 +0000",
           "teamA": "BAN",
           "teamAFlag": "https://img.sofascore.com/api/v1/team/187744/image",
           "teamB": "PAK",
@@ -597,15 +598,15 @@
           }
         ],
         "eventInfo": {
-          "endTime": "2026/05/09 17:45:00 +0000",
-          "eventName": "Rajasthan Royals vs Gujarat Titans",
+          "endTime": "2026/05/10 12:00:00 +0000",
+          "eventName": "Chennai Super Kings vs Lucknow Super Giants",
           "eventType": "null",
           "isHot": "0",
-          "startTime": "2026/05/09 14:00:00 +0000",
-          "teamA": "RR",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/187842/image",
-          "teamB": "GT",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/216006/image"
+          "startTime": "2026/05/10 10:00:00 +0000",
+          "teamA": "Chennai Super Kings",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/187777/image",
+          "teamB": "Lucknow Super Giants",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/410010/image"
         },
         "id": "366",
         "image": "o",
@@ -783,6 +784,12 @@
             "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
             "title": "PREMIER SPORTS",
             "type": "1"
+          },
+          {
+            "api": "",
+            "link": "https://chatgpt.hereisman.net/playlist/50347/load-playlist?|Referer=https://gooz.aapmains.net",
+            "title": "SPORTIFy NHL",
+            "type": "0"
           },
           {
             "api": "",
