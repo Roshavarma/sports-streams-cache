@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-10T11:32:45.033290",
+  "last_updated": "2026-05-10T11:40:21.970060",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "05:00:34 PM 10-05-2026",
+    "Last update time": "05:05:17 PM 10-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -905,6 +905,12 @@
         "adsLimit": "0",
         "cat": "EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
         "channels_data": [
+          {
+            "api": "af95024eda94455e922b90a39a3af93e:852e715ef4064b05b8e1cdee285648b5",
+            "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1778479831~acl=%2F*~id=c9b5bf19-c82f-42c3-bf2b-16e9b2ddbb88~data=hdntl,aXA9MTA4LjE4MS4wLjEwOSZleHA9MTc3ODM5MzQ2MSZlaWQ9OTM5OTY0Jm9pZD0xNTQmdHlwZT1WT0QmdWlkPXhSUnFvOXxiY2FlYTdjZi1jMzM3LTQwMzktODE1OC0zYzFjZTQ5ZTcyOTMmY2lkPWRjZS5maXNmZWQmcHQ9bnVsbA~hmac=c3fa85e47a4b5dd54afb95510c0949a9ccdc5d0c97d70d88064b73af7d0fc634/dash/live/2093711/219034-321026/manifest-d.mpd",
+            "title": "SKY SPORTS FHD",
+            "type": "1"
+          },
           {
             "api": "0:0",
             "link": "https://d1yi40sjj0ca0v.cloudfront.net/TVD6219/index.mpd",
