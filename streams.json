@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-10T11:50:23.271119",
+  "last_updated": "2026-05-10T12:00:45.669663",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "05:15:25 PM 10-05-2026",
+    "Last update time": "05:25:23 PM 10-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -862,7 +862,7 @@
           "endTime": "2026/05/10 13:00:00 +0000",
           "eventName": "Celtic vs Rangers",
           "eventType": "null",
-          "isHot": "1",
+          "isHot": "0",
           "startTime": "2026/05/10 11:00:00 +0000",
           "teamA": "Celtic",
           "teamAFlag": "https://img.sofascore.com/api/v1/team/2352/image",
@@ -981,6 +981,12 @@
             "api": "620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a",
             "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd",
             "title": "Laliga TV FHD",
+            "type": "1"
+          },
+          {
+            "api": "7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe",
+            "link": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
+            "title": "FANCODE FHD",
             "type": "1"
           },
           {
