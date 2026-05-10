@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-10T05:30:35.494519",
+  "last_updated": "2026-05-10T05:40:24.408011",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "10:55:19 AM 10-05-2026",
+    "Last update time": "11:05:19 AM 10-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -1572,6 +1572,282 @@
         "image": "o",
         "publish": "1",
         "title": "Le Havre vs Marseille"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "Ligue 1 🇫🇷",
+        "channels_data": [
+          {
+            "api": "0:0",
+            "link": "https://d1yi40sjj0ca0v.cloudfront.net/TVD2087/index.mpd",
+            "title": "LIGUE 1+ HD",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/10 21:00:00 +0000",
+          "eventName": "Stade Rennais vs Paris FC",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/10 19:00:00 +0000",
+          "teamA": "Rennes",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/1658/image",
+          "teamB": "Paris",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/6070/image"
+        },
+        "id": "421",
+        "image": "o",
+        "publish": "1",
+        "title": "Stade Rennais vs Paris FC"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "Ligue 1 🇫🇷",
+        "channels_data": [
+          {
+            "api": "0:0",
+            "link": "https://d1yi40sjj0ca0v.cloudfront.net/TVD2088/index.mpd",
+            "title": "LIGUE 1+ HD",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/10 21:00:00 +0000",
+          "eventName": "Auxerre vs Nice",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/10 19:00:00 +0000",
+          "teamA": "Auxerre",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/1646/image",
+          "teamB": "Nice",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/1661/image"
+        },
+        "id": "422",
+        "image": "o",
+        "publish": "1",
+        "title": "Auxerre vs Nice"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "Ligue 1 🇫🇷",
+        "channels_data": [
+          {
+            "api": "0:0",
+            "link": "https://d1yi40sjj0ca0v.cloudfront.net/TVD2089/index.mpd",
+            "title": "LIGUE 1+ HD",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/10 21:00:00 +0000",
+          "eventName": "Metz vs Lorient",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/10 19:00:00 +0000",
+          "teamA": "Metz",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/1651/image",
+          "teamB": "Lorient",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/1656/image"
+        },
+        "id": "423",
+        "image": "o",
+        "publish": "1",
+        "title": "Metz vs Lorient"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "Ligue 1 🇫🇷",
+        "channels_data": [
+          {
+            "api": "0:0",
+            "link": "https://d1yi40sjj0ca0v.cloudfront.net/TVD2090/index.mpd",
+            "title": "LIGUE 1+ HD",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/10 21:00:00 +0000",
+          "eventName": "Angers vs RC Strasbourg",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/10 19:00:00 +0000",
+          "teamA": "Angers",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/1684/image",
+          "teamB": "Strasbourg",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/1659/image"
+        },
+        "id": "424",
+        "image": "o",
+        "publish": "1",
+        "title": "Angers vs RC Strasbourg"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "Liga Portugal",
+        "channels_data": [
+          {
+            "api": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
+            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
+            "title": "SportDigital Fussball",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/10 19:00:00 +0000",
+          "eventName": "AVS  vs FC Porto",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/10 17:00:00 +0000",
+          "teamA": "AVS",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/483088/image",
+          "teamB": "Porto",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3002/image"
+        },
+        "id": "425",
+        "image": "o",
+        "publish": "1",
+        "title": "AVS  vs FC Porto"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "Liga Portugal",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://fallback-video.ivan-flux.workers.dev/video/index.m3u8",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/10 21:30:00 +0000",
+          "eventName": "Alverca vs Estoril Praia",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/10 19:30:00 +0000",
+          "teamA": "Alverca",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/190328/image",
+          "teamB": "Estoril",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/4500/image"
+        },
+        "id": "426",
+        "image": "o",
+        "publish": "1",
+        "title": "Alverca vs Estoril Praia"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "Eredivisie",
+        "channels_data": [
+          {
+            "api": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
+            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
+            "title": "PREMIER SPORTS",
+            "type": "1"
+          },
+          {
+            "api": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
+            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
+            "title": "SportDigital Fussball",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/10 16:45:00 +0000",
+          "eventName": "Feyenoord vs AZ Alkmaar",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/10 14:45:00 +0000",
+          "teamA": "Feyenoord",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2959/image",
+          "teamB": "AZ",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2950/image"
+        },
+        "id": "427",
+        "image": "o",
+        "publish": "1",
+        "title": "Feyenoord vs AZ"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "Eredivisie",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://instreams.pro/bil2/foxnl4/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
+            "title": "ESPN NL SD",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/10 16:45:00 +0000",
+          "eventName": "GA Eagles vs PSV Eindhoven",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/10 14:45:00 +0000",
+          "teamA": "GA Eagles",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2979/image",
+          "teamB": "PSV",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2952/image"
+        },
+        "id": "428",
+        "image": "o",
+        "publish": "1",
+        "title": "GA Eagles vs PSV"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "Eredivisie",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://instreams.pro/bil2/foxnl3/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
+            "title": "ESPN NL SD",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/10 16:45:00 +0000",
+          "eventName": "AFC Ajax vs Utrecht",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/10 14:45:00 +0000",
+          "teamA": "Ajax",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2953/image",
+          "teamB": "Utrecht",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2948/image"
+        },
+        "id": "429",
+        "image": "o",
+        "publish": "1",
+        "title": "AFC Ajax vs Utrecht"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "Eredivisie",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://fallback-video.ivan-flux.workers.dev/video/index.m3u8",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/10 16:45:00 +0000",
+          "eventName": "Twente vs Sparta",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/10 14:45:00 +0000",
+          "teamA": "Twente",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2955/image",
+          "teamB": "Sparta",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2960/image"
+        },
+        "id": "430",
+        "image": "o",
+        "publish": "1",
+        "title": "Twente vs Sparta"
       }
     ]
   }
