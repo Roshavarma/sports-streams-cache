@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-11T18:20:22.241388",
+  "last_updated": "2026-05-11T18:30:37.102336",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "11:45:31 PM 11-05-2026",
+    "Last update time": "11:55:22 PM 11-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -892,6 +892,12 @@
             "type": "1"
           },
           {
+            "api": "065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2",
+            "link": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
+            "title": "FANCODE FHD",
+            "type": "1"
+          },
+          {
             "api": "620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a",
             "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd",
             "title": "Laliga TV FHD",
@@ -935,6 +941,12 @@
             "link": "https://d1yi40sjj0ca0v.cloudfront.net/TVD6411/index.mpd",
             "title": "ELEVEN SPORTS",
             "type": "1"
+          },
+          {
+            "api": "",
+            "link": "https://livecdn-bp-livestream.rumsport7.live/stream/24/chunks.m3u8?is_vip=false&token=2223516ee6861d31f8b0239a4aaf0e07a93fd97b&x-sign=833deacdbc0c996d5086f2f5ace27162&x-time=1778523480",
+            "title": "PARAMOUNT+ HD",
+            "type": "0"
           },
           {
             "api": "ef34ae91b4f2415e8439b2ad105e7488:243248d8de1ff8c7c587ee2057317523",
