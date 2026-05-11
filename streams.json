@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-11T18:30:37.102336",
+  "last_updated": "2026-05-11T18:40:30.259074",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "11:55:22 PM 11-05-2026",
+    "Last update time": "12:10:25 AM 12-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -457,6 +457,12 @@
             "type": "1"
           },
           {
+            "api": "a7712196dbee413ab510c825e5c4d3f0:1ade126fa6a9162ba34bd5de5b1427ca",
+            "link": "https://ottlive.dishhome.com.np/protected/jQTOzZkB0RDJ74Ryniuo/dash/manifest.mpd",
+            "title": "PTV Sports",
+            "type": "1"
+          },
+          {
             "api": "",
             "link": "http://datahub11.com/live/gGFotsfxZm/mundane2basis/1856.ts",
             "title": "FOX CRICKET FHD",
@@ -571,9 +577,15 @@
         "cat": "NBA",
         "channels_data": [
           {
+            "api": "e51aa21f2a0fef9aabc120dfb655b52f:a12a987fe725a40b6be95cd84b15f689",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
+            "title": "TSN SPORTS FHD",
+            "type": "1"
+          },
+          {
             "api": "c4088f5f265f9de50cffd80bf89308b7:2c4d2239d96d532b4ec2050653611003",
             "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
-            "title": "TSN SPORTS FHD",
+            "title": "TSN SPORTS HD",
             "type": "1"
           },
           {
@@ -610,10 +622,16 @@
         "cat": "NBA",
         "channels_data": [
           {
-            "api": "",
-            "link": "https://chatgpt.hereisman.net/playlist/50419/load-playlist?|Referer=https://gooz.aapmains.net",
-            "title": "SPORTIFy NBA",
-            "type": "0"
+            "api": "e51aa21f2a0fef9aabc120dfb655b52f:a12a987fe725a40b6be95cd84b15f689",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
+            "title": "TSN SPORTS FHD",
+            "type": "1"
+          },
+          {
+            "api": "c4088f5f265f9de50cffd80bf89308b7:2c4d2239d96d532b4ec2050653611003",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
+            "title": "TSN SPORTS HD",
+            "type": "1"
           },
           {
             "api": "",
@@ -648,12 +666,6 @@
         "adsLimit": "0",
         "cat": "NHL",
         "channels_data": [
-          {
-            "api": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f",
-            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
-            "title": "PREMIER SPORTS",
-            "type": "1"
-          },
           {
             "api": "",
             "link": "https://mainstreams.pro/hls/uyopzarf50.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
@@ -863,6 +875,36 @@
             "link": "https://d1yi40sjj0ca0v.cloudfront.net/TVD6219/index.mpd",
             "title": "NOVA SPORTS PL",
             "type": "1"
+          },
+          {
+            "api": "",
+            "link": "https://chatgpt.hereisman.net/playlist/50426/load-playlist?|Referer=https://gooz.aapmains.net",
+            "title": "USA TV HD",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://noahxzflj854.s3.us-east-1.amazonaws.com/btsport.m3u8",
+            "title": "USA TV - AQ",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://livecdn-bp-iptv.rumsport7.live/live_abr/284_hd/index.m3u8?is_vip=false&token=2223516ee6861d31f8b0239a4aaf0e07a93fd97b&x-sign=e2f3149f0928552561384608a4b8d16d&x-time=1778524620",
+            "title": "SKY MAIN EVENT",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://livecdn-bp-iptv.rumsport7.live/live_abr/144253_hd/index.m3u8?is_vip=false&token=2223516ee6861d31f8b0239a4aaf0e07a93fd97b&x-sign=fea70ebf1b6bcabea6e252268480c463&x-time=1778524560",
+            "title": "HUB PREMIER HD",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://livecdn-bp-livestream.rumsport7.live/stream/9/chunks.m3u8?is_vip=false&token=2223516ee6861d31f8b0239a4aaf0e07a93fd97b&x-sign=1240247f7ef1d6635f99655bdcd61bc0&x-time=1778524620",
+            "title": "STAN SPORTS HD",
+            "type": "0"
           }
         ],
         "eventInfo": {
@@ -905,7 +947,7 @@
           },
           {
             "api": "",
-            "link": "https://smarthard.click/hls/sabrouchespndeportes/index.m3u8|referer=https://hardsmart.click/",
+            "link": "https://chatgpt.hereisman.net/playlist/50424/load-playlist?|Referer=https://gooz.aapmains.net/",
             "title": "ESPN DEPORTES",
             "type": "0"
           }
@@ -944,8 +986,14 @@
           },
           {
             "api": "",
-            "link": "https://livecdn-bp-livestream.rumsport7.live/stream/24/chunks.m3u8?is_vip=false&token=2223516ee6861d31f8b0239a4aaf0e07a93fd97b&x-sign=833deacdbc0c996d5086f2f5ace27162&x-time=1778523480",
+            "link": "https://chatgpt.hereisman.net/playlist/50423/load-playlist?|Referer=https://gooz.aapmains.net",
             "title": "PARAMOUNT+ HD",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://livecdn-bp-livestream.rumsport7.live/stream/24/chunks.m3u8?is_vip=false&token=2223516ee6861d31f8b0239a4aaf0e07a93fd97b&x-sign=833deacdbc0c996d5086f2f5ace27162&x-time=1778523480",
+            "title": "CBS SPORTS HD",
             "type": "0"
           },
           {
@@ -1007,6 +1055,12 @@
             "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
             "title": "beIN ENGLISH FHD",
             "type": "1"
+          },
+          {
+            "api": "",
+            "link": "https://livecdn-bp-iptv.rumsport7.live/live_abr/372_hd/index.m3u8?is_vip=false&token=2223516ee6861d31f8b0239a4aaf0e07a93fd97b&x-sign=ae79240b6e72c05c2b81f0cfb4ef5dba&x-time=1778524320",
+            "title": "SKY SPORTS HD",
+            "type": "0"
           }
         ],
         "eventInfo": {
@@ -1078,6 +1132,12 @@
             "api": "",
             "link": "https://d1yi40sjj0ca0v.cloudfront.net/TVD6414/index.mpd",
             "title": "ELEVEN SPORT HD",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://livecdn-bp-livestream.rumsport7.live/stream/7/chunks.m3u8?is_vip=false&token=2223516ee6861d31f8b0239a4aaf0e07a93fd97b&x-sign=ef4738b26e8057b36b07bd06ce96940d&x-time=1778524680",
+            "title": "SPY HD LIVE",
             "type": "0"
           }
         ],
