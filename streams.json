@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-11T17:01:01.743711",
+  "last_updated": "2026-05-11T17:10:40.348234",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "10:25:32 PM 11-05-2026",
+    "Last update time": "10:35:27 PM 11-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -565,6 +565,123 @@
         "image": "o",
         "publish": "1",
         "title": "IPL - 01"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "NBA",
+        "channels_data": [
+          {
+            "api": "c4088f5f265f9de50cffd80bf89308b7:2c4d2239d96d532b4ec2050653611003",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
+            "title": "TSN SPORTS FHD",
+            "type": "1"
+          },
+          {
+            "api": "",
+            "link": "https://mainstreams.pro/hls/mlkijfezag65.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://instreams.pro/US/NBA1/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
+            "title": "HD SERVER",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/12 03:00:00 +0000",
+          "eventName": "Cleveland Cavaliers vs Detroit Pistons",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/12 00:00:00 +0000",
+          "teamA": "Cavaliers",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3432/image",
+          "teamB": "Pistons",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3424/image"
+        },
+        "id": "373",
+        "image": "o",
+        "publish": "1",
+        "title": "Cleveland Cavaliers"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "NBA",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://chatgpt.hereisman.net/playlist/50419/load-playlist?|Referer=https://gooz.aapmains.net",
+            "title": "SPORTIFy NBA",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://mainstreams.pro/hls/wfazgsqtrezu66.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://instreams.pro/US/NBA2/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
+            "title": "HD SERVER",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/12 05:30:00 +0000",
+          "eventName": "Los Angeles Lakers vs Oklahoma City Thunder",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/12 02:30:00 +0000",
+          "teamA": "Lakers",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3427/image",
+          "teamB": "Thunder",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3418/image"
+        },
+        "id": "374",
+        "image": "o",
+        "publish": "1",
+        "title": "Oklahoma City Thunder"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "NHL",
+        "channels_data": [
+          {
+            "api": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f",
+            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
+            "title": "PREMIER SPORTS",
+            "type": "1"
+          },
+          {
+            "api": "",
+            "link": "https://mainstreams.pro/hls/uyopzarf50.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://instreams.pro/US/NHL1/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
+            "title": "HD SERVER",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/12 02:00:00 +0000",
+          "eventName": "Minnesota Wild vs Colorado Avalanche",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/11 23:00:00 +0000",
+          "teamA": "Wild",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3689/image",
+          "teamB": "Avalanche",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3682/image"
+        },
+        "id": "386",
+        "image": "o",
+        "publish": "1",
+        "title": "Minnesota Wild"
       },
       {
         "adsLimit": "0",
