@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-11T03:00:49.425916",
+  "last_updated": "2026-05-11T03:10:21.457607",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "08:25:22 AM 11-05-2026",
+    "Last update time": "08:35:25 AM 11-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -556,45 +556,6 @@
       },
       {
         "adsLimit": "0",
-        "cat": "NBA",
-        "channels_data": [
-          {
-            "api": "",
-            "link": "https://chatgpt.hereisman.net/playlist/50419/load-playlist?|Referer=https://gooz.aapmains.net",
-            "title": "SPORTIFy NBA",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://mainstreams.pro/hls/wfazgsqtrezu66.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
-            "title": "SPORTIFy Live",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://instreams.pro/US/NBA2/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
-            "title": "HD SERVER",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/11 02:30:00 +0000",
-          "eventName": "Minnesota Timberwolves vs San Antonio Spurs",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/10 23:30:00 +0000",
-          "teamA": "Timberwolves",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3426/image",
-          "teamB": "Spurs",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3429/image"
-        },
-        "id": "374",
-        "image": "o",
-        "publish": "1",
-        "title": "Minnesota Timberwolves"
-      },
-      {
-        "adsLimit": "0",
         "cat": "NHL",
         "channels_data": [
           {
@@ -637,115 +598,6 @@
         "image": "o",
         "publish": "1",
         "title": "Golden Knights"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "MLB",
-        "channels_data": [
-          {
-            "api": "",
-            "link": "https://mainstreams.pro/hls/hfzljfahzcax29.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-            "title": "SPORTIFy Live",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/11 02:20:00 +0000",
-          "eventName": "Kansas City Royals vs Detroit Tigers",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/10 23:20:00 +0000",
-          "teamA": "Royals",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3651/image",
-          "teamB": "Tigers",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3648/image"
-        },
-        "id": "399",
-        "image": "o",
-        "publish": "1",
-        "title": "Detroit Tigers"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "LaLiga 🇪🇸",
-        "channels_data": [
-          {
-            "api": "620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a",
-            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd",
-            "title": "Laliga TV FHD",
-            "type": "1"
-          },
-          {
-            "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
-            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
-            "title": "beIN ENGLISH FHD",
-            "type": "1"
-          },
-          {
-            "api": "daa8ea92553fd16cd6bfae2b8c582715:4042e041b5639b79b69ae07a872eef9b",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3n6slkgh54/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd",
-            "title": "TSN SPORTS FHD",
-            "type": "1"
-          },
-          {
-            "api": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f",
-            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
-            "title": "PREMIER SPORTS",
-            "type": "1"
-          },
-          {
-            "api": "7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe",
-            "link": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
-            "title": "FANCODE FHD",
-            "type": "1"
-          },
-          {
-            "api": "",
-            "link": "https://xstm.250909.cc/live/SPORTSFLUX-PRD-54477-1/1b1a90a747e1/405.m3u8",
-            "title": "ESPN DEPORTES",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://noahxzflj854.s3.us-east-1.amazonaws.com/espn.m3u8",
-            "title": "TSN SPORTS - AQ",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://chatgpt.hereisman.net/playlist/50400/load-playlist?|Referer=https://gooz.aapmains.net",
-            "title": "ESPN SPORTS HD",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/91m39C6MdWsWBM5JNzXUWhFjqLLAenwjo9NKLvsdi1ksy-v0272dG9G3etn_rerMoipiz0k5e1dWrB4kJa4nYA/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_delta.m3u8?type=live",
-            "title": "beIN ARABIC",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://livecdn-bp-iptv.rumsport7.live/live_abr/112520_hd/index.m3u8?is_vip=false&token=26437eec4d56a310273dc1a533ac6fcc1612ba8a&x-sign=26c43114de21b8c2a8478ed3895bbf70&x-time=1778439540",
-            "title": "PREMIER SPORTS HD",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/10 21:10:00 +0000",
-          "eventBanner": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/barcelona-vs-real-madrid-design-template-0c03cae56769f9e1a8eef017091f3a59_screen.jpg?ts=1698420692",
-          "eventName": "Barcelona vs Real Madrid",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/10 19:00:00 +0000",
-          "teamA": "Barcelona",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2817/image",
-          "teamB": "Real Madrid",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2829/image"
-        },
-        "id": "401",
-        "image": "o",
-        "publish": "1",
-        "title": "Barcelona vs Real Madrid"
       }
     ]
   }
