@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-11T04:20:23.504753",
+  "last_updated": "2026-05-11T04:30:31.173794",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "09:45:28 AM 11-05-2026",
+    "Last update time": "09:55:19 AM 11-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -415,14 +415,20 @@
         "cat": "Cricket",
         "channels_data": [
           {
-            "api": "2d32bd4f3fc167ecb264eae96fa6b42d:66646c6ddedaeef0e7d0815e0d92340a",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/dobtojl5yj/out/v1/55199f766e1a482fb2ac3eea129e3b71/cenc.mpd",
+            "api": "8ccb285ed029f274f9c6d1b0a2bb390e:ec51e638d4c86a79e4ac449a606df916",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/w79eb64z9q/out/v1/3d3825802ff749f1be3b0fd6b5c6eb70/cenc.mpd",
             "title": "WILLOW [Ad-Free]",
             "type": "1"
           },
           {
-            "api": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
+            "api": "2e2636daa74141b68cc14882ea3ff82b:0961f48287324adbb4b7ff3c9d82b3c9",
+            "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1778554605~acl=%2f*~id=f84428e1-d0b9-4959-9447-2e011e0bc2b1~data=hdntl,aXA9MTA4LjE4MS4wLjEwOSZleHA9MTc3ODQ2ODIzNSZlaWQ9OTM4NTQ3Jm9pZD0xNTQmdHlwZT1WT0QmdWlkPXhSUnFvOXxiY2FlYTdjZi1jMzM3LTQwMzktODE1OC0zYzFjZTQ5ZTcyOTMmY2lkPWRjZS5maXNmZWQmcHQ9bnVsbA~hmac=37b88012511b7212b66288a5ee778291c1e1eca14a427ab269c3e0108350f98f/dash/live/2093717/219028-321030/manifest-d.mpd",
+            "title": "SKY SPORTS FHD",
+            "type": "1"
+          },
+          {
+            "api": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
             "title": "PREMIER SPORTS",
             "type": "1"
           },
@@ -434,13 +440,13 @@
           },
           {
             "api": "",
-            "link": "https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJyZWZlcmVyIjoiaHR0cHM6Ly9kb25pcy5qaW1wZW5vcGlzb25saW5lLm9ubGluZS9wcmVtaXVtdHYvZGFkZHk0LnBocD9pZD01OTIiLCJtM3U4IjoiaHR0cHM6Ly96b3Rvcy52b2dsZW1wYW5pcy5vbmxpbmUvcHJlbWl1bTU5Mi90cmFja3MtdjFhMS9tb25vLmNzcyIsInRzIjoxNzc4MjEzNTYyODIwLCJjaGFubmVsSWQiOiI1OTIifQ",
-            "title": "SKY SPORTS HD",
+            "link": "https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-PaKvZIm/master.m3u8",
+            "title": "TAPMAD - AQ",
             "type": "0"
           },
           {
-            "api": "9dfee37194f68ca94d9a06fe879d1f0a:7a0a9c76b8db3d68c8e14eb8adddf57a",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/ru4woldmqp/out/v1/456eecd2fcbb40938843c4721ee305f7/cenc-sd.mpd",
+            "api": "e2596584f1e9a631bc569c327387dc25:41393318d6c6aa9437a0376493c01394",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/tesivhccki/out/v1/7c1fcebf61c444368853872ba4ce9e25/cenc-sd.mpd",
             "title": "Willow HD",
             "type": "1"
           },
