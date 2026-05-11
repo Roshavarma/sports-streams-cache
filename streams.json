@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-11T19:10:31.476717",
+  "last_updated": "2026-05-11T19:18:36.053655",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "12:35:28 AM 12-05-2026",
+    "Last update time": "12:45:32 AM 12-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -878,8 +878,20 @@
           },
           {
             "api": "",
+            "link": "https://braxipoflprafi.zulo-0084.online/out/v1/c1afef049a0b424c988e9215b95f6211/playlist.m3u8",
+            "title": "HUB PREMIER FHD",
+            "type": "0"
+          },
+          {
+            "api": "",
             "link": "https://chatgpt.hereisman.net/playlist/50426/load-playlist?|Referer=https://gooz.aapmains.net",
             "title": "USA TV HD",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://fo01-bkm.beetv.kz/bpk-tv/000004498/tve/index.m3u8",
+            "title": "SETANTA SPORTS",
             "type": "0"
           },
           {
@@ -1072,6 +1084,12 @@
             "api": "",
             "link": "https://livecdn-bp-iptv.rumsport7.live/live_abr/372_hd/index.m3u8?is_vip=false&token=2223516ee6861d31f8b0239a4aaf0e07a93fd97b&x-sign=ae79240b6e72c05c2b81f0cfb4ef5dba&x-time=1778524320",
             "title": "SKY SPORTS HD",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://fo01-bkm.beetv.kz/bpk-tv/000004499/tve/index.m3u8",
+            "title": "SETANTA SPORTS",
             "type": "0"
           },
           {
