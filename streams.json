@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-11T03:20:22.496576",
+  "last_updated": "2026-05-11T03:30:33.954943",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "08:45:31 AM 11-05-2026",
+    "Last update time": "08:55:19 AM 11-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -727,40 +727,10 @@
         "cat": "LaLiga 2",
         "channels_data": [
           {
-            "api": "01d02c97d1c949f9877acd230dcaa56d:708410b8bf1f4e998931183e8fab5d1e",
-            "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1778479833~acl=%2F*~id=033df977-a88c-4415-99b7-153500fe8cb1~data=hdntl,aXA9MTA4LjE4MS4wLjEwOSZleHA9MTc3ODM5MzQ2MiZlaWQ9OTM2NDY0Jm9pZD0xNTQmdHlwZT1WT0QmdWlkPXhSUnFvOXxiY2FlYTdjZi1jMzM3LTQwMzktODE1OC0zYzFjZTQ5ZTcyOTMmY2lkPWRjZS5maXNmZWQmcHQ9bnVsbA~hmac=9e23e0808e6c5d8433c05fc4324b6f10bef5b6612478f05a5ae8f6389127d1d3/dash/live/2093719/219037-321031/manifest-d.mpd",
-            "title": "SKY SPORTS FHD",
+            "api": "d69894c7b729c5d1e85893e5e6cfcb0f:db0d53f871f5d2ef91d3a112c7ec9f30",
+            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/tcninbbnt5/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd",
+            "title": "Laliga Hypermotion ES",
             "type": "1"
-          },
-          {
-            "api": "",
-            "link": "https://chatgpt.hereisman.net/playlist/50363/load-playlist?|Referer=https://gooz.aapmains.net",
-            "title": "PEACOCK TV+ HD",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://noahxzflj854.s3.us-east-1.amazonaws.com/sportsnet.m3u8",
-            "title": "PEACOCK TV+ AQ",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://pul-tenm.nbs3g.com/live/hd-en-1-4343246.m3u8?txSecret=adaa95ac60a69d7149e217c35c70fda7&txTime=6A01D34C",
-            "title": "SPORTIFy Live",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://livecdn-bp-iptv.rumsport7.live/live_abr/144254_hd/index.m3u8?is_vip=false&token=423f801e50d6d76224865486813545aa22a805e4&x-sign=3becff836185ea8a4249ceb52fa924a8&x-time=1778419320",
-            "title": "HUB PREMIER HD",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://livecdn-bp-iptv.rumsport7.live/live_abr/52436_hd/index.m3u8?is_vip=false&token=423f801e50d6d76224865486813545aa22a805e4&x-sign=ccd6702f4b66cffb3eb2b75bb0007c81&x-time=1778419380",
-            "title": "SPY LIVE HD",
-            "type": "0"
           }
         ],
         "eventInfo": {
@@ -778,6 +748,132 @@
         "image": "o",
         "publish": "1",
         "title": "Huesca vs Real Sociedad B"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+        "channels_data": [
+          {
+            "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
+            "title": "beIN ENGLISH FHD",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/11 21:00:00 +0000",
+          "eventName": "Millwall vs Hull City",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/11 19:00:00 +0000",
+          "teamA": "Millwall",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/25/image",
+          "teamB": "Hull",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/96/image"
+        },
+        "id": "404",
+        "image": "o",
+        "publish": "1",
+        "title": "Millwall vs Hull City"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "Pro League 🇸🇦",
+        "channels_data": [
+          {
+            "api": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
+            "title": "FOX SPORTS FHD",
+            "type": "1"
+          },
+          {
+            "api": "4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733",
+            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd",
+            "title": "SporTV BR",
+            "type": "1"
+          },
+          {
+            "api": "0:0",
+            "link": "https://d1yi40sjj0ca0v.cloudfront.net/TVD1451/index.mpd",
+            "title": "THMANYAH HD",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/11 20:00:00 +0000",
+          "eventName": "Al-Taawoun vs Al-Ahli",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/11 18:00:00 +0000",
+          "teamA": "Al-Taawoun",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/56021/image",
+          "teamB": "Al-Ahli",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/34469/image"
+        },
+        "id": "405",
+        "image": "o",
+        "publish": "1",
+        "title": "Al-Taawoun vs Al-Ahli"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "Liga Portugal",
+        "channels_data": [
+          {
+            "api": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
+            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
+            "title": "SportDigital Fussball",
+            "type": "1"
+          },
+          {
+            "api": "",
+            "link": "https://d1yi40sjj0ca0v.cloudfront.net/TVD6414/index.mpd",
+            "title": "ELEVEN SPORT HD",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/11 21:15:00 +0000",
+          "eventName": "Benfica vs Sporting Braga",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/11 19:15:00 +0000",
+          "teamA": "Benfica",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3006/image",
+          "teamB": "Braga",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2999/image"
+        },
+        "id": "406",
+        "image": "o",
+        "publish": "1",
+        "title": "Benfica vs Sporting Braga"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "Liga Portugal",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://fallback-video.ivan-flux.workers.dev/video/index.m3u8",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/11 21:15:00 +0000",
+          "eventName": "Rio Ave vs Sporting CP",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/11 19:15:00 +0000",
+          "teamA": "Rio Ave",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3036/image",
+          "teamB": "Sporting",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3001/image"
+        },
+        "id": "407",
+        "image": "o",
+        "publish": "1",
+        "title": "Rio Ave vs Sporting CP"
       }
     ]
   }
