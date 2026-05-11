@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-11T15:50:31.420429",
+  "last_updated": "2026-05-11T16:00:58.777844",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "09:15:31 PM 11-05-2026",
+    "Last update time": "09:25:26 PM 11-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -841,6 +841,33 @@
         "image": "o",
         "publish": "1",
         "title": "Rio Ave vs Sporting CP"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "Pro League 🇸🇦",
+        "channels_data": [
+          {
+            "api": "0:0",
+            "link": "https://d1yi40sjj0ca0v.cloudfront.net/TVD1403/index.mpd",
+            "title": "THMANYAH HD",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/11 18:50:00 +0000",
+          "eventName": "Neom SC vs Al-Shabab",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/11 16:50:00 +0000",
+          "teamA": "Neom",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/530631/image",
+          "teamB": "Al-Shabab",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/34313/image"
+        },
+        "id": "408",
+        "image": "o",
+        "publish": "1",
+        "title": "Neom SC vs Al-Shabab"
       }
     ]
   }
