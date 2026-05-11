@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-11T23:30:34.739455",
+  "last_updated": "2026-05-11T23:40:27.019940",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "04:55:26 AM 12-05-2026",
+    "Last update time": "05:05:25 AM 12-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -224,7 +224,7 @@
         "channels_data": [
           {
             "api": "",
-            "link": "https://chatgpt.hereisman.net/playlist/50090/load-playlist?|Referer=https://gooz.aapmains.net",
+            "link": "https://chatgpt.hereisman.net/playlist/50439/load-playlist?|Referer=https://gooz.aapmains.net/",
             "title": "SPORTIFy WWE",
             "type": "0"
           },
@@ -590,6 +590,12 @@
           },
           {
             "api": "",
+            "link": "https://chatgpt.hereisman.net/playlist/50438/load-playlist?|Referer=https://gooz.aapmains.net",
+            "title": "SPORTIFy NBA",
+            "type": "0"
+          },
+          {
+            "api": "",
             "link": "https://mainstreams.pro/hls/mlkijfezag65.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
             "title": "SPORTIFy Live",
             "type": "0"
@@ -686,11 +692,10 @@
           }
         ],
         "eventInfo": {
-          "endTime": "2026/05/12 02:00:00 +0000",
+          "endTime": "2026/05/12 03:00:00 +0000",
           "eventName": "Minnesota Wild vs Colorado Avalanche",
           "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/11 23:00:00 +0000",
+          "startTime": "2026/05/12 00:00:00 +0000",
           "teamA": "Wild",
           "teamAFlag": "https://img.sofascore.com/api/v1/team/3689/image",
           "teamB": "Avalanche",
