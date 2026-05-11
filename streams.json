@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-11T18:40:30.259074",
+  "last_updated": "2026-05-11T18:50:31.538636",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "12:10:25 AM 12-05-2026",
+    "Last update time": "12:15:31 AM 12-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -1132,6 +1132,12 @@
             "api": "",
             "link": "https://d1yi40sjj0ca0v.cloudfront.net/TVD6414/index.mpd",
             "title": "ELEVEN SPORT HD",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://instreams.pro/bil1/btv1/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
+            "title": "BENFICA TV HD",
             "type": "0"
           },
           {
