@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-11T23:20:23.605260",
+  "last_updated": "2026-05-11T23:30:34.739455",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "04:45:26 AM 12-05-2026",
+    "Last update time": "04:55:26 AM 12-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -666,6 +666,12 @@
         "adsLimit": "0",
         "cat": "NHL",
         "channels_data": [
+          {
+            "api": "",
+            "link": "https://chatgpt.hereisman.net/playlist/50432/load-playlist?|Referer=https://gooz.aapmains.net",
+            "title": "SPORTIFy NHL",
+            "type": "0"
+          },
           {
             "api": "",
             "link": "https://mainstreams.pro/hls/uyopzarf50.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
