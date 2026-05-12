@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-12T01:30:38.008150",
+  "last_updated": "2026-05-12T01:40:29.767256",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "06:55:19 AM 12-05-2026",
+    "Last update time": "07:05:22 AM 12-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -631,6 +631,12 @@
             "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
             "title": "TSN SPORTS HD",
             "type": "1"
+          },
+          {
+            "api": "",
+            "link": "https://nb7.bpfiles.cfd/live/lakers/stream.m3u8",
+            "title": "NBA Live FHD",
+            "type": "0"
           },
           {
             "api": "",
