@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-11T23:50:28.925083",
+  "last_updated": "2026-05-12T00:00:47.752611",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "05:15:26 AM 12-05-2026",
+    "Last update time": "05:25:17 AM 12-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -864,144 +864,6 @@
         "image": "o",
         "publish": "1",
         "title": "Los Angeles Dodgers"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-        "channels_data": [
-          {
-            "api": "dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd",
-            "title": "FUBO SPORTS",
-            "type": "1"
-          },
-          {
-            "api": "7a2758575dc04d63acc3573ab594d441:47071dd80de746a38cdc6a4dcde21abc",
-            "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1778554610~acl=%2F*~id=97e435b4-3ce7-4c46-9493-4eb5145e7c0c~data=hdntl,aXA9MTA4LjE4MS4wLjEwOSZleHA9MTc3ODQ2ODI0MCZlaWQ9OTM5OTYyJm9pZD0xNTQmdHlwZT1WT0QmdWlkPXhSUnFvOXxiY2FlYTdjZi1jMzM3LTQwMzktODE1OC0zYzFjZTQ5ZTcyOTMmY2lkPWRjZS5maXNmZWQmcHQ9bnVsbA~hmac=943880cb6154e8433f66686c76d954cb6b182031128695480b587e23e164d035/dash/live/2093712/219035-321027/manifest-d.mpd",
-            "title": "SKY SPORTS FHD",
-            "type": "1"
-          },
-          {
-            "api": "96b67fa09140329a89b7a1ead134eda3:c618d32c56cdc6cad8330eb98507ca3f",
-            "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-east)/master.mpd",
-            "title": "NBC UNIVERSO",
-            "type": "1"
-          },
-          {
-            "api": "0:0",
-            "link": "https://d1yi40sjj0ca0v.cloudfront.net/TVD6219/index.mpd",
-            "title": "NOVA SPORTS PL",
-            "type": "1"
-          },
-          {
-            "api": "",
-            "link": "https://braxipoflprafi.zulo-0084.online/out/v1/c1afef049a0b424c988e9215b95f6211/playlist.m3u8",
-            "title": "HUB PREMIER FHD",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://chatgpt.hereisman.net/playlist/50426/load-playlist?|Referer=https://gooz.aapmains.net",
-            "title": "USA TV HD",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://fo01-bkm.beetv.kz/bpk-tv/000004498/tve/index.m3u8",
-            "title": "SETANTA SPORTS",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://noahxzflj854.s3.us-east-1.amazonaws.com/btsport.m3u8",
-            "title": "USA TV - AQ",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://livecdn-bp-iptv.rumsport7.live/live_abr/284_hd/index.m3u8?is_vip=false&token=2223516ee6861d31f8b0239a4aaf0e07a93fd97b&x-sign=e2f3149f0928552561384608a4b8d16d&x-time=1778524620",
-            "title": "SKY MAIN EVENT",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://livecdn-bp-iptv.rumsport7.live/live_abr/144253_hd/index.m3u8?is_vip=false&token=2223516ee6861d31f8b0239a4aaf0e07a93fd97b&x-sign=fea70ebf1b6bcabea6e252268480c463&x-time=1778524560",
-            "title": "HUB PREMIER HD",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://livecdn-bp-livestream.rumsport7.live/stream/9/chunks.m3u8?is_vip=false&token=2223516ee6861d31f8b0239a4aaf0e07a93fd97b&x-sign=1240247f7ef1d6635f99655bdcd61bc0&x-time=1778524620",
-            "title": "STAN SPORTS HD",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://play.ltwxsc.com/live/hd-en-6MuT7JxGZ1eznLXbD8.m3u8?txSecret=7d71454c72637b25bbe16b4a6e46e361&txTime=6A025169",
-            "title": "SPORTIFy Live",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/11 21:00:00 +0000",
-          "eventName": "Tottenham Hotspur vs Leeds United",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/11 19:00:00 +0000",
-          "teamA": "Tottenham",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/33/image",
-          "teamB": "Leeds",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/34/image"
-        },
-        "id": "400",
-        "image": "o",
-        "publish": "1",
-        "title": "Tottenham vs Leeds United"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "LaLiga 🇪🇸",
-        "channels_data": [
-          {
-            "api": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f",
-            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
-            "title": "PREMIER SPORTS",
-            "type": "1"
-          },
-          {
-            "api": "065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2",
-            "link": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
-            "title": "FANCODE FHD",
-            "type": "1"
-          },
-          {
-            "api": "620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a",
-            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd",
-            "title": "Laliga TV FHD",
-            "type": "1"
-          },
-          {
-            "api": "",
-            "link": "https://chatgpt.hereisman.net/playlist/50424/load-playlist?|Referer=https://gooz.aapmains.net/",
-            "title": "ESPN DEPORTES",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/11 21:00:00 +0000",
-          "eventName": "Rayo Vallecano vs Girona",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/11 19:00:00 +0000",
-          "teamA": "Rayo Vallecano",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2818/image",
-          "teamB": "Girona",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/24264/image"
-        },
-        "id": "401",
-        "image": "o",
-        "publish": "1",
-        "title": "Rayo Vallecano vs Girona"
       },
       {
         "adsLimit": "0",
