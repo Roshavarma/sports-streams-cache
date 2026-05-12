@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-12T17:50:28.172192",
+  "last_updated": "2026-05-12T18:00:54.210688",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "11:15:33 PM 12-05-2026",
+    "Last update time": "11:25:24 PM 12-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -669,6 +669,12 @@
             "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
             "title": "SportDigital Fussball",
             "type": "1"
+          },
+          {
+            "api": "",
+            "link": "https://livecdn-bp-livestream.rumsport7.live/stream/9/chunks.m3u8?is_vip=false&token=4306e5316cdca8d2959fc90ef087868dd9f40498&x-sign=0d8d354c6bab3773786320aef4fa561b&x-time=1778607960",
+            "title": "HD SERVER",
+            "type": "0"
           }
         ],
         "eventInfo": {
@@ -969,7 +975,7 @@
         "channels_data": [
           {
             "api": "",
-            "link": "https://livecdn-bp-livestream.rumsport7.live/stream/25/chunks.m3u8?is_vip=false&token=4306e5316cdca8d2959fc90ef087868dd9f40498&x-sign=01bf1119a7c054c149b5aa9fddafa043&x-time=1778605260",
+            "link": "https://livecdn-bp-livestream.rumsport7.live/stream/25/chunks.m3u8?is_vip=false&token=4306e5316cdca8d2959fc90ef087868dd9f40498&x-sign=1b5be7687dbea86ae456f79445d24b30&x-time=1778608080",
             "title": "HD SERVER",
             "type": "0"
           },
