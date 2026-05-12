@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-12T17:00:58.977663",
+  "last_updated": "2026-05-12T17:10:31.070911",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "10:25:20 PM 12-05-2026",
+    "Last update time": "10:35:26 PM 12-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -888,6 +888,12 @@
             "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd",
             "title": "Laliga TV FHD",
             "type": "1"
+          },
+          {
+            "api": "",
+            "link": "https://livecdn-bp-livestream.rumsport7.live/stream/27/chunks.m3u8?is_vip=false&token=4306e5316cdca8d2959fc90ef087868dd9f40498&x-sign=448b82079587b71baafef3b1db97a0de&x-time=1778605200",
+            "title": "LaLiga TV HD",
+            "type": "0"
           }
         ],
         "eventInfo": {
@@ -951,7 +957,7 @@
         "channels_data": [
           {
             "api": "",
-            "link": "https://fallback-video.ivan-flux.workers.dev/video/index.m3u8",
+            "link": "https://livecdn-bp-livestream.rumsport7.live/stream/25/chunks.m3u8?is_vip=false&token=4306e5316cdca8d2959fc90ef087868dd9f40498&x-sign=01bf1119a7c054c149b5aa9fddafa043&x-time=1778605260",
             "title": "SPORTIFy Live",
             "type": "0"
           }
