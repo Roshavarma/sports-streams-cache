@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-12T01:20:20.764857",
+  "last_updated": "2026-05-12T01:30:38.008150",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "06:45:23 AM 12-05-2026",
+    "Last update time": "06:55:19 AM 12-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -433,6 +433,12 @@
             "type": "1"
           },
           {
+            "api": "a7712196dbee413ab510c825e5c4d3f0:1ade126fa6a9162ba34bd5de5b1427ca",
+            "link": "https://ottlive.dishhome.com.np/protected/jQTOzZkB0RDJ74Ryniuo/dash/manifest.mpd",
+            "title": "PTV Sports",
+            "type": "1"
+          },
+          {
             "api": "",
             "link": "https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-PaKvZIm/master.m3u8",
             "title": "TAPMAD - AQ",
@@ -451,12 +457,6 @@
             "type": "1"
           },
           {
-            "api": "a7712196dbee413ab510c825e5c4d3f0:1ade126fa6a9162ba34bd5de5b1427ca",
-            "link": "https://ottlive.dishhome.com.np/protected/jQTOzZkB0RDJ74Ryniuo/dash/manifest.mpd",
-            "title": "PTV Sports",
-            "type": "1"
-          },
-          {
             "api": "",
             "link": "http://datahub11.com/live/gGFotsfxZm/mundane2basis/1856.ts",
             "title": "FOX CRICKET FHD",
@@ -464,11 +464,10 @@
           }
         ],
         "eventInfo": {
-          "endTime": "2026/05/11 11:30:00 +0000",
+          "endTime": "2026/05/12 11:30:00 +0000",
           "eventName": "Bangladesh vs Pakistan",
           "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/11 04:00:00 +0000",
+          "startTime": "2026/05/12 04:00:00 +0000",
           "teamA": "BAN",
           "teamAFlag": "https://img.sofascore.com/api/v1/team/187744/image",
           "teamB": "PAK",
@@ -836,6 +835,12 @@
         "adsLimit": "0",
         "cat": "MLB",
         "channels_data": [
+          {
+            "api": "",
+            "link": "https://chatgpt.hereisman.net/playlist/50443/load-playlist?|Referer=https://gooz.aapmains.net",
+            "title": "SPORTIFy MLB",
+            "type": "0"
+          },
           {
             "api": "",
             "link": "https://mainstreams.pro/hls/jkzahzadach20.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
