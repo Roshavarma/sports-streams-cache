@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-12T19:40:28.401204",
+  "last_updated": "2026-05-12T19:50:24.833444",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "01:05:19 AM 13-05-2026",
+    "Last update time": "01:15:28 AM 13-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -687,7 +687,7 @@
           "endTime": "2026/05/12 20:00:00 +0000",
           "eventName": "Al-Nassr vs Al-Hilal",
           "eventType": "null",
-          "isHot": "1",
+          "isHot": "0",
           "startTime": "2026/05/12 18:00:00 +0000",
           "teamA": "Al-Nassr",
           "teamAFlag": "https://img.sofascore.com/api/v1/team/23400/image",
@@ -703,12 +703,6 @@
         "adsLimit": "0",
         "cat": "NHL",
         "channels_data": [
-          {
-            "api": "",
-            "link": "https://chatgpt.hereisman.net/playlist/50432/load-playlist?|Referer=https://gooz.aapmains.net",
-            "title": "SPORTIFy NHL",
-            "type": "0"
-          },
           {
             "api": "",
             "link": "https://mainstreams.pro/hls/uyopzarf50.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
@@ -743,16 +737,10 @@
         "cat": "NHL",
         "channels_data": [
           {
-            "api": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
-            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
+            "api": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f",
+            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
             "title": "PREMIER SPORTS",
             "type": "1"
-          },
-          {
-            "api": "",
-            "link": "https://chatgpt.hereisman.net/playlist/50421/load-playlist?|Referer=https://gooz.aapmains.net",
-            "title": "SPORTIFy NHL",
-            "type": "0"
           },
           {
             "api": "",
@@ -1050,6 +1038,12 @@
             "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
             "title": "beIN ENGLISH",
             "type": "1"
+          },
+          {
+            "api": "",
+            "link": "https://livecdn-bp-livestream.rumsport7.live/stream/8/chunks.m3u8?is_vip=false&token=4306e5316cdca8d2959fc90ef087868dd9f40498&x-sign=c63f337f0a9242d273e17ec65a4d2890&x-time=1778614740",
+            "title": "CBS SPORTS HD",
+            "type": "0"
           }
         ],
         "eventInfo": {
@@ -1288,6 +1282,12 @@
         "adsLimit": "0",
         "cat": "MLB",
         "channels_data": [
+          {
+            "api": "294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd",
+            "title": "TNT SPORTS FHD",
+            "type": "1"
+          },
           {
             "api": "",
             "link": "https://mainstreams.pro/hls/ijfnakfidch22.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
