@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-12T01:10:21.381982",
+  "last_updated": "2026-05-12T01:20:20.764857",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "06:35:16 AM 12-05-2026",
+    "Last update time": "06:45:23 AM 12-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -415,14 +415,8 @@
         "cat": "Cricket",
         "channels_data": [
           {
-            "api": "8ccb285ed029f274f9c6d1b0a2bb390e:ec51e638d4c86a79e4ac449a606df916",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/w79eb64z9q/out/v1/3d3825802ff749f1be3b0fd6b5c6eb70/cenc.mpd",
-            "title": "WILLOW [Ad-Free]",
-            "type": "1"
-          },
-          {
-            "api": "2e2636daa74141b68cc14882ea3ff82b:0961f48287324adbb4b7ff3c9d82b3c9",
-            "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1778554605~acl=%2f*~id=f84428e1-d0b9-4959-9447-2e011e0bc2b1~data=hdntl,aXA9MTA4LjE4MS4wLjEwOSZleHA9MTc3ODQ2ODIzNSZlaWQ9OTM4NTQ3Jm9pZD0xNTQmdHlwZT1WT0QmdWlkPXhSUnFvOXxiY2FlYTdjZi1jMzM3LTQwMzktODE1OC0zYzFjZTQ5ZTcyOTMmY2lkPWRjZS5maXNmZWQmcHQ9bnVsbA~hmac=37b88012511b7212b66288a5ee778291c1e1eca14a427ab269c3e0108350f98f/dash/live/2093717/219028-321030/manifest-d.mpd",
+            "api": "708a98b352bd4418a73a028edd84da8f:b1fa5c2bca4c4b57b924b748564532cb",
+            "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1778623594~acl=%2F*~id=80e00416-d077-451a-979a-684373b1320d~data=hdntl,aXA9MTA4LjE4MS40LjY5JmV4cD0xNzc4NTM3MjI0JmVpZD05Mzk5NjMmb2lkPTE1NCZ0eXBlPVZPRCZ1aWQ9eFJScW85fGJjYWVhN2NmLWMzMzctNDAzOS04MTU4LTNjMWNlNDllNzI5MyZjaWQ9ZGNlLmZpc2ZlZCZwdD1udWxs~hmac=ad40f79be2e3554e71b2e48ac067fc40c6f9495500843971e7ea18f4d801f408/dash/live/2093715/219027-321028/manifest-d.mpd",
             "title": "SKY SPORTS FHD",
             "type": "1"
           },
