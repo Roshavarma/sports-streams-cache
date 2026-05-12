@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-12T04:10:30.129112",
+  "last_updated": "2026-05-12T04:20:21.141768",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "09:35:21 AM 12-05-2026",
+    "Last update time": "09:45:26 AM 12-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -227,10 +227,11 @@
           }
         ],
         "eventInfo": {
-          "endTime": "2026/05/10 13:45:00 +0000",
-          "eventName": "MotoGP - Grand Prix de France",
+          "endTime": "2026/05/15 14:15:00 +0000",
+          "eventName": "MotoGP - Gran Premi de Catalunya",
           "eventType": "null",
-          "startTime": "2026/05/10 12:00:00 +0000",
+          "isHot": "0",
+          "startTime": "2026/05/15 08:45:00 +0000",
           "teamA": "MotoGP",
           "teamAFlag": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8fGgE14VBFQKRIMiWIvOlIwpL6AEobQtL3OkLLu7AzsBPGzeXGHsz5PL0NED5DHlAyKCFhPHoNaFB4Z1csH_vvpU47Pbtslr1za618knr-wojLCDa1hyW40v59Qw_UjMGWLREzicm9ZDl7yMuylyu7xMdMoQG3-XXKLoZafem7lpKqxfKavQu-33Mbck/s1600/mgp.png",
           "teamB": "MotoGP",
@@ -766,15 +767,15 @@
           }
         ],
         "eventInfo": {
-          "endTime": "2026/05/11 17:45:00 +0000",
-          "eventName": "Punjab Kings vs Delhi Capitals",
+          "endTime": "2026/05/12 17:45:00 +0000",
+          "eventName": "Gujarat Titans vs Sunrisers Hyderabad",
           "eventType": "null",
           "isHot": "0",
-          "startTime": "2026/05/11 14:00:00 +0000",
-          "teamA": "PBKS",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/187776/image",
-          "teamB": "DC",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/187841/image"
+          "startTime": "2026/05/12 14:00:00 +0000",
+          "teamA": "GT",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/216006/image",
+          "teamB": "SRH",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/187844/image"
         },
         "formatsNew": [
           {
@@ -899,6 +900,63 @@
         "image": "o",
         "publish": "1",
         "title": "Oklahoma City Thunder"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "Pro League 🇸🇦",
+        "channels_data": [
+          {
+            "api": "4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733",
+            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd",
+            "title": "SporTV BR",
+            "type": "1"
+          },
+          {
+            "api": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
+            "title": "FOX DEPORTES",
+            "type": "1"
+          },
+          {
+            "api": "0:0",
+            "link": "https://d1yi40sjj0ca0v.cloudfront.net/TVD1403/index.mpd",
+            "title": "THMANYAH HD",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/12 20:00:00 +0000",
+          "eventName": "Al-Nassr vs Al-Hilal",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/12 18:00:00 +0000",
+          "teamA": "Al-Nassr",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/23400/image",
+          "teamB": "Al-Hilal",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/21895/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "SporTV BR"
+          },
+          {
+            "logo": "",
+            "title": "FOX DEPORTES"
+          },
+          {
+            "logo": "",
+            "title": "THMANYAH HD"
+          },
+          {
+            "logo": "",
+            "title": "SportDigital Fussball"
+          }
+        ],
+        "id": "385",
+        "image": "o",
+        "publish": "1",
+        "title": "Al-Nassr vs Al-Hilal"
       },
       {
         "adsLimit": "0",
@@ -1204,6 +1262,57 @@
         "image": "o",
         "publish": "1",
         "title": "Al-Kholood vs Al-Okhdood"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+        "channels_data": [
+          {
+            "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
+            "title": "beIN ENGLISH FHD",
+            "type": "1"
+          },
+          {
+            "api": "",
+            "link": "https://livecdn-bp-iptv.rumsport7.live/live_abr/372_hd/index.m3u8?is_vip=false&token=2223516ee6861d31f8b0239a4aaf0e07a93fd97b&x-sign=ae79240b6e72c05c2b81f0cfb4ef5dba&x-time=1778524320",
+            "title": "SKY SPORTS HD",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://fo01-bkm.beetv.kz/bpk-tv/000004499/tve/index.m3u8",
+            "title": "SETANTA SPORTS",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://live.vivo200.com/live/sd-1-4538276.m3u8?txSecret=c96168b0aed25d695518aa7c99cc1abd&txTime=6A026CA0|referer=https://player.online909.com/",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/12 21:00:00 +0000",
+          "eventName": "Southampton vs Middlesbrough",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/12 19:00:00 +0000",
+          "teamA": "Southampton",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/45/image",
+          "teamB": "Middlesbrough",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/36/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "beIN ENGLISH"
+          }
+        ],
+        "id": "404",
+        "image": "o",
+        "publish": "1",
+        "title": "Southampton vs Middlesbrough"
       }
     ]
   }
