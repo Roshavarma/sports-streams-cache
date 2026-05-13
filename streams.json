@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-13T23:10:26.244757",
+  "last_updated": "2026-05-13T23:20:20.784028",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "04:35:23 AM 14-05-2026",
+    "Last update time": "04:45:30 AM 14-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -698,6 +698,72 @@
       },
       {
         "adsLimit": "0",
+        "cat": "WNBA",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://mainstreams.pro/hls/pllmazjkdzajh72.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/14 04:40:00 +0000",
+          "eventName": "Golden State vs Chicago Sky",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/14 02:00:00 +0000",
+          "teamA": "Valkyries",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/1041936/image",
+          "teamB": "Chicago",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/35546/image"
+        },
+        "id": "379",
+        "image": "o",
+        "publish": "1",
+        "title": "Golden State vs Chicago Sky"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "WNBA",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://xstm.250909.cc/live/SPORTSFLUX-PRD-75441-100/3015d8e2ea17/195.m3u8",
+            "title": "USA NETWORK",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://edgestreams.pro/hls/fdgsqdfawa73.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://rolis.drompakisdoulesonline.online/premium343/tracks-v1a1/mono.m3u8|Referer=https://donis.jimpenopisonline.online/",
+            "title": "HD SERVER",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/14 05:10:00 +0000",
+          "eventName": "Sparks vs Indiana Fever",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/14 02:30:00 +0000",
+          "teamA": "Sparks",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3447/image",
+          "teamB": "Fever",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3452/image"
+        },
+        "id": "380",
+        "image": "o",
+        "publish": "1",
+        "title": "Sparks vs Indiana Fever"
+      },
+      {
+        "adsLimit": "0",
         "cat": "NHL",
         "channels_data": [
           {
@@ -733,6 +799,12 @@
         "adsLimit": "0",
         "cat": "MLB",
         "channels_data": [
+          {
+            "api": "",
+            "link": "https://chatgpt.hereisman.net/playlist/50532/load-playlist?|Referer=https://gooz.aapmains.net",
+            "title": "SPORTIFy MLB",
+            "type": "0"
+          },
           {
             "api": "",
             "link": "https://mainstreams.pro/hls/fskjanach24.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
@@ -1236,7 +1308,13 @@
         "channels_data": [
           {
             "api": "",
-            "link": "https://fallback-video.ivan-flux.workers.dev/video/index.m3u8",
+            "link": "https://chatgpt.hereisman.net/playlist/50526/load-playlist?|Referer=https://gooz.aapmains.net",
+            "title": "APPLE TV HD",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://live.vivo200.com/live/sd-1-4460271.m3u8?txSecret=cc5876afe0778d4bc55432086ff5bfa6&txTime=6A054C97|Referer=https://player.online909.com/",
             "title": "SPORTIFy Live",
             "type": "0"
           }
@@ -1500,6 +1578,12 @@
           },
           {
             "api": "",
+            "link": "https://chatgpt.hereisman.net/playlist/50521/load-playlist?|Referer=https://gooz.aapmains.net",
+            "title": "SPORTIFy MLB",
+            "type": "0"
+          },
+          {
+            "api": "",
             "link": "https://mainstreams.pro/hls/ijfnakfidch22.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
             "title": "SPORTIFy Live",
             "type": "0"
@@ -1527,6 +1611,12 @@
         "channels_data": [
           {
             "api": "",
+            "link": "https://chatgpt.hereisman.net/playlist/50529/load-playlist?|Referer=https://gooz.aapmains.net",
+            "title": "SPORTIFy MLB",
+            "type": "0"
+          },
+          {
+            "api": "",
             "link": "https://mainstreams.pro/hls/jnzkdzjfanch23.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
             "title": "SPORTIFy Live",
             "type": "0"
@@ -1552,6 +1642,12 @@
         "adsLimit": "0",
         "cat": "MLB",
         "channels_data": [
+          {
+            "api": "",
+            "link": "https://chatgpt.hereisman.net/playlist/50534/load-playlist?|Referer=https://gooz.aapmains.net",
+            "title": "SPORTIFy MLB",
+            "type": "0"
+          },
           {
             "api": "",
             "link": "https://mainstreams.pro/hls/kjhfzua25.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
