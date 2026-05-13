@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-13T19:20:38.949571",
+  "last_updated": "2026-05-13T19:30:35.117651",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "12:45:34 AM 14-05-2026",
+    "Last update time": "12:55:31 AM 14-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -866,9 +866,21 @@
             "type": "1"
           },
           {
+            "api": "52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819",
+            "link": "https://bks400-tol-110.quieroxview.com.mx/bpk-tv/tnt_hd/default/index.mpd",
+            "title": "TNT BRASIL FHD",
+            "type": "1"
+          },
+          {
             "api": "",
             "link": "https://customer-hds4yn4zja7g8r4d.cloudflarestream.com/08d501eef72d8a4f0611505f1189adfe/manifest/video.m3u8",
             "title": "USA TV FHD",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://iptv.852851.xyz/ch/94bc404ba847c522d544ef509a1f7bec/master.m3u8",
+            "title": "SKY SPORTS UHD",
             "type": "0"
           },
           {
