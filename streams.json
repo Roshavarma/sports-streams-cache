@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-13T10:50:27.474076",
+  "last_updated": "2026-05-13T11:00:51.297680",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "04:15:27 PM 13-05-2026",
+    "Last update time": "04:25:24 PM 13-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -784,6 +784,13 @@
             "logo": "",
             "title": "STAR SPORTS ENG",
             "type": "1"
+          },
+          {
+            "api": "335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dUcd\u00140281",
+            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd",
+            "logo": "",
+            "title": "beIN ENGLISH 1",
+            "type": "1"
           }
         ],
         "eventInfo": {
@@ -841,6 +848,10 @@
           {
             "logo": "",
             "title": "STAR SPORTS ENG"
+          },
+          {
+            "logo": "",
+            "title": "beIN ENGLISH 1"
           }
         ],
         "id": "366",
