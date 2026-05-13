@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-13T14:30:38.965652",
+  "last_updated": "2026-05-13T14:40:25.158656",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "07:55:30 PM 13-05-2026",
+    "Last update time": "08:05:38 PM 13-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -571,6 +571,78 @@
       },
       {
         "adsLimit": "0",
+        "cat": "NBA",
+        "channels_data": [
+          {
+            "api": "e51aa21f2a0fef9aabc120dfb655b52f:a12a987fe725a40b6be95cd84b15f689",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
+            "title": "TSN SPORTS FHD",
+            "type": "1"
+          },
+          {
+            "api": "",
+            "link": "https://mainstreams.pro/hls/mlkijfezag65.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://instreams.pro/US/NBA1/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
+            "title": "HD SERVER",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/14 03:00:00 +0000",
+          "eventName": "Detroit Pistons vs Cleveland Cavaliers",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/14 00:00:00 +0000",
+          "teamA": "Pistons",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3424/image",
+          "teamB": "Cavaliers",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3432/image"
+        },
+        "id": "373",
+        "image": "o",
+        "publish": "1",
+        "title": "Cleveland Cavaliers"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "NHL",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://mainstreams.pro/hls/uyopzarf50.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://instreams.pro/US/NHL1/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
+            "title": "HD SERVER",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/14 03:00:00 +0000",
+          "eventName": "Colorado Avalanche vs Minnesota Wild",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/14 00:00:00 +0000",
+          "teamA": "Avalanche",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3682/image",
+          "teamB": "Wild",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3689/image"
+        },
+        "id": "386",
+        "image": "o",
+        "publish": "1",
+        "title": "Colorado Avalanche"
+      },
+      {
+        "adsLimit": "0",
         "cat": "MLB",
         "channels_data": [
           {
@@ -595,6 +667,114 @@
         "image": "o",
         "publish": "1",
         "title": "Minnesota Twins"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "MLB",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://mainstreams.pro/hls/dzjhkfazbka26.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/14 03:05:00 +0000",
+          "eventName": "Texas Rangers vs Arizona Diamondbacks",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/14 00:05:00 +0000",
+          "teamA": "Rangers",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3647/image",
+          "teamB": "Diamondbacks",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3640/image"
+        },
+        "id": "395",
+        "image": "o",
+        "publish": "1",
+        "title": "Arizona Diamondbacks"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "MLB",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://mainstreams.pro/hls/jzabfazkbf27.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/14 03:10:00 +0000",
+          "eventName": "Houston Astros vs Seattle Mariners",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/14 00:10:00 +0000",
+          "teamA": "Astros",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3655/image",
+          "teamB": "Mariners",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3641/image"
+        },
+        "id": "397",
+        "image": "o",
+        "publish": "1",
+        "title": "Houston Astros"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "MLB",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://mainstreams.pro/hls/hefbafbakx28.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+            "title": "SPORTIFy LIVE",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/14 04:40:00 +0000",
+          "eventName": "Athletics vs St. Louis Cardinals",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/14 01:40:00 +0000",
+          "teamA": "Athletics",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3645/image",
+          "teamB": "Cardinals",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3632/image"
+        },
+        "id": "398",
+        "image": "o",
+        "publish": "1",
+        "title": "Athletics"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "MLB",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://mainstreams.pro/hls/hfzljfahzcax29.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/14 05:10:00 +0000",
+          "eventName": "Los Angeles Dodgers vs San Francisco Giants",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/14 02:10:00 +0000",
+          "teamA": "Dodgers",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3638/image",
+          "teamB": "Giants",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3634/image"
+        },
+        "id": "399",
+        "image": "o",
+        "publish": "1",
+        "title": "Los Angeles Dodgers"
       },
       {
         "adsLimit": "0",
