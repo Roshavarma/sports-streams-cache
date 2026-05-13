@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-13T19:00:51.007221",
+  "last_updated": "2026-05-13T19:10:22.866600",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "12:25:25 AM 14-05-2026",
+    "Last update time": "12:35:34 AM 14-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -879,6 +879,12 @@
           },
           {
             "api": "",
+            "link": "https://storage.googleapis.com/ounhdsfugfak1/mux_video_ts1/index-1.m3u8",
+            "title": "SKY SPORTS HD",
+            "type": "0"
+          },
+          {
+            "api": "",
             "link": "https://livecdn-bp-iptv.rumsport7.live/live_abr/144253/chunks.m3u8?is_vip=false&token=5c57ff950322b9958590e461a3f87acee528f057&x-sign=a84c6e459932ad3697066338c4eafdf0&x-time=1778697720",
             "title": "HUB PREMIER HD",
             "type": "0"
@@ -1097,10 +1103,22 @@
         "cat": "Ligue 1 🇫🇷",
         "channels_data": [
           {
+            "api": "34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4",
+            "link": "https://a121aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/jo3rmhhp2r/out/v1/50656942ce4e40a1be824c9d83578fe9/cenc.mpd",
+            "title": "CAZE SPORTS FHD",
+            "type": "1"
+          },
+          {
             "api": "0:0",
             "link": "https://d1yi40sjj0ca0v.cloudfront.net/TVD6411/index.mpd",
             "title": "ELEVEN SPORTS",
             "type": "1"
+          },
+          {
+            "api": "",
+            "link": "https://storage.googleapis.com/ounhdsfugfak2/mux_video_ts1/index-1.m3u8",
+            "title": "SPY beIN SPORTS",
+            "type": "0"
           },
           {
             "api": "",
@@ -1124,6 +1142,12 @@
             "api": "",
             "link": "https://live.vivo200.com/live/hd-en-1-4347934.m3u8?txSecret=941c446e1e9c10cd7375d0a8e4fda170&txTime=6A050E02|Referer=https://player.online909.com/",
             "title": "SPORTIFy Live",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "http://193.47.62.49/hls/GIII.m3u8|Referer=http://www.fawanews.sc/",
+            "title": "SD SERVER",
             "type": "0"
           }
         ],
@@ -1160,9 +1184,21 @@
             "type": "1"
           },
           {
+            "api": "00f9f3c0783536b8ce4a30a01a52e082:e926f7d45af4f7d154c990eae6a2d937",
+            "link": "https://live03p-seg.msf.cdn.mediaset.net/live/ch-c5/c5-dash-widevine.isml/manifest.mpd",
+            "title": "CANAL SPORTS HD",
+            "type": "1"
+          },
+          {
             "api": "",
             "link": "https://livecdn-bp-iptv.rumsport7.live/live_abr/112520/chunks.m3u8?is_vip=false&token=5c57ff950322b9958590e461a3f87acee528f057&x-sign=45f326c8c9869b048f46cbe476d99d7e&x-time=1778697900",
             "title": "SPY HD LIVE",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://storage.googleapis.com/ounhdsfugfak3/mux_video_ts1/index-1.m3u8",
+            "title": "CANAL SPORTS",
             "type": "0"
           },
           {
@@ -1680,8 +1716,26 @@
         "channels_data": [
           {
             "api": "",
+            "link": "https://601.ellitescripts.com/celtic.m3u8",
+            "title": "SKY SPORTS HD",
+            "type": "0"
+          },
+          {
+            "api": "",
             "link": "https://pul-tenm.nbs3g.com/live/sd-1-4529570.m3u8?txSecret=dc976ae9876796c82985982d9d4b2825&txTime=6A061431",
             "title": "SPORTIFy Live",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "http://193.47.62.49/hls/GIIIQQQ.m3u8|Referer=http://www.fawanews.sc/",
+            "title": "SD SERVER 1",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://h.cettuku.shop/hls/GIIIQQQ.m3u8|Referer=http://www.fawanews.sc/",
+            "title": "SD SERVER 2",
             "type": "0"
           }
         ],
@@ -1710,6 +1764,18 @@
             "link": "https://pul-tenm.nbs3g.com/live/sd-1-4529571.m3u8?txSecret=81c8960f1ffde2afe7d8e0dbdf96080a&txTime=6A061431",
             "title": "SPORTIFy Live",
             "type": "0"
+          },
+          {
+            "api": "",
+            "link": "http://193.47.62.45/hls/GIIIQQQQ.m3u8|Referer=http://www.fawanews.sc/",
+            "title": "SD SERVER 1",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://n.dsvozuzuz.shop/hls/GIIIQQQQ.m3u8|Referer=http://www.fawanews.sc/",
+            "title": "SD SERVER 2",
+            "type": "0"
           }
         ],
         "eventInfo": {
@@ -1737,6 +1803,12 @@
             "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
             "title": "SportDigital Fussball",
             "type": "1"
+          },
+          {
+            "api": "",
+            "link": "https://601.ellitescripts.com/football.m3u8",
+            "title": "SKY SPORTS HD",
+            "type": "0"
           },
           {
             "api": "",
