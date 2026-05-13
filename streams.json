@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-13T14:00:52.390822",
+  "last_updated": "2026-05-13T14:10:27.547159",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "07:25:51 PM 13-05-2026",
+    "Last update time": "07:35:31 PM 13-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -502,6 +502,12 @@
             "api": "708a98b352bd4418a73a028edd84da8f:b1fa5c2bca4c4b57b924b748x64\u001532cb",
             "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1778758219~acl=%2f*~id=c7cd7823-86a9-4fb3-b1b9-77b287bc40bb~data=hdntl,aXA9MjA4Ljg3LjI0Mi4xMTEmZXhwPTE3Nzg2NzE4NDgmZWlkPTkzNjQ2NCZvaWQ9MTU0JnR5cGU9Vk9EJnVpZD14UlJxbzl8YmNhZWE3Y2YtYzMzNy00MDM5LTgxNTgtM2MxY2U0OWU3MjkzJmNpZD1kY2UuZmlzZmVkJnB0PW51bGw~hmac=5316976585f84acae4c2761846403d5d2407714372ca863af330ad9451a4671f/dash/live/2093715/219027-321028/manifest-d.mpd",
             "title": "SKY SPORTS FHD",
+            "type": "1"
+          },
+          {
+            "api": "c18e0a678b70572ca99f9efe1f297f5a:ddf3933d1fbc8c5d1f84870cvb5\u0016a22c",
+            "link": "https://dck1-ac-live.cdn.indazn.com/out/v1/814bffb9b389f652/0fb45955afd944b19d988688141c0da3/index.mpd",
+            "title": "KAYO HINDI FHD",
             "type": "1"
           },
           {
