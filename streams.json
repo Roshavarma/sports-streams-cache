@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-13T22:54:52.862941",
+  "last_updated": "2026-05-13T23:00:48.714469",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "04:20:27 AM 14-05-2026",
+    "Last update time": "04:25:20 AM 14-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -1409,6 +1409,12 @@
         "cat": "MLB",
         "channels_data": [
           {
+            "api": "294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd",
+            "title": "TNT SPORTS FHD",
+            "type": "1"
+          },
+          {
             "api": "",
             "link": "https://mainstreams.pro/hls/ijfnakfidch22.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
             "title": "SPORTIFy Live",
@@ -1628,51 +1634,6 @@
         "image": "o",
         "publish": "1",
         "title": "Ceará vs Atlético Mineiro"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "Scottish Premiership",
-        "channels_data": [
-          {
-            "api": "",
-            "link": "https://601.ellitescripts.com/celtic.m3u8",
-            "title": "SKY SPORTS HD",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://pul-tenm.nbs3g.com/live/sd-1-4529570.m3u8?txSecret=dc976ae9876796c82985982d9d4b2825&txTime=6A061431",
-            "title": "SPORTIFy Live",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "http://193.47.62.49/hls/GIIIQQQ.m3u8|Referer=http://www.fawanews.sc/",
-            "title": "SD SERVER 1",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://h.cettuku.shop/hls/GIIIQQQ.m3u8|Referer=http://www.fawanews.sc/",
-            "title": "SD SERVER 2",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/13 21:00:00 +0000",
-          "eventName": "Motherwell vs Celtic",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/13 19:00:00 +0000",
-          "teamA": "Motherwell",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2346/image",
-          "teamB": "Celtic",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2352/image"
-        },
-        "id": "424",
-        "image": "o",
-        "publish": "1",
-        "title": "Motherwell vs Celtic"
       },
       {
         "adsLimit": "0",
