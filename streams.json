@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-13T13:10:24.143768",
+  "last_updated": "2026-05-13T13:20:25.126711",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "06:35:26 PM 13-05-2026",
+    "Last update time": "06:40:27 PM 13-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -784,6 +784,13 @@
             "logo": "",
             "title": "STAR SPORTS ENG",
             "type": "1"
+          },
+          {
+            "api": "1d96ab366bbe6451edf7407b58e2fa16:0116201f4a63ac5bf5787d2cy10C41a7",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5sxuux529k/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd",
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10",
+            "title": "TNT Sports 3",
+            "type": "1"
           }
         ],
         "eventInfo": {
@@ -841,6 +848,10 @@
           {
             "logo": "",
             "title": "STAR SPORTS ENG"
+          },
+          {
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10",
+            "title": "TNT Sports 3"
           }
         ],
         "id": "366",
