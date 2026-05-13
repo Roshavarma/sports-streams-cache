@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-13T09:50:24.103540",
+  "last_updated": "2026-05-13T10:00:49.283996",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "03:15:27 PM 13-05-2026",
+    "Last update time": "03:25:27 PM 13-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -725,7 +725,7 @@
           {
             "api": "368d67493ff259d9823b96b89b761386:1bd0324aa4f1473fe0612cfff46B05a2",
             "link": "https://dck1-ac-live.cdn.indazn.com/out/v1/814bffb9b389f652/d7c17f9575ba40798a8c63c738b150b3/index.mpd",
-            "logo": "",
+            "logo": "https://play-lh.googleusercontent.com/cnJUFy1qP5kPvc1gFrTNuh1Lg8KlS0meXk2Sxsxr-7VfDD0PAJnFkI41fKC41BQlE44",
             "title": "KAYO HINDI FHD",
             "type": "1"
           },
@@ -784,6 +784,13 @@
             "logo": "",
             "title": "STAR SPORTS ENG",
             "type": "1"
+          },
+          {
+            "api": "294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813X1dA8a7b",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd",
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10",
+            "title": "TNT Sports 1",
+            "type": "1"
           }
         ],
         "eventInfo": {
@@ -807,7 +814,7 @@
             "title": "SKY SPORTS FHD"
           },
           {
-            "logo": "",
+            "logo": "https://play-lh.googleusercontent.com/cnJUFy1qP5kPvc1gFrTNuh1Lg8KlS0meXk2Sxsxr-7VfDD0PAJnFkI41fKC41BQlE44",
             "title": "KAYO HINDI FHD"
           },
           {
@@ -841,6 +848,10 @@
           {
             "logo": "",
             "title": "STAR SPORTS ENG"
+          },
+          {
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10",
+            "title": "TNT Sports 1"
           }
         ],
         "id": "366",
