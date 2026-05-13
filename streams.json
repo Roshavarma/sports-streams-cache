@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-13T18:20:29.200953",
+  "last_updated": "2026-05-13T18:30:39.891868",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "11:45:33 PM 13-05-2026",
+    "Last update time": "11:55:24 PM 13-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -1427,6 +1427,84 @@
         "image": "o",
         "publish": "1",
         "title": "Brewers vs Padres"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "Copa do Brasil",
+        "channels_data": [
+          {
+            "api": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
+            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
+            "title": "PREMIER SPORTS",
+            "type": "1"
+          },
+          {
+            "api": "56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd",
+            "title": "PREMIERER BR",
+            "type": "1"
+          },
+          {
+            "api": "4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733",
+            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd",
+            "title": "SporTV BR",
+            "type": "1"
+          },
+          {
+            "api": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
+            "title": "FOX DEPORTES",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/14 00:00:00 +0000",
+          "eventName": "Juventude vs São Paulo",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/13 22:00:00 +0000",
+          "teamA": "Juventude",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/1980/image",
+          "teamB": "São Paulo",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/1981/image"
+        },
+        "id": "420",
+        "image": "o",
+        "publish": "1",
+        "title": "Juventude vs São Paulo"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "Copa do Brasil",
+        "channels_data": [
+          {
+            "api": "56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd",
+            "title": "PREMIERER BR",
+            "type": "1"
+          },
+          {
+            "api": "4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733",
+            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd",
+            "title": "SporTV BR",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/14 02:30:00 +0000",
+          "eventName": "Remo vs Bahia",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/14 00:30:00 +0000",
+          "teamA": "Remo",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2012/image",
+          "teamB": "Bahia",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/1955/image"
+        },
+        "id": "421",
+        "image": "o",
+        "publish": "1",
+        "title": "Remo vs Bahia"
       }
     ]
   }
