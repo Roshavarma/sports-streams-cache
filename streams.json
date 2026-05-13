@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-13T18:40:23.411915",
+  "last_updated": "2026-05-13T18:50:29.173845",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "12:05:24 AM 14-05-2026",
+    "Last update time": "12:15:33 AM 14-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -813,6 +813,18 @@
             "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/lzhmuzmjsl/out/v1/c171eeb214c749f2b351c79df317b21e/cenc.mpd",
             "title": "TSN SPORTS FHD",
             "type": "1"
+          },
+          {
+            "api": "065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2",
+            "link": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
+            "title": "FANCODE FHD",
+            "type": "1"
+          },
+          {
+            "api": "",
+            "link": "https://live.vivo200.com/live/hd-en-1-4358303.m3u8?txSecret=495476eca6d1c7280f6d77b4dd3dba45&txTime=6A050E60|Referer=https://player.online909.com/",
+            "title": "SPORTIFy Live",
+            "type": "0"
           }
         ],
         "eventInfo": {
@@ -836,17 +848,35 @@
         "cat": "EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
         "channels_data": [
           {
+            "api": "7a2758575dc04d63acc3573ab594d441:47071dd80de746a38cdc6a4dcde21abc",
+            "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1778778903~acl=%2f*~id=fc3d7814-ec0c-450f-90bc-e98d0c2bf3d2~data=hdntl,aXA9MjA4Ljg3LjI0MC4xOSZleHA9MTc3ODY5MjUzMyZlaWQ9OTM1OTUzJm9pZD0xNTQmdHlwZT1WT0QmdWlkPXhSUnFvOXxiY2FlYTdjZi1jMzM3LTQwMzktODE1OC0zYzFjZTQ5ZTcyOTMmY2lkPWRjZS5maXNmZWQmcHQ9bnVsbA~hmac=bf212f3a59f02e6e5925fa7556fd7b8f0ebf3a309647b6f1b6905cf483ece945/dash/live/2093712/219035-321027/manifest-d.mpd",
+            "title": "SKY SPORTS FHD",
+            "type": "1"
+          },
+          {
             "api": "0:0",
             "link": "https://d1yi40sjj0ca0v.cloudfront.net/TVD6219/index.mpd",
             "title": "NOVA SPORTS PL",
             "type": "1"
+          },
+          {
+            "api": "",
+            "link": "https://livecdn-bp-iptv.rumsport7.live/live_abr/144253/chunks.m3u8?is_vip=false&token=5c57ff950322b9958590e461a3f87acee528f057&x-sign=a84c6e459932ad3697066338c4eafdf0&x-time=1778697720",
+            "title": "PREMIER SPORTS HD",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://live.vivo200.com/live/hd-en-1-4343331.m3u8?txSecret=38492bf5747caafbef8af43d37b30ce3&txTime=6A050D88|Referer=https://player.online909.com/",
+            "title": "SPORTIFy Live",
+            "type": "0"
           }
         ],
         "eventInfo": {
           "endTime": "2026/05/13 21:00:00 +0000",
           "eventName": "Manchester City vs Crystal Palace",
           "eventType": "null",
-          "isHot": "0",
+          "isHot": "1",
           "startTime": "2026/05/13 19:00:00 +0000",
           "teamA": "Man City",
           "teamAFlag": "https://img.sofascore.com/api/v1/team/17/image",
@@ -965,10 +995,22 @@
         "cat": "LaLiga 🇪🇸",
         "channels_data": [
           {
-            "api": "620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a",
-            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd",
-            "title": "Laliga TV FHD",
+            "api": "7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe",
+            "link": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
+            "title": "FANCODE FHD",
             "type": "1"
+          },
+          {
+            "api": "709c812e1b4174002605df1d17d34a4c:0bbee6c9c20a0f065bf8369d54cbf83e",
+            "link": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash-sd/enc/qddnwqthpp/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd",
+            "title": "FANCODE - SD",
+            "type": "1"
+          },
+          {
+            "api": "",
+            "link": "https://pul-tenm.nbs3g.com/live/hd-en-1-4358312.m3u8?txSecret=c9e71ea7e1a645bb22c7252a3f8c4f90&txTime=6A061431",
+            "title": "SPORTIFy Live",
+            "type": "0"
           }
         ],
         "eventInfo": {
@@ -1037,17 +1079,29 @@
             "type": "1"
           },
           {
+            "api": "",
+            "link": "https://mainstreams.pro/hls/dza5z8f69.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+            "title": "beIN SPORTS US",
+            "type": "0"
+          },
+          {
             "api": "0:0",
             "link": "https://d1yi40sjj0ca0v.cloudfront.net/TVD2083/index.mpd",
             "title": "LIGUE1+ HD",
             "type": "1"
+          },
+          {
+            "api": "",
+            "link": "https://live.vivo200.com/live/hd-en-1-4347934.m3u8?txSecret=941c446e1e9c10cd7375d0a8e4fda170&txTime=6A050E02|Referer=https://player.online909.com/",
+            "title": "SPORTIFy Live",
+            "type": "0"
           }
         ],
         "eventInfo": {
           "endTime": "2026/05/13 21:00:00 +0000",
           "eventName": "RC Lens vs PSG",
           "eventType": "null",
-          "isHot": "0",
+          "isHot": "1",
           "startTime": "2026/05/13 19:00:00 +0000",
           "teamA": "Lens",
           "teamAFlag": "https://img.sofascore.com/api/v1/team/1648/image",
@@ -1066,7 +1120,7 @@
           {
             "api": "dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f",
             "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd",
-            "title": "FUBO SPORTS",
+            "title": "FUBO SPORTS FHD",
             "type": "1"
           },
           {
@@ -1074,13 +1128,19 @@
             "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
             "title": "PREMIER SPORTS",
             "type": "1"
+          },
+          {
+            "api": "",
+            "link": "https://live.vivo200.com/live/hd-en-1-4534492.m3u8?txSecret=d2f5cfb4a8cef5cb9d66037d29c9e927&txTime=6A050DBE|Referer=https://player.online909.com/",
+            "title": "SPORTIFy Live",
+            "type": "0"
           }
         ],
         "eventInfo": {
           "endTime": "2026/05/13 21:00:00 +0000",
           "eventName": "Lazio vs Inter",
           "eventType": "null",
-          "isHot": "0",
+          "isHot": "1",
           "startTime": "2026/05/13 19:00:00 +0000",
           "teamA": "Lazio",
           "teamAFlag": "https://img.sofascore.com/api/v1/team/2699/image",
