@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-13T13:40:32.042446",
+  "last_updated": "2026-05-13T13:51:11.425412",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "07:05:22 PM 13-05-2026",
+    "Last update time": "07:15:43 PM 13-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -709,57 +709,59 @@
         "cat": "Indian Premier League",
         "channels_data": [
           {
-            "api": "01c6a91ded406339be138e51094c6712:a5a7b8bc54ddd1632beef459U2e\u001295d2",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ixrd6ejrv9/out/v1/4604f9d16228461c9eabfeee7dbe2d8e/cenc.mpd",
+            "api": "5965e952ed6d29d9e4db3d41c5e6faa1:3727cbcd916f074b0345e533s93Dfa62",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/6ehp4ocx4k/out/v1/e780f620aabe452cb607054c866ad32f/cenc.mpd",
+            "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
             "title": "WILLOW [Ad-Free]",
             "type": "1"
           },
           {
             "api": "",
             "link": "https://dai.google.com/linear/hls/event/mbsfWpAoS2Olw5e-nkM-gw/master.m3u8|user-agent=Cricbuzz/7.00.01 (Linux;Android 13) AndroidXMedia3/1.5.1&x-forwarded-for=1.178.20.23",
+            "logo": "",
             "title": "NOON SPORTS",
             "type": "0"
           },
           {
             "api": "",
             "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla",
+            "logo": "",
             "title": "SKY CRICKET",
             "type": "0"
           },
           {
             "api": "",
             "link": "https://stb-air.wasmer.app//play.php?id=LIVETV_LIVETVCHANNEL_STAR_SPORTS_1_HD&uid=999&pass=999",
+            "logo": "",
             "title": "Star Sports HIN",
             "type": "0"
           },
           {
             "api": "",
             "link": "http://datahub11.com/live/Jen12345/Jen54321/703300.ts",
+            "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
             "title": "WILLOW HINDI",
             "type": "0"
           },
           {
             "api": "",
             "link": "http://193.47.62.193/hls/gggg.m3u8|Referer=http://www.fawanews.sc/",
+            "logo": "",
             "title": "SD SERVER",
             "type": "0"
           },
           {
             "api": "81872faa1d6b45fa9045cdeb2e310000:9b88168e61274587a471962cw6b\u00194675",
             "link": "https://livetv.hotstar.com/mp1/gec-india-1540065788/fa6a4f0005ef4f90ab24484d165b0aaf/index.mpd?|cookie=hdntl=exp=1778457651~acl=%2f*~id=8e35b4f8bf57a80ad58eff80800f20bf~data=hdntl~hmac=038ae8f949f65209ff4845c81c3352f9a5d2c655dd16e144d424357fd798a60c&User-agent=Hotstar;in.startv.hotstar/SportsLover(Android/15)",
+            "logo": "",
             "title": "STAR SPORTS HIN",
             "type": "1"
           },
           {
             "api": "9dacc80134404c34ba184022c28d0000:982183fb4d9449c995859b7cXf5\u00112092",
             "link": "https://livetv.hotstar.com/mp2/gec-india-1540065785/a00717b1324f45eb814eec9e48a12db8/index.mpd?|cookie=hdntl=exp=1778457651~acl=%2f*~id=8e35b4f8bf57a80ad58eff80800f20bf~data=hdntl~hmac=038ae8f949f65209ff4845c81c3352f9a5d2c655dd16e144d424357fd798a60c&User-agent=Hotstar;in.startv.hotstar/SportsLover(Android/15)",
+            "logo": "",
             "title": "STAR SPORTS ENG",
-            "type": "1"
-          },
-          {
-            "api": "1d96ab366bbe6451edf7407b58e2fa16:0116201f4a63ac5bf5787d2cy10C41a7",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5sxuux529k/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd?",
-            "title": "TNT Sports 3",
             "type": "1"
           }
         ],
@@ -776,7 +778,7 @@
         },
         "formatsNew": [
           {
-            "logo": "",
+            "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
             "title": "WILLOW [Ad-Free]"
           },
           {
@@ -792,7 +794,7 @@
             "title": "Star Sports HIN"
           },
           {
-            "logo": "",
+            "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
             "title": "WILLOW HINDI"
           },
           {
@@ -806,10 +808,6 @@
           {
             "logo": "",
             "title": "STAR SPORTS ENG"
-          },
-          {
-            "logo": "",
-            "title": "TNT Sports 3"
           }
         ],
         "id": "366",
