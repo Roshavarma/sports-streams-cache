@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-13T18:30:39.891868",
+  "last_updated": "2026-05-13T18:40:23.411915",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "11:55:24 PM 13-05-2026",
+    "Last update time": "12:05:24 AM 14-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -1478,14 +1478,14 @@
         "cat": "Copa do Brasil",
         "channels_data": [
           {
-            "api": "56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd",
+            "api": "9dc40460c93087aea84d6315f08ecb64:f69c8d4624fddff4ca89bd0b31bdc4a7",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/oy6rp0jwmf/out/v1/580ecf12bad24979baf8dd993dce053e/cenc.mpd",
             "title": "PREMIERER BR",
             "type": "1"
           },
           {
-            "api": "4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733",
-            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd",
+            "api": "3de028eafb3b2caffec03be1c1c818b3:8fbdd8a9ae6748696bb13e547bb093fc",
+            "link": "https://otte.cache.aiv-cdn.net/gru-nitro/live/clients/dash/enc/dsa3hwuhd1/out/v1/631b48c8d9ea437e8309d1a4b55acef5/cenc.mpd",
             "title": "SporTV BR",
             "type": "1"
           }
@@ -1505,6 +1505,159 @@
         "image": "o",
         "publish": "1",
         "title": "Remo vs Bahia"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "Copa do Brasil",
+        "channels_data": [
+          {
+            "api": "9dc40460c93087aea84d6315f08ecb64:f69c8d4624fddff4ca89bd0b31bdc4a7",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/oy6rp0jwmf/out/v1/580ecf12bad24979baf8dd993dce053e/cenc.mpd",
+            "title": "PREMIERER BR",
+            "type": "1"
+          },
+          {
+            "api": "3de028eafb3b2caffec03be1c1c818b3:8fbdd8a9ae6748696bb13e547bb093fc",
+            "link": "https://otte.cache.aiv-cdn.net/gru-nitro/live/clients/dash/enc/dsa3hwuhd1/out/v1/631b48c8d9ea437e8309d1a4b55acef5/cenc.mpd",
+            "title": "SporTV BR",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/14 00:00:00 +0000",
+          "eventName": "Vasco da Gama vs Paysandu",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/13 22:00:00 +0000",
+          "teamA": "Vasco",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/1974/image",
+          "teamB": "Paysandu",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/1997/image"
+        },
+        "id": "422",
+        "image": "o",
+        "publish": "1",
+        "title": "Vasco da Gama vs Paysandu"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "Copa do Brasil",
+        "channels_data": [
+          {
+            "api": "56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd",
+            "title": "PREMIERER BR",
+            "type": "1"
+          },
+          {
+            "api": "4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733",
+            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd",
+            "title": "SporTV BR",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/14 02:30:00 +0000",
+          "eventName": "Ceará vs Atlético Mineiro",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/14 00:30:00 +0000",
+          "teamA": "Ceará",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2001/image",
+          "teamB": "Atlético-MG",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/1977/image"
+        },
+        "id": "423",
+        "image": "o",
+        "publish": "1",
+        "title": "Ceará vs Atlético Mineiro"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "Scottish Premiership",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://pul-tenm.nbs3g.com/live/sd-1-4529570.m3u8?txSecret=dc976ae9876796c82985982d9d4b2825&txTime=6A061431",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/13 21:00:00 +0000",
+          "eventName": "Motherwell vs Celtic",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/13 19:00:00 +0000",
+          "teamA": "Motherwell",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2346/image",
+          "teamB": "Celtic",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2352/image"
+        },
+        "id": "424",
+        "image": "o",
+        "publish": "1",
+        "title": "Motherwell vs Celtic"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "Scottish Premiership",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://pul-tenm.nbs3g.com/live/sd-1-4529571.m3u8?txSecret=81c8960f1ffde2afe7d8e0dbdf96080a&txTime=6A061431",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/13 21:00:00 +0000",
+          "eventName": "Rangers vs Hibernian",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/13 19:00:00 +0000",
+          "teamA": "Rangers",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2351/image",
+          "teamB": "Hibernian",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2354/image"
+        },
+        "id": "425",
+        "image": "o",
+        "publish": "1",
+        "title": "Rangers vs Hibernian"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "Scottish Premiership",
+        "channels_data": [
+          {
+            "api": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
+            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
+            "title": "SportDigital Fussball",
+            "type": "1"
+          },
+          {
+            "api": "",
+            "link": "https://pul-tenm.nbs3g.com/live/sd-1-4529569.m3u8?txSecret=a7cb75852fbded9431aaa1bcb1c9c225&txTime=6A061431",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/13 21:00:00 +0000",
+          "eventName": "HeartS vs Falkirk FC",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/13 19:00:00 +0000",
+          "teamA": "Hearts",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2353/image",
+          "teamB": "Falkirk",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2363/image"
+        },
+        "id": "426",
+        "image": "o",
+        "publish": "1",
+        "title": "HeartS vs Falkirk"
       }
     ]
   }
