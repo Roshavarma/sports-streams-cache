@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-13T11:30:37.605266",
+  "last_updated": "2026-05-13T11:40:22.338083",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "04:55:23 PM 13-05-2026",
+    "Last update time": "05:05:26 PM 13-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -974,7 +974,7 @@
         },
         "formatsNew": [
           {
-            "logo": "https://play-lh.googleusercontent.com/zG_ZS5v4PfHqWqWLkpVkZB9wRu9MJmEqD4tNpeIYwLOcjU3INQlFeTxoVgwV1R2CbcsI",
+            "logo": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg",
             "title": "beIN ENGLISH FHD"
           },
           {
@@ -1194,6 +1194,39 @@
         "image": "o",
         "publish": "1",
         "title": "Stockport County vs Stevenage"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "MLS 🇺🇸",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://mainstreams.pro/hls/bzagLHzach19.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+            "title": "SPORTIFy MLB",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/14 01:30:00 +0000",
+          "eventName": "Cincinnati vs Inter Miami",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/13 23:30:00 +0000",
+          "teamA": "Cincinnati",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/215167/image",
+          "teamB": "Inter Miami",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/337602/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "SportzX Live"
+          }
+        ],
+        "id": "409",
+        "image": "o",
+        "publish": "1",
+        "title": "Cincinnati vs Inter Miami"
       }
     ]
   }
