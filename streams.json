@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-13T19:10:22.866600",
+  "last_updated": "2026-05-13T19:20:38.949571",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "12:35:34 AM 14-05-2026",
+    "Last update time": "12:45:34 AM 14-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -831,13 +831,19 @@
             "link": "https://live.vivo200.com/live/hd-en-1-4358303.m3u8?txSecret=495476eca6d1c7280f6d77b4dd3dba45&txTime=6A050E60|Referer=https://player.online909.com/",
             "title": "SPORTIFy Live",
             "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://play.ltwxsc.com/live/hd-en-6MuSsYd5pnKYRWLiNz.m3u8?txSecret=1f0e4cf8ea67bd6473d44b4765a3996e&txTime=6A04F641",
+            "title": "FAST SERVER",
+            "type": "0"
           }
         ],
         "eventInfo": {
           "endTime": "2026/05/13 21:30:00 +0000",
           "eventName": "Deportivo Alavés vs Barcelona",
           "eventType": "null",
-          "isHot": "0",
+          "isHot": "1",
           "startTime": "2026/05/13 19:30:00 +0000",
           "teamA": "Alavés",
           "teamAFlag": "https://img.sofascore.com/api/v1/team/2885/image",
@@ -858,6 +864,12 @@
             "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1778778903~acl=%2f*~id=fc3d7814-ec0c-450f-90bc-e98d0c2bf3d2~data=hdntl,aXA9MjA4Ljg3LjI0MC4xOSZleHA9MTc3ODY5MjUzMyZlaWQ9OTM1OTUzJm9pZD0xNTQmdHlwZT1WT0QmdWlkPXhSUnFvOXxiY2FlYTdjZi1jMzM3LTQwMzktODE1OC0zYzFjZTQ5ZTcyOTMmY2lkPWRjZS5maXNmZWQmcHQ9bnVsbA~hmac=bf212f3a59f02e6e5925fa7556fd7b8f0ebf3a309647b6f1b6905cf483ece945/dash/live/2093712/219035-321027/manifest-d.mpd",
             "title": "SKY SPORTS FHD",
             "type": "1"
+          },
+          {
+            "api": "",
+            "link": "https://customer-hds4yn4zja7g8r4d.cloudflarestream.com/08d501eef72d8a4f0611505f1189adfe/manifest/video.m3u8",
+            "title": "USA TV FHD",
+            "type": "0"
           },
           {
             "api": "0:0",
@@ -885,6 +897,12 @@
           },
           {
             "api": "",
+            "link": "https://601.ellitescripts.com/skysportsmx.m3u8",
+            "title": "SKY SPORTS MX",
+            "type": "0"
+          },
+          {
+            "api": "",
             "link": "https://livecdn-bp-iptv.rumsport7.live/live_abr/144253/chunks.m3u8?is_vip=false&token=5c57ff950322b9958590e461a3f87acee528f057&x-sign=a84c6e459932ad3697066338c4eafdf0&x-time=1778697720",
             "title": "HUB PREMIER HD",
             "type": "0"
@@ -893,6 +911,12 @@
             "api": "",
             "link": "https://live.vivo200.com/live/hd-en-1-4343331.m3u8?txSecret=38492bf5747caafbef8af43d37b30ce3&txTime=6A050D88|Referer=https://player.online909.com/",
             "title": "SPORTIFy Live",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://play.ltwxsc.com/live/hd-en-6MuT7Jy1sNVEm4VfRp.m3u8?txSecret=445ed51658eca8ec8fe18a1eb42061aa&txTime=6A04F641",
+            "title": "FAST SERVER",
             "type": "0"
           }
         ],
@@ -911,63 +935,6 @@
         "image": "o",
         "publish": "1",
         "title": "Manchester City vs Crystal Palace"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "LaLiga 🇪🇸",
-        "channels_data": [
-          {
-            "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
-            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
-            "title": "beIN ENGLISH FHD",
-            "type": "1"
-          },
-          {
-            "api": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
-            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
-            "title": "PREMIER SPORTS",
-            "type": "1"
-          },
-          {
-            "api": "065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2",
-            "link": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
-            "title": "FANCODE FHD",
-            "type": "1"
-          },
-          {
-            "api": "",
-            "link": "https://chatgpt.hereisman.net/playlist/50499/load-playlist?|Referer=https://gooz.aapmains.net",
-            "title": "ESPN DEPORTES",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://livecdn-bp-iptv.rumsport7.live/live_abr/112521/chunks.m3u8?is_vip=false&token=5c57ff950322b9958590e461a3f87acee528f057&x-sign=a70083422448902de6347c0f85c83543&x-time=1778690340",
-            "title": "SPY LIVE HD",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://pul-tenm.nbs3g.com/live/hd-en-1-4358319.m3u8?txSecret=61b46a2ad8d47ce55ae6e8aa3794a721&txTime=6A05FAE7",
-            "title": "SPORTIFy Live",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/13 19:00:00 +0000",
-          "eventName": "Villarreal vs Sevilla",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/13 17:00:00 +0000",
-          "teamA": "Villarreal",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2819/image",
-          "teamB": "Sevilla",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2833/image"
-        },
-        "id": "402",
-        "image": "o",
-        "publish": "1",
-        "title": "Villarreal vs Sevilla"
       },
       {
         "adsLimit": "0",
@@ -1118,6 +1085,12 @@
             "api": "",
             "link": "https://storage.googleapis.com/ounhdsfugfak2/mux_video_ts1/index-1.m3u8",
             "title": "SPY beIN SPORTS",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://601.ellitescripts.com/football.m3u8",
+            "title": "beIN SPORTS ES",
             "type": "0"
           },
           {
