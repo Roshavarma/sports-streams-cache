@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-13T23:50:20.943267",
+  "last_updated": "2026-05-14T00:00:49.183342",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "05:15:35 AM 14-05-2026",
+    "Last update time": "05:27:54 AM 14-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -590,6 +590,12 @@
             "type": "1"
           },
           {
+            "api": "326058ffe1cd4d3383781b36ca9145d1:99d405d46f114eff96789673e57d0121",
+            "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1778796599~acl=%2F*~id=f9aaa618-2abc-433a-ae81-580ba52768f2~data=hdntl,aXA9MjA4Ljg3LjI0Mi4xOTkmZXhwPTE3Nzg3MTAyMjkmZWlkPTkzODU0NiZvaWQ9MTU0JnR5cGU9Vk9EJnVpZD14UlJxbzl8YmNhZWE3Y2YtYzMzNy00MDM5LTgxNTgtM2MxY2U0OWU3MjkzJmNpZD1kY2UuZmlzZmVkJnB0PW51bGw~hmac=3fbf81d800b2753d1d66b783a20c7a37a68ffd8010f23a1aaf1e1856cc1970d3/dash/live/2093723/219038-321034/manifest-d.mpd",
+            "title": "ESPN TV FHD",
+            "type": "1"
+          },
+          {
             "api": "",
             "link": "https://chatgpt.hereisman.net/playlist/50535/load-playlist?|Referer=https://gooz.aapmains.net",
             "title": "SPORTIFy NBA",
@@ -778,6 +784,18 @@
         "adsLimit": "0",
         "cat": "NHL",
         "channels_data": [
+          {
+            "api": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f",
+            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
+            "title": "PREMIER SPORTS",
+            "type": "1"
+          },
+          {
+            "api": "a01e1e0d5fb145b8b33190588490a27a:bfd9e3b0866e49cbae1bb7f7116451c9",
+            "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1778796598~acl=%2F*~id=8171d523-c770-4ab7-abb0-193ef3644d0b~data=hdntl,aXA9MjA4Ljg3LjI0Mi4xOTkmZXhwPTE3Nzg3MTAyMjgmZWlkPTkzNTYyNCZvaWQ9MTU0JnR5cGU9Vk9EJnVpZD14UlJxbzl8YmNhZWE3Y2YtYzMzNy00MDM5LTgxNTgtM2MxY2U0OWU3MjkzJmNpZD1kY2UuZmlzZmVkJnB0PW51bGw~hmac=af2ea76f8205dc291c82c9b80c1386c0e5746e919fcb8168c1012fbdfcfa04d6/dash/live/2093724/219039-321035/manifest-d.mpd",
+            "title": "ESPN TV FHD",
+            "type": "0"
+          },
           {
             "api": "",
             "link": "https://chatgpt.hereisman.net/playlist/50539/load-playlist?|Referer=https://gooz.aapmains.net",
@@ -971,51 +989,9 @@
         "cat": "Liga MX",
         "channels_data": [
           {
-            "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
-            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
-            "title": "beIN ENGLISH",
-            "type": "1"
-          },
-          {
-            "api": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
-            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
-            "title": "PREMIER SPORTS",
-            "type": "1"
-          },
-          {
-            "api": "620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a",
-            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd",
-            "title": "Laliga TV FHD",
-            "type": "1"
-          },
-          {
-            "api": "f5c2b30eac11be1e8cdfc9585f5fe6af:a8198d17bf9b0da77450fbb919a38b2d",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/lzhmuzmjsl/out/v1/c171eeb214c749f2b351c79df317b21e/cenc.mpd",
-            "title": "TSN SPORTS FHD",
-            "type": "1"
-          },
-          {
-            "api": "065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2",
-            "link": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
-            "title": "FANCODE FHD",
-            "type": "1"
-          },
-          {
             "api": "",
-            "link": "https://chatgpt.hereisman.net/playlist/50505/load-playlist?|Referer=https://gooz.aapmains.net",
-            "title": "ESPN DEPORTES",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://live.vivo200.com/live/hd-en-1-4358303.m3u8?txSecret=495476eca6d1c7280f6d77b4dd3dba45&txTime=6A050E60|Referer=https://player.online909.com/",
+            "link": "https://fallback-video.ivan-flux.workers.dev/video/index.m3u8",
             "title": "SPORTIFy Live",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://play.ltwxsc.com/live/hd-en-6MuSsYd5pnKYRWLiNz.m3u8?txSecret=1f0e4cf8ea67bd6473d44b4765a3996e&txTime=6A04F641",
-            "title": "FAST SERVER",
             "type": "0"
           }
         ],
@@ -1127,135 +1103,6 @@
         "image": "o",
         "publish": "1",
         "title": "Manchester City vs Crystal Palace"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "LaLiga 🇪🇸",
-        "channels_data": [
-          {
-            "api": "7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe",
-            "link": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
-            "title": "FANCODE FHD",
-            "type": "1"
-          },
-          {
-            "api": "709c812e1b4174002605df1d17d34a4c:0bbee6c9c20a0f065bf8369d54cbf83e",
-            "link": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash-sd/enc/qddnwqthpp/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd",
-            "title": "FANCODE - SD",
-            "type": "1"
-          },
-          {
-            "api": "",
-            "link": "https://livecdn-bp-iptv.rumsport7.live/live_abr/51328/chunks.m3u8?is_vip=false&token=5c57ff950322b9958590e461a3f87acee528f057&x-sign=c9db70e7c3e806d695bac676fa0c9030&x-time=1778690280",
-            "title": "SPY LIVE HD",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://pul-tenm.nbs3g.com/live/hd-en-1-4358311.m3u8?txSecret=9932a4f0cc643bd100da5733ebf70f35&txTime=6A05FAE7",
-            "title": "SPORTIFy Live",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/13 19:00:00 +0000",
-          "eventName": "Espanyol vs Athletic Club",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/13 17:00:00 +0000",
-          "teamA": "Espanyol",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2814/image",
-          "teamB": "Athletic Club",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2825/image"
-        },
-        "id": "403",
-        "image": "o",
-        "publish": "1",
-        "title": "Espanyol vs Athletic Club"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "LaLiga 🇪🇸",
-        "channels_data": [
-          {
-            "api": "7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe",
-            "link": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
-            "title": "FANCODE FHD",
-            "type": "1"
-          },
-          {
-            "api": "709c812e1b4174002605df1d17d34a4c:0bbee6c9c20a0f065bf8369d54cbf83e",
-            "link": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash-sd/enc/qddnwqthpp/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd",
-            "title": "FANCODE - SD",
-            "type": "1"
-          },
-          {
-            "api": "",
-            "link": "https://livecdn-bp-livestream.rumsport7.live/stream/7/chunks.m3u8?is_vip=false&token=5c57ff950322b9958590e461a3f87acee528f057&x-sign=5063584e6ede0387e6126a2ce1640a17&x-time=1778698200",
-            "title": "LALIGA TV HD",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://pul-tenm.nbs3g.com/live/hd-en-1-4358312.m3u8?txSecret=c9e71ea7e1a645bb22c7252a3f8c4f90&txTime=6A061431",
-            "title": "SPORTIFy Live",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/13 21:30:00 +0000",
-          "eventName": "Getafe vs Mallorca",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/13 19:30:00 +0000",
-          "teamA": "Getafe",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2859/image",
-          "teamB": "Mallorca",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2826/image"
-        },
-        "id": "404",
-        "image": "o",
-        "publish": "1",
-        "title": "Getafe vs Mallorca"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "Ligue 1 🇫🇷",
-        "channels_data": [
-          {
-            "api": "0:0",
-            "link": "https://d1yi40sjj0ca0v.cloudfront.net/TVD6412/index.mpd",
-            "title": "ELEVEN SPORTS",
-            "type": "1"
-          },
-          {
-            "api": "",
-            "link": "https://daffodil.ellitescripts.com/beines.m3u8",
-            "title": "beIN Sports ES",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://livecdn-bp-iptv.rumsport7.live/live_abr/398/chunks.m3u8?is_vip=false&token=5c57ff950322b9958590e461a3f87acee528f057&x-sign=9ad8dd8049a77ba1de9c51bc1b0f14d3&x-time=1778693820",
-            "title": "beIN SPORTS US",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/13 19:00:00 +0000",
-          "eventName": "Stade Brestois vs Strasbourg",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/13 17:00:00 +0000",
-          "teamA": "Brest",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/1715/image",
-          "teamB": "Strasbourg",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/1659/image"
-        },
-        "id": "405",
-        "image": "o",
-        "publish": "1",
-        "title": "Stade Brestois vs Strasbourg"
       },
       {
         "adsLimit": "0",
