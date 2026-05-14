@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-14T19:10:28.490781",
+  "last_updated": "2026-05-14T19:20:29.855952",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "12:35:21 AM 15-05-2026",
+    "Last update time": "12:45:28 AM 15-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -772,8 +772,16 @@
         "cat": "MLB",
         "channels_data": [
           {
+            "api": "daa8ea92553fd16cd6bfae2b8c582715:4042e041b5639b79b69ae07a872eef9b",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3n6slkgh54/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd",
+            "logo": "",
+            "title": "TSN SPORTS FHD",
+            "type": "1"
+          },
+          {
             "api": "",
             "link": "https://mainstreams.pro/hls/jnzkdzjfanch23.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+            "logo": "",
             "title": "SPORTIFy Live",
             "type": "0"
           }
@@ -895,20 +903,37 @@
           {
             "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
             "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
+            "logo": "",
             "title": "beIN ENGLISH",
             "type": "1"
           },
           {
             "api": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f",
             "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
+            "logo": "",
             "title": "PREMIER SPORTS",
             "type": "1"
           },
           {
             "api": "620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a",
             "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd",
+            "logo": "",
             "title": "Laliga TV FHD",
             "type": "1"
+          },
+          {
+            "api": "065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2",
+            "link": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
+            "logo": "",
+            "title": "FANCODE FHD",
+            "type": "1"
+          },
+          {
+            "api": "",
+            "link": "https://chatgpt.hereisman.net/playlist/50586/load-playlist?|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "title": "ESPN DEPORTES",
+            "type": "0"
           }
         ],
         "eventInfo": {
@@ -1352,8 +1377,16 @@
         "cat": "MLB",
         "channels_data": [
           {
+            "api": "294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd",
+            "logo": "",
+            "title": "TNT SPORTS FHD",
+            "type": "1"
+          },
+          {
             "api": "",
             "link": "https://edgestreams.pro/hls/ijfnakfidch22.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+            "logo": "",
             "title": "SPORTIFy Live",
             "type": "0"
           }
@@ -1507,7 +1540,7 @@
         ],
         "eventInfo": {
           "endTime": "2026/05/14 20:20:00 +0000",
-          "eventBanner": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_P-zEJKOPebuL3KaAMe8O5Cp-OOUNNHROyVsDgvGE3i7A7tBJS6UjQZY&s=10",
+          "eventBanner": "https://images.skyone.co.nz/mac/479214/DAM/711C5829-96C1-4267-AED6B06CC93A9763.jpg",
           "eventName": "Premier League Darts",
           "eventType": "null",
           "isHot": "0",
@@ -1521,6 +1554,118 @@
         "image": "o",
         "publish": "1",
         "title": "Premier League Darts"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "Copa do Brasil",
+        "channels_data": [
+          {
+            "api": "56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd",
+            "logo": "",
+            "title": "PREMIERER BR",
+            "type": "1"
+          },
+          {
+            "api": "4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733",
+            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd",
+            "logo": "",
+            "title": "SporTV BR",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/14 23:00:00 +0000",
+          "eventName": "Chapecoense vs Botafogo",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/14 21:00:00 +0000",
+          "teamA": "Chapecoense",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/21845/image",
+          "teamB": "Botafogo",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/1958/image"
+        },
+        "id": "417",
+        "image": "o",
+        "publish": "1",
+        "title": "Chapecoense vs Botafogo"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "Copa do Brasil",
+        "channels_data": [
+          {
+            "api": "56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd",
+            "logo": "",
+            "title": "PREMIERER BR",
+            "type": "1"
+          },
+          {
+            "api": "4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733",
+            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd",
+            "logo": "",
+            "title": "SporTV BR",
+            "type": "1"
+          },
+          {
+            "api": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
+            "logo": "",
+            "title": "FOX DEPORTES",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/15 02:30:00 +0000",
+          "eventName": "Vitória vs Flamengo",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/15 00:30:00 +0000",
+          "teamA": "Vitória",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/1962/image",
+          "teamB": "Flamengo",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/5981/image"
+        },
+        "id": "418",
+        "image": "o",
+        "publish": "1",
+        "title": "Vitória vs Flamengo"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "Copa do Brasil",
+        "channels_data": [
+          {
+            "api": "9dc40460c93087aea84d6315f08ecb64:f69c8d4624fddff4ca89bd0b31bdc4a7",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/oy6rp0jwmf/out/v1/580ecf12bad24979baf8dd993dce053e/cenc.mpd",
+            "logo": "",
+            "title": "PREMIERER BR",
+            "type": "1"
+          },
+          {
+            "api": "3de028eafb3b2caffec03be1c1c818b3:8fbdd8a9ae6748696bb13e547bb093fc",
+            "link": "https://otte.cache.aiv-cdn.net/gru-nitro/live/clients/dash/enc/dsa3hwuhd1/out/v1/631b48c8d9ea437e8309d1a4b55acef5/cenc.mpd",
+            "logo": "",
+            "title": "SporTV BR",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/15 00:00:00 +0000",
+          "eventName": "Atlético Goianiense vs Athletico",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/14 22:00:00 +0000",
+          "teamA": "Atlético-GO",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/7314/image",
+          "teamB": "Athletico",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/1967/image"
+        },
+        "id": "419",
+        "image": "o",
+        "publish": "1",
+        "title": "Atlético Goianiense vs Athletico"
       }
     ]
   }
