@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-14T02:00:44.185121",
+  "last_updated": "2026-05-14T02:10:28.228245",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "07:25:16 AM 14-05-2026",
+    "Last update time": "07:35:21 AM 14-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -635,45 +635,6 @@
         "cat": "WNBA",
         "channels_data": [
           {
-            "api": "c4088f5f265f9de50cffd80bf89308b7:2c4d2239d96d532b4ec2050653611003",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
-            "title": "TSN SPORTS FHD",
-            "type": "1"
-          },
-          {
-            "api": "",
-            "link": "https://chatgpt.hereisman.net/playlist/50516/load-playlist?|Referer=https://gooz.aapmains.net",
-            "title": "SPORTIFy NBA",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://edgestreams.pro/hls/bvnsqdfvgha70.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
-            "title": "SPORTIFy Live",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/14 01:40:00 +0000",
-          "eventName": "Toronto Tempo vs Seattle Storm",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/13 23:00:00 +0000",
-          "teamA": "Toronto Tempo",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/1166445/image",
-          "teamB": "Seattle Storm",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3448/image"
-        },
-        "id": "377",
-        "image": "o",
-        "publish": "1",
-        "title": "Toronto Tempo vs Seattle Storm"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "WNBA",
-        "channels_data": [
-          {
             "api": "",
             "link": "https://chatgpt.hereisman.net/playlist/50537/load-playlist?|Referer=https://gooz.aapmains.net",
             "title": "SPORTIFy WNBA",
@@ -751,6 +712,12 @@
         "adsLimit": "0",
         "cat": "WNBA",
         "channels_data": [
+          {
+            "api": "",
+            "link": "https://chatgpt.hereisman.net/playlist/50563/load-playlist?|Referer=https://gooz.aapmains.net",
+            "title": "SPORTIFy WNBA",
+            "type": "0"
+          },
           {
             "api": "",
             "link": "https://xstm.250909.cc/live/SPORTSFLUX-PRD-75441-100/3015d8e2ea17/195.m3u8",
@@ -967,6 +934,12 @@
         "adsLimit": "0",
         "cat": "MLB",
         "channels_data": [
+          {
+            "api": "",
+            "link": "https://chatgpt.hereisman.net/playlist/50560/load-playlist?|Referer=https://gooz.aapmains.net",
+            "title": "SPORTIFy MLB",
+            "type": "0"
+          },
           {
             "api": "",
             "link": "https://mainstreams.pro/hls/hfzljfahzcax29.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
