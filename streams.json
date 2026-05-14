@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-14T11:10:29.631553",
+  "last_updated": "2026-05-14T11:20:20.363581",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "04:35:19 PM 14-05-2026",
+    "Last update time": "04:45:25 PM 14-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -565,6 +565,60 @@
       },
       {
         "adsLimit": "0",
+        "cat": "WNBA",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://edgestreams.pro/hls/bvnsqdfvgha70.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/15 02:40:00 +0000",
+          "eventName": "Dallas Wings vs Minnesota Lynx",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/15 00:00:00 +0000",
+          "teamA": "Wings",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3450/image",
+          "teamB": "Lynx",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3440/image"
+        },
+        "id": "377",
+        "image": "o",
+        "publish": "1",
+        "title": "Dallas Wings vs Minnesota Lynx"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "WNBA",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://edge2caster.pro/hls/ztyarueaghj71.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/15 04:40:00 +0000",
+          "eventName": "Portland Fire vs New York Liberty",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/15 02:00:00 +0000",
+          "teamA": "Fire",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/1166446/image",
+          "teamB": "Liberty",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3446/image"
+        },
+        "id": "378",
+        "image": "o",
+        "publish": "1",
+        "title": "Portland Fire vs New York Liberty"
+      },
+      {
+        "adsLimit": "0",
         "cat": "Pro League 🇸🇦",
         "channels_data": [
           {
@@ -619,6 +673,171 @@
         "image": "o",
         "publish": "1",
         "title": "Al-Ettifaq vs Al-Ittihad"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "NHL",
+        "channels_data": [
+          {
+            "api": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f",
+            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
+            "title": "PREMIER SPORTS",
+            "type": "1"
+          },
+          {
+            "api": "",
+            "link": "https://edge2caster.pro/hls/uyopzarf50.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://instreams.pro/US/NHL1/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
+            "title": "HD SERVER",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/15 02:00:00 +0000",
+          "eventName": "Buffalo Sabres vs Montréal Canadiens",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/14 23:00:00 +0000",
+          "teamA": "Sabres",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3678/image",
+          "teamB": "Canadiens",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3690/image"
+        },
+        "id": "386",
+        "image": "o",
+        "publish": "1",
+        "title": "Buffalo Sabres"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "NHL",
+        "channels_data": [
+          {
+            "api": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f",
+            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
+            "title": "PREMIER SPORTS",
+            "type": "1"
+          },
+          {
+            "api": "",
+            "link": "https://mainstreams.pro/hls/hjksgdfauzy51.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://instreams.pro/US/NHL2/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
+            "title": "HD SERVER",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/15 04:30:00 +0000",
+          "eventName": "Anaheim Ducks vs Vegas Golden Knights",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/15 01:30:00 +0000",
+          "teamA": "Ducks",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3675/image",
+          "teamB": "Golden Knights",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/257523/image"
+        },
+        "id": "387",
+        "image": "o",
+        "publish": "1",
+        "title": "Golden Knights"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "MLB",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://mainstreams.pro/hls/jnzkdzjfanch23.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/15 02:15:00 +0000",
+          "eventName": "Atlanta Braves vs Chicago Cubs",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/14 23:15:00 +0000",
+          "teamA": "Braves",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3656/image",
+          "teamB": "Cubs",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3627/image"
+        },
+        "id": "394",
+        "image": "o",
+        "publish": "1",
+        "title": "Atlanta Braves"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "MLB",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://edgestreams.pro/hls/fskjanach24.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/15 02:40:00 +0000",
+          "eventName": "White Sox vs Kansas City Royals",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/14 23:40:00 +0000",
+          "teamA": "White Sox",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3644/image",
+          "teamB": "Royals",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3651/image"
+        },
+        "id": "395",
+        "image": "o",
+        "publish": "1",
+        "title": "Kansas City Royals"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "MLB",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://mainstreams.pro/hls/kjhfzua25.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://instreams.pro/US/MLB1/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
+            "title": "HD SERVER",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/15 05:10:00 +0000",
+          "eventName": "Los Angeles Dodgers vs Giants",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/15 02:10:00 +0000",
+          "teamA": "Dodgers",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3638/image",
+          "teamB": "Giants",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3634/image"
+        },
+        "id": "399",
+        "image": "o",
+        "publish": "1",
+        "title": "Los Angeles Dodgers"
       },
       {
         "adsLimit": "0",
@@ -1000,6 +1219,39 @@
         "image": "o",
         "publish": "1",
         "title": "Red Sox vs Philadelphia Phillies"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "League One 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://chatgpt.hereisman.net/playlist/50512/load-playlist?|Referer=https://gooz.aapmains.net",
+            "title": "SPORTIFy MLB",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://mainstreams.pro/hls/ihfazugfyjcazich17.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/14 21:00:00 +0000",
+          "eventName": "Bradford City vs Bolton Wanderers",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/14 19:00:00 +0000",
+          "teamA": "Bradford",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/22/image",
+          "teamB": "Bolton",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/5/image"
+        },
+        "id": "413",
+        "image": "o",
+        "publish": "1",
+        "title": "Bradford City vs Bolton Wanderers"
       }
     ]
   }
