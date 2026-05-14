@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-14T19:30:35.212133",
+  "last_updated": "2026-05-14T19:40:22.764424",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "12:55:22 AM 15-05-2026",
+    "Last update time": "01:05:56 AM 15-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -1269,7 +1269,7 @@
           {
             "api": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f",
             "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
-            "logo": "",
+            "logo": "https://play-lh.googleusercontent.com/zG_ZS5v4PfHqWqWLkpVkZB9wRu9MJmEqD4tNpeIYwLOcjU3INQlFeTxoVgwV1R2CbcsI",
             "title": "PREMIER SPORTS",
             "type": "1"
           },
@@ -1283,15 +1283,29 @@
           {
             "api": "065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2",
             "link": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
-            "logo": "",
+            "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png",
             "title": "FANCODE FHD",
             "type": "1"
+          },
+          {
+            "api": "",
+            "link": "https://iptv.852851.xyz/ch/8a2742ca6f44887706dc2cd75a458de3/master.m3u8",
+            "logo": "",
+            "title": "beIN SPORTS HD",
+            "type": "0"
           },
           {
             "api": "",
             "link": "https://chatgpt.hereisman.net/playlist/50586/load-playlist?|Referer=https://gooz.aapmains.net",
             "logo": "",
             "title": "ESPN DEPORTES",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/yUsX6j0ECDS0_amIkEmoqaxJjHjrozZxkctyjlWx2t-arm-dvPoJbO4HmVEgMc8zO1UnGrEgMnEZ8za6sAXeCQ/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_delta.m3u8?type=live",
+            "logo": "",
+            "title": "beIN ARABIC HD",
             "type": "0"
           },
           {
@@ -1338,8 +1352,16 @@
             "title": "FANCODE FHD"
           },
           {
+            "logo": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg",
+            "title": "beIN SPORTS HD"
+          },
+          {
             "logo": "",
             "title": "ESPN DEPORTES"
+          },
+          {
+            "logo": "",
+            "title": "beIN ARABIC HD"
           },
           {
             "logo": "",
@@ -1467,6 +1489,13 @@
             "type": "1"
           },
           {
+            "api": "",
+            "link": "https://iptv.852851.xyz/ch/30cc0805acb2aada8da9e2ae3fad5b5c/master.m3u8",
+            "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png",
+            "title": "beIN SPORTS HD",
+            "type": "0"
+          },
+          {
             "api": "709c812e1b4174002605df1d17d34a4c:0bbee6c9c20a0f065bf8369d54cbf83e",
             "link": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash-sd/enc/qddnwqthpp/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd",
             "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png",
@@ -1517,6 +1546,10 @@
           {
             "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png",
             "title": "FANCODE FHD"
+          },
+          {
+            "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png",
+            "title": "beIN SPORTS HD"
           },
           {
             "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png",
