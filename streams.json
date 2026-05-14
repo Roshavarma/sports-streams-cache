@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-14T04:30:34.592958",
+  "last_updated": "2026-05-14T04:40:20.810357",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "09:55:20 AM 14-05-2026",
+    "Last update time": "10:05:26 AM 14-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -1024,22 +1024,16 @@
         "cat": "EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
         "channels_data": [
           {
-            "api": "",
-            "link": "https://play.ltwxsc.com/live/sd-6Mwe5HYjCpdpRkw31Y.m3u8?txSecret=46216054bdfa6d76a7ad6ccb8ed3a4b0&txTime=6A05592A",
-            "title": "SPORTIFy Live",
-            "type": "0"
+            "api": "dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd",
+            "title": "FUBO SPORTS",
+            "type": "1"
           },
           {
-            "api": "",
-            "link": "https://bobis.zaglemplokis.online/premium66/tracks-v1a1/mono.m3u8|Referer=https://donis.jimpenopisonline.online/",
-            "title": "HD SERVER",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://instreams.pro/bil1/tudn/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
-            "title": "SD SERVER",
-            "type": "0"
+            "api": "0:0",
+            "link": "https://d1yi40sjj0ca0v.cloudfront.net/TVD6219/index.mpd",
+            "title": "NOVA SPORTS PL",
+            "type": "1"
           }
         ],
         "eventInfo": {
@@ -1067,6 +1061,211 @@
         "image": "o",
         "publish": "1",
         "title": "Aston Villa vs Liverpool"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "LaLiga 🇪🇸",
+        "channels_data": [
+          {
+            "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
+            "title": "beIN ENGLISH",
+            "type": "1"
+          },
+          {
+            "api": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f",
+            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
+            "title": "PREMIER SPORTS",
+            "type": "1"
+          },
+          {
+            "api": "620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a",
+            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd",
+            "title": "Laliga TV FHD",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/14 21:30:00 +0000",
+          "eventName": "Real Madrid vs Real Oviedo",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/14 19:30:00 +0000",
+          "teamA": "Real Madrid",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2829/image",
+          "teamB": "Real Oviedo",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2851/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "beIN ENGLISH"
+          },
+          {
+            "logo": "",
+            "title": "PREMIER SPORTS"
+          },
+          {
+            "logo": "",
+            "title": "Laliga TV FHD"
+          }
+        ],
+        "id": "401",
+        "image": "o",
+        "publish": "1",
+        "title": "Real Madrid vs Real Oviedo"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "LaLiga 🇪🇸",
+        "channels_data": [
+          {
+            "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
+            "title": "beIN ENGLISH",
+            "type": "1"
+          },
+          {
+            "api": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f",
+            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
+            "title": "PREMIER SPORTS",
+            "type": "1"
+          },
+          {
+            "api": "620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a",
+            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd",
+            "title": "Laliga TV FHD",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/14 19:00:00 +0000",
+          "eventName": "Valencia vs Rayo Vallecano",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/14 17:00:00 +0000",
+          "teamA": "Valencia",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2828/image",
+          "teamB": "Rayo Vallecano",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2818/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "beIN ENGLISH"
+          },
+          {
+            "logo": "",
+            "title": "PREMIER SPORTS"
+          },
+          {
+            "logo": "",
+            "title": "Laliga TV FHD"
+          }
+        ],
+        "id": "402",
+        "image": "o",
+        "publish": "1",
+        "title": "Valencia vs Rayo Vallecano"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "LaLiga 🇪🇸",
+        "channels_data": [
+          {
+            "api": "7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe",
+            "link": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
+            "title": "FANCODE FHD",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/14 20:00:00 +0000",
+          "eventName": "Girona vs Real Sociedad",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/14 18:00:00 +0000",
+          "teamA": "Girona",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/24264/image",
+          "teamB": "Real Sociedad",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2824/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "FANCODE FHD"
+          }
+        ],
+        "id": "403",
+        "image": "o",
+        "publish": "1",
+        "title": "Girona vs Real Sociedad"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "Pro League 🇸🇦",
+        "channels_data": [
+          {
+            "api": "0:0",
+            "link": "https://d1yi40sjj0ca0v.cloudfront.net/TVD1403/index.mpd",
+            "title": "THMANYAH HD",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/14 17:55:00 +0000",
+          "eventName": "Al-Fateh vs Al-Najma",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/14 15:55:00 +0000",
+          "teamA": "Al-Fateh",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/56023/image",
+          "teamB": "Al-Najma",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/395831/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "THMANYAH HD"
+          }
+        ],
+        "id": "404",
+        "image": "o",
+        "publish": "1",
+        "title": "Al-Fateh vs Al-Najma"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "Pro League 🇸🇦",
+        "channels_data": [
+          {
+            "api": "0:0",
+            "link": "https://d1yi40sjj0ca0v.cloudfront.net/TVD1403/index.mpd",
+            "title": "THMANYAH HD",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/14 20:00:00 +0000",
+          "eventName": "Al-Qadsiah vs Al-Hazem",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/14 18:00:00 +0000",
+          "teamA": "Al-Qadsiah",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/56027/image",
+          "teamB": "Al-Hazem",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/168086/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "THMANYAH HD"
+          }
+        ],
+        "id": "405",
+        "image": "o",
+        "publish": "1",
+        "title": "Al-Qadsiah vs Al-Hazem"
       }
     ]
   }
