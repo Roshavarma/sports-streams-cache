@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-14T17:01:16.020660",
+  "last_updated": "2026-05-14T17:10:42.427047",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "10:30:58 PM 14-05-2026",
+    "Last update time": "10:35:50 PM 14-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -972,6 +972,20 @@
             "logo": "",
             "title": "ESPN DEPORTES",
             "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://livecdn-bp-livestream.rumsport7.live/stream/7/chunks.m3u8?is_vip=false&token=e254df315db9db5d82529ccb4791d76d96294e4d&x-sign=876c23a8f89b6a4661f15b41794a58fb&x-time=1778777880",
+            "logo": "",
+            "title": "LALIGA TV HD",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://livecdn-bp-iptv.rumsport7.live/live_abr/112520/chunks.m3u8?is_vip=false&token=e254df315db9db5d82529ccb4791d76d96294e4d&x-sign=b3cafac910fb39ce6a8029e9f7a59a0e&x-time=1778777940",
+            "logo": "",
+            "title": "PREMIER SPORTS HD",
+            "type": "0"
           }
         ],
         "eventInfo": {
@@ -1374,6 +1388,34 @@
         "image": "o",
         "publish": "1",
         "title": "Minnesota Twins vs Miami Marlins"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "FA Cup",
+        "channels_data": [
+          {
+            "api": "294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd",
+            "logo": "",
+            "title": "TNT SPORTS FHD",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/14 20:05:00 +0000",
+          "eventName": "Man City U18 vs Man United U18",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/14 18:00:00 +0000",
+          "teamA": "Man City U18",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/758669/image",
+          "teamB": "Man United U18",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/759484/image"
+        },
+        "id": "415",
+        "image": "o",
+        "publish": "1",
+        "title": "Man City U18 vs Man United U18"
       }
     ]
   }
