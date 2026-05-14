@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-14T17:50:26.787031",
+  "last_updated": "2026-05-14T18:00:45.154156",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "11:15:31 PM 14-05-2026",
+    "Last update time": "11:25:24 PM 14-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -645,40 +645,11 @@
         "cat": "Pro League 🇸🇦",
         "channels_data": [
           {
-            "api": "7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe",
-            "link": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
-            "title": "FANCODE FHD",
-            "type": "1"
-          },
-          {
-            "api": "4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733",
-            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd",
-            "title": "SporTV BR FHD",
-            "type": "1"
-          },
-          {
             "api": "",
-            "link": "https://chatgpt.hereisman.net/playlist/50446/load-playlist?|Referer=https://gooz.aapmains.net",
-            "title": "FOX SOCCER+",
-            "type": "0"
-          },
-          {
-            "api": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
-            "title": "FOX DEPORTES",
-            "type": "1"
-          },
-          {
-            "api": "0:0",
-            "link": "https://d1yi40sjj0ca0v.cloudfront.net/TVD1403/index.mpd",
+            "link": "ok",
+            "logo": "https://play-lh.googleusercontent.com/ypuM96a7NhvRqadsfqZYsLKEdJfMi6Wz2lQL2xk2DbUVjuaF8ggtRwpQyiI36va_LQ--4MdOhPgSsJQUso_xTw",
             "title": "THMANYAH HD",
-            "type": "1"
-          },
-          {
-            "api": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
-            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
-            "title": "SportDigital Fussball",
-            "type": "1"
+            "type": "0"
           }
         ],
         "eventInfo": {
@@ -1035,6 +1006,13 @@
             "logo": "",
             "title": "SPORTIFy Live",
             "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://chatgpt.hereisman.net/playlist/50581/load-playlist?|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "title": "HD SERVER",
+            "type": "0"
           }
         ],
         "eventInfo": {
@@ -1268,7 +1246,15 @@
         "channels_data": [
           {
             "api": "",
+            "link": "https://chatgpt.hereisman.net/playlist/50582/load-playlist?|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "title": "SPORTIFy MLB",
+            "type": "0"
+          },
+          {
+            "api": "",
             "link": "https://edgestreams.pro/hls/jkzahzadach20.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+            "logo": "",
             "title": "SPORTIFy Live",
             "type": "0"
           }
