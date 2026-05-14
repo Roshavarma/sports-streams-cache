@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-14T18:10:26.512139",
+  "last_updated": "2026-05-14T18:20:29.508600",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "11:35:20 PM 14-05-2026",
+    "Last update time": "11:45:25 PM 14-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -646,6 +646,13 @@
         "channels_data": [
           {
             "api": "",
+            "link": "https://pul-tenm.nbs3g.com/live/sd-1-4404634.m3u8?txSecret=1601f43db308e03028baed3888c5e96f&txTime=6A076106",
+            "logo": "https://play-lh.googleusercontent.com/ypuM96a7NhvRqadsfqZYsLKEdJfMi6Wz2lQL2xk2DbUVjuaF8ggtRwpQyiI36va_LQ--4MdOhPgSsJQUso_xTw",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          },
+          {
+            "api": "",
             "link": "https://22syrialive.s3.us-east-2.amazonaws.com/ssc1/master.m3u8|referer=https://a11.kooora-sia.com/",
             "logo": "https://play-lh.googleusercontent.com/ypuM96a7NhvRqadsfqZYsLKEdJfMi6Wz2lQL2xk2DbUVjuaF8ggtRwpQyiI36va_LQ--4MdOhPgSsJQUso_xTw",
             "title": "THMANYAH - AQ",
@@ -933,7 +940,7 @@
           {
             "api": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f",
             "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
-            "logo": "",
+            "logo": "https://play-lh.googleusercontent.com/zG_ZS5v4PfHqWqWLkpVkZB9wRu9MJmEqD4tNpeIYwLOcjU3INQlFeTxoVgwV1R2CbcsI",
             "title": "PREMIER SPORTS",
             "type": "1"
           },
@@ -947,7 +954,7 @@
           {
             "api": "7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe",
             "link": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
-            "logo": "",
+            "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png",
             "title": "FANCODE FHD",
             "type": "1"
           },
@@ -968,7 +975,7 @@
           {
             "api": "",
             "link": "https://livecdn-bp-iptv.rumsport7.live/live_abr/112520/chunks.m3u8?is_vip=false&token=e254df315db9db5d82529ccb4791d76d96294e4d&x-sign=b3cafac910fb39ce6a8029e9f7a59a0e&x-time=1778777940",
-            "logo": "",
+            "logo": "https://play-lh.googleusercontent.com/zG_ZS5v4PfHqWqWLkpVkZB9wRu9MJmEqD4tNpeIYwLOcjU3INQlFeTxoVgwV1R2CbcsI",
             "title": "PREMIER SPORTS HD",
             "type": "0"
           }
@@ -1009,9 +1016,16 @@
           },
           {
             "api": "",
-            "link": "https://livecdn-bp-livestream.rumsport7.live/stream/8/chunks.m3u8?is_vip=false&token=e254df315db9db5d82529ccb4791d76d96294e4d&x-sign=ce02763377b2e0bdd1d5a61014e11913&x-time=1778780460",
+            "link": "https://chatgpt.hereisman.net/playlist/50581/load-playlist?|Referer=https://gooz.aapmains.net",
             "logo": "",
             "title": "LALIGA TV HD",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://livecdn-bp-livestream.rumsport7.live/stream/8/chunks.m3u8?is_vip=false&token=e254df315db9db5d82529ccb4791d76d96294e4d&x-sign=ce02763377b2e0bdd1d5a61014e11913&x-time=1778780460",
+            "logo": "",
+            "title": "SPY HD LIVE",
             "type": "0"
           },
           {
@@ -1023,9 +1037,9 @@
           },
           {
             "api": "",
-            "link": "https://chatgpt.hereisman.net/playlist/50581/load-playlist?|Referer=https://gooz.aapmains.net",
+            "link": "https://play.ltwxsc.com/live/hd-en-6MuSsYd5fCEyE8KraA.m3u8?txSecret=f634e089d3a715309ba06dd91a50d7db&txTime=6A063849",
             "logo": "",
-            "title": "HD SERVER",
+            "title": "FAST SERVER",
             "type": "0"
           }
         ],
@@ -1079,7 +1093,14 @@
         "channels_data": [
           {
             "api": "",
-            "link": "https://rolis.drompakisdoulesonline.online/premium6/index.m3u8|referer=https://donis.jimpenopisonline.online/",
+            "link": "https://pul-tenm.nbs3g.com/live/sd-1-4404644.m3u8?txSecret=23b8284537c9a3bd526a45a869ad644f&txTime=6A07608D",
+            "logo": "",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://rolis.drompakisdoulesonline.online/premium6/tracks-v1a1/mono.m3u8|referer=https://donis.jimpenopisonline.online/",
             "logo": "",
             "title": "THMANYAH HD",
             "type": "0"
