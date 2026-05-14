@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-14T03:40:20.665810",
+  "last_updated": "2026-05-14T03:50:23.622274",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "09:05:23 AM 14-05-2026",
+    "Last update time": "09:15:26 AM 14-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -581,57 +581,6 @@
       },
       {
         "adsLimit": "0",
-        "cat": "NBA",
-        "channels_data": [
-          {
-            "api": "e51aa21f2a0fef9aabc120dfb655b52f:a12a987fe725a40b6be95cd84b15f689",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
-            "title": "TSN SPORTS FHD",
-            "type": "1"
-          },
-          {
-            "api": "326058ffe1cd4d3383781b36ca9145d1:99d405d46f114eff96789673e57d0121",
-            "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1778796599~acl=%2F*~id=f9aaa618-2abc-433a-ae81-580ba52768f2~data=hdntl,aXA9MjA4Ljg3LjI0Mi4xOTkmZXhwPTE3Nzg3MTAyMjkmZWlkPTkzODU0NiZvaWQ9MTU0JnR5cGU9Vk9EJnVpZD14UlJxbzl8YmNhZWE3Y2YtYzMzNy00MDM5LTgxNTgtM2MxY2U0OWU3MjkzJmNpZD1kY2UuZmlzZmVkJnB0PW51bGw~hmac=3fbf81d800b2753d1d66b783a20c7a37a68ffd8010f23a1aaf1e1856cc1970d3/dash/live/2093723/219038-321034/manifest-d.mpd",
-            "title": "ESPN TV FHD",
-            "type": "1"
-          },
-          {
-            "api": "",
-            "link": "https://chatgpt.hereisman.net/playlist/50535/load-playlist?|Referer=https://gooz.aapmains.net",
-            "title": "SPORTIFy NBA",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://mainstreams.pro/hls/mlkijfezag65.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
-            "title": "SPORTIFy Live",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://instreams.pro/US/NBA1/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
-            "title": "HD SERVER",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/14 03:00:00 +0000",
-          "eventName": "Detroit Pistons vs Cleveland Cavaliers",
-          "eventType": "null",
-          "isHot": "1",
-          "startTime": "2026/05/14 00:00:00 +0000",
-          "teamA": "Pistons",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3424/image",
-          "teamB": "Cavaliers",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3432/image"
-        },
-        "id": "373",
-        "image": "o",
-        "publish": "1",
-        "title": "Cleveland Cavaliers"
-      },
-      {
-        "adsLimit": "0",
         "cat": "WNBA",
         "channels_data": [
           {
@@ -758,156 +707,6 @@
         "image": "o",
         "publish": "1",
         "title": "Sparks vs Indiana Fever"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "NHL",
-        "channels_data": [
-          {
-            "api": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f",
-            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
-            "title": "PREMIER SPORTS",
-            "type": "1"
-          },
-          {
-            "api": "a01e1e0d5fb145b8b33190588490a27a:bfd9e3b0866e49cbae1bb7f7116451c9",
-            "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1778796598~acl=%2F*~id=8171d523-c770-4ab7-abb0-193ef3644d0b~data=hdntl,aXA9MjA4Ljg3LjI0Mi4xOTkmZXhwPTE3Nzg3MTAyMjgmZWlkPTkzNTYyNCZvaWQ9MTU0JnR5cGU9Vk9EJnVpZD14UlJxbzl8YmNhZWE3Y2YtYzMzNy00MDM5LTgxNTgtM2MxY2U0OWU3MjkzJmNpZD1kY2UuZmlzZmVkJnB0PW51bGw~hmac=af2ea76f8205dc291c82c9b80c1386c0e5746e919fcb8168c1012fbdfcfa04d6/dash/live/2093724/219039-321035/manifest-d.mpd",
-            "title": "ESPN TV FHD",
-            "type": "1"
-          },
-          {
-            "api": "",
-            "link": "https://chatgpt.hereisman.net/playlist/50539/load-playlist?|Referer=https://gooz.aapmains.net",
-            "title": "SPORTIFy NHL",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://mainstreams.pro/hls/uyopzarf50.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
-            "title": "SPORTIFy Live",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://instreams.pro/US/NHL1/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
-            "title": "HD SERVER",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/14 03:00:00 +0000",
-          "eventName": "Colorado Avalanche vs Minnesota Wild",
-          "eventType": "null",
-          "isHot": "1",
-          "startTime": "2026/05/14 00:00:00 +0000",
-          "teamA": "Avalanche",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3682/image",
-          "teamB": "Wild",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3689/image"
-        },
-        "id": "386",
-        "image": "o",
-        "publish": "1",
-        "title": "Colorado Avalanche"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "MLB",
-        "channels_data": [
-          {
-            "api": "",
-            "link": "https://chatgpt.hereisman.net/playlist/50532/load-playlist?|Referer=https://gooz.aapmains.net",
-            "title": "SPORTIFy MLB",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://mainstreams.pro/hls/fskjanach24.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-            "title": "SPORTIFy Live",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/14 02:40:00 +0000",
-          "eventName": "Minnesota Twins vs Miami Marlins",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/13 23:40:00 +0000",
-          "teamA": "Twins",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3649/image",
-          "teamB": "Marlins",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3639/image"
-        },
-        "id": "394",
-        "image": "o",
-        "publish": "1",
-        "title": "Minnesota Twins"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "MLB",
-        "channels_data": [
-          {
-            "api": "",
-            "link": "https://chatgpt.hereisman.net/playlist/50541/load-playlist?|Referer=https://gooz.aapmains.net",
-            "title": "SPORTIFy MLB",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://mainstreams.pro/hls/dzjhkfazbka26.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-            "title": "SPORTIFy Live",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/14 03:05:00 +0000",
-          "eventName": "Texas Rangers vs Arizona Diamondbacks",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/14 00:05:00 +0000",
-          "teamA": "Rangers",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3647/image",
-          "teamB": "Diamondbacks",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3640/image"
-        },
-        "id": "395",
-        "image": "o",
-        "publish": "1",
-        "title": "Arizona Diamondbacks"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "MLB",
-        "channels_data": [
-          {
-            "api": "",
-            "link": "https://chatgpt.hereisman.net/playlist/50543/load-playlist?|Referer=https://gooz.aapmains.net",
-            "title": "SPORTIFy MLB",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://mainstreams.pro/hls/jzabfazkbf27.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-            "title": "SPORTIFy Live",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/14 03:10:00 +0000",
-          "eventName": "Houston Astros vs Seattle Mariners",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/14 00:10:00 +0000",
-          "teamA": "Astros",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3655/image",
-          "teamB": "Mariners",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3641/image"
-        },
-        "id": "397",
-        "image": "o",
-        "publish": "1",
-        "title": "Houston Astros"
       },
       {
         "adsLimit": "0",
