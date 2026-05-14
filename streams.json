@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-14T15:00:51.662310",
+  "last_updated": "2026-05-14T15:10:26.284245",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "08:25:24 PM 14-05-2026",
+    "Last update time": "08:35:26 PM 14-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -1401,6 +1401,7 @@
           {
             "api": "0:0",
             "link": "https://d1yi40sjj0ca0v.cloudfront.net/TVD1403/index.mpd",
+            "logo": "https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/2773c8192657457.696432bbe65ed.jpg",
             "title": "THMANYAH HD",
             "type": "1"
           }
@@ -1418,7 +1419,7 @@
         },
         "formatsNew": [
           {
-            "logo": "",
+            "logo": "https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/2773c8192657457.696432bbe65ed.jpg",
             "title": "THMANYAH HD"
           }
         ],
