@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-14T23:00:54.520809",
+  "last_updated": "2026-05-14T23:10:28.478570",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "04:25:22 AM 15-05-2026",
+    "Last update time": "04:35:19 AM 15-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -916,73 +916,6 @@
       },
       {
         "adsLimit": "0",
-        "cat": "Pro League 🇸🇦",
-        "channels_data": [
-          {
-            "api": "",
-            "link": "https://pul-tenm.nbs3g.com/live/sd-1-4404634.m3u8?txSecret=1601f43db308e03028baed3888c5e96f&txTime=6A076106",
-            "logo": "https://play-lh.googleusercontent.com/ypuM96a7NhvRqadsfqZYsLKEdJfMi6Wz2lQL2xk2DbUVjuaF8ggtRwpQyiI36va_LQ--4MdOhPgSsJQUso_xTw",
-            "title": "SPORTIFy Live",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://22syrialive.s3.us-east-2.amazonaws.com/ssc1/master.m3u8|referer=https://a11.kooora-sia.com/",
-            "logo": "https://play-lh.googleusercontent.com/ypuM96a7NhvRqadsfqZYsLKEdJfMi6Wz2lQL2xk2DbUVjuaF8ggtRwpQyiI36va_LQ--4MdOhPgSsJQUso_xTw",
-            "title": "THMANYAH - AQ",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://rolis.drompakisdoulesonline.online/premium5/index.m3u8|referer=https://donis.jimpenopisonline.online/",
-            "logo": "https://play-lh.googleusercontent.com/ypuM96a7NhvRqadsfqZYsLKEdJfMi6Wz2lQL2xk2DbUVjuaF8ggtRwpQyiI36va_LQ--4MdOhPgSsJQUso_xTw",
-            "title": "THMANYAH HD",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://cdnvipwaytv.multtv.tv.br:4443/LLtk48bNzvX8q3htxtM4Xg/1778953972/bpk-tv/BANDSPORT/default/index.m3u8",
-            "logo": "",
-            "title": "BANDSPORTS HD",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/14 20:00:00 +0000",
-          "eventName": "Al-Ettifaq vs Al-Ittihad",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/14 18:00:00 +0000",
-          "teamA": "Al-Ettifaq",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/34318/image",
-          "teamB": "Al-Ittihad",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/34315/image"
-        },
-        "formatsNew": [
-          {
-            "logo": "https://play-lh.googleusercontent.com/ypuM96a7NhvRqadsfqZYsLKEdJfMi6Wz2lQL2xk2DbUVjuaF8ggtRwpQyiI36va_LQ--4MdOhPgSsJQUso_xTw",
-            "title": "SportzX Live"
-          },
-          {
-            "logo": "https://play-lh.googleusercontent.com/ypuM96a7NhvRqadsfqZYsLKEdJfMi6Wz2lQL2xk2DbUVjuaF8ggtRwpQyiI36va_LQ--4MdOhPgSsJQUso_xTw",
-            "title": "THMANYAH - AQ"
-          },
-          {
-            "logo": "https://play-lh.googleusercontent.com/ypuM96a7NhvRqadsfqZYsLKEdJfMi6Wz2lQL2xk2DbUVjuaF8ggtRwpQyiI36va_LQ--4MdOhPgSsJQUso_xTw",
-            "title": "THMANYAH HD"
-          },
-          {
-            "logo": "",
-            "title": "BANDSPORTS HD"
-          }
-        ],
-        "id": "385",
-        "image": "o",
-        "publish": "1",
-        "title": "Al-Ettifaq vs Al-Ittihad"
-      },
-      {
-        "adsLimit": "0",
         "cat": "NHL",
         "channels_data": [
           {
@@ -1327,7 +1260,7 @@
           "endTime": "2026/05/14 21:30:00 +0000",
           "eventName": "Real Madrid vs Real Oviedo",
           "eventType": "null",
-          "isHot": "1",
+          "isHot": "0",
           "startTime": "2026/05/14 19:30:00 +0000",
           "teamA": "Real Madrid",
           "teamAFlag": "https://img.sofascore.com/api/v1/team/2829/image",
