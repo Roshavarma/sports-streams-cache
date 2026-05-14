@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-14T18:00:45.154156",
+  "last_updated": "2026-05-14T18:10:26.512139",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "11:25:24 PM 14-05-2026",
+    "Last update time": "11:35:20 PM 14-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -646,9 +646,23 @@
         "channels_data": [
           {
             "api": "",
-            "link": "ok",
+            "link": "https://22syrialive.s3.us-east-2.amazonaws.com/ssc1/master.m3u8|referer=https://a11.kooora-sia.com/",
+            "logo": "https://play-lh.googleusercontent.com/ypuM96a7NhvRqadsfqZYsLKEdJfMi6Wz2lQL2xk2DbUVjuaF8ggtRwpQyiI36va_LQ--4MdOhPgSsJQUso_xTw",
+            "title": "THMANYAH - AQ",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://rolis.drompakisdoulesonline.online/premium5/index.m3u8|referer=https://donis.jimpenopisonline.online/",
             "logo": "https://play-lh.googleusercontent.com/ypuM96a7NhvRqadsfqZYsLKEdJfMi6Wz2lQL2xk2DbUVjuaF8ggtRwpQyiI36va_LQ--4MdOhPgSsJQUso_xTw",
             "title": "THMANYAH HD",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://cdnvipwaytv.multtv.tv.br:4443/LLtk48bNzvX8q3htxtM4Xg/1778953972/bpk-tv/BANDSPORT/default/index.m3u8",
+            "logo": "",
+            "title": "BANDSPORTS HD",
             "type": "0"
           }
         ],
@@ -1064,10 +1078,11 @@
         "cat": "Pro League 🇸🇦",
         "channels_data": [
           {
-            "api": "0:0",
-            "link": "https://d1yi40sjj0ca0v.cloudfront.net/TVD1403/index.mpd",
+            "api": "",
+            "link": "https://rolis.drompakisdoulesonline.online/premium6/index.m3u8|referer=https://donis.jimpenopisonline.online/",
+            "logo": "",
             "title": "THMANYAH HD",
-            "type": "1"
+            "type": "0"
           }
         ],
         "eventInfo": {
