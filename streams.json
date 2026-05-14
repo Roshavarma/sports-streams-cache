@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-14T02:10:28.228245",
+  "last_updated": "2026-05-14T02:20:29.059836",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "07:35:21 AM 14-05-2026",
+    "Last update time": "07:45:28 AM 14-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -720,6 +720,12 @@
           },
           {
             "api": "",
+            "link": "https://iptv.852851.xyz/ch/8e7f4d61756a334943773b8e3c7b1e48/master.m3u8",
+            "title": "SKY MAIN EVENT",
+            "type": "0"
+          },
+          {
+            "api": "",
             "link": "https://xstm.250909.cc/live/SPORTSFLUX-PRD-75441-100/3015d8e2ea17/195.m3u8",
             "title": "USA NETWORK",
             "type": "0"
@@ -945,6 +951,12 @@
             "link": "https://mainstreams.pro/hls/hfzljfahzcax29.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
             "title": "SPORTIFy Live",
             "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://instreams.pro/US/MLB1/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
+            "title": "HD SERVER",
+            "type": "0"
           }
         ],
         "eventInfo": {
@@ -969,8 +981,20 @@
         "channels_data": [
           {
             "api": "",
-            "link": "https://fallback-video.ivan-flux.workers.dev/video/index.m3u8",
+            "link": "https://play.ltwxsc.com/live/sd-6Mwe5HYjCpdpRkw31Y.m3u8?txSecret=46216054bdfa6d76a7ad6ccb8ed3a4b0&txTime=6A05592A",
             "title": "SPORTIFy Live",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://bobis.zaglemplokis.online/premium66/tracks-v1a1/mono.m3u8|Referer=https://donis.jimpenopisonline.online/",
+            "title": "HD SERVER",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://instreams.pro/bil1/tudn/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
+            "title": "SD SERVER",
             "type": "0"
           }
         ],
@@ -1082,51 +1106,6 @@
         "image": "o",
         "publish": "1",
         "title": "Manchester City vs Crystal Palace"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "MLS 🇺🇸",
-        "channels_data": [
-          {
-            "api": "",
-            "link": "https://chatgpt.hereisman.net/playlist/50526/load-playlist?|Referer=https://gooz.aapmains.net",
-            "title": "APPLE TV HD",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://live.vivo200.com/live/sd-1-4460271.m3u8?txSecret=cc5876afe0778d4bc55432086ff5bfa6&txTime=6A054C97|Referer=https://player.online909.com/",
-            "title": "SPORTIFy Live",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://bobis.zaglemplokis.online/premium76/tracks-v1a1/mono.m3u8|Referer=https://donis.jimpenopisonline.online/",
-            "title": "HD SERVER",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://play.ltwxsc.com/live/sd-6MvZ6B8Wj9Qky4Pmn6.m3u8?txSecret=6b35dd8d437f78ab2f813d6e723ee6f3&txTime=6A053601",
-            "title": "FAST SERVER",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/14 01:30:00 +0000",
-          "eventName": "Cincinnati vs Inter Miami",
-          "eventType": "null",
-          "isHot": "1",
-          "startTime": "2026/05/13 23:30:00 +0000",
-          "teamA": "Cincinnati",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/215167/image",
-          "teamB": "Inter Miami",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/337602/image"
-        },
-        "id": "409",
-        "image": "o",
-        "publish": "1",
-        "title": "Cincinnati vs Inter Miami"
       },
       {
         "adsLimit": "0",
@@ -1403,51 +1382,6 @@
         "cat": "Copa do Brasil",
         "channels_data": [
           {
-            "api": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
-            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
-            "title": "PREMIER SPORTS",
-            "type": "1"
-          },
-          {
-            "api": "56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd",
-            "title": "PREMIERER BR",
-            "type": "1"
-          },
-          {
-            "api": "4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733",
-            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd",
-            "title": "SporTV BR",
-            "type": "1"
-          },
-          {
-            "api": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
-            "title": "FOX DEPORTES",
-            "type": "1"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/14 00:00:00 +0000",
-          "eventName": "Juventude vs São Paulo",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/13 22:00:00 +0000",
-          "teamA": "Juventude",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/1980/image",
-          "teamB": "São Paulo",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/1981/image"
-        },
-        "id": "420",
-        "image": "o",
-        "publish": "1",
-        "title": "Juventude vs São Paulo"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "Copa do Brasil",
-        "channels_data": [
-          {
             "api": "9dc40460c93087aea84d6315f08ecb64:f69c8d4624fddff4ca89bd0b31bdc4a7",
             "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/oy6rp0jwmf/out/v1/580ecf12bad24979baf8dd993dce053e/cenc.mpd",
             "title": "PREMIERER BR",
@@ -1481,39 +1415,6 @@
         "cat": "Copa do Brasil",
         "channels_data": [
           {
-            "api": "9dc40460c93087aea84d6315f08ecb64:f69c8d4624fddff4ca89bd0b31bdc4a7",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/oy6rp0jwmf/out/v1/580ecf12bad24979baf8dd993dce053e/cenc.mpd",
-            "title": "PREMIERER BR",
-            "type": "1"
-          },
-          {
-            "api": "3de028eafb3b2caffec03be1c1c818b3:8fbdd8a9ae6748696bb13e547bb093fc",
-            "link": "https://otte.cache.aiv-cdn.net/gru-nitro/live/clients/dash/enc/dsa3hwuhd1/out/v1/631b48c8d9ea437e8309d1a4b55acef5/cenc.mpd",
-            "title": "SporTV BR",
-            "type": "1"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/14 00:00:00 +0000",
-          "eventName": "Vasco da Gama vs Paysandu",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/13 22:00:00 +0000",
-          "teamA": "Vasco",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/1974/image",
-          "teamB": "Paysandu",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/1997/image"
-        },
-        "id": "422",
-        "image": "o",
-        "publish": "1",
-        "title": "Vasco da Gama vs Paysandu"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "Copa do Brasil",
-        "channels_data": [
-          {
             "api": "56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3",
             "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd",
             "title": "PREMIERER BR",
@@ -1541,39 +1442,6 @@
         "image": "o",
         "publish": "1",
         "title": "Ceará vs Atlético Mineiro"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "Copa do Brasil",
-        "channels_data": [
-          {
-            "api": "51394da99a5b49d25f253ccc87e0e045:fba4ac0c7199ed634e69820277cb5092",
-            "link": "https://otte.cache.aiv-cdn.net/gru-nitro/live/clients/dash/enc/rqinjldrpp/out/v1/bf6c4f84f1fe4a1b850e19a0c9d16e8f/cenc.mpd",
-            "title": "PRIME VIDEO FHD",
-            "type": "1"
-          },
-          {
-            "api": "",
-            "link": "https://image-storage-31.imgcontent.xyz/live/internacional-x-athletic/index.m3u8",
-            "title": "SPORTIFy Live",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/14 00:30:00 +0000",
-          "eventName": "Coritiba vs Santos",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/13 22:30:00 +0000",
-          "teamA": "Coritiba",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/1982/image",
-          "teamB": "Santos",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/1968/image"
-        },
-        "id": "427",
-        "image": "o",
-        "publish": "1",
-        "title": "Coritiba vs Santos"
       },
       {
         "adsLimit": "0",
