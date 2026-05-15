@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-15T21:30:30.824468",
+  "last_updated": "2026-05-15T21:35:46.307355",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "02:55:18 AM 16-05-2026",
+    "Last update time": "03:00:41 AM 16-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -112,6 +112,68 @@
           "teamB": "Formula 1",
           "teamBFlag": "https://scdnmain.net/assets/tournament/40-c.png"
         },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "SKY SPORTS FHD"
+          },
+          {
+            "logo": "",
+            "title": "TSN SPORTS FHD"
+          },
+          {
+            "logo": "",
+            "title": "FANCODE FHD"
+          },
+          {
+            "logo": "",
+            "title": "SKY SPORTS 4k"
+          },
+          {
+            "logo": "",
+            "title": "SportzX F1 HD"
+          },
+          {
+            "logo": "",
+            "title": "APPLE TV FHD"
+          },
+          {
+            "logo": "",
+            "title": "SKY SPORT F1"
+          },
+          {
+            "logo": "",
+            "title": "SKY F1 - AQ"
+          },
+          {
+            "logo": "",
+            "title": "SKY SPORTS HD"
+          },
+          {
+            "logo": "",
+            "title": "ELEVEN SPORTS"
+          },
+          {
+            "logo": "",
+            "title": "CANAL+ HD"
+          },
+          {
+            "logo": "",
+            "title": "Sky F1 DE"
+          },
+          {
+            "logo": "",
+            "title": "DAZN ES SD"
+          },
+          {
+            "logo": "",
+            "title": "F1 TV FHD"
+          },
+          {
+            "logo": "",
+            "title": "Fox Sports - AQ"
+          }
+        ],
         "id": "312",
         "image": "o",
         "publish": "1",
@@ -181,6 +243,36 @@
           "teamB": "MotoGP",
           "teamBFlag": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8fGgE14VBFQKRIMiWIvOlIwpL6AEobQtL3OkLLu7AzsBPGzeXGHsz5PL0NED5DHlAyKCFhPHoNaFB4Z1csH_vvpU47Pbtslr1za618knr-wojLCDa1hyW40v59Qw_UjMGWLREzicm9ZDl7yMuylyu7xMdMoQG3-XXKLoZafem7lpKqxfKavQu-33Mbck/s1600/mgp.png"
         },
+        "formatsNew": [
+          {
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10",
+            "title": "TNT SPORTS - AQ"
+          },
+          {
+            "logo": "",
+            "title": "FANCODE FHD"
+          },
+          {
+            "logo": "",
+            "title": "SPO TV - AQ"
+          },
+          {
+            "logo": "",
+            "title": "ZIGGO SPORT - AQ"
+          },
+          {
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10",
+            "title": "TNT SPORTS SD"
+          },
+          {
+            "logo": "",
+            "title": "DAZN SPORTS"
+          },
+          {
+            "logo": "",
+            "title": "CANAL+ HD"
+          }
+        ],
         "id": "313",
         "image": "o",
         "publish": "1",
@@ -238,6 +330,28 @@
           "teamB": "Friday Fights",
           "teamBFlag": "https://iili.io/FDjaT1R.md.png"
         },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "One Fight - AQ"
+          },
+          {
+            "logo": "",
+            "title": "beIN SPORTS HD"
+          },
+          {
+            "logo": "",
+            "title": "beIN SPORTS FHD"
+          },
+          {
+            "logo": "",
+            "title": "Server 2"
+          },
+          {
+            "logo": "",
+            "title": "Server 3"
+          }
+        ],
         "id": "327",
         "image": "o",
         "publish": "1",
@@ -283,6 +397,24 @@
           "teamB": "WWE",
           "teamBFlag": "https://images2.minutemediacdn.com/image/upload/c_crop,w_1920,h_1080,x_0,y_0/c_fill,w_1080,ar_16:9,f_auto,q_auto,g_auto/images%2FvoltaxMediaLibrary%2Fmmsport%2Fwrestling_on_fannation%2F01j7cr769n5sz41833rh.jpg"
         },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "SportzX WWE"
+          },
+          {
+            "logo": "",
+            "title": "SportzX HD"
+          },
+          {
+            "logo": "",
+            "title": "Backup SD"
+          },
+          {
+            "logo": "",
+            "title": "Tap Sport LQ"
+          }
+        ],
         "id": "328",
         "image": "o",
         "publish": "1",
@@ -340,6 +472,28 @@
           "teamB": "WWE",
           "teamBFlag": "https://www.wwe.com/f/styles/wwe_show_logo_l/public/all/2024/09/Smackdown_LOGO--c8e0b09904cb1356d309a8ea2acb0422.png"
         },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "SportzX Live"
+          },
+          {
+            "logo": "",
+            "title": "Backup HD"
+          },
+          {
+            "logo": "",
+            "title": "Backup SD"
+          },
+          {
+            "logo": "",
+            "title": "USA TV HD"
+          },
+          {
+            "logo": "",
+            "title": "USA TV (USA VPN)"
+          }
+        ],
         "id": "329",
         "image": "o",
         "publish": "1",
@@ -379,6 +533,20 @@
           "teamB": "NXT",
           "teamBFlag": "https://www.wwe.com/f/styles/wwe_show_logo_sm/public/all/2024/10/NXTonCW--0f06792893241464479338f55596a5bf.png"
         },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "HD SERVER"
+          },
+          {
+            "logo": "",
+            "title": "Backup SD"
+          },
+          {
+            "logo": "",
+            "title": "Tap Sports"
+          }
+        ],
         "id": "337",
         "image": "o",
         "publish": "1",
@@ -430,6 +598,28 @@
           "teamB": "AEW",
           "teamBFlag": "https://static.wixstatic.com/media/815952_5964d86934774f97a1a12b104c8b0a7a~mv2.png/v1/fill/w_146,h_54,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/aewlogo24b.png"
         },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "TSN SPORTS"
+          },
+          {
+            "logo": "",
+            "title": "SportzX WWE"
+          },
+          {
+            "logo": "",
+            "title": "Fox Sports Premium"
+          },
+          {
+            "logo": "",
+            "title": "BACKUP HD"
+          },
+          {
+            "logo": "",
+            "title": "BACKUP SD"
+          }
+        ],
         "id": "354",
         "image": "o",
         "publish": "1",
@@ -507,6 +697,40 @@
           "teamB": "PAK",
           "teamBFlag": "https://img.sofascore.com/api/v1/team/187754/image"
         },
+        "formatsNew": [
+          {
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
+            "title": "SKY SPORTS FHD"
+          },
+          {
+            "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
+            "title": "WILLOW [Ad-Free]"
+          },
+          {
+            "logo": "https://play-lh.googleusercontent.com/zG_ZS5v4PfHqWqWLkpVkZB9wRu9MJmEqD4tNpeIYwLOcjU3INQlFeTxoVgwV1R2CbcsI",
+            "title": "PREMIER SPORTS"
+          },
+          {
+            "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png",
+            "title": "FANCODE FHD"
+          },
+          {
+            "logo": "",
+            "title": "PTV Sports"
+          },
+          {
+            "logo": "",
+            "title": "TAPMAD - AQ"
+          },
+          {
+            "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png",
+            "title": "FANCODE - SD"
+          },
+          {
+            "logo": "",
+            "title": "FOX CRICKET FHD"
+          }
+        ],
         "id": "355",
         "image": "o",
         "publish": "1",
@@ -605,56 +829,56 @@
           "teamB": "CSK",
           "teamBFlag": "https://img.sofascore.com/api/v1/team/187777/image"
         },
+        "formatsNew": [
+          {
+            "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
+            "title": "WILLOW [Ad-Free]"
+          },
+          {
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
+            "title": "SKY SPORTS FHD"
+          },
+          {
+            "logo": "",
+            "title": "KAYO HINDI FHD"
+          },
+          {
+            "logo": "",
+            "title": "NOON SPORTS"
+          },
+          {
+            "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
+            "title": "SKY CRICKET"
+          },
+          {
+            "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
+            "title": "FOX SPORTS HD"
+          },
+          {
+            "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
+            "title": "Star Sports HIN"
+          },
+          {
+            "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
+            "title": "WILLOW HINDI"
+          },
+          {
+            "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
+            "title": "SD SERVER"
+          },
+          {
+            "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
+            "title": "STAR SPORTS HIN"
+          },
+          {
+            "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
+            "title": "STAR SPORTS ENG"
+          }
+        ],
         "id": "366",
         "image": "o",
         "publish": "1",
         "title": "IPL - 01"
-      },
-      {
-        "adsLimit": "9",
-        "cat": "ATP",
-        "channels_data": [
-          {
-            "api": "192b1115da041585c77200128549efa1:634e10efe4abbb14be400a3ccbac0258",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/pnu10tp36z/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd",
-            "title": "TNT Sports 4",
-            "type": "1"
-          },
-          {
-            "api": "",
-            "link": "https://cdn16348712.blazingcdn.net/dx14fhd/index.m3u8|Referer=https://yahoo.com/&Origin=https://yahoo.com&User-Agent=AppleCoreMedia/1.0.0.23D5103d (iPhone; U; CPU OS 26_3 like Mac OS X; en_us)",
-            "title": "WILLOW (Ad Free)",
-            "type": "0"
-          },
-          {
-            "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
-            "title": "WILLOW FHD",
-            "type": "1"
-          },
-          {
-            "api": "",
-            "link": "https://crichdplayer.com/willow-cricket-live-stream-2026",
-            "title": "WILLOW SD",
-            "type": "2"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/15 20:15:00 +0000",
-          "eventBanner": "https://sportzxads.pages.dev/ruby.png",
-          "eventName": "ATP Rome Masters SF",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/15 13:30:00 +0000",
-          "teamA": "ATP 1000",
-          "teamAFlag": "https://www.atptour.com/assets/atpwt/images/tournament/badges/categorystamps_1000.png",
-          "teamB": "ATP 1000",
-          "teamBFlag": "https://www.atptour.com/assets/atpwt/images/tournament/badges/categorystamps_1000.png"
-        },
-        "id": "372",
-        "image": "o",
-        "publish": "1",
-        "title": "ATP Rome Masters"
       },
       {
         "adsLimit": "0",
@@ -693,6 +917,20 @@
           "teamB": "Pistons",
           "teamBFlag": "https://img.sofascore.com/api/v1/team/3424/image"
         },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "TSN SPORTS FHD"
+          },
+          {
+            "logo": "",
+            "title": "SportzX Live"
+          },
+          {
+            "logo": "",
+            "title": "HD SERVER"
+          }
+        ],
         "id": "373",
         "image": "o",
         "publish": "1",
@@ -728,6 +966,16 @@
           "teamB": "Spurs",
           "teamBFlag": "https://img.sofascore.com/api/v1/team/3429/image"
         },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "SportzX Live"
+          },
+          {
+            "logo": "",
+            "title": "HD SERVER"
+          }
+        ],
         "id": "374",
         "image": "o",
         "publish": "1",
@@ -756,6 +1004,12 @@
           "teamB": "Las Vegas",
           "teamBFlag": "https://img.sofascore.com/api/v1/team/35550/image"
         },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "SportzX Live"
+          }
+        ],
         "id": "377",
         "image": "o",
         "publish": "1",
@@ -784,6 +1038,12 @@
           "teamB": "Mystics",
           "teamBFlag": "https://img.sofascore.com/api/v1/team/3454/image"
         },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "SportzX Live"
+          }
+        ],
         "id": "378",
         "image": "o",
         "publish": "1",
@@ -812,6 +1072,12 @@
           "teamB": "Chicago",
           "teamBFlag": "https://img.sofascore.com/api/v1/team/35546/image"
         },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "SportzX Live"
+          }
+        ],
         "id": "379",
         "image": "o",
         "publish": "1",
@@ -847,6 +1113,16 @@
           "teamB": "Tempo",
           "teamBFlag": "https://img.sofascore.com/api/v1/team/1166445/image"
         },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "TSN SPORTS FHD"
+          },
+          {
+            "logo": "",
+            "title": "SportzX Live"
+          }
+        ],
         "id": "380",
         "image": "o",
         "publish": "1",
@@ -875,6 +1151,12 @@
           "teamB": "Royals",
           "teamBFlag": "https://img.sofascore.com/api/v1/team/3651/image"
         },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "SportzX Live"
+          }
+        ],
         "id": "394",
         "image": "o",
         "publish": "1",
@@ -903,6 +1185,12 @@
           "teamB": "Diamondbacks",
           "teamBFlag": "https://img.sofascore.com/api/v1/team/3640/image"
         },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "SportzX Live"
+          }
+        ],
         "id": "395",
         "image": "o",
         "publish": "1",
@@ -938,6 +1226,16 @@
           "teamB": "Dodgers",
           "teamBFlag": "https://img.sofascore.com/api/v1/team/3638/image"
         },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "TNT SPORTS FHD"
+          },
+          {
+            "logo": "",
+            "title": "SportzX Live"
+          }
+        ],
         "id": "397",
         "image": "o",
         "publish": "1",
@@ -966,6 +1264,12 @@
           "teamB": "Giants",
           "teamBFlag": "https://img.sofascore.com/api/v1/team/3634/image"
         },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "SportzX LIVE"
+          }
+        ],
         "id": "398",
         "image": "o",
         "publish": "1",
@@ -994,109 +1298,16 @@
           "teamB": "Padres",
           "teamBFlag": "https://img.sofascore.com/api/v1/team/3636/image"
         },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "SportzX Live"
+          }
+        ],
         "id": "399",
         "image": "o",
         "publish": "1",
         "title": "Seattle Mariners"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-        "channels_data": [
-          {
-            "api": "dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd",
-            "logo": "",
-            "title": "FUBO SPORTS",
-            "type": "1"
-          },
-          {
-            "api": "7a2758575dc04d63acc3573ab594d441:47071dd80de746a38cdc6a4dcde21abc",
-            "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1778913297~acl=%2f*~id=64b6cf0a-bd9f-4cd7-86b1-d48c3b9fa1e2~data=hdntl,aXA9MjA4Ljg3LjI0MS4yMzUmZXhwPTE3Nzg4MjY5MjYmZWlkPTkzOTk4MiZvaWQ9MTU0JnR5cGU9Vk9EJnVpZD14UlJxbzl8YmNhZWE3Y2YtYzMzNy00MDM5LTgxNTgtM2MxY2U0OWU3MjkzJmNpZD1kY2UuZmlzZmVkJnB0PW51bGw~hmac=4fb3b59460a2129add5b0c8d550b4480a7ac448457a4a28735547a9a830f076a/dash/live/2093712/219035-321027/manifest-d.mpd",
-            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
-            "title": "SKY SPORTS FHD",
-            "type": "1"
-          },
-          {
-            "api": "",
-            "link": "https://customer-hds4yn4zja7g8r4d.cloudflarestream.com/08d501eef72d8a4f0611505f1189adfe/manifest/video.m3u8",
-            "logo": "",
-            "title": "MAIN EVENT FHD",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://chatgpt.hereisman.net/playlist/50614/load-playlist?|Referer=https://gooz.aapmains.net",
-            "logo": "",
-            "title": "PEACOCK TV HD",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://perjaka.s3.us-east-1.amazonaws.com/btsport.m3u8",
-            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
-            "title": "SKY SPORTS PL",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://601.shopacchgia.xyz/epl.m3u8",
-            "logo": "",
-            "title": "NOW SPORTS PL",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://storage.googleapis.com/unghertgnewa1/mux_video_ts1/index-1.m3u8",
-            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
-            "title": "SKY SPORTS HD",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://livecdn-tc-iptv.rumsport10.live/live_abr/144253/chunks.m3u8?is_vip=false&token=1778957457-Kv4cPTAAP5YTi-5edf1594cad1e5ba3f183ae216e1d381667d4497-b395b8ea04b23de199b81029070d1b13",
-            "logo": "",
-            "title": "HUB PREMIER HD",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://livecdn-tc-livestream.rumsport10.live/stream/24/chunks.m3u8?is_vip=false&token=1778957878-Kv4cPTAAP5YTi-5edf1594cad1e5ba3f183ae216e1d381667d4497-484758f3bd23cf4bd817ebcde68c7f4b",
-            "logo": "",
-            "title": "STAN SPORTS HD",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://pub-5d579cce1f8f4f8faf00f60ef6a6b791.r2.dev/Bein1.m3u8",
-            "logo": "",
-            "title": "beIN ARABIC HD",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://play.ltwxsc.com/live/hd-en-6MuT7JxGtJQanY34HU.m3u8?txSecret=0a035179a69cc0525b47e7ba8e998ed0&txTime=6A0796EA",
-            "logo": "",
-            "title": "FAST SERVER",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/15 21:15:00 +0000",
-          "eventBanner": "https://api.ppv.to/assets/thumb/d28f1c1fe9b35b76f5877fc9a4a0a19f.jpg",
-          "eventName": "Aston Villa vs Liverpool",
-          "eventType": "null",
-          "isHot": "1",
-          "startTime": "2026/05/15 19:00:00 +0000",
-          "teamA": "Aston Villa",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/40/image",
-          "teamB": "Liverpool",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/44/image"
-        },
-        "id": "400",
-        "image": "o",
-        "publish": "1",
-        "title": "Aston Villa vs Liverpool"
       },
       {
         "adsLimit": "0",
@@ -1177,6 +1388,12 @@
           "teamB": "Man City",
           "teamBFlag": "https://img.sofascore.com/api/v1/team/17/image"
         },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "TNT SPORTS FHD"
+          }
+        ],
         "id": "401",
         "image": "o",
         "publish": "1",
@@ -1205,6 +1422,12 @@
           "teamB": "Köln",
           "teamBFlag": "https://img.sofascore.com/api/v1/team/2671/image"
         },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "beIN ENGLISH"
+          }
+        ],
         "id": "402",
         "image": "o",
         "publish": "1",
@@ -1233,6 +1456,12 @@
           "teamB": "Dortmund",
           "teamBFlag": "https://img.sofascore.com/api/v1/team/2673/image"
         },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "SportzX Live"
+          }
+        ],
         "id": "403",
         "image": "o",
         "publish": "1",
@@ -1261,6 +1490,12 @@
           "teamB": "HSV",
           "teamBFlag": "https://img.sofascore.com/api/v1/team/2676/image"
         },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "SportzX Live"
+          }
+        ],
         "id": "404",
         "image": "o",
         "publish": "1",
@@ -1289,6 +1524,12 @@
           "teamB": "Mainz 05",
           "teamBFlag": "https://img.sofascore.com/api/v1/team/2556/image"
         },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "SportzX Live"
+          }
+        ],
         "id": "405",
         "image": "o",
         "publish": "1",
@@ -1317,6 +1558,12 @@
           "teamB": "Augsburg",
           "teamBFlag": "https://img.sofascore.com/api/v1/team/2600/image"
         },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "SportzX Live"
+          }
+        ],
         "id": "406",
         "image": "o",
         "publish": "1",
@@ -1345,6 +1592,12 @@
           "teamB": "Hoffenheim",
           "teamBFlag": "https://img.sofascore.com/api/v1/team/2569/image"
         },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "SportzX Live"
+          }
+        ],
         "id": "407",
         "image": "o",
         "publish": "1",
@@ -1373,6 +1626,12 @@
           "teamB": "Stuttgart",
           "teamBFlag": "https://img.sofascore.com/api/v1/team/2677/image"
         },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "SportzX Live"
+          }
+        ],
         "id": "408",
         "image": "o",
         "publish": "1",
@@ -1401,6 +1660,12 @@
           "teamB": "Wolfsburg",
           "teamBFlag": "https://img.sofascore.com/api/v1/team/2524/image"
         },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "SportzX Live"
+          }
+        ],
         "id": "409",
         "image": "o",
         "publish": "1",
@@ -1429,6 +1694,12 @@
           "teamB": "Leipzig",
           "teamBFlag": "https://img.sofascore.com/api/v1/team/36360/image"
         },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "SportzX Live"
+          }
+        ],
         "id": "410",
         "image": "o",
         "publish": "1",
@@ -1457,6 +1728,12 @@
           "teamB": "Al-Fayha",
           "teamBFlag": "https://img.sofascore.com/api/v1/team/168094/image"
         },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "THMANYAH HD"
+          }
+        ],
         "id": "411",
         "image": "o",
         "publish": "1",
@@ -1485,6 +1762,12 @@
           "teamB": "Al-Riyadh",
           "teamBFlag": "https://img.sofascore.com/api/v1/team/168088/image"
         },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "THMANYAH HD"
+          }
+        ],
         "id": "412",
         "image": "o",
         "publish": "1",
@@ -1520,6 +1803,16 @@
           "teamB": "Beşiktaş",
           "teamBFlag": "https://img.sofascore.com/api/v1/team/3050/image"
         },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "SportzX Live"
+          },
+          {
+            "logo": "",
+            "title": "beIN SPORTS HD"
+          }
+        ],
         "id": "413",
         "image": "o",
         "publish": "1",
@@ -1562,6 +1855,20 @@
           "teamB": "Grimsby",
           "teamBFlag": "https://img.sofascore.com/api/v1/team/18/image"
         },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "beIN ENGLISH"
+          },
+          {
+            "logo": "",
+            "title": "CBS NETWORK"
+          },
+          {
+            "logo": "",
+            "title": "SportzX Live"
+          }
+        ],
         "id": "414",
         "image": "o",
         "publish": "1",
@@ -1597,6 +1904,16 @@
           "teamB": "Chesterfield",
           "teamBFlag": "https://img.sofascore.com/api/v1/team/68/image"
         },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "beIN ENGLISH"
+          },
+          {
+            "logo": "",
+            "title": "SKY FOOTBALL"
+          }
+        ],
         "id": "415",
         "image": "o",
         "publish": "1",
@@ -1625,6 +1942,12 @@
           "teamB": "Cádiz",
           "teamBFlag": "https://img.sofascore.com/api/v1/team/4488/image"
         },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "Laliga Hypermotion ES"
+          }
+        ],
         "id": "416",
         "image": "o",
         "publish": "1",
@@ -1653,6 +1976,12 @@
           "teamB": "Albacete",
           "teamBFlag": "https://img.sofascore.com/api/v1/team/2848/image"
         },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "Laliga Hypermotion ES"
+          }
+        ],
         "id": "417",
         "image": "o",
         "publish": "1",
@@ -1681,6 +2010,12 @@
           "teamB": "Phillies",
           "teamBFlag": "https://img.sofascore.com/api/v1/team/3635/image"
         },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "SportzX Live"
+          }
+        ],
         "id": "418",
         "image": "o",
         "publish": "1",
@@ -1709,6 +2044,12 @@
           "teamB": "Blue Jays",
           "teamBFlag": "https://img.sofascore.com/api/v1/team/3642/image"
         },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "SportzX Live"
+          }
+        ],
         "id": "419",
         "image": "o",
         "publish": "1",
@@ -1737,6 +2078,12 @@
           "teamB": "Orioles",
           "teamBFlag": "https://img.sofascore.com/api/v1/team/3652/image"
         },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "SportzX Live"
+          }
+        ],
         "id": "420",
         "image": "o",
         "publish": "1",
@@ -1765,6 +2112,12 @@
           "teamB": "Reds",
           "teamBFlag": "https://img.sofascore.com/api/v1/team/3633/image"
         },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "SportzX Live"
+          }
+        ],
         "id": "421",
         "image": "o",
         "publish": "1",
@@ -1793,6 +2146,12 @@
           "teamB": "Brewers",
           "teamBFlag": "https://img.sofascore.com/api/v1/team/3630/image"
         },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "SportzX Live"
+          }
+        ],
         "id": "422",
         "image": "o",
         "publish": "1",
@@ -1821,6 +2180,12 @@
           "teamB": "Marlins",
           "teamBFlag": "https://img.sofascore.com/api/v1/team/3639/image"
         },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "SportzX Live"
+          }
+        ],
         "id": "423",
         "image": "o",
         "publish": "1",
@@ -1849,6 +2214,12 @@
           "teamB": "Red Sox",
           "teamBFlag": "https://img.sofascore.com/api/v1/team/3646/image"
         },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "SportzX Live"
+          }
+        ],
         "id": "424",
         "image": "o",
         "publish": "1",
@@ -1884,6 +2255,16 @@
           "teamB": "Yankees",
           "teamBFlag": "https://img.sofascore.com/api/v1/team/3654/image"
         },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "TNT SPORTS"
+          },
+          {
+            "logo": "",
+            "title": "SportzX Live"
+          }
+        ],
         "id": "425",
         "image": "o",
         "publish": "1",
@@ -1912,6 +2293,12 @@
           "teamB": "Cubs",
           "teamBFlag": "https://img.sofascore.com/api/v1/team/3627/image"
         },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "SportzX Live"
+          }
+        ],
         "id": "426",
         "image": "o",
         "publish": "1",
@@ -1940,6 +2327,12 @@
           "teamB": "Rangers",
           "teamBFlag": "https://img.sofascore.com/api/v1/team/3647/image"
         },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "SportzX Live"
+          }
+        ],
         "id": "427",
         "image": "o",
         "publish": "1",
