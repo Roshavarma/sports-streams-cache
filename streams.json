@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-15T04:10:20.552509",
+  "last_updated": "2026-05-15T04:20:26.151835",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "09:35:17 AM 15-05-2026",
+    "Last update time": "09:45:25 AM 15-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -578,33 +578,6 @@
         "image": "o",
         "publish": "1",
         "title": "IPL - 01"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "WNBA",
-        "channels_data": [
-          {
-            "api": "",
-            "link": "https://edge2caster.pro/hls/ztyarueaghj71.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
-            "title": "SPORTIFy Live",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/15 04:40:00 +0000",
-          "eventName": "Portland Fire vs New York Liberty",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/15 02:00:00 +0000",
-          "teamA": "Fire",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/1166446/image",
-          "teamB": "Liberty",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3446/image"
-        },
-        "id": "378",
-        "image": "o",
-        "publish": "1",
-        "title": "Portland Fire vs New York Liberty"
       },
       {
         "adsLimit": "0",
