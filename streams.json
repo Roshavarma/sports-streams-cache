@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-15T17:20:24.634092",
+  "last_updated": "2026-05-15T17:30:39.686501",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "10:45:27 PM 15-05-2026",
+    "Last update time": "10:55:19 PM 15-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -734,6 +734,34 @@
         "image": "o",
         "publish": "1",
         "title": "Minnesota Timberwolves"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "WNBA",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://mainstreams.pro/hls/bvnsqdfvgha70.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+            "logo": "",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/16 02:30:00 +0000",
+          "eventName": "Connecticut Sun vs Las Vegas Aces",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/15 23:30:00 +0000",
+          "teamA": "Connecticut",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/35547/image",
+          "teamB": "Las Vegas",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/35550/image"
+        },
+        "id": "377",
+        "image": "o",
+        "publish": "1",
+        "title": "Connecticut vs Las Vegas"
       },
       {
         "adsLimit": "0",
