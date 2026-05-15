@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-15T02:30:33.954676",
+  "last_updated": "2026-05-15T02:40:20.578505",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "07:55:18 AM 15-05-2026",
+    "Last update time": "08:05:18 AM 15-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -493,24 +493,17 @@
         "cat": "Indian Premier League",
         "channels_data": [
           {
-            "api": "ada0b4daeff6a32ab78f9f4d0d54fa5c:623ccb3d6f11e602e32267ffu55\u0019eb9d",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/e8ilzxrcj2/out/v1/6417447d46264073a6284dfd09e944b2/cenc.mpd",
-            "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
-            "title": "WILLOW [Ad-Free]",
-            "type": "1"
-          },
-          {
             "api": "708a98b352bd4418a73a028edd84da8f:b1fa5c2bca4c4b57b924b748x64\u001532cb",
-            "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1778826287~acl=%2f*~id=3ba8b898-d114-45f4-9e2e-8e7551fcd493~data=hdntl,aXA9MTA4LjE4MS40LjY5JmV4cD0xNzc4NzM5OTE2JmVpZD05MzY0MTgmb2lkPTE1NCZ0eXBlPVZPRCZ1aWQ9eFJScW85fGJjYWVhN2NmLWMzMzctNDAzOS04MTU4LTNjMWNlNDllNzI5MyZjaWQ9ZGNlLmZpc2ZlZCZwdD1udWxs~hmac=53c888802c83140db1d017869281fd216e0a7ec26a6fc4cab9338df1fd7da0f9/dash/live/2093715/219027-321028/manifest-d.mpd",
+            "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1778882987~acl=%2f*~id=aa3812c8-c2cf-4774-ae94-e86e50dd0c79~data=hdntl,aXA9MjA4Ljg3LjI0MC4xOSZleHA9MTc3ODc5NjYxNyZlaWQ9OTM5NjY2Jm9pZD0xNTQmdHlwZT1WT0QmdWlkPXhSUnFvOXxiY2FlYTdjZi1jMzM3LTQwMzktODE1OC0zYzFjZTQ5ZTcyOTMmY2lkPWRjZS5maXNmZWQmcHQ9bnVsbA~hmac=d4a201301e06d05e9cf0ab83ae5f164bd530e3d0234c82ed17063e48b23456bd/dash/live/2093715/219027-321028/manifest-d.mpd",
             "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
             "title": "SKY SPORTS FHD",
             "type": "1"
           },
           {
-            "api": "2233b72332765f888a43983a98deec5c:2cc1b1862998c1f22190121cv61\u00149a7f",
-            "link": "https://dck1-fs-live.dtcdn.dazn.com/out/v1/814bffb9b389f652/3bef222785684b458a800836ac836063/index.mpd",
-            "logo": "",
-            "title": "KAYO HINDI FHD",
+            "api": "ada0b4daeff6a32ab78f9f4d0d54fa5c:623ccb3d6f11e602e32267ffu55\u0019eb9d",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/e8ilzxrcj2/out/v1/6417447d46264073a6284dfd09e944b2/cenc.mpd",
+            "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
+            "title": "WILLOW [Ad-Free]",
             "type": "1"
           },
           {
@@ -551,7 +544,7 @@
           {
             "api": "",
             "link": "http://193.47.62.40/hls/koooq.m3u8|Referer=http://www.fawanews.sc/",
-            "logo": "",
+            "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
             "title": "SD SERVER",
             "type": "0"
           },
@@ -565,53 +558,26 @@
           {
             "api": "9dacc80134404c34ba184022c28d0000:982183fb4d9449c995859b7cXf5\u00112092",
             "link": "https://livetv.hotstar.com/mp2/gec-india-1540065785/a00717b1324f45eb814eec9e48a12db8/index.mpd?|cookie=hdntl=exp=1778457651~acl=%2f*~id=8e35b4f8bf57a80ad58eff80800f20bf~data=hdntl~hmac=038ae8f949f65209ff4845c81c3352f9a5d2c655dd16e144d424357fd798a60c&User-agent=Hotstar;in.startv.hotstar/SportsLover(Android/15)",
-            "logo": "",
+            "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
             "title": "STAR SPORTS ENG",
             "type": "1"
           }
         ],
         "eventInfo": {
-          "endTime": "2026/05/14 17:45:00 +0000",
-          "eventName": "Punjab Kings vs Mumbai Indians",
+          "endTime": "2026/05/15 18:00:00 +0000",
+          "eventName": "Lucknow Super Giants vs Chennai Super Kings",
           "eventType": "null",
           "isHot": "0",
-          "startTime": "2026/05/14 14:00:00 +0000",
-          "teamA": "PBKS",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/187776/image",
-          "teamB": "MI",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/187780/image"
+          "startTime": "2026/05/15 14:00:00 +0000",
+          "teamA": "LSG",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/410010/image",
+          "teamB": "CSK",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/187777/image"
         },
         "id": "366",
         "image": "o",
         "publish": "1",
         "title": "IPL - 01"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "WNBA",
-        "channels_data": [
-          {
-            "api": "",
-            "link": "https://edgestreams.pro/hls/bvnsqdfvgha70.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
-            "title": "SPORTIFy Live",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/15 02:40:00 +0000",
-          "eventName": "Dallas Wings vs Minnesota Lynx",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/15 00:00:00 +0000",
-          "teamA": "Wings",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3450/image",
-          "teamB": "Lynx",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3440/image"
-        },
-        "id": "377",
-        "image": "o",
-        "publish": "1",
-        "title": "Dallas Wings vs Minnesota Lynx"
       },
       {
         "adsLimit": "0",
@@ -775,48 +741,6 @@
         "image": "o",
         "publish": "1",
         "title": "Aston Villa vs Liverpool"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "Copa do Brasil",
-        "channels_data": [
-          {
-            "api": "56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd",
-            "logo": "",
-            "title": "PREMIERER BR",
-            "type": "1"
-          },
-          {
-            "api": "4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733",
-            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd",
-            "logo": "",
-            "title": "SporTV BR",
-            "type": "1"
-          },
-          {
-            "api": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
-            "logo": "",
-            "title": "FOX DEPORTES",
-            "type": "1"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/15 02:30:00 +0000",
-          "eventName": "Vitória vs Flamengo",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/15 00:30:00 +0000",
-          "teamA": "Vitória",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/1962/image",
-          "teamB": "Flamengo",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/5981/image"
-        },
-        "id": "418",
-        "image": "o",
-        "publish": "1",
-        "title": "Vitória vs Flamengo"
       }
     ]
   }
