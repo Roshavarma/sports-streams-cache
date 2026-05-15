@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-15T17:12:29.587568",
+  "last_updated": "2026-05-15T17:20:24.634092",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "10:35:23 PM 15-05-2026",
+    "Last update time": "10:45:27 PM 15-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -660,6 +660,83 @@
       },
       {
         "adsLimit": "0",
+        "cat": "NBA",
+        "channels_data": [
+          {
+            "api": "e51aa21f2a0fef9aabc120dfb655b52f:a12a987fe725a40b6be95cd84b15f689",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
+            "logo": "",
+            "title": "TSN SPORTS FHD",
+            "type": "1"
+          },
+          {
+            "api": "",
+            "link": "https://mainstreams.pro/hls/mlkijfezag65.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+            "logo": "",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://instreams.pro/US/NBA1/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
+            "logo": "",
+            "title": "HD SERVER",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/16 02:00:00 +0000",
+          "eventName": "Cleveland Cavaliers vs Detroit Pistons",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/15 23:00:00 +0000",
+          "teamA": "Cavaliers",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3432/image",
+          "teamB": "Pistons",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3424/image"
+        },
+        "id": "373",
+        "image": "o",
+        "publish": "1",
+        "title": "Cleveland Cavaliers"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "NBA",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://mainstreams.pro/hls/wfazgsqtrezu66.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+            "logo": "",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://instreams.pro/US/NBA2/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
+            "logo": "",
+            "title": "HD SERVER",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/16 04:30:00 +0000",
+          "eventName": "Minnesota Timberwolves vs San Antonio Spurs",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/16 01:30:00 +0000",
+          "teamA": "Timberwolves",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3426/image",
+          "teamB": "Spurs",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3429/image"
+        },
+        "id": "374",
+        "image": "o",
+        "publish": "1",
+        "title": "Minnesota Timberwolves"
+      },
+      {
+        "adsLimit": "0",
         "cat": "EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
         "channels_data": [
           {
@@ -1099,9 +1176,16 @@
         "channels_data": [
           {
             "api": "",
-            "link": "https://bobis.zaglemplokis.online/premium49/tracks-v1a1/mono.m3u8|Referer=https://donis.jimpenopisonline.online/",
+            "link": "https://play.ltwxsc.com/live/hd-en-6MuTcMcGJsUZDtvACE.m3u8?txSecret=917017fa27945501502a0e9c5dcbd42a&txTime=6A077CAA",
             "logo": "",
-            "title": "Sport TV HD",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://rolis.drompakisdoulesonline.online/premium712/tracks-v1a1/mono.m3u8|Referer=https://donis.jimpenopisonline.online/",
+            "logo": "",
+            "title": "beIN SPORTS HD",
             "type": "0"
           }
         ],
