@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-15T02:40:20.578505",
+  "last_updated": "2026-05-15T02:50:49.095268",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "08:05:18 AM 15-05-2026",
+    "Last update time": "08:15:21 AM 15-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -741,6 +741,342 @@
         "image": "o",
         "publish": "1",
         "title": "Aston Villa vs Liverpool"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "FA Cup",
+        "channels_data": [
+          {
+            "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
+            "logo": "",
+            "title": "beIN ENGLISH",
+            "type": "1"
+          },
+          {
+            "api": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f",
+            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
+            "logo": "https://play-lh.googleusercontent.com/zG_ZS5v4PfHqWqWLkpVkZB9wRu9MJmEqD4tNpeIYwLOcjU3INQlFeTxoVgwV1R2CbcsI",
+            "title": "PREMIER SPORTS",
+            "type": "1"
+          },
+          {
+            "api": "620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a",
+            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd",
+            "logo": "",
+            "title": "Laliga TV FHD",
+            "type": "1"
+          },
+          {
+            "api": "065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2",
+            "link": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
+            "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png",
+            "title": "FANCODE FHD",
+            "type": "1"
+          },
+          {
+            "api": "",
+            "link": "https://iptv.852851.xyz/ch/8a2742ca6f44887706dc2cd75a458de3/master.m3u8",
+            "logo": "",
+            "title": "beIN SPORTS HD",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://chatgpt.hereisman.net/playlist/50586/load-playlist?|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "title": "ESPN DEPORTES",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/yUsX6j0ECDS0_amIkEmoqaxJjHjrozZxkctyjlWx2t-arm-dvPoJbO4HmVEgMc8zO1UnGrEgMnEZ8za6sAXeCQ/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_delta.m3u8?type=live",
+            "logo": "",
+            "title": "beIN ARABIC HD",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://livecdn-bp-livestream.rumsport7.live/stream/7/chunks.m3u8?is_vip=false&token=4306e5316cdca8d2959fc90ef087868dd9f40498&x-sign=6e137c7b366326a3bff39d6a36875b5b&x-time=1778786280",
+            "logo": "",
+            "title": "SPY HD LIVE",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://play.ltwxsc.com/live/hd-en-6MuSsYd5fGdvy5ygsx.m3u8?txSecret=6658c56bfe5b7d02c0c32ce5359b6c47&txTime=6A064A19",
+            "logo": "",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/16 16:05:00 +0000",
+          "eventName": "Chelsea vs Manchester City",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/16 14:00:00 +0000",
+          "teamA": "Chelsea",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/38/image",
+          "teamB": "Man City",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/17/image"
+        },
+        "id": "401",
+        "image": "o",
+        "publish": "1",
+        "title": "Chelsea vs Manchester City"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "Bundesliga 🇩🇪",
+        "channels_data": [
+          {
+            "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
+            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
+            "logo": "",
+            "title": "beIN ENGLISH",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/16 15:35:00 +0000",
+          "eventName": "Bayern München vs Köln",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/16 13:30:00 +0000",
+          "teamA": "Bayern",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2672/image",
+          "teamB": "Köln",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2671/image"
+        },
+        "id": "402",
+        "image": "o",
+        "publish": "1",
+        "title": "Bayern München vs Köln"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "Bundesliga 🇩🇪",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://fallback-video.ivan-flux.workers.dev/video/index.m3u8",
+            "logo": "",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/16 15:30:00 +0000",
+          "eventName": "Werder Bremen vs Borussia Dortmund",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/16 13:30:00 +0000",
+          "teamA": "Bremen",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2534/image",
+          "teamB": "Dortmund",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2673/image"
+        },
+        "id": "403",
+        "image": "o",
+        "publish": "1",
+        "title": "Bremen vs Dortmund"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "Bundesliga 🇩🇪",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://fallback-video.ivan-flux.workers.dev/video/index.m3u8",
+            "logo": "",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/16 15:30:00 +0000",
+          "eventName": "Bayer Leverkusen vs Hamburger SV",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/16 13:30:00 +0000",
+          "teamA": "Leverkusen",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2681/image",
+          "teamB": "HSV",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2676/image"
+        },
+        "id": "404",
+        "image": "o",
+        "publish": "1",
+        "title": "Leverkusen vs Hamburger"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "Bundesliga 🇩🇪",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://fallback-video.ivan-flux.workers.dev/video/index.m3u8",
+            "logo": "",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/16 15:30:00 +0000",
+          "eventName": "Heidenheim vs Mainz 05",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/16 13:30:00 +0000",
+          "teamA": "Heidenheim",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/5885/image",
+          "teamB": "Mainz 05",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2556/image"
+        },
+        "id": "405",
+        "image": "o",
+        "publish": "1",
+        "title": "Heidenheim vs Mainz 05"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "Bundesliga 🇩🇪",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://fallback-video.ivan-flux.workers.dev/video/index.m3u8",
+            "logo": "",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/16 15:30:00 +0000",
+          "eventName": "Union Berlin vs Augsburg",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/16 13:30:00 +0000",
+          "teamA": "Union Berlin",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2547/image",
+          "teamB": "Augsburg",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2600/image"
+        },
+        "id": "406",
+        "image": "o",
+        "publish": "1",
+        "title": "Union Berlin vs Augsburg"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "Bundesliga 🇩🇪",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://fallback-video.ivan-flux.workers.dev/video/index.m3u8",
+            "logo": "",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/16 15:30:00 +0000",
+          "eventName": "M'gladbach vs Hoffenheim",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/16 13:30:00 +0000",
+          "teamA": "M'gladbach",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2527/image",
+          "teamB": "Hoffenheim",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2569/image"
+        },
+        "id": "407",
+        "image": "o",
+        "publish": "1",
+        "title": "M'gladbach vs Hoffenheim"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "Bundesliga 🇩🇪",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://fallback-video.ivan-flux.workers.dev/video/index.m3u8",
+            "logo": "",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/16 15:30:00 +0000",
+          "eventName": "Eintracht Frankfurt vs Stuttgart",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/16 13:30:00 +0000",
+          "teamA": "Frankfurt",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2674/image",
+          "teamB": "Stuttgart",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2677/image"
+        },
+        "id": "408",
+        "image": "o",
+        "publish": "1",
+        "title": "Frankfurt vs Stuttgart"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "Bundesliga 🇩🇪",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://fallback-video.ivan-flux.workers.dev/video/index.m3u8",
+            "logo": "",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/16 15:30:00 +0000",
+          "eventName": "St. Pauli vs Wolfsburg",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/16 13:30:00 +0000",
+          "teamA": "St. Pauli",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2526/image",
+          "teamB": "Wolfsburg",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2524/image"
+        },
+        "id": "409",
+        "image": "o",
+        "publish": "1",
+        "title": "St. Pauli vs Wolfsburg"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "Bundesliga 🇩🇪",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://fallback-video.ivan-flux.workers.dev/video/index.m3u8",
+            "logo": "",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/16 15:30:00 +0000",
+          "eventName": "Freiburg vs RB Leipzig",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/16 13:30:00 +0000",
+          "teamA": "Freiburg",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2538/image",
+          "teamB": "Leipzig",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/36360/image"
+        },
+        "id": "410",
+        "image": "o",
+        "publish": "1",
+        "title": "Freiburg vs RB Leipzig"
       }
     ]
   }
