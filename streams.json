@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-15T22:20:27.031744",
+  "last_updated": "2026-05-15T22:30:34.974487",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "03:40:24 AM 16-05-2026",
+    "Last update time": "03:55:20 AM 16-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -426,37 +426,43 @@
         "channels_data": [
           {
             "api": "",
-            "link": "https://chatgpt.hereisman.net/playlist/50251/load-playlist?|Referer=https://gooz.aapmains.net",
+            "link": "https://chatgpt.hereisman.net/playlist/50613/load-playlist?|Referer=https://gooz.aapmains.net",
+            "logo": "",
             "title": "SPORTIFy WWE",
             "type": "0"
           },
           {
             "api": "",
             "link": "https://29pisfqlcvyi.windows-devs.top/AccessLog2/83_FHD/apache.m3u8|Referer=https://29pisfqlcvyi.windows-devs.top/",
+            "logo": "",
             "title": "SPORTIFy Live",
             "type": "0"
           },
           {
             "api": "",
             "link": "https://26hrwgorfcmh.windows-devs.top/AccessLog2/108084_HD/apache.m3u8|Referer=https://26hrwgorfcmh.windows-devs.top/",
+            "logo": "",
             "title": "Backup HD",
             "type": "0"
           },
           {
             "api": "",
             "link": "https://android-database1.firebase-api.com/AccessLog2/108085_HD/apache.m3u8|Referer=https://android-database1.firebase-api.com",
+            "logo": "",
             "title": "Backup SD",
             "type": "0"
           },
           {
             "api": "",
             "link": "https://29pisfqlcvyi.windows-devs.top/AccessLog2/108085_HD/apache.m3u8|Referer=https://29pisfqlcvyi.windows-devs.top/",
+            "logo": "",
             "title": "USA TV HD",
             "type": "0"
           },
           {
             "api": "58551b13211b37d5b325d67e5c6cabef:3b4c3f8b4236fc57d66cdb54a606fe41",
             "link": "https://g001-sle-us-cmaf-prd-ak.pcdn03.cssott.com/Content/CMAF_OS1-CTR-4s-v2/Live/channel(12010340-12010340-4445585a62764)/master_2hr.mpd",
+            "logo": "",
             "title": "USA TV (USA VPN)",
             "type": "1"
           }
@@ -473,6 +479,10 @@
           "teamBFlag": "https://www.wwe.com/f/styles/wwe_show_logo_l/public/all/2024/09/Smackdown_LOGO--c8e0b09904cb1356d309a8ea2acb0422.png"
         },
         "formatsNew": [
+          {
+            "logo": "",
+            "title": "SportzX WWE"
+          },
           {
             "logo": "",
             "title": "SportzX Live"
@@ -2013,6 +2023,10 @@
         "formatsNew": [
           {
             "logo": "",
+            "title": "SportzX MLB"
+          },
+          {
+            "logo": "",
             "title": "SportzX Live"
           }
         ],
@@ -2045,6 +2059,10 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/3642/image"
         },
         "formatsNew": [
+          {
+            "logo": "",
+            "title": "SportzX MLB"
+          },
           {
             "logo": "",
             "title": "SportzX Live"
