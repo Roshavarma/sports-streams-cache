@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-15T20:30:36.041202",
+  "last_updated": "2026-05-15T20:40:21.064221",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "01:55:18 AM 16-05-2026",
+    "Last update time": "02:05:24 AM 16-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -857,15 +857,8 @@
         "cat": "MLB",
         "channels_data": [
           {
-            "api": "daa8ea92553fd16cd6bfae2b8c582715:4042e041b5639b79b69ae07a872eef9b",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3n6slkgh54/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd",
-            "logo": "",
-            "title": "TSN SPORTS FHD",
-            "type": "1"
-          },
-          {
             "api": "",
-            "link": "https://mainstreams.pro/hls/jnzkdzjfanch23.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+            "link": "https://mainstreams.pro/hls/kjhfzua25.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
             "logo": "",
             "title": "SPORTIFy Live",
             "type": "0"
@@ -919,6 +912,13 @@
         "adsLimit": "0",
         "cat": "MLB",
         "channels_data": [
+          {
+            "api": "f288380ca4cef9ad3f27a92a08e9bb8b:9f18d26291d9230833501f7f822f6875",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd",
+            "logo": "",
+            "title": "TNT SPORTS FHD",
+            "type": "1"
+          },
           {
             "api": "",
             "link": "https://mainstreams.pro/hls/jzabfazkbf27.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
