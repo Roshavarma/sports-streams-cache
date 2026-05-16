@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-16T04:50:21.384470",
+  "last_updated": "2026-05-16T04:58:02.894828",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "10:15:25 AM 16-05-2026",
+    "Last update time": "10:25:15 AM 16-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -1301,15 +1301,15 @@
         "formatsNew": [
           {
             "logo": "",
-            "title": "THMANYAH HD"
-          },
-          {
-            "logo": "",
             "title": "SporTV BR"
           },
           {
             "logo": "",
             "title": "FOX DEPORTES"
+          },
+          {
+            "logo": "",
+            "title": "THMANYAH HD"
           }
         ],
         "id": "411",
@@ -1330,15 +1330,15 @@
           }
         ],
         "eventInfo": {
-          "endTime": "2026/05/15 20:00:00 +0000",
-          "eventName": "Al-Taawoun vs Al-Riyadh",
+          "endTime": "2026/05/16 18:05:00 +0000",
+          "eventName": "Al-Okhdood vs Al-Khaleej",
           "eventType": "null",
           "isHot": "0",
-          "startTime": "2026/05/15 18:00:00 +0000",
-          "teamA": "Al-Taawoun",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/56021/image",
-          "teamB": "Al-Riyadh",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/168088/image"
+          "startTime": "2026/05/16 16:05:00 +0000",
+          "teamA": "Al-Okhdood",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/336456/image",
+          "teamB": "Al-Khaleej",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/167228/image"
         },
         "formatsNew": [
           {
@@ -1349,7 +1349,7 @@
         "id": "412",
         "image": "o",
         "publish": "1",
-        "title": "Al-Taawoun vs Al-Riyadh"
+        "title": "Al-Okhdood vs Al-Khaleej"
       },
       {
         "adsLimit": "0",
@@ -1357,35 +1357,24 @@
         "channels_data": [
           {
             "api": "",
-            "link": "https://play.ltwxsc.com/live/hd-en-6MuTcMcGJsUZDtvACE.m3u8?txSecret=917017fa27945501502a0e9c5dcbd42a&txTime=6A077CAA",
-            "logo": "",
-            "title": "SPORTIFy Live",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://rolis.drompakisdoulesonline.online/premium712/tracks-v1a1/mono.m3u8|Referer=https://donis.jimpenopisonline.online/",
+            "link": "https://zomis.zempovlantis.online/premium62/tracks-v1a1/mono.m3u8|Referer=https://donis.jimpenopisonline.online/",
             "logo": "",
             "title": "beIN SPORTS HD",
             "type": "0"
           }
         ],
         "eventInfo": {
-          "endTime": "2026/05/15 19:00:00 +0000",
-          "eventName": "Çaykur Rizespor vs Beşiktaş",
+          "endTime": "2026/05/16 16:00:00 +0000",
+          "eventName": "Fatih Karagümrük vs Alanyaspor",
           "eventType": "null",
           "isHot": "0",
-          "startTime": "2026/05/15 17:00:00 +0000",
-          "teamA": "Rizespor",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3064/image",
-          "teamB": "Beşiktaş",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3050/image"
+          "startTime": "2026/05/16 14:00:00 +0000",
+          "teamA": "Karagümrük",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/4954/image",
+          "teamB": "Alanyaspor",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/6362/image"
         },
         "formatsNew": [
-          {
-            "logo": "",
-            "title": "SportzX Live"
-          },
           {
             "logo": "",
             "title": "beIN SPORTS HD"
@@ -1394,7 +1383,55 @@
         "id": "413",
         "image": "o",
         "publish": "1",
-        "title": "Rizespor vs Beşiktaş"
+        "title": "Fatih Karagümrük vs Alanyaspor"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "Super Lig",
+        "channels_data": [
+          {
+            "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
+            "logo": "",
+            "title": "beIN ENGLISH",
+            "type": "1"
+          },
+          {
+            "api": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
+            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
+            "logo": "",
+            "title": "CBS NETWORK",
+            "type": "1"
+          },
+          {
+            "api": "",
+            "link": "https://chatgpt.hereisman.net/playlist/50602/load-playlist?|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/16 19:00:00 +0000",
+          "eventName": "Samsunspor vs Göztepe",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/16 17:00:00 +0000",
+          "teamA": "Samsunspor",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3053/image",
+          "teamB": "Göztepe",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3054/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "beIN SPORTS HD"
+          }
+        ],
+        "id": "414",
+        "image": "o",
+        "publish": "1",
+        "title": "Samsunspor vs Göztepe"
       }
     ]
   }
