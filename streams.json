@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-16T19:52:19.069796",
+  "last_updated": "2026-05-16T20:00:41.238726",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "01:15:23 AM 17-05-2026",
+    "Last update time": "01:25:22 AM 17-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -1089,84 +1089,6 @@
       },
       {
         "adsLimit": "0",
-        "cat": "AFC Champions Two",
-        "channels_data": [
-          {
-            "api": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
-            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
-            "logo": "",
-            "title": "SportDigital Fussball",
-            "type": "1"
-          },
-          {
-            "api": "",
-            "link": "https://fncd.kuvuslov.cymru/mumbai/140874_english_hls_ef7a6a2b9267306_1ta-di_h264/index.m3u8|Origin=https://famcodexwebs.pages.dev",
-            "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png",
-            "title": "FANCODE HD",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://chatgpt.hereisman.net/playlist/50676/load-playlist?|Referer=https://gooz.aapmains.net",
-            "logo": "",
-            "title": "NOVA SPORTS",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://livecdn-tc-livestream.rumsport10.live/stream/25/chunks.m3u8?is_vip=false&token=1779041405-Kv4cPTAAP5YTi-88260ea855dfcf8e7b020464a42c033ffa5af377-24fd925d101390a8d9e9fe4e657c05de",
-            "logo": "",
-            "title": "SPY AFC LIVE",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://live.vivo200.com/live/hd-en-1-4533861.m3u8?txSecret=515b209b98dba537158a7697538de71e&txTime=6A08F5C0|Referer=https://player.online909.com/",
-            "logo": "",
-            "title": "SPORTIFy Live",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/16 19:45:00 +0000",
-          "eventName": "Al-Nassr vs Gamba Osaka",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/16 17:45:00 +0000",
-          "teamA": "Al-Nassr",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/23400/image",
-          "teamB": "Gamba Osaka",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3138/image"
-        },
-        "formatsNew": [
-          {
-            "logo": "",
-            "title": "SportDigital Fussball"
-          },
-          {
-            "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png",
-            "title": "FANCODE HD"
-          },
-          {
-            "logo": "",
-            "title": "NOVA SPORTS"
-          },
-          {
-            "logo": "",
-            "title": "SPX AFC LIVE"
-          },
-          {
-            "logo": "",
-            "title": "SportzX Live"
-          }
-        ],
-        "id": "385",
-        "image": "o",
-        "publish": "1",
-        "title": "Al-Nassr vs Gamba Osaka"
-      },
-      {
-        "adsLimit": "0",
         "cat": "NHL",
         "channels_data": [
           {
@@ -1660,6 +1582,13 @@
             "logo": "",
             "title": "SportDigital Fussball",
             "type": "1"
+          },
+          {
+            "api": "",
+            "link": "https://livecdn-bp-iptv.rumsport7.live/live_abr/68904/chunks.m3u8?is_vip=false&token=88260ea855dfcf8e7b020464a42c033ffa5af377&x-sign=25f0a817665344de3ca160e293a484fe&x-time=1778961180",
+            "logo": "",
+            "title": "Sport Klub HD",
+            "type": "0"
           }
         ],
         "eventInfo": {
@@ -1677,6 +1606,10 @@
           {
             "logo": "",
             "title": "SportDigital Fussball"
+          },
+          {
+            "logo": "",
+            "title": "Sport Klub HD"
           }
         ],
         "id": "420",
@@ -1690,7 +1623,7 @@
         "channels_data": [
           {
             "api": "",
-            "link": "https://mainstreams.pro/hls/Czajafjihafch18.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+            "link": "https://livecdn-bp-iptv.rumsport7.live/live_abr/802/chunks.m3u8?is_vip=false&token=88260ea855dfcf8e7b020464a42c033ffa5af377&x-sign=372d5f2b35b71adddb774f2620bd05cf&x-time=1778961120",
             "logo": "",
             "title": "SPORTIFy Live",
             "type": "0"
