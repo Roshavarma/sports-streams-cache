@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-16T16:10:23.869269",
+  "last_updated": "2026-05-16T16:20:22.928186",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "09:35:21 PM 16-05-2026",
+    "Last update time": "09:45:22 PM 16-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -371,16 +371,8 @@
         },
         "formatsNew": [
           {
-            "logo": "",
-            "title": "UFC MAIN EVENT"
-          },
-          {
             "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10",
             "title": "TNT SPORTS FHD"
-          },
-          {
-            "logo": "",
-            "title": "SETANTA SPORTS"
           },
           {
             "logo": "",
@@ -1708,6 +1700,13 @@
             "logo": "",
             "title": "beIN SPORTS HD",
             "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://live.vivo200.com/live/hd-en-1-4366100.m3u8?txSecret=9c858f6b4a74170cf2d83bd86c523110&txTime=6A08DE55|Referer=https://player.online909.com/",
+            "logo": "",
+            "title": "SPORTIFy Live",
+            "type": "0"
           }
         ],
         "eventInfo": {
@@ -1725,6 +1724,10 @@
           {
             "logo": "",
             "title": "beIN SPORTS HD"
+          },
+          {
+            "logo": "",
+            "title": "SportzX Live"
           }
         ],
         "id": "414",
@@ -2327,17 +2330,10 @@
         "cat": "Pro League 🇸🇦",
         "channels_data": [
           {
-            "api": "",
-            "link": "https://rolis.drompakisdoulesonline.online/premium17/tracks-v1a1/mono.m3u8|Referer=https://donis.jimpenopisonline.online/",
-            "logo": "",
-            "title": "THMANYAH HD",
-            "type": "0"
-          },
-          {
             "api": "7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe",
             "link": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
-            "logo": "",
-            "title": "FANCODE 2",
+            "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png",
+            "title": "FANCODE FHD",
             "type": "1"
           },
           {
@@ -2346,6 +2342,13 @@
             "logo": "",
             "title": "FOX DEPORTES",
             "type": "1"
+          },
+          {
+            "api": "",
+            "link": "https://rolis.drompakisdoulesonline.online/premium17/tracks-v1a1/mono.m3u8|Referer=https://donis.jimpenopisonline.online/",
+            "logo": "",
+            "title": "THMANYAH HD",
+            "type": "0"
           }
         ],
         "eventInfo": {
@@ -2361,16 +2364,16 @@
         },
         "formatsNew": [
           {
-            "logo": "",
-            "title": "THMANYAH HD"
-          },
-          {
-            "logo": "",
-            "title": "FANCODE 2"
+            "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png",
+            "title": "FANCODE FHD"
           },
           {
             "logo": "",
             "title": "FOX DEPORTES"
+          },
+          {
+            "logo": "",
+            "title": "THMANYAH HD"
           }
         ],
         "id": "435",
