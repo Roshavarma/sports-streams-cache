@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-16T13:20:21.995646",
+  "last_updated": "2026-05-16T13:30:34.311791",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "06:40:23 PM 16-05-2026",
+    "Last update time": "06:55:21 PM 16-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -1037,6 +1037,13 @@
             "type": "1"
           },
           {
+            "api": "294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b",
+            "link": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd",
+            "logo": "",
+            "title": "TNT SPORTS - AQ",
+            "type": "0"
+          },
+          {
             "api": "",
             "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2005445/FACUP_Ch1605/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com",
             "logo": "",
@@ -1053,9 +1060,10 @@
         ],
         "eventInfo": {
           "endTime": "2026/05/16 16:05:00 +0000",
+          "eventBanner": "null",
           "eventName": "Chelsea vs Manchester City",
           "eventType": "null",
-          "isHot": "0",
+          "isHot": "1",
           "startTime": "2026/05/16 14:00:00 +0000",
           "teamA": "Chelsea",
           "teamAFlag": "https://img.sofascore.com/api/v1/team/38/image",
@@ -1070,6 +1078,10 @@
           {
             "logo": "",
             "title": "SKY SPORTS FHD"
+          },
+          {
+            "logo": "",
+            "title": "TNT SPORTS - AQ"
           },
           {
             "logo": "",
@@ -1165,6 +1177,13 @@
           },
           {
             "api": "",
+            "link": "https://chatgpt.hereisman.net/playlist/50665/load-playlist?|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "title": "BUNDESLIGA HD",
+            "type": "0"
+          },
+          {
+            "api": "",
             "link": "https://bobis.zaglemplokis.online/premium948/tracks-v1a1/mono.m3u8|Referer=https://donis.jimpenopisonline.online/",
             "logo": "",
             "title": "SKY BUNDESLIGA HD",
@@ -1196,6 +1215,10 @@
           },
           {
             "logo": "",
+            "title": "BUNDESLIGA HD"
+          },
+          {
+            "logo": "",
             "title": "SKY BUNDESLIGA HD"
           },
           {
@@ -1212,6 +1235,13 @@
         "adsLimit": "0",
         "cat": "Bundesliga 🇩🇪",
         "channels_data": [
+          {
+            "api": "",
+            "link": "https://chatgpt.hereisman.net/playlist/50663/load-playlist?|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "title": "BUNDESLIGA HD",
+            "type": "0"
+          },
           {
             "api": "",
             "link": "https://rolis.drompakisdoulesonline.online/premium20/tracks-v1a1/mono.m3u8|Referer=https://donis.jimpenopisonline.online/",
@@ -1234,6 +1264,10 @@
         "formatsNew": [
           {
             "logo": "",
+            "title": "BUNDESLIGA HD"
+          },
+          {
+            "logo": "",
             "title": "SKY BUNDESLIGA HD"
           }
         ],
@@ -1246,6 +1280,13 @@
         "adsLimit": "0",
         "cat": "Bundesliga 🇩🇪",
         "channels_data": [
+          {
+            "api": "",
+            "link": "https://chatgpt.hereisman.net/playlist/50658/load-playlist?|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "title": "BUNDESLIGA HD",
+            "type": "0"
+          },
           {
             "api": "",
             "link": "https://bobis.zaglemplokis.online/premium947/tracks-v1a1/mono.m3u8|Referer=https://donis.jimpenopisonline.online/",
@@ -1268,6 +1309,10 @@
         "formatsNew": [
           {
             "logo": "",
+            "title": "BUNDESLIGA HD"
+          },
+          {
+            "logo": "",
             "title": "SKY BUNDESLIGA HD"
           }
         ],
@@ -1282,9 +1327,16 @@
         "channels_data": [
           {
             "api": "",
-            "link": "https://fallback-video.ivan-flux.workers.dev/video/index.m3u8",
+            "link": "https://chatgpt.hereisman.net/playlist/50662/load-playlist?|Referer=https://gooz.aapmains.net",
             "logo": "",
-            "title": "SPORTIFy Live",
+            "title": "BUNDESLIGA HD",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://rolis.drompakisdoulesonline.online/premium17/tracks-v1a1/mono.m3u8|Referer=https://donis.jimpenopisonline.online/",
+            "logo": "",
+            "title": "SKY BUNDESLIGA HD",
             "type": "0"
           }
         ],
@@ -1302,7 +1354,11 @@
         "formatsNew": [
           {
             "logo": "",
-            "title": "SportzX Live"
+            "title": "BUNDESLIGA HD"
+          },
+          {
+            "logo": "",
+            "title": "SKY BUNDESLIGA HD"
           }
         ],
         "id": "406",
@@ -1316,9 +1372,16 @@
         "channels_data": [
           {
             "api": "",
-            "link": "https://fallback-video.ivan-flux.workers.dev/video/index.m3u8",
+            "link": "https://chatgpt.hereisman.net/playlist/50661/load-playlist?|Referer=https://gooz.aapmains.net",
             "logo": "",
-            "title": "SPORTIFy Live",
+            "title": "BUNDESLIGA HD",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://rolis.drompakisdoulesonline.online/premium18/tracks-v1a1/mono.m3u8|Referer=https://donis.jimpenopisonline.online/",
+            "logo": "",
+            "title": "SKY BUNDESLIGA HD",
             "type": "0"
           }
         ],
@@ -1336,7 +1399,11 @@
         "formatsNew": [
           {
             "logo": "",
-            "title": "SportzX Live"
+            "title": "BUNDESLIGA HD"
+          },
+          {
+            "logo": "",
+            "title": "SKY BUNDESLIGA HD"
           }
         ],
         "id": "407",
@@ -1348,6 +1415,13 @@
         "adsLimit": "0",
         "cat": "Bundesliga 🇩🇪",
         "channels_data": [
+          {
+            "api": "",
+            "link": "https://chatgpt.hereisman.net/playlist/50660/load-playlist?|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "title": "BUNDESLIGA HD",
+            "type": "0"
+          },
           {
             "api": "",
             "link": "https://bobis.zaglemplokis.online/premium949/tracks-v1a1/mono.m3u8|Referer=https://donis.jimpenopisonline.online/",
@@ -1370,6 +1444,10 @@
         "formatsNew": [
           {
             "logo": "",
+            "title": "BUNDESLIGA HD"
+          },
+          {
+            "logo": "",
             "title": "SKY BUNDESLIGA HD"
           }
         ],
@@ -1382,6 +1460,13 @@
         "adsLimit": "0",
         "cat": "Bundesliga 🇩🇪",
         "channels_data": [
+          {
+            "api": "",
+            "link": "https://chatgpt.hereisman.net/playlist/50664/load-playlist?|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "title": "BUNDESLIGA HD",
+            "type": "0"
+          },
           {
             "api": "",
             "link": "https://poklis.rontokakishop.online/premium946/tracks-v1a1/mono.m3u8|Referer=https://donis.jimpenopisonline.online/",
@@ -1404,6 +1489,10 @@
         "formatsNew": [
           {
             "logo": "",
+            "title": "BUNDESLIGA HD"
+          },
+          {
+            "logo": "",
             "title": "SKY BUNDESLIGA HD"
           }
         ],
@@ -1418,9 +1507,16 @@
         "channels_data": [
           {
             "api": "",
-            "link": "https://fallback-video.ivan-flux.workers.dev/video/index.m3u8",
+            "link": "https://chatgpt.hereisman.net/playlist/50659/load-playlist?|Referer=https://gooz.aapmains.net",
             "logo": "",
-            "title": "SPORTIFy Live",
+            "title": "BUNDESLIGA HD",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://rolis.drompakisdoulesonline.online/premium19/tracks-v1a1/mono.m3u8|Referer=https://donis.jimpenopisonline.online/",
+            "logo": "",
+            "title": "SKY BUNDESLIGA HD",
             "type": "0"
           }
         ],
@@ -1438,7 +1534,11 @@
         "formatsNew": [
           {
             "logo": "",
-            "title": "SportzX Live"
+            "title": "BUNDESLIGA HD"
+          },
+          {
+            "logo": "",
+            "title": "SKY BUNDESLIGA HD"
           }
         ],
         "id": "410",
