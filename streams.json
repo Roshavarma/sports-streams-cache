@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-16T11:20:20.102825",
+  "last_updated": "2026-05-16T11:30:34.418181",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "04:45:23 PM 16-05-2026",
+    "Last update time": "04:55:20 PM 16-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -1534,6 +1534,13 @@
             "logo": "",
             "title": "SKY MAIN EVENT",
             "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://live.vivo200.com/live/sd-1-4529572.m3u8?txSecret=c8cef66b9f86d6b7a621640d57d3685e&txTime=6A089A40|Referer=https://player.online909.com/",
+            "logo": "",
+            "title": "SPORTIFy Live",
+            "type": "0"
           }
         ],
         "eventInfo": {
@@ -1555,6 +1562,10 @@
           {
             "logo": "",
             "title": "SKY MAIN EVENT"
+          },
+          {
+            "logo": "",
+            "title": "SportzX Live"
           }
         ],
         "id": "416",
@@ -1833,52 +1844,6 @@
         "image": "o",
         "publish": "1",
         "title": "Racing Club vs Real Valladolid"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "ICC Event",
-        "channels_data": [
-          {
-            "api": "ceefc1238c47462b9771138fa31760c5:7ecd1d268c16280a2628366315fcf871",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/14xljfwurf/out/v1/7049ff74e1b540ad941ccf68821c406f/cenc.mpd",
-            "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
-            "title": "Willow FHD AQ",
-            "type": "1"
-          },
-          {
-            "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
-            "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
-            "title": "Willow HD",
-            "type": "1"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/16 12:05:00 +0000",
-          "eventBanner": "null",
-          "eventName": "Nepal vs USA",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/16 03:45:00 +0000",
-          "teamA": "Nepal",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/187772/image",
-          "teamB": "USA",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/199276/image"
-        },
-        "formatsNew": [
-          {
-            "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
-            "title": "Willow FHD AQ"
-          },
-          {
-            "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
-            "title": "Willow HD"
-          }
-        ],
-        "id": "425",
-        "image": "o",
-        "publish": "1",
-        "title": "Nepal vs USA"
       }
     ]
   }
