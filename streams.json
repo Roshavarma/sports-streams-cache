@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-16T04:30:34.488557",
+  "last_updated": "2026-05-16T04:40:21.168495",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "09:55:25 AM 16-05-2026",
+    "Last update time": "10:05:23 AM 16-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -643,34 +643,6 @@
         "image": "o",
         "publish": "1",
         "title": "Sparks vs Toronto Tempo"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "MLB",
-        "channels_data": [
-          {
-            "api": "",
-            "link": "https://mainstreams.pro/hls/hefbafbakx28.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-            "logo": "",
-            "title": "SPORTIFy Live",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/16 04:40:00 +0000",
-          "eventName": "Seattle Mariners vs San Diego Padres",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/16 01:40:00 +0000",
-          "teamA": "Mariners",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3641/image",
-          "teamB": "Padres",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3636/image"
-        },
-        "id": "399",
-        "image": "o",
-        "publish": "1",
-        "title": "Seattle Mariners"
       },
       {
         "adsLimit": "0",
