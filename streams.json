@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-16T05:10:25.396134",
+  "last_updated": "2026-05-16T05:20:21.767297",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "10:35:22 AM 16-05-2026",
+    "Last update time": "10:45:29 AM 16-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -881,6 +881,40 @@
       },
       {
         "adsLimit": "0",
+        "cat": "AFC Champions Two",
+        "channels_data": [
+          {
+            "api": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
+            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
+            "logo": "",
+            "title": "SportDigital Fussball",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/16 19:45:00 +0000",
+          "eventName": "Al-Nassr vs Gamba Osaka",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/16 17:45:00 +0000",
+          "teamA": "Al-Nassr",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/23400/image",
+          "teamB": "Gamba Osaka",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3138/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "SportDigital Fussball"
+          }
+        ],
+        "id": "385",
+        "image": "o",
+        "publish": "1",
+        "title": "Al-Nassr vs Gamba Osaka"
+      },
+      {
+        "adsLimit": "0",
         "cat": "FA Cup",
         "channels_data": [
           {
@@ -996,6 +1030,10 @@
           {
             "logo": "",
             "title": "beIN ENGLISH"
+          },
+          {
+            "logo": "",
+            "title": "SporTV BR"
           }
         ],
         "id": "402",
@@ -1280,8 +1318,22 @@
         "cat": "Pro League 🇸🇦",
         "channels_data": [
           {
+            "api": "4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733",
+            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd",
+            "logo": "",
+            "title": "SporTV BR",
+            "type": "1"
+          },
+          {
+            "api": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
+            "logo": "",
+            "title": "FOX DEPORTES",
+            "type": "1"
+          },
+          {
             "api": "",
-            "link": "https://rolis.drompakisdoulesonline.online/premium5/tracks-v1a1/mono.m3u8|Referer=https://donis.jimpenopisonline.online/",
+            "link": "https://rolis.drompakisdoulesonline.online/premium9/tracks-v1a1/mono.m3u8|Referer=https://donis.jimpenopisonline.online/",
             "logo": "",
             "title": "THMANYAH HD",
             "type": "0"
@@ -1323,7 +1375,7 @@
         "channels_data": [
           {
             "api": "",
-            "link": "https://rolis.drompakisdoulesonline.online/premium2/tracks-v1a1/mono.m3u8|Referer=https://donis.jimpenopisonline.online/",
+            "link": "https://rolis.drompakisdoulesonline.online/premium10/tracks-v1a1/mono.m3u8|Referer=https://donis.jimpenopisonline.online/",
             "logo": "",
             "title": "THMANYAH HD",
             "type": "0"
@@ -1656,6 +1708,108 @@
         "image": "o",
         "publish": "1",
         "title": "Estoril Praia vs Benfica"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "LaLiga 2",
+        "channels_data": [
+          {
+            "api": "d69894c7b729c5d1e85893e5e6cfcb0f:db0d53f871f5d2ef91d3a112c7ec9f30",
+            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/tcninbbnt5/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd",
+            "logo": "",
+            "title": "Laliga Hypermotion ES",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/16 14:00:00 +0000",
+          "eventName": "Real Sociedad II vs Mirandés",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/16 12:00:00 +0000",
+          "teamA": "Real Sociedad B U21",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/24360/image",
+          "teamB": "Mirandés",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/35092/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "Laliga Hypermotion ES"
+          }
+        ],
+        "id": "422",
+        "image": "o",
+        "publish": "1",
+        "title": "Real Sociedad II vs Mirandés"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "LaLiga 2",
+        "channels_data": [
+          {
+            "api": "d69894c7b729c5d1e85893e5e6cfcb0f:db0d53f871f5d2ef91d3a112c7ec9f30",
+            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/tcninbbnt5/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd",
+            "logo": "",
+            "title": "Laliga Hypermotion ES",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/16 16:15:00 +0000",
+          "eventName": "AD Ceuta vs Málaga CF",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/16 14:15:00 +0000",
+          "teamA": "Ceuta",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2869/image",
+          "teamB": "Málaga",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2830/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "Laliga Hypermotion ES"
+          }
+        ],
+        "id": "423",
+        "image": "o",
+        "publish": "1",
+        "title": "AD Ceuta vs Málaga"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "LaLiga 2",
+        "channels_data": [
+          {
+            "api": "d69894c7b729c5d1e85893e5e6cfcb0f:db0d53f871f5d2ef91d3a112c7ec9f30",
+            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/tcninbbnt5/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd",
+            "logo": "",
+            "title": "Laliga Hypermotion ES",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/16 18:30:00 +0000",
+          "eventName": "Racing Club vs Real Valladolid",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/16 16:30:00 +0000",
+          "teamA": "R. Racing Club",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2835/image",
+          "teamB": "Real Valladolid",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2831/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "Laliga Hypermotion ES"
+          }
+        ],
+        "id": "424",
+        "image": "o",
+        "publish": "1",
+        "title": "Racing Club vs Real Valladolid"
       }
     ]
   }
