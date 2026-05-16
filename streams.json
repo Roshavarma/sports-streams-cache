@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-16T18:50:23.297023",
+  "last_updated": "2026-05-16T19:00:46.464483",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "12:15:22 AM 17-05-2026",
+    "Last update time": "12:25:20 AM 17-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -870,15 +870,15 @@
           }
         ],
         "eventInfo": {
-          "endTime": "2026/05/16 17:55:00 +0000",
-          "eventName": "Kolkata Knight Riders vs Gujarat Titans",
+          "endTime": "2026/05/17 13:45:00 +0000",
+          "eventName": "Punjab Kings vs Royal Challengers Bengaluru",
           "eventType": "null",
           "isHot": "0",
-          "startTime": "2026/05/16 14:00:00 +0000",
-          "teamA": "KKR",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/187775/image",
-          "teamB": "GT",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/216006/image"
+          "startTime": "2026/05/17 10:00:00 +0000",
+          "teamA": "PBKS",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/187776/image",
+          "teamB": "RCB",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/187843/image"
         },
         "formatsNew": [
           {
@@ -930,6 +930,106 @@
         "image": "o",
         "publish": "1",
         "title": "IPL - 01"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "Indian Premier League",
+        "channels_data": [
+          {
+            "api": "278b8746b7c7410e901af0aa3774f037:15e1142d647b474ebbd49e41efa2a9d7",
+            "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1778479837~acl=%2F*~id=f982c1bc-036d-4277-baf9-6df46863b3ee~data=hdntl,aXA9MTA4LjE4MS4wLjEwOSZleHA9MTc3ODM5MzQ2NyZlaWQ9OTM5NjY2Jm9pZD0xNTQmdHlwZT1WT0QmdWlkPXhSUnFvOXxiY2FlYTdjZi1jMzM3LTQwMzktODE1OC0zYzFjZTQ5ZTcyOTMmY2lkPWRjZS5maXNmZWQmcHQ9bnVsbA~hmac=a0a3328a3b0e5421968984ebacecaf3ebf8fac58bf8a7ff905f235b2076347d9/dash/live/2093720/219029-321032/manifest-d.mpd",
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
+            "title": "SKY SPORTS FHD",
+            "type": "1"
+          },
+          {
+            "api": "33f0135bc99bd90a1356c18086a7f9c0:923c0db66811b455400da2682c903b37",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/pjo2efuu08/out/v1/37c363392c5c4820b1af1056273ab74c/cenc.mpd",
+            "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
+            "title": "WILLOW [Ad-Free]",
+            "type": "1"
+          },
+          {
+            "api": "06f978bb1c7b553aaecaff569e4c1b32:3e0e22ad71d1ab24d66f38a908948901",
+            "link": "https://dck1-fs-live.dtcdn.dazn.com/out/v1/814bffb9b389f652/29464dfd2018437699204fcb82b2a3f6/index.mpd",
+            "logo": "https://play-lh.googleusercontent.com/cnJUFy1qP5kPvc1gFrTNuh1Lg8KlS0meXk2Sxsxr-7VfDD0PAJnFkI41fKC41BQlE44",
+            "title": "KAYO HINDI FHD",
+            "type": "1"
+          },
+          {
+            "api": "",
+            "link": "https://dai.google.com/linear/hls/event/mbsfWpAoS2Olw5e-nkM-gw/master.m3u8|user-agent=Cricbuzz/7.00.01 (Linux;Android 13) AndroidXMedia3/1.5.1&x-forwarded-for=1.178.20.23",
+            "logo": "",
+            "title": "NOON SPORTS",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://dfdsfergf.zulo-0084.online/ipl-english.m3u8|referer=https://estraaw.pages.dev/",
+            "logo": "",
+            "title": "HUB SPORTS FHD",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "http://datahub11.com:80/live/Jen12345/Jen54321/703300.ts",
+            "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
+            "title": "WILLOW HINDI",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://v.zgdyoqa.shop/hls/JPPPX.m3u8|Referer=http://www.fawanews.sc/",
+            "logo": "",
+            "title": "SD SERVER",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/17 17:45:00 +0000",
+          "eventName": "Delhi Capitals vs Rajasthan Royals",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/17 14:00:00 +0000",
+          "teamA": "DC",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/187841/image",
+          "teamB": "RR",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/187842/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
+            "title": "SKY SPORTS FHD"
+          },
+          {
+            "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
+            "title": "WILLOW [Ad-Free]"
+          },
+          {
+            "logo": "https://play-lh.googleusercontent.com/cnJUFy1qP5kPvc1gFrTNuh1Lg8KlS0meXk2Sxsxr-7VfDD0PAJnFkI41fKC41BQlE44",
+            "title": "KAYO HINDI FHD"
+          },
+          {
+            "logo": "",
+            "title": "NOON SPORTS"
+          },
+          {
+            "logo": "",
+            "title": "HUB SPORTS FHD"
+          },
+          {
+            "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
+            "title": "WILLOW HINDI"
+          },
+          {
+            "logo": "",
+            "title": "SD SERVER"
+          }
+        ],
+        "id": "367",
+        "image": "o",
+        "publish": "1",
+        "title": "IPL - 02"
       },
       {
         "adsLimit": "9",
@@ -2234,6 +2334,135 @@
         "image": "o",
         "publish": "1",
         "title": "Dave Allen"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "Brasileirão",
+        "channels_data": [
+          {
+            "api": "56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd",
+            "title": "PREMIERER BR",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/17 00:30:00 +0000",
+          "eventName": "Atlético Mineiro vs Mirassol",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/16 21:30:00 +0000",
+          "teamA": "Atlético-MG",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/1977/image",
+          "teamB": "Mirassol",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/21982/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "PREMIERER BR"
+          }
+        ],
+        "id": "437",
+        "image": "o",
+        "publish": "1",
+        "title": "Atlético Mineiro vs Mirassol"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "Brasileirão",
+        "channels_data": [
+          {
+            "api": "d23f7433798a652a7d4f6791d9e1036c:4942eebd598b5727c5cc484cc62b52e8",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/6onrfniyry/out/v1/f23069c61dbf4e00890a40b705a84079/cenc.mpd",
+            "title": "PREMIERER BR",
+            "type": "1"
+          },
+          {
+            "api": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
+            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
+            "title": "PREMIER SPORTS",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/17 00:00:00 +0000",
+          "eventName": "Fluminense vs São Paulo",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/16 22:00:00 +0000",
+          "teamA": "Fluminense",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/1961/image",
+          "teamB": "São Paulo",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/1981/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "PREMIERER BR"
+          },
+          {
+            "logo": "",
+            "title": "PREMIER SPORTS"
+          }
+        ],
+        "id": "438",
+        "image": "o",
+        "publish": "1",
+        "title": "Fluminense vs São Paulo"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "Brasileirão",
+        "channels_data": [
+          {
+            "api": "4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733",
+            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd",
+            "title": "SporTV BR",
+            "type": "1"
+          },
+          {
+            "api": "9dc40460c93087aea84d6315f08ecb64:f69c8d4624fddff4ca89bd0b31bdc4a7",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/oy6rp0jwmf/out/v1/580ecf12bad24979baf8dd993dce053e/cenc.mpd",
+            "title": "PREMIERER BR",
+            "type": "1"
+          },
+          {
+            "api": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
+            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
+            "title": "SportDigital Fussball",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/17 02:00:00 +0000",
+          "eventName": "Palmeiras vs Cruzeiro",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/17 00:00:00 +0000",
+          "teamA": "Palmeiras",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/1963/image",
+          "teamB": "Cruzeiro",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/1954/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "SporTV BR"
+          },
+          {
+            "logo": "",
+            "title": "PREMIERER BR"
+          },
+          {
+            "logo": "",
+            "title": "SportDigital Fussball"
+          }
+        ],
+        "id": "439",
+        "image": "o",
+        "publish": "1",
+        "title": "Palmeiras vs Cruzeiro"
       }
     ]
   }
