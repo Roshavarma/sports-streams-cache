@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-16T13:50:23.266686",
+  "last_updated": "2026-05-16T14:00:50.364834",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "07:15:28 PM 16-05-2026",
+    "Last update time": "07:25:19 PM 16-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -800,17 +800,17 @@
         "cat": "Indian Premier League",
         "channels_data": [
           {
+            "api": "9416822ce0c583c806c5952f0e489340:160d594440e7a02e31268970U91\u001548e0",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vvhwouypri/out/v1/1feb25177e444c5887885d4391f6adf7/cenc.mpd",
+            "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
+            "title": "WILLOW [Ad-Free]",
+            "type": "1"
+          },
+          {
             "api": "2e2636daa74141b68cc14882ea3ff82b:0961f48287324adbb4b7ff3c1d8\u0012b3c9",
             "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1779004332~acl=%2f*~id=47e00c61-0c64-44b5-ad51-f47f4396a68e~data=hdntl,aXA9MTcyLjE4Mi4yMjQuMTE4JmV4cD0xNzc4OTE3OTYyJmVpZD05Mzk1ODUmb2lkPTE1NCZ0eXBlPVZPRCZ1aWQ9YWRjV1lXfGI2MGFmMjk5LTAzOTEtNGQxZi1hNmQwLWQ4MjQ0ZGZhZjFjOSZjaWQ9ZGNlLmZpc2ZlZCZwdD1udWxs~hmac=9d506389b11ec46d4cc77a61dbef11ae64077d824501399f1ae6b8feb200bdce/dash/live/2093717/219028-321030/manifest-d.mpd",
             "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
             "title": "SKY SPORTS FHD",
-            "type": "1"
-          },
-          {
-            "api": "52f6c9edbc5f7625951859221e74ab21:cc08ca50dcc9f2bc40dd22cfXd4\u0014c34b",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/t2iwih5bvd/out/v1/04f7b999f7b84b56a2fc4bab5be0bfd9/cenc.mpd",
-            "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
-            "title": "WILLOW [Ad-Free]",
             "type": "1"
           },
           {
@@ -883,12 +883,12 @@
         },
         "formatsNew": [
           {
-            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
-            "title": "SKY SPORTS FHD"
-          },
-          {
             "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
             "title": "WILLOW [Ad-Free]"
+          },
+          {
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
+            "title": "SKY SPORTS FHD"
           },
           {
             "logo": "",
@@ -1041,6 +1041,13 @@
             "link": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd",
             "logo": "",
             "title": "TNT SPORTS - AQ",
+            "type": "1"
+          },
+          {
+            "api": "",
+            "link": "https://livecdn-tc-livestream.rumsport10.live/stream/27/chunks.m3u8?is_vip=false&token=1779025577-Kv4cPTAAP5YTi-2223516ee6861d31f8b0239a4aaf0e07a93fd97b-4036f30ebd1e76f71a5c4bf44752d0cb",
+            "logo": "",
+            "title": "STAN SPORTS HD",
             "type": "0"
           },
           {
@@ -1082,6 +1089,14 @@
           {
             "logo": "",
             "title": "TNT SPORTS - AQ"
+          },
+          {
+            "logo": "",
+            "title": "ESPN SPORTS HD"
+          },
+          {
+            "logo": "",
+            "title": "STAN SPORTS HD"
           },
           {
             "logo": "",
