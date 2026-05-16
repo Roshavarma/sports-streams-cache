@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-16T04:00:45.101308",
+  "last_updated": "2026-05-16T04:10:22.398142",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "09:25:21 AM 16-05-2026",
+    "Last update time": "09:35:22 AM 16-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -446,8 +446,8 @@
         "cat": "Cricket",
         "channels_data": [
           {
-            "api": "708a98b352bd4418a73a028edd84da8f:b1fa5c2bca4c4b57b924b748564532cb",
-            "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1778623594~acl=%2F*~id=80e00416-d077-451a-979a-684373b1320d~data=hdntl,aXA9MTA4LjE4MS40LjY5JmV4cD0xNzc4NTM3MjI0JmVpZD05Mzk5NjMmb2lkPTE1NCZ0eXBlPVZPRCZ1aWQ9eFJScW85fGJjYWVhN2NmLWMzMzctNDAzOS04MTU4LTNjMWNlNDllNzI5MyZjaWQ9ZGNlLmZpc2ZlZCZwdD1udWxs~hmac=ad40f79be2e3554e71b2e48ac067fc40c6f9495500843971e7ea18f4d801f408/dash/live/2093715/219027-321028/manifest-d.mpd",
+            "api": "fdd24dd2c6c14126ad7c1ad1066b03dd:08289c6d57d54e8d8dca55e1862afb82",
+            "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1778983761~acl=%2F*~id=eb658120-d2e7-451b-9f40-b28545bb374e~data=hdntl,aXA9NjguMjIwLjYwLjAmZXhwPTE3Nzg4OTczOTAmZWlkPTkzOTk3NyZvaWQ9MTU0JnR5cGU9Vk9EJnVpZD00aGJBTkR8YmQyNjEyMTctNzUzZC00NjY4LTkzNzctZjhiM2NlNzg4ZDA2JmNpZD1kY2UuZmlzZmVkJnB0PW51bGw~hmac=320eb7afe9c03bc4f31835809b65153cdfde0585e050d051ece7ac76cfd137f6/dash/live/2093722/219032-321033/manifest-d.mpd",
             "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
             "title": "SKY SPORTS FHD",
             "type": "1"
@@ -460,8 +460,8 @@
             "type": "1"
           },
           {
-            "api": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
+            "api": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
+            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
             "logo": "https://play-lh.googleusercontent.com/zG_ZS5v4PfHqWqWLkpVkZB9wRu9MJmEqD4tNpeIYwLOcjU3INQlFeTxoVgwV1R2CbcsI",
             "title": "PREMIER SPORTS",
             "type": "1"
@@ -811,62 +811,6 @@
         "image": "o",
         "publish": "1",
         "title": "Sparks vs Toronto Tempo"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "MLB",
-        "channels_data": [
-          {
-            "api": "",
-            "link": "https://mainstreams.pro/hls/kjhfzua25.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-            "logo": "",
-            "title": "SPORTIFy Live",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/16 03:15:00 +0000",
-          "eventName": "St. Louis Cardinals vs Kansas City Royals",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/16 00:15:00 +0000",
-          "teamA": "Cardinals",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3632/image",
-          "teamB": "Royals",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3651/image"
-        },
-        "id": "394",
-        "image": "o",
-        "publish": "1",
-        "title": "St. Louis Cardinals"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "MLB",
-        "channels_data": [
-          {
-            "api": "",
-            "link": "https://mainstreams.pro/hls/dzjhkfazbka26.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-            "logo": "",
-            "title": "SPORTIFy Live",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/16 03:40:00 +0000",
-          "eventName": "Colorado Rockies vs Arizona Diamondbacks",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/16 00:40:00 +0000",
-          "teamA": "Rockies",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3628/image",
-          "teamB": "Diamondbacks",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3640/image"
-        },
-        "id": "395",
-        "image": "o",
-        "publish": "1",
-        "title": "Colorado Rockies"
       },
       {
         "adsLimit": "0",
