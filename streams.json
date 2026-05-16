@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-16T11:00:45.136068",
+  "last_updated": "2026-05-16T11:10:25.197721",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "04:25:18 PM 16-05-2026",
+    "Last update time": "04:35:19 PM 16-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -1527,6 +1527,13 @@
             "logo": "",
             "title": "SportDigital Fussball",
             "type": "1"
+          },
+          {
+            "api": "",
+            "link": "https://chatgpt.hereisman.net/playlist/50652/load-playlist?|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "title": "SKY MAIN EVENT",
+            "type": "0"
           }
         ],
         "eventInfo": {
@@ -1544,6 +1551,10 @@
           {
             "logo": "",
             "title": "SportDigital Fussball"
+          },
+          {
+            "logo": "",
+            "title": "SKY MAIN EVENT"
           }
         ],
         "id": "416",
