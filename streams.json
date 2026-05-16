@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-16T17:00:44.158639",
+  "last_updated": "2026-05-16T17:10:21.199729",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "10:25:16 PM 16-05-2026",
+    "Last update time": "10:35:21 PM 16-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -2380,6 +2380,51 @@
         "image": "o",
         "publish": "1",
         "title": "Al-Ahli vs Al-Kholood"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "Boxing",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://bo3.bofiles.cfd/live/filip/stream.m3u8",
+            "logo": "",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://chatgpt.hereisman.net/playlist/50678/load-playlist?|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "title": "HD SERVER",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/16 21:00:00 +0000",
+          "eventName": "Dave Allen vs Filip Hrgović",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/16 17:00:00 +0000",
+          "teamA": "Dave Allen",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/518989/image",
+          "teamB": "Filip Hrgović",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/1084274/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "SportzX Live"
+          },
+          {
+            "logo": "",
+            "title": "HD SERVER"
+          }
+        ],
+        "id": "436",
+        "image": "o",
+        "publish": "1",
+        "title": "Dave Allen"
       }
     ]
   }
