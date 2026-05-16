@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-16T23:40:23.449719",
+  "last_updated": "2026-05-16T23:50:23.696990",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "05:05:22 AM 17-05-2026",
+    "Last update time": "05:15:27 AM 17-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -362,7 +362,7 @@
           "eventBanner": "null",
           "eventName": "UFC Fight Night: Allen vs. Costa",
           "eventType": "null",
-          "isHot": "0",
+          "isHot": "1",
           "startTime": "2026/05/16 21:00:00 +0000",
           "teamA": "Arnold Allen",
           "teamAFlag": "https://img.sofascore.com/api/v1/team/469994/image",
@@ -1076,7 +1076,7 @@
           "endTime": "2026/05/03 18:45:00 +0000",
           "eventName": "Peshawar Zalmi vs Hyderabad Kingsmen",
           "eventType": "null",
-          "isHot": "0",
+          "isHot": "1",
           "startTime": "2026/05/03 15:00:00 +0000",
           "teamA": "PES",
           "teamAFlag": "https://img.sofascore.com/api/v1/team/212420/image",
@@ -1084,6 +1084,10 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/1178235/image"
         },
         "formatsNew": [
+          {
+            "logo": "",
+            "title": "NETFLIX PPV HD"
+          },
           {
             "logo": "",
             "title": "NETFLIX PPV"
@@ -1097,6 +1101,39 @@
         "image": "o",
         "publish": "1",
         "title": "Ronda Rousey vs Gina Carano"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "Boxing",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://chatgpt.hereisman.net/playlist/50679/load-playlist?|Referer=https://gooz.aapmains.net",
+            "title": "DAZN PPV HD",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/17 03:00:00 +0000",
+          "eventName": "Keyshawn Davis vs Nahir Albright",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/17 00:00:00 +0000",
+          "teamA": "K. Davis",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/1076152/image",
+          "teamB": "N. Albright",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/1097350/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "DAZN PPV HD"
+          }
+        ],
+        "id": "370",
+        "image": "o",
+        "publish": "1",
+        "title": "Keyshawn Davis vs Nahir Albright"
       },
       {
         "adsLimit": "9",
@@ -1167,6 +1204,13 @@
           },
           {
             "api": "",
+            "link": "https://chatgpt.hereisman.net/playlist/50718/load-playlist?|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "title": "SPORTIFy NHL",
+            "type": "0"
+          },
+          {
+            "api": "",
             "link": "https://edge2caster.pro/hls/uyopzarf50.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
             "logo": "",
             "title": "SPORTIFy Live",
@@ -1195,6 +1239,10 @@
           {
             "logo": "",
             "title": "PREMIER SPORTS"
+          },
+          {
+            "logo": "",
+            "title": "SportzX NHL"
           },
           {
             "logo": "",
