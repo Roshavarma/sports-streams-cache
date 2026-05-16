@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-16T05:40:19.376511",
+  "last_updated": "2026-05-16T05:50:22.494925",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "11:05:16 AM 16-05-2026",
+    "Last update time": "11:15:21 AM 16-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -642,67 +642,18 @@
         "cat": "FA Cup",
         "channels_data": [
           {
-            "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
-            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
+            "api": "294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd",
             "logo": "",
-            "title": "beIN ENGLISH",
+            "title": "TNT SPORTS FHD",
             "type": "1"
           },
           {
-            "api": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f",
-            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
-            "logo": "https://play-lh.googleusercontent.com/zG_ZS5v4PfHqWqWLkpVkZB9wRu9MJmEqD4tNpeIYwLOcjU3INQlFeTxoVgwV1R2CbcsI",
-            "title": "PREMIER SPORTS",
+            "api": "e87521b3dfa44ed9ba004012dcb89172:bba9734a9d724531bbab7ef5d64ca1f8",
+            "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1778983761~acl=%2F*~id=eb658120-d2e7-451b-9f40-b28545bb374e~data=hdntl,aXA9NjguMjIwLjYwLjAmZXhwPTE3Nzg4OTczOTAmZWlkPTkzOTk3NyZvaWQ9MTU0JnR5cGU9Vk9EJnVpZD00aGJBTkR8YmQyNjEyMTctNzUzZC00NjY4LTkzNzctZjhiM2NlNzg4ZDA2JmNpZD1kY2UuZmlzZmVkJnB0PW51bGw~hmac=320eb7afe9c03bc4f31835809b65153cdfde0585e050d051ece7ac76cfd137f6/dash/live/2093709/219033-321024/manifest-d.mpd",
+            "logo": "",
+            "title": "SKY SPORTS FHD",
             "type": "1"
-          },
-          {
-            "api": "620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a",
-            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd",
-            "logo": "",
-            "title": "Laliga TV FHD",
-            "type": "1"
-          },
-          {
-            "api": "065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2",
-            "link": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
-            "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png",
-            "title": "FANCODE FHD",
-            "type": "1"
-          },
-          {
-            "api": "",
-            "link": "https://iptv.852851.xyz/ch/8a2742ca6f44887706dc2cd75a458de3/master.m3u8",
-            "logo": "",
-            "title": "beIN SPORTS HD",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://chatgpt.hereisman.net/playlist/50586/load-playlist?|Referer=https://gooz.aapmains.net",
-            "logo": "",
-            "title": "ESPN DEPORTES",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/yUsX6j0ECDS0_amIkEmoqaxJjHjrozZxkctyjlWx2t-arm-dvPoJbO4HmVEgMc8zO1UnGrEgMnEZ8za6sAXeCQ/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_delta.m3u8?type=live",
-            "logo": "",
-            "title": "beIN ARABIC HD",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://livecdn-bp-livestream.rumsport7.live/stream/7/chunks.m3u8?is_vip=false&token=4306e5316cdca8d2959fc90ef087868dd9f40498&x-sign=6e137c7b366326a3bff39d6a36875b5b&x-time=1778786280",
-            "logo": "",
-            "title": "SPY HD LIVE",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://play.ltwxsc.com/live/hd-en-6MuSsYd5fGdvy5ygsx.m3u8?txSecret=6658c56bfe5b7d02c0c32ce5359b6c47&txTime=6A064A19",
-            "logo": "",
-            "title": "SPORTIFy Live",
-            "type": "0"
           }
         ],
         "eventInfo": {
@@ -1392,6 +1343,41 @@
         "image": "o",
         "publish": "1",
         "title": "Racing Club vs Real Valladolid"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "ICC Event",
+        "channels_data": [
+          {
+            "api": "7ecd1d268c16280a2628366315fcf871:ceefc1238c47462b9771138fa31760c5",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/14xljfwurf/out/v1/7049ff74e1b540ad941ccf68821c406f/cenc.mpd",
+            "logo": "",
+            "title": "Willow AQ",
+            "type": "1"
+          },
+          {
+            "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+            "logo": "",
+            "title": "Willow HD",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/16 08:45:00 +0000",
+          "eventName": "Nepal vs USA",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/16 03:45:00 +0000",
+          "teamA": "Nepal",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/187772/image",
+          "teamB": "USA",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/199276/image"
+        },
+        "id": "425",
+        "image": "o",
+        "publish": "1",
+        "title": "Nepal vs USA"
       }
     ]
   }
