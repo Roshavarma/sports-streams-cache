@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-16T12:10:22.139205",
+  "last_updated": "2026-05-16T12:20:26.385622",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "05:35:20 PM 16-05-2026",
+    "Last update time": "05:45:28 PM 16-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -305,6 +305,118 @@
         "title": "MotoGP"
       },
       {
+        "adsLimit": "17",
+        "cat": "UFC",
+        "channels_data": [
+          {
+            "api": "d0f2e5c39e70c18f29bf77768a1ad89a:d6853c51fcf37a18905f0609972395d7",
+            "link": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd",
+            "title": "TNT Sports",
+            "type": "1"
+          },
+          {
+            "api": "",
+            "link": "https://indiasmellsverybad.xyz/live/ufc-on-espn-73-royval-vs-kape720p/index.m3u8",
+            "title": "SPORTIFy UFC",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://gg.poocloud.in/ufc/tracks-v1a1/mono.ts.m3u8?|Referer=https://ppv.to/&Origin=https://ppv.to",
+            "title": "SPORTIFy FHD",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://red9.lumenlyra.space/playlist/41184/load-playlist?|Referer=https://gooz.aapmains.net",
+            "title": "SPORTIFy TV+ HD",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://edgestreams.pro/hls/zeuryuegn48.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+            "title": "SPORTIFy Low",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://azplay.live/hls/NFLHD30/index.m3u8?|Referer=https://arizonaplay.club/&Origin=https://arizonaplay.club",
+            "title": "SPORTIFy HD",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://cdn1.dtplumber.cfd/live/cdn1/chunks.m3u8",
+            "title": "FAST Server",
+            "type": "0"
+          },
+          {
+            "api": "a49085f8da5e65af1efff0edac830b1f:4659bc58a85c062e3fe0c039a446fe47",
+            "link": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/8mxwjnh2te/out/v1/356704796c0c4bed81f67cd3518d0c8a/cenc.mpd",
+            "title": "UFC+ - AQ",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/17 05:20:00 +0000",
+          "eventBanner": "null",
+          "eventName": "UFC Fight Night: Allen vs. Costa",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/16 21:00:00 +0000",
+          "teamA": "Arnold Allen",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/469994/image",
+          "teamB": "Melquizael Costa",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/473425/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "UFC MAIN EVENT"
+          },
+          {
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10",
+            "title": "TNT SPORTS FHD"
+          },
+          {
+            "logo": "",
+            "title": "SETANTA SPORTS"
+          },
+          {
+            "logo": "",
+            "title": "PARAMOUNT+ AQ"
+          },
+          {
+            "logo": "",
+            "title": "PARAMOUNT+ HD"
+          },
+          {
+            "logo": "",
+            "title": "SPX UFC+ FHD"
+          },
+          {
+            "logo": "",
+            "title": "SPX UFC+ HD"
+          },
+          {
+            "logo": "",
+            "title": "Paramount+ BR"
+          },
+          {
+            "logo": "",
+            "title": "SportzX LIVE"
+          },
+          {
+            "logo": "",
+            "title": "UFC+ - AQ"
+          }
+        ],
+        "id": "324",
+        "image": "o",
+        "publish": "1",
+        "title": "UFC"
+      },
+      {
         "adsLimit": "0",
         "cat": "Boxing",
         "channels_data": [
@@ -445,95 +557,6 @@
         "image": "o",
         "publish": "1",
         "title": "WWE Raw"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "WWE",
-        "channels_data": [
-          {
-            "api": "",
-            "link": "https://chatgpt.hereisman.net/playlist/50613/load-playlist?|Referer=https://gooz.aapmains.net",
-            "logo": "",
-            "title": "SPORTIFy WWE",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://29pisfqlcvyi.windows-devs.top/AccessLog2/83_FHD/apache.m3u8|Referer=https://29pisfqlcvyi.windows-devs.top/",
-            "logo": "",
-            "title": "SPORTIFy Live",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://26hrwgorfcmh.windows-devs.top/AccessLog2/108084_HD/apache.m3u8|Referer=https://26hrwgorfcmh.windows-devs.top/",
-            "logo": "",
-            "title": "Backup HD",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://android-database1.firebase-api.com/AccessLog2/108085_HD/apache.m3u8|Referer=https://android-database1.firebase-api.com",
-            "logo": "",
-            "title": "Backup SD",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://29pisfqlcvyi.windows-devs.top/AccessLog2/108085_HD/apache.m3u8|Referer=https://29pisfqlcvyi.windows-devs.top/",
-            "logo": "",
-            "title": "USA TV HD",
-            "type": "0"
-          },
-          {
-            "api": "58551b13211b37d5b325d67e5c6cabef:3b4c3f8b4236fc57d66cdb54a606fe41",
-            "link": "https://g001-sle-us-cmaf-prd-ak.pcdn03.cssott.com/Content/CMAF_OS1-CTR-4s-v2/Live/channel(12010340-12010340-4445585a62764)/master_2hr.mpd",
-            "logo": "",
-            "title": "USA TV (USA VPN)",
-            "type": "1"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/16 02:45:00 +0000",
-          "eventName": "🥊 WWE Friday Night SmackDown",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/16 00:00:00 +0000",
-          "teamA": "WWE",
-          "teamAFlag": "https://www.wwe.com/f/styles/wwe_show_logo_l/public/all/2024/09/Smackdown_LOGO--c8e0b09904cb1356d309a8ea2acb0422.png",
-          "teamB": "WWE",
-          "teamBFlag": "https://www.wwe.com/f/styles/wwe_show_logo_l/public/all/2024/09/Smackdown_LOGO--c8e0b09904cb1356d309a8ea2acb0422.png"
-        },
-        "formatsNew": [
-          {
-            "logo": "",
-            "title": "SportzX WWE"
-          },
-          {
-            "logo": "",
-            "title": "SportzX Live"
-          },
-          {
-            "logo": "",
-            "title": "Backup HD"
-          },
-          {
-            "logo": "",
-            "title": "Backup SD"
-          },
-          {
-            "logo": "",
-            "title": "USA TV HD"
-          },
-          {
-            "logo": "",
-            "title": "USA TV (USA VPN)"
-          }
-        ],
-        "id": "329",
-        "image": "o",
-        "publish": "1",
-        "title": "WWE Smackdown"
       },
       {
         "adsLimit": "0",
