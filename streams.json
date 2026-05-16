@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-16T08:40:20.560505",
+  "last_updated": "2026-05-16T08:50:20.836818",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "02:05:22 PM 16-05-2026",
+    "Last update time": "02:15:23 PM 16-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -199,6 +199,13 @@
         "cat": "MotoGP",
         "channels_data": [
           {
+            "api": "e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de",
+            "link": "https://live-emt-pv-ta.amazon.fastly-edge.com/PDX/709b3c4313a9405ab5e8634864c7cc3b/v1/dash/590183725645/imdb_amagi_amzn1_dv_live_csid_5357cf2a-51c8-4fa5-b996-cd307e0b7edc_us-west-2_pdx_dash_h264/startover/clients/dash/manipulated-manifest-pdx-prod/enc/xn1ww1wqze/out/v1/30f3ad9ba2c340739ea2943f29d44b32/2d4c0663-3f53-410f-9c43-2129136c9eb1-cenc.mpd?aws.sessionId=600a1abb-f5f1-44f2-b042-7fad259e4c9b",
+            "logo": "",
+            "title": "MotoGP",
+            "type": "1"
+          },
+          {
             "api": "f288380ca4cef9ad3f27a92a08e9bb8b:9f18d26291d9230833501f7f822f6875",
             "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd",
             "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10",
@@ -208,7 +215,7 @@
           {
             "api": "065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2",
             "link": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
-            "logo": "",
+            "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png",
             "title": "FANCODE FHD",
             "type": "1"
           },
@@ -250,8 +257,10 @@
         ],
         "eventInfo": {
           "endTime": "2026/05/16 14:00:00 +0000",
+          "eventBanner": "https://autodromodoalgarve.com/wp-content/uploads/2021/08/Banner1502x780px_MotoGPNov_AIA.jpg",
           "eventName": "MotoGP - Gran Premi de Catalunya",
           "eventType": "null",
+          "isHot": "1",
           "startTime": "2026/05/16 08:10:00 +0000",
           "teamA": "MotoGP",
           "teamAFlag": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8fGgE14VBFQKRIMiWIvOlIwpL6AEobQtL3OkLLu7AzsBPGzeXGHsz5PL0NED5DHlAyKCFhPHoNaFB4Z1csH_vvpU47Pbtslr1za618knr-wojLCDa1hyW40v59Qw_UjMGWLREzicm9ZDl7yMuylyu7xMdMoQG3-XXKLoZafem7lpKqxfKavQu-33Mbck/s1600/mgp.png",
@@ -260,11 +269,15 @@
         },
         "formatsNew": [
           {
+            "logo": "",
+            "title": "MotoGP"
+          },
+          {
             "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10",
             "title": "TNT SPORTS - AQ"
           },
           {
-            "logo": "",
+            "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png",
             "title": "FANCODE FHD"
           },
           {
