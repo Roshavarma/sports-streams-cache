@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-16T13:30:34.311791",
+  "last_updated": "2026-05-16T13:40:21.470175",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "06:55:21 PM 16-05-2026",
+    "Last update time": "07:05:16 PM 16-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -1117,6 +1117,13 @@
           },
           {
             "api": "",
+            "link": "https://livecdn-tc-livestream.rumsport10.live/stream/24/chunks.m3u8?is_vip=false&token=1779024688-Kv4cPTAAP5YTi-2223516ee6861d31f8b0239a4aaf0e07a93fd97b-af501beb400470219785a2c66f7ec9b0",
+            "logo": "",
+            "title": "DAZN SPORTS HD",
+            "type": "0"
+          },
+          {
+            "api": "",
             "link": "https://poklis.rontokakishop.online/premium558/index.m3u8|Referer=https://donis.jimpenopisonline.online/",
             "logo": "",
             "title": "SKY BUNDESLIGA HD",
@@ -1149,6 +1156,10 @@
           {
             "logo": "",
             "title": "SporTV BR"
+          },
+          {
+            "logo": "",
+            "title": "DAZN SPORTS HD"
           },
           {
             "logo": "",
@@ -1191,9 +1202,23 @@
           },
           {
             "api": "",
+            "link": "https://livecdn-tc-livestream.rumsport10.live/stream/25/chunks.m3u8?is_vip=false&token=1779024828-Kv4cPTAAP5YTi-2223516ee6861d31f8b0239a4aaf0e07a93fd97b-9469331cfacffbfe2c7246d139a95a8b",
+            "logo": "",
+            "title": "ESPN LIVE HD",
+            "type": "0"
+          },
+          {
+            "api": "",
             "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2022322/BLIGA_We1605/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com",
             "logo": "",
             "title": "SonyLiv [ENG]",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://live.vivo200.com/live/hd-en-1-4347640.m3u8?txSecret=8d01d30acbc6b859c9344a1897f81e00&txTime=6A08B977|Referer=https://player.online909.com/",
+            "logo": "",
+            "title": "SPORTIFy Live",
             "type": "0"
           }
         ],
@@ -1223,7 +1248,15 @@
           },
           {
             "logo": "",
+            "title": "ESPN LIVE HD"
+          },
+          {
+            "logo": "",
             "title": "SonyLiv [ENG]"
+          },
+          {
+            "logo": "",
+            "title": "SportzX Live"
           }
         ],
         "id": "403",
@@ -1248,6 +1281,13 @@
             "logo": "",
             "title": "SKY BUNDESLIGA HD",
             "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://live.vivo200.com/live/hd-en-1-4347597.m3u8?txSecret=f84b6a19726a81fa61fafce945da57ed&txTime=6A08B89D|Referer=https://player.online909.com/",
+            "logo": "",
+            "title": "SPORTIFy Live",
+            "type": "0"
           }
         ],
         "eventInfo": {
@@ -1269,6 +1309,10 @@
           {
             "logo": "",
             "title": "SKY BUNDESLIGA HD"
+          },
+          {
+            "logo": "",
+            "title": "SportzX Live"
           }
         ],
         "id": "404",
@@ -1293,6 +1337,13 @@
             "logo": "",
             "title": "SKY BUNDESLIGA HD",
             "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://live.vivo200.com/live/hd-en-1-4347650.m3u8?txSecret=985d2e1bbf809c269647aeafe916fb87&txTime=6A08B931|Referer=https://player.online909.com/",
+            "logo": "",
+            "title": "SPORTIFy Live",
+            "type": "0"
           }
         ],
         "eventInfo": {
@@ -1314,6 +1365,10 @@
           {
             "logo": "",
             "title": "SKY BUNDESLIGA HD"
+          },
+          {
+            "logo": "",
+            "title": "SportzX Live"
           }
         ],
         "id": "405",
@@ -1338,6 +1393,13 @@
             "logo": "",
             "title": "SKY BUNDESLIGA HD",
             "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://live.vivo200.com/live/hd-en-1-4347613.m3u8?txSecret=0f46f21b90e3fbf4d979ea287719403c&txTime=6A08B952|Referer=https://player.online909.com/",
+            "logo": "",
+            "title": "SPORTIFy Live",
+            "type": "0"
           }
         ],
         "eventInfo": {
@@ -1359,6 +1421,10 @@
           {
             "logo": "",
             "title": "SKY BUNDESLIGA HD"
+          },
+          {
+            "logo": "",
+            "title": "SportzX Live"
           }
         ],
         "id": "406",
@@ -1383,6 +1449,13 @@
             "logo": "",
             "title": "SKY BUNDESLIGA HD",
             "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://livecdn-tc-livestream.rumsport10.live/stream/20/chunks.m3u8?is_vip=false&token=1779024775-Kv4cPTAAP5YTi-2223516ee6861d31f8b0239a4aaf0e07a93fd97b-7ef8123e89ed2a6830a97700f46be556",
+            "logo": "",
+            "title": "SPY HD LIVE",
+            "type": "0"
           }
         ],
         "eventInfo": {
@@ -1404,6 +1477,10 @@
           {
             "logo": "",
             "title": "SKY BUNDESLIGA HD"
+          },
+          {
+            "logo": "",
+            "title": "SPX HD LIVE"
           }
         ],
         "id": "407",
@@ -1428,6 +1505,13 @@
             "logo": "",
             "title": "SKY BUNDESLIGA HD",
             "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://live.vivo200.com/live/hd-en-1-4347663.m3u8?txSecret=9ff0c3cc2078b5cf4b35fd68cd5649d4&txTime=6A08B8E4|Referer=https://player.online909.com/",
+            "logo": "",
+            "title": "SPORTIFy Live",
+            "type": "0"
           }
         ],
         "eventInfo": {
@@ -1449,6 +1533,10 @@
           {
             "logo": "",
             "title": "SKY BUNDESLIGA HD"
+          },
+          {
+            "logo": "",
+            "title": "SportzX Live"
           }
         ],
         "id": "408",
@@ -1473,6 +1561,13 @@
             "logo": "",
             "title": "SKY BUNDESLIGA HD",
             "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://live.vivo200.com/live/hd-en-1-4347600.m3u8?txSecret=f9140c4e563271898d74e50cec0be49c&txTime=6A08B8C0|Referer=https://player.online909.com/",
+            "logo": "",
+            "title": "SPORTIFy Live",
+            "type": "0"
           }
         ],
         "eventInfo": {
@@ -1494,6 +1589,10 @@
           {
             "logo": "",
             "title": "SKY BUNDESLIGA HD"
+          },
+          {
+            "logo": "",
+            "title": "SportzX Live"
           }
         ],
         "id": "409",
@@ -1518,6 +1617,13 @@
             "logo": "",
             "title": "SKY BUNDESLIGA HD",
             "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://live.vivo200.com/live/hd-en-1-4347664.m3u8?txSecret=582f9de7c6824700ba24fdc6d164f1b4&txTime=6A08B90E|Referer=https://player.online909.com/",
+            "logo": "",
+            "title": "SPORTIFy Live",
+            "type": "0"
           }
         ],
         "eventInfo": {
@@ -1539,6 +1645,10 @@
           {
             "logo": "",
             "title": "SKY BUNDESLIGA HD"
+          },
+          {
+            "logo": "",
+            "title": "SportzX Live"
           }
         ],
         "id": "410",
