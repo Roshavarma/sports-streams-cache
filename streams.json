@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-16T17:40:22.115042",
+  "last_updated": "2026-05-16T17:50:19.764528",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "11:05:21 PM 16-05-2026",
+    "Last update time": "11:15:25 PM 16-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -997,6 +997,20 @@
             "logo": "",
             "title": "SportDigital Fussball",
             "type": "1"
+          },
+          {
+            "api": "",
+            "link": "https://fncd.kuvuslov.cymru/mumbai/140874_english_hls_ef7a6a2b9267306_1ta-di_h264/index.m3u8|Origin=https://famcodexwebs.pages.dev",
+            "logo": "",
+            "title": "FANCODE HD",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://livecdn-tc-livestream.rumsport10.live/stream/25/chunks.m3u8?is_vip=false&token=1779039471-Kv4cPTAAP5YTi-2223516ee6861d31f8b0239a4aaf0e07a93fd97b-1980b5d224a3053ef06d7471820354c5",
+            "logo": "",
+            "title": "SPY AFC LIVE",
+            "type": "0"
           }
         ],
         "eventInfo": {
@@ -1014,6 +1028,14 @@
           {
             "logo": "",
             "title": "SportDigital Fussball"
+          },
+          {
+            "logo": "",
+            "title": "FANCODE HD"
+          },
+          {
+            "logo": "",
+            "title": "SPX AFC LIVE"
           }
         ],
         "id": "385",
