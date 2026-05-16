@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-16T17:50:19.764528",
+  "last_updated": "2026-05-16T18:00:41.999411",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "11:15:25 PM 16-05-2026",
+    "Last update time": "11:25:18 PM 16-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -1001,7 +1001,7 @@
           {
             "api": "",
             "link": "https://fncd.kuvuslov.cymru/mumbai/140874_english_hls_ef7a6a2b9267306_1ta-di_h264/index.m3u8|Origin=https://famcodexwebs.pages.dev",
-            "logo": "",
+            "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png",
             "title": "FANCODE HD",
             "type": "0"
           },
@@ -1011,13 +1011,20 @@
             "logo": "",
             "title": "SPY AFC LIVE",
             "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://live.vivo200.com/live/hd-en-1-4533861.m3u8?txSecret=515b209b98dba537158a7697538de71e&txTime=6A08F5C0|Referer=https://player.online909.com/",
+            "logo": "",
+            "title": "SPORTIFy Live",
+            "type": "0"
           }
         ],
         "eventInfo": {
           "endTime": "2026/05/16 19:45:00 +0000",
           "eventName": "Al-Nassr vs Gamba Osaka",
           "eventType": "null",
-          "isHot": "0",
+          "isHot": "1",
           "startTime": "2026/05/16 17:45:00 +0000",
           "teamA": "Al-Nassr",
           "teamAFlag": "https://img.sofascore.com/api/v1/team/23400/image",
@@ -1030,12 +1037,16 @@
             "title": "SportDigital Fussball"
           },
           {
-            "logo": "",
+            "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png",
             "title": "FANCODE HD"
           },
           {
             "logo": "",
             "title": "SPX AFC LIVE"
+          },
+          {
+            "logo": "",
+            "title": "SportzX Live"
           }
         ],
         "id": "385",
@@ -1801,62 +1812,6 @@
             "logo": "",
             "title": "SportDigital Fussball",
             "type": "1"
-          },
-          {
-            "api": "",
-            "link": "https://livecdn-tc-iptv.rumsport10.live/live_abr/161357/chunks.m3u8?is_vip=false&token=1779026931-Kv4cPTAAP5YTi-2223516ee6861d31f8b0239a4aaf0e07a93fd97b-6cd2cc072d974175c2c1268c515f67ed",
-            "logo": "",
-            "title": "Sport TV HD",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://livecdn-bp-iptv.rumsport7.live/live_abr/161357/chunks.m3u8?is_vip=false&token=2223516ee6861d31f8b0239a4aaf0e07a93fd97b&x-sign=7bfedfd6ab644e0a2a0483e56911ed2c&x-time=1778940540",
-            "logo": "",
-            "title": "SPY HD LIVE",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/16 16:30:00 +0000",
-          "eventName": "Porto vs Santa Clara",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/16 14:30:00 +0000",
-          "teamA": "Porto",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3002/image",
-          "teamB": "Santa Clara",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3011/image"
-        },
-        "formatsNew": [
-          {
-            "logo": "",
-            "title": "SportDigital Fussball"
-          },
-          {
-            "logo": "",
-            "title": "Sport TV HD"
-          },
-          {
-            "logo": "",
-            "title": "SPX HD LIVE"
-          }
-        ],
-        "id": "419",
-        "image": "o",
-        "publish": "1",
-        "title": "Porto vs Santa Clara"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "Liga Portugal",
-        "channels_data": [
-          {
-            "api": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
-            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
-            "logo": "",
-            "title": "SportDigital Fussball",
-            "type": "1"
           }
         ],
         "eventInfo": {
@@ -2068,7 +2023,15 @@
         "channels_data": [
           {
             "api": "",
+            "link": "https://chatgpt.hereisman.net/playlist/50681/load-playlist?|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "title": "SPORTIFy MLB",
+            "type": "0"
+          },
+          {
+            "api": "",
             "link": "https://mainstreams.pro/hls/16yuitzaerghbhc16.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+            "logo": "",
             "title": "SPORTIFy Live",
             "type": "0"
           }
@@ -2085,6 +2048,10 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/3651/image"
         },
         "formatsNew": [
+          {
+            "logo": "",
+            "title": "SportzX MLB"
+          },
           {
             "logo": "",
             "title": "SportzX Live"
