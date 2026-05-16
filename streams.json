@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-16T11:40:19.937947",
+  "last_updated": "2026-05-16T11:50:20.511900",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "05:05:18 PM 16-05-2026",
+    "Last update time": "05:15:22 PM 16-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -256,12 +256,10 @@
           }
         ],
         "eventInfo": {
-          "endTime": "2026/05/16 14:00:00 +0000",
-          "eventBanner": "https://autodromodoalgarve.com/wp-content/uploads/2021/08/Banner1502x780px_MotoGPNov_AIA.jpg",
+          "endTime": "2026/05/16 14:30:00 +0000",
           "eventName": "MotoGP - Gran Premi de Catalunya",
           "eventType": "null",
-          "isHot": "1",
-          "startTime": "2026/05/16 08:10:00 +0000",
+          "startTime": "2026/05/16 13:00:00 +0000",
           "teamA": "MotoGP",
           "teamAFlag": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8fGgE14VBFQKRIMiWIvOlIwpL6AEobQtL3OkLLu7AzsBPGzeXGHsz5PL0NED5DHlAyKCFhPHoNaFB4Z1csH_vvpU47Pbtslr1za618knr-wojLCDa1hyW40v59Qw_UjMGWLREzicm9ZDl7yMuylyu7xMdMoQG3-XXKLoZafem7lpKqxfKavQu-33Mbck/s1600/mgp.png",
           "teamB": "MotoGP",
@@ -1541,6 +1539,13 @@
             "logo": "",
             "title": "SPORTIFy Live",
             "type": "0"
+          },
+          {
+            "api": "",
+            "link": "http://193.47.62.55/hls/TMMMMZZ.m3u8|Referer=http://www.fawanews.sc/",
+            "logo": "",
+            "title": "SD SERVER",
+            "type": "0"
           }
         ],
         "eventInfo": {
@@ -1566,6 +1571,10 @@
           {
             "logo": "",
             "title": "SportzX Live"
+          },
+          {
+            "logo": "",
+            "title": "SD SERVER"
           }
         ],
         "id": "416",
@@ -1582,6 +1591,13 @@
             "link": "https://bobis.zaglemplokis.online/premium59/tracks-v1a1/mono.m3u8|Referer=https://donis.jimpenopisonline.online/",
             "logo": "",
             "title": "SPFL FEED",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "http://193.47.62.47/hls/TMMMM.m3u8|Referer=http://www.fawanews.sc/",
+            "logo": "",
+            "title": "SD SERVER",
             "type": "0"
           }
         ],
@@ -1600,6 +1616,10 @@
           {
             "logo": "",
             "title": "SPFL FEED"
+          },
+          {
+            "logo": "",
+            "title": "SD SERVER"
           }
         ],
         "id": "417",
@@ -1616,6 +1636,13 @@
             "link": "https://bobis.zaglemplokis.online/premium68/tracks-v1a1/mono.m3u8|Referer=https://donis.jimpenopisonline.online/",
             "logo": "",
             "title": "SPFL FEED",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "http://193.47.62.47/hls/TMMMMZ.m3u8|Referer=http://www.fawanews.sc/",
+            "logo": "",
+            "title": "SD SERVER",
             "type": "0"
           }
         ],
@@ -1634,6 +1661,10 @@
           {
             "logo": "",
             "title": "SPFL FEED"
+          },
+          {
+            "logo": "",
+            "title": "SD SERVER"
           }
         ],
         "id": "418",
