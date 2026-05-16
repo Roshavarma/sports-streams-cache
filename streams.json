@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-16T05:00:42.003738",
+  "last_updated": "2026-05-16T05:10:25.396134",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "10:25:15 AM 16-05-2026",
+    "Last update time": "10:35:22 AM 16-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -1390,24 +1390,10 @@
         "cat": "Super Lig",
         "channels_data": [
           {
-            "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
-            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
-            "logo": "",
-            "title": "beIN ENGLISH",
-            "type": "1"
-          },
-          {
-            "api": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
-            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
-            "logo": "",
-            "title": "CBS NETWORK",
-            "type": "1"
-          },
-          {
             "api": "",
-            "link": "https://chatgpt.hereisman.net/playlist/50602/load-playlist?|Referer=https://gooz.aapmains.net",
+            "link": "https://zomis.zempovlantis.online/premium62/tracks-v1a1/mono.m3u8|Referer=https://donis.jimpenopisonline.online/",
             "logo": "",
-            "title": "SPORTIFy Live",
+            "title": "beIN SPORTS HD",
             "type": "0"
           }
         ],
@@ -1432,6 +1418,244 @@
         "image": "o",
         "publish": "1",
         "title": "Samsunspor vs Göztepe"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "Super Lig",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://zomis.zempovlantis.online/premium63/tracks-v1a1/mono.m3u8|Referer=https://donis.jimpenopisonline.online/",
+            "logo": "",
+            "title": "beIN SPORTS HD",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/16 19:00:00 +0000",
+          "eventName": "Gaziantep vs Başakşehir",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/16 17:00:00 +0000",
+          "teamA": "Gaziantep",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/5138/image",
+          "teamB": "Başakşehir",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3086/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "beIN SPORTS HD"
+          }
+        ],
+        "id": "415",
+        "image": "o",
+        "publish": "1",
+        "title": "Gaziantep vs Başakşehir"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "Scottish Premiership",
+        "channels_data": [
+          {
+            "api": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
+            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
+            "logo": "",
+            "title": "SportDigital Fussball",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/16 13:30:00 +0000",
+          "eventName": "Celtic vs Hearts",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/16 11:30:00 +0000",
+          "teamA": "Celtic",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2352/image",
+          "teamB": "Hearts",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2353/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "SportDigital Fussball"
+          }
+        ],
+        "id": "416",
+        "image": "o",
+        "publish": "1",
+        "title": "Celtic vs Hearts"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "Scottish Premiership",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://bobis.zaglemplokis.online/premium59/tracks-v1a1/mono.m3u8|Referer=https://donis.jimpenopisonline.online/",
+            "logo": "",
+            "title": "SPFL FEED",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/16 13:30:00 +0000",
+          "eventName": "Falkirk vs Rangers",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/16 11:30:00 +0000",
+          "teamA": "Falkirk",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2363/image",
+          "teamB": "Rangers",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2351/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "SPFL FEED"
+          }
+        ],
+        "id": "417",
+        "image": "o",
+        "publish": "1",
+        "title": "Falkirk vs Rangers"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "Scottish Premiership",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://bobis.zaglemplokis.online/premium68/tracks-v1a1/mono.m3u8|Referer=https://donis.jimpenopisonline.online/",
+            "logo": "",
+            "title": "SPFL FEED",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/16 13:30:00 +0000",
+          "eventName": "Hibernian vs Motherwell",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/16 11:30:00 +0000",
+          "teamA": "Hibernian",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2354/image",
+          "teamB": "Motherwell",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2346/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "SPFL FEED"
+          }
+        ],
+        "id": "418",
+        "image": "o",
+        "publish": "1",
+        "title": "Hibernian vs Motherwell"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "Liga Portugal",
+        "channels_data": [
+          {
+            "api": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
+            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
+            "logo": "",
+            "title": "SportDigital Fussball",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/16 16:30:00 +0000",
+          "eventName": "Porto vs Santa Clara",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/16 14:30:00 +0000",
+          "teamA": "Porto",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3002/image",
+          "teamB": "Santa Clara",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3011/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "SportDigital Fussball"
+          }
+        ],
+        "id": "419",
+        "image": "o",
+        "publish": "1",
+        "title": "Porto vs Santa Clara"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "Liga Portugal",
+        "channels_data": [
+          {
+            "api": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
+            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
+            "logo": "",
+            "title": "SportDigital Fussball",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/16 21:30:00 +0000",
+          "eventName": "Sporting vs Gil Vicente",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/16 19:30:00 +0000",
+          "teamA": "Sporting",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3001/image",
+          "teamB": "Gil Vicente",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3010/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "SportDigital Fussball"
+          }
+        ],
+        "id": "420",
+        "image": "o",
+        "publish": "1",
+        "title": "Sporting vs Gil Vicente"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "Liga Portugal",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://mainstreams.pro/hls/Czajafjihafch18.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+            "logo": "",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/16 21:30:00 +0000",
+          "eventName": "Estoril Praia vs Benfica",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/16 19:30:00 +0000",
+          "teamA": "Estoril",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/4500/image",
+          "teamB": "Benfica",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3006/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "SportzX Live"
+          }
+        ],
+        "id": "421",
+        "image": "o",
+        "publish": "1",
+        "title": "Estoril Praia vs Benfica"
       }
     ]
   }
