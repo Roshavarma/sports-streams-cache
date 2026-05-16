@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-16T18:00:41.999411",
+  "last_updated": "2026-05-16T18:10:21.792523",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "11:25:18 PM 16-05-2026",
+    "Last update time": "11:40:10 PM 16-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -1579,152 +1579,6 @@
       },
       {
         "adsLimit": "0",
-        "cat": "Pro League 🇸🇦",
-        "channels_data": [
-          {
-            "api": "4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733",
-            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd",
-            "logo": "",
-            "title": "SporTV BR",
-            "type": "1"
-          },
-          {
-            "api": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
-            "logo": "",
-            "title": "FOX DEPORTES",
-            "type": "1"
-          },
-          {
-            "api": "",
-            "link": "https://rolis.drompakisdoulesonline.online/premium9/tracks-v1a1/mono.m3u8|Referer=https://donis.jimpenopisonline.online/",
-            "logo": "",
-            "title": "THMANYAH HD",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://live.vivo200.com/live/sd-1-4404704.m3u8?txSecret=51a4def8289f263743b9a0bf51f5c178&txTime=6A08DD14|Referer=https://player.online909.com/",
-            "logo": "",
-            "title": "SPORTIFy Live",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/16 18:05:00 +0000",
-          "eventName": "Al-Hilal vs Neom SC",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/16 16:05:00 +0000",
-          "teamA": "Al-Hilal",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/21895/image",
-          "teamB": "Neom SC",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/530631/image"
-        },
-        "formatsNew": [
-          {
-            "logo": "",
-            "title": "SporTV BR"
-          },
-          {
-            "logo": "",
-            "title": "FOX DEPORTES"
-          },
-          {
-            "logo": "",
-            "title": "THMANYAH HD"
-          },
-          {
-            "logo": "",
-            "title": "SportzX Live"
-          }
-        ],
-        "id": "411",
-        "image": "o",
-        "publish": "1",
-        "title": "Al-Hilal vs Neom"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "Pro League 🇸🇦",
-        "channels_data": [
-          {
-            "api": "",
-            "link": "https://rolis.drompakisdoulesonline.online/premium10/tracks-v1a1/mono.m3u8|Referer=https://donis.jimpenopisonline.online/",
-            "logo": "",
-            "title": "THMANYAH HD",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://live.vivo200.com/live/sd-1-4404640.m3u8?txSecret=1856144ea1e4eeef0b7a45163ea4ea4f&txTime=6A08DD4D|Referer=https://player.online909.com/",
-            "logo": "",
-            "title": "SPORTIFy Live",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/16 18:05:00 +0000",
-          "eventName": "Al-Okhdood vs Al-Khaleej",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/16 16:05:00 +0000",
-          "teamA": "Al-Okhdood",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/336456/image",
-          "teamB": "Al-Khaleej",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/167228/image"
-        },
-        "formatsNew": [
-          {
-            "logo": "",
-            "title": "THMANYAH HD"
-          },
-          {
-            "logo": "",
-            "title": "SportzX Live"
-          }
-        ],
-        "id": "412",
-        "image": "o",
-        "publish": "1",
-        "title": "Al-Okhdood vs Al-Khaleej"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "Super Lig",
-        "channels_data": [
-          {
-            "api": "",
-            "link": "https://zomis.zempovlantis.online/premium62/tracks-v1a1/mono.m3u8|Referer=https://donis.jimpenopisonline.online/",
-            "logo": "",
-            "title": "beIN SPORTS HD",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/16 16:00:00 +0000",
-          "eventName": "Fatih Karagümrük vs Alanyaspor",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/16 14:00:00 +0000",
-          "teamA": "Karagümrük",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/4954/image",
-          "teamB": "Alanyaspor",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/6362/image"
-        },
-        "formatsNew": [
-          {
-            "logo": "",
-            "title": "beIN SPORTS HD"
-          }
-        ],
-        "id": "413",
-        "image": "o",
-        "publish": "1",
-        "title": "Fatih Karagümrük vs Alanyaspor"
-      },
-      {
-        "adsLimit": "0",
         "cat": "Super Lig",
         "channels_data": [
           {
@@ -1869,74 +1723,6 @@
         "image": "o",
         "publish": "1",
         "title": "Estoril Praia vs Benfica"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "LaLiga 2",
-        "channels_data": [
-          {
-            "api": "d69894c7b729c5d1e85893e5e6cfcb0f:db0d53f871f5d2ef91d3a112c7ec9f30",
-            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/tcninbbnt5/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd",
-            "logo": "",
-            "title": "Laliga Hypermotion ES",
-            "type": "1"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/16 14:00:00 +0000",
-          "eventName": "Real Sociedad II vs Mirandés",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/16 12:00:00 +0000",
-          "teamA": "Real Sociedad B U21",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/24360/image",
-          "teamB": "Mirandés",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/35092/image"
-        },
-        "formatsNew": [
-          {
-            "logo": "",
-            "title": "Laliga Hypermotion ES"
-          }
-        ],
-        "id": "422",
-        "image": "o",
-        "publish": "1",
-        "title": "Real Sociedad II vs Mirandés"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "LaLiga 2",
-        "channels_data": [
-          {
-            "api": "d69894c7b729c5d1e85893e5e6cfcb0f:db0d53f871f5d2ef91d3a112c7ec9f30",
-            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/tcninbbnt5/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd",
-            "logo": "",
-            "title": "Laliga Hypermotion ES",
-            "type": "1"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/16 16:15:00 +0000",
-          "eventName": "AD Ceuta vs Málaga CF",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/16 14:15:00 +0000",
-          "teamA": "Ceuta",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2869/image",
-          "teamB": "Málaga",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2830/image"
-        },
-        "formatsNew": [
-          {
-            "logo": "",
-            "title": "Laliga Hypermotion ES"
-          }
-        ],
-        "id": "423",
-        "image": "o",
-        "publish": "1",
-        "title": "AD Ceuta vs Málaga"
       },
       {
         "adsLimit": "0",
@@ -2346,7 +2132,7 @@
           },
           {
             "api": "",
-            "link": "https://rolis.drompakisdoulesonline.online/premium17/tracks-v1a1/mono.m3u8|Referer=https://donis.jimpenopisonline.online/",
+            "link": "https://live.vivo200.com/live/sd-1-4404670.m3u8?txSecret=33866ecf23706d41c2d05b3aa6909544&txTime=6A08FB4F|Referer=https://player.online909.com/",
             "logo": "",
             "title": "THMANYAH HD",
             "type": "0"
