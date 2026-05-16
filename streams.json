@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-16T20:00:41.238726",
+  "last_updated": "2026-05-16T20:10:22.337794",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "01:25:22 AM 17-05-2026",
+    "Last update time": "01:35:18 AM 17-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -1030,6 +1030,73 @@
         "image": "o",
         "publish": "1",
         "title": "IPL - 02"
+      },
+      {
+        "adsLimit": "9",
+        "cat": "Boxing",
+        "channels_data": [
+          {
+            "api": "1fc04170e5671d37c8286afcfeb505f7:9751880fa496d361d780019bdcd91d8a",
+            "link": "https://otte.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/kq9asei23n/out/v1/12e4e39869014ef19f3c30f0d598191b/cenc.mpd",
+            "title": "WILLOW FHD",
+            "type": "1"
+          },
+          {
+            "api": "7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe",
+            "link": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
+            "title": "Fancode FHD",
+            "type": "1"
+          },
+          {
+            "api": "709c812e1b4174002605df1d17d34a4c:0bbee6c9c20a0f065bf8369d54cbf83e",
+            "link": "https://a166aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/clients/dash/enc/qddnwqthpp/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd",
+            "title": "FANCODE SD",
+            "type": "1"
+          },
+          {
+            "api": "",
+            "link": "https://stream.snexus.co/live/SN_WILDLIFE/main_stream.m3u8",
+            "title": "Solhsports HD",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://bd-mc-fdlive.fancode.com/mumbai/138946_english_hls_32955a282b57487_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/",
+            "title": "FANCODE (BD)",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://in-mc-fdlive.fancode.com/mumbai/138946_english_hls_32955a282b57487_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/",
+            "title": "FANCODE (IND)",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/03 18:45:00 +0000",
+          "eventName": "Peshawar Zalmi vs Hyderabad Kingsmen",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/03 15:00:00 +0000",
+          "teamA": "PES",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/212420/image",
+          "teamB": "HYK",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/1178235/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "NETFLIX PPV"
+          },
+          {
+            "logo": "",
+            "title": "SportzX PPV HD"
+          }
+        ],
+        "id": "368",
+        "image": "o",
+        "publish": "1",
+        "title": "Ronda Rousey vs Gina Carano"
       },
       {
         "adsLimit": "9",
