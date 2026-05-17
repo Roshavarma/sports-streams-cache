@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-17T09:50:21.589260",
+  "last_updated": "2026-05-17T10:00:42.773969",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "03:15:23 PM 17-05-2026",
+    "Last update time": "03:25:24 PM 17-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -743,17 +743,17 @@
         "cat": "Indian Premier League",
         "channels_data": [
           {
+            "api": "0b4ac61aafc5b8135d898982ee663299:d36d16f4ce93cd31c076fb02U4aAd855",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/sfche5daty/out/v1/3c0f30a135754ba08230dddce05d06b4/cenc.mpd",
+            "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
+            "title": "WILLOW [Ad-Free]",
+            "type": "1"
+          },
+          {
             "api": "2e2636daa74141b68cc14882ea3ff82b:0961f48287324adbb4b7ff3c1d8\u0012b3c9",
             "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1779070452~acl=%2F*~id=6b7ee9f0-7edd-4c57-bc78-800cff2e09b4~data=hdntl,aXA9NTIuMTYxLjU2LjcwJmV4cD0xNzc4OTg0MDgyJmVpZD05MzkxOTcmb2lkPTE1NCZ0eXBlPVZPRCZ1aWQ9YWRjV1lXfGI2MGFmMjk5LTAzOTEtNGQxZi1hNmQwLWQ4MjQ0ZGZhZjFjOSZjaWQ9ZGNlLmZpc2ZlZCZwdD1udWxs~hmac=7ca2a63f4cd71f4cf3a24c71c8ee747d377a706a625387cf6f8b1d4feb311f1e/dash/live/2093717/219028-321030/manifest-d.mpd",
             "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
             "title": "SKY SPORTS FHD",
-            "type": "1"
-          },
-          {
-            "api": "9416822ce0c583c806c5952f0e489340:160d594440e7a02e31268970U91\u001548e0",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vvhwouypri/out/v1/1feb25177e444c5887885d4391f6adf7/cenc.mpd",
-            "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
-            "title": "WILLOW [Ad-Free]",
             "type": "1"
           },
           {
@@ -833,12 +833,12 @@
         },
         "formatsNew": [
           {
-            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
-            "title": "SKY SPORTS FHD"
-          },
-          {
             "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
             "title": "WILLOW [Ad-Free]"
+          },
+          {
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
+            "title": "SKY SPORTS FHD"
           },
           {
             "logo": "",
@@ -1700,6 +1700,13 @@
             "logo": "",
             "title": "PARAMOUNT+ HD",
             "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://live.vivo200.com/live/hd-en-1-4339686.m3u8?txSecret=880daae3738f789bb3785095ca1fa3bf&txTime=6A09D83C|Referer=https://player.online909.com/",
+            "logo": "",
+            "title": "SPORTIFy Live",
+            "type": "0"
           }
         ],
         "eventInfo": {
@@ -1729,6 +1736,10 @@
           {
             "logo": "",
             "title": "PARAMOUNT+ HD"
+          },
+          {
+            "logo": "",
+            "title": "SportzX Live"
           }
         ],
         "id": "417",
@@ -1892,6 +1903,13 @@
             "logo": "",
             "title": "PARAMOUNT+ HD",
             "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://live.vivo200.com/live/hd-en-1-4339663.m3u8?txSecret=c9fd05b5d046426a864c3ba7e612af7d&txTime=6A09D85A|Referer=https://player.online909.com/",
+            "logo": "",
+            "title": "SPORTIFy Live",
+            "type": "0"
           }
         ],
         "eventInfo": {
@@ -1913,6 +1931,10 @@
           {
             "logo": "",
             "title": "PARAMOUNT+ HD"
+          },
+          {
+            "logo": "",
+            "title": "SportzX Live"
           }
         ],
         "id": "421",
@@ -1937,6 +1959,13 @@
             "logo": "",
             "title": "PARAMOUNT+ HD",
             "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://live.vivo200.com/live/hd-en-1-4339664.m3u8?txSecret=7ade000a65088bb7403bc26e4d4ac3b6&txTime=6A09D77F|Referer=https://player.online909.com/",
+            "logo": "",
+            "title": "SPORTIFy Live",
+            "type": "0"
           }
         ],
         "eventInfo": {
@@ -1958,6 +1987,10 @@
           {
             "logo": "",
             "title": "PARAMOUNT+ HD"
+          },
+          {
+            "logo": "",
+            "title": "SportzX Live"
           }
         ],
         "id": "422",
@@ -1974,6 +2007,13 @@
             "link": "https://bobis.zaglemplokis.online/premium76/tracks-v1a1/mono.m3u8|Referer=https://donis.jimpenopisonline.online/",
             "logo": "",
             "title": "PARAMOUNT+ HD",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://live.vivo200.com/live/hd-en-1-4339667.m3u8?txSecret=75cdb21f7bb1274f7393ae3b7779f4b2&txTime=6A09D878|Referer=https://player.online909.com/",
+            "logo": "",
+            "title": "SPORTIFy Live",
             "type": "0"
           }
         ],
@@ -1992,6 +2032,10 @@
           {
             "logo": "",
             "title": "PARAMOUNT+ HD"
+          },
+          {
+            "logo": "",
+            "title": "SportzX Live"
           }
         ],
         "id": "423",
