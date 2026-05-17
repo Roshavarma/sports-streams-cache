@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-17T06:40:21.464983",
+  "last_updated": "2026-05-17T06:50:22.228326",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "12:05:18 PM 17-05-2026",
+    "Last update time": "12:15:29 PM 17-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -743,17 +743,17 @@
         "cat": "Indian Premier League",
         "channels_data": [
           {
+            "api": "2e2636daa74141b68cc14882ea3ff82b:0961f48287324adbb4b7ff3c1d8\u0012b3c9",
+            "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1779070452~acl=%2F*~id=6b7ee9f0-7edd-4c57-bc78-800cff2e09b4~data=hdntl,aXA9NTIuMTYxLjU2LjcwJmV4cD0xNzc4OTg0MDgyJmVpZD05MzkxOTcmb2lkPTE1NCZ0eXBlPVZPRCZ1aWQ9YWRjV1lXfGI2MGFmMjk5LTAzOTEtNGQxZi1hNmQwLWQ4MjQ0ZGZhZjFjOSZjaWQ9ZGNlLmZpc2ZlZCZwdD1udWxs~hmac=7ca2a63f4cd71f4cf3a24c71c8ee747d377a706a625387cf6f8b1d4feb311f1e/dash/live/2093717/219028-321030/manifest-d.mpd",
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
+            "title": "SKY SPORTS FHD",
+            "type": "1"
+          },
+          {
             "api": "9416822ce0c583c806c5952f0e489340:160d594440e7a02e31268970U91\u001548e0",
             "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vvhwouypri/out/v1/1feb25177e444c5887885d4391f6adf7/cenc.mpd",
             "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
             "title": "WILLOW [Ad-Free]",
-            "type": "1"
-          },
-          {
-            "api": "2e2636daa74141b68cc14882ea3ff82b:0961f48287324adbb4b7ff3c1d8\u0012b3c9",
-            "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1779004332~acl=%2f*~id=47e00c61-0c64-44b5-ad51-f47f4396a68e~data=hdntl,aXA9MTcyLjE4Mi4yMjQuMTE4JmV4cD0xNzc4OTE3OTYyJmVpZD05Mzk1ODUmb2lkPTE1NCZ0eXBlPVZPRCZ1aWQ9YWRjV1lXfGI2MGFmMjk5LTAzOTEtNGQxZi1hNmQwLWQ4MjQ0ZGZhZjFjOSZjaWQ9ZGNlLmZpc2ZlZCZwdD1udWxs~hmac=9d506389b11ec46d4cc77a61dbef11ae64077d824501399f1ae6b8feb200bdce/dash/live/2093717/219028-321030/manifest-d.mpd",
-            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
-            "title": "SKY SPORTS FHD",
             "type": "1"
           },
           {
@@ -833,12 +833,12 @@
         },
         "formatsNew": [
           {
-            "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
-            "title": "WILLOW [Ad-Free]"
-          },
-          {
             "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
             "title": "SKY SPORTS FHD"
+          },
+          {
+            "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
+            "title": "WILLOW [Ad-Free]"
           },
           {
             "logo": "",
@@ -2310,6 +2310,105 @@
         "image": "o",
         "publish": "1",
         "title": "Stade Brestois vs Angers"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "Rugby",
+        "channels_data": [
+          {
+            "api": "708a98b352bd4418a73a028edd84da8f:b1fa5c2bca4c4b57b924b748564532cb",
+            "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1779070453~acl=%2F*~id=319ab612-2e20-46d8-844b-27cb156b638c~data=hdntl,aXA9NTIuMTYxLjU2LjcwJmV4cD0xNzc4OTg0MDgzJmVpZD05MzY0MjQmb2lkPTE1NCZ0eXBlPVZPRCZ1aWQ9YWRjV1lXfGI2MGFmMjk5LTAzOTEtNGQxZi1hNmQwLWQ4MjQ0ZGZhZjFjOSZjaWQ9ZGNlLmZpc2ZlZCZwdD1udWxs~hmac=0f528e265590e386ba6fb3983f21449ea43d5fa28aed795503f83643861de1ff/dash/live/2093715/219027-321028/manifest-d.mpd",
+            "title": "SKY SPORTS FHD",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/17 13:30:00 +0000",
+          "eventName": "Wales W vs Italy W",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/17 11:15:00 +0000",
+          "teamA": "Wales",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/164620/image",
+          "teamB": "Italy",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/189292/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "SKY SPORTS FHD"
+          }
+        ],
+        "id": "435",
+        "image": "o",
+        "publish": "1",
+        "title": "Wales W vs Italy W"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "Rugby",
+        "channels_data": [
+          {
+            "api": "278b8746b7c7410e901af0aa3774f037:15e1142d647b474ebbd49e41efa2a9d7",
+            "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1779070453~acl=%2F*~id=ac995ce9-4460-4baf-aa98-8964bf914c77~data=hdntl,aXA9NTIuMTYxLjU2LjcwJmV4cD0xNzc4OTg0MDgzJmVpZD05MzU1NDYmb2lkPTE1NCZ0eXBlPVZPRCZ1aWQ9YWRjV1lXfGI2MGFmMjk5LTAzOTEtNGQxZi1hNmQwLWQ4MjQ0ZGZhZjFjOSZjaWQ9ZGNlLmZpc2ZlZCZwdD1udWxs~hmac=f6b8f98b065a74d282a69083cc879a3b075e09696d12209ba9f1048055d753b7/dash/live/2093720/219029-321032/manifest-d.mpd",
+            "title": "SKY SPORTS FHD",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/17 15:30:00 +0000",
+          "eventName": "Ireland W vs Scotland W",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/17 13:30:00 +0000",
+          "teamA": "Ireland",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/164606/image",
+          "teamB": "Scotland",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/189291/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "SKY SPORTS FHD"
+          }
+        ],
+        "id": "436",
+        "image": "o",
+        "publish": "1",
+        "title": "Ireland vs Scotland"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "Rugby",
+        "channels_data": [
+          {
+            "api": "278b8746b7c7410e901af0aa3774f037:15e1142d647b474ebbd49e41efa2a9d7",
+            "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1779070453~acl=%2F*~id=ac995ce9-4460-4baf-aa98-8964bf914c77~data=hdntl,aXA9NTIuMTYxLjU2LjcwJmV4cD0xNzc4OTg0MDgzJmVpZD05MzU1NDYmb2lkPTE1NCZ0eXBlPVZPRCZ1aWQ9YWRjV1lXfGI2MGFmMjk5LTAzOTEtNGQxZi1hNmQwLWQ4MjQ0ZGZhZjFjOSZjaWQ9ZGNlLmZpc2ZlZCZwdD1udWxs~hmac=f6b8f98b065a74d282a69083cc879a3b075e09696d12209ba9f1048055d753b7/dash/live/2093720/219029-321032/manifest-d.mpd",
+            "title": "SKY SPORTS FHD",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/17 17:45:00 +0000",
+          "eventName": "France W vs England W",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/17 15:45:00 +0000",
+          "teamA": "France",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/164616/image",
+          "teamB": "England",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/164602/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "SKY SPORTS FHD"
+          }
+        ],
+        "id": "437",
+        "image": "o",
+        "publish": "1",
+        "title": "France W vs England W"
       }
     ]
   }
