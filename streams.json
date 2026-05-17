@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-17T07:25:14.858674",
+  "last_updated": "2026-05-17T07:30:33.863226",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "12:50:30 PM 17-05-2026",
+    "Last update time": "12:55:18 PM 17-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -2412,71 +2412,59 @@
       },
       {
         "adsLimit": "0",
-        "cat": "Caribbean Premier League",
+        "cat": "FA Cup",
         "channels_data": [
           {
             "api": "",
-            "link": "https://fallback-video.ivan-flux.workers.dev/video/index.m3u8",
+            "link": "https://hl.playfytv.online/stream.php?id=LrwkAzfa8qyir",
             "logo": "",
-            "title": "Default",
+            "title": "Extended",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://hl.playfytv.online/stream.php?id=McShvCIupkA0G",
+            "logo": "",
+            "title": "Gaol+",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://hl.playfytv.online/stream.php?id=R0K4apft48I20",
+            "logo": "",
+            "title": "English+",
             "type": "0"
           }
         ],
         "eventInfo": {
-          "endTime": "2026/05/16 05:00:00 +0000",
-          "eventName": "Abahani Limited vs Bashundhara Strikers",
+          "endTime": "2026/05/16 16:15:00 +0000",
+          "eventName": "Chelsea vs Manchester City",
           "eventType": "null",
           "isHot": "0",
-          "startTime": "2026/05/16 03:00:00 +0000",
-          "teamA": "Abahani Limited",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/413570/image",
-          "teamB": "Bashundhara Strikers",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/413576/image"
+          "startTime": "2026/05/16 14:00:00 +0000",
+          "teamA": "Chelsea",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/38/image",
+          "teamB": "Manchester City",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/17/image"
         },
         "formatsNew": [
           {
             "logo": "",
-            "title": "Default"
+            "title": "Extended"
+          },
+          {
+            "logo": "",
+            "title": "Gaol+"
+          },
+          {
+            "logo": "",
+            "title": "English+"
           }
         ],
         "id": "438",
         "image": "o",
         "publish": "1",
-        "title": "Abahani Limited vs Bashundhara Strikers"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "Caribbean Premier League",
-        "channels_data": [
-          {
-            "api": "",
-            "link": "https://fallback-video.ivan-flux.workers.dev/video/index.m3u8",
-            "logo": "",
-            "title": "Default",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/16 05:00:00 +0000",
-          "eventName": "Abahani Limited vs Bashundhara Strikers",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/16 03:00:00 +0000",
-          "teamA": "Abahani Limited",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/413570/image",
-          "teamB": "Bashundhara Strikers",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/413576/image"
-        },
-        "formatsNew": [
-          {
-            "logo": "",
-            "title": "Default"
-          }
-        ],
-        "id": "439",
-        "image": "o",
-        "publish": "1",
-        "title": "Abahani Limited vs Bashundhara Strikers"
+        "title": "Chelsea vs Manchester City"
       }
     ]
   }
