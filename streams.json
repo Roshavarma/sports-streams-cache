@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-17T06:30:39.410750",
+  "last_updated": "2026-05-17T06:40:21.464983",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "11:55:17 AM 17-05-2026",
+    "Last update time": "12:05:18 PM 17-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -359,16 +359,16 @@
           }
         ],
         "eventInfo": {
-          "endTime": "2026/05/17 05:00:00 +0000",
+          "endTime": "2026/05/30 15:00:00 +0000",
           "eventBanner": "null",
-          "eventName": "UFC Fight Night: Allen vs. Costa",
+          "eventName": "UFC Fight Night: Song vs Figueiredo",
           "eventType": "null",
           "isHot": "0",
-          "startTime": "2026/05/16 21:00:00 +0000",
-          "teamA": "Arnold Allen",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/469994/image",
-          "teamB": "Melquizael Costa",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/473425/image"
+          "startTime": "2026/05/30 07:00:00 +0000",
+          "teamA": "Y. Song",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/467443/image",
+          "teamB": "D. Figueiredo",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/467408/image"
         },
         "formatsNew": [
           {
@@ -424,46 +424,29 @@
           {
             "api": "308006101c8fd0262c0f529319b9c127:37683aadc75b1450efa82d62c647984d",
             "link": "https://live-pv-ta.amazon.fastly-edge.com/syd-nitro/live/clients/dash/enc/kkfdbi2d1c/out/v1/a5b9b32dafd5499688240287ef8c9b90/cenc.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
-            "logo": "",
             "title": "One Fight - AQ",
             "type": "1"
           },
           {
-            "api": "",
-            "link": "https://iptv.852851.xyz/ch/30cc0805acb2aada8da9e2ae3fad5b5c/master.m3u8",
-            "logo": "",
-            "title": "beIN SPORTS HD",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://livecdn-tc-iptv.rumsport10.live/live_abr/398/chunks.m3u8?is_vip=false&token=1778940341-Kv4cPTAAP5YTi-4a552a42a9a7edd62d2f0166c3071efd900847e7-2b4a5d56fe76841748ba0a6aea8520e4",
-            "logo": "",
-            "title": "beIN SPORTS FHD",
-            "type": "0"
-          },
-          {
             "api": "60dc08aae52f4c0b806a8e43f24a12c8:30d5b579966d822b215ec51a91d8a271",
             "link": "https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd",
-            "logo": "",
             "title": "Server 2",
             "type": "1"
           },
           {
             "api": "a6b967afcb974bb5a549377b4f09befd:87d993257a099324ccd0215475fc61a0",
             "link": "https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561402/index.mpd",
-            "logo": "",
             "title": "Server 3",
             "type": "1"
           }
         ],
         "eventInfo": {
-          "endTime": "2026/05/15 16:30:00 +0000",
+          "endTime": "2026/05/22 16:30:00 +0000",
           "eventBanner": "https://iili.io/BihxDjj.png",
           "eventName": "ONE Friday Fights",
           "eventType": "null",
           "isHot": "0",
-          "startTime": "2026/05/15 12:30:00 +0000",
+          "startTime": "2026/05/22 12:30:00 +0000",
           "teamA": "Friday Fights",
           "teamAFlag": "https://iili.io/FDjaT1R.md.png",
           "teamB": "Friday Fights",
@@ -473,14 +456,6 @@
           {
             "logo": "",
             "title": "One Fight - AQ"
-          },
-          {
-            "logo": "",
-            "title": "beIN SPORTS HD"
-          },
-          {
-            "logo": "",
-            "title": "beIN SPORTS FHD"
           },
           {
             "logo": "",
@@ -690,6 +665,13 @@
         "cat": "Cricket",
         "channels_data": [
           {
+            "api": "8755f03aa6c66ed634fbb4be5d64c702:3e400247db4d63fbe04c8707dd628eac",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/mepsfiqpmn/out/v1/ba56265776fd4f759828634f48be5037/cenc.mpd",
+            "logo": "",
+            "title": "WILLOW [Ad-Free]",
+            "type": "1"
+          },
+          {
             "api": "fdd24dd2c6c14126ad7c1ad1066b03dd:08289c6d57d54e8d8dca55e1862afb82",
             "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1779070453~acl=%2F*~id=ac995ce9-4460-4baf-aa98-8964bf914c77~data=hdntl,aXA9NTIuMTYxLjU2LjcwJmV4cD0xNzc4OTg0MDgzJmVpZD05MzU1NDYmb2lkPTE1NCZ0eXBlPVZPRCZ1aWQ9YWRjV1lXfGI2MGFmMjk5LTAzOTEtNGQxZi1hNmQwLWQ4MjQ0ZGZhZjFjOSZjaWQ9ZGNlLmZpc2ZlZCZwdD1udWxs~hmac=f6b8f98b065a74d282a69083cc879a3b075e09696d12209ba9f1048055d753b7/dash/live/2093722/219032-321033/manifest-d.mpd",
             "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
@@ -711,32 +693,11 @@
             "type": "1"
           },
           {
-            "api": "a7712196dbee413ab510c825e5c4d3f0:1ade126fa6a9162ba34bd5de5b1427ca",
-            "link": "https://ottlive.dishhome.com.np/protected/jQTOzZkB0RDJ74Ryniuo/dash/manifest.mpd",
-            "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png",
-            "title": "PTV Sports",
-            "type": "1"
-          },
-          {
-            "api": "",
-            "link": "https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-PaKvZIm/master.m3u8",
-            "logo": "",
-            "title": "TAPMAD - AQ",
-            "type": "0"
-          },
-          {
             "api": "709c812e1b4174002605df1d17d34a4c:0bbee6c9c20a0f065bf8369d54cbf83e",
             "link": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash-sd/enc/qddnwqthpp/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd",
             "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png",
             "title": "FANCODE - SD",
             "type": "1"
-          },
-          {
-            "api": "",
-            "link": "http://datahub11.com/live/gGFotsfxZm/mundane2basis/1856.ts",
-            "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png",
-            "title": "FOX CRICKET FHD",
-            "type": "0"
           }
         ],
         "eventInfo": {
@@ -752,6 +713,10 @@
         },
         "formatsNew": [
           {
+            "logo": "",
+            "title": "WILLOW [Ad-Free]"
+          },
+          {
             "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
             "title": "SKY SPORTS FHD"
           },
@@ -765,19 +730,7 @@
           },
           {
             "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png",
-            "title": "PTV Sports"
-          },
-          {
-            "logo": "",
-            "title": "TAPMAD - AQ"
-          },
-          {
-            "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png",
             "title": "FANCODE - SD"
-          },
-          {
-            "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png",
-            "title": "FOX CRICKET FHD"
           }
         ],
         "id": "355",
@@ -934,8 +887,8 @@
         "cat": "Indian Premier League",
         "channels_data": [
           {
-            "api": "278b8746b7c7410e901af0aa3774f037:15e1142d647b474ebbd49e41efa2a9d7",
-            "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1778479837~acl=%2F*~id=f982c1bc-036d-4277-baf9-6df46863b3ee~data=hdntl,aXA9MTA4LjE4MS4wLjEwOSZleHA9MTc3ODM5MzQ2NyZlaWQ9OTM5NjY2Jm9pZD0xNTQmdHlwZT1WT0QmdWlkPXhSUnFvOXxiY2FlYTdjZi1jMzM3LTQwMzktODE1OC0zYzFjZTQ5ZTcyOTMmY2lkPWRjZS5maXNmZWQmcHQ9bnVsbA~hmac=a0a3328a3b0e5421968984ebacecaf3ebf8fac58bf8a7ff905f235b2076347d9/dash/live/2093720/219029-321032/manifest-d.mpd",
+            "api": "708a98b352bd4418a73a028edd84da8f:b1fa5c2bca4c4b57b924b748564532cb",
+            "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1779070453~acl=%2F*~id=319ab612-2e20-46d8-844b-27cb156b638c~data=hdntl,aXA9NTIuMTYxLjU2LjcwJmV4cD0xNzc4OTg0MDgzJmVpZD05MzY0MjQmb2lkPTE1NCZ0eXBlPVZPRCZ1aWQ9YWRjV1lXfGI2MGFmMjk5LTAzOTEtNGQxZi1hNmQwLWQ4MjQ0ZGZhZjFjOSZjaWQ9ZGNlLmZpc2ZlZCZwdD1udWxs~hmac=0f528e265590e386ba6fb3983f21449ea43d5fa28aed795503f83643861de1ff/dash/live/2093715/219027-321028/manifest-d.mpd",
             "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
             "title": "SKY SPORTS FHD",
             "type": "1"
@@ -948,13 +901,6 @@
             "type": "1"
           },
           {
-            "api": "06f978bb1c7b553aaecaff569e4c1b32:3e0e22ad71d1ab24d66f38a908948901",
-            "link": "https://dck1-fs-live.dtcdn.dazn.com/out/v1/814bffb9b389f652/29464dfd2018437699204fcb82b2a3f6/index.mpd",
-            "logo": "https://play-lh.googleusercontent.com/cnJUFy1qP5kPvc1gFrTNuh1Lg8KlS0meXk2Sxsxr-7VfDD0PAJnFkI41fKC41BQlE44",
-            "title": "KAYO HINDI FHD",
-            "type": "1"
-          },
-          {
             "api": "",
             "link": "https://dai.google.com/linear/hls/event/mbsfWpAoS2Olw5e-nkM-gw/master.m3u8|user-agent=Cricbuzz/7.00.01 (Linux;Android 13) AndroidXMedia3/1.5.1&x-forwarded-for=1.178.20.23",
             "logo": "",
@@ -963,16 +909,9 @@
           },
           {
             "api": "",
-            "link": "https://dfdsfergf.zulo-0084.online/ipl-english.m3u8|referer=https://estraaw.pages.dev/",
+            "link": "|referer=https://estraaw.pages.dev/",
             "logo": "",
             "title": "HUB SPORTS FHD",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "http://datahub11.com:80/live/Jen12345/Jen54321/703300.ts",
-            "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
-            "title": "WILLOW HINDI",
             "type": "0"
           },
           {
@@ -1004,20 +943,12 @@
             "title": "WILLOW [Ad-Free]"
           },
           {
-            "logo": "https://play-lh.googleusercontent.com/cnJUFy1qP5kPvc1gFrTNuh1Lg8KlS0meXk2Sxsxr-7VfDD0PAJnFkI41fKC41BQlE44",
-            "title": "KAYO HINDI FHD"
-          },
-          {
             "logo": "",
             "title": "NOON SPORTS"
           },
           {
             "logo": "",
             "title": "HUB SPORTS FHD"
-          },
-          {
-            "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
-            "title": "WILLOW HINDI"
           },
           {
             "logo": "",
