@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-17T18:50:18.817255",
+  "last_updated": "2026-05-17T19:00:43.933145",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "12:15:24 AM 18-05-2026",
+    "Last update time": "12:25:18 AM 18-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -2257,6 +2257,13 @@
             "logo": "",
             "title": "beIN ENGLISH US",
             "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://livecdn-tc-iptv.rumsport10.live/live_abr/398/chunks.m3u8?is_vip=false&token=1779130208-Kv4cPTAAP5YTi-e3b73f76eb1850f42fc741e7d134e8919c99167f-401a8eb290295e22fab1cf5031d5cf57",
+            "logo": "",
+            "title": "beIN SPORTS HD",
+            "type": "0"
           }
         ],
         "eventInfo": {
@@ -2274,6 +2281,10 @@
           {
             "logo": "",
             "title": "beIN ENGLISH US"
+          },
+          {
+            "logo": "",
+            "title": "beIN SPORTS HD"
           }
         ],
         "id": "426",
@@ -2287,8 +2298,16 @@
         "channels_data": [
           {
             "api": "",
-            "link": "https://fallback-video.ivan-flux.workers.dev/video/index.m3u8",
+            "link": "https://livecdn-tc-livestream.rumsport10.live/stream/27/chunks.m3u8?is_vip=false&token=1779130258-Kv4cPTAAP5YTi-e3b73f76eb1850f42fc741e7d134e8919c99167f-532ded175bcabcc3fa9725261877d9a8",
+            "logo": "",
             "title": "SPORTIFy Live",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://agelis.voglempanis.online/premium157/tracks-v1a1/mono.m3u8|Referer=https://donis.jimpenopisonline.online/",
+            "logo": "",
+            "title": "DAZN SPORTS HD",
             "type": "0"
           }
         ],
@@ -2307,6 +2326,10 @@
           {
             "logo": "",
             "title": "SportzX Live"
+          },
+          {
+            "logo": "",
+            "title": "DAZN SPORTS HD"
           }
         ],
         "id": "427",
@@ -2320,8 +2343,16 @@
         "channels_data": [
           {
             "api": "",
-            "link": "https://fallback-video.ivan-flux.workers.dev/video/index.m3u8",
+            "link": "https://livecdn-tc-livestream.rumsport10.live/stream/25/chunks.m3u8?is_vip=false&token=1779130339-Kv4cPTAAP5YTi-e3b73f76eb1850f42fc741e7d134e8919c99167f-36f9dbd5ab7b8d57a33771b169a5f905",
+            "logo": "",
             "title": "SPORTIFy Live",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://agelis.voglempanis.online/premium156/tracks-v1a1/mono.m3u8|Referer=https://donis.jimpenopisonline.online/",
+            "logo": "",
+            "title": "DAZN SPORTS HD",
             "type": "0"
           }
         ],
@@ -2340,6 +2371,10 @@
           {
             "logo": "",
             "title": "SportzX Live"
+          },
+          {
+            "logo": "",
+            "title": "DAZN SPORTS HD"
           }
         ],
         "id": "428",
@@ -2353,8 +2388,9 @@
         "channels_data": [
           {
             "api": "",
-            "link": "https://fallback-video.ivan-flux.workers.dev/video/index.m3u8",
-            "title": "SPORTIFy Live",
+            "link": "https://agelis.voglempanis.online/premium159/tracks-v1a1/mono.m3u8|Referer=https://donis.jimpenopisonline.online/",
+            "logo": "",
+            "title": "Ligue1+ HD",
             "type": "0"
           }
         ],
@@ -2372,7 +2408,7 @@
         "formatsNew": [
           {
             "logo": "",
-            "title": "SportzX Live"
+            "title": "Ligue1+ HD"
           }
         ],
         "id": "429",
@@ -2518,8 +2554,16 @@
         "channels_data": [
           {
             "api": "",
-            "link": "https://fallback-video.ivan-flux.workers.dev/video/index.m3u8",
+            "link": "https://livecdn-tc-livestream.rumsport10.live/stream/20/chunks.m3u8?is_vip=false&token=1779129932-Kv4cPTAAP5YTi-e3b73f76eb1850f42fc741e7d134e8919c99167f-835233a83a662b8255b89ed73588da4e",
+            "logo": "",
             "title": "SPORTIFy Live",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://poklis.rontokakishop.online/premium154/tracks-v1a1/mono.m3u8|Referer=https://donis.jimpenopisonline.online/",
+            "logo": "",
+            "title": "DAZN SPORTS HD",
             "type": "0"
           }
         ],
@@ -2538,6 +2582,10 @@
           {
             "logo": "",
             "title": "SportzX Live"
+          },
+          {
+            "logo": "",
+            "title": "DAZN SPORTS HD"
           }
         ],
         "id": "434",
