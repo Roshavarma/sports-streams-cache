@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-17T06:10:25.456437",
+  "last_updated": "2026-05-17T06:20:22.417331",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "11:35:18 AM 17-05-2026",
+    "Last update time": "11:45:29 AM 17-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -1831,6 +1831,125 @@
         "image": "o",
         "publish": "1",
         "title": "Inter vs Hellas Verona"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "Serie A 🇮🇹",
+        "channels_data": [
+          {
+            "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
+            "title": "beIN ENGLISH FHD",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/17 18:00:00 +0000",
+          "eventName": "Atalanta vs Bologna",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/17 16:00:00 +0000",
+          "teamA": "Atalanta",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2686/image",
+          "teamB": "Bologna",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2685/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "beIN ENGLISH FHD"
+          }
+        ],
+        "id": "419",
+        "image": "o",
+        "publish": "1",
+        "title": "Atalanta vs Bologna"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "Serie A 🇮🇹",
+        "channels_data": [
+          {
+            "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
+            "title": "beIN ENGLISH FHD",
+            "type": "1"
+          },
+          {
+            "api": "294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd",
+            "title": "TNT SPORTS FHD",
+            "type": "1"
+          },
+          {
+            "api": "3fb40d85724942f994d86943f48021db:a6da8742502c8a2153067f5f2a70fb02",
+            "link": "https://mag04.tvx.prd.tv.odido.nl/wh7f454c46tw865586829_-819821292/PLTV/86/224/3221241610/3221241610.mpd?accountinfo=~~V2.0~LNS2PBO5tyhp5z1Pe6ObBA6cd7a4ec35c4492167b9376e6dff2932~BZw2dESHw-I1PQCFh9gGxCMvrIIzgMdYAe900qj8l6aoXUX9ahyR6I9EUIu7nDR4f4887615c83ea7a8cee6dd33137c4ebe:UTC,",
+            "title": "ZIGGO SPORTS",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/17 20:45:00 +0000",
+          "eventName": "Udinese vs Cremonese",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/17 18:45:00 +0000",
+          "teamA": "Udinese",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2695/image",
+          "teamB": "Cremonese",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2761/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "beIN ENGLISH FHD"
+          },
+          {
+            "logo": "",
+            "title": "TNT SPORTS FHD"
+          },
+          {
+            "logo": "",
+            "title": "ZIGGO SPORTS"
+          }
+        ],
+        "id": "420",
+        "image": "o",
+        "publish": "1",
+        "title": "Udinese vs Cremonese"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "Serie A 🇮🇹",
+        "channels_data": [
+          {
+            "api": "b5c04cfb6da84104ba5bbe51cd065b12:d96561be4819d3ed4e5f4f54015baaca",
+            "link": "https://mag01.tvx.prd.tv.odido.nl/wh7f454c46tw523693457_1808344289/PLTV/86/224/3221241652/3221241652.mpd?zoneoffset=0&devkbps=1-7000&servicetype=1&icpid=86&accounttype=1&limitflux=-1&limitdur=-1&tenantId=3103&accountinfo=%7E%7EV2.0%7Eu0jaHTa0MTNW18tBSpXw1Ad47f31195be578ee163e34a9e557d481%7E-tEuN4yI47Z49lA_lxVw3r26rEF-eIM-4N-YRBTnBjXeDlL3yoAcCSTfh367bmnJfe93264045ad9787422349ffe59c4e2f%7EExtInfo5Ro3VppWiUusj2ippqUPkQ%3D%3D4a2d2c8ce133f43026d0e31b822b8474%3A20240601013557%3AUTC%2C10001003329222%2C87.212.140.171%2C20240601013557%2C3103_SP1T%2C10001003329222%2C-1%2C0%2C1%2C%2C%2C2%2C3103_Sport1%2C%2C%2C2%2C10000044444303%2C0%2C10000025050255%2CNDEzODg2NTY3MzEwMzI2NzMwNjMwNTY%3D%2C%2C%2C5%2C1%2CEND&GuardEncType=2&_=1717205757900&RTS=1717205758&from=11&hms_devid=538&online=1717205758&mag_hms=538",
+            "title": "ZIGGO SPORTS",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/17 12:00:00 +0000",
+          "eventName": "Como vs Parma",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/17 10:00:00 +0000",
+          "teamA": "Como",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2704/image",
+          "teamB": "Parma",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2690/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "ZIGGO SPORTS"
+          }
+        ],
+        "id": "421",
+        "image": "o",
+        "publish": "1",
+        "title": "Como vs Parma"
       }
     ]
   }
