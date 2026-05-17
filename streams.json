@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-17T11:10:21.844188",
+  "last_updated": "2026-05-17T11:20:20.583471",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "04:35:18 PM 17-05-2026",
+    "Last update time": "04:45:28 PM 17-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -1018,19 +1018,384 @@
       },
       {
         "adsLimit": "0",
+        "cat": "NBA",
+        "channels_data": [
+          {
+            "api": "e51aa21f2a0fef9aabc120dfb655b52f:a12a987fe725a40b6be95cd84b15f689",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
+            "logo": "",
+            "title": "TSN SPORTS FHD",
+            "type": "1"
+          },
+          {
+            "api": "",
+            "link": "https://mainstreams.pro/hls/mlkijfezag65.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+            "logo": "",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://instreams.pro/US/NBA1/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
+            "logo": "",
+            "title": "HD SERVER",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/18 03:00:00 +0000",
+          "eventName": "Detroit Pistons vs Cleveland Cavaliers",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/18 00:00:00 +0000",
+          "teamA": "Pistons",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3424/image",
+          "teamB": "Cavaliers",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3432/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "TSN SPORTS FHD"
+          },
+          {
+            "logo": "",
+            "title": "SportzX Live"
+          },
+          {
+            "logo": "",
+            "title": "HD SERVER"
+          }
+        ],
+        "id": "373",
+        "image": "o",
+        "publish": "1",
+        "title": "Cleveland Cavaliers"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "WNBA",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://mainstreams.pro/hls/bvnsqdfvgha70.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+            "logo": "",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/17 20:30:00 +0000",
+          "eventName": "Atlanta Dream vs Las Vegas Aces",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/17 17:30:00 +0000",
+          "teamA": "Atlanta",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/35545/image",
+          "teamB": "Las Vegas",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/35550/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "SportzX Live"
+          }
+        ],
+        "id": "377",
+        "image": "o",
+        "publish": "1",
+        "title": "Atlanta Dream vs Las Vegas Aces"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "WNBA",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://mainstreams.pro/hls/ztyarueaghj71.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+            "logo": "",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/18 00:30:00 +0000",
+          "eventName": "Indiana Fever vs Seattle Storm",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/17 22:00:00 +0000",
+          "teamA": "Fever",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3452/image",
+          "teamB": "Storm",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3448/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "SportzX Live"
+          }
+        ],
+        "id": "378",
+        "image": "o",
+        "publish": "1",
+        "title": "Indiana Fever vs Seattle Storm"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "WNBA",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://mainstreams.pro/hls/pllmazjkdzajh72.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/18 01:30:00 +0000",
+          "eventName": "Minnesota Lynx vs Chicago Sky",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/17 23:00:00 +0000",
+          "teamA": "Lynx",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3440/image",
+          "teamB": "Chicago",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/35546/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "SportzX Live"
+          }
+        ],
+        "id": "379",
+        "image": "o",
+        "publish": "1",
+        "title": "Minnesota Lynx vs Chicago Sky"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "WNBA",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://mainstreams.pro/hls/fdgsqdfawa73.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/18 01:30:00 +0000",
+          "eventName": "Los Angeles Sparks vs Toronto Tempo",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/17 23:00:00 +0000",
+          "teamA": "Sparks",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3447/image",
+          "teamB": "Tempo",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/1166445/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "SportzX Live"
+          }
+        ],
+        "id": "380",
+        "image": "o",
+        "publish": "1",
+        "title": "Sparks vs Toronto Tempo"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "MLB",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://mainstreams.pro/hls/kjhfzua25.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/17 21:15:00 +0000",
+          "eventName": "Cardinals vs Kansas City Royals",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/17 18:15:00 +0000",
+          "teamA": "Cardinals",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3632/image",
+          "teamB": "Royals",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3651/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "SportzX Live"
+          }
+        ],
+        "id": "394",
+        "image": "o",
+        "publish": "1",
+        "title": "Kansas City Royals"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "MLB",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://mainstreams.pro/hls/dzjhkfazbka26.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+            "logo": "",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/17 22:10:00 +0000",
+          "eventName": "Colorado Rockies vs Arizona Diamondbacks",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/17 19:10:00 +0000",
+          "teamA": "Rockies",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3628/image",
+          "teamB": "Diamondbacks",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3640/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "SportzX Live"
+          }
+        ],
+        "id": "395",
+        "image": "o",
+        "publish": "1",
+        "title": "Arizona Diamondbacks"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "MLB",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://mainstreams.pro/hls/jzabfazkbf27.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/17 23:05:00 +0000",
+          "eventName": "Athletics vs San Francisco Giants",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/17 20:05:00 +0000",
+          "teamA": "Athletics",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3645/image",
+          "teamB": "Giants",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3634/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "SportzX Live"
+          }
+        ],
+        "id": "397",
+        "image": "o",
+        "publish": "1",
+        "title": "Athletics"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "MLB",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://mainstreams.pro/hls/hefbafbakx28.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+            "title": "SPORTIFy LIVE",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/17 23:07:00 +0000",
+          "eventName": "Los Angeles Angels vs Los Angeles Dodgers",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/17 20:07:00 +0000",
+          "teamA": "Angels",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/5929/image",
+          "teamB": "Dodgers",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3638/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "SportzX LIVE"
+          }
+        ],
+        "id": "398",
+        "image": "o",
+        "publish": "1",
+        "title": "Los Angeles Dodgers"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "MLB",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://mainstreams.pro/hls/hfzljfahzcax29.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/18 02:20:00 +0000",
+          "eventName": "Seattle Mariners vs San Diego Padres",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/17 23:20:00 +0000",
+          "teamA": "Mariners",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3641/image",
+          "teamB": "Padres",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3636/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "SportzX Live"
+          }
+        ],
+        "id": "399",
+        "image": "o",
+        "publish": "1",
+        "title": "Seattle Mariners"
+      },
+      {
+        "adsLimit": "0",
         "cat": "EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
         "channels_data": [
           {
             "api": "7a2758575dc04d63acc3573ab594d441:47071dd80de746a38cdc6a4dcde21abc",
             "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1779070453~acl=%2F*~id=ac995ce9-4460-4baf-aa98-8964bf914c77~data=hdntl,aXA9NTIuMTYxLjU2LjcwJmV4cD0xNzc4OTg0MDgzJmVpZD05MzU1NDYmb2lkPTE1NCZ0eXBlPVZPRCZ1aWQ9YWRjV1lXfGI2MGFmMjk5LTAzOTEtNGQxZi1hNmQwLWQ4MjQ0ZGZhZjFjOSZjaWQ9ZGNlLmZpc2ZlZCZwdD1udWxs~hmac=f6b8f98b065a74d282a69083cc879a3b075e09696d12209ba9f1048055d753b7/dash/live/2093712/219035-321027/manifest-d.mpd",
+            "logo": "",
             "title": "SKY SPORTS FHD",
             "type": "1"
           },
           {
             "api": "ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1",
             "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd",
+            "logo": "",
             "title": "TELEMUNDO FHD",
             "type": "1"
+          },
+          {
+            "api": "",
+            "link": "https://livecdn-bp-iptv.rumsport7.live/live_abr/144253/chunks.m3u8?is_vip=false&token=2223516ee6861d31f8b0239a4aaf0e07a93fd97b&x-sign=9e9dcb2f05e0aea2f431fc4eb66e721b&x-time=1779016320",
+            "logo": "",
+            "title": "HUB PREMIER HD",
+            "type": "0"
           }
         ],
         "eventInfo": {
@@ -1052,6 +1417,10 @@
           {
             "logo": "",
             "title": "TELEMUNDO FHD"
+          },
+          {
+            "logo": "",
+            "title": "HUB PREMIER HD"
           }
         ],
         "id": "400",
