@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-17T07:10:23.850882",
+  "last_updated": "2026-05-17T07:20:27.588748",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "12:35:25 PM 17-05-2026",
+    "Last update time": "12:45:26 PM 17-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -2409,6 +2409,74 @@
         "image": "o",
         "publish": "1",
         "title": "France W vs England W"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "Caribbean Premier League",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://fallback-video.ivan-flux.workers.dev/video/index.m3u8",
+            "logo": "",
+            "title": "Default",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/16 05:00:00 +0000",
+          "eventName": "Abahani Limited vs Bashundhara Strikers",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/16 03:00:00 +0000",
+          "teamA": "Abahani Limited",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/413570/image",
+          "teamB": "Bashundhara Strikers",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/413576/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "Default"
+          }
+        ],
+        "id": "438",
+        "image": "o",
+        "publish": "1",
+        "title": "Abahani Limited vs Bashundhara Strikers"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "Caribbean Premier League",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://fallback-video.ivan-flux.workers.dev/video/index.m3u8",
+            "logo": "",
+            "title": "Default",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/16 05:00:00 +0000",
+          "eventName": "Abahani Limited vs Bashundhara Strikers",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/16 03:00:00 +0000",
+          "teamA": "Abahani Limited",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/413570/image",
+          "teamB": "Bashundhara Strikers",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/413576/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "Default"
+          }
+        ],
+        "id": "439",
+        "image": "o",
+        "publish": "1",
+        "title": "Abahani Limited vs Bashundhara Strikers"
       }
     ]
   }
