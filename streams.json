@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-17T16:20:24.818663",
+  "last_updated": "2026-05-17T16:30:33.607776",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "09:45:27 PM 17-05-2026",
+    "Last update time": "09:55:22 PM 17-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -983,109 +983,6 @@
         "title": "IPL - 02"
       },
       {
-        "adsLimit": "8",
-        "cat": "ISL",
-        "channels_data": [
-          {
-            "api": "dafbae65bdfd4278a4b4b648da79495d:1368492078d17dd0129fa6d674b97f13",
-            "link": "https://in-mc-flive.fancode.com/mumbai/140482_english_dash_38510_1drmta-di_h264/index.mpd",
-            "title": "FANCODE [ENG]",
-            "type": "1"
-          },
-          {
-            "api": "8a1ccfbeac9741769289919c0e65b94b:3e6a60425e0465fc4a991c22c65c9b76",
-            "link": "https://in-mc-flive.fancode.com/mumbai/140482_hindi_dash_54800_1drmta-di_h264/index.mpd",
-            "title": "FANCODE [HIN]",
-            "type": "1"
-          },
-          {
-            "api": "94e62a2c71f94a0fb4c48834b11cd799:99aef645a00e3dd61588a5173e0c057b",
-            "link": "https://in-mc-flive.fancode.com/mumbai/140482_tamil_dash_61057_1drmta-di_h264/index.mpd",
-            "title": "FANCODE [TAM]",
-            "type": "1"
-          },
-          {
-            "api": "f4752dd4bc2d4fc98ab23e23f8014ff1:a58c5c58c20e0a5175cecd263c732a81",
-            "link": "https://in-mc-flive.fancode.com/mumbai/140482_malayalam_dash_60112_1drmta-di_h264/index.mpd",
-            "title": "FANCODE [MAL]",
-            "type": "1"
-          },
-          {
-            "api": "26be5abac415413c81e9105390e3a5dd:2b46ec61a16d79a8efa471f33b6f0ec0",
-            "link": "https://in-mc-flive.fancode.com/mumbai/140482_bengali_dash_77342_1drmta-di_h264/index.mpd",
-            "title": "FANCODE [BAN]",
-            "type": "1"
-          },
-          {
-            "api": "b8b4c7a012eb4daea6b2fafa9d57757d:abf2d7c5859205efca3028f623f75cd8",
-            "link": "https://bd-mc-flive.fancode.com/delhi/140482_english_dash_38610_1drmta-di_h264/index.mpd",
-            "title": "FANCODE [BD]",
-            "type": "1"
-          },
-          {
-            "api": "",
-            "link": "https://live.uu6611.com/live/sd-1-4496375.m3u8?txSecret=73ae3adbee35c33b3195a7da6820e3bb&txTime=69DA76E9|Referer=https://player.up909.com/",
-            "title": "WORLDWIDE HD",
-            "type": "0"
-          },
-          {
-            "api": "7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe",
-            "link": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
-            "title": "FANCODE FHD",
-            "type": "1"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/17 16:00:00 +0000",
-          "eventName": "Mohun Bagan vs East Bengal",
-          "eventType": "null",
-          "isHot": "1",
-          "startTime": "2026/05/17 14:00:00 +0000",
-          "teamA": "Mohun Bagan",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/370834/image",
-          "teamB": "East Bengal",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/40655/image"
-        },
-        "formatsNew": [
-          {
-            "logo": "",
-            "title": "FANCODE FHD"
-          },
-          {
-            "logo": "",
-            "title": "FANCODE - SD"
-          },
-          {
-            "logo": "",
-            "title": "FANCODE WORLD"
-          },
-          {
-            "logo": "",
-            "title": "FANCODE [ENG]"
-          },
-          {
-            "logo": "",
-            "title": "FANCODE [HIN]"
-          },
-          {
-            "logo": "",
-            "title": "FANCODE [MAL]"
-          },
-          {
-            "logo": "",
-            "title": "FANCODE [BAN]"
-          },
-          {
-            "logo": "",
-            "title": "FANCODE [BD]"
-          }
-        ],
-        "id": "371",
-        "image": "o",
-        "publish": "1",
-        "title": "ISL VS ISL"
-      },
-      {
         "adsLimit": "9",
         "cat": "ATP",
         "channels_data": [
@@ -1535,195 +1432,6 @@
         "cat": "EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
         "channels_data": [
           {
-            "api": "00225eda218f3ca32d35e0cc64b4c33b:6cab410869e63b7696d4ace9013174f4",
-            "link": "https://g003-sle-us-cmaf-prd-cf.cdn.peacocktv.com/pck-sle/us-east-1/v1/dash/6f3f45fea6332a47667932dede90d20a96f2690c/peacock-dash-sle-4s-generic-cfd/co01/pcksle2/Content/CMAF_CTR-4s-v2/Live/channel(5021408-723266-49123488142)/master_2hr.mpd?c3.ri=6a09c138_Q1ZYMDc_0_Q0xPVURGUk9OVA_84782b016c9e&aws.sessionId=0d171c50-160b-4763-b3d0-1b73a6655851",
-            "logo": "",
-            "title": "Peacock AQ",
-            "type": "1"
-          },
-          {
-            "api": "e87521b3dfa44ed9ba004012dcb89172:bba9734a9d724531bbab7ef5d64ca1f8",
-            "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1779070453~acl=%2F*~id=ac995ce9-4460-4baf-aa98-8964bf914c77~data=hdntl,aXA9NTIuMTYxLjU2LjcwJmV4cD0xNzc4OTg0MDgzJmVpZD05MzU1NDYmb2lkPTE1NCZ0eXBlPVZPRCZ1aWQ9YWRjV1lXfGI2MGFmMjk5LTAzOTEtNGQxZi1hNmQwLWQ4MjQ0ZGZhZjFjOSZjaWQ9ZGNlLmZpc2ZlZCZwdD1udWxs~hmac=f6b8f98b065a74d282a69083cc879a3b075e09696d12209ba9f1048055d753b7/dash/live/2093709/219033-321024/manifest-d.mpd",
-            "logo": "",
-            "title": "SKY SPORTS FHD",
-            "type": "1"
-          },
-          {
-            "api": "",
-            "link": "https://storage.googleapis.com/phynterobertung2/mux_video_ts1/index-1.m3u8",
-            "logo": "",
-            "title": "SKY SPORTS HD",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://livecdn-bp-iptv.rumsport7.live/live_abr/52436/chunks.m3u8?is_vip=false&token=2223516ee6861d31f8b0239a4aaf0e07a93fd97b&x-sign=946dae19683abc59f3dd31c7f9c86470&x-time=1779026340",
-            "logo": "",
-            "title": "SKY SPORTS+ HD",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://livecdn-bp-iptv.rumsport7.live/live_abr/144257/chunks.m3u8?is_vip=false&token=2223516ee6861d31f8b0239a4aaf0e07a93fd97b&x-sign=a48998b6c93b0ceb68e349c988f7d5b8&x-time=1779026280",
-            "logo": "",
-            "title": "HUB PREMIER HD",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://livecdn-tc-livestream.rumsport10.live/stream/3/chunks.m3u8?is_vip=false&token=1779112809-Kv4cPTAAP5YTi-2223516ee6861d31f8b0239a4aaf0e07a93fd97b-acf66fb875eb5a7ea57e7613fb7a2878",
-            "logo": "",
-            "title": "STAN SPORTS HD",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://live.vivo200.com/live/hd-en-1-4343221.m3u8?txSecret=5d84839c4252c1e231bc88a30a7f3df3&txTime=6A0A0F3D|Referer=https://player.online909.com/",
-            "logo": "",
-            "title": "SPORTIFy Live",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/17 16:00:00 +0000",
-          "eventName": "Wolverhampton vs Fulham",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/17 14:00:00 +0000",
-          "teamA": "Wolves",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3/image",
-          "teamB": "Fulham",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/43/image"
-        },
-        "formatsNew": [
-          {
-            "logo": "",
-            "title": "Peacock AQ"
-          },
-          {
-            "logo": "",
-            "title": "SKY SPORTS FHD"
-          },
-          {
-            "logo": "",
-            "title": "SKY SPORTS HD"
-          },
-          {
-            "logo": "",
-            "title": "SKY SPORTS+ HD"
-          },
-          {
-            "logo": "",
-            "title": "HUB PREMIER HD"
-          },
-          {
-            "logo": "",
-            "title": "STAN SPORTS HD"
-          },
-          {
-            "logo": "",
-            "title": "SportzX Live"
-          }
-        ],
-        "id": "403",
-        "image": "o",
-        "publish": "1",
-        "title": "Wolverhampton vs Fulham"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-        "channels_data": [
-          {
-            "api": "ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1",
-            "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd",
-            "logo": "",
-            "title": "TELEMUNDO FHD",
-            "type": "1"
-          },
-          {
-            "api": "",
-            "link": "https://storage.googleapis.com/phynterobertung1/mux_video_ts1/index-1.m3u8",
-            "logo": "",
-            "title": "USA NETWORK",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://chatgpt.hereisman.net/playlist/50742/load-playlist?|Referer=https://gooz.aapmains.net",
-            "logo": "",
-            "title": "USA TV HD",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://livecdn-bp-iptv.rumsport7.live/live_abr/52435/chunks.m3u8?is_vip=false&token=2223516ee6861d31f8b0239a4aaf0e07a93fd97b&x-sign=b8531d4880a8c0edd7871ea94aa6581f&x-time=1779027180",
-            "logo": "",
-            "title": "SKY SPORTS PL",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://livecdn-tc-iptv.rumsport10.live/live_abr/144253/chunks.m3u8?is_vip=false&token=1779111198-Kv4cPTAAP5YTi-2223516ee6861d31f8b0239a4aaf0e07a93fd97b-3553ce549d0884feca7c7c38e37842ae",
-            "logo": "",
-            "title": "HUB PREMIER HD",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://live.vivo200.com/live/hd-en-1-4343234.m3u8?txSecret=0daec019d200a4a2023ddb506162d62f&txTime=6A0A0F9B|Referer=https://player.online909.com/",
-            "logo": "",
-            "title": "SPORTIFy Live",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/17 16:00:00 +0000",
-          "eventName": "Leeds United vs Brighton",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/17 14:00:00 +0000",
-          "teamA": "Leeds",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/34/image",
-          "teamB": "Brighton",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/30/image"
-        },
-        "formatsNew": [
-          {
-            "logo": "",
-            "title": "TELEMUNDO FHD"
-          },
-          {
-            "logo": "",
-            "title": "USA NETWORK"
-          },
-          {
-            "logo": "",
-            "title": "USA TV HD"
-          },
-          {
-            "logo": "",
-            "title": "SKY SPORTS PL"
-          },
-          {
-            "logo": "",
-            "title": "HUB PREMIER HD"
-          },
-          {
-            "logo": "",
-            "title": "SportzX Live"
-          }
-        ],
-        "id": "404",
-        "image": "o",
-        "publish": "1",
-        "title": "Leeds United vs Brighton"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-        "channels_data": [
-          {
             "api": "dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f",
             "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd",
             "logo": "",
@@ -1743,6 +1451,27 @@
             "logo": "",
             "title": "TELEMUNDO FHD",
             "type": "1"
+          },
+          {
+            "api": "",
+            "link": "https://chatgpt.hereisman.net/playlist/50751/load-playlist?|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "title": "USA TV HD",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://livecdn-tc-iptv.rumsport10.live/live_abr/144253/chunks.m3u8?is_vip=false&token=1779121204-Kv4cPTAAP5YTi-e3b73f76eb1850f42fc741e7d134e8919c99167f-51a2c84ed9314df81a2e7d2a7fe33ec4",
+            "logo": "",
+            "title": "HUB PREMIER HD",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://livecdn-tc-livestream.rumsport10.live/stream/24/chunks.m3u8?is_vip=false&token=1779121259-Kv4cPTAAP5YTi-e3b73f76eb1850f42fc741e7d134e8919c99167f-716af4e13a1f019f9bf0825fa281d799",
+            "logo": "",
+            "title": "STAN SPORTS HD",
+            "type": "0"
           }
         ],
         "eventInfo": {
@@ -1768,6 +1497,18 @@
           {
             "logo": "",
             "title": "TELEMUNDO FHD"
+          },
+          {
+            "logo": "",
+            "title": "USA TV HD"
+          },
+          {
+            "logo": "",
+            "title": "HUB PREMIER HD"
+          },
+          {
+            "logo": "",
+            "title": "STAN SPORTS HD"
           }
         ],
         "id": "405",
@@ -2801,49 +2542,6 @@
         "cat": "Brasileirão",
         "channels_data": [
           {
-            "api": "56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd",
-            "title": "PREMIERER BR",
-            "type": "1"
-          },
-          {
-            "api": "4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733",
-            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd",
-            "title": "SporTV BR",
-            "type": "1"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/17 16:00:00 +0000",
-          "eventName": "Santos vs Coritiba",
-          "eventType": "null",
-          "isHot": "1",
-          "startTime": "2026/05/17 14:00:00 +0000",
-          "teamA": "Santos",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/1968/image",
-          "teamB": "Coritiba",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/1982/image"
-        },
-        "formatsNew": [
-          {
-            "logo": "",
-            "title": "PREMIERER BR"
-          },
-          {
-            "logo": "",
-            "title": "SporTV BR"
-          }
-        ],
-        "id": "438",
-        "image": "o",
-        "publish": "1",
-        "title": "Santos vs Coritiba"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "Brasileirão",
-        "channels_data": [
-          {
             "api": "d23f7433798a652a7d4f6791d9e1036c:4942eebd598b5727c5cc484cc62b52e8",
             "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/6onrfniyry/out/v1/f23069c61dbf4e00890a40b705a84079/cenc.mpd",
             "title": "PREMIERER BR",
@@ -3325,7 +3023,15 @@
         "channels_data": [
           {
             "api": "",
+            "link": "https://chatgpt.hereisman.net/playlist/50748/load-playlist?|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "title": "SPORTIFy MLB",
+            "type": "0"
+          },
+          {
+            "api": "",
             "link": "https://mainstreams.pro/hls/dazhfiach15.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+            "logo": "",
             "title": "SPORTIFy Live",
             "type": "0"
           }
@@ -3342,6 +3048,10 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/3639/image"
         },
         "formatsNew": [
+          {
+            "logo": "",
+            "title": "SportzX MLB"
+          },
           {
             "logo": "",
             "title": "SportzX Live"
@@ -3615,52 +3325,6 @@
         "image": "o",
         "publish": "1",
         "title": "Twins vs Milwaukee Brewers"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-        "channels_data": [
-          {
-            "api": "00220966aedc94118b743e5000f4844b:685548619e796d1e8452e382e7ab8820",
-            "link": "https://g003-sle-us-cmaf-prd-fy.cdn.peacocktv.com/pck-sle/us-west-2/v1/dash/6f3f45fea6332a47667932dede90d20a96f2690c/peacock-dash-sle-4s-generic-cfd/co01/pcksle2/Content/CMAF_CTR-4s-v2/Live/channel(5021405-723263-491231aba7f)/master_2hr.mpd?c3.ri=6a09c29f_Q1ZYMDc_0_RkFTVExZ_cc55b0d6224e&aws.sessionId=2bb37970-0ade-48d0-b90f-a1fdf086d122",
-            "logo": "",
-            "title": "Peacock FHD AQ",
-            "type": "1"
-          },
-          {
-            "api": "7a2758575dc04d63acc3573ab594d441:47071dd80de746a38cdc6a4dcde21abc",
-            "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1779070453~acl=%2F*~id=ac995ce9-4460-4baf-aa98-8964bf914c77~data=hdntl,aXA9NTIuMTYxLjU2LjcwJmV4cD0xNzc4OTg0MDgzJmVpZD05MzU1NDYmb2lkPTE1NCZ0eXBlPVZPRCZ1aWQ9YWRjV1lXfGI2MGFmMjk5LTAzOTEtNGQxZi1hNmQwLWQ4MjQ0ZGZhZjFjOSZjaWQ9ZGNlLmZpc2ZlZCZwdD1udWxs~hmac=f6b8f98b065a74d282a69083cc879a3b075e09696d12209ba9f1048055d753b7/dash/live/2093712/219035-321027/manifest-d.mpd",
-            "logo": "",
-            "title": "SKY SPORTS FHD",
-            "type": "1"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/17 16:05:58 +0000",
-          "eventBanner": "https://imageservice.disco.peacocktv.com/uuid/f3c538a9-d9ec-314e-b9cf-11099b93db9b/COVER_TITLE_WIDE/824x464?image-quality=7&image-format=webp&language=eng&proposition=NBCUOTT&version=b0e46d2b-dcc9-3359-a314-c4e288e87a5a",
-          "eventName": "EPL GOAL RUSH",
-          "eventType": "null",
-          "isHot": "1",
-          "startTime": "2026/05/17 13:55:53 +0000",
-          "teamA": "EPL",
-          "teamAFlag": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/47.png",
-          "teamB": "EPL",
-          "teamBFlag": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/47.png"
-        },
-        "formatsNew": [
-          {
-            "logo": "",
-            "title": "Peacock FHD AQ"
-          },
-          {
-            "logo": "",
-            "title": "SKY SPORTS FHD"
-          }
-        ],
-        "id": "460",
-        "image": "o",
-        "publish": "1",
-        "title": "EPL GOAL RUSH"
       }
     ]
   }
