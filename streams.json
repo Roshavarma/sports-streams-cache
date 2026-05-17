@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-17T19:00:43.933145",
+  "last_updated": "2026-05-17T19:10:20.805741",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "12:25:18 AM 18-05-2026",
+    "Last update time": "12:35:20 AM 18-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -883,106 +883,6 @@
         "title": "IPL - 01"
       },
       {
-        "adsLimit": "0",
-        "cat": "Indian Premier League",
-        "channels_data": [
-          {
-            "api": "8ab6b4ac429bfe070cfdb2a734b0f2e3:61a2198ca92d1c539abd22636fe0bf23",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fbo5ncnbyv/out/v1/ba5ff04083324474800234e8d2eef8d4/cenc.mpd",
-            "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
-            "title": "WILLOW [Ad-Free]",
-            "type": "1"
-          },
-          {
-            "api": "708a98b352bd4418a73a028edd84da8f:b1fa5c2bca4c4b57b924b748564532cb",
-            "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1779070453~acl=%2F*~id=319ab612-2e20-46d8-844b-27cb156b638c~data=hdntl,aXA9NTIuMTYxLjU2LjcwJmV4cD0xNzc4OTg0MDgzJmVpZD05MzY0MjQmb2lkPTE1NCZ0eXBlPVZPRCZ1aWQ9YWRjV1lXfGI2MGFmMjk5LTAzOTEtNGQxZi1hNmQwLWQ4MjQ0ZGZhZjFjOSZjaWQ9ZGNlLmZpc2ZlZCZwdD1udWxs~hmac=0f528e265590e386ba6fb3983f21449ea43d5fa28aed795503f83643861de1ff/dash/live/2093715/219027-321028/manifest-d.mpd",
-            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
-            "title": "SKY SPORTS FHD",
-            "type": "1"
-          },
-          {
-            "api": "d61f78cdfd675eee8a2144f5f7142a33:7a4d6f780440cd645d9bcaaa1295529d",
-            "link": "https://dck1-ak-livedazn.akamaized.net/out/v1/814bffb9b389f652/e1f3582cdf2a4b4fbc1b8a7306d8c757/index.mpd",
-            "logo": "",
-            "title": "KAYO HINDI FHD",
-            "type": "1"
-          },
-          {
-            "api": "",
-            "link": "https://dai.google.com/linear/hls/event/mbsfWpAoS2Olw5e-nkM-gw/master.m3u8|user-agent=Cricbuzz/7.00.01 (Linux;Android 13) AndroidXMedia3/1.5.1&x-forwarded-for=1.178.20.23",
-            "logo": "",
-            "title": "NOON SPORTS",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla",
-            "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
-            "title": "SKY CRICKET",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://sunffov.kuvuslov.cymru/fox501.m3u8|Referer=https://estraaw.pages.dev/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
-            "logo": "",
-            "title": "FOX SPORTS HD",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://v.zgdyoqa.shop/hls/JPPPX.m3u8|Referer=http://www.fawanews.sc/",
-            "logo": "",
-            "title": "SD SERVER",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/17 17:45:00 +0000",
-          "eventName": "Delhi Capitals vs Rajasthan Royals",
-          "eventType": "null",
-          "isHot": "1",
-          "startTime": "2026/05/17 14:00:00 +0000",
-          "teamA": "DC",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/187841/image",
-          "teamB": "RR",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/187842/image"
-        },
-        "formatsNew": [
-          {
-            "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
-            "title": "WILLOW [Ad-Free]"
-          },
-          {
-            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
-            "title": "SKY SPORTS FHD"
-          },
-          {
-            "logo": "",
-            "title": "KAYO HINDI FHD"
-          },
-          {
-            "logo": "",
-            "title": "NOON SPORTS"
-          },
-          {
-            "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
-            "title": "SKY CRICKET"
-          },
-          {
-            "logo": "",
-            "title": "FOX SPORTS HD"
-          },
-          {
-            "logo": "",
-            "title": "SD SERVER"
-          }
-        ],
-        "id": "367",
-        "image": "o",
-        "publish": "1",
-        "title": "IPL - 02"
-      },
-      {
         "adsLimit": "9",
         "cat": "ATP",
         "channels_data": [
@@ -1556,26 +1456,37 @@
           {
             "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
             "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
+            "logo": "",
             "title": "beIN ENGLISH FHD",
             "type": "1"
           },
           {
             "api": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f",
             "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
+            "logo": "",
             "title": "PREMIER SPORTS",
             "type": "1"
           },
           {
             "api": "f5c2b30eac11be1e8cdfc9585f5fe6af:a8198d17bf9b0da77450fbb919a38b2d",
             "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/lzhmuzmjsl/out/v1/c171eeb214c749f2b351c79df317b21e/cenc.mpd",
+            "logo": "",
             "title": "TSN SPORTS FHD",
             "type": "1"
           },
           {
             "api": "620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a",
             "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd",
+            "logo": "",
             "title": "Laliga TV FHD",
             "type": "1"
+          },
+          {
+            "api": "",
+            "link": "https://livecdn-tc-livestream.rumsport10.live/stream/15/chunks.m3u8?is_vip=false&token=1779130988-Kv4cPTAAP5YTi-e3b73f76eb1850f42fc741e7d134e8919c99167f-eae00ff634b891588d360ba1556afd06",
+            "logo": "",
+            "title": "SPY LIVE HD",
+            "type": "0"
           }
         ],
         "eventInfo": {
@@ -1605,6 +1516,10 @@
           {
             "logo": "",
             "title": "Laliga TV FHD"
+          },
+          {
+            "logo": "",
+            "title": "SPX LIVE HD"
           }
         ],
         "id": "407",
@@ -2298,16 +2213,16 @@
         "channels_data": [
           {
             "api": "",
-            "link": "https://livecdn-tc-livestream.rumsport10.live/stream/27/chunks.m3u8?is_vip=false&token=1779130258-Kv4cPTAAP5YTi-e3b73f76eb1850f42fc741e7d134e8919c99167f-532ded175bcabcc3fa9725261877d9a8",
+            "link": "https://agelis.voglempanis.online/premium157/tracks-v1a1/mono.m3u8|Referer=https://donis.jimpenopisonline.online/",
             "logo": "",
-            "title": "SPORTIFy Live",
+            "title": "DAZN SPORTS HD",
             "type": "0"
           },
           {
             "api": "",
-            "link": "https://agelis.voglempanis.online/premium157/tracks-v1a1/mono.m3u8|Referer=https://donis.jimpenopisonline.online/",
+            "link": "https://livecdn-tc-livestream.rumsport10.live/stream/27/chunks.m3u8?is_vip=false&token=1779130258-Kv4cPTAAP5YTi-e3b73f76eb1850f42fc741e7d134e8919c99167f-532ded175bcabcc3fa9725261877d9a8",
             "logo": "",
-            "title": "DAZN SPORTS HD",
+            "title": "SPORTIFy Live",
             "type": "0"
           }
         ],
@@ -2325,11 +2240,11 @@
         "formatsNew": [
           {
             "logo": "",
-            "title": "SportzX Live"
+            "title": "DAZN SPORTS HD"
           },
           {
             "logo": "",
-            "title": "DAZN SPORTS HD"
+            "title": "SportzX Live"
           }
         ],
         "id": "427",
@@ -2343,16 +2258,16 @@
         "channels_data": [
           {
             "api": "",
-            "link": "https://livecdn-tc-livestream.rumsport10.live/stream/25/chunks.m3u8?is_vip=false&token=1779130339-Kv4cPTAAP5YTi-e3b73f76eb1850f42fc741e7d134e8919c99167f-36f9dbd5ab7b8d57a33771b169a5f905",
+            "link": "https://agelis.voglempanis.online/premium156/tracks-v1a1/mono.m3u8|Referer=https://donis.jimpenopisonline.online/",
             "logo": "",
-            "title": "SPORTIFy Live",
+            "title": "DAZN SPORTS HD",
             "type": "0"
           },
           {
             "api": "",
-            "link": "https://agelis.voglempanis.online/premium156/tracks-v1a1/mono.m3u8|Referer=https://donis.jimpenopisonline.online/",
+            "link": "https://livecdn-tc-livestream.rumsport10.live/stream/25/chunks.m3u8?is_vip=false&token=1779130339-Kv4cPTAAP5YTi-e3b73f76eb1850f42fc741e7d134e8919c99167f-36f9dbd5ab7b8d57a33771b169a5f905",
             "logo": "",
-            "title": "DAZN SPORTS HD",
+            "title": "SPORTIFy Live",
             "type": "0"
           }
         ],
@@ -2370,11 +2285,11 @@
         "formatsNew": [
           {
             "logo": "",
-            "title": "SportzX Live"
+            "title": "DAZN SPORTS HD"
           },
           {
             "logo": "",
-            "title": "DAZN SPORTS HD"
+            "title": "SportzX Live"
           }
         ],
         "id": "428",
@@ -2422,8 +2337,9 @@
         "channels_data": [
           {
             "api": "",
-            "link": "https://fallback-video.ivan-flux.workers.dev/video/index.m3u8",
-            "title": "SPORTIFy Live",
+            "link": "https://bobis.zaglemplokis.online/premium155/tracks-v1a1/mono.m3u8|Referer=https://donis.jimpenopisonline.online/",
+            "logo": "",
+            "title": "Ligue1+ HD",
             "type": "0"
           }
         ],
@@ -2441,7 +2357,7 @@
         "formatsNew": [
           {
             "logo": "",
-            "title": "SportzX Live"
+            "title": "Ligue1+ HD"
           }
         ],
         "id": "430",
@@ -2455,8 +2371,16 @@
         "channels_data": [
           {
             "api": "",
-            "link": "https://fallback-video.ivan-flux.workers.dev/video/index.m3u8",
-            "title": "SPORTIFy Live",
+            "link": "https://livecdn-tc-iptv.rumsport10.live/live_abr/274844/chunks.m3u8?is_vip=false&token=1779130587-Kv4cPTAAP5YTi-e3b73f76eb1850f42fc741e7d134e8919c99167f-9358c9f58c3a4920e25d90f55a7db203",
+            "logo": "",
+            "title": "beIN SPORTS HD",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://zomis.zempovlantis.online/premium116/tracks-v1a1/mono.m3u8|Referer=https://donis.jimpenopisonline.online/",
+            "logo": "",
+            "title": "Ligue1+ HD",
             "type": "0"
           }
         ],
@@ -2474,7 +2398,11 @@
         "formatsNew": [
           {
             "logo": "",
-            "title": "SportzX Live"
+            "title": "beIN SPORTS HD"
+          },
+          {
+            "logo": "",
+            "title": "Ligue1+ HD"
           }
         ],
         "id": "431",
@@ -2488,8 +2416,9 @@
         "channels_data": [
           {
             "api": "",
-            "link": "https://fallback-video.ivan-flux.workers.dev/video/index.m3u8",
-            "title": "SPORTIFy Live",
+            "link": "https://bobis.zaglemplokis.online/premium161/tracks-v1a1/mono.m3u8|Referer=https://donis.jimpenopisonline.online/",
+            "logo": "",
+            "title": "Ligue1+ HD",
             "type": "0"
           }
         ],
@@ -2507,7 +2436,7 @@
         "formatsNew": [
           {
             "logo": "",
-            "title": "SportzX Live"
+            "title": "Ligue1+ HD"
           }
         ],
         "id": "432",
@@ -2521,8 +2450,9 @@
         "channels_data": [
           {
             "api": "",
-            "link": "https://fallback-video.ivan-flux.workers.dev/video/index.m3u8",
-            "title": "SPORTIFy Live",
+            "link": "https://agelis.voglempanis.online/premium158/tracks-v1a1/mono.m3u8|Referer=https://donis.jimpenopisonline.online/",
+            "logo": "",
+            "title": "Ligue1+ HD",
             "type": "0"
           }
         ],
@@ -2540,7 +2470,7 @@
         "formatsNew": [
           {
             "logo": "",
-            "title": "SportzX Live"
+            "title": "Ligue1+ HD"
           }
         ],
         "id": "433",
@@ -3052,59 +2982,6 @@
         "image": "o",
         "publish": "1",
         "title": "Kasımpaşa vs Galatasaray"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "Scottish Premiership",
-        "channels_data": [
-          {
-            "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
-            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
-            "title": "beIN ENGLISH",
-            "type": "1"
-          },
-          {
-            "api": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f",
-            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
-            "title": "PREMIER SPORTS",
-            "type": "1"
-          },
-          {
-            "api": "",
-            "link": "https://livecdn-tc-iptv.rumsport10.live/live_abr/274860/chunks.m3u8?is_vip=false&token=1779108856-Kv4cPTAAP5YTi-2223516ee6861d31f8b0239a4aaf0e07a93fd97b-f342a2ef062d47dd55e2c1f2d4422ed3",
-            "title": "CBS SPORTS HD",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/17 15:00:00 +0000",
-          "eventName": "Livingston vs Kilmarnock",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/17 13:00:00 +0000",
-          "teamA": "Livingston",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2356/image",
-          "teamB": "Kilmarnock",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2347/image"
-        },
-        "formatsNew": [
-          {
-            "logo": "",
-            "title": "beIN ENGLISH"
-          },
-          {
-            "logo": "",
-            "title": "PREMIER SPORTS"
-          },
-          {
-            "logo": "",
-            "title": "CBS SPORTS HD"
-          }
-        ],
-        "id": "448",
-        "image": "o",
-        "publish": "1",
-        "title": "Livingston vs Kilmarnock"
       },
       {
         "adsLimit": "0",
