@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-17T00:10:21.516520",
+  "last_updated": "2026-05-17T00:20:21.799959",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "05:35:19 AM 17-05-2026",
+    "Last update time": "05:45:27 AM 17-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -377,6 +377,10 @@
           {
             "logo": "",
             "title": "PARAMOUNT+ HD"
+          },
+          {
+            "logo": "",
+            "title": "UFC FIGHT PASS"
           },
           {
             "logo": "",
@@ -1130,11 +1134,11 @@
           }
         ],
         "eventInfo": {
-          "endTime": "2026/05/17 03:00:00 +0000",
+          "endTime": "2026/05/17 04:00:00 +0000",
           "eventName": "Keyshawn Davis vs Nahir Albright",
           "eventType": "null",
           "isHot": "1",
-          "startTime": "2026/05/17 00:00:00 +0000",
+          "startTime": "2026/05/17 00:30:00 +0000",
           "teamA": "K. Davis",
           "teamAFlag": "https://img.sofascore.com/api/v1/team/1076152/image",
           "teamB": "N. Albright",
@@ -1819,218 +1823,6 @@
         "image": "o",
         "publish": "1",
         "title": "Racing Club vs Real Valladolid"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "MLB",
-        "channels_data": [
-          {
-            "api": "",
-            "link": "https://chatgpt.hereisman.net/playlist/50681/load-playlist?|Referer=https://gooz.aapmains.net",
-            "logo": "",
-            "title": "SPORTIFy MLB",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://mainstreams.pro/hls/16yuitzaerghbhc16.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-            "logo": "",
-            "title": "SPORTIFy Live",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/16 21:15:00 +0000",
-          "eventName": "Cardinals vs Kansas City Royals",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/16 18:15:00 +0000",
-          "teamA": "Cardinals",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3632/image",
-          "teamB": "Royals",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3651/image"
-        },
-        "formatsNew": [
-          {
-            "logo": "",
-            "title": "SportzX MLB"
-          },
-          {
-            "logo": "",
-            "title": "SportzX Live"
-          }
-        ],
-        "id": "426",
-        "image": "o",
-        "publish": "1",
-        "title": "Cardinals vs Kansas City Royals"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "MLB",
-        "channels_data": [
-          {
-            "api": "",
-            "link": "https://chatgpt.hereisman.net/playlist/50688/load-playlist?|Referer=https://gooz.aapmains.net",
-            "logo": "",
-            "title": "SPORTIFy MLB",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://mainstreams.pro/hls/ihfazugfyjcazich17.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-            "logo": "",
-            "title": "SPORTIFy Live",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/16 22:10:00 +0000",
-          "eventName": "Rockies vs Arizona Diamondbacks",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/16 19:10:00 +0000",
-          "teamA": "Rockies",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3628/image",
-          "teamB": "Diamondbacks",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3640/image"
-        },
-        "formatsNew": [
-          {
-            "logo": "",
-            "title": "SportzX MLB"
-          },
-          {
-            "logo": "",
-            "title": "SportzX Live"
-          }
-        ],
-        "id": "427",
-        "image": "o",
-        "publish": "1",
-        "title": "Rockies vs Arizona Diamondbacks"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "MLB",
-        "channels_data": [
-          {
-            "api": "",
-            "link": "https://mainstreams.pro/hls/bzagLHzach19.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-            "title": "SPORTIFy Live",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/16 23:05:00 +0000",
-          "eventName": "Pittsburgh Pirates vs Phillies",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/16 20:05:00 +0000",
-          "teamA": "Pirates",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3637/image",
-          "teamB": "Phillies",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3635/image"
-        },
-        "formatsNew": [
-          {
-            "logo": "",
-            "title": "SportzX Live"
-          }
-        ],
-        "id": "428",
-        "image": "o",
-        "publish": "1",
-        "title": "Pittsburgh Pirates vs Phillies"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "MLB",
-        "channels_data": [
-          {
-            "api": "5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd",
-            "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
-            "title": "FOX SPORTS FHD",
-            "type": "1"
-          },
-          {
-            "api": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
-            "logo": "",
-            "title": "FOX DEPORTES",
-            "type": "1"
-          },
-          {
-            "api": "",
-            "link": "https://mainstreams.pro/hls/Czajafjihafch18.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-            "logo": "",
-            "title": "SPORTIFy Live",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/16 23:05:00 +0000",
-          "eventName": "Nationals vs Baltimore Orioles",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/16 20:05:00 +0000",
-          "teamA": "Nationals",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/5930/image",
-          "teamB": "Orioles",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3652/image"
-        },
-        "formatsNew": [
-          {
-            "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
-            "title": "FOX SPORTS FHD"
-          },
-          {
-            "logo": "",
-            "title": "FOX DEPORTES"
-          },
-          {
-            "logo": "",
-            "title": "SportzX Live"
-          }
-        ],
-        "id": "429",
-        "image": "o",
-        "publish": "1",
-        "title": "Nationals vs Baltimore Orioles"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "MLB",
-        "channels_data": [
-          {
-            "api": "",
-            "link": "https://mainstreams.pro/hls/jkzahzadach20.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-            "title": "SPORTIFy Live",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/16 23:10:00 +0000",
-          "eventName": "Tampa Bay Rays vs Miami Marlins",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/16 20:10:00 +0000",
-          "teamA": "Rays",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3653/image",
-          "teamB": "Marlins",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3639/image"
-        },
-        "formatsNew": [
-          {
-            "logo": "",
-            "title": "SportzX Live"
-          }
-        ],
-        "id": "430",
-        "image": "o",
-        "publish": "1",
-        "title": "Tampa Bay Rays vs Miami Marlins"
       },
       {
         "adsLimit": "0",
