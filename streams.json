@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-17T10:20:22.605282",
+  "last_updated": "2026-05-17T10:30:31.995696",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "03:45:24 PM 17-05-2026",
+    "Last update time": "03:55:21 PM 17-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -2614,6 +2614,244 @@
         "image": "o",
         "publish": "1",
         "title": "France W vs England W"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "Brasileirão",
+        "channels_data": [
+          {
+            "api": "56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd",
+            "title": "PREMIERER BR",
+            "type": "1"
+          },
+          {
+            "api": "4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733",
+            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd",
+            "title": "SporTV BR",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/17 16:00:00 +0000",
+          "eventName": "Santos vs Coritiba",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/17 14:00:00 +0000",
+          "teamA": "Santos",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/1968/image",
+          "teamB": "Coritiba",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/1982/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "PREMIERER BR"
+          },
+          {
+            "logo": "",
+            "title": "SporTV BR"
+          }
+        ],
+        "id": "438",
+        "image": "o",
+        "publish": "1",
+        "title": "Santos vs Coritiba"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "Brasileirão",
+        "channels_data": [
+          {
+            "api": "d23f7433798a652a7d4f6791d9e1036c:4942eebd598b5727c5cc484cc62b52e8",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/6onrfniyry/out/v1/f23069c61dbf4e00890a40b705a84079/cenc.mpd",
+            "title": "PREMIERER BR",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/17 21:00:00 +0000",
+          "eventName": "Bahia vs Grêmio",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/17 19:00:00 +0000",
+          "teamA": "Bahia",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/1955/image",
+          "teamB": "Grêmio",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/5926/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "PREMIERER BR"
+          }
+        ],
+        "id": "439",
+        "image": "o",
+        "publish": "1",
+        "title": "Bahia vs Grêmio"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "Brasileirão",
+        "channels_data": [
+          {
+            "api": "56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd",
+            "title": "PREMIERER BR",
+            "type": "1"
+          },
+          {
+            "api": "4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733",
+            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd",
+            "title": "SporTV BR",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/17 21:00:00 +0000",
+          "eventName": "Botafogo vs Corinthians",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/17 19:00:00 +0000",
+          "teamA": "Botafogo",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/1958/image",
+          "teamB": "Corinthians",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/1957/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "PREMIERER BR"
+          },
+          {
+            "logo": "",
+            "title": "SporTV BR"
+          }
+        ],
+        "id": "440",
+        "image": "o",
+        "publish": "1",
+        "title": "Botafogo vs Corinthians"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "Brasileirão",
+        "channels_data": [
+          {
+            "api": "332f62eb3cae824e98a4124da29a7d31:d1698cda3d040f9051125a61745b596b",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/1obktrybht/out/v1/08265453c8f64d9fbeb3cf43764403a8/cenc.mpd",
+            "title": "PREMIERER BR",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/17 23:30:00 +0000",
+          "eventName": "Chapecoense vs Remo",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/17 21:30:00 +0000",
+          "teamA": "Chapecoense",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/21845/image",
+          "teamB": "Remo",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2012/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "PREMIERER BR"
+          }
+        ],
+        "id": "441",
+        "image": "o",
+        "publish": "1",
+        "title": "Chapecoense vs Remo"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "Brasileirão",
+        "channels_data": [
+          {
+            "api": "9dc40460c93087aea84d6315f08ecb64:f69c8d4624fddff4ca89bd0b31bdc4a7",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/oy6rp0jwmf/out/v1/580ecf12bad24979baf8dd993dce053e/cenc.mpd",
+            "title": "PREMIERER BR",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/17 23:30:00 +0000",
+          "eventName": "RB Bragantino vs Vitória",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/17 21:30:00 +0000",
+          "teamA": "RB Bragantino",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/1999/image",
+          "teamB": "Vitória",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/1962/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "PREMIERER BR"
+          }
+        ],
+        "id": "442",
+        "image": "o",
+        "publish": "1",
+        "title": "RB Bragantino vs Vitória"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "Brasileirão",
+        "channels_data": [
+          {
+            "api": "e23365c2ad97870c871712b73f0d6195:58709c714320bb862dbd07270df81c94",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tirjor64kh/out/v1/fd2ed9916d994f09a3bd62b64141b9cb/cenc.mpd",
+            "title": "PREMIERER BR",
+            "type": "1"
+          },
+          {
+            "api": "4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733",
+            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd",
+            "title": "SporTV BR",
+            "type": "1"
+          },
+          {
+            "api": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
+            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
+            "title": "SportDigital Fussball",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/18 00:30:00 +0000",
+          "eventName": "Athletico vs Flamengo",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/17 22:30:00 +0000",
+          "teamA": "Athletico",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/1967/image",
+          "teamB": "Flamengo",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/5981/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "PREMIERER BR"
+          },
+          {
+            "logo": "",
+            "title": "SporTV BR"
+          },
+          {
+            "logo": "",
+            "title": "SportDigital Fussball"
+          }
+        ],
+        "id": "443",
+        "image": "o",
+        "publish": "1",
+        "title": "Athletico vs Flamengo"
       }
     ]
   }
