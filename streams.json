@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-17T05:00:53.364061",
+  "last_updated": "2026-05-17T05:10:20.306111",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "10:25:20 AM 17-05-2026",
+    "Last update time": "10:35:19 AM 17-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -256,10 +256,11 @@
           }
         ],
         "eventInfo": {
-          "endTime": "2026/05/16 14:30:00 +0000",
+          "endTime": "2026/05/17 13:45:00 +0000",
           "eventName": "MotoGP - Gran Premi de Catalunya",
           "eventType": "null",
-          "startTime": "2026/05/16 13:00:00 +0000",
+          "isHot": "0",
+          "startTime": "2026/05/17 12:00:00 +0000",
           "teamA": "MotoGP",
           "teamAFlag": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8fGgE14VBFQKRIMiWIvOlIwpL6AEobQtL3OkLLu7AzsBPGzeXGHsz5PL0NED5DHlAyKCFhPHoNaFB4Z1csH_vvpU47Pbtslr1za618knr-wojLCDa1hyW40v59Qw_UjMGWLREzicm9ZDl7yMuylyu7xMdMoQG3-XXKLoZafem7lpKqxfKavQu-33Mbck/s1600/mgp.png",
           "teamB": "MotoGP",
@@ -1083,6 +1084,350 @@
         "image": "o",
         "publish": "1",
         "title": "ATP Rome Masters"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+        "channels_data": [
+          {
+            "api": "7a2758575dc04d63acc3573ab594d441:47071dd80de746a38cdc6a4dcde21abc",
+            "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1779070453~acl=%2F*~id=ac995ce9-4460-4baf-aa98-8964bf914c77~data=hdntl,aXA9NTIuMTYxLjU2LjcwJmV4cD0xNzc4OTg0MDgzJmVpZD05MzU1NDYmb2lkPTE1NCZ0eXBlPVZPRCZ1aWQ9YWRjV1lXfGI2MGFmMjk5LTAzOTEtNGQxZi1hNmQwLWQ4MjQ0ZGZhZjFjOSZjaWQ9ZGNlLmZpc2ZlZCZwdD1udWxs~hmac=f6b8f98b065a74d282a69083cc879a3b075e09696d12209ba9f1048055d753b7/dash/live/2093712/219035-321027/manifest-d.mpd",
+            "title": "SKY SPORTS FHD",
+            "type": "1"
+          },
+          {
+            "api": "ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1",
+            "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd",
+            "title": "TELEMUNDO FHD",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/17 13:30:00 +0000",
+          "eventName": "Manchester United vs Nottingham",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/17 11:30:00 +0000",
+          "teamA": "Man Utd",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/35/image",
+          "teamB": "Forest",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/14/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "SKY SPORTS FHD"
+          },
+          {
+            "logo": "",
+            "title": "TELEMUNDO FHD"
+          }
+        ],
+        "id": "400",
+        "image": "o",
+        "publish": "1",
+        "title": "Manchester United vs Nottingham"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+        "channels_data": [
+          {
+            "api": "72002c630e2343849984b5d3ec418162:ae6f8e3ff42a4963ae25686cca56c8e8",
+            "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1779070453~acl=%2F*~id=dd194953-6fdc-4d47-a49d-a2f6a5ebcc46~data=hdntl,aXA9NTIuMTYxLjU2LjcwJmV4cD0xNzc4OTg0MDgzJmVpZD05Mzk2MDAmb2lkPTE1NCZ0eXBlPVZPRCZ1aWQ9YWRjV1lXfGI2MGFmMjk5LTAzOTEtNGQxZi1hNmQwLWQ4MjQ0ZGZhZjFjOSZjaWQ9ZGNlLmZpc2ZlZCZwdD1udWxs~hmac=c92bee126b26f36590827efa01fd854a9d538208135cf4f837d05196ca3ba480/dash/live/2093716/219036-321029/manifest-d.mpd",
+            "title": "SKY SPORTS FHD",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/17 16:00:00 +0000",
+          "eventName": "Brentford vs Crystal Palace",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/17 14:00:00 +0000",
+          "teamA": "Brentford",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/50/image",
+          "teamB": "Crystal Palace",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/7/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "SKY SPORTS FHD"
+          }
+        ],
+        "id": "401",
+        "image": "o",
+        "publish": "1",
+        "title": "Brentford vs Crystal Palace"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+        "channels_data": [
+          {
+            "api": "af95024eda94455e922b90a39a3af93e:852e715ef4064b05b8e1cdee285648b5",
+            "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1779070452~acl=%2F*~id=6b7ee9f0-7edd-4c57-bc78-800cff2e09b4~data=hdntl,aXA9NTIuMTYxLjU2LjcwJmV4cD0xNzc4OTg0MDgyJmVpZD05MzkxOTcmb2lkPTE1NCZ0eXBlPVZPRCZ1aWQ9YWRjV1lXfGI2MGFmMjk5LTAzOTEtNGQxZi1hNmQwLWQ4MjQ0ZGZhZjFjOSZjaWQ9ZGNlLmZpc2ZlZCZwdD1udWxs~hmac=7ca2a63f4cd71f4cf3a24c71c8ee747d377a706a625387cf6f8b1d4feb311f1e/dash/live/2093711/219034-321026/manifest-d.mpd",
+            "title": "SKY SPORTS FHD",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/17 16:00:00 +0000",
+          "eventName": "Everton vs Sunderland",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/17 14:00:00 +0000",
+          "teamA": "Everton",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/48/image",
+          "teamB": "Sunderland",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/41/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "SKY SPORTS FHD"
+          }
+        ],
+        "id": "402",
+        "image": "o",
+        "publish": "1",
+        "title": "Everton vs Sunderland"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+        "channels_data": [
+          {
+            "api": "e87521b3dfa44ed9ba004012dcb89172:bba9734a9d724531bbab7ef5d64ca1f8",
+            "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1779070453~acl=%2F*~id=ac995ce9-4460-4baf-aa98-8964bf914c77~data=hdntl,aXA9NTIuMTYxLjU2LjcwJmV4cD0xNzc4OTg0MDgzJmVpZD05MzU1NDYmb2lkPTE1NCZ0eXBlPVZPRCZ1aWQ9YWRjV1lXfGI2MGFmMjk5LTAzOTEtNGQxZi1hNmQwLWQ4MjQ0ZGZhZjFjOSZjaWQ9ZGNlLmZpc2ZlZCZwdD1udWxs~hmac=f6b8f98b065a74d282a69083cc879a3b075e09696d12209ba9f1048055d753b7/dash/live/2093709/219033-321024/manifest-d.mpd",
+            "title": "SKY SPORTS FHD",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/17 16:00:00 +0000",
+          "eventName": "Wolverhampton vs Fulham",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/17 14:00:00 +0000",
+          "teamA": "Wolves",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3/image",
+          "teamB": "Fulham",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/43/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "SKY SPORTS FHD"
+          }
+        ],
+        "id": "403",
+        "image": "o",
+        "publish": "1",
+        "title": "Wolverhampton vs Fulham"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+        "channels_data": [
+          {
+            "api": "ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1",
+            "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd",
+            "title": "TELEMUNDO FHD",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/17 16:00:00 +0000",
+          "eventName": "Leeds United vs Brighton",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/17 14:00:00 +0000",
+          "teamA": "Leeds",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/34/image",
+          "teamB": "Brighton",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/30/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "TELEMUNDO FHD"
+          }
+        ],
+        "id": "404",
+        "image": "o",
+        "publish": "1",
+        "title": "Leeds United vs Brighton"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+        "channels_data": [
+          {
+            "api": "7a2758575dc04d63acc3573ab594d441:47071dd80de746a38cdc6a4dcde21abc",
+            "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1779070453~acl=%2F*~id=ac995ce9-4460-4baf-aa98-8964bf914c77~data=hdntl,aXA9NTIuMTYxLjU2LjcwJmV4cD0xNzc4OTg0MDgzJmVpZD05MzU1NDYmb2lkPTE1NCZ0eXBlPVZPRCZ1aWQ9YWRjV1lXfGI2MGFmMjk5LTAzOTEtNGQxZi1hNmQwLWQ4MjQ0ZGZhZjFjOSZjaWQ9ZGNlLmZpc2ZlZCZwdD1udWxs~hmac=f6b8f98b065a74d282a69083cc879a3b075e09696d12209ba9f1048055d753b7/dash/live/2093712/219035-321027/manifest-d.mpd",
+            "title": "SKY SPORTS FHD",
+            "type": "1"
+          },
+          {
+            "api": "ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1",
+            "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd",
+            "title": "TELEMUNDO FHD",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/17 18:30:00 +0000",
+          "eventName": "Newcastle United vs West Ham",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/17 16:30:00 +0000",
+          "teamA": "Newcastle",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/39/image",
+          "teamB": "West Ham",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/37/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "SKY SPORTS FHD"
+          },
+          {
+            "logo": "",
+            "title": "TELEMUNDO FHD"
+          }
+        ],
+        "id": "405",
+        "image": "o",
+        "publish": "1",
+        "title": "Newcastle vs West Ham"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "LaLiga 🇪🇸",
+        "channels_data": [
+          {
+            "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
+            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
+            "title": "beIN ENGLISH FHD",
+            "type": "1"
+          },
+          {
+            "api": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f",
+            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
+            "title": "PREMIER SPORTS",
+            "type": "1"
+          },
+          {
+            "api": "f5c2b30eac11be1e8cdfc9585f5fe6af:a8198d17bf9b0da77450fbb919a38b2d",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/lzhmuzmjsl/out/v1/c171eeb214c749f2b351c79df317b21e/cenc.mpd",
+            "title": "TSN SPORTS FHD",
+            "type": "1"
+          },
+          {
+            "api": "620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a",
+            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd",
+            "title": "Laliga TV FHD",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/17 19:00:00 +0000",
+          "eventName": "Sevilla vs Real Madrid",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/17 17:00:00 +0000",
+          "teamA": "Sevilla",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2833/image",
+          "teamB": "Real Madrid",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2829/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "beIN ENGLISH FHD"
+          },
+          {
+            "logo": "",
+            "title": "PREMIER SPORTS"
+          },
+          {
+            "logo": "",
+            "title": "TSN SPORTS FHD"
+          },
+          {
+            "logo": "",
+            "title": "Laliga TV FHD"
+          }
+        ],
+        "id": "406",
+        "image": "o",
+        "publish": "1",
+        "title": "Sevilla vs Real Madrid"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "LaLiga 🇪🇸",
+        "channels_data": [
+          {
+            "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
+            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
+            "title": "beIN ENGLISH FHD",
+            "type": "1"
+          },
+          {
+            "api": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f",
+            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
+            "title": "PREMIER SPORTS",
+            "type": "1"
+          },
+          {
+            "api": "f5c2b30eac11be1e8cdfc9585f5fe6af:a8198d17bf9b0da77450fbb919a38b2d",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/lzhmuzmjsl/out/v1/c171eeb214c749f2b351c79df317b21e/cenc.mpd",
+            "title": "TSN SPORTS FHD",
+            "type": "1"
+          },
+          {
+            "api": "620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a",
+            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd",
+            "title": "Laliga TV FHD",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/17 21:15:00 +0000",
+          "eventName": "Barcelona vs Real Betis",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/17 19:15:00 +0000",
+          "teamA": "Barcelona",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2817/image",
+          "teamB": "Real Betis",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2816/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "beIN ENGLISH FHD"
+          },
+          {
+            "logo": "",
+            "title": "PREMIER SPORTS"
+          },
+          {
+            "logo": "",
+            "title": "TSN SPORTS FHD"
+          },
+          {
+            "logo": "",
+            "title": "Laliga TV FHD"
+          }
+        ],
+        "id": "407",
+        "image": "o",
+        "publish": "1",
+        "title": "Barcelona vs Real Betis"
       }
     ]
   }
