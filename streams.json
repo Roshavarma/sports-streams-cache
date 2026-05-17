@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-17T13:40:24.594594",
+  "last_updated": "2026-05-17T13:50:21.915906",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "07:05:26 PM 17-05-2026",
+    "Last update time": "07:15:24 PM 17-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -1670,16 +1670,20 @@
           {
             "api": "0022b87aca2a5c1911bcfa7d8edf348f:8d95fac4d0f35724059017e0d2046f2d",
             "link": "https://g003-sle-us-cmaf-prd-fy.cdn.peacocktv.com/pck-sle/us-west-2/v1/dash/6f3f45fea6332a47667932dede90d20a96f2690c/peacock-dash-sle-4s-generic-cfd/co01/pcksle2/Content/CMAF_CTR-4s-v2/Live/channel(5021403-723261-49122fc35fd)/master_2hr.mpd?c3.ri=6a09c1e7_Q1ZYMDc_0_RkFTVExZ_0a2fbd32ad19&aws.sessionId=5a64a18b-d3e4-495b-a0c1-19421a0d2956",
-            "logo": "",
             "title": "Peacock FHD AQ",
             "type": "1"
           },
           {
             "api": "72002c630e2343849984b5d3ec418162:ae6f8e3ff42a4963ae25686cca56c8e8",
             "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1779070453~acl=%2F*~id=dd194953-6fdc-4d47-a49d-a2f6a5ebcc46~data=hdntl,aXA9NTIuMTYxLjU2LjcwJmV4cD0xNzc4OTg0MDgzJmVpZD05Mzk2MDAmb2lkPTE1NCZ0eXBlPVZPRCZ1aWQ9YWRjV1lXfGI2MGFmMjk5LTAzOTEtNGQxZi1hNmQwLWQ4MjQ0ZGZhZjFjOSZjaWQ9ZGNlLmZpc2ZlZCZwdD1udWxs~hmac=c92bee126b26f36590827efa01fd854a9d538208135cf4f837d05196ca3ba480/dash/live/2093716/219036-321029/manifest-d.mpd",
-            "logo": "",
             "title": "SKY SPORTS FHD",
             "type": "1"
+          },
+          {
+            "api": "",
+            "link": "https://livecdn-bp-iptv.rumsport7.live/live_abr/52433/chunks.m3u8?is_vip=false&token=2223516ee6861d31f8b0239a4aaf0e07a93fd97b&x-sign=cab792116aa1cb90d4b43f1ea249e1e7&x-time=1779024960",
+            "title": "SKY SPORTS HD",
+            "type": "0"
           }
         ],
         "eventInfo": {
@@ -1701,6 +1705,10 @@
           {
             "logo": "",
             "title": "SKY SPORTS FHD"
+          },
+          {
+            "logo": "",
+            "title": "SKY SPORTS HD"
           }
         ],
         "id": "401",
@@ -1715,16 +1723,20 @@
           {
             "api": "002278d86ac1b09760ebe7a7253f184a:752f8408b102ae9dbe8969f720592a06",
             "link": "https://g003-sle-us-cmaf-prd-fy.cdn.peacocktv.com/pck-sle/us-west-2/v1/dash/6f3f45fea6332a47667932dede90d20a96f2690c/peacock-dash-sle-4s-generic-cfd/co01/pcksle2/Content/CMAF_CTR-4s-v2/Live/channel(5021404-723262-491230b783e)/master_2hr.mpd?c3.ri=6a09bfc3_Q1ZYMDc_0_RkFTVExZ_f994b15827ca&aws.sessionId=b91c778d-c25d-4d28-9be6-5f77bf005a7d",
-            "logo": "",
             "title": "Peacock AQ",
             "type": "1"
           },
           {
             "api": "af95024eda94455e922b90a39a3af93e:852e715ef4064b05b8e1cdee285648b5",
             "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1779070452~acl=%2F*~id=6b7ee9f0-7edd-4c57-bc78-800cff2e09b4~data=hdntl,aXA9NTIuMTYxLjU2LjcwJmV4cD0xNzc4OTg0MDgyJmVpZD05MzkxOTcmb2lkPTE1NCZ0eXBlPVZPRCZ1aWQ9YWRjV1lXfGI2MGFmMjk5LTAzOTEtNGQxZi1hNmQwLWQ4MjQ0ZGZhZjFjOSZjaWQ9ZGNlLmZpc2ZlZCZwdD1udWxs~hmac=7ca2a63f4cd71f4cf3a24c71c8ee747d377a706a625387cf6f8b1d4feb311f1e/dash/live/2093711/219034-321026/manifest-d.mpd",
-            "logo": "",
             "title": "SKY SPORTS FHD",
             "type": "1"
+          },
+          {
+            "api": "",
+            "link": "https://storage.googleapis.com/phynterobertung4/mux_video_ts1/index-1.m3u8",
+            "title": "SKY SPORTS HD",
+            "type": "0"
           }
         ],
         "eventInfo": {
@@ -1746,6 +1758,10 @@
           {
             "logo": "",
             "title": "SKY SPORTS FHD"
+          },
+          {
+            "logo": "",
+            "title": "SKY SPORTS HD"
           }
         ],
         "id": "402",
@@ -1760,16 +1776,20 @@
           {
             "api": "00225eda218f3ca32d35e0cc64b4c33b:6cab410869e63b7696d4ace9013174f4",
             "link": "https://g003-sle-us-cmaf-prd-cf.cdn.peacocktv.com/pck-sle/us-east-1/v1/dash/6f3f45fea6332a47667932dede90d20a96f2690c/peacock-dash-sle-4s-generic-cfd/co01/pcksle2/Content/CMAF_CTR-4s-v2/Live/channel(5021408-723266-49123488142)/master_2hr.mpd?c3.ri=6a09c138_Q1ZYMDc_0_Q0xPVURGUk9OVA_84782b016c9e&aws.sessionId=0d171c50-160b-4763-b3d0-1b73a6655851",
-            "logo": "",
             "title": "Peacock AQ",
             "type": "1"
           },
           {
             "api": "e87521b3dfa44ed9ba004012dcb89172:bba9734a9d724531bbab7ef5d64ca1f8",
             "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1779070453~acl=%2F*~id=ac995ce9-4460-4baf-aa98-8964bf914c77~data=hdntl,aXA9NTIuMTYxLjU2LjcwJmV4cD0xNzc4OTg0MDgzJmVpZD05MzU1NDYmb2lkPTE1NCZ0eXBlPVZPRCZ1aWQ9YWRjV1lXfGI2MGFmMjk5LTAzOTEtNGQxZi1hNmQwLWQ4MjQ0ZGZhZjFjOSZjaWQ9ZGNlLmZpc2ZlZCZwdD1udWxs~hmac=f6b8f98b065a74d282a69083cc879a3b075e09696d12209ba9f1048055d753b7/dash/live/2093709/219033-321024/manifest-d.mpd",
-            "logo": "",
             "title": "SKY SPORTS FHD",
             "type": "1"
+          },
+          {
+            "api": "",
+            "link": "https://storage.googleapis.com/phynterobertung2/mux_video_ts1/index-1.m3u8",
+            "title": "SKY SPORTS HD",
+            "type": "0"
           }
         ],
         "eventInfo": {
@@ -1791,6 +1811,10 @@
           {
             "logo": "",
             "title": "SKY SPORTS FHD"
+          },
+          {
+            "logo": "",
+            "title": "SKY SPORTS HD"
           }
         ],
         "id": "403",
@@ -1807,6 +1831,12 @@
             "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd",
             "title": "TELEMUNDO FHD",
             "type": "1"
+          },
+          {
+            "api": "",
+            "link": "https://storage.googleapis.com/phynterobertung1/mux_video_ts1/index-1.m3u8",
+            "title": "USA NETWORK",
+            "type": "0"
           },
           {
             "api": "",
@@ -1836,6 +1866,10 @@
           {
             "logo": "",
             "title": "TELEMUNDO FHD"
+          },
+          {
+            "logo": "",
+            "title": "USA NETWORK"
           },
           {
             "logo": "",
