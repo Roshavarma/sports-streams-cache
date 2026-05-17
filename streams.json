@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-17T21:10:22.473173",
+  "last_updated": "2026-05-17T21:20:21.359785",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "02:35:18 AM 18-05-2026",
+    "Last update time": "02:45:25 AM 18-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -955,49 +955,11 @@
         "channels_data": [
           {
             "api": "",
-            "link": "https://chatgpt.hereisman.net/playlist/50765/load-playlist?|Referer=https://gooz.aapmains.net",
+            "link": "https://chatgpt.hereisman.net/playlist/50799/load-playlist?|Referer=https://gooz.aapmains.net",
             "logo": "",
             "title": "SPORTIFy WNBA",
             "type": "0"
           },
-          {
-            "api": "",
-            "link": "https://mainstreams.pro/hls/bvnsqdfvgha70.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
-            "logo": "",
-            "title": "SPORTIFy Live",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/17 20:30:00 +0000",
-          "eventName": "Atlanta Dream vs Las Vegas Aces",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/17 17:30:00 +0000",
-          "teamA": "Atlanta",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/35545/image",
-          "teamB": "Las Vegas",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/35550/image"
-        },
-        "formatsNew": [
-          {
-            "logo": "",
-            "title": "SportzX WNBA"
-          },
-          {
-            "logo": "",
-            "title": "SportzX Live"
-          }
-        ],
-        "id": "377",
-        "image": "o",
-        "publish": "1",
-        "title": "Atlanta Dream vs Las Vegas Aces"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "WNBA",
-        "channels_data": [
           {
             "api": "",
             "link": "https://mainstreams.pro/hls/ztyarueaghj71.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
@@ -1018,6 +980,10 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/3448/image"
         },
         "formatsNew": [
+          {
+            "logo": "",
+            "title": "SportzX WNBA"
+          },
           {
             "logo": "",
             "title": "SportzX Live"
@@ -1093,51 +1059,6 @@
         "image": "o",
         "publish": "1",
         "title": "Sparks vs Toronto Tempo"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "Pro League 🇸🇦",
-        "channels_data": [
-          {
-            "api": "",
-            "link": "https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/XDUBOt7yMc7LynpepRJTT50GQIjQEqx19jHwNB8Bo3h8f61Aq4nMFshFoa8ELjnjOdctt1t5A73CyAq2QtcP7Q/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_delta.m3u8?type=live",
-            "logo": "",
-            "title": "THMANYAH FHD",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://rolis.drompakisdoulesonline.online/premium19/tracks-v1a1/mono.m3u8|Referer=https://donis.jimpenopisonline.online/",
-            "logo": "",
-            "title": "THMANYAH HD",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/17 20:00:00 +0000",
-          "eventName": "Al-Shabab vs Al-Ittihad",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/17 18:00:00 +0000",
-          "teamA": "Al-Shabab",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/34313/image",
-          "teamB": "Al-Ittihad",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/34315/image"
-        },
-        "formatsNew": [
-          {
-            "logo": "",
-            "title": "THMANYAH FHD"
-          },
-          {
-            "logo": "",
-            "title": "THMANYAH HD"
-          }
-        ],
-        "id": "385",
-        "image": "o",
-        "publish": "1",
-        "title": "Al-Shabab vs Al-Ittihad"
       },
       {
         "adsLimit": "0",
@@ -1307,6 +1228,49 @@
       },
       {
         "adsLimit": "0",
+        "cat": "Liga MX",
+        "channels_data": [
+          {
+            "api": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
+            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
+            "title": "CBS NETWORK",
+            "type": "1"
+          },
+          {
+            "api": "",
+            "link": "https://rolis.drompakisdoulesonline.online/premium935/tracks-v1a1/mono.m3u8|Referer=https://donis.jimpenopisonline.online/",
+            "title": "TUDN MX HD",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/18 03:00:00 +0000",
+          "eventName": "Pumas UNAM vs CF Pachuca",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/18 01:00:00 +0000",
+          "teamA": "Pumas",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/1933/image",
+          "teamB": "Pachuca",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/1936/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "CBS NETWORK"
+          },
+          {
+            "logo": "",
+            "title": "TUDN MX HD"
+          }
+        ],
+        "id": "400",
+        "image": "o",
+        "publish": "1",
+        "title": "Pumas UNAM vs CF Pachuca"
+      },
+      {
+        "adsLimit": "0",
         "cat": "LaLiga 🇪🇸",
         "channels_data": [
           {
@@ -1356,7 +1320,7 @@
           "endTime": "2026/05/17 21:15:00 +0000",
           "eventName": "Barcelona vs Real Betis",
           "eventType": "null",
-          "isHot": "1",
+          "isHot": "0",
           "startTime": "2026/05/17 19:15:00 +0000",
           "teamA": "Barcelona",
           "teamAFlag": "https://img.sofascore.com/api/v1/team/2817/image",
@@ -1393,453 +1357,6 @@
         "image": "o",
         "publish": "1",
         "title": "Barcelona vs Real Betis"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "Serie A 🇮🇹",
-        "channels_data": [
-          {
-            "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
-            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
-            "title": "beIN ENGLISH FHD",
-            "type": "1"
-          },
-          {
-            "api": "294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd",
-            "title": "TNT SPORTS FHD",
-            "type": "1"
-          },
-          {
-            "api": "3fb40d85724942f994d86943f48021db:a6da8742502c8a2153067f5f2a70fb02",
-            "link": "https://mag04.tvx.prd.tv.odido.nl/wh7f454c46tw865586829_-819821292/PLTV/86/224/3221241610/3221241610.mpd?accountinfo=~~V2.0~LNS2PBO5tyhp5z1Pe6ObBA6cd7a4ec35c4492167b9376e6dff2932~BZw2dESHw-I1PQCFh9gGxCMvrIIzgMdYAe900qj8l6aoXUX9ahyR6I9EUIu7nDR4f4887615c83ea7a8cee6dd33137c4ebe:UTC,",
-            "title": "ZIGGO SPORTS",
-            "type": "1"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/17 20:45:00 +0000",
-          "eventName": "Udinese vs Cremonese",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/17 18:45:00 +0000",
-          "teamA": "Udinese",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2695/image",
-          "teamB": "Cremonese",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2761/image"
-        },
-        "formatsNew": [
-          {
-            "logo": "",
-            "title": "beIN ENGLISH FHD"
-          },
-          {
-            "logo": "",
-            "title": "TNT SPORTS FHD"
-          },
-          {
-            "logo": "",
-            "title": "ZIGGO SPORTS"
-          }
-        ],
-        "id": "420",
-        "image": "o",
-        "publish": "1",
-        "title": "Udinese vs Cremonese"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "Serie A 🇮🇹",
-        "channels_data": [
-          {
-            "api": "",
-            "link": "https://livecdn-tc-iptv.rumsport10.live/live_abr/54046/chunks.m3u8?is_vip=false&token=1779129676-Kv4cPTAAP5YTi-e3b73f76eb1850f42fc741e7d134e8919c99167f-f49b18dff340a7c43efef216e4eddf45",
-            "logo": "",
-            "title": "DAZN SPORTS IT",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://poklis.rontokakishop.online/premium151/tracks-v1a1/mono.m3u8|Referer=https://donis.jimpenopisonline.online/",
-            "logo": "",
-            "title": "PARAMOUNT+ HD",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/17 20:45:00 +0000",
-          "eventName": "Cagliari vs Torino",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/17 18:45:00 +0000",
-          "teamA": "Cagliari",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2719/image",
-          "teamB": "Torino",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2696/image"
-        },
-        "formatsNew": [
-          {
-            "logo": "",
-            "title": "DAZN SPORTS IT"
-          },
-          {
-            "logo": "",
-            "title": "PARAMOUNT+ HD"
-          }
-        ],
-        "id": "424",
-        "image": "o",
-        "publish": "1",
-        "title": "Cagliari vs Torino"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "Serie A 🇮🇹",
-        "channels_data": [
-          {
-            "api": "3cfa8625f650406ebf6a4d1ea737f572:0534e747c70b364aa7210e1bf3191df0",
-            "link": "https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw266117884_-1972819316/PLTV/86/224/3221241560/3221241560.mpd?accountinfo=~~V2.0~OhA1DF4svOZppKxb-t-Ngw144cce44121c63284a33d5453493e5c8~1_Fmlu5PevHMYnEi9Z_HX2goKAd0VHSuxZMoIcAXcawYvG1meqGp2eQ2Ibhjvh7e59e7f6df3d57f23a32024ad67f0f19dc:UTC,",
-            "logo": "",
-            "title": "ZIGGO SPORTS",
-            "type": "1"
-          },
-          {
-            "api": "",
-            "link": "https://livecdn-tc-livestream.rumsport10.live/stream/24/chunks.m3u8?is_vip=false&token=1779129733-Kv4cPTAAP5YTi-e3b73f76eb1850f42fc741e7d134e8919c99167f-7c18e61c022c38d1d0ac1728b5132bf9",
-            "logo": "",
-            "title": "PARAMOUNT+ HD",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/17 20:45:00 +0000",
-          "eventName": "Sassuolo vs Lecce",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/17 18:45:00 +0000",
-          "teamA": "Sassuolo",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2793/image",
-          "teamB": "Lecce",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2689/image"
-        },
-        "formatsNew": [
-          {
-            "logo": "",
-            "title": "ZIGGO SPORTS"
-          },
-          {
-            "logo": "",
-            "title": "PARAMOUNT+ HD"
-          }
-        ],
-        "id": "425",
-        "image": "o",
-        "publish": "1",
-        "title": "Sassuolo vs Lecce"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "Ligue 1 🇫🇷",
-        "channels_data": [
-          {
-            "api": "",
-            "link": "https://agelis.voglempanis.online/premium156/tracks-v1a1/mono.m3u8|Referer=https://donis.jimpenopisonline.online/",
-            "logo": "",
-            "title": "DAZN SPORTS HD",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://livecdn-tc-livestream.rumsport10.live/stream/25/chunks.m3u8?is_vip=false&token=1779130339-Kv4cPTAAP5YTi-e3b73f76eb1850f42fc741e7d134e8919c99167f-36f9dbd5ab7b8d57a33771b169a5f905",
-            "logo": "",
-            "title": "SPORTIFy Live",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/17 21:00:00 +0000",
-          "eventName": "Lorient vs Le Havre",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/17 19:00:00 +0000",
-          "teamA": "Lorient",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/1656/image",
-          "teamB": "Le Havre",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/1662/image"
-        },
-        "formatsNew": [
-          {
-            "logo": "",
-            "title": "DAZN SPORTS HD"
-          },
-          {
-            "logo": "",
-            "title": "SportzX Live"
-          }
-        ],
-        "id": "428",
-        "image": "o",
-        "publish": "1",
-        "title": "Lorient vs Le Havre"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "Ligue 1 🇫🇷",
-        "channels_data": [
-          {
-            "api": "",
-            "link": "https://agelis.voglempanis.online/premium159/tracks-v1a1/mono.m3u8|Referer=https://donis.jimpenopisonline.online/",
-            "logo": "",
-            "title": "Ligue1+ HD",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/17 21:00:00 +0000",
-          "eventName": "Nantes vs Toulouse",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/17 19:00:00 +0000",
-          "teamA": "Nantes",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/1647/image",
-          "teamB": "Toulouse",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/1681/image"
-        },
-        "formatsNew": [
-          {
-            "logo": "",
-            "title": "Ligue1+ HD"
-          }
-        ],
-        "id": "429",
-        "image": "o",
-        "publish": "1",
-        "title": "Nantes vs Toulouse"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "Ligue 1 🇫🇷",
-        "channels_data": [
-          {
-            "api": "",
-            "link": "https://bobis.zaglemplokis.online/premium155/tracks-v1a1/mono.m3u8|Referer=https://donis.jimpenopisonline.online/",
-            "logo": "",
-            "title": "Ligue1+ HD",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/17 21:00:00 +0000",
-          "eventName": "Nice vs Metz",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/17 19:00:00 +0000",
-          "teamA": "Nice",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/1661/image",
-          "teamB": "Metz",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/1651/image"
-        },
-        "formatsNew": [
-          {
-            "logo": "",
-            "title": "Ligue1+ HD"
-          }
-        ],
-        "id": "430",
-        "image": "o",
-        "publish": "1",
-        "title": "Nice vs Metz"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "Ligue 1 🇫🇷",
-        "channels_data": [
-          {
-            "api": "",
-            "link": "https://livecdn-tc-iptv.rumsport10.live/live_abr/274844/chunks.m3u8?is_vip=false&token=1779130587-Kv4cPTAAP5YTi-e3b73f76eb1850f42fc741e7d134e8919c99167f-9358c9f58c3a4920e25d90f55a7db203",
-            "logo": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg",
-            "title": "beIN SPORTS HD",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://zomis.zempovlantis.online/premium116/tracks-v1a1/mono.m3u8|Referer=https://donis.jimpenopisonline.online/",
-            "logo": "",
-            "title": "Ligue1+ HD",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/17 21:00:00 +0000",
-          "eventName": "Olympique Lyon vs RC Lens",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/17 19:00:00 +0000",
-          "teamA": "Lyon",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/1649/image",
-          "teamB": "Lens",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/1648/image"
-        },
-        "formatsNew": [
-          {
-            "logo": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg",
-            "title": "beIN SPORTS HD"
-          },
-          {
-            "logo": "",
-            "title": "Ligue1+ HD"
-          }
-        ],
-        "id": "431",
-        "image": "o",
-        "publish": "1",
-        "title": "Olympique Lyon vs RC Lens"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "Ligue 1 🇫🇷",
-        "channels_data": [
-          {
-            "api": "",
-            "link": "https://bobis.zaglemplokis.online/premium161/tracks-v1a1/mono.m3u8|Referer=https://donis.jimpenopisonline.online/",
-            "logo": "",
-            "title": "Ligue1+ HD",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/17 21:00:00 +0000",
-          "eventName": "Olympique Marseille vs Stade Rennais",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/17 19:00:00 +0000",
-          "teamA": "Marseille",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/1641/image",
-          "teamB": "Rennes",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/1658/image"
-        },
-        "formatsNew": [
-          {
-            "logo": "",
-            "title": "Ligue1+ HD"
-          }
-        ],
-        "id": "432",
-        "image": "o",
-        "publish": "1",
-        "title": "Marseille vs Stade Rennais"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "Ligue 1 🇫🇷",
-        "channels_data": [
-          {
-            "api": "",
-            "link": "https://agelis.voglempanis.online/premium158/tracks-v1a1/mono.m3u8|Referer=https://donis.jimpenopisonline.online/",
-            "logo": "",
-            "title": "Ligue1+ HD",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/17 21:00:00 +0000",
-          "eventName": "Strasbourg vs AS Monaco",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/17 19:00:00 +0000",
-          "teamA": "Strasbourg",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/1659/image",
-          "teamB": "AS Monaco",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/1653/image"
-        },
-        "formatsNew": [
-          {
-            "logo": "",
-            "title": "Ligue1+ HD"
-          }
-        ],
-        "id": "433",
-        "image": "o",
-        "publish": "1",
-        "title": "Strasbourg vs AS Monaco"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "Ligue 1 🇫🇷",
-        "channels_data": [
-          {
-            "api": "",
-            "link": "https://livecdn-tc-livestream.rumsport10.live/stream/20/chunks.m3u8?is_vip=false&token=1779129932-Kv4cPTAAP5YTi-e3b73f76eb1850f42fc741e7d134e8919c99167f-835233a83a662b8255b89ed73588da4e",
-            "logo": "",
-            "title": "SPORTIFy Live",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://poklis.rontokakishop.online/premium154/tracks-v1a1/mono.m3u8|Referer=https://donis.jimpenopisonline.online/",
-            "logo": "",
-            "title": "DAZN SPORTS HD",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/17 21:00:00 +0000",
-          "eventName": "Stade Brestois vs Angers",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/17 19:00:00 +0000",
-          "teamA": "Brest",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/1715/image",
-          "teamB": "Angers",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/1684/image"
-        },
-        "formatsNew": [
-          {
-            "logo": "",
-            "title": "SportzX Live"
-          },
-          {
-            "logo": "",
-            "title": "DAZN SPORTS HD"
-          }
-        ],
-        "id": "434",
-        "image": "o",
-        "publish": "1",
-        "title": "Stade Brestois vs Angers"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "Rugby",
-        "channels_data": [
-          {
-            "api": "278b8746b7c7410e901af0aa3774f037:15e1142d647b474ebbd49e41efa2a9d7",
-            "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1779070453~acl=%2F*~id=ac995ce9-4460-4baf-aa98-8964bf914c77~data=hdntl,aXA9NTIuMTYxLjU2LjcwJmV4cD0xNzc4OTg0MDgzJmVpZD05MzU1NDYmb2lkPTE1NCZ0eXBlPVZPRCZ1aWQ9YWRjV1lXfGI2MGFmMjk5LTAzOTEtNGQxZi1hNmQwLWQ4MjQ0ZGZhZjFjOSZjaWQ9ZGNlLmZpc2ZlZCZwdD1udWxs~hmac=f6b8f98b065a74d282a69083cc879a3b075e09696d12209ba9f1048055d753b7/dash/live/2093720/219029-321032/manifest-d.mpd",
-            "title": "SKY SPORTS FHD",
-            "type": "1"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/17 15:30:00 +0000",
-          "eventName": "Ireland W vs Scotland W",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/17 13:30:00 +0000",
-          "teamA": "Ireland",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/164606/image",
-          "teamB": "Scotland",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/189291/image"
-        },
-        "formatsNew": [
-          {
-            "logo": "",
-            "title": "SKY SPORTS FHD"
-          }
-        ],
-        "id": "436",
-        "image": "o",
-        "publish": "1",
-        "title": "Ireland vs Scotland"
       },
       {
         "adsLimit": "0",
@@ -2035,172 +1552,6 @@
         "image": "o",
         "publish": "1",
         "title": "Athletico vs Flamengo"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "Eredivisie",
-        "channels_data": [
-          {
-            "api": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
-            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
-            "logo": "",
-            "title": "SportDigital Fussball",
-            "type": "1"
-          },
-          {
-            "api": "",
-            "link": "https://livecdn-bp-iptv.rumsport7.live/live_abr/136437/chunks.m3u8?is_vip=false&token=2223516ee6861d31f8b0239a4aaf0e07a93fd97b&x-sign=9068a96ebcf3b937dda9a06f3f377e55&x-time=1779021540",
-            "logo": "",
-            "title": "SPORTIFy Live",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/17 14:30:00 +0000",
-          "eventName": "PSV Eindhoven vs Twente",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/17 12:30:00 +0000",
-          "teamA": "PSV",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2952/image",
-          "teamB": "Twente",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2955/image"
-        },
-        "formatsNew": [
-          {
-            "logo": "",
-            "title": "SportDigital Fussball"
-          },
-          {
-            "logo": "",
-            "title": "SportzX Live"
-          }
-        ],
-        "id": "444",
-        "image": "o",
-        "publish": "1",
-        "title": "PSV Eindhoven vs Twente"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "Eredivisie",
-        "channels_data": [
-          {
-            "api": "",
-            "link": "https://livecdn-tc-livestream.rumsport10.live/stream/7/chunks.m3u8?is_vip=false&token=1779107912-Kv4cPTAAP5YTi-2223516ee6861d31f8b0239a4aaf0e07a93fd97b-b8bee94926ae97186bb007ab81c7efb3",
-            "logo": "",
-            "title": "SPORTIFy Live",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://bobis.zaglemplokis.online/premium888/tracks-v1a1/mono.m3u8|Referer=https://donis.jimpenopisonline.online/",
-            "logo": "",
-            "title": "ESPN NL HD",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/17 14:30:00 +0000",
-          "eventName": "Heerenveen vs AFC Ajax",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/17 12:30:00 +0000",
-          "teamA": "Heerenveen",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2964/image",
-          "teamB": "Ajax",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2953/image"
-        },
-        "formatsNew": [
-          {
-            "logo": "",
-            "title": "SportzX Live"
-          },
-          {
-            "logo": "",
-            "title": "ESPN NL HD"
-          }
-        ],
-        "id": "445",
-        "image": "o",
-        "publish": "1",
-        "title": "Heerenveen vs AFC Ajax"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "Super Lig",
-        "channels_data": [
-          {
-            "api": "",
-            "link": "https://zomis.zempovlantis.online/premium63/tracks-v1a1/mono.m3u8|Referer=https://donis.jimpenopisonline.online/",
-            "title": "beIN SPORTS HD",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/17 19:00:00 +0000",
-          "eventName": "Fenerbahçe vs Eyüpspor",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/17 17:00:00 +0000",
-          "teamA": "Fenerbahçe",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3052/image",
-          "teamB": "Eyüpspor",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/7040/image"
-        },
-        "formatsNew": [
-          {
-            "logo": "",
-            "title": "beIN SPORTS HD"
-          }
-        ],
-        "id": "446",
-        "image": "o",
-        "publish": "1",
-        "title": "Fenerbahçe vs Eyüpspor"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "Super Lig",
-        "channels_data": [
-          {
-            "api": "",
-            "link": "https://zomis.zempovlantis.online/premium425/tracks-v1a1/mono.m3u8|Referer=https://donis.jimpenopisonline.online/",
-            "title": "beIN SPORTS US",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://zomis.zempovlantis.online/premium62/tracks-v1a1/mono.m3u8|Referer=https://donis.jimpenopisonline.online/",
-            "title": "beIN SPORTS HD",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/17 19:00:00 +0000",
-          "eventName": "Kasımpaşa vs Galatasaray",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/17 17:00:00 +0000",
-          "teamA": "Kasımpaşa",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/6063/image",
-          "teamB": "Galatasaray",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3061/image"
-        },
-        "formatsNew": [
-          {
-            "logo": "",
-            "title": "beIN SPORTS US"
-          },
-          {
-            "logo": "",
-            "title": "beIN SPORTS HD"
-          }
-        ],
-        "id": "447",
-        "image": "o",
-        "publish": "1",
-        "title": "Kasımpaşa vs Galatasaray"
       },
       {
         "adsLimit": "0",
@@ -2670,6 +2021,49 @@
         "image": "o",
         "publish": "1",
         "title": "Pittsburgh Pirates vs Phillies"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "MLS 🇺🇸",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://chatgpt.hereisman.net/playlist/50798/load-playlist?|Referer=https://gooz.aapmains.net",
+            "title": "APPLE TV+ HD",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://bobis.zaglemplokis.online/premium59/tracks-v1a1/mono.m3u8|Referer=https://donis.jimpenopisonline.online/",
+            "title": "MLS PASS HD",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/18 00:00:00 +0000",
+          "eventName": "Inter Miami vs Portland Timbers",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/17 22:00:00 +0000",
+          "teamA": "Inter Miami",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/337602/image",
+          "teamB": "Portland",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/22007/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "APPLE TV+ HD"
+          },
+          {
+            "logo": "",
+            "title": "MLS PASS HD"
+          }
+        ],
+        "id": "461",
+        "image": "o",
+        "publish": "1",
+        "title": "Inter Miami vs Portland Timbers"
       }
     ]
   }
