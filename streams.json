@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-17T05:10:20.306111",
+  "last_updated": "2026-05-17T05:20:26.458104",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "10:35:19 AM 17-05-2026",
+    "Last update time": "10:50:23 AM 17-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -359,7 +359,7 @@
           }
         ],
         "eventInfo": {
-          "endTime": "2026/05/17 05:20:00 +0000",
+          "endTime": "2026/05/17 05:00:00 +0000",
           "eventBanner": "null",
           "eventName": "UFC Fight Night: Allen vs. Costa",
           "eventType": "null",
@@ -1428,6 +1428,270 @@
         "image": "o",
         "publish": "1",
         "title": "Barcelona vs Real Betis"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "LaLiga 🇪🇸",
+        "channels_data": [
+          {
+            "api": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
+            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
+            "title": "PREMIER SPORTS - SIMULCAST",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/17 19:00:00 +0000",
+          "eventName": "Atlético Madrid vs Girona",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/17 17:00:00 +0000",
+          "teamA": "Atl. Madrid",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2836/image",
+          "teamB": "Girona",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/24264/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "PREMIER SPORTS - SIMULCAST"
+          }
+        ],
+        "id": "408",
+        "image": "o",
+        "publish": "1",
+        "title": "Atlético Madrid vs Girona"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "LaLiga 🇪🇸",
+        "channels_data": [
+          {
+            "api": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
+            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
+            "title": "PREMIER SPORTS - SIMULCAST",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/17 19:00:00 +0000",
+          "eventName": "Athletic Club vs Celta Vigo",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/17 17:00:00 +0000",
+          "teamA": "Athletic Club",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2825/image",
+          "teamB": "Celta",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2821/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "PREMIER SPORTS - SIMULCAST"
+          }
+        ],
+        "id": "409",
+        "image": "o",
+        "publish": "1",
+        "title": "Athletic Club vs Celta Vigo"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "LaLiga 🇪🇸",
+        "channels_data": [
+          {
+            "api": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
+            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
+            "title": "PREMIER SPORTS - SIMULCAST",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/17 19:00:00 +0000",
+          "eventName": "Elche vs Getafe",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/17 17:00:00 +0000",
+          "teamA": "Elche",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2846/image",
+          "teamB": "Getafe",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2859/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "PREMIER SPORTS - SIMULCAST"
+          }
+        ],
+        "id": "410",
+        "image": "o",
+        "publish": "1",
+        "title": "Elche vs Getafe"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "LaLiga 🇪🇸",
+        "channels_data": [
+          {
+            "api": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
+            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
+            "title": "PREMIER SPORTS - SIMULCAST",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/17 19:00:00 +0000",
+          "eventName": "Levante UD vs Mallorca",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/17 17:00:00 +0000",
+          "teamA": "Levante",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2849/image",
+          "teamB": "Mallorca",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2826/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "PREMIER SPORTS - SIMULCAST"
+          }
+        ],
+        "id": "411",
+        "image": "o",
+        "publish": "1",
+        "title": "Levante UD vs Mallorca"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "LaLiga 🇪🇸",
+        "channels_data": [
+          {
+            "api": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
+            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
+            "title": "PREMIER SPORTS - SIMULCAST",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/17 19:00:00 +0000",
+          "eventName": "Osasuna vs Espanyol",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/17 17:00:00 +0000",
+          "teamA": "Osasuna",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2820/image",
+          "teamB": "Espanyol",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2814/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "PREMIER SPORTS - SIMULCAST"
+          }
+        ],
+        "id": "412",
+        "image": "o",
+        "publish": "1",
+        "title": "Osasuna vs Espanyol"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "LaLiga 🇪🇸",
+        "channels_data": [
+          {
+            "api": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
+            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
+            "title": "PREMIER SPORTS - SIMULCAST",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/17 19:00:00 +0000",
+          "eventName": "Rayo Vallecano vs Villarreal",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/17 17:00:00 +0000",
+          "teamA": "Rayo Vallecano",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2818/image",
+          "teamB": "Villarreal",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2819/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "PREMIER SPORTS - SIMULCAST"
+          }
+        ],
+        "id": "413",
+        "image": "o",
+        "publish": "1",
+        "title": "Rayo Vallecano vs Villarreal"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "LaLiga 🇪🇸",
+        "channels_data": [
+          {
+            "api": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
+            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
+            "title": "PREMIER SPORTS - SIMULCAST",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/17 19:00:00 +0000",
+          "eventName": "Real Oviedo vs Deportivo Alavés",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/17 17:00:00 +0000",
+          "teamA": "Real Oviedo",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2851/image",
+          "teamB": "Alavés",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2885/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "PREMIER SPORTS - SIMULCAST"
+          }
+        ],
+        "id": "414",
+        "image": "o",
+        "publish": "1",
+        "title": "Real Oviedo vs Deportivo"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "LaLiga 🇪🇸",
+        "channels_data": [
+          {
+            "api": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
+            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
+            "title": "PREMIER SPORTS - SIMULCAST",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/17 19:00:00 +0000",
+          "eventName": "Real Sociedad vs Valencia",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/17 17:00:00 +0000",
+          "teamA": "Real Sociedad",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2824/image",
+          "teamB": "Valencia",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2828/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "PREMIER SPORTS - SIMULCAST"
+          }
+        ],
+        "id": "415",
+        "image": "o",
+        "publish": "1",
+        "title": "Real Sociedad vs Valencia"
       }
     ]
   }
