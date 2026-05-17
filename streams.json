@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-17T11:40:23.485173",
+  "last_updated": "2026-05-17T11:50:28.492852",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "05:05:30 PM 17-05-2026",
+    "Last update time": "05:15:30 PM 17-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -1438,6 +1438,20 @@
             "logo": "",
             "title": "beIN ARABIC HD",
             "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/10f794db-a364-43d3-a02c-ff215d0e5f33/master.m3u8",
+            "logo": "",
+            "title": "SportsCast HD",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://live.vivo200.com/live/hd-en-1-4343216.m3u8?txSecret=93adf5b4108a843e95f420bdb3681d04&txTime=6A09F2AA|Referer=https://player.online909.com/",
+            "logo": "",
+            "title": "SPORTIFy Live",
+            "type": "0"
           }
         ],
         "eventInfo": {
@@ -1487,6 +1501,14 @@
           {
             "logo": "",
             "title": "beIN ARABIC HD"
+          },
+          {
+            "logo": "",
+            "title": "SportsCast HD"
+          },
+          {
+            "logo": "",
+            "title": "SportzX Live"
           }
         ],
         "id": "400",
