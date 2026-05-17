@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-17T01:00:43.494171",
+  "last_updated": "2026-05-17T01:10:22.292002",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "06:25:20 AM 17-05-2026",
+    "Last update time": "06:35:17 AM 17-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -370,6 +370,10 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/473425/image"
         },
         "formatsNew": [
+          {
+            "logo": "",
+            "title": "UFC FIGHT FHD"
+          },
           {
             "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10",
             "title": "TNT SPORTS FHD"
@@ -1434,6 +1438,13 @@
         "channels_data": [
           {
             "api": "",
+            "link": "https://chatgpt.hereisman.net/playlist/50728/load-playlist?|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "title": "SPORTIFy MLB",
+            "type": "0"
+          },
+          {
+            "api": "",
             "link": "https://mainstreams.pro/hls/hfzljfahzcax29.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
             "logo": "",
             "title": "SPORTIFy LIVE",
@@ -1454,6 +1465,10 @@
         "formatsNew": [
           {
             "logo": "",
+            "title": "SportzX MLB"
+          },
+          {
+            "logo": "",
             "title": "SportzX LIVE"
           }
         ],
@@ -1466,6 +1481,13 @@
         "adsLimit": "0",
         "cat": "MLB",
         "channels_data": [
+          {
+            "api": "",
+            "link": "https://chatgpt.hereisman.net/playlist/50726/load-playlist?|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "title": "SPORTIFy MLB",
+            "type": "0"
+          },
           {
             "api": "",
             "link": "https://mainstreams.pro/hls/hefbafbakx28.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
@@ -1486,6 +1508,10 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/3638/image"
         },
         "formatsNew": [
+          {
+            "logo": "",
+            "title": "SportzX MLB"
+          },
           {
             "logo": "",
             "title": "SportzX Live"
@@ -1513,6 +1539,13 @@
             "logo": "",
             "title": "TELEMUNDO FHD",
             "type": "1"
+          },
+          {
+            "api": "",
+            "link": "https://live.vivo200.com/live/sd-1-4541445.m3u8?txSecret=a33dbcf3a711888d209581d2ac3d8146&txTime=6A095B2E|Referer=https://player.online909.com/",
+            "logo": "",
+            "title": "SPORTIFy Live",
+            "type": "0"
           }
         ],
         "eventInfo": {
@@ -1535,305 +1568,16 @@
           {
             "logo": "",
             "title": "TELEMUNDO FHD"
+          },
+          {
+            "logo": "",
+            "title": "SportzX Live"
           }
         ],
         "id": "400",
         "image": "o",
         "publish": "1",
         "title": "Guadalajara vs Cruz Azul"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "FA Cup",
-        "channels_data": [
-          {
-            "api": "294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd",
-            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10",
-            "title": "TNT SPORTS FHD",
-            "type": "1"
-          },
-          {
-            "api": "294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b",
-            "link": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd",
-            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10",
-            "title": "TNT SPORTS - AQ",
-            "type": "1"
-          },
-          {
-            "api": "",
-            "link": "https://storage.googleapis.com/unicertyngherpyte1/mux_video_ts1/index-1.m3u8",
-            "logo": "",
-            "title": "ESPN SPORTS HD",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://chatgpt.hereisman.net/playlist/50666/load-playlist?|Referer=https://gooz.aapmains.net",
-            "logo": "",
-            "title": "SPORTIFy HD LIVE",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://livecdn-tc-livestream.rumsport10.live/stream/27/chunks.m3u8?is_vip=false&token=1779025577-Kv4cPTAAP5YTi-2223516ee6861d31f8b0239a4aaf0e07a93fd97b-4036f30ebd1e76f71a5c4bf44752d0cb",
-            "logo": "",
-            "title": "STAN SPORTS HD",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2005445/FACUP_Ch1605/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com",
-            "logo": "",
-            "title": "SonyLiv [ENG]",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2005445/FACUP_Ch1605/HIN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com",
-            "logo": "",
-            "title": "SonyLiv [HIN]",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/16 16:05:00 +0000",
-          "eventBanner": "null",
-          "eventName": "Chelsea vs Manchester City",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/16 14:00:00 +0000",
-          "teamA": "Chelsea",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/38/image",
-          "teamB": "Man City",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/17/image"
-        },
-        "formatsNew": [
-          {
-            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10",
-            "title": "TNT SPORTS FHD"
-          },
-          {
-            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10",
-            "title": "TNT SPORTS - AQ"
-          },
-          {
-            "logo": "",
-            "title": "ESPN SPORTS HD"
-          },
-          {
-            "logo": "",
-            "title": "SportzX HD LIVE"
-          },
-          {
-            "logo": "",
-            "title": "STAN SPORTS HD"
-          },
-          {
-            "logo": "",
-            "title": "SonyLiv [ENG]"
-          },
-          {
-            "logo": "",
-            "title": "SonyLiv [HIN]"
-          }
-        ],
-        "id": "401",
-        "image": "o",
-        "publish": "1",
-        "title": "Chelsea vs Manchester City"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "Super Lig",
-        "channels_data": [
-          {
-            "api": "",
-            "link": "https://zomis.zempovlantis.online/premium62/tracks-v1a1/mono.m3u8|Referer=https://donis.jimpenopisonline.online/",
-            "logo": "",
-            "title": "beIN SPORTS HD",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://live.vivo200.com/live/hd-en-1-4366100.m3u8?txSecret=9c858f6b4a74170cf2d83bd86c523110&txTime=6A08DE55|Referer=https://player.online909.com/",
-            "logo": "",
-            "title": "SPORTIFy Live",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/16 19:00:00 +0000",
-          "eventName": "Samsunspor vs Göztepe",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/16 17:00:00 +0000",
-          "teamA": "Samsunspor",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3053/image",
-          "teamB": "Göztepe",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3054/image"
-        },
-        "formatsNew": [
-          {
-            "logo": "",
-            "title": "beIN SPORTS HD"
-          },
-          {
-            "logo": "",
-            "title": "SportzX Live"
-          }
-        ],
-        "id": "414",
-        "image": "o",
-        "publish": "1",
-        "title": "Samsunspor vs Göztepe"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "Super Lig",
-        "channels_data": [
-          {
-            "api": "",
-            "link": "https://zomis.zempovlantis.online/premium63/tracks-v1a1/mono.m3u8|Referer=https://donis.jimpenopisonline.online/",
-            "logo": "",
-            "title": "beIN SPORTS HD",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/16 19:00:00 +0000",
-          "eventName": "Gaziantep vs Başakşehir",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/16 17:00:00 +0000",
-          "teamA": "Gaziantep",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/5138/image",
-          "teamB": "Başakşehir",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3086/image"
-        },
-        "formatsNew": [
-          {
-            "logo": "",
-            "title": "beIN SPORTS HD"
-          }
-        ],
-        "id": "415",
-        "image": "o",
-        "publish": "1",
-        "title": "Gaziantep vs Başakşehir"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "Liga Portugal",
-        "channels_data": [
-          {
-            "api": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
-            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
-            "logo": "",
-            "title": "SportDigital Fussball",
-            "type": "1"
-          },
-          {
-            "api": "",
-            "link": "https://livecdn-bp-iptv.rumsport7.live/live_abr/68904/chunks.m3u8?is_vip=false&token=88260ea855dfcf8e7b020464a42c033ffa5af377&x-sign=25f0a817665344de3ca160e293a484fe&x-time=1778961180",
-            "logo": "",
-            "title": "Sport Klub HD",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/16 21:30:00 +0000",
-          "eventName": "Sporting vs Gil Vicente",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/16 19:30:00 +0000",
-          "teamA": "Sporting",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3001/image",
-          "teamB": "Gil Vicente",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3010/image"
-        },
-        "formatsNew": [
-          {
-            "logo": "",
-            "title": "SportDigital Fussball"
-          },
-          {
-            "logo": "",
-            "title": "Sport Klub HD"
-          }
-        ],
-        "id": "420",
-        "image": "o",
-        "publish": "1",
-        "title": "Sporting vs Gil Vicente"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "Liga Portugal",
-        "channels_data": [
-          {
-            "api": "",
-            "link": "https://livecdn-bp-iptv.rumsport7.live/live_abr/802/chunks.m3u8?is_vip=false&token=88260ea855dfcf8e7b020464a42c033ffa5af377&x-sign=372d5f2b35b71adddb774f2620bd05cf&x-time=1778961120",
-            "logo": "",
-            "title": "SPORTIFy Live",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/16 21:30:00 +0000",
-          "eventName": "Estoril Praia vs Benfica",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/16 19:30:00 +0000",
-          "teamA": "Estoril",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/4500/image",
-          "teamB": "Benfica",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3006/image"
-        },
-        "formatsNew": [
-          {
-            "logo": "",
-            "title": "SportzX Live"
-          }
-        ],
-        "id": "421",
-        "image": "o",
-        "publish": "1",
-        "title": "Estoril Praia vs Benfica"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "LaLiga 2",
-        "channels_data": [
-          {
-            "api": "d69894c7b729c5d1e85893e5e6cfcb0f:db0d53f871f5d2ef91d3a112c7ec9f30",
-            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/tcninbbnt5/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd",
-            "logo": "",
-            "title": "Laliga Hypermotion ES",
-            "type": "1"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/16 18:30:00 +0000",
-          "eventName": "Racing Club vs Real Valladolid",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/16 16:30:00 +0000",
-          "teamA": "R. Racing Club",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2835/image",
-          "teamB": "Real Valladolid",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2831/image"
-        },
-        "formatsNew": [
-          {
-            "logo": "",
-            "title": "Laliga Hypermotion ES"
-          }
-        ],
-        "id": "424",
-        "image": "o",
-        "publish": "1",
-        "title": "Racing Club vs Real Valladolid"
       },
       {
         "adsLimit": "0",
@@ -2022,39 +1766,6 @@
         "image": "o",
         "publish": "1",
         "title": "Dave Allen"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "Brasileirão",
-        "channels_data": [
-          {
-            "api": "56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd",
-            "title": "PREMIERER BR",
-            "type": "1"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/17 00:30:00 +0000",
-          "eventName": "Atlético Mineiro vs Mirassol",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/16 21:30:00 +0000",
-          "teamA": "Atlético-MG",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/1977/image",
-          "teamB": "Mirassol",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/21982/image"
-        },
-        "formatsNew": [
-          {
-            "logo": "",
-            "title": "PREMIERER BR"
-          }
-        ],
-        "id": "437",
-        "image": "o",
-        "publish": "1",
-        "title": "Atlético Mineiro vs Mirassol"
       },
       {
         "adsLimit": "0",
