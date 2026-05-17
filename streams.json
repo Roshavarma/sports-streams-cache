@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-17T06:20:22.417331",
+  "last_updated": "2026-05-17T06:30:39.410750",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "11:45:29 AM 17-05-2026",
+    "Last update time": "11:55:17 AM 17-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -1950,6 +1950,435 @@
         "image": "o",
         "publish": "1",
         "title": "Como vs Parma"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "Serie A 🇮🇹",
+        "channels_data": [
+          {
+            "api": "3fb40d85724942f994d86943f48021db:a6da8742502c8a2153067f5f2a70fb02",
+            "link": "https://mag04.tvx.prd.tv.odido.nl/wh7f454c46tw865586829_-819821292/PLTV/86/224/3221241610/3221241610.mpd?accountinfo=~~V2.0~LNS2PBO5tyhp5z1Pe6ObBA6cd7a4ec35c4492167b9376e6dff2932~BZw2dESHw-I1PQCFh9gGxCMvrIIzgMdYAe900qj8l6aoXUX9ahyR6I9EUIu7nDR4f4887615c83ea7a8cee6dd33137c4ebe:UTC,",
+            "title": "ZIGGO SPORTS",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/17 12:00:00 +0000",
+          "eventName": "Genoa vs Milan",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/17 10:00:00 +0000",
+          "teamA": "Genoa",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2713/image",
+          "teamB": "Milan",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2692/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "ZIGGO SPORTS"
+          }
+        ],
+        "id": "422",
+        "image": "o",
+        "publish": "1",
+        "title": "Genoa vs Milan"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "Serie A 🇮🇹",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://fallback-video.ivan-flux.workers.dev/video/index.m3u8",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/17 12:00:00 +0000",
+          "eventName": "Pisa vs SSC Napoli",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/17 10:00:00 +0000",
+          "teamA": "Pisa",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2737/image",
+          "teamB": "Napoli",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2714/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "SportzX Live"
+          }
+        ],
+        "id": "423",
+        "image": "o",
+        "publish": "1",
+        "title": "Pisa vs SSC Napoli"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "Serie A 🇮🇹",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://fallback-video.ivan-flux.workers.dev/video/index.m3u8",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/17 20:45:00 +0000",
+          "eventName": "Cagliari vs Torino",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/17 18:45:00 +0000",
+          "teamA": "Cagliari",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2719/image",
+          "teamB": "Torino",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2696/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "SportzX Live"
+          }
+        ],
+        "id": "424",
+        "image": "o",
+        "publish": "1",
+        "title": "Cagliari vs Torino"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "Serie A 🇮🇹",
+        "channels_data": [
+          {
+            "api": "3cfa8625f650406ebf6a4d1ea737f572:0534e747c70b364aa7210e1bf3191df0",
+            "link": "https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw266117884_-1972819316/PLTV/86/224/3221241560/3221241560.mpd?accountinfo=~~V2.0~OhA1DF4svOZppKxb-t-Ngw144cce44121c63284a33d5453493e5c8~1_Fmlu5PevHMYnEi9Z_HX2goKAd0VHSuxZMoIcAXcawYvG1meqGp2eQ2Ibhjvh7e59e7f6df3d57f23a32024ad67f0f19dc:UTC,",
+            "title": "ZIGGO SPORTS",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/17 20:45:00 +0000",
+          "eventName": "Sassuolo vs Lecce",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/17 18:45:00 +0000",
+          "teamA": "Sassuolo",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2793/image",
+          "teamB": "Lecce",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2689/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "ZIGGO SPORTS"
+          }
+        ],
+        "id": "425",
+        "image": "o",
+        "publish": "1",
+        "title": "Sassuolo vs Lecce"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "Ligue 1 🇫🇷",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://fallback-video.ivan-flux.workers.dev/video/index.m3u8",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/17 21:00:00 +0000",
+          "eventName": "Paris FC vs PSG",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/17 19:00:00 +0000",
+          "teamA": "Paris",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/6070/image",
+          "teamB": "PSG",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/1644/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "SportzX Live"
+          }
+        ],
+        "id": "426",
+        "image": "o",
+        "publish": "1",
+        "title": "Paris FC vs PSG"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "Ligue 1 🇫🇷",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://fallback-video.ivan-flux.workers.dev/video/index.m3u8",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/17 21:00:00 +0000",
+          "eventName": "Lille vs Auxerre",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/17 19:00:00 +0000",
+          "teamA": "Lille",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/1643/image",
+          "teamB": "Auxerre",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/1646/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "SportzX Live"
+          }
+        ],
+        "id": "427",
+        "image": "o",
+        "publish": "1",
+        "title": "Lille vs Auxerre"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "Ligue 1 🇫🇷",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://fallback-video.ivan-flux.workers.dev/video/index.m3u8",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/17 21:00:00 +0000",
+          "eventName": "Lorient vs Le Havre",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/17 19:00:00 +0000",
+          "teamA": "Lorient",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/1656/image",
+          "teamB": "Le Havre",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/1662/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "SportzX Live"
+          }
+        ],
+        "id": "428",
+        "image": "o",
+        "publish": "1",
+        "title": "Lorient vs Le Havre"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "Ligue 1 🇫🇷",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://fallback-video.ivan-flux.workers.dev/video/index.m3u8",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/17 21:00:00 +0000",
+          "eventName": "Nantes vs Toulouse",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/17 19:00:00 +0000",
+          "teamA": "Nantes",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/1647/image",
+          "teamB": "Toulouse",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/1681/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "SportzX Live"
+          }
+        ],
+        "id": "429",
+        "image": "o",
+        "publish": "1",
+        "title": "Nantes vs Toulouse"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "Ligue 1 🇫🇷",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://fallback-video.ivan-flux.workers.dev/video/index.m3u8",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/17 21:00:00 +0000",
+          "eventName": "Nice vs Metz",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/17 19:00:00 +0000",
+          "teamA": "Nice",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/1661/image",
+          "teamB": "Metz",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/1651/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "SportzX Live"
+          }
+        ],
+        "id": "430",
+        "image": "o",
+        "publish": "1",
+        "title": "Nice vs Metz"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "Ligue 1 🇫🇷",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://fallback-video.ivan-flux.workers.dev/video/index.m3u8",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/17 21:00:00 +0000",
+          "eventName": "Olympique Lyon vs RC Lens",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/17 19:00:00 +0000",
+          "teamA": "Lyon",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/1649/image",
+          "teamB": "Lens",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/1648/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "SportzX Live"
+          }
+        ],
+        "id": "431",
+        "image": "o",
+        "publish": "1",
+        "title": "Olympique Lyon vs RC Lens"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "Ligue 1 🇫🇷",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://fallback-video.ivan-flux.workers.dev/video/index.m3u8",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/17 21:00:00 +0000",
+          "eventName": "Olympique Marseille vs Stade Rennais",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/17 19:00:00 +0000",
+          "teamA": "Marseille",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/1641/image",
+          "teamB": "Rennes",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/1658/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "SportzX Live"
+          }
+        ],
+        "id": "432",
+        "image": "o",
+        "publish": "1",
+        "title": "Marseille vs Stade Rennais"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "Ligue 1 🇫🇷",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://fallback-video.ivan-flux.workers.dev/video/index.m3u8",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/17 21:00:00 +0000",
+          "eventName": "Strasbourg vs AS Monaco",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/17 19:00:00 +0000",
+          "teamA": "Strasbourg",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/1659/image",
+          "teamB": "AS Monaco",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/1653/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "SportzX Live"
+          }
+        ],
+        "id": "433",
+        "image": "o",
+        "publish": "1",
+        "title": "Strasbourg vs AS Monaco"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "Ligue 1 🇫🇷",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://fallback-video.ivan-flux.workers.dev/video/index.m3u8",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/17 21:00:00 +0000",
+          "eventName": "Stade Brestois vs Angers",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/17 19:00:00 +0000",
+          "teamA": "Brest",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/1715/image",
+          "teamB": "Angers",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/1684/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "SportzX Live"
+          }
+        ],
+        "id": "434",
+        "image": "o",
+        "publish": "1",
+        "title": "Stade Brestois vs Angers"
       }
     ]
   }
