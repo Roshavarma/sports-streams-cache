@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-17T10:00:42.773969",
+  "last_updated": "2026-05-17T10:10:25.672646",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "03:25:24 PM 17-05-2026",
+    "Last update time": "03:35:17 PM 17-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -757,8 +757,8 @@
             "type": "1"
           },
           {
-            "api": "b62efe3c810e550dadeb87bf43ba0987:8ec64c8434c98d627b639fadx31\u0013dc18",
-            "link": "https://dck1-ac-live.cdn.indazn.com/out/v1/761f422bb93edb7b/5cbe5a6be7314553a62ba3f74951ae04/index.mpd",
+            "api": "2fb171243e6e5ee08212ce4faf379735:a4770988ed0eb252a1617e70Ub9\u00130997",
+            "link": "https://dck1-ak-livedazn.akamaized.net/out/v1/814bffb9b389f652/f426d5121a5e42dd967c0253defec25e/index.mpd",
             "logo": "",
             "title": "KAYO HINDI FHD",
             "type": "1"
@@ -1637,6 +1637,20 @@
           },
           {
             "api": "",
+            "link": "https://chatgpt.hereisman.net/playlist/50733/load-playlist?|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "title": "CBS SPORTS HD",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://mainstreams.pro/hls/syaLqucEne4k.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+            "logo": "",
+            "title": "DAZN SPORTS HD",
+            "type": "0"
+          },
+          {
+            "api": "",
             "link": "https://poklis.rontokakishop.online/premium69/tracks-v1a1/mono.m3u8|Referer=https://donis.jimpenopisonline.online/",
             "logo": "",
             "title": "PARAMOUNT+ HD",
@@ -1658,6 +1672,14 @@
           {
             "logo": "",
             "title": "beIN ENGLISH FHD"
+          },
+          {
+            "logo": "",
+            "title": "CBS SPORTS HD"
+          },
+          {
+            "logo": "",
+            "title": "DAZN SPORTS HD"
           },
           {
             "logo": "",
@@ -1693,6 +1715,13 @@
             "logo": "",
             "title": "FOX DEPORTES",
             "type": "1"
+          },
+          {
+            "api": "",
+            "link": "https://mainstreams.pro/hls/2rB5nTKlP8mE.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+            "logo": "",
+            "title": "DAZN SPORTS HD",
+            "type": "0"
           },
           {
             "api": "",
@@ -1732,6 +1761,10 @@
           {
             "logo": "",
             "title": "FOX DEPORTES"
+          },
+          {
+            "logo": "",
+            "title": "DAZN SPORTS HD"
           },
           {
             "logo": "",
