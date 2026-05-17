@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-17T10:30:31.995696",
+  "last_updated": "2026-05-17T10:40:20.340569",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "03:55:21 PM 17-05-2026",
+    "Last update time": "04:05:25 PM 17-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -2852,6 +2852,257 @@
         "image": "o",
         "publish": "1",
         "title": "Athletico vs Flamengo"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "Eredivisie",
+        "channels_data": [
+          {
+            "api": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
+            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
+            "title": "SportDigital Fussball",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/17 14:30:00 +0000",
+          "eventName": "PSV Eindhoven vs Twente",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/17 12:30:00 +0000",
+          "teamA": "PSV",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2952/image",
+          "teamB": "Twente",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2955/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "SportDigital Fussball"
+          }
+        ],
+        "id": "444",
+        "image": "o",
+        "publish": "1",
+        "title": "PSV Eindhoven vs Twente"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "Eredivisie",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://bobis.zaglemplokis.online/premium888/tracks-v1a1/mono.m3u8|Referer=https://donis.jimpenopisonline.online/",
+            "title": "ESPN NL HD",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/17 14:30:00 +0000",
+          "eventName": "Heerenveen vs AFC Ajax",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/17 12:30:00 +0000",
+          "teamA": "Heerenveen",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2964/image",
+          "teamB": "Ajax",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2953/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "ESPN NL HD"
+          }
+        ],
+        "id": "445",
+        "image": "o",
+        "publish": "1",
+        "title": "Heerenveen vs AFC Ajax"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "Super Lig",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://zomis.zempovlantis.online/premium63/tracks-v1a1/mono.m3u8|Referer=https://donis.jimpenopisonline.online/",
+            "title": "beIN SPORTS HD",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/17 19:00:00 +0000",
+          "eventName": "Fenerbahçe vs Eyüpspor",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/17 17:00:00 +0000",
+          "teamA": "Fenerbahçe",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3052/image",
+          "teamB": "Eyüpspor",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/7040/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "beIN SPORTS HD"
+          }
+        ],
+        "id": "446",
+        "image": "o",
+        "publish": "1",
+        "title": "Fenerbahçe vs Eyüpspor"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "Super Lig",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://zomis.zempovlantis.online/premium425/tracks-v1a1/mono.m3u8|Referer=https://donis.jimpenopisonline.online/",
+            "title": "beIN SPORTS US",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://zomis.zempovlantis.online/premium62/tracks-v1a1/mono.m3u8|Referer=https://donis.jimpenopisonline.online/",
+            "title": "beIN SPORTS HD",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/17 19:00:00 +0000",
+          "eventName": "Kasımpaşa vs Galatasaray",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/17 17:00:00 +0000",
+          "teamA": "Kasımpaşa",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/6063/image",
+          "teamB": "Galatasaray",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3061/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "beIN SPORTS US"
+          },
+          {
+            "logo": "",
+            "title": "beIN SPORTS HD"
+          }
+        ],
+        "id": "447",
+        "image": "o",
+        "publish": "1",
+        "title": "Kasımpaşa vs Galatasaray"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "Scottish Premiership",
+        "channels_data": [
+          {
+            "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
+            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
+            "title": "beIN ENGLISH",
+            "type": "1"
+          },
+          {
+            "api": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f",
+            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
+            "title": "PREMIER SPORTS",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/17 15:00:00 +0000",
+          "eventName": "Livingston vs Kilmarnock",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/17 13:00:00 +0000",
+          "teamA": "Livingston",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2356/image",
+          "teamB": "Kilmarnock",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2347/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "beIN ENGLISH"
+          },
+          {
+            "logo": "",
+            "title": "PREMIER SPORTS"
+          }
+        ],
+        "id": "448",
+        "image": "o",
+        "publish": "1",
+        "title": "Livingston vs Kilmarnock"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "2. Bundesliga",
+        "channels_data": [
+          {
+            "api": "d69894c7b729c5d1e85893e5e6cfcb0f:db0d53f871f5d2ef91d3a112c7ec9f30",
+            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/tcninbbnt5/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd",
+            "title": "Laliga Hypermotion ES",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/17 14:00:00 +0000",
+          "eventName": "Deportivo vs FC Andorra",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/17 12:00:00 +0000",
+          "teamA": "Deportivo",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2832/image",
+          "teamB": "FC Andorra",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/324871/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "Laliga Hypermotion ES"
+          }
+        ],
+        "id": "449",
+        "image": "o",
+        "publish": "1",
+        "title": "Deportivo vs FC Andorra"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "LaLiga 2",
+        "channels_data": [
+          {
+            "api": "d69894c7b729c5d1e85893e5e6cfcb0f:db0d53f871f5d2ef91d3a112c7ec9f30",
+            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/tcninbbnt5/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd",
+            "title": "Laliga Hypermotion ES",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/17 21:15:00 +0000",
+          "eventName": "Real Zaragoza vs Sporting Gijón",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/17 19:15:00 +0000",
+          "teamA": "Real Zaragoza",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2815/image",
+          "teamB": "Sporting",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2852/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "Laliga Hypermotion ES"
+          }
+        ],
+        "id": "450",
+        "image": "o",
+        "publish": "1",
+        "title": "Real Zaragoza vs Sporting Gijón"
       }
     ]
   }
