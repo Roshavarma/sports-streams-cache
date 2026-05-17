@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-17T20:00:40.852336",
+  "last_updated": "2026-05-17T20:10:21.392500",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "01:25:18 AM 18-05-2026",
+    "Last update time": "01:35:20 AM 18-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -1959,39 +1959,6 @@
         "cat": "Rugby",
         "channels_data": [
           {
-            "api": "708a98b352bd4418a73a028edd84da8f:b1fa5c2bca4c4b57b924b748564532cb",
-            "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1779070453~acl=%2F*~id=319ab612-2e20-46d8-844b-27cb156b638c~data=hdntl,aXA9NTIuMTYxLjU2LjcwJmV4cD0xNzc4OTg0MDgzJmVpZD05MzY0MjQmb2lkPTE1NCZ0eXBlPVZPRCZ1aWQ9YWRjV1lXfGI2MGFmMjk5LTAzOTEtNGQxZi1hNmQwLWQ4MjQ0ZGZhZjFjOSZjaWQ9ZGNlLmZpc2ZlZCZwdD1udWxs~hmac=0f528e265590e386ba6fb3983f21449ea43d5fa28aed795503f83643861de1ff/dash/live/2093715/219027-321028/manifest-d.mpd",
-            "title": "SKY SPORTS FHD",
-            "type": "1"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/17 13:30:00 +0000",
-          "eventName": "Wales W vs Italy W",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/17 11:15:00 +0000",
-          "teamA": "Wales",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/164620/image",
-          "teamB": "Italy",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/189292/image"
-        },
-        "formatsNew": [
-          {
-            "logo": "",
-            "title": "SKY SPORTS FHD"
-          }
-        ],
-        "id": "435",
-        "image": "o",
-        "publish": "1",
-        "title": "Wales W vs Italy W"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "Rugby",
-        "channels_data": [
-          {
             "api": "278b8746b7c7410e901af0aa3774f037:15e1142d647b474ebbd49e41efa2a9d7",
             "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1779070453~acl=%2F*~id=ac995ce9-4460-4baf-aa98-8964bf914c77~data=hdntl,aXA9NTIuMTYxLjU2LjcwJmV4cD0xNzc4OTg0MDgzJmVpZD05MzU1NDYmb2lkPTE1NCZ0eXBlPVZPRCZ1aWQ9YWRjV1lXfGI2MGFmMjk5LTAzOTEtNGQxZi1hNmQwLWQ4MjQ0ZGZhZjFjOSZjaWQ9ZGNlLmZpc2ZlZCZwdD1udWxs~hmac=f6b8f98b065a74d282a69083cc879a3b075e09696d12209ba9f1048055d753b7/dash/live/2093720/219029-321032/manifest-d.mpd",
             "title": "SKY SPORTS FHD",
@@ -2019,39 +1986,6 @@
         "image": "o",
         "publish": "1",
         "title": "Ireland vs Scotland"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "Rugby",
-        "channels_data": [
-          {
-            "api": "278b8746b7c7410e901af0aa3774f037:15e1142d647b474ebbd49e41efa2a9d7",
-            "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1779070453~acl=%2F*~id=ac995ce9-4460-4baf-aa98-8964bf914c77~data=hdntl,aXA9NTIuMTYxLjU2LjcwJmV4cD0xNzc4OTg0MDgzJmVpZD05MzU1NDYmb2lkPTE1NCZ0eXBlPVZPRCZ1aWQ9YWRjV1lXfGI2MGFmMjk5LTAzOTEtNGQxZi1hNmQwLWQ4MjQ0ZGZhZjFjOSZjaWQ9ZGNlLmZpc2ZlZCZwdD1udWxs~hmac=f6b8f98b065a74d282a69083cc879a3b075e09696d12209ba9f1048055d753b7/dash/live/2093720/219029-321032/manifest-d.mpd",
-            "title": "SKY SPORTS FHD",
-            "type": "1"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/17 17:45:00 +0000",
-          "eventName": "France W vs England W",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/17 15:45:00 +0000",
-          "teamA": "France",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/164616/image",
-          "teamB": "England",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/164602/image"
-        },
-        "formatsNew": [
-          {
-            "logo": "",
-            "title": "SKY SPORTS FHD"
-          }
-        ],
-        "id": "437",
-        "image": "o",
-        "publish": "1",
-        "title": "France W vs England W"
       },
       {
         "adsLimit": "0",
