@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-17T10:10:25.672646",
+  "last_updated": "2026-05-17T10:20:22.605282",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "03:35:17 PM 17-05-2026",
+    "Last update time": "03:45:24 PM 17-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -1644,6 +1644,13 @@
           },
           {
             "api": "",
+            "link": "https://livecdn-tc-iptv.rumsport10.live/live_abr/54042/chunks.m3u8?is_vip=false&token=1779099239-Kv4cPTAAP5YTi-2223516ee6861d31f8b0239a4aaf0e07a93fd97b-24ba070b4528a574ff2a1044cf741316",
+            "logo": "",
+            "title": "DAZN SPORTS IT",
+            "type": "0"
+          },
+          {
+            "api": "",
             "link": "https://mainstreams.pro/hls/syaLqucEne4k.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
             "logo": "",
             "title": "DAZN SPORTS HD",
@@ -1676,6 +1683,10 @@
           {
             "logo": "",
             "title": "CBS SPORTS HD"
+          },
+          {
+            "logo": "",
+            "title": "DAZN SPORTS IT"
           },
           {
             "logo": "",
@@ -1715,6 +1726,13 @@
             "logo": "",
             "title": "FOX DEPORTES",
             "type": "1"
+          },
+          {
+            "api": "",
+            "link": "https://livecdn-tc-iptv.rumsport10.live/live_abr/54039/chunks.m3u8?is_vip=false&token=1779099071-Kv4cPTAAP5YTi-2223516ee6861d31f8b0239a4aaf0e07a93fd97b-db1cdcc08401ad8711151522035ef1f9",
+            "logo": "",
+            "title": "DAZN SPORTS IT",
+            "type": "0"
           },
           {
             "api": "",
@@ -1761,6 +1779,10 @@
           {
             "logo": "",
             "title": "FOX DEPORTES"
+          },
+          {
+            "logo": "",
+            "title": "DAZN SPORTS IT"
           },
           {
             "logo": "",
@@ -1932,6 +1954,13 @@
           },
           {
             "api": "",
+            "link": "https://livecdn-tc-iptv.rumsport10.live/live_abr/54041/chunks.m3u8?is_vip=false&token=1779098987-Kv4cPTAAP5YTi-2223516ee6861d31f8b0239a4aaf0e07a93fd97b-5324458f9ecb1e19bd9caa753573368d",
+            "logo": "",
+            "title": "DAZN SPORTS HD",
+            "type": "0"
+          },
+          {
+            "api": "",
             "link": "https://bobis.zaglemplokis.online/premium59/tracks-v1a1/mono.m3u8|Referer=https://donis.jimpenopisonline.online/",
             "logo": "",
             "title": "PARAMOUNT+ HD",
@@ -1963,6 +1992,10 @@
           },
           {
             "logo": "",
+            "title": "DAZN SPORTS HD"
+          },
+          {
+            "logo": "",
             "title": "PARAMOUNT+ HD"
           },
           {
@@ -1980,11 +2013,25 @@
         "cat": "Serie A 🇮🇹",
         "channels_data": [
           {
+            "api": "",
+            "link": "https://livecdn-tc-iptv.rumsport10.live/live_abr/54040/chunks.m3u8?is_vip=false&token=1779099148-Kv4cPTAAP5YTi-2223516ee6861d31f8b0239a4aaf0e07a93fd97b-563aee1a48c7d9334db462eb68349f88",
+            "logo": "",
+            "title": "DAZN SPORTS IT",
+            "type": "0"
+          },
+          {
             "api": "3fb40d85724942f994d86943f48021db:a6da8742502c8a2153067f5f2a70fb02",
             "link": "https://mag04.tvx.prd.tv.odido.nl/wh7f454c46tw865586829_-819821292/PLTV/86/224/3221241610/3221241610.mpd?accountinfo=~~V2.0~LNS2PBO5tyhp5z1Pe6ObBA6cd7a4ec35c4492167b9376e6dff2932~BZw2dESHw-I1PQCFh9gGxCMvrIIzgMdYAe900qj8l6aoXUX9ahyR6I9EUIu7nDR4f4887615c83ea7a8cee6dd33137c4ebe:UTC,",
             "logo": "",
             "title": "ZIGGO SPORTS",
             "type": "1"
+          },
+          {
+            "api": "",
+            "link": "https://mainstreams.pro/hls/2rB5nTKlP8mE.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+            "logo": "",
+            "title": "DAZN SPORTS HD",
+            "type": "0"
           },
           {
             "api": "",
@@ -2015,7 +2062,15 @@
         "formatsNew": [
           {
             "logo": "",
+            "title": "DAZN SPORTS IT"
+          },
+          {
+            "logo": "",
             "title": "ZIGGO SPORTS"
+          },
+          {
+            "logo": "",
+            "title": "DAZN SPORTS HD"
           },
           {
             "logo": "",
@@ -2035,6 +2090,20 @@
         "adsLimit": "0",
         "cat": "Serie A 🇮🇹",
         "channels_data": [
+          {
+            "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
+            "link": "https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd",
+            "logo": "",
+            "title": "SPORT 2 FHD",
+            "type": "1"
+          },
+          {
+            "api": "",
+            "link": "https://livecdn-tc-iptv.rumsport10.live/live_abr/54043/chunks.m3u8?is_vip=false&token=1779098909-Kv4cPTAAP5YTi-2223516ee6861d31f8b0239a4aaf0e07a93fd97b-ee5f973d021bc4aca24001a5f0b4f5dc",
+            "logo": "",
+            "title": "DAZN SPORTS HD",
+            "type": "0"
+          },
           {
             "api": "",
             "link": "https://bobis.zaglemplokis.online/premium76/tracks-v1a1/mono.m3u8|Referer=https://donis.jimpenopisonline.online/",
@@ -2062,6 +2131,14 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/2714/image"
         },
         "formatsNew": [
+          {
+            "logo": "",
+            "title": "SPORT 2 FHD"
+          },
+          {
+            "logo": "",
+            "title": "DAZN SPORTS HD"
+          },
           {
             "logo": "",
             "title": "PARAMOUNT+ HD"
