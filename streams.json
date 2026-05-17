@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-17T17:10:21.291962",
+  "last_updated": "2026-05-17T17:15:50.073476",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "10:35:20 PM 17-05-2026",
+    "Last update time": "10:44:36 PM 17-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -1100,6 +1100,13 @@
         "channels_data": [
           {
             "api": "",
+            "link": "https://chatgpt.hereisman.net/playlist/50765/load-playlist?|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "title": "SPORTIFy WNBA",
+            "type": "0"
+          },
+          {
+            "api": "",
             "link": "https://mainstreams.pro/hls/bvnsqdfvgha70.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
             "logo": "",
             "title": "SPORTIFy Live",
@@ -1118,6 +1125,10 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/35550/image"
         },
         "formatsNew": [
+          {
+            "logo": "",
+            "title": "SportzX WNBA"
+          },
           {
             "logo": "",
             "title": "SportzX Live"
@@ -1530,8 +1541,15 @@
           {
             "api": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f",
             "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
-            "logo": "",
+            "logo": "https://play-lh.googleusercontent.com/zG_ZS5v4PfHqWqWLkpVkZB9wRu9MJmEqD4tNpeIYwLOcjU3INQlFeTxoVgwV1R2CbcsI",
             "title": "PREMIER SPORTS",
+            "type": "1"
+          },
+          {
+            "api": "7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe",
+            "link": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
+            "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png",
+            "title": "FANCODE FHD",
             "type": "1"
           },
           {
@@ -1574,7 +1592,7 @@
           "endTime": "2026/05/17 19:00:00 +0000",
           "eventName": "Sevilla vs Real Madrid",
           "eventType": "null",
-          "isHot": "0",
+          "isHot": "1",
           "startTime": "2026/05/17 17:00:00 +0000",
           "teamA": "Sevilla",
           "teamAFlag": "https://img.sofascore.com/api/v1/team/2833/image",
@@ -1587,8 +1605,12 @@
             "title": "beIN ENGLISH FHD"
           },
           {
-            "logo": "",
+            "logo": "https://play-lh.googleusercontent.com/zG_ZS5v4PfHqWqWLkpVkZB9wRu9MJmEqD4tNpeIYwLOcjU3INQlFeTxoVgwV1R2CbcsI",
             "title": "PREMIER SPORTS"
+          },
+          {
+            "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png",
+            "title": "FANCODE FHD"
           },
           {
             "logo": "",
@@ -2054,6 +2076,13 @@
         "channels_data": [
           {
             "api": "",
+            "link": "https://livecdn-tc-livestream.rumsport10.live/stream/6/chunks.m3u8?is_vip=false&token=1779123894-Kv4cPTAAP5YTi-e3b73f76eb1850f42fc741e7d134e8919c99167f-f540b163126b885270753c36d8a4c3b5",
+            "logo": "",
+            "title": "LALIGA TV HD",
+            "type": "0"
+          },
+          {
+            "api": "",
             "link": "https://live.vivo200.com/live/hd-en-1-4358292.m3u8?txSecret=b47f06708ec06c094ff6497443722415&txTime=6A0A3982|Referer=https://player.online909.com/",
             "logo": "",
             "title": "SPORTIFy Live",
@@ -2079,6 +2108,10 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/2885/image"
         },
         "formatsNew": [
+          {
+            "logo": "",
+            "title": "LALIGA TV HD"
+          },
           {
             "logo": "",
             "title": "SportzX Live"
@@ -3322,7 +3355,15 @@
         "channels_data": [
           {
             "api": "",
+            "link": "https://chatgpt.hereisman.net/playlist/50768/load-playlist?|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "title": "SPORTIFy MLB",
+            "type": "0"
+          },
+          {
+            "api": "",
             "link": "https://mainstreams.pro/hls/ihfazugfyjcazich17.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+            "logo": "",
             "title": "SPORTIFy Live",
             "type": "0"
           }
@@ -3341,6 +3382,10 @@
         "formatsNew": [
           {
             "logo": "",
+            "title": "SportzX MLB"
+          },
+          {
+            "logo": "",
             "title": "SportzX Live"
           }
         ],
@@ -3355,7 +3400,15 @@
         "channels_data": [
           {
             "api": "",
+            "link": "https://istreameast.app/mlb/washington-nationals-baltimore-orioles/40920352",
+            "logo": "",
+            "title": "SPORTIFy MLB",
+            "type": "0"
+          },
+          {
+            "api": "",
             "link": "https://mainstreams.pro/hls/16yuitzaerghbhc16.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+            "logo": "",
             "title": "SPORTIFy Live",
             "type": "0"
           }
@@ -3372,6 +3425,10 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/3652/image"
         },
         "formatsNew": [
+          {
+            "logo": "",
+            "title": "SportzX MLB"
+          },
           {
             "logo": "",
             "title": "SportzX Live"
@@ -3579,6 +3636,40 @@
         "image": "o",
         "publish": "1",
         "title": "Twins vs Milwaukee Brewers"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "MLB",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://chatgpt.hereisman.net/playlist/50770/load-playlist?|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "title": "SPORTIFy MLB",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/17 20:35:00 +0000",
+          "eventName": "Pittsburgh Pirates vs Philadelphia Phillies",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/17 17:35:00 +0000",
+          "teamA": "Pittsburgh Pirates",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3637/image",
+          "teamB": "Philadelphia Phillies",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3635/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "SportzX MLB"
+          }
+        ],
+        "id": "460",
+        "image": "o",
+        "publish": "1",
+        "title": "Pittsburgh Pirates vs Phillies"
       }
     ]
   }
