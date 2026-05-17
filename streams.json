@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-17T12:40:24.398984",
+  "last_updated": "2026-05-17T12:50:21.515698",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "06:05:24 PM 17-05-2026",
+    "Last update time": "06:15:25 PM 17-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -2099,84 +2099,6 @@
         "cat": "Serie A 🇮🇹",
         "channels_data": [
           {
-            "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
-            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
-            "logo": "",
-            "title": "beIN ENGLISH FHD",
-            "type": "1"
-          },
-          {
-            "api": "",
-            "link": "https://chatgpt.hereisman.net/playlist/50733/load-playlist?|Referer=https://gooz.aapmains.net",
-            "logo": "",
-            "title": "CBS SPORTS HD",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://livecdn-tc-iptv.rumsport10.live/live_abr/54042/chunks.m3u8?is_vip=false&token=1779099239-Kv4cPTAAP5YTi-2223516ee6861d31f8b0239a4aaf0e07a93fd97b-24ba070b4528a574ff2a1044cf741316",
-            "logo": "",
-            "title": "DAZN SPORTS IT",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://mainstreams.pro/hls/syaLqucEne4k.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-            "logo": "",
-            "title": "DAZN SPORTS HD",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://poklis.rontokakishop.online/premium69/tracks-v1a1/mono.m3u8|Referer=https://donis.jimpenopisonline.online/",
-            "logo": "",
-            "title": "PARAMOUNT+ HD",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/17 12:00:00 +0000",
-          "eventName": "Juventus vs Fiorentina",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/17 10:00:00 +0000",
-          "teamA": "Juventus",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2687/image",
-          "teamB": "Fiorentina",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2693/image"
-        },
-        "formatsNew": [
-          {
-            "logo": "",
-            "title": "beIN ENGLISH FHD"
-          },
-          {
-            "logo": "",
-            "title": "CBS SPORTS HD"
-          },
-          {
-            "logo": "",
-            "title": "DAZN SPORTS IT"
-          },
-          {
-            "logo": "",
-            "title": "DAZN SPORTS HD"
-          },
-          {
-            "logo": "",
-            "title": "PARAMOUNT+ HD"
-          }
-        ],
-        "id": "416",
-        "image": "o",
-        "publish": "1",
-        "title": "Juventus vs Fiorentina"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "Serie A 🇮🇹",
-        "channels_data": [
-          {
             "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
             "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
             "title": "beIN ENGLISH FHD",
@@ -3018,8 +2940,16 @@
           {
             "api": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
             "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
+            "logo": "",
             "title": "SportDigital Fussball",
             "type": "1"
+          },
+          {
+            "api": "",
+            "link": "https://livecdn-bp-iptv.rumsport7.live/live_abr/136437/chunks.m3u8?is_vip=false&token=2223516ee6861d31f8b0239a4aaf0e07a93fd97b&x-sign=9068a96ebcf3b937dda9a06f3f377e55&x-time=1779021540",
+            "logo": "",
+            "title": "SPORTIFy Live",
+            "type": "0"
           }
         ],
         "eventInfo": {
@@ -3037,6 +2967,10 @@
           {
             "logo": "",
             "title": "SportDigital Fussball"
+          },
+          {
+            "logo": "",
+            "title": "SportzX Live"
           }
         ],
         "id": "444",
@@ -3050,7 +2984,15 @@
         "channels_data": [
           {
             "api": "",
+            "link": "https://livecdn-tc-livestream.rumsport10.live/stream/7/chunks.m3u8?is_vip=false&token=1779107912-Kv4cPTAAP5YTi-2223516ee6861d31f8b0239a4aaf0e07a93fd97b-b8bee94926ae97186bb007ab81c7efb3",
+            "logo": "",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          },
+          {
+            "api": "",
             "link": "https://bobis.zaglemplokis.online/premium888/tracks-v1a1/mono.m3u8|Referer=https://donis.jimpenopisonline.online/",
+            "logo": "",
             "title": "ESPN NL HD",
             "type": "0"
           }
@@ -3067,6 +3009,10 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/2953/image"
         },
         "formatsNew": [
+          {
+            "logo": "",
+            "title": "SportzX Live"
+          },
           {
             "logo": "",
             "title": "ESPN NL HD"
