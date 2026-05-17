@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-17T20:20:20.026050",
+  "last_updated": "2026-05-17T20:30:32.673262",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "01:45:25 AM 18-05-2026",
+    "Last update time": "01:55:20 AM 18-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -881,62 +881,6 @@
         "image": "o",
         "publish": "1",
         "title": "IPL - 01"
-      },
-      {
-        "adsLimit": "9",
-        "cat": "ATP",
-        "channels_data": [
-          {
-            "api": "192b1115da041585c77200128549efa1:634e10efe4abbb14be400a3ccbac0258",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/pnu10tp36z/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd",
-            "title": "TNT Sports 4",
-            "type": "1"
-          },
-          {
-            "api": "",
-            "link": "https://cdn16348712.blazingcdn.net/dx14fhd/index.m3u8|Referer=https://yahoo.com/&Origin=https://yahoo.com&User-Agent=AppleCoreMedia/1.0.0.23D5103d (iPhone; U; CPU OS 26_3 like Mac OS X; en_us)",
-            "title": "WILLOW (Ad Free)",
-            "type": "0"
-          },
-          {
-            "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
-            "title": "WILLOW FHD",
-            "type": "1"
-          },
-          {
-            "api": "",
-            "link": "https://crichdplayer.com/willow-cricket-live-stream-2026",
-            "title": "WILLOW SD",
-            "type": "2"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/17 17:00:00 +0000",
-          "eventBanner": "https://sportzxads.pages.dev/ruby.png",
-          "eventName": "ATP Rome Masters Final",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/17 15:00:00 +0000",
-          "teamA": "ATP 1000",
-          "teamAFlag": "https://www.atptour.com/assets/atpwt/images/tournament/badges/categorystamps_1000.png",
-          "teamB": "ATP 1000",
-          "teamBFlag": "https://www.atptour.com/assets/atpwt/images/tournament/badges/categorystamps_1000.png"
-        },
-        "formatsNew": [
-          {
-            "logo": "https://linear-poster.astro.com.my/prod/logo/beINSPORTS2.png",
-            "title": "beIN ENGLISH"
-          },
-          {
-            "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-2-hd-ca.png",
-            "title": "TSN SPORTS"
-          }
-        ],
-        "id": "372",
-        "image": "o",
-        "publish": "1",
-        "title": "ATP Rome Masters"
       },
       {
         "adsLimit": "0",
