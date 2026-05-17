@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-17T13:20:22.360696",
+  "last_updated": "2026-05-17T13:30:38.084049",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "06:45:25 PM 17-05-2026",
+    "Last update time": "06:55:17 PM 17-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -909,9 +909,16 @@
           },
           {
             "api": "",
-            "link": "|referer=https://estraaw.pages.dev/",
+            "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla",
+            "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
+            "title": "SKY CRICKET",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://sunffov.kuvuslov.cymru/fox501.m3u8|Referer=https://estraaw.pages.dev/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
             "logo": "",
-            "title": "HUB SPORTS FHD",
+            "title": "FOX SPORTS HD",
             "type": "0"
           },
           {
@@ -947,8 +954,12 @@
             "title": "NOON SPORTS"
           },
           {
+            "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
+            "title": "SKY CRICKET"
+          },
+          {
             "logo": "",
-            "title": "HUB SPORTS FHD"
+            "title": "FOX SPORTS HD"
           },
           {
             "logo": "",
@@ -1690,8 +1701,16 @@
         "cat": "EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
         "channels_data": [
           {
+            "api": "002278d86ac1b09760ebe7a7253f184a:752f8408b102ae9dbe8969f720592a06",
+            "link": "https://g003-sle-us-cmaf-prd-fy.cdn.peacocktv.com/pck-sle/us-west-2/v1/dash/6f3f45fea6332a47667932dede90d20a96f2690c/peacock-dash-sle-4s-generic-cfd/co01/pcksle2/Content/CMAF_CTR-4s-v2/Live/channel(5021404-723262-491230b783e)/master_2hr.mpd?c3.ri=6a09bfc3_Q1ZYMDc_0_RkFTVExZ_f994b15827ca&aws.sessionId=b91c778d-c25d-4d28-9be6-5f77bf005a7d",
+            "logo": "",
+            "title": "Peacock AQ",
+            "type": "1"
+          },
+          {
             "api": "af95024eda94455e922b90a39a3af93e:852e715ef4064b05b8e1cdee285648b5",
             "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1779070452~acl=%2F*~id=6b7ee9f0-7edd-4c57-bc78-800cff2e09b4~data=hdntl,aXA9NTIuMTYxLjU2LjcwJmV4cD0xNzc4OTg0MDgyJmVpZD05MzkxOTcmb2lkPTE1NCZ0eXBlPVZPRCZ1aWQ9YWRjV1lXfGI2MGFmMjk5LTAzOTEtNGQxZi1hNmQwLWQ4MjQ0ZGZhZjFjOSZjaWQ9ZGNlLmZpc2ZlZCZwdD1udWxs~hmac=7ca2a63f4cd71f4cf3a24c71c8ee747d377a706a625387cf6f8b1d4feb311f1e/dash/live/2093711/219034-321026/manifest-d.mpd",
+            "logo": "",
             "title": "SKY SPORTS FHD",
             "type": "1"
           }
@@ -1710,6 +1729,10 @@
         "formatsNew": [
           {
             "logo": "",
+            "title": "Peacock AQ"
+          },
+          {
+            "logo": "",
             "title": "SKY SPORTS FHD"
           }
         ],
@@ -1723,8 +1746,16 @@
         "cat": "EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
         "channels_data": [
           {
+            "api": "00225eda218f3ca32d35e0cc64b4c33b:6cab410869e63b7696d4ace9013174f4",
+            "link": "https://g003-sle-us-cmaf-prd-cf.cdn.peacocktv.com/pck-sle/us-east-1/v1/dash/6f3f45fea6332a47667932dede90d20a96f2690c/peacock-dash-sle-4s-generic-cfd/co01/pcksle2/Content/CMAF_CTR-4s-v2/Live/channel(5021408-723266-49123488142)/master_2hr.mpd?c3.ri=6a09c138_Q1ZYMDc_0_Q0xPVURGUk9OVA_84782b016c9e&aws.sessionId=0d171c50-160b-4763-b3d0-1b73a6655851",
+            "logo": "",
+            "title": "Peacock AQ",
+            "type": "1"
+          },
+          {
             "api": "e87521b3dfa44ed9ba004012dcb89172:bba9734a9d724531bbab7ef5d64ca1f8",
             "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1779070453~acl=%2F*~id=ac995ce9-4460-4baf-aa98-8964bf914c77~data=hdntl,aXA9NTIuMTYxLjU2LjcwJmV4cD0xNzc4OTg0MDgzJmVpZD05MzU1NDYmb2lkPTE1NCZ0eXBlPVZPRCZ1aWQ9YWRjV1lXfGI2MGFmMjk5LTAzOTEtNGQxZi1hNmQwLWQ4MjQ0ZGZhZjFjOSZjaWQ9ZGNlLmZpc2ZlZCZwdD1udWxs~hmac=f6b8f98b065a74d282a69083cc879a3b075e09696d12209ba9f1048055d753b7/dash/live/2093709/219033-321024/manifest-d.mpd",
+            "logo": "",
             "title": "SKY SPORTS FHD",
             "type": "1"
           }
@@ -1741,6 +1772,10 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/43/image"
         },
         "formatsNew": [
+          {
+            "logo": "",
+            "title": "Peacock AQ"
+          },
           {
             "logo": "",
             "title": "SKY SPORTS FHD"
