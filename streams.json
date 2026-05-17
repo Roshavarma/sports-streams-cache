@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-17T19:10:20.805741",
+  "last_updated": "2026-05-17T19:20:22.827609",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "12:35:20 AM 18-05-2026",
+    "Last update time": "12:45:22 AM 18-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -1145,7 +1145,15 @@
         "channels_data": [
           {
             "api": "",
+            "link": "https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/XDUBOt7yMc7LynpepRJTT50GQIjQEqx19jHwNB8Bo3h8f61Aq4nMFshFoa8ELjnjOdctt1t5A73CyAq2QtcP7Q/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_delta.m3u8?type=live",
+            "logo": "",
+            "title": "THMANYAH FHD",
+            "type": "0"
+          },
+          {
+            "api": "",
             "link": "https://rolis.drompakisdoulesonline.online/premium19/tracks-v1a1/mono.m3u8|Referer=https://donis.jimpenopisonline.online/",
+            "logo": "",
             "title": "THMANYAH HD",
             "type": "0"
           }
@@ -1162,6 +1170,10 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/34315/image"
         },
         "formatsNew": [
+          {
+            "logo": "",
+            "title": "THMANYAH FHD"
+          },
           {
             "logo": "",
             "title": "THMANYAH HD"
@@ -1352,126 +1364,22 @@
           {
             "api": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f",
             "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
-            "logo": "https://play-lh.googleusercontent.com/zG_ZS5v4PfHqWqWLkpVkZB9wRu9MJmEqD4tNpeIYwLOcjU3INQlFeTxoVgwV1R2CbcsI",
+            "logo": "",
             "title": "PREMIER SPORTS",
             "type": "1"
           },
           {
-            "api": "7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe",
-            "link": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
-            "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png",
+            "api": "f5c2b30eac11be1e8cdfc9585f5fe6af:a8198d17bf9b0da77450fbb919a38b2d",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/lzhmuzmjsl/out/v1/c171eeb214c749f2b351c79df317b21e/cenc.mpd",
+            "logo": "",
+            "title": "TSN SPORTS FHD",
+            "type": "1"
+          },
+          {
+            "api": "065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2",
+            "link": "https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
+            "logo": "",
             "title": "FANCODE FHD",
-            "type": "1"
-          },
-          {
-            "api": "f5c2b30eac11be1e8cdfc9585f5fe6af:a8198d17bf9b0da77450fbb919a38b2d",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/lzhmuzmjsl/out/v1/c171eeb214c749f2b351c79df317b21e/cenc.mpd",
-            "logo": "",
-            "title": "TSN SPORTS FHD",
-            "type": "1"
-          },
-          {
-            "api": "620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a",
-            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd",
-            "logo": "",
-            "title": "Laliga TV FHD",
-            "type": "1"
-          },
-          {
-            "api": "",
-            "link": "https://chatgpt.hereisman.net/playlist/50761/load-playlist?|Referer=https://gooz.aapmains.net",
-            "logo": "",
-            "title": "ESPN DEPORTES",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://livecdn-tc-livestream.rumsport10.live/stream/23/chunks.m3u8?is_vip=false&token=1779123171-Kv4cPTAAP5YTi-e3b73f76eb1850f42fc741e7d134e8919c99167f-a3b4f07e2215255056a4b840d7b94a4d",
-            "logo": "",
-            "title": "ESPN LIVE HD",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://live.vivo200.com/live/hd-en-1-4358300.m3u8?txSecret=dca9ffb24a68610b9dfc5880d5cb1904&txTime=6A0A3954|Referer=https://player.online909.com/",
-            "logo": "",
-            "title": "SPORTIFy Live",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/17 19:00:00 +0000",
-          "eventName": "Sevilla vs Real Madrid",
-          "eventType": "null",
-          "isHot": "1",
-          "startTime": "2026/05/17 17:00:00 +0000",
-          "teamA": "Sevilla",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2833/image",
-          "teamB": "Real Madrid",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2829/image"
-        },
-        "formatsNew": [
-          {
-            "logo": "",
-            "title": "beIN ENGLISH FHD"
-          },
-          {
-            "logo": "https://play-lh.googleusercontent.com/zG_ZS5v4PfHqWqWLkpVkZB9wRu9MJmEqD4tNpeIYwLOcjU3INQlFeTxoVgwV1R2CbcsI",
-            "title": "PREMIER SPORTS"
-          },
-          {
-            "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png",
-            "title": "FANCODE FHD"
-          },
-          {
-            "logo": "",
-            "title": "TSN SPORTS FHD"
-          },
-          {
-            "logo": "",
-            "title": "Laliga TV FHD"
-          },
-          {
-            "logo": "",
-            "title": "ESPN DEPORTES"
-          },
-          {
-            "logo": "",
-            "title": "ESPN LIVE HD"
-          },
-          {
-            "logo": "",
-            "title": "SportzX Live"
-          }
-        ],
-        "id": "406",
-        "image": "o",
-        "publish": "1",
-        "title": "Sevilla vs Real Madrid"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "LaLiga 🇪🇸",
-        "channels_data": [
-          {
-            "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
-            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
-            "logo": "",
-            "title": "beIN ENGLISH FHD",
-            "type": "1"
-          },
-          {
-            "api": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f",
-            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
-            "logo": "",
-            "title": "PREMIER SPORTS",
-            "type": "1"
-          },
-          {
-            "api": "f5c2b30eac11be1e8cdfc9585f5fe6af:a8198d17bf9b0da77450fbb919a38b2d",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/lzhmuzmjsl/out/v1/c171eeb214c749f2b351c79df317b21e/cenc.mpd",
-            "logo": "",
-            "title": "TSN SPORTS FHD",
             "type": "1"
           },
           {
@@ -1493,7 +1401,7 @@
           "endTime": "2026/05/17 21:15:00 +0000",
           "eventName": "Barcelona vs Real Betis",
           "eventType": "null",
-          "isHot": "0",
+          "isHot": "1",
           "startTime": "2026/05/17 19:15:00 +0000",
           "teamA": "Barcelona",
           "teamAFlag": "https://img.sofascore.com/api/v1/team/2817/image",
@@ -1515,6 +1423,10 @@
           },
           {
             "logo": "",
+            "title": "FANCODE FHD"
+          },
+          {
+            "logo": "",
             "title": "Laliga TV FHD"
           },
           {
@@ -1526,498 +1438,6 @@
         "image": "o",
         "publish": "1",
         "title": "Barcelona vs Real Betis"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "LaLiga 🇪🇸",
-        "channels_data": [
-          {
-            "api": "",
-            "link": "https://chatgpt.hereisman.net/playlist/50754/load-playlist?|Referer=https://gooz.aapmains.net",
-            "logo": "",
-            "title": "LALIGA TV HD",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1779123412-Kv4cPTAAP5YTi-e3b73f76eb1850f42fc741e7d134e8919c99167f-c76d689c335670f3e3c933699894c25c",
-            "logo": "",
-            "title": "SPY LIVE HD",
-            "type": "0"
-          },
-          {
-            "api": "620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a",
-            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd",
-            "logo": "https://play-lh.googleusercontent.com/zG_ZS5v4PfHqWqWLkpVkZB9wRu9MJmEqD4tNpeIYwLOcjU3INQlFeTxoVgwV1R2CbcsI",
-            "title": "PREMIER SPORTS - SIMULCAST",
-            "type": "1"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/17 19:00:00 +0000",
-          "eventName": "Atlético Madrid vs Girona",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/17 17:00:00 +0000",
-          "teamA": "Atl. Madrid",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2836/image",
-          "teamB": "Girona",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/24264/image"
-        },
-        "formatsNew": [
-          {
-            "logo": "",
-            "title": "LALIGA TV HD"
-          },
-          {
-            "logo": "",
-            "title": "SPX LIVE HD"
-          },
-          {
-            "logo": "https://play-lh.googleusercontent.com/zG_ZS5v4PfHqWqWLkpVkZB9wRu9MJmEqD4tNpeIYwLOcjU3INQlFeTxoVgwV1R2CbcsI",
-            "title": "PREMIER SPORTS - SIMULCAST"
-          }
-        ],
-        "id": "408",
-        "image": "o",
-        "publish": "1",
-        "title": "Atlético Madrid vs Girona"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "LaLiga 🇪🇸",
-        "channels_data": [
-          {
-            "api": "",
-            "link": "https://chatgpt.hereisman.net/playlist/50759/load-playlist?|Referer=https://gooz.aapmains.net",
-            "logo": "",
-            "title": "LALIGA TV HD",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://livecdn-tc-livestream.rumsport10.live/stream/1/chunks.m3u8?is_vip=false&token=1779122021-Kv4cPTAAP5YTi-e3b73f76eb1850f42fc741e7d134e8919c99167f-442269eddb5136dcee87d3922dc83330",
-            "logo": "",
-            "title": "SPY LIVE HD",
-            "type": "0"
-          },
-          {
-            "api": "620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a",
-            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd",
-            "logo": "https://play-lh.googleusercontent.com/zG_ZS5v4PfHqWqWLkpVkZB9wRu9MJmEqD4tNpeIYwLOcjU3INQlFeTxoVgwV1R2CbcsI",
-            "title": "PREMIER SPORTS - SIMULCAST",
-            "type": "1"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/17 19:00:00 +0000",
-          "eventName": "Athletic Club vs Celta Vigo",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/17 17:00:00 +0000",
-          "teamA": "Athletic Club",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2825/image",
-          "teamB": "Celta",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2821/image"
-        },
-        "formatsNew": [
-          {
-            "logo": "",
-            "title": "LALIGA TV HD"
-          },
-          {
-            "logo": "",
-            "title": "SPX LIVE HD"
-          },
-          {
-            "logo": "https://play-lh.googleusercontent.com/zG_ZS5v4PfHqWqWLkpVkZB9wRu9MJmEqD4tNpeIYwLOcjU3INQlFeTxoVgwV1R2CbcsI",
-            "title": "PREMIER SPORTS - SIMULCAST"
-          }
-        ],
-        "id": "409",
-        "image": "o",
-        "publish": "1",
-        "title": "Athletic Club vs Celta Vigo"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "LaLiga 🇪🇸",
-        "channels_data": [
-          {
-            "api": "",
-            "link": "https://chatgpt.hereisman.net/playlist/50756/load-playlist?|Referer=https://gooz.aapmains.net",
-            "logo": "",
-            "title": "LALIGA TV HD",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://livecdn-tc-livestream.rumsport10.live/stream/9/chunks.m3u8?is_vip=false&token=1779123585-Kv4cPTAAP5YTi-e3b73f76eb1850f42fc741e7d134e8919c99167f-0ec4fb9ffa458a00565e6880b216c8f1",
-            "logo": "",
-            "title": "SPY LIVE HD",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://live.vivo200.com/live/hd-en-1-4358282.m3u8?txSecret=354dd6e082baeef3fa168969de2ee4ad&txTime=6A0A39B5|Referer=https://player.online909.com/",
-            "logo": "",
-            "title": "SPORTIFy Live",
-            "type": "0"
-          },
-          {
-            "api": "620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a",
-            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd",
-            "logo": "https://play-lh.googleusercontent.com/zG_ZS5v4PfHqWqWLkpVkZB9wRu9MJmEqD4tNpeIYwLOcjU3INQlFeTxoVgwV1R2CbcsI",
-            "title": "PREMIER SPORTS - SIMULCAST",
-            "type": "1"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/17 19:00:00 +0000",
-          "eventName": "Elche vs Getafe",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/17 17:00:00 +0000",
-          "teamA": "Elche",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2846/image",
-          "teamB": "Getafe",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2859/image"
-        },
-        "formatsNew": [
-          {
-            "logo": "",
-            "title": "LALIGA TV HD"
-          },
-          {
-            "logo": "",
-            "title": "SPX LIVE HD"
-          },
-          {
-            "logo": "",
-            "title": "SportzX Live"
-          },
-          {
-            "logo": "https://play-lh.googleusercontent.com/zG_ZS5v4PfHqWqWLkpVkZB9wRu9MJmEqD4tNpeIYwLOcjU3INQlFeTxoVgwV1R2CbcsI",
-            "title": "PREMIER SPORTS - SIMULCAST"
-          }
-        ],
-        "id": "410",
-        "image": "o",
-        "publish": "1",
-        "title": "Elche vs Getafe"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "LaLiga 🇪🇸",
-        "channels_data": [
-          {
-            "api": "",
-            "link": "https://chatgpt.hereisman.net/playlist/50758/load-playlist?|Referer=https://gooz.aapmains.net",
-            "logo": "",
-            "title": "LALIGA TV HD",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://livecdn-tc-livestream.rumsport10.live/stream/15/chunks.m3u8?is_vip=false&token=1779123739-Kv4cPTAAP5YTi-e3b73f76eb1850f42fc741e7d134e8919c99167f-4d442cc1e3607cf1b97078a367e984b4",
-            "logo": "",
-            "title": "SPY LIVE HD",
-            "type": "0"
-          },
-          {
-            "api": "620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a",
-            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd",
-            "logo": "https://play-lh.googleusercontent.com/zG_ZS5v4PfHqWqWLkpVkZB9wRu9MJmEqD4tNpeIYwLOcjU3INQlFeTxoVgwV1R2CbcsI",
-            "title": "PREMIER SPORTS - SIMULCAST",
-            "type": "1"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/17 19:00:00 +0000",
-          "eventName": "Levante UD vs Mallorca",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/17 17:00:00 +0000",
-          "teamA": "Levante",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2849/image",
-          "teamB": "Mallorca",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2826/image"
-        },
-        "formatsNew": [
-          {
-            "logo": "",
-            "title": "LALIGA TV HD"
-          },
-          {
-            "logo": "",
-            "title": "SPX LIVE HD"
-          },
-          {
-            "logo": "https://play-lh.googleusercontent.com/zG_ZS5v4PfHqWqWLkpVkZB9wRu9MJmEqD4tNpeIYwLOcjU3INQlFeTxoVgwV1R2CbcsI",
-            "title": "PREMIER SPORTS - SIMULCAST"
-          }
-        ],
-        "id": "411",
-        "image": "o",
-        "publish": "1",
-        "title": "Levante UD vs Mallorca"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "LaLiga 🇪🇸",
-        "channels_data": [
-          {
-            "api": "",
-            "link": "https://chatgpt.hereisman.net/playlist/50760/load-playlist?|Referer=https://gooz.aapmains.net",
-            "logo": "",
-            "title": "LALIGA TV HD",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://livecdn-tc-livestream.rumsport10.live/stream/17/chunks.m3u8?is_vip=false&token=1779123824-Kv4cPTAAP5YTi-e3b73f76eb1850f42fc741e7d134e8919c99167f-68d82d6705d166b3133f2f931323eea2",
-            "logo": "",
-            "title": "SPY LIVE HD",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://live.vivo200.com/live/hd-en-1-4358287.m3u8?txSecret=bdc37fcfcc861a9f260309ca856762a9&txTime=6A0A3A52|Referer=https://player.online909.com/",
-            "logo": "",
-            "title": "SPORTIFy Live",
-            "type": "0"
-          },
-          {
-            "api": "620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a",
-            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd",
-            "logo": "https://play-lh.googleusercontent.com/zG_ZS5v4PfHqWqWLkpVkZB9wRu9MJmEqD4tNpeIYwLOcjU3INQlFeTxoVgwV1R2CbcsI",
-            "title": "PREMIER SPORTS - SIMULCAST",
-            "type": "1"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/17 19:00:00 +0000",
-          "eventName": "Osasuna vs Espanyol",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/17 17:00:00 +0000",
-          "teamA": "Osasuna",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2820/image",
-          "teamB": "Espanyol",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2814/image"
-        },
-        "formatsNew": [
-          {
-            "logo": "",
-            "title": "LALIGA TV HD"
-          },
-          {
-            "logo": "",
-            "title": "SPX LIVE HD"
-          },
-          {
-            "logo": "",
-            "title": "SportzX Live"
-          },
-          {
-            "logo": "https://play-lh.googleusercontent.com/zG_ZS5v4PfHqWqWLkpVkZB9wRu9MJmEqD4tNpeIYwLOcjU3INQlFeTxoVgwV1R2CbcsI",
-            "title": "PREMIER SPORTS - SIMULCAST"
-          }
-        ],
-        "id": "412",
-        "image": "o",
-        "publish": "1",
-        "title": "Osasuna vs Espanyol"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "LaLiga 🇪🇸",
-        "channels_data": [
-          {
-            "api": "",
-            "link": "https://chatgpt.hereisman.net/playlist/50757/load-playlist?|Referer=https://gooz.aapmains.net",
-            "logo": "",
-            "title": "LALIGA TV HD",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://livecdn-tc-livestream.rumsport10.live/stream/18/chunks.m3u8?is_vip=false&token=1779123499-Kv4cPTAAP5YTi-e3b73f76eb1850f42fc741e7d134e8919c99167f-a85d5f5e68cdc2b639702a05a13bf370",
-            "logo": "",
-            "title": "SPY LIVE HD",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://live.vivo200.com/live/hd-en-1-4358295.m3u8?txSecret=6a291bd91992f2afcc0ed2cb43d07ace&txTime=6A0A3A2F|Referer=https://player.online909.com/",
-            "logo": "",
-            "title": "SPORTIFy Live",
-            "type": "0"
-          },
-          {
-            "api": "620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a",
-            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd",
-            "logo": "https://play-lh.googleusercontent.com/zG_ZS5v4PfHqWqWLkpVkZB9wRu9MJmEqD4tNpeIYwLOcjU3INQlFeTxoVgwV1R2CbcsI",
-            "title": "PREMIER SPORTS - SIMULCAST",
-            "type": "1"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/17 19:00:00 +0000",
-          "eventName": "Rayo Vallecano vs Villarreal",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/17 17:00:00 +0000",
-          "teamA": "Rayo Vallecano",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2818/image",
-          "teamB": "Villarreal",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2819/image"
-        },
-        "formatsNew": [
-          {
-            "logo": "",
-            "title": "LALIGA TV HD"
-          },
-          {
-            "logo": "",
-            "title": "SPX LIVE HD"
-          },
-          {
-            "logo": "",
-            "title": "SportzX Live"
-          },
-          {
-            "logo": "https://play-lh.googleusercontent.com/zG_ZS5v4PfHqWqWLkpVkZB9wRu9MJmEqD4tNpeIYwLOcjU3INQlFeTxoVgwV1R2CbcsI",
-            "title": "PREMIER SPORTS - SIMULCAST"
-          }
-        ],
-        "id": "413",
-        "image": "o",
-        "publish": "1",
-        "title": "Rayo Vallecano vs Villarreal"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "LaLiga 🇪🇸",
-        "channels_data": [
-          {
-            "api": "",
-            "link": "https://livecdn-tc-livestream.rumsport10.live/stream/6/chunks.m3u8?is_vip=false&token=1779123894-Kv4cPTAAP5YTi-e3b73f76eb1850f42fc741e7d134e8919c99167f-f540b163126b885270753c36d8a4c3b5",
-            "logo": "",
-            "title": "LALIGA TV HD",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://live.vivo200.com/live/hd-en-1-4358292.m3u8?txSecret=b47f06708ec06c094ff6497443722415&txTime=6A0A3982|Referer=https://player.online909.com/",
-            "logo": "",
-            "title": "SPORTIFy Live",
-            "type": "0"
-          },
-          {
-            "api": "620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a",
-            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd",
-            "logo": "https://play-lh.googleusercontent.com/zG_ZS5v4PfHqWqWLkpVkZB9wRu9MJmEqD4tNpeIYwLOcjU3INQlFeTxoVgwV1R2CbcsI",
-            "title": "PREMIER SPORTS - SIMULCAST",
-            "type": "1"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/17 19:00:00 +0000",
-          "eventName": "Real Oviedo vs Deportivo Alavés",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/17 17:00:00 +0000",
-          "teamA": "Real Oviedo",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2851/image",
-          "teamB": "Alavés",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2885/image"
-        },
-        "formatsNew": [
-          {
-            "logo": "",
-            "title": "LALIGA TV HD"
-          },
-          {
-            "logo": "",
-            "title": "SportzX Live"
-          },
-          {
-            "logo": "https://play-lh.googleusercontent.com/zG_ZS5v4PfHqWqWLkpVkZB9wRu9MJmEqD4tNpeIYwLOcjU3INQlFeTxoVgwV1R2CbcsI",
-            "title": "PREMIER SPORTS - SIMULCAST"
-          }
-        ],
-        "id": "414",
-        "image": "o",
-        "publish": "1",
-        "title": "Real Oviedo vs Deportivo"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "LaLiga 🇪🇸",
-        "channels_data": [
-          {
-            "api": "",
-            "link": "https://chatgpt.hereisman.net/playlist/50755/load-playlist?|Referer=https://gooz.aapmains.net",
-            "logo": "",
-            "title": "ESPN LIVE HD",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://livecdn-tc-livestream.rumsport10.live/stream/5/chunks.m3u8?is_vip=false&token=1779123270-Kv4cPTAAP5YTi-e3b73f76eb1850f42fc741e7d134e8919c99167f-d79a795c6ffe1a88ac000efbb369bbaf",
-            "logo": "",
-            "title": "SPY LIVE HD",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://live.vivo200.com/live/hd-en-1-4358297.m3u8?txSecret=4aee52cead1e0bce507c64d285b67617&txTime=6A0A3A00|Referer=https://player.online909.com/",
-            "logo": "",
-            "title": "SPORTIFy Live",
-            "type": "0"
-          },
-          {
-            "api": "620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a",
-            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd",
-            "logo": "https://play-lh.googleusercontent.com/zG_ZS5v4PfHqWqWLkpVkZB9wRu9MJmEqD4tNpeIYwLOcjU3INQlFeTxoVgwV1R2CbcsI",
-            "title": "PREMIER SPORTS - SIMULCAST",
-            "type": "1"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/17 19:00:00 +0000",
-          "eventName": "Real Sociedad vs Valencia",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/17 17:00:00 +0000",
-          "teamA": "Real Sociedad",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2824/image",
-          "teamB": "Valencia",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2828/image"
-        },
-        "formatsNew": [
-          {
-            "logo": "",
-            "title": "ESPN LIVE HD"
-          },
-          {
-            "logo": "",
-            "title": "SPX LIVE HD"
-          },
-          {
-            "logo": "",
-            "title": "SportzX Live"
-          },
-          {
-            "logo": "https://play-lh.googleusercontent.com/zG_ZS5v4PfHqWqWLkpVkZB9wRu9MJmEqD4tNpeIYwLOcjU3INQlFeTxoVgwV1R2CbcsI",
-            "title": "PREMIER SPORTS - SIMULCAST"
-          }
-        ],
-        "id": "415",
-        "image": "o",
-        "publish": "1",
-        "title": "Real Sociedad vs Valencia"
       },
       {
         "adsLimit": "0",
@@ -2185,7 +1605,7 @@
           "endTime": "2026/05/17 21:00:00 +0000",
           "eventName": "Paris FC vs PSG",
           "eventType": "null",
-          "isHot": "0",
+          "isHot": "1",
           "startTime": "2026/05/17 19:00:00 +0000",
           "teamA": "Paris",
           "teamAFlag": "https://img.sofascore.com/api/v1/team/6070/image",
@@ -2378,6 +1798,13 @@
           },
           {
             "api": "",
+            "link": "https://sunffov.kuvuslov.cymru/parisfc-v-psg.m3u8|Referer=https://cxfoot.pages.dev/",
+            "logo": "",
+            "title": "beIN SPORTS FHD",
+            "type": "0"
+          },
+          {
+            "api": "",
             "link": "https://zomis.zempovlantis.online/premium116/tracks-v1a1/mono.m3u8|Referer=https://donis.jimpenopisonline.online/",
             "logo": "",
             "title": "Ligue1+ HD",
@@ -2399,6 +1826,10 @@
           {
             "logo": "",
             "title": "beIN SPORTS HD"
+          },
+          {
+            "logo": "",
+            "title": "beIN SPORTS FHD"
           },
           {
             "logo": "",
