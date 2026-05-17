@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-17T00:40:19.065696",
+  "last_updated": "2026-05-17T00:50:20.996383",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "06:05:18 AM 17-05-2026",
+    "Last update time": "06:15:23 AM 17-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -1131,6 +1131,13 @@
             "logo": "",
             "title": "DAZN PPV FHD",
             "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://bo3.bofiles.cfd/live/davis/stream.m3u8",
+            "logo": "",
+            "title": "SPORTIFy PPV HD",
+            "type": "0"
           }
         ],
         "eventInfo": {
@@ -1152,6 +1159,10 @@
           {
             "logo": "",
             "title": "DAZN PPV FHD"
+          },
+          {
+            "logo": "",
+            "title": "SportzX PPV HD"
           }
         ],
         "id": "370",
