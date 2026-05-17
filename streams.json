@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-16T23:50:23.696990",
+  "last_updated": "2026-05-17T00:00:45.922989",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "05:15:27 AM 17-05-2026",
+    "Last update time": "05:25:15 AM 17-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -376,11 +376,11 @@
           },
           {
             "logo": "",
-            "title": "PARAMOUNT+ AQ"
+            "title": "PARAMOUNT+ HD"
           },
           {
             "logo": "",
-            "title": "PARAMOUNT+ HD"
+            "title": "SportsNET FHD"
           },
           {
             "logo": "",
@@ -1090,11 +1090,19 @@
           },
           {
             "logo": "",
+            "title": "SportzX PPV HD"
+          },
+          {
+            "logo": "",
+            "title": "NETFLIX PPV FHD"
+          },
+          {
+            "logo": "",
             "title": "NETFLIX PPV"
           },
           {
             "logo": "",
-            "title": "SportzX PPV HD"
+            "title": "SportzX Live"
           }
         ],
         "id": "368",
@@ -1109,7 +1117,15 @@
           {
             "api": "",
             "link": "https://chatgpt.hereisman.net/playlist/50679/load-playlist?|Referer=https://gooz.aapmains.net",
+            "logo": "",
             "title": "DAZN PPV HD",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://601.worldplaylist.org/ppv2.m3u8",
+            "logo": "",
+            "title": "DAZN PPV FHD",
             "type": "0"
           }
         ],
@@ -1117,7 +1133,6 @@
           "endTime": "2026/05/17 03:00:00 +0000",
           "eventName": "Keyshawn Davis vs Nahir Albright",
           "eventType": "null",
-          "isHot": "0",
           "startTime": "2026/05/17 00:00:00 +0000",
           "teamA": "K. Davis",
           "teamAFlag": "https://img.sofascore.com/api/v1/team/1076152/image",
@@ -1128,6 +1143,10 @@
           {
             "logo": "",
             "title": "DAZN PPV HD"
+          },
+          {
+            "logo": "",
+            "title": "DAZN PPV FHD"
           }
         ],
         "id": "370",
