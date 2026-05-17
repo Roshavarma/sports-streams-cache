@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-17T20:30:32.673262",
+  "last_updated": "2026-05-17T20:35:30.270750",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "01:55:20 AM 18-05-2026",
+    "Last update time": "02:03:21 AM 18-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -887,10 +887,17 @@
         "cat": "NBA",
         "channels_data": [
           {
+            "api": "c4088f5f265f9de50cffd80bf89308b7:2c4d2239d96d532b4ec2050653611003",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
+            "logo": "",
+            "title": "TSN SPORTS FHD",
+            "type": "1"
+          },
+          {
             "api": "e51aa21f2a0fef9aabc120dfb655b52f:a12a987fe725a40b6be95cd84b15f689",
             "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
             "logo": "",
-            "title": "TSN SPORTS FHD",
+            "title": "TSN SPORTS HD",
             "type": "1"
           },
           {
@@ -923,6 +930,10 @@
           {
             "logo": "",
             "title": "TSN SPORTS FHD"
+          },
+          {
+            "logo": "",
+            "title": "TSN SPORTS HD"
           },
           {
             "logo": "",
