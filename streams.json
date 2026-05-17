@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-17T01:10:22.292002",
+  "last_updated": "2026-05-17T01:20:25.075581",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "06:35:17 AM 17-05-2026",
+    "Last update time": "06:45:25 AM 17-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -1766,49 +1766,6 @@
         "image": "o",
         "publish": "1",
         "title": "Dave Allen"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "Brasileirão",
-        "channels_data": [
-          {
-            "api": "d23f7433798a652a7d4f6791d9e1036c:4942eebd598b5727c5cc484cc62b52e8",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/6onrfniyry/out/v1/f23069c61dbf4e00890a40b705a84079/cenc.mpd",
-            "title": "PREMIERER BR",
-            "type": "1"
-          },
-          {
-            "api": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
-            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
-            "title": "PREMIER SPORTS",
-            "type": "1"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/17 00:00:00 +0000",
-          "eventName": "Fluminense vs São Paulo",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/16 22:00:00 +0000",
-          "teamA": "Fluminense",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/1961/image",
-          "teamB": "São Paulo",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/1981/image"
-        },
-        "formatsNew": [
-          {
-            "logo": "",
-            "title": "PREMIERER BR"
-          },
-          {
-            "logo": "",
-            "title": "PREMIER SPORTS"
-          }
-        ],
-        "id": "438",
-        "image": "o",
-        "publish": "1",
-        "title": "Fluminense vs São Paulo"
       },
       {
         "adsLimit": "0",
