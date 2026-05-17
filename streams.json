@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-17T13:55:33.421844",
+  "last_updated": "2026-05-17T14:00:47.107266",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "07:20:28 PM 17-05-2026",
+    "Last update time": "07:25:18 PM 17-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -887,17 +887,17 @@
         "cat": "Indian Premier League",
         "channels_data": [
           {
+            "api": "8ab6b4ac429bfe070cfdb2a734b0f2e3:61a2198ca92d1c539abd22636fe0bf23",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fbo5ncnbyv/out/v1/ba5ff04083324474800234e8d2eef8d4/cenc.mpd",
+            "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
+            "title": "WILLOW [Ad-Free]",
+            "type": "1"
+          },
+          {
             "api": "708a98b352bd4418a73a028edd84da8f:b1fa5c2bca4c4b57b924b748564532cb",
             "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1779070453~acl=%2F*~id=319ab612-2e20-46d8-844b-27cb156b638c~data=hdntl,aXA9NTIuMTYxLjU2LjcwJmV4cD0xNzc4OTg0MDgzJmVpZD05MzY0MjQmb2lkPTE1NCZ0eXBlPVZPRCZ1aWQ9YWRjV1lXfGI2MGFmMjk5LTAzOTEtNGQxZi1hNmQwLWQ4MjQ0ZGZhZjFjOSZjaWQ9ZGNlLmZpc2ZlZCZwdD1udWxs~hmac=0f528e265590e386ba6fb3983f21449ea43d5fa28aed795503f83643861de1ff/dash/live/2093715/219027-321028/manifest-d.mpd",
             "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
             "title": "SKY SPORTS FHD",
-            "type": "1"
-          },
-          {
-            "api": "33f0135bc99bd90a1356c18086a7f9c0:923c0db66811b455400da2682c903b37",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/pjo2efuu08/out/v1/37c363392c5c4820b1af1056273ab74c/cenc.mpd",
-            "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
-            "title": "WILLOW [Ad-Free]",
             "type": "1"
           },
           {
@@ -942,12 +942,12 @@
         },
         "formatsNew": [
           {
-            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
-            "title": "SKY SPORTS FHD"
-          },
-          {
             "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
             "title": "WILLOW [Ad-Free]"
+          },
+          {
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
+            "title": "SKY SPORTS FHD"
           },
           {
             "logo": "",
@@ -1051,10 +1051,6 @@
           {
             "logo": "",
             "title": "FANCODE [HIN]"
-          },
-          {
-            "logo": "",
-            "title": "FANCODE [TAM]"
           },
           {
             "logo": "",
@@ -1671,7 +1667,7 @@
             "api": "0022b87aca2a5c1911bcfa7d8edf348f:8d95fac4d0f35724059017e0d2046f2d",
             "link": "https://g003-sle-us-cmaf-prd-fy.cdn.peacocktv.com/pck-sle/us-west-2/v1/dash/6f3f45fea6332a47667932dede90d20a96f2690c/peacock-dash-sle-4s-generic-cfd/co01/pcksle2/Content/CMAF_CTR-4s-v2/Live/channel(5021403-723261-49122fc35fd)/master_2hr.mpd?c3.ri=6a09c1e7_Q1ZYMDc_0_RkFTVExZ_0a2fbd32ad19&aws.sessionId=5a64a18b-d3e4-495b-a0c1-19421a0d2956",
             "logo": "",
-            "title": "Peacock FHD AQ",
+            "title": "PEACOCK - AQ [UK]",
             "type": "1"
           },
           {
@@ -1680,6 +1676,13 @@
             "logo": "",
             "title": "SKY SPORTS FHD",
             "type": "1"
+          },
+          {
+            "api": "",
+            "link": "https://chatgpt.hereisman.net/playlist/50741/load-playlist?|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "title": "PEACOCK TV+ HD",
+            "type": "0"
           },
           {
             "api": "",
@@ -1710,11 +1713,15 @@
         "formatsNew": [
           {
             "logo": "",
-            "title": "Peacock FHD AQ"
+            "title": "PEACOCK - AQ [UK]"
           },
           {
             "logo": "",
             "title": "SKY SPORTS FHD"
+          },
+          {
+            "logo": "",
+            "title": "PEACOCK TV+ HD"
           },
           {
             "logo": "",
@@ -1738,7 +1745,7 @@
             "api": "002278d86ac1b09760ebe7a7253f184a:752f8408b102ae9dbe8969f720592a06",
             "link": "https://g003-sle-us-cmaf-prd-fy.cdn.peacocktv.com/pck-sle/us-west-2/v1/dash/6f3f45fea6332a47667932dede90d20a96f2690c/peacock-dash-sle-4s-generic-cfd/co01/pcksle2/Content/CMAF_CTR-4s-v2/Live/channel(5021404-723262-491230b783e)/master_2hr.mpd?c3.ri=6a09bfc3_Q1ZYMDc_0_RkFTVExZ_f994b15827ca&aws.sessionId=b91c778d-c25d-4d28-9be6-5f77bf005a7d",
             "logo": "",
-            "title": "Peacock AQ",
+            "title": "PEACOCK - AQ [UK]",
             "type": "1"
           },
           {
@@ -1747,6 +1754,13 @@
             "logo": "",
             "title": "SKY SPORTS FHD",
             "type": "1"
+          },
+          {
+            "api": "",
+            "link": "https://chatgpt.hereisman.net/playlist/50744/load-playlist?|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "title": "PEACOCK TV+ HD",
+            "type": "0"
           },
           {
             "api": "",
@@ -1777,11 +1791,15 @@
         "formatsNew": [
           {
             "logo": "",
-            "title": "Peacock AQ"
+            "title": "PEACOCK - AQ [UK]"
           },
           {
             "logo": "",
             "title": "SKY SPORTS FHD"
+          },
+          {
+            "logo": "",
+            "title": "PEACOCK TV+ HD"
           },
           {
             "logo": "",
