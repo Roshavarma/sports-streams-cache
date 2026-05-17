@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-17T13:00:50.072124",
+  "last_updated": "2026-05-17T13:10:24.373779",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "06:25:19 PM 17-05-2026",
+    "Last update time": "06:35:23 PM 17-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -3280,6 +3280,12 @@
             "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
             "title": "PREMIER SPORTS",
             "type": "1"
+          },
+          {
+            "api": "",
+            "link": "https://livecdn-tc-iptv.rumsport10.live/live_abr/274860/chunks.m3u8?is_vip=false&token=1779108856-Kv4cPTAAP5YTi-2223516ee6861d31f8b0239a4aaf0e07a93fd97b-f342a2ef062d47dd55e2c1f2d4422ed3",
+            "title": "CBS SPORTS HD",
+            "type": "0"
           }
         ],
         "eventInfo": {
@@ -3301,6 +3307,10 @@
           {
             "logo": "",
             "title": "PREMIER SPORTS"
+          },
+          {
+            "logo": "",
+            "title": "CBS SPORTS HD"
           }
         ],
         "id": "448",
