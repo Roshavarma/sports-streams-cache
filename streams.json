@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-17T14:00:47.107266",
+  "last_updated": "2026-05-17T14:10:26.267271",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "07:25:18 PM 17-05-2026",
+    "Last update time": "07:35:18 PM 17-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -933,7 +933,7 @@
           "endTime": "2026/05/17 17:45:00 +0000",
           "eventName": "Delhi Capitals vs Rajasthan Royals",
           "eventType": "null",
-          "isHot": "0",
+          "isHot": "1",
           "startTime": "2026/05/17 14:00:00 +0000",
           "teamA": "DC",
           "teamAFlag": "https://img.sofascore.com/api/v1/team/187841/image",
@@ -1520,150 +1520,6 @@
         "cat": "EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
         "channels_data": [
           {
-            "api": "dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd",
-            "logo": "",
-            "title": "FUBO SPORTS",
-            "type": "1"
-          },
-          {
-            "api": "7a2758575dc04d63acc3573ab594d441:47071dd80de746a38cdc6a4dcde21abc",
-            "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1779070453~acl=%2F*~id=ac995ce9-4460-4baf-aa98-8964bf914c77~data=hdntl,aXA9NTIuMTYxLjU2LjcwJmV4cD0xNzc4OTg0MDgzJmVpZD05MzU1NDYmb2lkPTE1NCZ0eXBlPVZPRCZ1aWQ9YWRjV1lXfGI2MGFmMjk5LTAzOTEtNGQxZi1hNmQwLWQ4MjQ0ZGZhZjFjOSZjaWQ9ZGNlLmZpc2ZlZCZwdD1udWxs~hmac=f6b8f98b065a74d282a69083cc879a3b075e09696d12209ba9f1048055d753b7/dash/live/2093712/219035-321027/manifest-d.mpd",
-            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
-            "title": "SKY SPORTS FHD",
-            "type": "1"
-          },
-          {
-            "api": "ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1",
-            "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd",
-            "logo": "",
-            "title": "TELEMUNDO FHD",
-            "type": "1"
-          },
-          {
-            "api": "",
-            "link": "https://chatgpt.hereisman.net/playlist/50734/load-playlist?|Referer=https://gooz.aapmains.net",
-            "logo": "",
-            "title": "USA TV HD",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://perjaka.s3.us-east-1.amazonaws.com/btsport.m3u8",
-            "logo": "",
-            "title": "USA TV - AQ",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://livecdn-bp-iptv.rumsport7.live/live_abr/144253/chunks.m3u8?is_vip=false&token=2223516ee6861d31f8b0239a4aaf0e07a93fd97b&x-sign=9e9dcb2f05e0aea2f431fc4eb66e721b&x-time=1779016320",
-            "logo": "",
-            "title": "HUB PREMIER HD",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://livecdn-bp-iptv.rumsport7.live/live_abr/52432/chunks.m3u8?is_vip=false&token=2223516ee6861d31f8b0239a4aaf0e07a93fd97b&x-sign=761dc8bc53b25b67e1c9081ef6969b24&x-time=1779016320",
-            "logo": "",
-            "title": "SKY MAIN EVENT",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://livecdn-tc-livestream.rumsport10.live/stream/20/chunks.m3u8?is_vip=false&token=1779102834-Kv4cPTAAP5YTi-2223516ee6861d31f8b0239a4aaf0e07a93fd97b-91b91db581ad10e12b4591a215bd5208",
-            "logo": "",
-            "title": "STAN SPORTS HD",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://23syrialive.s3.us-east-2.amazonaws.com/bein1/master.m3u8|referer=https://a11.kooora-sia.com/",
-            "logo": "",
-            "title": "beIN ARABIC HD",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/10f794db-a364-43d3-a02c-ff215d0e5f33/master.m3u8",
-            "logo": "",
-            "title": "SportsCast HD",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://live.vivo200.com/live/hd-en-1-4343216.m3u8?txSecret=93adf5b4108a843e95f420bdb3681d04&txTime=6A09F2AA|Referer=https://player.online909.com/",
-            "logo": "",
-            "title": "SPORTIFy Live",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/17 13:30:00 +0000",
-          "eventName": "Manchester United vs Nottingham",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/17 11:30:00 +0000",
-          "teamA": "Man Utd",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/35/image",
-          "teamB": "Forest",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/14/image"
-        },
-        "formatsNew": [
-          {
-            "logo": "",
-            "title": "FUBO SPORTS"
-          },
-          {
-            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
-            "title": "SKY SPORTS FHD"
-          },
-          {
-            "logo": "",
-            "title": "TELEMUNDO FHD"
-          },
-          {
-            "logo": "",
-            "title": "USA TV HD"
-          },
-          {
-            "logo": "",
-            "title": "USA TV - AQ"
-          },
-          {
-            "logo": "",
-            "title": "HUB PREMIER HD"
-          },
-          {
-            "logo": "",
-            "title": "SKY MAIN EVENT"
-          },
-          {
-            "logo": "",
-            "title": "STAN SPORTS HD"
-          },
-          {
-            "logo": "",
-            "title": "beIN ARABIC HD"
-          },
-          {
-            "logo": "",
-            "title": "SportsCast HD"
-          },
-          {
-            "logo": "",
-            "title": "SportzX Live"
-          }
-        ],
-        "id": "400",
-        "image": "o",
-        "publish": "1",
-        "title": "Manchester United vs Nottingham"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-        "channels_data": [
-          {
             "api": "0022b87aca2a5c1911bcfa7d8edf348f:8d95fac4d0f35724059017e0d2046f2d",
             "link": "https://g003-sle-us-cmaf-prd-fy.cdn.peacocktv.com/pck-sle/us-west-2/v1/dash/6f3f45fea6332a47667932dede90d20a96f2690c/peacock-dash-sle-4s-generic-cfd/co01/pcksle2/Content/CMAF_CTR-4s-v2/Live/channel(5021403-723261-49122fc35fd)/master_2hr.mpd?c3.ri=6a09c1e7_Q1ZYMDc_0_RkFTVExZ_0a2fbd32ad19&aws.sessionId=5a64a18b-d3e4-495b-a0c1-19421a0d2956",
             "logo": "",
@@ -1689,6 +1545,20 @@
             "link": "https://livecdn-bp-iptv.rumsport7.live/live_abr/52433/chunks.m3u8?is_vip=false&token=2223516ee6861d31f8b0239a4aaf0e07a93fd97b&x-sign=cab792116aa1cb90d4b43f1ea249e1e7&x-time=1779024960",
             "logo": "",
             "title": "SKY SPORTS HD",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://livecdn-bp-iptv.rumsport7.live/live_abr/144254/chunks.m3u8?is_vip=false&token=2223516ee6861d31f8b0239a4aaf0e07a93fd97b&x-sign=ab8976f3c5205089bed6a05e9b883452&x-time=1779026220",
+            "logo": "",
+            "title": "HUB PREMIER HD",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://livecdn-tc-livestream.rumsport10.live/stream/24/chunks.m3u8?is_vip=false&token=1779112666-Kv4cPTAAP5YTi-2223516ee6861d31f8b0239a4aaf0e07a93fd97b-6ace253cb328b8779427346aad6cd83f",
+            "logo": "",
+            "title": "STAN SPORTS HD",
             "type": "0"
           },
           {
@@ -1726,6 +1596,14 @@
           {
             "logo": "",
             "title": "SKY SPORTS HD"
+          },
+          {
+            "logo": "",
+            "title": "HUB PREMIER HD"
+          },
+          {
+            "logo": "",
+            "title": "STAN SPORTS HD"
           },
           {
             "logo": "",
@@ -1771,6 +1649,20 @@
           },
           {
             "api": "",
+            "link": "https://livecdn-bp-iptv.rumsport7.live/live_abr/144256/chunks.m3u8?is_vip=false&token=2223516ee6861d31f8b0239a4aaf0e07a93fd97b&x-sign=4f7a6d6117eed3aba4dfa406e20a780f&x-time=1779026460",
+            "logo": "",
+            "title": "HUB PREMIER HD",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://livecdn-tc-livestream.rumsport10.live/stream/20/chunks.m3u8?is_vip=false&token=1779112912-Kv4cPTAAP5YTi-2223516ee6861d31f8b0239a4aaf0e07a93fd97b-a68fd3b338acb362bb308aba77a62ea1",
+            "logo": "",
+            "title": "STAN SPORTS HD",
+            "type": "0"
+          },
+          {
+            "api": "",
             "link": "https://live.vivo200.com/live/hd-en-1-4343212.m3u8?txSecret=74d2fec250e86afe2ba092e67a563e71&txTime=6A0A0FB9|Referer=https://player.online909.com/",
             "logo": "",
             "title": "SPORTIFy Live",
@@ -1804,6 +1696,14 @@
           {
             "logo": "",
             "title": "SKY SPORTS HD"
+          },
+          {
+            "logo": "",
+            "title": "HUB PREMIER HD"
+          },
+          {
+            "logo": "",
+            "title": "STAN SPORTS HD"
           },
           {
             "logo": "",
@@ -1842,6 +1742,27 @@
           },
           {
             "api": "",
+            "link": "https://livecdn-bp-iptv.rumsport7.live/live_abr/52436/chunks.m3u8?is_vip=false&token=2223516ee6861d31f8b0239a4aaf0e07a93fd97b&x-sign=946dae19683abc59f3dd31c7f9c86470&x-time=1779026340",
+            "logo": "",
+            "title": "SKY SPORTS+ HD",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://livecdn-bp-iptv.rumsport7.live/live_abr/144257/chunks.m3u8?is_vip=false&token=2223516ee6861d31f8b0239a4aaf0e07a93fd97b&x-sign=a48998b6c93b0ceb68e349c988f7d5b8&x-time=1779026280",
+            "logo": "",
+            "title": "HUB PREMIER HD",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://livecdn-tc-livestream.rumsport10.live/stream/3/chunks.m3u8?is_vip=false&token=1779112809-Kv4cPTAAP5YTi-2223516ee6861d31f8b0239a4aaf0e07a93fd97b-acf66fb875eb5a7ea57e7613fb7a2878",
+            "logo": "",
+            "title": "STAN SPORTS HD",
+            "type": "0"
+          },
+          {
+            "api": "",
             "link": "https://live.vivo200.com/live/hd-en-1-4343221.m3u8?txSecret=5d84839c4252c1e231bc88a30a7f3df3&txTime=6A0A0F3D|Referer=https://player.online909.com/",
             "logo": "",
             "title": "SPORTIFy Live",
@@ -1871,6 +1792,18 @@
           {
             "logo": "",
             "title": "SKY SPORTS HD"
+          },
+          {
+            "logo": "",
+            "title": "SKY SPORTS+ HD"
+          },
+          {
+            "logo": "",
+            "title": "HUB PREMIER HD"
+          },
+          {
+            "logo": "",
+            "title": "STAN SPORTS HD"
           },
           {
             "logo": "",
@@ -3878,6 +3811,7 @@
         ],
         "eventInfo": {
           "endTime": "2026/05/17 16:05:58 +0000",
+          "eventBanner": "https://imageservice.disco.peacocktv.com/uuid/f3c538a9-d9ec-314e-b9cf-11099b93db9b/COVER_TITLE_WIDE/824x464?image-quality=7&image-format=webp&language=eng&proposition=NBCUOTT&version=b0e46d2b-dcc9-3359-a314-c4e288e87a5a",
           "eventName": "EPL GOAL RUSH",
           "eventType": "null",
           "isHot": "1",
