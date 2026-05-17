@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-17T17:00:46.456020",
+  "last_updated": "2026-05-17T17:10:21.291962",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "10:25:30 PM 17-05-2026",
+    "Last update time": "10:35:20 PM 17-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -1557,6 +1557,13 @@
           },
           {
             "api": "",
+            "link": "https://livecdn-tc-livestream.rumsport10.live/stream/23/chunks.m3u8?is_vip=false&token=1779123171-Kv4cPTAAP5YTi-e3b73f76eb1850f42fc741e7d134e8919c99167f-a3b4f07e2215255056a4b840d7b94a4d",
+            "logo": "",
+            "title": "ESPN LIVE HD",
+            "type": "0"
+          },
+          {
+            "api": "",
             "link": "https://live.vivo200.com/live/hd-en-1-4358300.m3u8?txSecret=dca9ffb24a68610b9dfc5880d5cb1904&txTime=6A0A3954|Referer=https://player.online909.com/",
             "logo": "",
             "title": "SPORTIFy Live",
@@ -1594,6 +1601,10 @@
           {
             "logo": "",
             "title": "ESPN DEPORTES"
+          },
+          {
+            "logo": "",
+            "title": "ESPN LIVE HD"
           },
           {
             "logo": "",
@@ -1673,8 +1684,23 @@
         "cat": "LaLiga 🇪🇸",
         "channels_data": [
           {
+            "api": "",
+            "link": "https://chatgpt.hereisman.net/playlist/50754/load-playlist?|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "title": "LALIGA TV HD",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1779123412-Kv4cPTAAP5YTi-e3b73f76eb1850f42fc741e7d134e8919c99167f-c76d689c335670f3e3c933699894c25c",
+            "logo": "",
+            "title": "SPY LIVE HD",
+            "type": "0"
+          },
+          {
             "api": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
             "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
+            "logo": "",
             "title": "PREMIER SPORTS - SIMULCAST",
             "type": "1"
           }
@@ -1691,6 +1717,14 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/24264/image"
         },
         "formatsNew": [
+          {
+            "logo": "",
+            "title": "LALIGA TV HD"
+          },
+          {
+            "logo": "",
+            "title": "SPX LIVE HD"
+          },
           {
             "logo": "",
             "title": "PREMIER SPORTS - SIMULCAST"
@@ -1763,6 +1797,20 @@
         "channels_data": [
           {
             "api": "",
+            "link": "https://chatgpt.hereisman.net/playlist/50756/load-playlist?|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "title": "LALIGA TV HD",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://livecdn-tc-livestream.rumsport10.live/stream/9/chunks.m3u8?is_vip=false&token=1779123585-Kv4cPTAAP5YTi-e3b73f76eb1850f42fc741e7d134e8919c99167f-0ec4fb9ffa458a00565e6880b216c8f1",
+            "logo": "",
+            "title": "SPY LIVE HD",
+            "type": "0"
+          },
+          {
+            "api": "",
             "link": "https://live.vivo200.com/live/hd-en-1-4358282.m3u8?txSecret=354dd6e082baeef3fa168969de2ee4ad&txTime=6A0A39B5|Referer=https://player.online909.com/",
             "logo": "",
             "title": "SPORTIFy Live",
@@ -1790,6 +1838,14 @@
         "formatsNew": [
           {
             "logo": "",
+            "title": "LALIGA TV HD"
+          },
+          {
+            "logo": "",
+            "title": "SPX LIVE HD"
+          },
+          {
+            "logo": "",
             "title": "SportzX Live"
           },
           {
@@ -1807,8 +1863,23 @@
         "cat": "LaLiga 🇪🇸",
         "channels_data": [
           {
+            "api": "",
+            "link": "https://chatgpt.hereisman.net/playlist/50758/load-playlist?|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "title": "LALIGA TV HD",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://livecdn-tc-livestream.rumsport10.live/stream/15/chunks.m3u8?is_vip=false&token=1779123739-Kv4cPTAAP5YTi-e3b73f76eb1850f42fc741e7d134e8919c99167f-4d442cc1e3607cf1b97078a367e984b4",
+            "logo": "",
+            "title": "SPY LIVE HD",
+            "type": "0"
+          },
+          {
             "api": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
             "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
+            "logo": "",
             "title": "PREMIER SPORTS - SIMULCAST",
             "type": "1"
           }
@@ -1827,6 +1898,14 @@
         "formatsNew": [
           {
             "logo": "",
+            "title": "LALIGA TV HD"
+          },
+          {
+            "logo": "",
+            "title": "SPX LIVE HD"
+          },
+          {
+            "logo": "",
             "title": "PREMIER SPORTS - SIMULCAST"
           }
         ],
@@ -1839,6 +1918,20 @@
         "adsLimit": "0",
         "cat": "LaLiga 🇪🇸",
         "channels_data": [
+          {
+            "api": "",
+            "link": "https://chatgpt.hereisman.net/playlist/50760/load-playlist?|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "title": "LALIGA TV HD",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://livecdn-tc-livestream.rumsport10.live/stream/17/chunks.m3u8?is_vip=false&token=1779123824-Kv4cPTAAP5YTi-e3b73f76eb1850f42fc741e7d134e8919c99167f-68d82d6705d166b3133f2f931323eea2",
+            "logo": "",
+            "title": "SPY LIVE HD",
+            "type": "0"
+          },
           {
             "api": "",
             "link": "https://live.vivo200.com/live/hd-en-1-4358287.m3u8?txSecret=bdc37fcfcc861a9f260309ca856762a9&txTime=6A0A3A52|Referer=https://player.online909.com/",
@@ -1868,6 +1961,14 @@
         "formatsNew": [
           {
             "logo": "",
+            "title": "LALIGA TV HD"
+          },
+          {
+            "logo": "",
+            "title": "SPX LIVE HD"
+          },
+          {
+            "logo": "",
             "title": "SportzX Live"
           },
           {
@@ -1884,6 +1985,20 @@
         "adsLimit": "0",
         "cat": "LaLiga 🇪🇸",
         "channels_data": [
+          {
+            "api": "",
+            "link": "https://chatgpt.hereisman.net/playlist/50757/load-playlist?|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "title": "LALIGA TV HD",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://livecdn-tc-livestream.rumsport10.live/stream/18/chunks.m3u8?is_vip=false&token=1779123499-Kv4cPTAAP5YTi-e3b73f76eb1850f42fc741e7d134e8919c99167f-a85d5f5e68cdc2b639702a05a13bf370",
+            "logo": "",
+            "title": "SPY LIVE HD",
+            "type": "0"
+          },
           {
             "api": "",
             "link": "https://live.vivo200.com/live/hd-en-1-4358295.m3u8?txSecret=6a291bd91992f2afcc0ed2cb43d07ace&txTime=6A0A3A2F|Referer=https://player.online909.com/",
@@ -1911,6 +2026,14 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/2819/image"
         },
         "formatsNew": [
+          {
+            "logo": "",
+            "title": "LALIGA TV HD"
+          },
+          {
+            "logo": "",
+            "title": "SPX LIVE HD"
+          },
           {
             "logo": "",
             "title": "SportzX Live"
@@ -1976,6 +2099,20 @@
         "channels_data": [
           {
             "api": "",
+            "link": "https://chatgpt.hereisman.net/playlist/50755/load-playlist?|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "title": "ESPN LIVE HD",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://livecdn-tc-livestream.rumsport10.live/stream/5/chunks.m3u8?is_vip=false&token=1779123270-Kv4cPTAAP5YTi-e3b73f76eb1850f42fc741e7d134e8919c99167f-d79a795c6ffe1a88ac000efbb369bbaf",
+            "logo": "",
+            "title": "SPY LIVE HD",
+            "type": "0"
+          },
+          {
+            "api": "",
             "link": "https://live.vivo200.com/live/hd-en-1-4358297.m3u8?txSecret=4aee52cead1e0bce507c64d285b67617&txTime=6A0A3A00|Referer=https://player.online909.com/",
             "logo": "",
             "title": "SPORTIFy Live",
@@ -2001,6 +2138,14 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/2828/image"
         },
         "formatsNew": [
+          {
+            "logo": "",
+            "title": "ESPN LIVE HD"
+          },
+          {
+            "logo": "",
+            "title": "SPX LIVE HD"
+          },
           {
             "logo": "",
             "title": "SportzX Live"
