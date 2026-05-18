@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-18T02:00:43.533041",
+  "last_updated": "2026-05-18T02:10:23.577474",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "07:25:17 AM 18-05-2026",
+    "Last update time": "07:35:20 AM 18-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -1059,40 +1059,6 @@
         "image": "o",
         "publish": "1",
         "title": "Sparks vs Toronto Tempo"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "MLB",
-        "channels_data": [
-          {
-            "api": "",
-            "link": "https://mainstreams.pro/hls/dzjhkfazbka26.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-            "logo": "",
-            "title": "SPORTIFy Live",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/17 22:10:00 +0000",
-          "eventName": "Colorado Rockies vs Arizona Diamondbacks",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/17 19:10:00 +0000",
-          "teamA": "Rockies",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3628/image",
-          "teamB": "Diamondbacks",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3640/image"
-        },
-        "formatsNew": [
-          {
-            "logo": "",
-            "title": "SportzX Live"
-          }
-        ],
-        "id": "395",
-        "image": "o",
-        "publish": "1",
-        "title": "Arizona Diamondbacks"
       },
       {
         "adsLimit": "0",
