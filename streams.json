@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-18T04:00:49.886732",
+  "last_updated": "2026-05-18T04:10:19.956865",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "09:25:21 AM 18-05-2026",
+    "Last update time": "09:35:22 AM 18-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -256,11 +256,11 @@
           }
         ],
         "eventInfo": {
-          "endTime": "2026/05/17 13:45:00 +0000",
-          "eventName": "MotoGP - Gran Premi de Catalunya",
+          "endTime": "2026/05/29 14:15:00 +0000",
+          "eventName": "MotoGP - Gran Premio d Italia",
           "eventType": "null",
           "isHot": "0",
-          "startTime": "2026/05/17 12:00:00 +0000",
+          "startTime": "2026/05/29 08:45:00 +0000",
           "teamA": "MotoGP",
           "teamAFlag": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8fGgE14VBFQKRIMiWIvOlIwpL6AEobQtL3OkLLu7AzsBPGzeXGHsz5PL0NED5DHlAyKCFhPHoNaFB4Z1csH_vvpU47Pbtslr1za618knr-wojLCDa1hyW40v59Qw_UjMGWLREzicm9ZDl7yMuylyu7xMdMoQG3-XXKLoZafem7lpKqxfKavQu-33Mbck/s1600/mgp.png",
           "teamB": "MotoGP",
@@ -665,8 +665,8 @@
         "cat": "Cricket",
         "channels_data": [
           {
-            "api": "fdd24dd2c6c14126ad7c1ad1066b03dd:08289c6d57d54e8d8dca55e1862afb82",
-            "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1779158076~acl=%2F*~id=b28e7078-fea9-4a63-b26c-2248c25fe5f9~data=hdntl,aXA9NTIuMTU0LjE5LjIyNSZleHA9MTc3OTA3MTcwNiZlaWQ9OTUxODk3Jm9pZD0xNTQmdHlwZT1WT0QmdWlkPXZ1Q1Jtenw0ZWJlNjg1ZC1mZGY0LTQ1YWItODlhOS1kZDVjNzQ3YTQzZjAmY2lkPWRjZS5maXNmZWQmcHQ9bnVsbA~hmac=e7b9dd860786f6b0e8cb1d72ba4d9ef7f1b8e003fbde7f9896d33a9774f71c1c/dash/live/2093722/219032-321033/manifest-d.mpd",
+            "api": "708a98b352bd4418a73a028edd84da8f:b1fa5c2bca4c4b57b924b748564532cb",
+            "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1779158077~acl=%2F*~id=49805124-7de7-433c-b410-bcc0164e59f4~data=hdntl,aXA9NTIuMTU0LjE5LjIyNSZleHA9MTc3OTA3MTcwNyZlaWQ9OTM2NTc2Jm9pZD0xNTQmdHlwZT1WT0QmdWlkPXZ1Q1Jtenw0ZWJlNjg1ZC1mZGY0LTQ1YWItODlhOS1kZDVjNzQ3YTQzZjAmY2lkPWRjZS5maXNmZWQmcHQ9bnVsbA~hmac=335907a80e190b660c61c6c4b158c55ade2bd1e8894bcaa419ae45efa9b22329/dash/live/2093715/219027-321028/manifest-d.mpd",
             "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
             "title": "SKY SPORTS FHD",
             "type": "1"
@@ -810,15 +810,15 @@
           }
         ],
         "eventInfo": {
-          "endTime": "2026/05/17 13:45:00 +0000",
-          "eventName": "Punjab Kings vs Royal Challengers Bengaluru",
+          "endTime": "2026/05/18 18:00:00 +0000",
+          "eventName": "Chennai Super Kings vs Sunrisers Hyderabad",
           "eventType": "null",
           "isHot": "0",
-          "startTime": "2026/05/17 10:00:00 +0000",
-          "teamA": "PBKS",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/187776/image",
-          "teamB": "RCB",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/187843/image"
+          "startTime": "2026/05/18 14:00:00 +0000",
+          "teamA": "CSK",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/187777/image",
+          "teamB": "SRH",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/187844/image"
         },
         "formatsNew": [
           {
@@ -923,6 +923,39 @@
         "image": "o",
         "publish": "1",
         "title": "Arsenal vs Burnley"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "LaLiga 2",
+        "channels_data": [
+          {
+            "api": "d69894c7b729c5d1e85893e5e6cfcb0f:db0d53f871f5d2ef91d3a112c7ec9f30",
+            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/tcninbbnt5/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd",
+            "title": "Laliga Hypermotion ES",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/18 20:30:00 +0000",
+          "eventName": "Leganés vs Huesca",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/18 18:30:00 +0000",
+          "teamA": "Leganés",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2845/image",
+          "teamB": "Huesca",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/24265/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "Laliga Hypermotion ES"
+          }
+        ],
+        "id": "401",
+        "image": "o",
+        "publish": "1",
+        "title": "Leganés vs Huesca"
       }
     ]
   }
