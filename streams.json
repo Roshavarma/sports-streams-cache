@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-18T03:50:22.781899",
+  "last_updated": "2026-05-18T04:00:49.886732",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "09:15:23 AM 18-05-2026",
+    "Last update time": "09:25:21 AM 18-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -665,15 +665,8 @@
         "cat": "Cricket",
         "channels_data": [
           {
-            "api": "8755f03aa6c66ed634fbb4be5d64c702:3e400247db4d63fbe04c8707dd628eac",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/mepsfiqpmn/out/v1/ba56265776fd4f759828634f48be5037/cenc.mpd",
-            "logo": "",
-            "title": "WILLOW [Ad-Free]",
-            "type": "1"
-          },
-          {
             "api": "fdd24dd2c6c14126ad7c1ad1066b03dd:08289c6d57d54e8d8dca55e1862afb82",
-            "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1779070453~acl=%2F*~id=ac995ce9-4460-4baf-aa98-8964bf914c77~data=hdntl,aXA9NTIuMTYxLjU2LjcwJmV4cD0xNzc4OTg0MDgzJmVpZD05MzU1NDYmb2lkPTE1NCZ0eXBlPVZPRCZ1aWQ9YWRjV1lXfGI2MGFmMjk5LTAzOTEtNGQxZi1hNmQwLWQ4MjQ0ZGZhZjFjOSZjaWQ9ZGNlLmZpc2ZlZCZwdD1udWxs~hmac=f6b8f98b065a74d282a69083cc879a3b075e09696d12209ba9f1048055d753b7/dash/live/2093722/219032-321033/manifest-d.mpd",
+            "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1779158076~acl=%2F*~id=b28e7078-fea9-4a63-b26c-2248c25fe5f9~data=hdntl,aXA9NTIuMTU0LjE5LjIyNSZleHA9MTc3OTA3MTcwNiZlaWQ9OTUxODk3Jm9pZD0xNTQmdHlwZT1WT0QmdWlkPXZ1Q1Jtenw0ZWJlNjg1ZC1mZGY0LTQ1YWItODlhOS1kZDVjNzQ3YTQzZjAmY2lkPWRjZS5maXNmZWQmcHQ9bnVsbA~hmac=e7b9dd860786f6b0e8cb1d72ba4d9ef7f1b8e003fbde7f9896d33a9774f71c1c/dash/live/2093722/219032-321033/manifest-d.mpd",
             "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
             "title": "SKY SPORTS FHD",
             "type": "1"
@@ -712,10 +705,6 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/187754/image"
         },
         "formatsNew": [
-          {
-            "logo": "",
-            "title": "WILLOW [Ad-Free]"
-          },
           {
             "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
             "title": "SKY SPORTS FHD"
@@ -884,346 +873,56 @@
       },
       {
         "adsLimit": "0",
-        "cat": "NBA",
+        "cat": "EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
         "channels_data": [
           {
-            "api": "c4088f5f265f9de50cffd80bf89308b7:2c4d2239d96d532b4ec2050653611003",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
-            "logo": "",
-            "title": "TSN SPORTS FHD",
+            "api": "dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd",
+            "title": "FUBO SPORTS - AQ",
             "type": "1"
           },
           {
-            "api": "e51aa21f2a0fef9aabc120dfb655b52f:a12a987fe725a40b6be95cd84b15f689",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
-            "logo": "",
-            "title": "TSN SPORTS HD",
+            "api": "7a2758575dc04d63acc3573ab594d441:47071dd80de746a38cdc6a4dcde21abc",
+            "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1779158076~acl=%2F*~id=341cec7b-33c8-4f73-b865-d9643441454b~data=hdntl,aXA9NTIuMTU0LjE5LjIyNSZleHA9MTc3OTA3MTcwNSZlaWQ9OTM5OTYzJm9pZD0xNTQmdHlwZT1WT0QmdWlkPXZ1Q1Jtenw0ZWJlNjg1ZC1mZGY0LTQ1YWItODlhOS1kZDVjNzQ3YTQzZjAmY2lkPWRjZS5maXNmZWQmcHQ9bnVsbA~hmac=625598d228a5556533ef83cc177d554ecc8bd6f48507c930be4c58d510fe5687/dash/live/2093712/219035-321027/manifest-d.mpd",
+            "title": "SKY SPORTS FHD",
             "type": "1"
           },
           {
-            "api": "",
-            "link": "https://mainstreams.pro/hls/mlkijfezag65.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
-            "logo": "",
-            "title": "SPORTIFy Live",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://instreams.pro/US/NBA1/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
-            "logo": "",
-            "title": "HD SERVER",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/18 03:00:00 +0000",
-          "eventName": "Detroit Pistons vs Cleveland Cavaliers",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/18 00:00:00 +0000",
-          "teamA": "Pistons",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3424/image",
-          "teamB": "Cavaliers",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3432/image"
-        },
-        "formatsNew": [
-          {
-            "logo": "",
-            "title": "TSN SPORTS FHD"
-          },
-          {
-            "logo": "",
-            "title": "TSN SPORTS HD"
-          },
-          {
-            "logo": "",
-            "title": "SportzX Live"
-          },
-          {
-            "logo": "",
-            "title": "HD SERVER"
-          }
-        ],
-        "id": "373",
-        "image": "o",
-        "publish": "1",
-        "title": "Cleveland Cavaliers"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "WNBA",
-        "channels_data": [
-          {
-            "api": "",
-            "link": "https://chatgpt.hereisman.net/playlist/50799/load-playlist?|Referer=https://gooz.aapmains.net",
-            "logo": "",
-            "title": "SPORTIFy WNBA",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://mainstreams.pro/hls/ztyarueaghj71.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
-            "logo": "",
-            "title": "SPORTIFy Live",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/18 00:30:00 +0000",
-          "eventName": "Indiana Fever vs Seattle Storm",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/17 22:00:00 +0000",
-          "teamA": "Fever",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3452/image",
-          "teamB": "Storm",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3448/image"
-        },
-        "formatsNew": [
-          {
-            "logo": "",
-            "title": "SportzX WNBA"
-          },
-          {
-            "logo": "",
-            "title": "SportzX Live"
-          }
-        ],
-        "id": "378",
-        "image": "o",
-        "publish": "1",
-        "title": "Indiana Fever vs Seattle Storm"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "WNBA",
-        "channels_data": [
-          {
-            "api": "",
-            "link": "https://mainstreams.pro/hls/pllmazjkdzajh72.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
-            "title": "SPORTIFy Live",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/18 01:30:00 +0000",
-          "eventName": "Minnesota Lynx vs Chicago Sky",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/17 23:00:00 +0000",
-          "teamA": "Lynx",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3440/image",
-          "teamB": "Chicago",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/35546/image"
-        },
-        "formatsNew": [
-          {
-            "logo": "",
-            "title": "SportzX Live"
-          }
-        ],
-        "id": "379",
-        "image": "o",
-        "publish": "1",
-        "title": "Minnesota Lynx vs Chicago Sky"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "WNBA",
-        "channels_data": [
-          {
-            "api": "",
-            "link": "https://mainstreams.pro/hls/fdgsqdfawa73.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
-            "title": "SPORTIFy Live",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/18 01:30:00 +0000",
-          "eventName": "Los Angeles Sparks vs Toronto Tempo",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/17 23:00:00 +0000",
-          "teamA": "Sparks",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3447/image",
-          "teamB": "Tempo",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/1166445/image"
-        },
-        "formatsNew": [
-          {
-            "logo": "",
-            "title": "SportzX Live"
-          }
-        ],
-        "id": "380",
-        "image": "o",
-        "publish": "1",
-        "title": "Sparks vs Toronto Tempo"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "MLB",
-        "channels_data": [
-          {
-            "api": "",
-            "link": "https://mainstreams.pro/hls/hfzljfahzcax29.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-            "title": "SPORTIFy Live",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/18 02:20:00 +0000",
-          "eventName": "Seattle Mariners vs San Diego Padres",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/17 23:20:00 +0000",
-          "teamA": "Mariners",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3641/image",
-          "teamB": "Padres",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3636/image"
-        },
-        "formatsNew": [
-          {
-            "logo": "",
-            "title": "SportzX Live"
-          }
-        ],
-        "id": "399",
-        "image": "o",
-        "publish": "1",
-        "title": "Seattle Mariners"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "Liga MX",
-        "channels_data": [
-          {
-            "api": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
-            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
-            "title": "CBS NETWORK",
+            "api": "96b67fa09140329a89b7a1ead134eda3:c618d32c56cdc6cad8330eb98507ca3f",
+            "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-east)/master.mpd",
+            "title": "NBC UNIVERSO",
             "type": "1"
-          },
-          {
-            "api": "",
-            "link": "https://rolis.drompakisdoulesonline.online/premium935/tracks-v1a1/mono.m3u8|Referer=https://donis.jimpenopisonline.online/",
-            "title": "TUDN MX HD",
-            "type": "0"
           }
         ],
         "eventInfo": {
-          "endTime": "2026/05/18 03:00:00 +0000",
-          "eventName": "Pumas UNAM vs CF Pachuca",
+          "endTime": "2026/05/18 21:00:00 +0000",
+          "eventName": "Arsenal vs Burnley",
           "eventType": "null",
           "isHot": "0",
-          "startTime": "2026/05/18 01:00:00 +0000",
-          "teamA": "Pumas",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/1933/image",
-          "teamB": "Pachuca",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/1936/image"
+          "startTime": "2026/05/18 19:00:00 +0000",
+          "teamA": "Arsenal",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/42/image",
+          "teamB": "Burnley",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/6/image"
         },
         "formatsNew": [
           {
             "logo": "",
-            "title": "CBS NETWORK"
+            "title": "FUBO SPORTS - AQ"
           },
           {
             "logo": "",
-            "title": "TUDN MX HD"
+            "title": "SKY SPORTS FHD"
+          },
+          {
+            "logo": "",
+            "title": "NBC UNIVERSO"
           }
         ],
         "id": "400",
         "image": "o",
         "publish": "1",
-        "title": "Pumas UNAM vs CF Pachuca"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "LaLiga 🇪🇸",
-        "channels_data": [
-          {
-            "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
-            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
-            "logo": "",
-            "title": "beIN ENGLISH FHD",
-            "type": "1"
-          },
-          {
-            "api": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f",
-            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
-            "logo": "https://play-lh.googleusercontent.com/zG_ZS5v4PfHqWqWLkpVkZB9wRu9MJmEqD4tNpeIYwLOcjU3INQlFeTxoVgwV1R2CbcsI",
-            "title": "PREMIER SPORTS",
-            "type": "1"
-          },
-          {
-            "api": "f5c2b30eac11be1e8cdfc9585f5fe6af:a8198d17bf9b0da77450fbb919a38b2d",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/lzhmuzmjsl/out/v1/c171eeb214c749f2b351c79df317b21e/cenc.mpd",
-            "logo": "",
-            "title": "TSN SPORTS FHD",
-            "type": "1"
-          },
-          {
-            "api": "065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2",
-            "link": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
-            "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png",
-            "title": "FANCODE FHD",
-            "type": "1"
-          },
-          {
-            "api": "620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a",
-            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd",
-            "logo": "",
-            "title": "Laliga TV FHD",
-            "type": "1"
-          },
-          {
-            "api": "",
-            "link": "https://livecdn-tc-livestream.rumsport10.live/stream/15/chunks.m3u8?is_vip=false&token=1779130988-Kv4cPTAAP5YTi-e3b73f76eb1850f42fc741e7d134e8919c99167f-eae00ff634b891588d360ba1556afd06",
-            "logo": "",
-            "title": "SPY LIVE HD",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/17 21:15:00 +0000",
-          "eventName": "Barcelona vs Real Betis",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/17 19:15:00 +0000",
-          "teamA": "Barcelona",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2817/image",
-          "teamB": "Real Betis",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2816/image"
-        },
-        "formatsNew": [
-          {
-            "logo": "",
-            "title": "beIN ENGLISH FHD"
-          },
-          {
-            "logo": "https://play-lh.googleusercontent.com/zG_ZS5v4PfHqWqWLkpVkZB9wRu9MJmEqD4tNpeIYwLOcjU3INQlFeTxoVgwV1R2CbcsI",
-            "title": "PREMIER SPORTS"
-          },
-          {
-            "logo": "",
-            "title": "TSN SPORTS FHD"
-          },
-          {
-            "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png",
-            "title": "FANCODE FHD"
-          },
-          {
-            "logo": "",
-            "title": "Laliga TV FHD"
-          },
-          {
-            "logo": "",
-            "title": "SPX LIVE HD"
-          }
-        ],
-        "id": "407",
-        "image": "o",
-        "publish": "1",
-        "title": "Barcelona vs Real Betis"
+        "title": "Arsenal vs Burnley"
       }
     ]
   }
