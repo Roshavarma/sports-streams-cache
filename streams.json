@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-18T04:10:19.956865",
+  "last_updated": "2026-05-18T04:20:20.624889",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "09:35:22 AM 18-05-2026",
+    "Last update time": "09:45:23 AM 18-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -691,6 +691,27 @@
             "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png",
             "title": "FANCODE - SD",
             "type": "1"
+          },
+          {
+            "api": "",
+            "link": "https://cdn16lhr.tamashaweb.com:8087/jazzauth/PAKvsBANTS-2026-ABR/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS84LzIwMjYgMzo1OTowMCBBTSZoYXNoX3ZhbHVlPUlBd1BtNCtKZmZQd1FvY3BhdU9LOEE9PSZ2YWxpZG1pbnV0ZXM9NjA%3D",
+            "logo": "",
+            "title": "TAPMAD [BD]",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://bd-mc-fblive.fancode.com/mumbai/142161_english_hls_e85dce235974353_1ta-di_h264/index.m3u8",
+            "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png",
+            "title": "FANCODE [BD]",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://mprod-cdn.toffeelive.com/live/bdvsnz26/index.m3u8|cookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20:Expires=1779035383:KeyName=prod_live_events:Signature=Kr38dsw0IGXIXhtxxMxkUXhl9FzcqFvi3Lw_j7JqClJ6qJsyk2O2TfK9KOYiP2sfkvsHbIQguB3XlLQ0Gro4DQ",
+            "logo": "",
+            "title": "TOFFEE [BD]",
+            "type": "0"
           }
         ],
         "eventInfo": {
@@ -720,6 +741,18 @@
           {
             "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png",
             "title": "FANCODE - SD"
+          },
+          {
+            "logo": "",
+            "title": "TAPMAD [BD]"
+          },
+          {
+            "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png",
+            "title": "FANCODE [BD]"
+          },
+          {
+            "logo": "",
+            "title": "TOFFEE [BD]"
           }
         ],
         "id": "355",
