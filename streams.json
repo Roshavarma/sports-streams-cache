@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-18T14:00:53.467338",
+  "last_updated": "2026-05-18T14:10:27.905447",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "07:25:29 PM 18-05-2026",
+    "Last update time": "07:35:26 PM 18-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -783,10 +783,17 @@
             "type": "1"
           },
           {
-            "api": "2e2636daa74141b68cc14882ea3ff82b:0961f48287324adbb4b7ff3c1d8\u0012b3c9",
-            "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1779070452~acl=%2F*~id=6b7ee9f0-7edd-4c57-bc78-800cff2e09b4~data=hdntl,aXA9NTIuMTYxLjU2LjcwJmV4cD0xNzc4OTg0MDgyJmVpZD05MzkxOTcmb2lkPTE1NCZ0eXBlPVZPRCZ1aWQ9YWRjV1lXfGI2MGFmMjk5LTAzOTEtNGQxZi1hNmQwLWQ4MjQ0ZGZhZjFjOSZjaWQ9ZGNlLmZpc2ZlZCZwdD1udWxs~hmac=7ca2a63f4cd71f4cf3a24c71c8ee747d377a706a625387cf6f8b1d4feb311f1e/dash/live/2093717/219028-321030/manifest-d.mpd",
+            "api": "aefc2c8d1c8840f1b6981f856c9269ba:cf8ea114c45b4d6596b27482x8aB74d6",
+            "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1779183829~acl=%2F*~id=53b856a2-54ac-440a-8abf-b3e51eb12450~data=hdntl,aXA9NTIuMTkwLjE0MC4xMzMmZXhwPTE3NzkwOTc0NTkmZWlkPTkzNTYyMyZvaWQ9MTU0JnR5cGU9Vk9EJnVpZD1hZGNXWVd8YjYwYWYyOTktMDM5MS00ZDFmLWE2ZDAtZDgyNDRkZmFmMWM5JmNpZD1kY2UuZmlzZmVkJnB0PW51bGw~hmac=d59b3c0ef2ee7d07113ebb9935f72016bcade0b771049f24269b570d70c40fc7/dash/live/2093710/219026-321025/manifest-d.mpd",
             "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
             "title": "SKY SPORTS FHD",
+            "type": "1"
+          },
+          {
+            "api": "4d346b1d1ae64d4a800409cffa14983e:208c972bd2da4359ac94e694wfe\u001378b6",
+            "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1779183827~acl=%2F*~id=7ac1263d-ecfc-4ece-a992-5a240cae1b39~data=hdntl,aXA9NTIuMTkwLjE0MC4xMzMmZXhwPTE3NzkwOTc0NTcmZWlkPTkzNjA5OCZvaWQ9MTU0JnR5cGU9Vk9EJnVpZD1hZGNXWVd8YjYwYWYyOTktMDM5MS00ZDFmLWE2ZDAtZDgyNDRkZmFmMWM5JmNpZD1kY2UuZmlzZmVkJnB0PW51bGw~hmac=40dded8521658eabd3f48b423ce3f1397f5b0c8b81f67973e719df3bb65feab7/dash/live/2093666/294921-318514/manifest-d.mpd",
+            "logo": "",
+            "title": "SKY SPORTS 4k",
             "type": "1"
           },
           {
@@ -872,6 +879,10 @@
           {
             "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
             "title": "SKY SPORTS FHD"
+          },
+          {
+            "logo": "",
+            "title": "SKY SPORTS 4k"
           },
           {
             "logo": "",
