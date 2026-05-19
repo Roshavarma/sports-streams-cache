@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-19T02:50:23.985823",
+  "last_updated": "2026-05-19T03:00:52.030881",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "08:15:23 AM 19-05-2026",
+    "Last update time": "08:25:18 AM 19-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -1226,10 +1226,11 @@
         "cat": "EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
         "channels_data": [
           {
-            "api": "d69894c7b729c5d1e85893e5e6cfcb0f:db0d53f871f5d2ef91d3a112c7ec9f30",
-            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/tcninbbnt5/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd",
-            "title": "Laliga Hypermotion ES",
-            "type": "1"
+            "api": "",
+            "link": "https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=bCY_j9Yll_25zjoE6y1Fqg&e=2079158010&scheme=https",
+            "logo": "",
+            "title": "SKY SPORTS PL",
+            "type": "0"
           }
         ],
         "eventInfo": {
@@ -1246,7 +1247,7 @@
         "formatsNew": [
           {
             "logo": "",
-            "title": "Laliga Hypermotion ES"
+            "title": "SKY SPORTS PL"
           }
         ],
         "id": "401",
