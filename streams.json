@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-19T12:50:27.816988",
+  "last_updated": "2026-05-19T13:00:53.277351",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "06:15:27 PM 19-05-2026",
+    "Last update time": "06:25:22 PM 19-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -940,6 +940,73 @@
         "image": "o",
         "publish": "1",
         "title": "IPL - 01"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "NBA",
+        "channels_data": [
+          {
+            "api": "c4088f5f265f9de50cffd80bf89308b7:2c4d2239d96d532b4ec2050653611003",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
+            "logo": "",
+            "title": "TSN SPORTS FHD",
+            "type": "1"
+          },
+          {
+            "api": "",
+            "link": "https://chatgpt.hereisman.net/playlist/50835/load-playlist?|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "title": "SPORTIFy NBA",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://mainstreams.pro/hls/mlkijfezag65.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+            "logo": "",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://instreams.pro/US/NBA1/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
+            "logo": "",
+            "title": "HD SERVER",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/20 03:00:00 +0000",
+          "eventName": "New York Knicks vs Cleveland Cavaliers",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/20 00:00:00 +0000",
+          "teamA": "Knicks",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3421/image",
+          "teamB": "Cavaliers",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3432/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "TSN SPORTS FHD"
+          },
+          {
+            "logo": "",
+            "title": "SportzX NBA"
+          },
+          {
+            "logo": "",
+            "title": "SportzX Live"
+          },
+          {
+            "logo": "",
+            "title": "HD SERVER"
+          }
+        ],
+        "id": "373",
+        "image": "o",
+        "publish": "1",
+        "title": "Cleveland Cavaliers"
       },
       {
         "adsLimit": "0",
