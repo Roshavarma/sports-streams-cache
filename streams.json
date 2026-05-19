@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-19T17:20:26.024655",
+  "last_updated": "2026-05-19T17:30:37.950287",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "10:45:33 PM 19-05-2026",
+    "Last update time": "10:55:21 PM 19-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -1641,11 +1641,11 @@
         "cat": "IIHF World",
         "channels_data": [
           {
-            "api": "",
-            "link": "https://fallback-video.ivan-flux.workers.dev/video/index.m3u8",
+            "api": "c4088f5f265f9de50cffd80bf89308b7:2c4d2239d96d532b4ec2050653611003",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
             "logo": "",
-            "title": "Default",
-            "type": "0"
+            "title": "TSN SPORTS FHD",
+            "type": "1"
           }
         ],
         "eventInfo": {
@@ -1662,7 +1662,7 @@
         "formatsNew": [
           {
             "logo": "",
-            "title": "Default"
+            "title": "TSN SPORTS FHD"
           }
         ],
         "id": "412",
@@ -1675,11 +1675,11 @@
         "cat": "IIHF World",
         "channels_data": [
           {
-            "api": "",
-            "link": "https://fallback-video.ivan-flux.workers.dev/video/index.m3u8",
+            "api": "e51aa21f2a0fef9aabc120dfb655b52f:a12a987fe725a40b6be95cd84b15f689",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
             "logo": "",
-            "title": "Default",
-            "type": "0"
+            "title": "TSN SPORTS FHD",
+            "type": "1"
           }
         ],
         "eventInfo": {
@@ -1696,7 +1696,7 @@
         "formatsNew": [
           {
             "logo": "",
-            "title": "Default"
+            "title": "TSN SPORTS FHD"
           }
         ],
         "id": "413",
