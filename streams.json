@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-19T16:30:39.773507",
+  "last_updated": "2026-05-19T16:40:26.873884",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "09:55:25 PM 19-05-2026",
+    "Last update time": "10:08:47 PM 19-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -1119,6 +1119,171 @@
         "image": "o",
         "publish": "1",
         "title": "Chelsea vs Tottenham Hotspur"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "MLB",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://mainstreams.pro/hls/dazhfiach15.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/19 23:10:00 +0000",
+          "eventName": "Miami Marlins vs Atlanta Braves",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/19 20:10:00 +0000",
+          "teamA": "Marlins",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3639/image",
+          "teamB": "Braves",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3656/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "SportzX Live"
+          }
+        ],
+        "id": "402",
+        "image": "o",
+        "publish": "1",
+        "title": "Miami Marlins vs Atlanta Braves"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "MLB",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://mainstreams.pro/hls/Czajafjihafch18.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/20 01:40:00 +0000",
+          "eventName": "Detroit Tigers vs Guardians",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/19 22:40:00 +0000",
+          "teamA": "Tigers",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3648/image",
+          "teamB": "Guardians",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3650/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "SportzX Live"
+          }
+        ],
+        "id": "403",
+        "image": "o",
+        "publish": "1",
+        "title": "Detroit Tigers vs Guardians"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "MLB",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://mainstreams.pro/hls/ihfazugfyjcazich17.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/20 01:40:00 +0000",
+          "eventName": "Phillies vs Cincinnati Reds",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/19 22:40:00 +0000",
+          "teamA": "Phillies",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3635/image",
+          "teamB": "Reds",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3633/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "SportzX Live"
+          }
+        ],
+        "id": "404",
+        "image": "o",
+        "publish": "1",
+        "title": "Phillies vs Cincinnati Reds"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "MLB",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://mainstreams.pro/hls/16yuitzaerghbhc16.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/20 01:40:00 +0000",
+          "eventName": "Rays vs Baltimore Orioles",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/19 22:40:00 +0000",
+          "teamA": "Rays",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3653/image",
+          "teamB": "Orioles",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3652/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "SportzX Live"
+          }
+        ],
+        "id": "405",
+        "image": "o",
+        "publish": "1",
+        "title": "Rays vs Baltimore Orioles"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "MLB",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://mainstreams.pro/hls/bzagLHzach19.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/20 01:45:00 +0000",
+          "eventName": "Nationals vs New York Mets",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/19 22:45:00 +0000",
+          "teamA": "Nationals",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/5930/image",
+          "teamB": "Mets",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3629/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "SportzX Live"
+          }
+        ],
+        "id": "406",
+        "image": "o",
+        "publish": "1",
+        "title": "Nationals vs New York Mets"
       }
     ]
   }
