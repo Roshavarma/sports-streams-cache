@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-19T18:20:23.515047",
+  "last_updated": "2026-05-19T18:30:40.675392",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "11:45:35 PM 19-05-2026",
+    "Last update time": "11:57:17 PM 19-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -1243,6 +1243,27 @@
             "logo": "",
             "title": "USA TV HD",
             "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://livecdn-bp-iptv.rumsport7.live/live_abr/144253/chunks.m3u8?is_vip=false&token=c4e813fd8940d2eda6336e1f984933bdac831262&x-sign=863c8f3876243e07b3eceb336e00a02f&x-time=1779214920",
+            "logo": "",
+            "title": "HUB PREMIER HD",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://livecdn-tc-livestream.rumsport10.live/stream/23/chunks.m3u8?is_vip=false&token=1779301297-Kv4cPTAAP5YTi-c4e813fd8940d2eda6336e1f984933bdac831262-06d7e0684453e1cb53741ce05a3ea70e",
+            "logo": "",
+            "title": "STAN SPORTS HD",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://play.ltwxsc.com/live/hd-en-6MuT7JwWZRxR14W1EW.m3u8?txSecret=1e959115a7052af4863985749252ac41&txTime=6A0CD47C",
+            "logo": "",
+            "title": "FAST SERVER",
+            "type": "0"
           }
         ],
         "eventInfo": {
@@ -1276,6 +1297,18 @@
           {
             "logo": "",
             "title": "USA TV HD"
+          },
+          {
+            "logo": "",
+            "title": "HUB PREMIER HD"
+          },
+          {
+            "logo": "",
+            "title": "STAN SPORTS HD"
+          },
+          {
+            "logo": "",
+            "title": "FAST SERVER"
           }
         ],
         "id": "400",
@@ -1287,6 +1320,13 @@
         "adsLimit": "0",
         "cat": "EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
         "channels_data": [
+          {
+            "api": "af95024eda94455e922b90a39a3af93e:852e715ef4064b05b8e1cdee285648b5",
+            "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1779288067~acl=%2F*~id=bc0df595-e886-4891-a3fa-62c9b7c5f5d8~data=hdntl,aXA9NTguNjkuMjA0LjYzJmV4cD0xNzc5MjAxNjk0JmVpZD05Mzk1MjYmb2lkPTE1NCZ0eXBlPVZPRCZ1aWQ9UHBrTHB6fGY0YWJjOWU1LTMwNDItNDkwNC1hZTU5LWEwOTNiOWQ0NmJhZSZjaWQ9ZGNlLmZpc2ZlZCZwdD1udWxs~hmac=9b7d41eeb4c51ee475487c96ec7f1c3905aef1fb993c2950ec0674d85493f0dc/dash/live/2093711/219034-321026/manifest-d.mpd",
+            "logo": "",
+            "title": "SKY SPORTS FHD",
+            "type": "1"
+          },
           {
             "api": "",
             "link": "https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=bCY_j9Yll_25zjoE6y1Fqg&e=2079158010&scheme=https",
@@ -1307,6 +1347,10 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/33/image"
         },
         "formatsNew": [
+          {
+            "logo": "",
+            "title": "SKY SPORTS FHD"
+          },
           {
             "logo": "",
             "title": "SKY SPORTS PL"
