@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-19T02:20:20.591569",
+  "last_updated": "2026-05-19T02:30:35.026438",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "07:45:29 AM 19-05-2026",
+    "Last update time": "07:55:20 AM 19-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -479,7 +479,7 @@
             "api": "",
             "link": "https://chatgpt.hereisman.net/playlist/50812/load-playlist?|Referer=https://gooz.aapmains.net",
             "logo": "",
-            "title": "SPORTIFy HD",
+            "title": "SPORTIFy WWE",
             "type": "0"
           },
           {
@@ -525,7 +525,7 @@
         "formatsNew": [
           {
             "logo": "",
-            "title": "SportzX HD"
+            "title": "SportzX WWE"
           },
           {
             "logo": "",
@@ -953,11 +953,11 @@
             "type": "1"
           },
           {
-            "api": "e51aa21f2a0fef9aabc120dfb655b52f:a12a987fe725a40b6be95cd84b15f689",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
+            "api": "",
+            "link": "https://chatgpt.hereisman.net/playlist/50835/load-playlist?|Referer=https://gooz.aapmains.net",
             "logo": "",
-            "title": "TSN SPORTS HD",
-            "type": "1"
+            "title": "SPORTIFy NBA",
+            "type": "0"
           },
           {
             "api": "",
@@ -992,7 +992,7 @@
           },
           {
             "logo": "",
-            "title": "TSN SPORTS HD"
+            "title": "SportzX NBA"
           },
           {
             "logo": "",
@@ -1007,51 +1007,6 @@
         "image": "o",
         "publish": "1",
         "title": "Oklahoma City Thunder"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "WNBA",
-        "channels_data": [
-          {
-            "api": "",
-            "link": "https://chatgpt.hereisman.net/playlist/50765/load-playlist?|Referer=https://gooz.aapmains.net",
-            "logo": "",
-            "title": "SPORTIFy WNBA",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://mainstreams.pro/hls/bvnsqdfvgha70.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
-            "logo": "",
-            "title": "SPORTIFy Live",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/19 02:30:00 +0000",
-          "eventName": "Dallas Wings vs Washington Mystics",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/19 00:00:00 +0000",
-          "teamA": "Wings",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3450/image",
-          "teamB": "Mystics",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3454/image"
-        },
-        "formatsNew": [
-          {
-            "logo": "",
-            "title": "SportzX WNBA"
-          },
-          {
-            "logo": "",
-            "title": "SportzX Live"
-          }
-        ],
-        "id": "377",
-        "image": "o",
-        "publish": "1",
-        "title": "Dallas Wings vs Washington Mystics"
       },
       {
         "adsLimit": "0",
