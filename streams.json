@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-19T03:50:22.675002",
+  "last_updated": "2026-05-19T04:00:46.160596",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "09:15:25 AM 19-05-2026",
+    "Last update time": "09:25:16 AM 19-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -943,73 +943,6 @@
       },
       {
         "adsLimit": "0",
-        "cat": "NBA",
-        "channels_data": [
-          {
-            "api": "c4088f5f265f9de50cffd80bf89308b7:2c4d2239d96d532b4ec2050653611003",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
-            "logo": "",
-            "title": "TSN SPORTS FHD",
-            "type": "1"
-          },
-          {
-            "api": "",
-            "link": "https://chatgpt.hereisman.net/playlist/50835/load-playlist?|Referer=https://gooz.aapmains.net",
-            "logo": "",
-            "title": "SPORTIFy NBA",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://mainstreams.pro/hls/mlkijfezag65.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
-            "logo": "",
-            "title": "SPORTIFy Live",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://instreams.pro/US/NBA1/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
-            "logo": "",
-            "title": "HD SERVER",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/19 03:30:00 +0000",
-          "eventName": "Oklahoma City Thunder vs San Antonio Spurs",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/19 00:30:00 +0000",
-          "teamA": "Thunder",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3418/image",
-          "teamB": "Spurs",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3429/image"
-        },
-        "formatsNew": [
-          {
-            "logo": "",
-            "title": "TSN SPORTS FHD"
-          },
-          {
-            "logo": "",
-            "title": "SportzX NBA"
-          },
-          {
-            "logo": "",
-            "title": "SportzX Live"
-          },
-          {
-            "logo": "",
-            "title": "HD SERVER"
-          }
-        ],
-        "id": "373",
-        "image": "o",
-        "publish": "1",
-        "title": "Oklahoma City Thunder"
-      },
-      {
-        "adsLimit": "0",
         "cat": "WNBA",
         "channels_data": [
           {
@@ -1052,39 +985,6 @@
         "image": "o",
         "publish": "1",
         "title": "Portland Fire vs Connecticut Sun"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "MLB",
-        "channels_data": [
-          {
-            "api": "",
-            "link": "https://mainstreams.pro/hls/fskjanach24.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-            "title": "SPORTIFy Live",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/19 03:40:00 +0000",
-          "eventName": "Colorado Rockies vs Texas Rangers",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/19 00:40:00 +0000",
-          "teamA": "Rockies",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3628/image",
-          "teamB": "Rangers",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3647/image"
-        },
-        "formatsNew": [
-          {
-            "logo": "",
-            "title": "SportzX Live"
-          }
-        ],
-        "id": "394",
-        "image": "o",
-        "publish": "1",
-        "title": "Colorado Rockies"
       },
       {
         "adsLimit": "0",
@@ -1254,138 +1154,6 @@
         "image": "o",
         "publish": "1",
         "title": "Chelsea vs Tottenham Hotspur"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "MLB",
-        "channels_data": [
-          {
-            "api": "",
-            "link": "https://mainstreams.pro/hls/bzagLHzach19.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-            "title": "SPORTIFy Live",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/19 01:45:00 +0000",
-          "eventName": "Nationals vs New York Mets",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/18 22:45:00 +0000",
-          "teamA": "Nationals",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/5930/image",
-          "teamB": "Mets",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3629/image"
-        },
-        "formatsNew": [
-          {
-            "logo": "",
-            "title": "SportzX Live"
-          }
-        ],
-        "id": "406",
-        "image": "o",
-        "publish": "1",
-        "title": "Nationals vs New York Mets"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "MLB",
-        "channels_data": [
-          {
-            "api": "",
-            "link": "https://mainstreams.pro/hls/jkzahzadach20.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-            "title": "SPORTIFy Live",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/19 02:05:00 +0000",
-          "eventName": "Yankees vs Blue Jays",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/18 23:05:00 +0000",
-          "teamA": "Yankees",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3654/image",
-          "teamB": "Blue Jays",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3642/image"
-        },
-        "formatsNew": [
-          {
-            "logo": "",
-            "title": "SportzX Live"
-          }
-        ],
-        "id": "407",
-        "image": "o",
-        "publish": "1",
-        "title": "Yankees vs Blue Jays"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "MLB",
-        "channels_data": [
-          {
-            "api": "",
-            "link": "https://mainstreams.pro/hls/jnzkdzjfanch23.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-            "title": "SPORTIFy Live",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/19 02:40:00 +0000",
-          "eventName": "Chicago Cubs vs Milwaukee Brewers",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/18 23:40:00 +0000",
-          "teamA": "Cubs",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3627/image",
-          "teamB": "Brewers",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3630/image"
-        },
-        "formatsNew": [
-          {
-            "logo": "",
-            "title": "SportzX Live"
-          }
-        ],
-        "id": "408",
-        "image": "o",
-        "publish": "1",
-        "title": "Chicago Cubs vs Milwaukee Brewers"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "MLB",
-        "channels_data": [
-          {
-            "api": "",
-            "link": "https://mainstreams.pro/hls/ojzkajnach21.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-            "title": "SPORTIFy Live",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/19 02:40:00 +0000",
-          "eventName": "Royals vs Boston Red Sox",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/18 23:40:00 +0000",
-          "teamA": "Royals",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3651/image",
-          "teamB": "Red Sox",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3646/image"
-        },
-        "formatsNew": [
-          {
-            "logo": "",
-            "title": "SportzX Live"
-          }
-        ],
-        "id": "409",
-        "image": "o",
-        "publish": "1",
-        "title": "Royals vs Boston Red Sox"
       },
       {
         "adsLimit": "0",
