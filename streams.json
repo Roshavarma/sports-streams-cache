@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-19T07:50:32.195863",
+  "last_updated": "2026-05-19T08:00:51.228344",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "01:20:24 PM 19-05-2026",
+    "Last update time": "01:30:49 PM 19-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -680,6 +680,13 @@
         "cat": "Cricket",
         "channels_data": [
           {
+            "api": "a3f18ff86cc7d6197d18f17abb1c7bfb:b6d462d09bbac4f3eda79022f5b4b5d7",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/encwsncgxp4c5/out/v1/f1d290b91fa642a7a63913e24211ca09/cenc.mpd",
+            "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
+            "title": "Willow FHD",
+            "type": "1"
+          },
+          {
             "api": "708a98b352bd4418a73a028edd84da8f:b1fa5c2bca4c4b57b924b748564532cb",
             "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1779183829~acl=%2F*~id=53b856a2-54ac-440a-8abf-b3e51eb12450~data=hdntl,aXA9NTIuMTkwLjE0MC4xMzMmZXhwPTE3NzkwOTc0NTkmZWlkPTkzNTYyMyZvaWQ9MTU0JnR5cGU9Vk9EJnVpZD1hZGNXWVd8YjYwYWYyOTktMDM5MS00ZDFmLWE2ZDAtZDgyNDRkZmFmMWM5JmNpZD1kY2UuZmlzZmVkJnB0PW51bGw~hmac=d59b3c0ef2ee7d07113ebb9935f72016bcade0b771049f24269b570d70c40fc7/dash/live/2093715/219027-321028/manifest-d.mpd",
             "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
@@ -741,6 +748,10 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/187754/image"
         },
         "formatsNew": [
+          {
+            "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
+            "title": "Willow FHD"
+          },
           {
             "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
             "title": "SKY SPORTS FHD"
