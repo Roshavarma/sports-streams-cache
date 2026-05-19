@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-19T13:30:38.267927",
+  "last_updated": "2026-05-19T13:40:31.020915",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "06:55:21 PM 19-05-2026",
+    "Last update time": "07:05:26 PM 19-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -791,17 +791,17 @@
         "cat": "Indian Premier League",
         "channels_data": [
           {
+            "api": "aefc2c8d1c8840f1b6981f856c9269ba:cf8ea114c45b4d6596b27482x8aB74d6",
+            "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1779271497~acl=%2F*~id=b8790135-d763-4c78-8f1d-4c332b17589e~data=hdntl,aXA9MTIzLjI1My40OS44NiZleHA9MTc3OTE4NTEyNSZlaWQ9OTM2MDY5Jm9pZD0xNTQmdHlwZT1WT0QmdWlkPUhuRDROTnw5MDJlMTQ1Ny1mZGQ1LTQyMjQtYmRlYi0zNTM5MGY5YWRkNTkmY2lkPWRjZS5maXNmZWQmcHQ9bnVsbA~hmac=b2a7349feef05686a26f3e2935bfe42505558bf5a273d3487d5c29e7ba4fe5c5/dash/live/2093710/219026-321025/manifest-d.mpd",
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
+            "title": "SKY SPORTS FHD",
+            "type": "1"
+          },
+          {
             "api": "8989ef2e334dacc8b77de15f31152701:180dc5513532d500bac88137t5a\u00195b48",
             "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/axzzkdukfy/out/v1/3ae01320c1cb4853bd48e575e3699b3e/cenc.mpd",
             "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
             "title": "WILLOW [Ad-Free]",
-            "type": "1"
-          },
-          {
-            "api": "aefc2c8d1c8840f1b6981f856c9269ba:cf8ea114c45b4d6596b27482x8aB74d6",
-            "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1779183829~acl=%2F*~id=53b856a2-54ac-440a-8abf-b3e51eb12450~data=hdntl,aXA9NTIuMTkwLjE0MC4xMzMmZXhwPTE3NzkwOTc0NTkmZWlkPTkzNTYyMyZvaWQ9MTU0JnR5cGU9Vk9EJnVpZD1hZGNXWVd8YjYwYWYyOTktMDM5MS00ZDFmLWE2ZDAtZDgyNDRkZmFmMWM5JmNpZD1kY2UuZmlzZmVkJnB0PW51bGw~hmac=d59b3c0ef2ee7d07113ebb9935f72016bcade0b771049f24269b570d70c40fc7/dash/live/2093710/219026-321025/manifest-d.mpd",
-            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
-            "title": "SKY SPORTS FHD",
             "type": "1"
           },
           {
@@ -813,7 +813,7 @@
           },
           {
             "api": "4d346b1d1ae64d4a800409cffa14983e:208c972bd2da4359ac94e694wfe\u001378b6",
-            "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1779183827~acl=%2F*~id=7ac1263d-ecfc-4ece-a992-5a240cae1b39~data=hdntl,aXA9NTIuMTkwLjE0MC4xMzMmZXhwPTE3NzkwOTc0NTcmZWlkPTkzNjA5OCZvaWQ9MTU0JnR5cGU9Vk9EJnVpZD1hZGNXWVd8YjYwYWYyOTktMDM5MS00ZDFmLWE2ZDAtZDgyNDRkZmFmMWM5JmNpZD1kY2UuZmlzZmVkJnB0PW51bGw~hmac=40dded8521658eabd3f48b423ce3f1397f5b0c8b81f67973e719df3bb65feab7/dash/live/2093666/294921-318514/manifest-d.mpd",
+            "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1779271497~acl=%2F*~id=b8790135-d763-4c78-8f1d-4c332b17589e~data=hdntl,aXA9MTIzLjI1My40OS44NiZleHA9MTc3OTE4NTEyNSZlaWQ9OTM2MDY5Jm9pZD0xNTQmdHlwZT1WT0QmdWlkPUhuRDROTnw5MDJlMTQ1Ny1mZGQ1LTQyMjQtYmRlYi0zNTM5MGY5YWRkNTkmY2lkPWRjZS5maXNmZWQmcHQ9bnVsbA~hmac=b2a7349feef05686a26f3e2935bfe42505558bf5a273d3487d5c29e7ba4fe5c5/dash/live/2093666/294921-318514/manifest-d.mpd",
             "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
             "title": "SKY SPORTS 4k",
             "type": "1"
@@ -888,12 +888,12 @@
         },
         "formatsNew": [
           {
-            "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
-            "title": "WILLOW [Ad-Free]"
-          },
-          {
             "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
             "title": "SKY SPORTS FHD"
+          },
+          {
+            "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
+            "title": "WILLOW [Ad-Free]"
           },
           {
             "logo": "",
