@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-19T04:30:34.699646",
+  "last_updated": "2026-05-19T04:40:21.613739",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "09:55:19 AM 19-05-2026",
+    "Last update time": "10:05:20 AM 19-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -943,119 +943,6 @@
       },
       {
         "adsLimit": "0",
-        "cat": "WNBA",
-        "channels_data": [
-          {
-            "api": "",
-            "link": "https://chatgpt.hereisman.net/playlist/50799/load-playlist?|Referer=https://gooz.aapmains.net",
-            "logo": "",
-            "title": "SPORTIFy WNBA",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://mainstreams.pro/hls/ztyarueaghj71.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
-            "logo": "",
-            "title": "SPORTIFy Live",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/19 04:30:00 +0000",
-          "eventName": "Portland Fire vs Connecticut Sun",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/19 02:00:00 +0000",
-          "teamA": "Fire",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/1166446/image",
-          "teamB": "Connecticut",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/35547/image"
-        },
-        "formatsNew": [
-          {
-            "logo": "",
-            "title": "SportzX WNBA"
-          },
-          {
-            "logo": "",
-            "title": "SportzX Live"
-          }
-        ],
-        "id": "378",
-        "image": "o",
-        "publish": "1",
-        "title": "Portland Fire vs Connecticut Sun"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "MLB",
-        "channels_data": [
-          {
-            "api": "",
-            "link": "https://mainstreams.pro/hls/hefbafbakx28.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-            "logo": "",
-            "title": "SPORTIFy Live",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/19 04:40:00 +0000",
-          "eventName": "Arizona Diamondbacks vs Giants",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/19 01:40:00 +0000",
-          "teamA": "Diamondbacks",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3640/image",
-          "teamB": "Giants",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3634/image"
-        },
-        "formatsNew": [
-          {
-            "logo": "",
-            "title": "SportzX Live"
-          }
-        ],
-        "id": "395",
-        "image": "o",
-        "publish": "1",
-        "title": "Arizona Diamondbacks"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "MLB",
-        "channels_data": [
-          {
-            "api": "",
-            "link": "https://mainstreams.pro/hls/kjhfzua25.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-            "logo": "",
-            "title": "SPORTIFy Live",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/19 04:38:00 +0000",
-          "eventName": "Los Angeles Angels vs Athletics",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/19 01:38:00 +0000",
-          "teamA": "Angels",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/5929/image",
-          "teamB": "Athletics",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3645/image"
-        },
-        "formatsNew": [
-          {
-            "logo": "",
-            "title": "SportzX Live"
-          }
-        ],
-        "id": "397",
-        "image": "o",
-        "publish": "1",
-        "title": "Athletics"
-      },
-      {
-        "adsLimit": "0",
         "cat": "EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
         "channels_data": [
           {
@@ -1154,39 +1041,6 @@
         "image": "o",
         "publish": "1",
         "title": "Chelsea vs Tottenham Hotspur"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "MLB",
-        "channels_data": [
-          {
-            "api": "",
-            "link": "https://mainstreams.pro/hls/ijfnakfidch22.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-            "title": "SPORTIFy Live",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/19 02:40:00 +0000",
-          "eventName": "Minnesota Twins vs Houston Astros",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/18 23:40:00 +0000",
-          "teamA": "Twins",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3649/image",
-          "teamB": "Astros",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3655/image"
-        },
-        "formatsNew": [
-          {
-            "logo": "",
-            "title": "SportzX Live"
-          }
-        ],
-        "id": "410",
-        "image": "o",
-        "publish": "1",
-        "title": "Minnesota Twins vs Houston Astros"
       }
     ]
   }
