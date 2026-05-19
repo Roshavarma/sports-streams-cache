@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-19T19:10:29.198910",
+  "last_updated": "2026-05-19T19:20:28.124072",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "12:35:24 AM 20-05-2026",
+    "Last update time": "12:45:28 AM 20-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -957,14 +957,30 @@
         "cat": "NBA",
         "channels_data": [
           {
+            "api": "e51aa21f2a0fef9aabc120dfb655b52f:a12a987fe725a40b6be95cd84b15f689",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
+            "logo": "",
+            "title": "TSN SPORTS FHD",
+            "type": "1"
+          },
+          {
+            "api": "e853333da2c9196ea11374634231bc45:de2e2dbe818d78dfad07d6cd9a4c63d4",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/jkcljgqbx8/out/v1/63bfa701559340f3a2a2cb1fccd24807/cenc.mpd",
+            "logo": "",
+            "title": "TSN SPORTS HD",
+            "type": "1"
+          },
+          {
             "api": "",
             "link": "https://mainstreams.pro/hls/mlkijfezag65.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+            "logo": "",
             "title": "SPORTIFy Live",
             "type": "0"
           },
           {
             "api": "",
             "link": "https://instreams.pro/US/NBA1/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
+            "logo": "",
             "title": "HD SERVER",
             "type": "0"
           }
@@ -981,6 +997,14 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/3432/image"
         },
         "formatsNew": [
+          {
+            "logo": "",
+            "title": "TSN SPORTS FHD"
+          },
+          {
+            "logo": "",
+            "title": "TSN SPORTS HD"
+          },
           {
             "logo": "",
             "title": "SportzX Live"
@@ -1387,6 +1411,14 @@
           {
             "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
             "title": "SKY SPORTS PL"
+          },
+          {
+            "logo": "",
+            "title": "STAN SPORTS HD"
+          },
+          {
+            "logo": "",
+            "title": "FAST SERVER"
           }
         ],
         "id": "401",
@@ -1399,8 +1431,16 @@
         "cat": "MLB",
         "channels_data": [
           {
+            "api": "294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd",
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10",
+            "title": "TNT SPORTS FHD",
+            "type": "1"
+          },
+          {
             "api": "",
             "link": "https://mainstreams.pro/hls/dazhfiach15.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+            "logo": "",
             "title": "SPORTIFy Live",
             "type": "0"
           }
@@ -1417,6 +1457,10 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/3656/image"
         },
         "formatsNew": [
+          {
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10",
+            "title": "TNT SPORTS FHD"
+          },
           {
             "logo": "",
             "title": "SportzX Live"
@@ -1564,8 +1608,16 @@
         "cat": "MLB",
         "channels_data": [
           {
+            "api": "f288380ca4cef9ad3f27a92a08e9bb8b:9f18d26291d9230833501f7f822f6875",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd",
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10",
+            "title": "TNT SPORTS FHD",
+            "type": "1"
+          },
+          {
             "api": "",
             "link": "https://mainstreams.pro/hls/jkzahzadach20.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+            "logo": "",
             "title": "SPORTIFy Live",
             "type": "0"
           }
@@ -1582,6 +1634,10 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/3642/image"
         },
         "formatsNew": [
+          {
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10",
+            "title": "TNT SPORTS FHD"
+          },
           {
             "logo": "",
             "title": "SportzX Live"
