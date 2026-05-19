@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-19T17:10:25.838335",
+  "last_updated": "2026-05-19T17:20:26.024655",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "10:35:22 PM 19-05-2026",
+    "Last update time": "10:45:33 PM 19-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -1635,6 +1635,74 @@
         "image": "o",
         "publish": "1",
         "title": "Cardinals vs Pittsburgh Pirates"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "IIHF World",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://fallback-video.ivan-flux.workers.dev/video/index.m3u8",
+            "logo": "",
+            "title": "Default",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/19 20:40:00 +0000",
+          "eventName": "Hungary vs Great Britain",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/19 18:20:00 +0000",
+          "teamA": "Hungary",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/7053/image",
+          "teamB": "Great Britain",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/7118/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "Default"
+          }
+        ],
+        "id": "412",
+        "image": "o",
+        "publish": "1",
+        "title": "Hungary vs Great Britain"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "IIHF World",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://fallback-video.ivan-flux.workers.dev/video/index.m3u8",
+            "logo": "",
+            "title": "Default",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/19 20:40:00 +0000",
+          "eventName": "Slovenia vs Slovakia",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/19 18:20:00 +0000",
+          "teamA": "Slovenia",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/5914/image",
+          "teamB": "Slovakia",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/5736/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "Default"
+          }
+        ],
+        "id": "413",
+        "image": "o",
+        "publish": "1",
+        "title": "Slovenia vs Slovakia"
       }
     ]
   }
