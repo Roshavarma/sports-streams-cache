@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-19T02:10:23.790088",
+  "last_updated": "2026-05-19T02:20:20.591569",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "07:35:17 AM 19-05-2026",
+    "Last update time": "07:45:29 AM 19-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -469,7 +469,7 @@
         "id": "327",
         "image": "o",
         "publish": "1",
-        "title": "ONE Friday Fights 130"
+        "title": "ONE Friday Fights"
       },
       {
         "adsLimit": "0",
@@ -876,15 +876,15 @@
           }
         ],
         "eventInfo": {
-          "endTime": "2026/05/18 18:00:00 +0000",
-          "eventName": "Chennai Super Kings vs Sunrisers Hyderabad",
+          "endTime": "2026/05/19 18:00:00 +0000",
+          "eventName": "Rajasthan Royals vs Lucknow Super Giants",
           "eventType": "null",
           "isHot": "0",
-          "startTime": "2026/05/18 14:00:00 +0000",
-          "teamA": "CSK",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/187777/image",
-          "teamB": "SRH",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/187844/image"
+          "startTime": "2026/05/19 14:00:00 +0000",
+          "teamA": "RR",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/187842/image",
+          "teamB": "LSG",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/410010/image"
         },
         "formatsNew": [
           {
@@ -1296,15 +1296,15 @@
           }
         ],
         "eventInfo": {
-          "endTime": "2026/05/18 21:00:00 +0000",
-          "eventName": "Arsenal vs Burnley",
+          "endTime": "2026/05/19 20:35:00 +0000",
+          "eventName": "Bournemouth vs Manchester City",
           "eventType": "null",
           "isHot": "0",
-          "startTime": "2026/05/18 19:00:00 +0000",
-          "teamA": "Arsenal",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/42/image",
-          "teamB": "Burnley",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/6/image"
+          "startTime": "2026/05/19 18:30:00 +0000",
+          "teamA": "Bournemouth",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/60/image",
+          "teamB": "Man City",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/17/image"
         },
         "formatsNew": [
           {
@@ -1363,11 +1363,11 @@
         "id": "400",
         "image": "o",
         "publish": "1",
-        "title": "Arsenal vs Burnley"
+        "title": "Bournemouth vs Manchester City"
       },
       {
         "adsLimit": "0",
-        "cat": "LaLiga 2",
+        "cat": "EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
         "channels_data": [
           {
             "api": "d69894c7b729c5d1e85893e5e6cfcb0f:db0d53f871f5d2ef91d3a112c7ec9f30",
@@ -1377,15 +1377,15 @@
           }
         ],
         "eventInfo": {
-          "endTime": "2026/05/18 20:30:00 +0000",
-          "eventName": "Leganés vs Huesca",
+          "endTime": "2026/05/19 21:20:00 +0000",
+          "eventName": "Chelsea vs Tottenham Hotspur",
           "eventType": "null",
           "isHot": "0",
-          "startTime": "2026/05/18 18:30:00 +0000",
-          "teamA": "Leganés",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2845/image",
-          "teamB": "Huesca",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/24265/image"
+          "startTime": "2026/05/19 19:15:00 +0000",
+          "teamA": "Chelsea",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/38/image",
+          "teamB": "Tottenham",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/33/image"
         },
         "formatsNew": [
           {
@@ -1396,7 +1396,7 @@
         "id": "401",
         "image": "o",
         "publish": "1",
-        "title": "Leganés vs Huesca"
+        "title": "Chelsea vs Tottenham Hotspur"
       },
       {
         "adsLimit": "0",
