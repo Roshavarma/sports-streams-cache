@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-19T18:10:25.054133",
+  "last_updated": "2026-05-19T18:20:23.515047",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "11:35:26 PM 19-05-2026",
+    "Last update time": "11:45:35 PM 19-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -1218,7 +1218,7 @@
           },
           {
             "api": "7a2758575dc04d63acc3573ab594d441:47071dd80de746a38cdc6a4dcde21abc",
-            "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1779183829~acl=%2f*~id=53b856a2-54ac-440a-8abf-b3e51eb12450~data=hdntl,aXA9NTIuMTkwLjE0MC4xMzMmZXhwPTE3NzkwOTc0NTkmZWlkPTkzNTYyMyZvaWQ9MTU0JnR5cGU9Vk9EJnVpZD1hZGNXWVd8YjYwYWYyOTktMDM5MS00ZDFmLWE2ZDAtZDgyNDRkZmFmMWM5JmNpZD1kY2UuZmlzZmVkJnB0PW51bGw~hmac=d59b3c0ef2ee7d07113ebb9935f72016bcade0b771049f24269b570d70c40fc7/dash/live/2093712/219035-321027/manifest-d.mpd",
+            "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1779288067~acl=%2F*~id=bc0df595-e886-4891-a3fa-62c9b7c5f5d8~data=hdntl,aXA9NTguNjkuMjA0LjYzJmV4cD0xNzc5MjAxNjk0JmVpZD05Mzk1MjYmb2lkPTE1NCZ0eXBlPVZPRCZ1aWQ9UHBrTHB6fGY0YWJjOWU1LTMwNDItNDkwNC1hZTU5LWEwOTNiOWQ0NmJhZSZjaWQ9ZGNlLmZpc2ZlZCZwdD1udWxs~hmac=9b7d41eeb4c51ee475487c96ec7f1c3905aef1fb993c2950ec0674d85493f0dc/dash/live/2093712/219035-321027/manifest-d.mpd",
             "logo": "",
             "title": "SKY SPORTS FHD",
             "type": "1"
@@ -1236,6 +1236,13 @@
             "logo": "",
             "title": "SKY SPORTS DE",
             "type": "1"
+          },
+          {
+            "api": "",
+            "link": "https://chatgpt.hereisman.net/playlist/50849/load-playlist?|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "title": "USA TV HD",
+            "type": "0"
           }
         ],
         "eventInfo": {
@@ -1265,6 +1272,10 @@
           {
             "logo": "",
             "title": "SKY SPORTS DE"
+          },
+          {
+            "logo": "",
+            "title": "USA TV HD"
           }
         ],
         "id": "400",
