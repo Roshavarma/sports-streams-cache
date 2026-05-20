@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-20T03:10:21.406707",
+  "last_updated": "2026-05-20T03:20:21.154090",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "08:35:22 AM 20-05-2026",
+    "Last update time": "08:45:24 AM 20-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -1243,148 +1243,6 @@
         "image": "o",
         "publish": "1",
         "title": "Freiburg vs Aston Villa"
-      },
-      {
-        "adsLimit": "30",
-        "cat": "EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-        "channels_data": [
-          {
-            "api": "af95024eda94455e922b90a39a3af93e:852e715ef4064b05b8e1cdee285648b5",
-            "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1779288067~acl=%2F*~id=bc0df595-e886-4891-a3fa-62c9b7c5f5d8~data=hdntl,aXA9NTguNjkuMjA0LjYzJmV4cD0xNzc5MjAxNjk0JmVpZD05Mzk1MjYmb2lkPTE1NCZ0eXBlPVZPRCZ1aWQ9UHBrTHB6fGY0YWJjOWU1LTMwNDItNDkwNC1hZTU5LWEwOTNiOWQ0NmJhZSZjaWQ9ZGNlLmZpc2ZlZCZwdD1udWxs~hmac=9b7d41eeb4c51ee475487c96ec7f1c3905aef1fb993c2950ec0674d85493f0dc/dash/live/2093711/219034-321026/manifest-d.mpd",
-            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
-            "title": "SKY SPORTS FHD",
-            "type": "1"
-          },
-          {
-            "api": "",
-            "link": "https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=bCY_j9Yll_25zjoE6y1Fqg&e=2079158010&scheme=https",
-            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
-            "title": "SKY SPORTS PL",
-            "type": "0"
-          },
-          {
-            "api": "00226b7cccbf5c7a0e60d41f353bf726:c478220fb0d06d13a88dbea68593540f",
-            "link": "https://g003-sle-us-cmaf-prd-cf.cdn.peacocktv.com/pck-sle/us-east-2/v1/dash/6f3f45fea6332a47667932dede90d20a96f2690c/peacock-dash-sle-4s-generic-cfd/co01/pcksle2/Content/CMAF_CTR-4s-v2/Live/channel(5021547-723405-4912b917a8d)/master_2hr.mpd?c3.ri=6a0cabbf_Q1ZYMDc_1_Q0xPVURGUk9OVA_f1523d3ea545&aws.sessionId=5e548873-1083-48a5-957f-9ca8d4b10a5c",
-            "logo": "",
-            "title": "Peacock FHD AQ",
-            "type": "1"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/19 21:20:00 +0000",
-          "eventName": "Chelsea vs Tottenham Hotspur",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/19 19:15:00 +0000",
-          "teamA": "Chelsea",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/38/image",
-          "teamB": "Tottenham",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/33/image"
-        },
-        "formatsNew": [
-          {
-            "logo": "",
-            "title": "Peacock FHD AQ"
-          },
-          {
-            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
-            "title": "SKY SPORTS FHD"
-          },
-          {
-            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
-            "title": "SKY SPORTS PL"
-          },
-          {
-            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
-            "title": "SKY SPORTS - AQ"
-          },
-          {
-            "logo": "",
-            "title": "HUB PREMIER HD"
-          },
-          {
-            "logo": "",
-            "title": "STAN SPORTS HD"
-          },
-          {
-            "logo": "",
-            "title": "SportzX Live"
-          },
-          {
-            "logo": "",
-            "title": "FAST SERVER"
-          }
-        ],
-        "id": "401",
-        "image": "o",
-        "publish": "1",
-        "title": "Chelsea vs Tottenham Hotspur"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "CON. Libertadores",
-        "channels_data": [
-          {
-            "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
-            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
-            "title": "beIN ENGLISH 3",
-            "type": "1"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/20 02:30:00 +0000",
-          "eventName": "Boca Juniors vs Cruzeiro",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/20 00:30:00 +0000",
-          "teamA": "Boca Juniors",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3202/image",
-          "teamB": "Cruzeiro",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/1954/image"
-        },
-        "formatsNew": [
-          {
-            "logo": "",
-            "title": "beIN ENGLISH 3"
-          }
-        ],
-        "id": "417",
-        "image": "o",
-        "publish": "1",
-        "title": "Boca Juniors vs Cruzeiro"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "CON. Sudamericana",
-        "channels_data": [
-          {
-            "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
-            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
-            "title": "beIN ENGLISH 2",
-            "type": "1"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/20 02:00:00 +0000",
-          "eventName": "São Paulo vs Millonarios",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/20 00:00:00 +0000",
-          "teamA": "São Paulo",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/1981/image",
-          "teamB": "Millonarios",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/6117/image"
-        },
-        "formatsNew": [
-          {
-            "logo": "",
-            "title": "beIN ENGLISH 2"
-          }
-        ],
-        "id": "418",
-        "image": "o",
-        "publish": "1",
-        "title": "São Paulo vs Millonarios"
       }
     ]
   }
