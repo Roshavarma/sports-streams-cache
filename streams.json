@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-20T16:30:37.387611",
+  "last_updated": "2026-05-20T16:41:19.019777",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "09:55:33 PM 20-05-2026",
+    "Last update time": "10:05:52 PM 20-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -1029,7 +1029,22 @@
       {
         "adsLimit": "0",
         "cat": "MLB",
-        "channels_data": {},
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://chatgpt.hereisman.net/playlist/50887/load-playlist?|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "title": "SPORTIFy MLB",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://mainstreams.pro/hls/dazhfiach15.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+            "logo": "",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          }
+        ],
         "eventInfo": {
           "endTime": "2026/05/20 20:05:00 +0000",
           "eventName": "Philadelphia Phillies vs Cincinnati Reds",
@@ -1044,6 +1059,10 @@
         "formatsNew": [
           {
             "logo": "",
+            "title": "SportzX MLB"
+          },
+          {
+            "logo": "",
             "title": "SportzX Live"
           }
         ],
@@ -1055,7 +1074,22 @@
       {
         "adsLimit": "0",
         "cat": "MLB",
-        "channels_data": {},
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://chatgpt.hereisman.net/playlist/50889/load-playlist?|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "title": "SPORTIFy MLB",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://mainstreams.pro/hls/16yuitzaerghbhc16.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+            "logo": "",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          }
+        ],
         "eventInfo": {
           "endTime": "2026/05/20 20:10:00 +0000",
           "eventName": "Tampa Bay Rays vs Baltimore Orioles",
@@ -1068,6 +1102,10 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/3652/image"
         },
         "formatsNew": [
+          {
+            "logo": "",
+            "title": "SportzX MLB"
+          },
           {
             "logo": "",
             "title": "SportzX Live"
