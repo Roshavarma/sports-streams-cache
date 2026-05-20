@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-20T04:10:23.063639",
+  "last_updated": "2026-05-20T04:20:21.413439",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "09:35:22 AM 20-05-2026",
+    "Last update time": "09:45:24 AM 20-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -734,6 +734,13 @@
             "logo": "",
             "title": "TOFFEE [BD]",
             "type": "0"
+          },
+          {
+            "api": "967df89d8b95f810d83612d0e6434e95:bc812734404cb0e16a2f086a71db0c2b",
+            "link": "https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ititn30oed/out/v1/7e5e9f2668c043b6b5091d435d6993b4/cenc.mpd",
+            "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
+            "title": "WILLOW - AQ",
+            "type": "1"
           }
         ],
         "eventInfo": {
@@ -779,6 +786,10 @@
           {
             "logo": "",
             "title": "TOFFEE [BD]"
+          },
+          {
+            "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
+            "title": "WILLOW - AQ"
           }
         ],
         "id": "355",
@@ -1254,6 +1265,40 @@
         "image": "o",
         "publish": "1",
         "title": "Scotland vs USA"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "Cricket",
+        "channels_data": [
+          {
+            "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+            "logo": "",
+            "title": "Willow HD",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/20 21:40:00 +0000",
+          "eventName": "England Women vs New Zealand Women",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/20 17:30:00 +0000",
+          "teamA": "England Women",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/213121/image",
+          "teamB": "New Zealand Women",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/213115/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "Willow HD"
+          }
+        ],
+        "id": "402",
+        "image": "o",
+        "publish": "1",
+        "title": "England Women vs New Zealand Women"
       }
     ]
   }
