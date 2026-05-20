@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-20T19:40:22.846285",
+  "last_updated": "2026-05-20T19:50:22.172708",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "12:05:21 AM 21-05-2026",
+    "Last update time": "01:15:28 AM 21-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -940,27 +940,12 @@
       {
         "adsLimit": "0",
         "cat": "UEFA Europa",
-        "channels_data": [
-          {
-            "api": "294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd",
-            "logo": "",
-            "title": "TNT SPORTS FHD",
-            "type": "1"
-          },
-          {
-            "api": "1223d5105392cabf1bb9c2c1fdf6539a:340b409f4b8f78a343e0363a7938df38",
-            "link": "https://abkv2pvaaaaaaaamcclyngsfdzn3t.bia-cf.live.pv-cdn.net/gru-nitro/live/clients/dash/enc/iayg0kyrof/out/v1/91dc04907f56415b897faccfa9d252da/cenc.mpd",
-            "logo": "",
-            "title": "CAZE TV BR",
-            "type": "1"
-          }
-        ],
+        "channels_data": {},
         "eventInfo": {
           "endTime": "2026/05/20 21:05:00 +0000",
           "eventName": "Freiburg vs Aston Villa",
           "eventType": "null",
-          "isHot": "0",
+          "isHot": "1",
           "startTime": "2026/05/20 19:00:00 +0000",
           "teamA": "Freiburg",
           "teamAFlag": "https://img.sofascore.com/api/v1/team/2538/image",
@@ -969,12 +954,44 @@
         },
         "formatsNew": [
           {
-            "logo": "",
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10",
             "title": "TNT SPORTS FHD"
           },
           {
             "logo": "",
+            "title": "SETANTA SPORTS"
+          },
+          {
+            "logo": "",
             "title": "CAZE TV BR"
+          },
+          {
+            "logo": "",
+            "title": "PARAMOUNT+ HD"
+          },
+          {
+            "logo": "",
+            "title": "TNT SPORTS - AQ"
+          },
+          {
+            "logo": "",
+            "title": "CBS SPORTS HD"
+          },
+          {
+            "logo": "",
+            "title": "beIN SPORTS AR"
+          },
+          {
+            "logo": "",
+            "title": "SportzX Live"
+          },
+          {
+            "logo": "",
+            "title": "SonyLiv [ENG]"
+          },
+          {
+            "logo": "",
+            "title": "SonyLiv [HIN]"
           }
         ],
         "id": "400",
@@ -1215,7 +1232,7 @@
         "formatsNew": [
           {
             "logo": "",
-            "title": "SportzX Live"
+            "title": "SportzX Live SD"
           }
         ],
         "id": "407",
@@ -1498,7 +1515,15 @@
           {
             "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
             "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
+            "logo": "",
             "title": "beIN ENGLISH",
+            "type": "1"
+          },
+          {
+            "api": "294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd",
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10",
+            "title": "TNT Sports 1",
             "type": "1"
           }
         ],
@@ -1517,6 +1542,10 @@
           {
             "logo": "",
             "title": "beIN ENGLISH"
+          },
+          {
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10",
+            "title": "TNT Sports 1"
           }
         ],
         "id": "417",
