@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-20T04:00:50.315039",
+  "last_updated": "2026-05-20T04:10:23.063639",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "09:25:20 AM 20-05-2026",
+    "Last update time": "09:35:22 AM 20-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -680,6 +680,13 @@
         "cat": "Cricket",
         "channels_data": [
           {
+            "api": "967df89d8b95f810d83612d0e6434e95:bc812734404cb0e16a2f086a71db0c2b",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/gayfjxymsg/out/v1/be17780dfcce486098512a5c35858c19/cenc.mpd",
+            "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
+            "title": "Willow FHD AQ",
+            "type": "1"
+          },
+          {
             "api": "708a98b352bd4418a73a028edd84da8f:b1fa5c2bca4c4b57b924b748564532cb",
             "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1779306308~acl=%2F*~id=82e93a39-7124-4f90-b824-69b5bed23141~data=hdntl,aXA9MTgwLjE5NC4yNTEuNyZleHA9MTc3OTIxOTkzNiZlaWQ9OTM5OTYyJm9pZD0xNTQmdHlwZT1WT0QmdWlkPVBwa0xwenxmNGFiYzllNS0zMDQyLTQ5MDQtYWU1OS1hMDkzYjlkNDZiYWUmY2lkPWRjZS5maXNmZWQmcHQ9bnVsbA~hmac=b8fa332400f1e9b961a1d142c759f361771c419e06de47ce5c52d68e883230e7/dash/live/2093715/219027-321028/manifest-d.mpd",
             "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
@@ -741,6 +748,10 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/187754/image"
         },
         "formatsNew": [
+          {
+            "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
+            "title": "Willow FHD AQ"
+          },
           {
             "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
             "title": "SKY SPORTS FHD"
@@ -992,51 +1003,6 @@
         "channels_data": [
           {
             "api": "",
-            "link": "https://chatgpt.hereisman.net/playlist/50874/load-playlist?|Referer=https://gooz.aapmains.net",
-            "logo": "",
-            "title": "SPORTIFy MLB",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://mainstreams.pro/hls/kjhfzua25.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-            "logo": "",
-            "title": "SPORTIFy Live",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/20 03:40:00 +0000",
-          "eventName": "Colorado Rockies vs Texas Rangers",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/20 00:40:00 +0000",
-          "teamA": "Rockies",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3628/image",
-          "teamB": "Rangers",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3647/image"
-        },
-        "formatsNew": [
-          {
-            "logo": "",
-            "title": "SportzX MLB"
-          },
-          {
-            "logo": "",
-            "title": "SportzX Live"
-          }
-        ],
-        "id": "394",
-        "image": "o",
-        "publish": "1",
-        "title": "Colorado Rockies"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "MLB",
-        "channels_data": [
-          {
-            "api": "",
             "link": "https://chatgpt.hereisman.net/playlist/50882/load-playlist?|Referer=https://gooz.aapmains.net",
             "logo": "",
             "title": "SPORTIFy MLB",
@@ -1249,6 +1215,13 @@
         "cat": "ICC Event",
         "channels_data": [
           {
+            "api": "0a0a0b9ad9f760b1d139c45a57841e91:b54d4644fddc3f06fb7ea9ddc9f11efb",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/aml8ysxnuy/out/v1/28140064c27a41078d75296f19f4559c/cenc.mpd",
+            "logo": "",
+            "title": "Willow FHD",
+            "type": "1"
+          },
+          {
             "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
             "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
             "logo": "",
@@ -1268,6 +1241,10 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/199276/image"
         },
         "formatsNew": [
+          {
+            "logo": "",
+            "title": "Willow FHD"
+          },
           {
             "logo": "",
             "title": "Willow HD"
