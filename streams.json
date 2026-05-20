@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-20T18:20:26.474291",
+  "last_updated": "2026-05-20T18:30:34.525732",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "11:45:32 PM 20-05-2026",
+    "Last update time": "11:55:25 PM 20-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -1392,6 +1392,59 @@
         "image": "o",
         "publish": "1",
         "title": "Yankees vs Blue Jays"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "Pro League 🇸🇦",
+        "channels_data": [
+          {
+            "api": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
+            "title": "FOX SPORTS FHD",
+            "type": "1"
+          },
+          {
+            "api": "1d9050b5c22b44bab50e1251ad109c70:3b2f8622d37345f4b8d0784a53699a98",
+            "link": "https://adjara-live-eu.akamaized.net/hdntl=exp=1779330828~acl=%2F*~id=9e8ef735-0d76-4939-928a-e13d724e15f8~data=hdntl,aXA9MTIyLjMuMjguMjMyJmV4cD0xNzc5MjQ0NDU1JmVpZD05MzU4NTUmb2lkPTE1NCZ0eXBlPVZPRCZ1aWQ9UHBrTHB6fGY0YWJjOWU1LTMwNDItNDkwNC1hZTU5LWEwOTNiOWQ0NmJhZSZjaWQ9ZGNlLmZpc2ZlZCZwdD1udWxs~hmac=1871b10c8b53359a57f45016e7fba9dd7202429da6724f069dcd21c5ff909572/dash/live/2019411/303263-321786/manifest-d.mpd",
+            "title": "SETANTA SPORTS",
+            "type": "1"
+          },
+          {
+            "api": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
+            "title": "FOX DEPORTES",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/20 20:00:00 +0000",
+          "eventName": "Al-Khaleej vs Al-Ahli",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/20 18:00:00 +0000",
+          "teamA": "Al-Khaleej",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/167228/image",
+          "teamB": "Al-Ahli",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/34469/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "FOX SPORTS FHD"
+          },
+          {
+            "logo": "",
+            "title": "SETANTA SPORTS"
+          },
+          {
+            "logo": "",
+            "title": "FOX DEPORTES"
+          }
+        ],
+        "id": "415",
+        "image": "o",
+        "publish": "1",
+        "title": "Al-Khaleej vs Al-Ahli"
       }
     ]
   }
