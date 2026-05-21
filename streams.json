@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-21T06:10:26.368567",
+  "last_updated": "2026-05-21T06:20:26.671822",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "11:35:19 AM 21-05-2026",
+    "Last update time": "11:45:28 AM 21-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -476,6 +476,84 @@
         "cat": "WWE",
         "channels_data": [
           {
+            "api": "",
+            "link": "https://chatgpt.hereisman.net/playlist/50812/load-playlist?|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "title": "SPORTIFy WWE",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://29pisfqlcvyi.windows-devs.top/AccessLog2/83_FHD/apache.m3u8|Referer=https://29pisfqlcvyi.windows-devs.top/",
+            "logo": "",
+            "title": "SPORTIFy HD",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://27lftgqlgzmy.windows-devs.top/AccessLog2/83_FHD/apache.m3u8|Referer=https://27lftgqlgzmy.windows-devs.top/",
+            "logo": "",
+            "title": "Backup SD",
+            "type": "0"
+          },
+          {
+            "api": "eabd2d95c89e42f2b0b0b40ce4179ea0:0e7e35a07e2c12822316c0dc4873903f",
+            "link": "https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd",
+            "logo": "",
+            "title": "Tap Sport LQ",
+            "type": "1"
+          },
+          {
+            "api": "",
+            "link": "https://hesgoal.cc/live/player.php?ch=es17",
+            "logo": "",
+            "title": "More",
+            "type": "2"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/26 02:30:00 +0000",
+          "eventName": "🥊 WWE Monday Night RAW",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/26 00:00:00 +0000",
+          "teamA": "WWE",
+          "teamAFlag": "https://images2.minutemediacdn.com/image/upload/c_crop,w_1920,h_1080,x_0,y_0/c_fill,w_1080,ar_16:9,f_auto,q_auto,g_auto/images%2FvoltaxMediaLibrary%2Fmmsport%2Fwrestling_on_fannation%2F01j7cr769n5sz41833rh.jpg",
+          "teamB": "WWE",
+          "teamBFlag": "https://images2.minutemediacdn.com/image/upload/c_crop,w_1920,h_1080,x_0,y_0/c_fill,w_1080,ar_16:9,f_auto,q_auto,g_auto/images%2FvoltaxMediaLibrary%2Fmmsport%2Fwrestling_on_fannation%2F01j7cr769n5sz41833rh.jpg"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "SportzX WWE"
+          },
+          {
+            "logo": "",
+            "title": "SportzX HD"
+          },
+          {
+            "logo": "",
+            "title": "Backup SD"
+          },
+          {
+            "logo": "",
+            "title": "Tap Sport LQ"
+          },
+          {
+            "logo": "",
+            "title": "More"
+          }
+        ],
+        "id": "328",
+        "image": "o",
+        "publish": "1",
+        "title": "WWE Raw"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "WWE",
+        "channels_data": [
+          {
             "api": "daa8ea92553fd16cd6bfae2b8c582715:4042e041b5639b79b69ae07a872eef9b",
             "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3n6slkgh54/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd",
             "title": "TSN SPORTS",
@@ -507,11 +585,11 @@
           }
         ],
         "eventInfo": {
-          "endTime": "2026/05/21 02:00:00 +0000",
+          "endTime": "2026/05/28 02:00:00 +0000",
           "eventName": "AEW Dynamite",
           "eventType": "null",
           "isHot": "0",
-          "startTime": "2026/05/21 00:00:00 +0000",
+          "startTime": "2026/05/28 00:00:00 +0000",
           "teamA": "AEW",
           "teamAFlag": "https://static.wixstatic.com/media/815952_5964d86934774f97a1a12b104c8b0a7a~mv2.png/v1/fill/w_146,h_54,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/aewlogo24b.png",
           "teamB": "AEW",
@@ -698,6 +776,130 @@
         "image": "o",
         "publish": "1",
         "title": "IPL - 01"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "Pro League 🇸🇦",
+        "channels_data": [
+          {
+            "api": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
+            "logo": "",
+            "title": "FOX SPORTS 2",
+            "type": "1"
+          },
+          {
+            "api": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
+            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
+            "logo": "",
+            "title": "SportDigital Fussball",
+            "type": "1"
+          },
+          {
+            "api": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
+            "logo": "",
+            "title": "FOX DEPORTES",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/21 20:05:00 +0000",
+          "eventName": "Al-Nassr vs Damac FC",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/21 18:00:00 +0000",
+          "teamA": "Al-Nassr",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/23400/image",
+          "teamB": "Damac FC",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/204126/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "FOX SPORTS 2"
+          },
+          {
+            "logo": "",
+            "title": "SportDigital Fussball"
+          },
+          {
+            "logo": "",
+            "title": "FOX DEPORTES"
+          }
+        ],
+        "id": "400",
+        "image": "o",
+        "publish": "1",
+        "title": "Al-Nassr vs Damac FC"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "Pro League 🇸🇦",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://fallback-video.ivan-flux.workers.dev/video/index.m3u8",
+            "logo": "",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/21 20:04:00 +0000",
+          "eventName": "Al-Fayha vs Al-Hilal",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/21 18:00:00 +0000",
+          "teamA": "Al-Fayha",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/168094/image",
+          "teamB": "Al-Hilal",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/21895/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "SportzX Live"
+          }
+        ],
+        "id": "401",
+        "image": "o",
+        "publish": "1",
+        "title": "Al-Fayha vs Al-Hilal"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "Pro League 🇸🇦",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://fallback-video.ivan-flux.workers.dev/video/index.m3u8",
+            "logo": "",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/21 19:56:00 +0000",
+          "eventName": "Al-Ittihad vs Al-Qadsiah",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/21 18:00:00 +0000",
+          "teamA": "Al-Ittihad",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/34315/image",
+          "teamB": "Al-Qadsiah",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/56027/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "SportzX Live"
+          }
+        ],
+        "id": "402",
+        "image": "o",
+        "publish": "1",
+        "title": "Al-Ittihad vs Al-Qadsiah"
       }
     ]
   }
