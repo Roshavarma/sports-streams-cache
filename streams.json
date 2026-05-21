@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-21T13:30:44.625697",
+  "last_updated": "2026-05-21T13:40:25.648584",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "06:55:21 PM 21-05-2026",
+    "Last update time": "07:05:24 PM 21-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -769,6 +769,13 @@
         "cat": "Indian Premier League",
         "channels_data": [
           {
+            "api": "cb9ac4371ceb5181d13f2c8b03eb2c3f:02742d90bb6cd6fd4f876468011\u0016607b",
+            "link": "https://a14live-pv-ta-amazon.akamaized.net/bom-nitro/live/clients/dash/enc/z8waxdp8tg/out/v1/e27b352890e848c3834e6d4f79f26d02/cenc.mpd",
+            "logo": "",
+            "title": "WILLOW [Ad-Free]",
+            "type": "1"
+          },
+          {
             "api": "aefc2c8d1c8840f1b6981f856c9269ba:cf8ea114c45b4d6596b27482x8aB74d6",
             "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1779431198~acl=%2F*~id=830a8bef-52b5-4b89-b2c9-9a5649cab2ef~data=hdntl,aXA9MTM1LjIzMi4yMDEuMzMmZXhwPTE3NzkzNDQ4MjgmZWlkPTk2MDYwNSZvaWQ9MTA4JnR5cGU9Vk9EJnVpZD1lWExwdEZ8MTc2MTc0ZjYtMmNkNy00ODYzLWEzMjAtZTljNjM5NTZiNTE1JmNpZD1kY2Uuc3B1cnMmcHQ9bnVsbA~hmac=2add213e5b2b0f89981a9f5a747f6ae3f10fe3ddb16627a2fa74e50e84cd4e67/dash/live/2093710/219026-321025/manifest-d.mpd",
             "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
@@ -776,17 +783,17 @@
             "type": "1"
           },
           {
-            "api": "4d346b1d1ae64d4a800409cffa14983e:208c972bd2da4359ac94e694wfe\u001378b6",
-            "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1779431198~acl=%2F*~id=830a8bef-52b5-4b89-b2c9-9a5649cab2ef~data=hdntl,aXA9MTM1LjIzMi4yMDEuMzMmZXhwPTE3NzkzNDQ4MjgmZWlkPTk2MDYwNSZvaWQ9MTA4JnR5cGU9Vk9EJnVpZD1lWExwdEZ8MTc2MTc0ZjYtMmNkNy00ODYzLWEzMjAtZTljNjM5NTZiNTE1JmNpZD1kY2Uuc3B1cnMmcHQ9bnVsbA~hmac=2add213e5b2b0f89981a9f5a747f6ae3f10fe3ddb16627a2fa74e50e84cd4e67/dash/live/2093666/294921-318514/manifest-d.mpd",
-            "logo": "",
-            "title": "SKY SPORTS 4k",
-            "type": "1"
-          },
-          {
             "api": "01c9bbf8137e58378a5ead514998a7b4:fb01e61809e80e5e93a889cdv1dAab22",
             "link": "https://dck1-fs-live.dtcdn.dazn.com/out/v1/814bffb9b389f652/d65feac5647949e6b45b2674d4715398/index.mpd",
             "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
             "title": "FOX CRICKET FHD",
+            "type": "1"
+          },
+          {
+            "api": "4d346b1d1ae64d4a800409cffa14983e:208c972bd2da4359ac94e694wfe\u001378b6",
+            "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1779431198~acl=%2F*~id=830a8bef-52b5-4b89-b2c9-9a5649cab2ef~data=hdntl,aXA9MTM1LjIzMi4yMDEuMzMmZXhwPTE3NzkzNDQ4MjgmZWlkPTk2MDYwNSZvaWQ9MTA4JnR5cGU9Vk9EJnVpZD1lWExwdEZ8MTc2MTc0ZjYtMmNkNy00ODYzLWEzMjAtZTljNjM5NTZiNTE1JmNpZD1kY2Uuc3B1cnMmcHQ9bnVsbA~hmac=2add213e5b2b0f89981a9f5a747f6ae3f10fe3ddb16627a2fa74e50e84cd4e67/dash/live/2093666/294921-318514/manifest-d.mpd",
+            "logo": "",
+            "title": "SKY SPORTS 4k",
             "type": "1"
           },
           {
@@ -859,16 +866,20 @@
         },
         "formatsNew": [
           {
+            "logo": "",
+            "title": "WILLOW [Ad-Free]"
+          },
+          {
             "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
             "title": "SKY SPORTS FHD"
           },
           {
-            "logo": "",
-            "title": "SKY SPORTS 4k"
-          },
-          {
             "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
             "title": "FOX CRICKET FHD"
+          },
+          {
+            "logo": "",
+            "title": "SKY SPORTS 4k"
           },
           {
             "logo": "",
@@ -1031,6 +1042,204 @@
         "image": "o",
         "publish": "1",
         "title": "Al-Ittihad vs Al-Qadsiah"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "IIHF World",
+        "channels_data": [
+          {
+            "api": "e51aa21f2a0fef9aabc120dfb655b52f:a12a987fe725a40b6be95cd84b15f689",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
+            "title": "TSN SPORTS FHD",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/21 17:00:00 +0000",
+          "eventName": "Canada vs Norway",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/21 14:20:00 +0000",
+          "teamA": "Canada",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/5729/image",
+          "teamB": "Norway",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/5913/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "TSN SPORTS FHD"
+          }
+        ],
+        "id": "403",
+        "image": "o",
+        "publish": "1",
+        "title": "Canada vs Norway"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "IIHF World",
+        "channels_data": [
+          {
+            "api": "e51aa21f2a0fef9aabc120dfb655b52f:a12a987fe725a40b6be95cd84b15f689",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
+            "title": "TSN SPORTS FHD",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/21 21:00:00 +0000",
+          "eventName": "Denmark vs Slovakia",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/21 18:20:00 +0000",
+          "teamA": "Denmark",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/5917/image",
+          "teamB": "Slovakia",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/5736/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "TSN SPORTS FHD"
+          }
+        ],
+        "id": "404",
+        "image": "o",
+        "publish": "1",
+        "title": "Denmark vs Slovakia"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "IIHF World",
+        "channels_data": [
+          {
+            "api": "c4088f5f265f9de50cffd80bf89308b7:2c4d2239d96d532b4ec2050653611003",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
+            "title": "TSN SPORTS FHD",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/21 17:00:00 +0000",
+          "eventName": "Latvia vs Finland",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/21 14:20:00 +0000",
+          "teamA": "Latvia",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/5739/image",
+          "teamB": "Finland",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/5731/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "TSN SPORTS FHD"
+          }
+        ],
+        "id": "405",
+        "image": "o",
+        "publish": "1",
+        "title": "Latvia vs Finland"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "IIHF World",
+        "channels_data": [
+          {
+            "api": "c4088f5f265f9de50cffd80bf89308b7:2c4d2239d96d532b4ec2050653611003",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
+            "title": "TSN SPORTS FHD",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/21 21:00:00 +0000",
+          "eventName": "Switzerland vs Great Britain",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/21 18:20:00 +0000",
+          "teamA": "Switzerland",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/5734/image",
+          "teamB": "Great Britain",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/7118/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "TSN SPORTS FHD"
+          }
+        ],
+        "id": "406",
+        "image": "o",
+        "publish": "1",
+        "title": "Switzerland vs Great Britain"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "MLB",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://mainstreams.pro/hls/dazhfiach15.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/21 20:10:00 +0000",
+          "eventName": "Detroit Tigers vs Guardians",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/21 17:10:00 +0000",
+          "teamA": "Tigers",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3648/image",
+          "teamB": "Guardians",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3650/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "SportzX Live"
+          }
+        ],
+        "id": "407",
+        "image": "o",
+        "publish": "1",
+        "title": "Detroit Tigers vs Guardians"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "MLB",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://mainstreams.pro/hls/16yuitzaerghbhc16.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/21 20:15:00 +0000",
+          "eventName": "Cardinals vs Pittsburgh Pirates",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/21 17:15:00 +0000",
+          "teamA": "Cardinals",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3632/image",
+          "teamB": "Pirates",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3637/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "SportzX Live"
+          }
+        ],
+        "id": "408",
+        "image": "o",
+        "publish": "1",
+        "title": "Cardinals vs Pittsburgh Pirates"
       }
     ]
   }
