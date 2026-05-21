@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-21T20:30:38.673207",
+  "last_updated": "2026-05-21T20:40:24.920389",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "01:55:21 AM 22-05-2026",
+    "Last update time": "02:05:25 AM 22-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -1173,105 +1173,27 @@
       },
       {
         "adsLimit": "0",
-        "cat": "Pro League 🇸🇦",
+        "cat": "Liga MX",
         "channels_data": [
           {
-            "api": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
-            "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
-            "title": "FOX SPORTS FHD",
-            "type": "1"
-          },
-          {
-            "api": "89f164142ae84bb8a06cb2eec38ddd67:99b4b1335a1b49578b282262c9a5b067",
-            "link": "https://adjara-live-eu.akamaized.net/hdntl=exp=1779464393~acl=%2F*~id=2618416e-aefa-4e30-b8b5-6a697e869837~data=hdntl,aXA9MjAuMTcxLjEyNi4yMTkmZXhwPTE3NzkzNzgwMTgmZWlkPTk2MDQ3OSZvaWQ9MTA4JnR5cGU9Vk9EJnVpZD15UnA0N0V8ZDNmYTE0YjYtNDliYS00ZmEwLTllY2EtNjQ5N2UyYjRhODJlJmNpZD1kY2Uuc3B1cnMmcHQ9bnVsbA~hmac=83d73c8d913c6218c8e35faefb9bf5a7d9add4e30d2581060b026d41c523bf94/dash/live/2019672/303265-321816/manifest-d.mpd",
-            "logo": "",
-            "title": "SETANTA SPORTS",
-            "type": "1"
-          },
-          {
-            "api": "065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2",
-            "link": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
-            "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png",
-            "title": "FANCODE FHD",
-            "type": "1"
-          },
-          {
-            "api": "4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733",
-            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd",
-            "logo": "",
-            "title": "SporTV BR FHD",
-            "type": "1"
-          },
-          {
-            "api": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
-            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
-            "logo": "",
-            "title": "SportDigital Fussball",
-            "type": "1"
-          },
-          {
-            "api": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
-            "logo": "",
-            "title": "FOX DEPORTES",
-            "type": "1"
-          },
-          {
             "api": "",
-            "link": "https://chatgpt.hereisman.net/playlist/50927/load-playlist?|Referer=https://gooz.aapmains.net",
-            "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
-            "title": "FOX SPORTS HD",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://live.vivo200.com/live/sd-1-4404655.m3u8?txSecret=cea3f39916f2ee0a194c4637db1f1842&txTime=6A0F4B94|referer=https://player.online909.com/",
-            "logo": "",
+            "link": "https://fallback-video.ivan-flux.workers.dev/video/index.m3u8",
             "title": "SPORTIFy Live",
             "type": "0"
           }
         ],
         "eventInfo": {
-          "endTime": "2026/05/21 20:05:00 +0000",
-          "eventName": "Al-Nassr vs Damac FC",
+          "endTime": "2026/05/22 04:00:00 +0000",
+          "eventName": "Cruz Azul vs Pumas UNAM",
           "eventType": "null",
           "isHot": "0",
-          "startTime": "2026/05/21 18:00:00 +0000",
-          "teamA": "Al-Nassr",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/23400/image",
-          "teamB": "Damac FC",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/204126/image"
+          "startTime": "2026/05/22 02:00:00 +0000",
+          "teamA": "Cruz Azul",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/1947/image",
+          "teamB": "Pumas",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/1933/image"
         },
         "formatsNew": [
-          {
-            "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
-            "title": "FOX SPORTS FHD"
-          },
-          {
-            "logo": "",
-            "title": "SETANTA SPORTS"
-          },
-          {
-            "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png",
-            "title": "FANCODE FHD"
-          },
-          {
-            "logo": "",
-            "title": "SporTV BR FHD"
-          },
-          {
-            "logo": "",
-            "title": "SportDigital Fussball"
-          },
-          {
-            "logo": "",
-            "title": "FOX DEPORTES"
-          },
-          {
-            "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
-            "title": "FOX SPORTS HD"
-          },
           {
             "logo": "",
             "title": "SportzX Live"
@@ -1280,7 +1202,7 @@
         "id": "400",
         "image": "o",
         "publish": "1",
-        "title": "Al-Nassr vs Damac FC"
+        "title": "Cruz Azul vs Pumas UNAM"
       },
       {
         "adsLimit": "0",
