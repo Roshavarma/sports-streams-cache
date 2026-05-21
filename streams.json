@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-21T06:30:35.927675",
+  "last_updated": "2026-05-21T06:40:24.388110",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "11:55:20 AM 21-05-2026",
+    "Last update time": "12:05:18 PM 21-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -548,6 +548,148 @@
         "image": "o",
         "publish": "1",
         "title": "WWE Raw"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "WWE",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://chatgpt.hereisman.net/playlist/50613/load-playlist?|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "title": "SPORTIFy WWE",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://29pisfqlcvyi.windows-devs.top/AccessLog2/83_FHD/apache.m3u8|Referer=https://29pisfqlcvyi.windows-devs.top/",
+            "logo": "",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://26hrwgorfcmh.windows-devs.top/AccessLog2/108084_HD/apache.m3u8|Referer=https://26hrwgorfcmh.windows-devs.top/",
+            "logo": "",
+            "title": "Backup HD",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://android-database1.firebase-api.com/AccessLog2/108085_HD/apache.m3u8|Referer=https://android-database1.firebase-api.com",
+            "logo": "",
+            "title": "Backup SD",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://29pisfqlcvyi.windows-devs.top/AccessLog2/108085_HD/apache.m3u8|Referer=https://29pisfqlcvyi.windows-devs.top/",
+            "logo": "",
+            "title": "USA TV HD",
+            "type": "0"
+          },
+          {
+            "api": "58551b13211b37d5b325d67e5c6cabef:3b4c3f8b4236fc57d66cdb54a606fe41",
+            "link": "https://g001-sle-us-cmaf-prd-ak.pcdn03.cssott.com/Content/CMAF_OS1-CTR-4s-v2/Live/channel(12010340-12010340-4445585a62764)/master_2hr.mpd",
+            "logo": "",
+            "title": "USA TV (USA VPN)",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/23 02:45:00 +0000",
+          "eventName": "🥊 WWE Friday Night SmackDown",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/23 00:00:00 +0000",
+          "teamA": "WWE",
+          "teamAFlag": "https://www.wwe.com/f/styles/wwe_show_logo_l/public/all/2024/09/Smackdown_LOGO--c8e0b09904cb1356d309a8ea2acb0422.png",
+          "teamB": "WWE",
+          "teamBFlag": "https://www.wwe.com/f/styles/wwe_show_logo_l/public/all/2024/09/Smackdown_LOGO--c8e0b09904cb1356d309a8ea2acb0422.png"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "SportzX WWE"
+          },
+          {
+            "logo": "",
+            "title": "SportzX Live"
+          },
+          {
+            "logo": "",
+            "title": "Backup HD"
+          },
+          {
+            "logo": "",
+            "title": "Backup SD"
+          },
+          {
+            "logo": "",
+            "title": "USA TV HD"
+          },
+          {
+            "logo": "",
+            "title": "USA TV (USA VPN)"
+          }
+        ],
+        "id": "329",
+        "image": "o",
+        "publish": "1",
+        "title": "WWE Smackdown"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "WWE",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://27lftgqlgzmy.windows-devs.top/AccessLog2/83_FHD/apache.m3u8|Referer=https://27lftgqlgzmy.windows-devs.top/",
+            "title": "HD SERVER",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://29pisfqlcvyi.windows-devs.top/AccessLog2/108085_HD/apache.m3u8|Referer=https://29pisfqlcvyi.windows-devs.top/",
+            "title": "Backup SD",
+            "type": "0"
+          },
+          {
+            "api": "eabd2d95c89e42f2b0b0b40ce4179ea0:0e7e35a07e2c12822316c0dc4873903f",
+            "link": "https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd",
+            "title": "Tap Sports",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/27 02:00:00 +0000",
+          "eventName": "🥊 WWE NXT",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/27 00:00:00 +0000",
+          "teamA": "NXT",
+          "teamAFlag": "https://www.wwe.com/f/styles/wwe_show_logo_sm/public/all/2024/10/NXTonCW--0f06792893241464479338f55596a5bf.png",
+          "teamB": "NXT",
+          "teamBFlag": "https://www.wwe.com/f/styles/wwe_show_logo_sm/public/all/2024/10/NXTonCW--0f06792893241464479338f55596a5bf.png"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "HD SERVER"
+          },
+          {
+            "logo": "",
+            "title": "Backup SD"
+          },
+          {
+            "logo": "",
+            "title": "Tap Sports"
+          }
+        ],
+        "id": "337",
+        "image": "o",
+        "publish": "1",
+        "title": "WWE NXT"
       },
       {
         "adsLimit": "0",
