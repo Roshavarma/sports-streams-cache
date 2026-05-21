@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-21T13:50:28.568847",
+  "last_updated": "2026-05-21T14:10:29.026641",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "07:15:29 PM 21-05-2026",
+    "Last update time": "07:35:29 PM 21-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -783,9 +783,16 @@
             "type": "1"
           },
           {
+            "api": "2d9d4722b2135ef29afb0b358f8ff942:cad49f336d0b653c553df460S1dB4c1a",
+            "link": "https://dck1-ac-live.cdn.indazn.com/out/v1/761f422bb93edb7b/f8e2a3d1e6024bb1991ac55a891f926f/index.mpd",
+            "logo": "",
+            "title": "KAYO HINDI FHD",
+            "type": "1"
+          },
+          {
             "api": "01c9bbf8137e58378a5ead514998a7b4:fb01e61809e80e5e93a889cdv1dAab22",
             "link": "https://dck1-fs-live.dtcdn.dazn.com/out/v1/814bffb9b389f652/d65feac5647949e6b45b2674d4715398/index.mpd",
-            "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
+            "logo": "",
             "title": "FOX CRICKET FHD",
             "type": "1"
           },
@@ -806,14 +813,14 @@
           {
             "api": "",
             "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla",
-            "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
+            "logo": "",
             "title": "SKY CRICKET",
             "type": "0"
           },
           {
             "api": "",
             "link": "https://stb-air.wasmer.app//play.php?id=LIVETV_LIVETVCHANNEL_STAR_SPORTS_1_HD&uid=999&pass=999",
-            "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
+            "logo": "",
             "title": "Star Sports HIN",
             "type": "0"
           },
@@ -827,21 +834,21 @@
           {
             "api": "",
             "link": "http://193.47.62.40/hls/koooq.m3u8|Referer=http://www.fawanews.sc/",
-            "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
+            "logo": "",
             "title": "SD SERVER",
             "type": "0"
           },
           {
             "api": "=81872faa1d6b45fa9045cdeb2e310000:9b88168e61274587a471962cw6B94675",
             "link": "https://livetv.hotstar.com/mp1/gec-india-1540065788/fa6a4f0005ef4f90ab24484d165b0aaf/index.mpd?%7Ccookie=hdntl=exp=1779367180~acl=%2F*~id=35f7ade32fbd132abd89fe60553696f4~data=hdntl~hmac=33c340ed531fbbc8b5a3f932879b892b945cc7f2b61e52ef0be61dee04d02149&User-agent=Hotstar;in.startv.hotstar/SportsLover(Android/15)&Referer=https://www.hotstar.com/&origin=https://www.hotstar.com",
-            "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
+            "logo": "",
             "title": "STAR SPORTS HIN",
             "type": "1"
           },
           {
             "api": "b7cdde012ce04e90a08b90622e020000:13603245acab444faef6cab5t98De55f",
             "link": "https://livetv.hotstar.com/mp1/gec-india-1540065782/fce958099ca84fc3b980e651a4a668a8/index.mpd?%7Ccookie=hdntl=exp=1779367180~acl=%2F*~id=35f7ade32fbd132abd89fe60553696f4~data=hdntl~hmac=33c340ed531fbbc8b5a3f932879b892b945cc7f2b61e52ef0be61dee04d02149&User-agent=Hotstar;in.startv.hotstar/SportsLover(Android/15)&Referer=https://www.hotstar.com/&origin=https://www.hotstar.com",
-            "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
+            "logo": "",
             "title": "STAR SPORTS ENG",
             "type": "1"
           },
@@ -874,7 +881,11 @@
             "title": "SKY SPORTS FHD"
           },
           {
-            "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
+            "logo": "",
+            "title": "KAYO HINDI FHD"
+          },
+          {
+            "logo": "",
             "title": "FOX CRICKET FHD"
           },
           {
@@ -886,11 +897,11 @@
             "title": "NOON SPORTS"
           },
           {
-            "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
+            "logo": "",
             "title": "SKY CRICKET"
           },
           {
-            "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
+            "logo": "",
             "title": "Star Sports HIN"
           },
           {
@@ -898,15 +909,15 @@
             "title": "WILLOW HINDI"
           },
           {
-            "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
+            "logo": "",
             "title": "SD SERVER"
           },
           {
-            "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
+            "logo": "",
             "title": "STAR SPORTS HIN"
           },
           {
-            "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
+            "logo": "",
             "title": "STAR SPORTS ENG"
           },
           {
@@ -1268,8 +1279,16 @@
           {
             "api": "e51aa21f2a0fef9aabc120dfb655b52f:a12a987fe725a40b6be95cd84b15f689",
             "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
+            "logo": "",
             "title": "TSN SPORTS FHD",
             "type": "1"
+          },
+          {
+            "api": "",
+            "link": "https://chatgpt.hereisman.net/playlist/50928/load-playlist?|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "title": "SPORTIFy Live",
+            "type": "0"
           }
         ],
         "eventInfo": {
@@ -1287,6 +1306,10 @@
           {
             "logo": "",
             "title": "TSN SPORTS FHD"
+          },
+          {
+            "logo": "",
+            "title": "SportzX Live"
           }
         ],
         "id": "403",
@@ -1458,6 +1481,138 @@
         "image": "o",
         "publish": "1",
         "title": "Cardinals vs Pittsburgh Pirates"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "Bundesliga 🇩🇪",
+        "channels_data": [
+          {
+            "api": "4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733",
+            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd",
+            "title": "SporTV BR",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/21 20:30:00 +0000",
+          "eventName": "Wolfsburg vs Paderborn",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/21 18:30:00 +0000",
+          "teamA": "Wolfsburg",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2524/image",
+          "teamB": "Paderborn",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2561/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "SporTV BR"
+          }
+        ],
+        "id": "409",
+        "image": "o",
+        "publish": "1",
+        "title": "Wolfsburg vs Paderborn"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "Scottish Premiership",
+        "channels_data": [
+          {
+            "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
+            "title": "beIN ENGLISH",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/21 21:00:00 +0000",
+          "eventName": "Partick Thistle vs St. Mirren",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/21 19:00:00 +0000",
+          "teamA": "Partick Thistle",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2358/image",
+          "teamB": "St Mirren",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2359/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "beIN ENGLISH"
+          }
+        ],
+        "id": "410",
+        "image": "o",
+        "publish": "1",
+        "title": "Partick Thistle vs St. Mirren"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "Eredivisie",
+        "channels_data": [
+          {
+            "api": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f",
+            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
+            "title": "PREMIER SPORTS",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/21 18:45:00 +0000",
+          "eventName": "AFC Ajax vs Groningen",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/21 16:45:00 +0000",
+          "teamA": "Ajax",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2953/image",
+          "teamB": "Groningen",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2951/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "PREMIER SPORTS"
+          }
+        ],
+        "id": "411",
+        "image": "o",
+        "publish": "1",
+        "title": "AFC Ajax vs Groningen"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "Eredivisie",
+        "channels_data": [
+          {
+            "api": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
+            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
+            "title": "PREMIER SPORTS",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/21 21:00:00 +0000",
+          "eventName": "Utrecht vs Heerenveen",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/21 19:00:00 +0000",
+          "teamA": "Utrecht",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2948/image",
+          "teamB": "Heerenveen",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2964/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "PREMIER SPORTS"
+          }
+        ],
+        "id": "412",
+        "image": "o",
+        "publish": "1",
+        "title": "Utrecht vs Heerenveen"
       }
     ]
   }
