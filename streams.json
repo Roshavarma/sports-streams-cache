@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-21T18:30:38.482277",
+  "last_updated": "2026-05-21T18:40:24.660943",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "11:55:23 PM 21-05-2026",
+    "Last update time": "12:05:18 AM 22-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -1566,6 +1566,13 @@
             "logo": "",
             "title": "SporTV BR",
             "type": "1"
+          },
+          {
+            "api": "",
+            "link": "https://play.ltwxsc.com/live/hd-en-6Mwe5B4Dqvc1ZXmR8J.m3u8?txSecret=9d3ba734bad3dbb3c30d8bca988b25c8&txTime=6A0F795A",
+            "logo": "",
+            "title": "SPORTIFy Live",
+            "type": "0"
           }
         ],
         "eventInfo": {
@@ -1587,6 +1594,10 @@
           {
             "logo": "",
             "title": "SporTV BR"
+          },
+          {
+            "logo": "",
+            "title": "SportzX Live"
           }
         ],
         "id": "409",
