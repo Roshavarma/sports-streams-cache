@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-21T17:40:22.290114",
+  "last_updated": "2026-05-21T17:50:24.870301",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "11:05:20 PM 21-05-2026",
+    "Last update time": "11:15:29 PM 21-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -1172,6 +1172,13 @@
             "logo": "",
             "title": "FOX DEPORTES",
             "type": "1"
+          },
+          {
+            "api": "",
+            "link": "https://chatgpt.hereisman.net/playlist/50927/load-playlist?|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "title": "FOX SPORTS HD",
+            "type": "0"
           }
         ],
         "eventInfo": {
@@ -1197,6 +1204,10 @@
           {
             "logo": "",
             "title": "FOX DEPORTES"
+          },
+          {
+            "logo": "",
+            "title": "FOX SPORTS HD"
           }
         ],
         "id": "400",
@@ -1213,6 +1224,13 @@
             "link": "https://chatgpt.hereisman.net/playlist/50926/load-playlist?|Referer=https://gooz.aapmains.net",
             "logo": "",
             "title": "FOX SOCCER+ HD",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://live.vivo200.com/live/sd-1-4404654.m3u8?txSecret=d5270564901b4ef5d9648150947c16a6&txTime=6A0F4B3E|referer=https://player.online909.com/",
+            "logo": "",
+            "title": "SPORTIFy Live",
             "type": "0"
           }
         ],
@@ -1231,6 +1249,10 @@
           {
             "logo": "",
             "title": "FOX SOCCER+ HD"
+          },
+          {
+            "logo": "",
+            "title": "SportzX Live"
           }
         ],
         "id": "401",
