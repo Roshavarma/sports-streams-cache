@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-21T01:40:20.799845",
+  "last_updated": "2026-05-21T01:50:21.518188",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "01:20:26 AM 21-05-2026",
+    "Last update time": "07:15:24 AM 21-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -631,8 +631,16 @@
         },
         "formatsNew": [
           {
+            "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
+            "title": "TSN SPORTS FHD"
+          },
+          {
             "logo": "",
-            "title": "SportzX NBA"
+            "title": "ESPN US FHD"
+          },
+          {
+            "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
+            "title": "TSN SPORTS HD"
           },
           {
             "logo": "",
@@ -945,7 +953,7 @@
           "endTime": "2026/05/20 21:05:00 +0000",
           "eventName": "Freiburg vs Aston Villa",
           "eventType": "null",
-          "isHot": "1",
+          "isHot": "0",
           "startTime": "2026/05/20 19:00:00 +0000",
           "teamA": "Freiburg",
           "teamAFlag": "https://img.sofascore.com/api/v1/team/2538/image",
@@ -1424,59 +1432,6 @@
       },
       {
         "adsLimit": "0",
-        "cat": "Pro League 🇸🇦",
-        "channels_data": [
-          {
-            "api": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
-            "title": "FOX SPORTS FHD",
-            "type": "1"
-          },
-          {
-            "api": "1d9050b5c22b44bab50e1251ad109c70:3b2f8622d37345f4b8d0784a53699a98",
-            "link": "https://adjara-live-eu.akamaized.net/hdntl=exp=1779330828~acl=%2F*~id=9e8ef735-0d76-4939-928a-e13d724e15f8~data=hdntl,aXA9MTIyLjMuMjguMjMyJmV4cD0xNzc5MjQ0NDU1JmVpZD05MzU4NTUmb2lkPTE1NCZ0eXBlPVZPRCZ1aWQ9UHBrTHB6fGY0YWJjOWU1LTMwNDItNDkwNC1hZTU5LWEwOTNiOWQ0NmJhZSZjaWQ9ZGNlLmZpc2ZlZCZwdD1udWxs~hmac=1871b10c8b53359a57f45016e7fba9dd7202429da6724f069dcd21c5ff909572/dash/live/2019411/303263-321786/manifest-d.mpd",
-            "title": "SETANTA SPORTS",
-            "type": "1"
-          },
-          {
-            "api": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
-            "title": "FOX DEPORTES",
-            "type": "1"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/20 20:00:00 +0000",
-          "eventName": "Al-Khaleej vs Al-Ahli",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/20 18:00:00 +0000",
-          "teamA": "Al-Khaleej",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/167228/image",
-          "teamB": "Al-Ahli",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/34469/image"
-        },
-        "formatsNew": [
-          {
-            "logo": "",
-            "title": "FOX SPORTS FHD"
-          },
-          {
-            "logo": "",
-            "title": "SETANTA SPORTS"
-          },
-          {
-            "logo": "",
-            "title": "FOX DEPORTES"
-          }
-        ],
-        "id": "415",
-        "image": "o",
-        "publish": "1",
-        "title": "Al-Khaleej vs Al-Ahli"
-      },
-      {
-        "adsLimit": "0",
         "cat": "CON. Libertadores",
         "channels_data": [
           {
@@ -1511,22 +1466,7 @@
       {
         "adsLimit": "0",
         "cat": "CON. Sudamericana",
-        "channels_data": [
-          {
-            "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
-            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
-            "logo": "",
-            "title": "beIN ENGLISH",
-            "type": "1"
-          },
-          {
-            "api": "294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd",
-            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10",
-            "title": "TNT Sports 1",
-            "type": "1"
-          }
-        ],
+        "channels_data": {},
         "eventInfo": {
           "endTime": "2026/05/21 00:00:00 +0000",
           "eventName": "Santos vs San Lorenzo",
