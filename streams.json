@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-21T02:50:25.366697",
+  "last_updated": "2026-05-21T03:00:48.910791",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "08:15:22 AM 21-05-2026",
+    "Last update time": "08:25:19 AM 21-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -794,66 +794,6 @@
         "image": "o",
         "publish": "1",
         "title": "Golden Knights"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "MLB",
-        "channels_data": {},
-        "eventInfo": {
-          "endTime": "2026/05/21 02:40:00 +0000",
-          "eventName": "Chicago Cubs vs Milwaukee Brewers",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/20 23:40:00 +0000",
-          "teamA": "Cubs",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3627/image",
-          "teamB": "Brewers",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3630/image"
-        },
-        "formatsNew": [
-          {
-            "logo": "",
-            "title": "SportzX MLB"
-          },
-          {
-            "logo": "",
-            "title": "SportzX Live"
-          }
-        ],
-        "id": "394",
-        "image": "o",
-        "publish": "1",
-        "title": "Chicago Cubs"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "MLB",
-        "channels_data": {},
-        "eventInfo": {
-          "endTime": "2026/05/21 02:40:00 +0000",
-          "eventName": "Kansas City Royals vs Boston Red Sox",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/20 23:40:00 +0000",
-          "teamA": "Royals",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3651/image",
-          "teamB": "Red Sox",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3646/image"
-        },
-        "formatsNew": [
-          {
-            "logo": "",
-            "title": "SportzX MLB"
-          },
-          {
-            "logo": "",
-            "title": "SportzX Live"
-          }
-        ],
-        "id": "395",
-        "image": "o",
-        "publish": "1",
-        "title": "Boston Red Sox"
       },
       {
         "adsLimit": "0",
