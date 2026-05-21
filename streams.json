@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-21T16:40:23.768485",
+  "last_updated": "2026-05-21T16:50:25.828861",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "10:05:19 PM 21-05-2026",
+    "Last update time": "10:15:26 PM 21-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -1555,8 +1555,23 @@
           {
             "api": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f",
             "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
+            "logo": "",
             "title": "PREMIER SPORTS",
             "type": "1"
+          },
+          {
+            "api": "",
+            "link": "https://play.ltwxsc.com/live/sd-6Mwe5B5gzCmRGeGAge.m3u8?txSecret=84bac43352b1783dd7d4be130504d68d&txTime=6A0F5F19",
+            "logo": "",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://instreams.pro/EU/HDTV1/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
+            "logo": "",
+            "title": "HD SERVER",
+            "type": "0"
           }
         ],
         "eventInfo": {
@@ -1574,6 +1589,14 @@
           {
             "logo": "",
             "title": "PREMIER SPORTS"
+          },
+          {
+            "logo": "",
+            "title": "SportzX Live"
+          },
+          {
+            "logo": "",
+            "title": "HD SERVER"
           }
         ],
         "id": "411",
