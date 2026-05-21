@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-21T20:22:18.360021",
+  "last_updated": "2026-05-21T20:30:38.673207",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "01:50:26 AM 22-05-2026",
+    "Last update time": "01:55:21 AM 22-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -989,7 +989,22 @@
         "channels_data": [
           {
             "api": "",
+            "link": "https://chatgpt.hereisman.net/playlist/50937/load-playlist?|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "title": "SPORTIFy MLB",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://streamxyz.shop/mets/tracks-v1a1/mono.ts.m3u8",
+            "logo": "",
+            "title": "MLB LIVE HD",
+            "type": "0"
+          },
+          {
+            "api": "",
             "link": "https://mainstreams.pro/hls/ihfazugfyjcazich17.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+            "logo": "",
             "title": "SPORTIFy Live",
             "type": "0"
           }
@@ -1006,6 +1021,14 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/3629/image"
         },
         "formatsNew": [
+          {
+            "logo": "",
+            "title": "SportzX MLB"
+          },
+          {
+            "logo": "",
+            "title": "MLB LIVE HD"
+          },
           {
             "logo": "",
             "title": "SportzX Live"
