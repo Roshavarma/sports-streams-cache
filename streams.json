@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-21T18:21:21.267482",
+  "last_updated": "2026-05-21T18:30:38.482277",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "11:45:27 PM 21-05-2026",
+    "Last update time": "11:55:23 PM 21-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -1554,6 +1554,13 @@
         "cat": "Bundesliga 🇩🇪",
         "channels_data": [
           {
+            "api": "e64b0accb6cb4a12891c163214193703:f2a46287c1384f7e9982e43a25bd1013",
+            "link": "https://adjara-live-eu.akamaized.net/hdntl=exp=1779464404~acl=%2F*~id=3b39f884-3163-4193-b113-9e7ccbc8d334~data=hdntl,aXA9MjAuMTcxLjEyNi4yMTkmZXhwPTE3NzkzNzgwMzQmZWlkPTk2MDc3MyZvaWQ9MTA4JnR5cGU9Vk9EJnVpZD15UnA0N0V8ZDNmYTE0YjYtNDliYS00ZmEwLTllY2EtNjQ5N2UyYjRhODJlJmNpZD1kY2Uuc3B1cnMmcHQ9bnVsbA~hmac=214d9b57397f47f7d0023c39969ddb9a3de60745d3363964beacc2126e06d247/dash/live/2019606/303297-321819/manifest-d.mpd",
+            "logo": "",
+            "title": "SETANTA SPORTS",
+            "type": "1"
+          },
+          {
             "api": "3de028eafb3b2caffec03be1c1c818b3:8fbdd8a9ae6748696bb13e547bb093fc",
             "link": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/dsa3hwuhd1/out/v1/631b48c8d9ea437e8309d1a4b55acef5/cenc.mpd",
             "logo": "",
@@ -1573,6 +1580,10 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/2561/image"
         },
         "formatsNew": [
+          {
+            "logo": "",
+            "title": "SETANTA SPORTS"
+          },
           {
             "logo": "",
             "title": "SporTV BR"
