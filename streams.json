@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-21T05:20:23.281829",
+  "last_updated": "2026-05-21T05:30:40.977052",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "10:45:22 AM 21-05-2026",
+    "Last update time": "10:55:19 AM 21-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -547,17 +547,102 @@
       {
         "adsLimit": "8",
         "cat": "Indian Premier League",
-        "channels_data": {},
+        "channels_data": [
+          {
+            "api": "2597214228a8fd9ef3c92462ca7a7e5a:a54a51ab548826992a0f2eb0V2b\u0011fcb9",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bbwucpyqgf/out/v1/f1622911f01647e58b54de9a2aafe9bc/cenc.mpd",
+            "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
+            "title": "WILLOW [Ad-Free]",
+            "type": "1"
+          },
+          {
+            "api": "708a98b352bd4418a73a028edd84da8f:b1fa5c2bca4c4b57b924b748x64\u001532cb",
+            "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1779330828~acl=%2F*~id=9e8ef735-0d76-4939-928a-e13d724e15f8~data=hdntl,aXA9MTIyLjMuMjguMjMyJmV4cD0xNzc5MjQ0NDU1JmVpZD05MzU4NTUmb2lkPTE1NCZ0eXBlPVZPRCZ1aWQ9UHBrTHB6fGY0YWJjOWU1LTMwNDItNDkwNC1hZTU5LWEwOTNiOWQ0NmJhZSZjaWQ9ZGNlLmZpc2ZlZCZwdD1udWxs~hmac=1871b10c8b53359a57f45016e7fba9dd7202429da6724f069dcd21c5ff909572/dash/live/2093715/219027-321028/manifest-d.mpd",
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
+            "title": "SKY SPORTS FHD",
+            "type": "1"
+          },
+          {
+            "api": "356a1d752c2b558d9654d9b70e8dba92:87b50a2694fbb866d1c588e0t21Af67d",
+            "link": "https://dck1-ac-live.cdn.indazn.com/out/v1/761f422bb93edb7b/dce4863dd61a4b6da30e134996927fd0/index.mpd",
+            "logo": "https://play-lh.googleusercontent.com/cnJUFy1qP5kPvc1gFrTNuh1Lg8KlS0meXk2Sxsxr-7VfDD0PAJnFkI41fKC41BQlE44",
+            "title": "KAYO HINDI - AQ",
+            "type": "1"
+          },
+          {
+            "api": "01c9bbf8137e58378a5ead514998a7b4:fb01e61809e80e5e93a889cdv1dAab22",
+            "link": "https://dck1-fs-live.dtcdn.dazn.com/out/v1/814bffb9b389f652/d65feac5647949e6b45b2674d4715398/index.mpd",
+            "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
+            "title": "FOX CRICKET FHD",
+            "type": "1"
+          },
+          {
+            "api": "",
+            "link": "https://dai.google.com/linear/hls/event/mbsfWpAoS2Olw5e-nkM-gw/master.m3u8|user-agent=Cricbuzz/7.00.01 (Linux;Android 13) AndroidXMedia3/1.5.1&x-forwarded-for=1.178.20.23",
+            "logo": "",
+            "title": "NOON SPORTS",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla",
+            "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
+            "title": "SKY CRICKET",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://stb-air.wasmer.app//play.php?id=LIVETV_LIVETVCHANNEL_STAR_SPORTS_1_HD&uid=999&pass=999",
+            "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
+            "title": "Star Sports HIN",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "http://datahub11.com/live/Jen12345/Jen54321/703300.ts",
+            "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
+            "title": "WILLOW HINDI",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "http://193.47.62.40/hls/koooq.m3u8|Referer=http://www.fawanews.sc/",
+            "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
+            "title": "SD SERVER",
+            "type": "0"
+          },
+          {
+            "api": "=81872faa1d6b45fa9045cdeb2e310000:9b88168e61274587a471962cw6B94675",
+            "link": "https://livetv.hotstar.com/mp1/gec-india-1540065788/fa6a4f0005ef4f90ab24484d165b0aaf/index.mpd?%7Ccookie=hdntl=exp=1779367180~acl=%2F*~id=35f7ade32fbd132abd89fe60553696f4~data=hdntl~hmac=33c340ed531fbbc8b5a3f932879b892b945cc7f2b61e52ef0be61dee04d02149&User-agent=Hotstar;in.startv.hotstar/SportsLover(Android/15)&Referer=https://www.hotstar.com/&origin=https://www.hotstar.com",
+            "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
+            "title": "STAR SPORTS HIN",
+            "type": "1"
+          },
+          {
+            "api": "b7cdde012ce04e90a08b90622e020000:13603245acab444faef6cab5t98De55f",
+            "link": "https://livetv.hotstar.com/mp1/gec-india-1540065782/fce958099ca84fc3b980e651a4a668a8/index.mpd?%7Ccookie=hdntl=exp=1779367180~acl=%2F*~id=35f7ade32fbd132abd89fe60553696f4~data=hdntl~hmac=33c340ed531fbbc8b5a3f932879b892b945cc7f2b61e52ef0be61dee04d02149&User-agent=Hotstar;in.startv.hotstar/SportsLover(Android/15)&Referer=https://www.hotstar.com/&origin=https://www.hotstar.com",
+            "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
+            "title": "STAR SPORTS ENG",
+            "type": "1"
+          },
+          {
+            "api": "",
+            "link": "https://jcevents.hotstar.com/bpk-tv/e03bbf7688f4b14faa3782e78851c3d9_CTV/Fallback/e03bbf7688f4b14faa3782e78851c3d9.m3u8?%7Ccookie=hdntl=exp=1779367180~acl=%2F*~id=35f7ade32fbd132abd89fe60553696f4~data=hdntl~hmac=33c340ed531fbbc8b5a3f932879b892b945cc7f2b61e52ef0be61dee04d02149&User-agent=Hotstar;in.startv.hotstar/SportsLover(Android/15)&Referer=https://www.hotstar.com/&origin=https://www.hotstar.com",
+            "logo": "",
+            "title": "IPL ENG [Hotstar]",
+            "type": "0"
+          }
+        ],
         "eventInfo": {
-          "endTime": "2026/05/20 18:00:00 +0000",
-          "eventName": "Kolkata Knight Riders vs Mumbai Indians",
+          "endTime": "2026/05/21 18:00:00 +0000",
+          "eventName": "Gujarat Titans vs Chennai Super Kings",
           "eventType": "null",
           "isHot": "0",
-          "startTime": "2026/05/20 14:00:00 +0000",
-          "teamA": "KKR",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/187775/image",
-          "teamB": "MI",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/187780/image"
+          "startTime": "2026/05/21 14:00:00 +0000",
+          "teamA": "Gujarat Titans",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/216006/image",
+          "teamB": "Chennai Super Kings",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/187777/image"
         },
         "formatsNew": [
           {
