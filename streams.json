@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-21T19:10:27.251786",
+  "last_updated": "2026-05-21T19:20:21.706582",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "12:35:30 AM 22-05-2026",
+    "Last update time": "12:45:26 AM 22-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -1612,8 +1612,16 @@
           {
             "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
             "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
-            "title": "beIN ENGLISH",
+            "logo": "",
+            "title": "beIN ENGLISH FHD",
             "type": "1"
+          },
+          {
+            "api": "",
+            "link": "https://livecdn-bp-iptv.rumsport7.live/live_abr/372_abrhd.m3u8?is_vip=false&token=e51db11ebec0e70746f1b10a8a8a0bf2361f803f&x-sign=eca44e914fb1934300a0c9c32e61ee52&x-time=1779390300",
+            "logo": "",
+            "title": "SKY SPORTS HD",
+            "type": "0"
           }
         ],
         "eventInfo": {
@@ -1630,69 +1638,17 @@
         "formatsNew": [
           {
             "logo": "",
-            "title": "beIN ENGLISH"
+            "title": "beIN ENGLISH FHD"
+          },
+          {
+            "logo": "",
+            "title": "SKY SPORTS HD"
           }
         ],
         "id": "410",
         "image": "o",
         "publish": "1",
         "title": "Partick Thistle vs St. Mirren"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "Eredivisie",
-        "channels_data": [
-          {
-            "api": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f",
-            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
-            "logo": "",
-            "title": "PREMIER SPORTS",
-            "type": "1"
-          },
-          {
-            "api": "",
-            "link": "https://live.vivo200.com/live/sd-1-4543843.m3u8?txSecret=1f688c7a9ba225df1ac133b638542722&txTime=6A0F4075|referer=https://player.online909.com/",
-            "logo": "",
-            "title": "SPORTIFy Live",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://instreams.pro/EU/HDTV1/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
-            "logo": "",
-            "title": "HD SERVER",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/21 18:45:00 +0000",
-          "eventName": "AFC Ajax vs Groningen",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/21 16:45:00 +0000",
-          "teamA": "Ajax",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2953/image",
-          "teamB": "Groningen",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2951/image"
-        },
-        "formatsNew": [
-          {
-            "logo": "",
-            "title": "PREMIER SPORTS"
-          },
-          {
-            "logo": "",
-            "title": "SportzX Live"
-          },
-          {
-            "logo": "",
-            "title": "HD SERVER"
-          }
-        ],
-        "id": "411",
-        "image": "o",
-        "publish": "1",
-        "title": "AFC Ajax vs Groningen"
       },
       {
         "adsLimit": "0",
