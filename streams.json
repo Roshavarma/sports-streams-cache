@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-21T19:00:48.490339",
+  "last_updated": "2026-05-21T19:10:27.251786",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "12:25:19 AM 22-05-2026",
+    "Last update time": "12:35:30 AM 22-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -1701,8 +1701,16 @@
           {
             "api": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
             "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
+            "logo": "",
             "title": "PREMIER SPORTS",
             "type": "1"
+          },
+          {
+            "api": "",
+            "link": "https://play.ltwxsc.com/live/sd-6Mwe5B5gzKMrt5jv9L.m3u8?txSecret=495f3a71e3f99ce3ed430df5386cab6d&txTime=6A0F80D9",
+            "logo": "",
+            "title": "SPORTIFy Live",
+            "type": "0"
           }
         ],
         "eventInfo": {
@@ -1720,6 +1728,10 @@
           {
             "logo": "",
             "title": "PREMIER SPORTS"
+          },
+          {
+            "logo": "",
+            "title": "SportzX Live"
           }
         ],
         "id": "412",
