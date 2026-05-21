@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-21T17:00:49.720547",
+  "last_updated": "2026-05-21T17:10:24.010573",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "10:25:24 PM 21-05-2026",
+    "Last update time": "10:35:23 PM 21-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -1210,9 +1210,9 @@
         "channels_data": [
           {
             "api": "",
-            "link": "https://fallback-video.ivan-flux.workers.dev/video/index.m3u8",
+            "link": "https://chatgpt.hereisman.net/playlist/50926/load-playlist?|Referer=https://gooz.aapmains.net",
             "logo": "",
-            "title": "SPORTIFy Live",
+            "title": "FOX SOCCER+ HD",
             "type": "0"
           }
         ],
@@ -1230,7 +1230,7 @@
         "formatsNew": [
           {
             "logo": "",
-            "title": "SportzX Live"
+            "title": "FOX SOCCER+ HD"
           }
         ],
         "id": "401",
@@ -1279,51 +1279,6 @@
           {
             "api": "e51aa21f2a0fef9aabc120dfb655b52f:a12a987fe725a40b6be95cd84b15f689",
             "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
-            "logo": "",
-            "title": "TSN SPORTS FHD",
-            "type": "1"
-          },
-          {
-            "api": "",
-            "link": "https://chatgpt.hereisman.net/playlist/50928/load-playlist?|Referer=https://gooz.aapmains.net",
-            "logo": "",
-            "title": "SPORTIFy Live",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/21 17:00:00 +0000",
-          "eventName": "Canada vs Norway",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/21 14:20:00 +0000",
-          "teamA": "Canada",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/5729/image",
-          "teamB": "Norway",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/5913/image"
-        },
-        "formatsNew": [
-          {
-            "logo": "",
-            "title": "TSN SPORTS FHD"
-          },
-          {
-            "logo": "",
-            "title": "SportzX Live"
-          }
-        ],
-        "id": "403",
-        "image": "o",
-        "publish": "1",
-        "title": "Canada vs Norway"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "IIHF World",
-        "channels_data": [
-          {
-            "api": "e51aa21f2a0fef9aabc120dfb655b52f:a12a987fe725a40b6be95cd84b15f689",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
             "title": "TSN SPORTS FHD",
             "type": "1"
           }
@@ -1349,39 +1304,6 @@
         "image": "o",
         "publish": "1",
         "title": "Denmark vs Slovakia"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "IIHF World",
-        "channels_data": [
-          {
-            "api": "c4088f5f265f9de50cffd80bf89308b7:2c4d2239d96d532b4ec2050653611003",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
-            "title": "TSN SPORTS FHD",
-            "type": "1"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/21 17:00:00 +0000",
-          "eventName": "Latvia vs Finland",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/21 14:20:00 +0000",
-          "teamA": "Latvia",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/5739/image",
-          "teamB": "Finland",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/5731/image"
-        },
-        "formatsNew": [
-          {
-            "logo": "",
-            "title": "TSN SPORTS FHD"
-          }
-        ],
-        "id": "405",
-        "image": "o",
-        "publish": "1",
-        "title": "Latvia vs Finland"
       },
       {
         "adsLimit": "0",
@@ -1422,7 +1344,15 @@
         "channels_data": [
           {
             "api": "",
+            "link": "https://chatgpt.hereisman.net/playlist/50932/load-playlist?|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "title": "SPORTIFy MLB",
+            "type": "0"
+          },
+          {
+            "api": "",
             "link": "https://mainstreams.pro/hls/dazhfiach15.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+            "logo": "",
             "title": "SPORTIFy Live",
             "type": "0"
           }
@@ -1441,6 +1371,10 @@
         "formatsNew": [
           {
             "logo": "",
+            "title": "SportzX MLB"
+          },
+          {
+            "logo": "",
             "title": "SportzX Live"
           }
         ],
@@ -1455,7 +1389,15 @@
         "channels_data": [
           {
             "api": "",
+            "link": "https://chatgpt.hereisman.net/playlist/50934/load-playlist?|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "title": "SPORTIFy MLB",
+            "type": "0"
+          },
+          {
+            "api": "",
             "link": "https://mainstreams.pro/hls/16yuitzaerghbhc16.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+            "logo": "",
             "title": "SPORTIFy Live",
             "type": "0"
           }
@@ -1472,6 +1414,10 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/3637/image"
         },
         "formatsNew": [
+          {
+            "logo": "",
+            "title": "SportzX MLB"
+          },
           {
             "logo": "",
             "title": "SportzX Live"
@@ -1561,7 +1507,7 @@
           },
           {
             "api": "",
-            "link": "https://play.ltwxsc.com/live/sd-6Mwe5B5gzCmRGeGAge.m3u8?txSecret=84bac43352b1783dd7d4be130504d68d&txTime=6A0F5F19",
+            "link": "https://live.vivo200.com/live/sd-1-4543843.m3u8?txSecret=1f688c7a9ba225df1ac133b638542722&txTime=6A0F4075|referer=https://player.online909.com/",
             "logo": "",
             "title": "SPORTIFy Live",
             "type": "0"
