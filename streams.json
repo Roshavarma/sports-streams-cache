@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-21T18:00:49.345266",
+  "last_updated": "2026-05-21T18:10:25.972705",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "11:25:24 PM 21-05-2026",
+    "Last update time": "11:35:20 PM 21-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -1286,6 +1286,13 @@
           },
           {
             "api": "",
+            "link": "https://livecdn-tc-iptv.rumsport10.live/live_abr/151592_abrsd.m3u8?is_vip=false&token=1779472697-Kv4cPTAAP5YTi-e51db11ebec0e70746f1b10a8a8a0bf2361f803f-6ba122c15ba6b8523b2f1204da8dc7d8",
+            "logo": "",
+            "title": "SPY HD LIVE",
+            "type": "0"
+          },
+          {
+            "api": "",
             "link": "https://live.vivo200.com/live/sd-1-4404654.m3u8?txSecret=d5270564901b4ef5d9648150947c16a6&txTime=6A0F4B3E|referer=https://player.online909.com/",
             "logo": "",
             "title": "SPORTIFy Live",
@@ -1296,7 +1303,7 @@
           "endTime": "2026/05/21 20:04:00 +0000",
           "eventName": "Al-Fayha vs Al-Hilal",
           "eventType": "null",
-          "isHot": "0",
+          "isHot": "1",
           "startTime": "2026/05/21 18:00:00 +0000",
           "teamA": "Al-Fayha",
           "teamAFlag": "https://img.sofascore.com/api/v1/team/168094/image",
@@ -1315,6 +1322,10 @@
           {
             "logo": "",
             "title": "FOX SOCCER+ HD"
+          },
+          {
+            "logo": "",
+            "title": "SPX HD LIVE"
           },
           {
             "logo": "",
