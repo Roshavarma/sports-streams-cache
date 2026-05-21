@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-21T17:50:24.870301",
+  "last_updated": "2026-05-21T18:00:49.345266",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "11:15:29 PM 21-05-2026",
+    "Last update time": "11:25:24 PM 21-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -1155,8 +1155,29 @@
           {
             "api": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae",
             "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
-            "logo": "",
+            "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
             "title": "FOX SPORTS FHD",
+            "type": "1"
+          },
+          {
+            "api": "89f164142ae84bb8a06cb2eec38ddd67:99b4b1335a1b49578b282262c9a5b067",
+            "link": "https://adjara-live-eu.akamaized.net/hdntl=exp=1779464393~acl=%2F*~id=2618416e-aefa-4e30-b8b5-6a697e869837~data=hdntl,aXA9MjAuMTcxLjEyNi4yMTkmZXhwPTE3NzkzNzgwMTgmZWlkPTk2MDQ3OSZvaWQ9MTA4JnR5cGU9Vk9EJnVpZD15UnA0N0V8ZDNmYTE0YjYtNDliYS00ZmEwLTllY2EtNjQ5N2UyYjRhODJlJmNpZD1kY2Uuc3B1cnMmcHQ9bnVsbA~hmac=83d73c8d913c6218c8e35faefb9bf5a7d9add4e30d2581060b026d41c523bf94/dash/live/2019672/303265-321816/manifest-d.mpd",
+            "logo": "",
+            "title": "SETANTA SPORTS",
+            "type": "1"
+          },
+          {
+            "api": "065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2",
+            "link": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
+            "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png",
+            "title": "FANCODE FHD",
+            "type": "1"
+          },
+          {
+            "api": "4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733",
+            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd",
+            "logo": "",
+            "title": "SporTV BR FHD",
             "type": "1"
           },
           {
@@ -1176,8 +1197,15 @@
           {
             "api": "",
             "link": "https://chatgpt.hereisman.net/playlist/50927/load-playlist?|Referer=https://gooz.aapmains.net",
-            "logo": "",
+            "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
             "title": "FOX SPORTS HD",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://live.vivo200.com/live/sd-1-4404655.m3u8?txSecret=cea3f39916f2ee0a194c4637db1f1842&txTime=6A0F4B94|referer=https://player.online909.com/",
+            "logo": "",
+            "title": "SPORTIFy Live",
             "type": "0"
           }
         ],
@@ -1185,7 +1213,7 @@
           "endTime": "2026/05/21 20:05:00 +0000",
           "eventName": "Al-Nassr vs Damac FC",
           "eventType": "null",
-          "isHot": "0",
+          "isHot": "1",
           "startTime": "2026/05/21 18:00:00 +0000",
           "teamA": "Al-Nassr",
           "teamAFlag": "https://img.sofascore.com/api/v1/team/23400/image",
@@ -1194,8 +1222,20 @@
         },
         "formatsNew": [
           {
-            "logo": "",
+            "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
             "title": "FOX SPORTS FHD"
+          },
+          {
+            "logo": "",
+            "title": "SETANTA SPORTS"
+          },
+          {
+            "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png",
+            "title": "FANCODE FHD"
+          },
+          {
+            "logo": "",
+            "title": "SporTV BR FHD"
           },
           {
             "logo": "",
@@ -1206,8 +1246,12 @@
             "title": "FOX DEPORTES"
           },
           {
-            "logo": "",
+            "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
             "title": "FOX SPORTS HD"
+          },
+          {
+            "logo": "",
+            "title": "SportzX Live"
           }
         ],
         "id": "400",
@@ -1219,6 +1263,20 @@
         "adsLimit": "0",
         "cat": "Pro League 🇸🇦",
         "channels_data": [
+          {
+            "api": "4e5ca6fe32634fa5b2980096476db88c:ca5131c9785f4b4b8c702ce33a040435",
+            "link": "https://adjara-live-eu.akamaized.net/hdntl=exp=1779464399~acl=%2F*~id=6d6b13cd-7afa-46d2-b9b1-c82bb966048d~data=hdntl,aXA9MjAuMTcxLjEyNi4yMTkmZXhwPTE3NzkzNzgwMjgmZWlkPTk2MDc3MSZvaWQ9MTA4JnR5cGU9Vk9EJnVpZD15UnA0N0V8ZDNmYTE0YjYtNDliYS00ZmEwLTllY2EtNjQ5N2UyYjRhODJlJmNpZD1kY2Uuc3B1cnMmcHQ9bnVsbA~hmac=08f4c7eede036c5f8bac0b415b00cbd4ced508167cbd2656134a290644173708/dash/live/2019406/303266-321817/manifest-d.mpd",
+            "logo": "",
+            "title": "SETANTA SPORTS",
+            "type": "1"
+          },
+          {
+            "api": "7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe",
+            "link": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
+            "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png",
+            "title": "FANCODE FHD",
+            "type": "1"
+          },
           {
             "api": "",
             "link": "https://chatgpt.hereisman.net/playlist/50926/load-playlist?|Referer=https://gooz.aapmains.net",
@@ -1248,6 +1306,14 @@
         "formatsNew": [
           {
             "logo": "",
+            "title": "SETANTA SPORTS"
+          },
+          {
+            "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png",
+            "title": "FANCODE FHD"
+          },
+          {
+            "logo": "",
             "title": "FOX SOCCER+ HD"
           },
           {
@@ -1266,7 +1332,7 @@
         "channels_data": [
           {
             "api": "",
-            "link": "https://fallback-video.ivan-flux.workers.dev/video/index.m3u8",
+            "link": "https://live.vivo200.com/live/sd-1-4404630.m3u8?txSecret=7b6eb26bd9a06762510b33af6e7c096b&txTime=6A0F4B73|referer=https://player.online909.com/",
             "logo": "",
             "title": "SPORTIFy Live",
             "type": "0"
@@ -1477,8 +1543,9 @@
         "cat": "Bundesliga 🇩🇪",
         "channels_data": [
           {
-            "api": "4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733",
-            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd",
+            "api": "3de028eafb3b2caffec03be1c1c818b3:8fbdd8a9ae6748696bb13e547bb093fc",
+            "link": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/dsa3hwuhd1/out/v1/631b48c8d9ea437e8309d1a4b55acef5/cenc.mpd",
+            "logo": "",
             "title": "SporTV BR",
             "type": "1"
           }
