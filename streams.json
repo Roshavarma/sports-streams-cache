@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-21T13:10:27.743895",
+  "last_updated": "2026-05-21T13:20:27.871993",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "06:35:21 PM 21-05-2026",
+    "Last update time": "06:45:31 PM 21-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -769,24 +769,17 @@
         "cat": "Indian Premier League",
         "channels_data": [
           {
-            "api": "2597214228a8fd9ef3c92462ca7a7e5a:a54a51ab548826992a0f2eb0V2b\u0011fcb9",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bbwucpyqgf/out/v1/f1622911f01647e58b54de9a2aafe9bc/cenc.mpd",
-            "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
-            "title": "WILLOW [Ad-Free]",
-            "type": "1"
-          },
-          {
-            "api": "708a98b352bd4418a73a028edd84da8f:b1fa5c2bca4c4b57b924b748x64\u001532cb",
-            "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1779330828~acl=%2F*~id=9e8ef735-0d76-4939-928a-e13d724e15f8~data=hdntl,aXA9MTIyLjMuMjguMjMyJmV4cD0xNzc5MjQ0NDU1JmVpZD05MzU4NTUmb2lkPTE1NCZ0eXBlPVZPRCZ1aWQ9UHBrTHB6fGY0YWJjOWU1LTMwNDItNDkwNC1hZTU5LWEwOTNiOWQ0NmJhZSZjaWQ9ZGNlLmZpc2ZlZCZwdD1udWxs~hmac=1871b10c8b53359a57f45016e7fba9dd7202429da6724f069dcd21c5ff909572/dash/live/2093715/219027-321028/manifest-d.mpd",
+            "api": "aefc2c8d1c8840f1b6981f856c9269ba:cf8ea114c45b4d6596b27482x8aB74d6",
+            "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1779431198~acl=%2F*~id=830a8bef-52b5-4b89-b2c9-9a5649cab2ef~data=hdntl,aXA9MTM1LjIzMi4yMDEuMzMmZXhwPTE3NzkzNDQ4MjgmZWlkPTk2MDYwNSZvaWQ9MTA4JnR5cGU9Vk9EJnVpZD1lWExwdEZ8MTc2MTc0ZjYtMmNkNy00ODYzLWEzMjAtZTljNjM5NTZiNTE1JmNpZD1kY2Uuc3B1cnMmcHQ9bnVsbA~hmac=2add213e5b2b0f89981a9f5a747f6ae3f10fe3ddb16627a2fa74e50e84cd4e67/dash/live/2093710/219026-321025/manifest-d.mpd",
             "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
             "title": "SKY SPORTS FHD",
             "type": "1"
           },
           {
-            "api": "356a1d752c2b558d9654d9b70e8dba92:87b50a2694fbb866d1c588e0t21Af67d",
-            "link": "https://dck1-ac-live.cdn.indazn.com/out/v1/761f422bb93edb7b/dce4863dd61a4b6da30e134996927fd0/index.mpd",
-            "logo": "https://play-lh.googleusercontent.com/cnJUFy1qP5kPvc1gFrTNuh1Lg8KlS0meXk2Sxsxr-7VfDD0PAJnFkI41fKC41BQlE44",
-            "title": "KAYO HINDI - AQ",
+            "api": "4d346b1d1ae64d4a800409cffa14983e:208c972bd2da4359ac94e694wfe\u001378b6",
+            "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1779431198~acl=%2F*~id=830a8bef-52b5-4b89-b2c9-9a5649cab2ef~data=hdntl,aXA9MTM1LjIzMi4yMDEuMzMmZXhwPTE3NzkzNDQ4MjgmZWlkPTk2MDYwNSZvaWQ9MTA4JnR5cGU9Vk9EJnVpZD1lWExwdEZ8MTc2MTc0ZjYtMmNkNy00ODYzLWEzMjAtZTljNjM5NTZiNTE1JmNpZD1kY2Uuc3B1cnMmcHQ9bnVsbA~hmac=2add213e5b2b0f89981a9f5a747f6ae3f10fe3ddb16627a2fa74e50e84cd4e67/dash/live/2093666/294921-318514/manifest-d.mpd",
+            "logo": "",
+            "title": "SKY SPORTS 4k",
             "type": "1"
           },
           {
@@ -866,16 +859,12 @@
         },
         "formatsNew": [
           {
-            "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
-            "title": "WILLOW [Ad-Free]"
-          },
-          {
             "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
             "title": "SKY SPORTS FHD"
           },
           {
-            "logo": "https://play-lh.googleusercontent.com/cnJUFy1qP5kPvc1gFrTNuh1Lg8KlS0meXk2Sxsxr-7VfDD0PAJnFkI41fKC41BQlE44",
-            "title": "KAYO HINDI - AQ"
+            "logo": "",
+            "title": "SKY SPORTS 4k"
           },
           {
             "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
