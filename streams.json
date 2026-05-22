@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-22T20:21:26.047839",
+  "last_updated": "2026-05-22T20:30:39.013405",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "01:50:25 AM 23-05-2026",
+    "Last update time": "01:55:17 AM 23-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -12,7 +12,7 @@
         "channels_data": [
           {
             "api": "708a98b352bd4418a73a028edd84da8f:b1fa5c2bca4c4b57b924b748564532cb",
-            "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1779547768~acl=%2F*~id=b08c6374-4463-46bd-94f4-7c1a0962cc51~data=hdntl,aXA9MjAuMTA2LjE4Mi4yMDkmZXhwPTE3Nzk0NjEzOTgmZWlkPTk2MTUwMSZvaWQ9MTA4JnR5cGU9Vk9EJnVpZD1EWGlvRWF8YWViZmUzZDgtMTEzNy00MDQyLTllNGEtOTliODU2M2UzYWI0JmNpZD1kY2Uuc3B1cnMmcHQ9bnVsbA~hmac=ca0a0cecfd5ab1d6163a8169fbd8a240df242adb75d187e70f08b70234822da2/dash/live/2093715/219027-321028/manifest-d.mpd",
+            "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1779566116~acl=%2F*~id=1f26dfa9-cc78-4598-ac11-c03c5b9ab880~data=hdntl,aXA9MTcyLjIxNS4yMzEuMTE0JmV4cD0xNzc5NDc5NzQ1JmVpZD05NjE2MDQmb2lkPTEwOCZ0eXBlPVZPRCZ1aWQ9TmNKcjRkfDZlMjc2YTBmLWJkMmUtNDZhMC1iMTJiLTdhMWJlYmEyMzI2YyZjaWQ9ZGNlLnNwdXJzJnB0PW51bGw~hmac=5dadc1cbbbf42f4bc2791431fbd5b3f20400aa204a111b1220e8155c4ae0bf93/dash/live/2093715/219027-321028/manifest-d.mpd",
             "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
             "title": "SKY SPORTS FHD",
             "type": "1"
@@ -22,6 +22,13 @@
             "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/jkcljgqbx8/out/v1/63bfa701559340f3a2a2cb1fccd24807/cenc.mpd",
             "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
             "title": "TSN SPORTS FHD",
+            "type": "1"
+          },
+          {
+            "api": "6eb77216ea7945998d3713be4ebbfc41:c36275beed344adbb6fdfc547be034ba",
+            "link": "https://adjara-live-eu.akamaized.net/hdntl=exp=1779566123~acl=%2F*~id=40e65163-693a-41e1-bab0-0b6994d8b4fd~data=hdntl,aXA9MTcyLjIxNS4yMzEuMTE0JmV4cD0xNzc5NDc5NzUzJmVpZD05NjE1MDEmb2lkPTEwOCZ0eXBlPVZPRCZ1aWQ9TmNKcjRkfDZlMjc2YTBmLWJkMmUtNDZhMC1iMTJiLTdhMWJlYmEyMzI2YyZjaWQ9ZGNlLnNwdXJzJnB0PW51bGw~hmac=f408469ff316d7a34ff16c7378362289e67f76705ea31c4810be76b7fc97608a/dash/live/2005778/303504-321866/manifest-d.mpd",
+            "logo": "",
+            "title": "SETANTA SPORTS",
             "type": "1"
           },
           {
@@ -94,6 +101,10 @@
           {
             "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
             "title": "TSN SPORTS FHD"
+          },
+          {
+            "logo": "",
+            "title": "SETANTA SPORTS"
           },
           {
             "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png",
