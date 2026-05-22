@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-22T13:50:22.549756",
+  "last_updated": "2026-05-22T13:59:15.271079",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "07:15:28 PM 22-05-2026",
+    "Last update time": "07:25:27 PM 22-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -725,6 +725,13 @@
         "cat": "Indian Premier League",
         "channels_data": [
           {
+            "api": "c51937a18336a9d525e80ad8fff3b2a6:ba87b9580d36ad055ed9b959f63D012f",
+            "link": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/whd5oymt8o/out/v1/23365771e28446078a239f9442f31154/cenc.mpd",
+            "logo": "",
+            "title": "WILLOW [Ad-Free]",
+            "type": "1"
+          },
+          {
             "api": "aefc2c8d1c8840f1b6981f856c9269ba:cf8ea114c45b4d6596b27482x8aB74d6",
             "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1779529118~acl=%2F*~id=17ecb6b4-596e-40da-a412-441ad71b6625~data=hdntl,aXA9NTcuMTUxLjE0My4xNzgmZXhwPTE3Nzk0NDI3NDcmZWlkPTk2MDc3MiZvaWQ9MTA4JnR5cGU9Vk9EJnVpZD1ubzZVczZ8ZTRlYzA3YmMtZGNhOC00MmIwLWFiNzQtNjI2YTIwOTBkYTQyJmNpZD1kY2Uuc3B1cnMmcHQ9bnVsbA~hmac=40ad2141322268d56b395ac252db81c74cd9e40b36b8e83900baf5bc3709174c/dash/live/2093710/219026-321025/manifest-d.mpd",
             "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
@@ -814,6 +821,10 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/187843/image"
         },
         "formatsNew": [
+          {
+            "logo": "",
+            "title": "WILLOW [Ad-Free]"
+          },
           {
             "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
             "title": "SKY SPORTS FHD"
