@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-22T18:50:23.796303",
+  "last_updated": "2026-05-22T19:00:48.188665",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "12:15:32 AM 23-05-2026",
+    "Last update time": "12:25:29 AM 23-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -504,13 +504,6 @@
         "channels_data": [
           {
             "api": "",
-            "link": "https://chatgpt.hereisman.net/playlist/50613/load-playlist?|Referer=https://gooz.aapmains.net",
-            "logo": "",
-            "title": "SPORTIFy WWE",
-            "type": "0"
-          },
-          {
-            "api": "",
             "link": "https://29pisfqlcvyi.windows-devs.top/AccessLog2/83_FHD/apache.m3u8|Referer=https://29pisfqlcvyi.windows-devs.top/",
             "logo": "",
             "title": "SPORTIFy Live",
@@ -557,10 +550,6 @@
           "teamBFlag": "https://www.wwe.com/f/styles/wwe_show_logo_l/public/all/2024/09/Smackdown_LOGO--c8e0b09904cb1356d309a8ea2acb0422.png"
         },
         "formatsNew": [
-          {
-            "logo": "",
-            "title": "SportzX WWE"
-          },
           {
             "logo": "",
             "title": "SportzX Live"
@@ -1365,7 +1354,7 @@
           "endTime": "2026/05/22 20:45:00 +0000",
           "eventName": "Fiorentina vs Atalanta",
           "eventType": "null",
-          "isHot": "0",
+          "isHot": "1",
           "startTime": "2026/05/22 18:45:00 +0000",
           "teamA": "Fiorentina",
           "teamAFlag": "https://img.sofascore.com/api/v1/team/2693/image",
@@ -1412,9 +1401,30 @@
           },
           {
             "api": "",
+            "link": "https://chatgpt.hereisman.net/playlist/50957/load-playlist?|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "title": "FOC SOCCER+",
+            "type": "0"
+          },
+          {
+            "api": "",
             "link": "https://live.vivo200.com/live/sd-1-4534498.m3u8?txSecret=3ccbb3a393111383d3da7bb26178b11b&txTime=6A10AA9F|referer=https://player.online909.com/",
             "logo": "",
             "title": "SPORTIFy Live",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://instreams.pro/EU/HDTV22/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
+            "logo": "",
+            "title": "beIN SPORTS HD",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://instreams.pro/bil1/france2/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
+            "logo": "",
+            "title": "FRANCE TV SD",
             "type": "0"
           }
         ],
@@ -1422,7 +1432,7 @@
           "endTime": "2026/05/22 21:00:00 +0000",
           "eventName": "RC Lens vs Nice",
           "eventType": "null",
-          "isHot": "0",
+          "isHot": "1",
           "startTime": "2026/05/22 19:00:00 +0000",
           "teamA": "Lens",
           "teamAFlag": "https://img.sofascore.com/api/v1/team/1648/image",
@@ -1436,7 +1446,19 @@
           },
           {
             "logo": "",
+            "title": "FOC SOCCER+"
+          },
+          {
+            "logo": "",
             "title": "SportzX Live"
+          },
+          {
+            "logo": "",
+            "title": "beIN SPORTS HD"
+          },
+          {
+            "logo": "",
+            "title": "FRANCE TV SD"
           }
         ],
         "id": "401",
