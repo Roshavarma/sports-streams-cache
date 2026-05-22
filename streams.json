@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-22T11:10:35.792268",
+  "last_updated": "2026-05-22T11:20:25.848036",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "04:35:22 PM 22-05-2026",
+    "Last update time": "04:45:25 PM 22-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -1337,6 +1337,72 @@
         "image": "o",
         "publish": "1",
         "title": "Finland vs Great Britain"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "Euroleague",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://fallback-video.ivan-flux.workers.dev/video/index.m3u8",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/22 17:30:00 +0000",
+          "eventName": "Semifinals, Olympiacos vs Fenerbahçe",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/22 15:00:00 +0000",
+          "teamA": "Olympiacos",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3501/image",
+          "teamB": "Fenerbahçe",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3514/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "SportzX Live"
+          }
+        ],
+        "id": "407",
+        "image": "o",
+        "publish": "1",
+        "title": "Olympiacos vs Fenerbahçe"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "Euroleague",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://fallback-video.ivan-flux.workers.dev/video/index.m3u8",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/22 20:40:00 +0000",
+          "eventName": "Semifinals, Valencia vs Real Madrid",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/22 18:00:00 +0000",
+          "teamA": "Valencia",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3545/image",
+          "teamB": "Real Madrid",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3540/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "SportzX Live"
+          }
+        ],
+        "id": "408",
+        "image": "o",
+        "publish": "1",
+        "title": "Valencia vs Real Madrid"
       }
     ]
   }
