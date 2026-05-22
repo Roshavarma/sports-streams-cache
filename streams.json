@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-22T19:00:48.188665",
+  "last_updated": "2026-05-22T19:10:26.319286",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "12:25:29 AM 23-05-2026",
+    "Last update time": "12:35:24 AM 23-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -1527,72 +1527,6 @@
         "cat": "IIHF World",
         "channels_data": [
           {
-            "api": "c4088f5f265f9de50cffd80bf89308b7:2c4d2239d96d532b4ec2050653611003",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
-            "title": "TSN SPORTS FHD",
-            "type": "1"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/22 17:00:00 +0000",
-          "eventName": "Germany vs Hungary",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/22 14:20:00 +0000",
-          "teamA": "Germany",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/5732/image",
-          "teamB": "Hungary",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/7053/image"
-        },
-        "formatsNew": [
-          {
-            "logo": "",
-            "title": "TSN SPORTS FHD"
-          }
-        ],
-        "id": "403",
-        "image": "o",
-        "publish": "1",
-        "title": "Germany vs Hungary"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "IIHF World",
-        "channels_data": [
-          {
-            "api": "e51aa21f2a0fef9aabc120dfb655b52f:a12a987fe725a40b6be95cd84b15f689",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
-            "title": "TSN SPORTS FHD",
-            "type": "1"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/22 17:00:00 +0000",
-          "eventName": "Canada vs Slovenia",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/22 14:20:00 +0000",
-          "teamA": "Canada",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/5729/image",
-          "teamB": "Slovenia",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/5914/image"
-        },
-        "formatsNew": [
-          {
-            "logo": "",
-            "title": "TSN SPORTS FHD"
-          }
-        ],
-        "id": "404",
-        "image": "o",
-        "publish": "1",
-        "title": "Canada vs Slovenia"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "IIHF World",
-        "channels_data": [
-          {
             "api": "e51aa21f2a0fef9aabc120dfb655b52f:a12a987fe725a40b6be95cd84b15f689",
             "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
             "title": "TSN SPORTS FHD",
@@ -1653,95 +1587,6 @@
         "image": "o",
         "publish": "1",
         "title": "Finland vs Great Britain"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "Euroleague",
-        "channels_data": [
-          {
-            "api": "b419be16e9c046c28b1560bd4b318aa1:5ada04fc9ba7414e8f58cba0e7c1c8fe",
-            "link": "https://adjara-live-eu.akamaized.net/hdntl=exp=1779529110~acl=%2F*~id=789bcb6f-d1a7-4557-aaa6-0b393995c33f~data=hdntl,aXA9NTcuMTUxLjE0My4xNzgmZXhwPTE3Nzk0NDI3NDAmZWlkPTk2MDQ3OSZvaWQ9MTA4JnR5cGU9Vk9EJnVpZD1ubzZVczZ8ZTRlYzA3YmMtZGNhOC00MmIwLWFiNzQtNjI2YTIwOTBkYTQyJmNpZD1kY2Uuc3B1cnMmcHQ9bnVsbA~hmac=6bd79c084a0fabd232c6c392b9fe919b1205037ccce029edb329b6bdc92e859c/dash/live/2019612/303305-321850/manifest-d.mpd",
-            "logo": "",
-            "title": "SETANTA SPORTS",
-            "type": "1"
-          },
-          {
-            "api": "",
-            "link": "https://instreams.pro/bil2/novaprime/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
-            "logo": "",
-            "title": "NOVA SPORTS",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "http://193.47.62.57/hls/TTTDDDQQQ.m3u8|Referer=http://www.fawanews.sc/",
-            "logo": "",
-            "title": "SD SERVER",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://instreams.pro/EU/HDTV21/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
-            "logo": "",
-            "title": "ARENA SPORTS",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://instreams.pro/bil2/plusdep1/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
-            "logo": "",
-            "title": "M+ DEPORTES",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://instreams.pro/bil1/ssport/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
-            "logo": "",
-            "title": "Turkey Sports",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/22 17:30:00 +0000",
-          "eventName": "Semifinals, Olympiacos vs Fenerbahçe",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/22 15:00:00 +0000",
-          "teamA": "Olympiacos",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3501/image",
-          "teamB": "Fenerbahçe",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3514/image"
-        },
-        "formatsNew": [
-          {
-            "logo": "",
-            "title": "SETANTA SPORTS"
-          },
-          {
-            "logo": "",
-            "title": "NOVA SPORTS"
-          },
-          {
-            "logo": "",
-            "title": "SD SERVER"
-          },
-          {
-            "logo": "",
-            "title": "ARENA SPORTS"
-          },
-          {
-            "logo": "",
-            "title": "M+ DEPORTES"
-          },
-          {
-            "logo": "",
-            "title": "Turkey Sports"
-          }
-        ],
-        "id": "407",
-        "image": "o",
-        "publish": "1",
-        "title": "Olympiacos vs Fenerbahçe"
       },
       {
         "adsLimit": "0",
