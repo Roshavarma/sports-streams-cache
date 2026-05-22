@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-22T21:00:52.397427",
+  "last_updated": "2026-05-22T21:10:22.197310",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "02:25:22 AM 23-05-2026",
+    "Last update time": "02:35:25 AM 23-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -82,11 +82,11 @@
           }
         ],
         "eventInfo": {
-          "endTime": "2026/05/22 21:30:00 +0000",
+          "endTime": "2026/05/22 21:45:00 +0000",
           "eventBanner": "https://iili.io/CH59QHP.png",
           "eventName": "Formula 1 - Canada GP",
           "eventType": "null",
-          "isHot": "1",
+          "isHot": "0",
           "startTime": "2026/05/22 20:30:00 +0000",
           "teamA": "Formula 1",
           "teamAFlag": "https://scdnmain.net/assets/tournament/40-c.png",
@@ -1532,39 +1532,6 @@
         "image": "o",
         "publish": "1",
         "title": "Chicago Cubs vs Houston Astros"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "MLB",
-        "channels_data": [
-          {
-            "api": "",
-            "link": "https://edgestreams.pro/hls/ihfazugfyjcazich17.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-            "title": "SPORTIFy Live",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/23 01:40:00 +0000",
-          "eventName": "Cincinnati Reds vs Louis Cardinals",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/22 22:40:00 +0000",
-          "teamA": "Reds",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3633/image",
-          "teamB": "Cardinals",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3632/image"
-        },
-        "formatsNew": [
-          {
-            "logo": "",
-            "title": "SportzX Live"
-          }
-        ],
-        "id": "410",
-        "image": "o",
-        "publish": "1",
-        "title": "Cincinnati Reds vs Louis Cardinals"
       },
       {
         "adsLimit": "0",
