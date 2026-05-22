@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-22T14:00:49.602994",
+  "last_updated": "2026-05-22T14:10:23.509065",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "07:25:27 PM 22-05-2026",
+    "Last update time": "07:35:27 PM 22-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -380,18 +380,28 @@
           {
             "api": "308006101c8fd0262c0f529319b9c127:37683aadc75b1450efa82d62c647984d",
             "link": "https://live-pv-ta.amazon.fastly-edge.com/syd-nitro/live/clients/dash/enc/kkfdbi2d1c/out/v1/a5b9b32dafd5499688240287ef8c9b90/cenc.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
-            "title": "One Fight - AQ",
+            "logo": "",
+            "title": "One Fight FHD",
+            "type": "1"
+          },
+          {
+            "api": "326058ffe1cd4d3383781b36ca9145d1:99d405d46f114eff96789673e57d0121",
+            "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1779529113~acl=%2f*~id=f8a0f7f6-5eb8-49c9-a19f-2655d8d88a1a~data=hdntl,aXA9NTcuMTUxLjE0My4xNzgmZXhwPTE3Nzk0NDI3NDMmZWlkPTk2MDc3MCZvaWQ9MTA4JnR5cGU9Vk9EJnVpZD1ubzZVczZ8ZTRlYzA3YmMtZGNhOC00MmIwLWFiNzQtNjI2YTIwOTBkYTQyJmNpZD1kY2Uuc3B1cnMmcHQ9bnVsbA~hmac=569a3a475b804e495e8abbeef2fc2c9e6b659df245657a3d63e14366c2b7b0f0/dash/live/2093723/219038-321034/manifest-d.mpd",
+            "logo": "",
+            "title": "ESPN SPORTS FHD",
             "type": "1"
           },
           {
             "api": "60dc08aae52f4c0b806a8e43f24a12c8:30d5b579966d822b215ec51a91d8a271",
             "link": "https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd",
+            "logo": "",
             "title": "Server 2",
             "type": "1"
           },
           {
             "api": "a6b967afcb974bb5a549377b4f09befd:87d993257a099324ccd0215475fc61a0",
             "link": "https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561402/index.mpd",
+            "logo": "",
             "title": "Server 3",
             "type": "1"
           }
@@ -411,7 +421,11 @@
         "formatsNew": [
           {
             "logo": "",
-            "title": "One Fight - AQ"
+            "title": "One Fight FHD"
+          },
+          {
+            "logo": "",
+            "title": "ESPN SPORTS FHD"
           },
           {
             "logo": "",
@@ -739,6 +753,13 @@
             "type": "1"
           },
           {
+            "api": "b5eb64393bb15c8bafd44d7f238d613f:ded1389b40e965f46304916bs37\u00164d27",
+            "link": "https://dck1-ac-live.cdn.indazn.com/out/v1/814bffb9b389f652/6f58fcb8e80047acb7419bdbdff88e5f/index.mpd",
+            "logo": "",
+            "title": "KAYO HINDI FHD",
+            "type": "1"
+          },
+          {
             "api": "01c9bbf8137e58378a5ead514998a7b4:fb01e61809e80e5e93a889cdv1dAab22",
             "link": "https://dck1-fs-live.dtcdn.dazn.com/out/v1/814bffb9b389f652/d65feac5647949e6b45b2674d4715398/index.mpd",
             "logo": "",
@@ -828,6 +849,10 @@
           {
             "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
             "title": "SKY SPORTS FHD"
+          },
+          {
+            "logo": "",
+            "title": "KAYO HINDI FHD"
           },
           {
             "logo": "",
