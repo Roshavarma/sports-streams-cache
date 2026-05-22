@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-22T13:20:27.421026",
+  "last_updated": "2026-05-22T13:30:37.471507",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "06:45:39 PM 22-05-2026",
+    "Last update time": "06:55:27 PM 22-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -725,24 +725,10 @@
         "cat": "Indian Premier League",
         "channels_data": [
           {
-            "api": "cb9ac4371ceb5181d13f2c8b03eb2c3f:02742d90bb6cd6fd4f876468011\u0016607b",
-            "link": "https://a14live-pv-ta-amazon.akamaized.net/bom-nitro/live/clients/dash/enc/z8waxdp8tg/out/v1/e27b352890e848c3834e6d4f79f26d02/cenc.mpd",
-            "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
-            "title": "WILLOW [Ad-Free]",
-            "type": "1"
-          },
-          {
             "api": "aefc2c8d1c8840f1b6981f856c9269ba:cf8ea114c45b4d6596b27482x8aB74d6",
-            "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1779431198~acl=%2F*~id=830a8bef-52b5-4b89-b2c9-9a5649cab2ef~data=hdntl,aXA9MTM1LjIzMi4yMDEuMzMmZXhwPTE3NzkzNDQ4MjgmZWlkPTk2MDYwNSZvaWQ9MTA4JnR5cGU9Vk9EJnVpZD1lWExwdEZ8MTc2MTc0ZjYtMmNkNy00ODYzLWEzMjAtZTljNjM5NTZiNTE1JmNpZD1kY2Uuc3B1cnMmcHQ9bnVsbA~hmac=2add213e5b2b0f89981a9f5a747f6ae3f10fe3ddb16627a2fa74e50e84cd4e67/dash/live/2093710/219026-321025/manifest-d.mpd",
+            "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1779529118~acl=%2F*~id=17ecb6b4-596e-40da-a412-441ad71b6625~data=hdntl,aXA9NTcuMTUxLjE0My4xNzgmZXhwPTE3Nzk0NDI3NDcmZWlkPTk2MDc3MiZvaWQ9MTA4JnR5cGU9Vk9EJnVpZD1ubzZVczZ8ZTRlYzA3YmMtZGNhOC00MmIwLWFiNzQtNjI2YTIwOTBkYTQyJmNpZD1kY2Uuc3B1cnMmcHQ9bnVsbA~hmac=40ad2141322268d56b395ac252db81c74cd9e40b36b8e83900baf5bc3709174c/dash/live/2093710/219026-321025/manifest-d.mpd",
             "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
             "title": "SKY SPORTS FHD",
-            "type": "1"
-          },
-          {
-            "api": "2d9d4722b2135ef29afb0b358f8ff942:cad49f336d0b653c553df460S1dB4c1a",
-            "link": "https://dck1-ac-live.cdn.indazn.com/out/v1/761f422bb93edb7b/f8e2a3d1e6024bb1991ac55a891f926f/index.mpd",
-            "logo": "",
-            "title": "KAYO HINDI FHD",
             "type": "1"
           },
           {
@@ -754,7 +740,7 @@
           },
           {
             "api": "4d346b1d1ae64d4a800409cffa14983e:208c972bd2da4359ac94e694wfe\u001378b6",
-            "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1779431198~acl=%2F*~id=830a8bef-52b5-4b89-b2c9-9a5649cab2ef~data=hdntl,aXA9MTM1LjIzMi4yMDEuMzMmZXhwPTE3NzkzNDQ4MjgmZWlkPTk2MDYwNSZvaWQ9MTA4JnR5cGU9Vk9EJnVpZD1lWExwdEZ8MTc2MTc0ZjYtMmNkNy00ODYzLWEzMjAtZTljNjM5NTZiNTE1JmNpZD1kY2Uuc3B1cnMmcHQ9bnVsbA~hmac=2add213e5b2b0f89981a9f5a747f6ae3f10fe3ddb16627a2fa74e50e84cd4e67/dash/live/2093666/294921-318514/manifest-d.mpd",
+            "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1779529113~acl=%2F*~id=f8a0f7f6-5eb8-49c9-a19f-2655d8d88a1a~data=hdntl,aXA9NTcuMTUxLjE0My4xNzgmZXhwPTE3Nzk0NDI3NDMmZWlkPTk2MDc3MCZvaWQ9MTA4JnR5cGU9Vk9EJnVpZD1ubzZVczZ8ZTRlYzA3YmMtZGNhOC00MmIwLWFiNzQtNjI2YTIwOTBkYTQyJmNpZD1kY2Uuc3B1cnMmcHQ9bnVsbA~hmac=569a3a475b804e495e8abbeef2fc2c9e6b659df245657a3d63e14366c2b7b0f0/dash/live/2093666/294921-318514/manifest-d.mpd",
             "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
             "title": "SKY SPORTS 4k",
             "type": "1"
@@ -829,16 +815,8 @@
         },
         "formatsNew": [
           {
-            "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
-            "title": "WILLOW [Ad-Free]"
-          },
-          {
             "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
             "title": "SKY SPORTS FHD"
-          },
-          {
-            "logo": "",
-            "title": "KAYO HINDI FHD"
           },
           {
             "logo": "",
