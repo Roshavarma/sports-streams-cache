@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-22T16:10:26.854400",
+  "last_updated": "2026-05-22T16:20:24.960093",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "09:35:22 PM 22-05-2026",
+    "Last update time": "09:45:26 PM 22-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -1989,6 +1989,49 @@
         "image": "o",
         "publish": "1",
         "title": "Royals vs Seattle Mariners"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "T20 Blast",
+        "channels_data": [
+          {
+            "api": "2e2636daa74141b68cc14882ea3ff82b:0961f48287324adbb4b7ff3c9d82b3c9",
+            "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1779547763~acl=%2F*~id=ffafa7d1-8889-4cc3-b50a-9bdfcee89037~data=hdntl,aXA9MjAuMTA2LjE4Mi4yMDkmZXhwPTE3Nzk0NjEzOTMmZWlkPTk2MTUzOSZvaWQ9MTA4JnR5cGU9Vk9EJnVpZD1EWGlvRWF8YWViZmUzZDgtMTEzNy00MDQyLTllNGEtOTliODU2M2UzYWI0JmNpZD1kY2Uuc3B1cnMmcHQ9bnVsbA~hmac=6362d7c371ce690fe0c24c35ad03005c49d3a7cd1648a8e0a08d2ea1b2e3105f/dash/live/2093717/219028-321030/manifest-d.mpd",
+            "title": "SKY SPORTS FHD",
+            "type": "1"
+          },
+          {
+            "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+            "title": "Willow HD",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/22 21:00:00 +0000",
+          "eventName": "Somerset vs Hampshire",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/22 17:30:00 +0000",
+          "teamA": "SOM",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/187832/image",
+          "teamB": "HAM",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/187821/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "SKY SPORTS FHD"
+          },
+          {
+            "logo": "",
+            "title": "Willow HD"
+          }
+        ],
+        "id": "419",
+        "image": "o",
+        "publish": "1",
+        "title": "Somerset vs Hampshire"
       }
     ]
   }
