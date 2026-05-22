@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-22T20:10:21.319905",
+  "last_updated": "2026-05-22T20:20:23.625757",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "01:35:21 AM 23-05-2026",
+    "Last update time": "01:45:25 AM 23-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -79,7 +79,7 @@
           "eventBanner": "https://iili.io/CH59QHP.png",
           "eventName": "Formula 1 - Canada GP",
           "eventType": "null",
-          "isHot": "0",
+          "isHot": "1",
           "startTime": "2026/05/22 20:30:00 +0000",
           "teamA": "Formula 1",
           "teamAFlag": "https://scdnmain.net/assets/tournament/40-c.png",
@@ -1587,84 +1587,6 @@
         "image": "o",
         "publish": "1",
         "title": "Finland vs Great Britain"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "Euroleague",
-        "channels_data": [
-          {
-            "api": "b61abdd84cb34486b7a8ad6271856be8:24af8a63e21142c293cc71e0c9e88e92",
-            "link": "https://adjara-live-eu.akamaized.net/hdntl=exp=1779547773~acl=%2F*~id=e0b374ab-0431-433d-99a7-85d26ef99f86~data=hdntl,aXA9MjAuMTA2LjE4Mi4yMDkmZXhwPTE3Nzk0NjE0MDMmZWlkPTk2MDc3MCZvaWQ9MTA4JnR5cGU9Vk9EJnVpZD1EWGlvRWF8YWViZmUzZDgtMTEzNy00MDQyLTllNGEtOTliODU2M2UzYWI0JmNpZD1kY2Uuc3B1cnMmcHQ9bnVsbA~hmac=1aa5adbedd7ca370ef3324e71f6f1ef54a43171d9a7b224bbbb137961f8f50ee/dash/live/2005783/303306-321860/manifest-d.mpd",
-            "logo": "",
-            "title": "SETANTA SPORTS",
-            "type": "1"
-          },
-          {
-            "api": "",
-            "link": "https://live.vivo200.com/live/sd-2-3920362.m3u8?txSecret=4302461dba39d3c568fff53c32c87060&txTime=6A10A073|referer=https://player.online909.com/",
-            "logo": "",
-            "title": "SPORTIFy Live",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://instreams.pro/bil2/novaprime/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
-            "logo": "",
-            "title": "NOVA SPORTS",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "http://193.47.62.57/hls/TTTDDDQQQ.m3u8|Referer=http://www.fawanews.sc/",
-            "logo": "",
-            "title": "SD SERVER",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://instreams.pro/EU/HDTV21/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
-            "logo": "",
-            "title": "ARENA SPORTS",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/22 20:40:00 +0000",
-          "eventName": "Semifinals, Valencia vs Real Madrid",
-          "eventType": "null",
-          "isHot": "1",
-          "startTime": "2026/05/22 18:00:00 +0000",
-          "teamA": "Valencia",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3545/image",
-          "teamB": "Real Madrid",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3540/image"
-        },
-        "formatsNew": [
-          {
-            "logo": "",
-            "title": "SETANTA SPORTS"
-          },
-          {
-            "logo": "",
-            "title": "SportzX Live"
-          },
-          {
-            "logo": "",
-            "title": "NOVA SPORTS"
-          },
-          {
-            "logo": "",
-            "title": "SD SERVER"
-          },
-          {
-            "logo": "",
-            "title": "ARENA SPORTS"
-          }
-        ],
-        "id": "408",
-        "image": "o",
-        "publish": "1",
-        "title": "Valencia vs Real Madrid"
       },
       {
         "adsLimit": "0",
