@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-22T20:40:27.843371",
+  "last_updated": "2026-05-22T20:50:20.780699",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "02:05:20 AM 23-05-2026",
+    "Last update time": "02:19:16 AM 23-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -1365,7 +1365,7 @@
           "endTime": "2026/05/22 20:45:00 +0000",
           "eventName": "Fiorentina vs Atalanta",
           "eventType": "null",
-          "isHot": "1",
+          "isHot": "0",
           "startTime": "2026/05/22 18:45:00 +0000",
           "teamA": "Fiorentina",
           "teamAFlag": "https://img.sofascore.com/api/v1/team/2693/image",
@@ -1443,7 +1443,7 @@
           "endTime": "2026/05/22 21:00:00 +0000",
           "eventName": "RC Lens vs Nice",
           "eventType": "null",
-          "isHot": "1",
+          "isHot": "0",
           "startTime": "2026/05/22 19:00:00 +0000",
           "teamA": "Lens",
           "teamAFlag": "https://img.sofascore.com/api/v1/team/1648/image",
@@ -1476,128 +1476,6 @@
         "image": "o",
         "publish": "1",
         "title": "Lens vs Nice"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "Türkiye Kupası",
-        "channels_data": [
-          {
-            "api": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
-            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
-            "logo": "",
-            "title": "SportDigital Fussball",
-            "type": "1"
-          },
-          {
-            "api": "",
-            "link": "https://play.ltwxsc.com/live/hd-en-6Mwe5EHjHkXjotei2J.m3u8?txSecret=ea3a50f77b5dcab3d29b7b138f7feeae&txTime=6A10C2E2",
-            "logo": "",
-            "title": "SPORTIFy Live",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "http://193.47.62.55/hls/kggg.m3u8|Referer=http://www.fawanews.sc/",
-            "logo": "",
-            "title": "SD SERVER",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/22 19:45:00 +0000",
-          "eventName": "Trabzonspor vs Konyaspor",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/22 17:45:00 +0000",
-          "teamA": "Trabzonspor",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3051/image",
-          "teamB": "Konyaspor",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3085/image"
-        },
-        "formatsNew": [
-          {
-            "logo": "",
-            "title": "SportDigital Fussball"
-          },
-          {
-            "logo": "",
-            "title": "SportzX Live"
-          },
-          {
-            "logo": "",
-            "title": "SD SERVER"
-          }
-        ],
-        "id": "402",
-        "image": "o",
-        "publish": "1",
-        "title": "Trabzonspor vs Konyaspor"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "IIHF World",
-        "channels_data": [
-          {
-            "api": "e51aa21f2a0fef9aabc120dfb655b52f:a12a987fe725a40b6be95cd84b15f689",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
-            "title": "TSN SPORTS FHD",
-            "type": "1"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/22 21:00:00 +0000",
-          "eventName": "Sweden vs Italy",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/22 18:20:00 +0000",
-          "teamA": "Sweden",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/5735/image",
-          "teamB": "Italy",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/5733/image"
-        },
-        "formatsNew": [
-          {
-            "logo": "",
-            "title": "TSN SPORTS FHD"
-          }
-        ],
-        "id": "405",
-        "image": "o",
-        "publish": "1",
-        "title": "Sweden vs Italy"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "IIHF World",
-        "channels_data": [
-          {
-            "api": "c4088f5f265f9de50cffd80bf89308b7:2c4d2239d96d532b4ec2050653611003",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
-            "title": "TSN SPORTS FHD",
-            "type": "1"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/22 21:00:00 +0000",
-          "eventName": "Finland vs Great Britain",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/22 18:20:00 +0000",
-          "teamA": "Finland",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/5731/image",
-          "teamB": "Great Britain",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/7118/image"
-        },
-        "formatsNew": [
-          {
-            "logo": "",
-            "title": "TSN SPORTS FHD"
-          }
-        ],
-        "id": "406",
-        "image": "o",
-        "publish": "1",
-        "title": "Finland vs Great Britain"
       },
       {
         "adsLimit": "0",
@@ -1961,36 +1839,6 @@
         "image": "o",
         "publish": "1",
         "title": "Royals vs Seattle Mariners"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "T20 Blast",
-        "channels_data": {},
-        "eventInfo": {
-          "endTime": "2026/05/22 21:00:00 +0000",
-          "eventName": "Somerset vs Hampshire",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/22 17:30:00 +0000",
-          "teamA": "SOM",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/187832/image",
-          "teamB": "HAM",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/187821/image"
-        },
-        "formatsNew": [
-          {
-            "logo": "",
-            "title": "SKY SPORTS FHD"
-          },
-          {
-            "logo": "",
-            "title": "Willow HD"
-          }
-        ],
-        "id": "419",
-        "image": "o",
-        "publish": "1",
-        "title": "Somerset vs Hampshire"
       }
     ]
   }
