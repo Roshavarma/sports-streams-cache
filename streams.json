@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-22T02:30:33.409353",
+  "last_updated": "2026-05-22T02:40:22.177804",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "07:55:22 AM 22-05-2026",
+    "Last update time": "08:05:21 AM 22-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -1352,6 +1352,13 @@
           },
           {
             "api": "",
+            "link": "https://futbol9865.ultratv13.workers.dev/deportivo111/68.m3u8",
+            "logo": "",
+            "title": "HD SERVER",
+            "type": "0"
+          },
+          {
+            "api": "",
             "link": "http://193.47.62.41/hls/OHHHF.m3u8|Referer=http://fawanews.sc/",
             "logo": "",
             "title": "SD SERVER",
@@ -1373,6 +1380,10 @@
           {
             "logo": "",
             "title": "SportzX Live"
+          },
+          {
+            "logo": "",
+            "title": "HD SERVER"
           },
           {
             "logo": "",
