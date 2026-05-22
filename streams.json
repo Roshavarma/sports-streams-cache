@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-22T14:50:25.412468",
+  "last_updated": "2026-05-22T15:00:49.507470",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "08:15:36 PM 22-05-2026",
+    "Last update time": "08:25:20 PM 22-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -26,7 +26,7 @@
           },
           {
             "api": "",
-            "link": "https://chatgpt.hereisman.net/playlist/49858/load-playlist?|Referer=https://gooz.aapmains.net",
+            "link": "https://chatgpt.hereisman.net/playlist/50931/load-playlist?|Referer=https://gooz.aapmains.net",
             "logo": "",
             "title": "SPORTIFy F1 HD",
             "type": "0"
@@ -1522,9 +1522,45 @@
         "cat": "Euroleague",
         "channels_data": [
           {
+            "api": "b419be16e9c046c28b1560bd4b318aa1:5ada04fc9ba7414e8f58cba0e7c1c8fe",
+            "link": "https://adjara-live-eu.akamaized.net/hdntl=exp=1779529110~acl=%2F*~id=789bcb6f-d1a7-4557-aaa6-0b393995c33f~data=hdntl,aXA9NTcuMTUxLjE0My4xNzgmZXhwPTE3Nzk0NDI3NDAmZWlkPTk2MDQ3OSZvaWQ9MTA4JnR5cGU9Vk9EJnVpZD1ubzZVczZ8ZTRlYzA3YmMtZGNhOC00MmIwLWFiNzQtNjI2YTIwOTBkYTQyJmNpZD1kY2Uuc3B1cnMmcHQ9bnVsbA~hmac=6bd79c084a0fabd232c6c392b9fe919b1205037ccce029edb329b6bdc92e859c/dash/live/2019612/303305-321850/manifest-d.mpd",
+            "logo": "",
+            "title": "SETANTA SPORTS",
+            "type": "1"
+          },
+          {
             "api": "",
-            "link": "https://fallback-video.ivan-flux.workers.dev/video/index.m3u8",
-            "title": "SPORTIFy Live",
+            "link": "https://instreams.pro/EU/HDTV21/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
+            "logo": "",
+            "title": "ARENA SPORTS",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://instreams.pro/bil2/novaprime/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
+            "logo": "",
+            "title": "NOVA SPORTS",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://instreams.pro/bil2/plusdep1/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
+            "logo": "",
+            "title": "M+ DEPORTES",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "http://193.47.62.57/hls/TTTDDDQQQ.m3u8|Referer=http://www.fawanews.sc/",
+            "logo": "",
+            "title": "SD SERVER",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://instreams.pro/bil1/ssport/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
+            "logo": "",
+            "title": "Turkey Sports",
             "type": "0"
           }
         ],
@@ -1542,7 +1578,27 @@
         "formatsNew": [
           {
             "logo": "",
-            "title": "SportzX Live"
+            "title": "SETANTA SPORTS"
+          },
+          {
+            "logo": "",
+            "title": "ARENA SPORTS"
+          },
+          {
+            "logo": "",
+            "title": "NOVA SPORTS"
+          },
+          {
+            "logo": "",
+            "title": "M+ DEPORTES"
+          },
+          {
+            "logo": "",
+            "title": "SD SERVER"
+          },
+          {
+            "logo": "",
+            "title": "Turkey Sports"
           }
         ],
         "id": "407",
