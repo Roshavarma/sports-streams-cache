@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-22T18:00:50.571071",
+  "last_updated": "2026-05-22T18:10:30.292690",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "11:25:18 PM 22-05-2026",
+    "Last update time": "11:35:22 PM 22-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -1371,8 +1371,23 @@
           {
             "api": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
             "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
+            "logo": "",
             "title": "SportDigital Fussball",
             "type": "1"
+          },
+          {
+            "api": "",
+            "link": "https://play.ltwxsc.com/live/hd-en-6Mwe5EHjHkXjotei2J.m3u8?txSecret=ea3a50f77b5dcab3d29b7b138f7feeae&txTime=6A10C2E2",
+            "logo": "",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "http://193.47.62.55/hls/kggg.m3u8|Referer=http://www.fawanews.sc/",
+            "logo": "",
+            "title": "SD SERVER",
+            "type": "0"
           }
         ],
         "eventInfo": {
@@ -1390,6 +1405,14 @@
           {
             "logo": "",
             "title": "SportDigital Fussball"
+          },
+          {
+            "logo": "",
+            "title": "SportzX Live"
+          },
+          {
+            "logo": "",
+            "title": "SD SERVER"
           }
         ],
         "id": "402",
@@ -1631,6 +1654,13 @@
           },
           {
             "api": "",
+            "link": "https://live.vivo200.com/live/sd-2-3920362.m3u8?txSecret=4302461dba39d3c568fff53c32c87060&txTime=6A10A073|referer=https://player.online909.com/",
+            "logo": "",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          },
+          {
+            "api": "",
             "link": "https://instreams.pro/bil2/novaprime/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
             "logo": "",
             "title": "NOVA SPORTS",
@@ -1642,13 +1672,20 @@
             "logo": "",
             "title": "SD SERVER",
             "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://instreams.pro/EU/HDTV21/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
+            "logo": "",
+            "title": "ARENA SPORTS",
+            "type": "0"
           }
         ],
         "eventInfo": {
           "endTime": "2026/05/22 20:40:00 +0000",
           "eventName": "Semifinals, Valencia vs Real Madrid",
           "eventType": "null",
-          "isHot": "0",
+          "isHot": "1",
           "startTime": "2026/05/22 18:00:00 +0000",
           "teamA": "Valencia",
           "teamAFlag": "https://img.sofascore.com/api/v1/team/3545/image",
@@ -1662,11 +1699,19 @@
           },
           {
             "logo": "",
+            "title": "SportzX Live"
+          },
+          {
+            "logo": "",
             "title": "NOVA SPORTS"
           },
           {
             "logo": "",
             "title": "SD SERVER"
+          },
+          {
+            "logo": "",
+            "title": "ARENA SPORTS"
           }
         ],
         "id": "408",
