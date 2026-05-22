@@ -1,15 +1,22 @@
 {
-  "last_updated": "2026-05-22T16:30:36.894496",
+  "last_updated": "2026-05-22T16:33:38.920185",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "09:55:24 PM 22-05-2026",
+    "Last update time": "10:00:42 PM 22-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
         "adsLimit": "0",
         "cat": "F1",
         "channels_data": [
+          {
+            "api": "0a6260c2c2f0340f97a0b7ebb3134a09:34bb2e6e230099443fea9d518ce5f156",
+            "link": "https://ott-video-cf.formula1.com/v2/pa_cGF0aDolMkZoYWp2azJmZDJ2eHIlMkZvdXQlMkZ2MSUyRk1haW4lMkZQcmVzZW50YXRpb24tUjElMkZTRFItSEQtREFTSC1XVi1TSU5HTEV8a2lkOjEwNDJ8ZXhwOjE3Nzk1NTM0MDN8dHRsOjE0NDB8Z2VvOkJEfHN0cmVhbVR5cGU6U0RSX0hEX0RBU0hXVl9TSU5HTEV8c2Vzc2lvbklkOjE4MDYwMjY0NF8wMUtTODdaOUs2Q1JINlE1SFNEMVMxQVEwTV9QUHxzdGFydDoxNzc5NDY2MjQ0fGVuZDoxNzc5NTA5NDQ0fHRva2VuOlpPaXJ3RFpmeWxoUER0dE5GN09sdERpRkRqWldlOGVrQTdIbDFjVEpoZFlf/hajvk2fd2vxr/out/v1/Main/Presentation-R1/SDR-HD-DASH-WV-SINGLE/index.mpd?end=1779509444&start=1779466244",
+            "logo": "",
+            "title": "F1 TV FHD",
+            "type": "1"
+          },
           {
             "api": "708a98b352bd4418a73a028edd84da8f:b1fa5c2bca4c4b57b924b748564532cb",
             "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1779547768~acl=%2F*~id=b08c6374-4463-46bd-94f4-7c1a0962cc51~data=hdntl,aXA9MjAuMTA2LjE4Mi4yMDkmZXhwPTE3Nzk0NjEzOTgmZWlkPTk2MTUwMSZvaWQ9MTA4JnR5cGU9Vk9EJnVpZD1EWGlvRWF8YWViZmUzZDgtMTEzNy00MDQyLTllNGEtOTliODU2M2UzYWI0JmNpZD1kY2Uuc3B1cnMmcHQ9bnVsbA~hmac=ca0a0cecfd5ab1d6163a8169fbd8a240df242adb75d187e70f08b70234822da2/dash/live/2093715/219027-321028/manifest-d.mpd",
@@ -107,6 +114,10 @@
           "teamBFlag": "https://scdnmain.net/assets/tournament/40-c.png"
         },
         "formatsNew": [
+          {
+            "logo": "",
+            "title": "F1 TV FHD"
+          },
           {
             "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
             "title": "SKY SPORTS FHD"
