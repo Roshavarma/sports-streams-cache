@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-22T05:43:58.486571",
+  "last_updated": "2026-05-22T05:50:19.483026",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "11:05:21 AM 22-05-2026",
+    "Last update time": "11:15:24 AM 22-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -11,31 +11,17 @@
         "cat": "F1",
         "channels_data": [
           {
-            "api": "aefc2c8d1c8840f1b6981f856c9269ba:cf8ea114c45b4d6596b2748258ab74d6",
-            "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1777909489~acl=%2f*~id=b77eb585-70bb-4b92-824f-cbd87312047c~data=hdntl,aXA9MTA4LjE4MS4xLjI0MSZleHA9MTc3NzgyMzExOCZlaWQ9OTM2NjQzJm9pZD0xNTQmdHlwZT1WT0QmdWlkPXhSUnFvOXxiY2FlYTdjZi1jMzM3LTQwMzktODE1OC0zYzFjZTQ5ZTcyOTMmY2lkPWRjZS5maXNmZWQmcHQ9bnVsbA~hmac=65d5d1abb802159ed195e8e88247316ef382ad1a555c76bb7f4e0c5732a73e72/dash/live/2093749/219026-314033/manifest-d.mpd",
-            "logo": "",
-            "title": "SKY SPORTS FHD",
-            "type": "1"
-          },
-          {
             "api": "e853333da2c9196ea11374634231bc45:de2e2dbe818d78dfad07d6cd9a4c63d4",
             "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/jkcljgqbx8/out/v1/63bfa701559340f3a2a2cb1fccd24807/cenc.mpd",
-            "logo": "",
+            "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
             "title": "TSN SPORTS FHD",
             "type": "1"
           },
           {
             "api": "7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe",
             "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
-            "logo": "",
+            "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png",
             "title": "FANCODE FHD",
-            "type": "1"
-          },
-          {
-            "api": "4d346b1d1ae64d4a800409cffa14983e:208c972bd2da4359ac94e6944fe378b6",
-            "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1777909488~acl=%2f*~id=c4e7285a-4b85-4cf8-9113-5cf0fce56b08~data=hdntl,aXA9MTA4LjE4MS4xLjI0MSZleHA9MTc3NzgyMzExOCZlaWQ9OTM5MjI1Jm9pZD0xNTQmdHlwZT1WT0QmdWlkPXhSUnFvOXxiY2FlYTdjZi1jMzM3LTQwMzktODE1OC0zYzFjZTQ5ZTcyOTMmY2lkPWRjZS5maXNmZWQmcHQ9bnVsbA~hmac=40072fb54ef71544d38ffffae7cb690792baf750f07976a0840b74a8ee2ed6b2/dash/live/2093666/294921-318514/manifest-d.mpd",
-            "logo": "",
-            "title": "SKY SPORTS 4k",
             "type": "1"
           },
           {
@@ -47,29 +33,15 @@
           },
           {
             "api": "",
-            "link": "https://hghndasw.dg7yhiudjydg.shop/sec/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW0iOiJmMS1vbi1hcHBsZSIsImV4cCI6MTc3Nzg0MjA4Mn0.wI57eSX4ERHx1ckODNCWFCUfEb3bE91t_6Cw0ORtF80/f1-on-apple.m3u8",
-            "logo": "",
-            "title": "APPLE TV FHD",
-            "type": "0"
-          },
-          {
-            "api": "",
             "link": "https://storage.googleapis.com/bakuknhertyung4/mux_video_ts1/index-1.m3u8",
-            "logo": "",
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
             "title": "SKY SPORT F1",
             "type": "0"
           },
           {
             "api": "",
-            "link": "https://rifusfcollins.s3.us-east-1.amazonaws.com/sportsnet.m3u8?",
-            "logo": "",
-            "title": "SKY F1 - AQ",
-            "type": "0"
-          },
-          {
-            "api": "",
             "link": "https://mainstreams.pro/hls/hbfkazbkaznc49.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-            "logo": "",
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
             "title": "SKY SPORTS HD",
             "type": "0"
           },
@@ -111,7 +83,7 @@
           {
             "api": "2fbdaa3bea0d0323ae011b318d1db716:8726ef7eaf5b9dce15fb6aa9f80bd53f",
             "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/oboxe53wyo/out/v1/f7892a9d706d419a846d738fa22ea33e/cenc.mpd",
-            "logo": "",
+            "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
             "title": "Fox Sports - AQ",
             "type": "1"
           }
@@ -129,39 +101,23 @@
         },
         "formatsNew": [
           {
-            "logo": "",
-            "title": "SKY SPORTS FHD"
-          },
-          {
-            "logo": "",
+            "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
             "title": "TSN SPORTS FHD"
           },
           {
-            "logo": "",
+            "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png",
             "title": "FANCODE FHD"
-          },
-          {
-            "logo": "",
-            "title": "SKY SPORTS 4k"
           },
           {
             "logo": "",
             "title": "SportzX F1 HD"
           },
           {
-            "logo": "",
-            "title": "APPLE TV FHD"
-          },
-          {
-            "logo": "",
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
             "title": "SKY SPORT F1"
           },
           {
-            "logo": "",
-            "title": "SKY F1 - AQ"
-          },
-          {
-            "logo": "",
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
             "title": "SKY SPORTS HD"
           },
           {
@@ -185,7 +141,7 @@
             "title": "F1 TV FHD"
           },
           {
-            "logo": "",
+            "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
             "title": "Fox Sports - AQ"
           }
         ],
