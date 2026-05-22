@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-22T05:00:48.437081",
+  "last_updated": "2026-05-22T05:10:21.437419",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "10:30:46 AM 22-05-2026",
+    "Last update time": "10:35:21 AM 22-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -1249,6 +1249,138 @@
         "image": "o",
         "publish": "1",
         "title": "Trabzonspor vs Konyaspor"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "IIHF World",
+        "channels_data": [
+          {
+            "api": "c4088f5f265f9de50cffd80bf89308b7:2c4d2239d96d532b4ec2050653611003",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
+            "title": "TSN SPORTS FHD",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/22 17:00:00 +0000",
+          "eventName": "Germany vs Hungary",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/22 14:20:00 +0000",
+          "teamA": "Germany",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/5732/image",
+          "teamB": "Hungary",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/7053/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "TSN SPORTS FHD"
+          }
+        ],
+        "id": "403",
+        "image": "o",
+        "publish": "1",
+        "title": "Germany vs Hungary"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "IIHF World",
+        "channels_data": [
+          {
+            "api": "e51aa21f2a0fef9aabc120dfb655b52f:a12a987fe725a40b6be95cd84b15f689",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
+            "title": "TSN SPORTS FHD",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/22 17:00:00 +0000",
+          "eventName": "Canada vs Slovenia",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/22 14:20:00 +0000",
+          "teamA": "Canada",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/5729/image",
+          "teamB": "Slovenia",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/5914/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "TSN SPORTS FHD"
+          }
+        ],
+        "id": "404",
+        "image": "o",
+        "publish": "1",
+        "title": "Canada vs Slovenia"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "IIHF World",
+        "channels_data": [
+          {
+            "api": "e51aa21f2a0fef9aabc120dfb655b52f:a12a987fe725a40b6be95cd84b15f689",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
+            "title": "TSN SPORTS FHD",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/22 21:00:00 +0000",
+          "eventName": "Sweden vs Italy",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/22 18:20:00 +0000",
+          "teamA": "Sweden",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/5735/image",
+          "teamB": "Italy",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/5733/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "TSN SPORTS FHD"
+          }
+        ],
+        "id": "405",
+        "image": "o",
+        "publish": "1",
+        "title": "Sweden vs Italy"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "IIHF World",
+        "channels_data": [
+          {
+            "api": "c4088f5f265f9de50cffd80bf89308b7:2c4d2239d96d532b4ec2050653611003",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
+            "title": "TSN SPORTS FHD",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/22 21:00:00 +0000",
+          "eventName": "Finland vs Great Britain",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/22 18:20:00 +0000",
+          "teamA": "Finland",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/5731/image",
+          "teamB": "Great Britain",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/7118/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "TSN SPORTS FHD"
+          }
+        ],
+        "id": "406",
+        "image": "o",
+        "publish": "1",
+        "title": "Finland vs Great Britain"
       }
     ]
   }
