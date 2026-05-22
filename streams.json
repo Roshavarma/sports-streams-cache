@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-22T17:50:22.543090",
+  "last_updated": "2026-05-22T18:00:50.571071",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "11:15:27 PM 22-05-2026",
+    "Last update time": "11:25:18 PM 22-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -1623,9 +1623,24 @@
         "cat": "Euroleague",
         "channels_data": [
           {
+            "api": "b61abdd84cb34486b7a8ad6271856be8:24af8a63e21142c293cc71e0c9e88e92",
+            "link": "https://adjara-live-eu.akamaized.net/hdntl=exp=1779547773~acl=%2F*~id=e0b374ab-0431-433d-99a7-85d26ef99f86~data=hdntl,aXA9MjAuMTA2LjE4Mi4yMDkmZXhwPTE3Nzk0NjE0MDMmZWlkPTk2MDc3MCZvaWQ9MTA4JnR5cGU9Vk9EJnVpZD1EWGlvRWF8YWViZmUzZDgtMTEzNy00MDQyLTllNGEtOTliODU2M2UzYWI0JmNpZD1kY2Uuc3B1cnMmcHQ9bnVsbA~hmac=1aa5adbedd7ca370ef3324e71f6f1ef54a43171d9a7b224bbbb137961f8f50ee/dash/live/2005783/303306-321860/manifest-d.mpd",
+            "logo": "",
+            "title": "SETANTA SPORTS",
+            "type": "1"
+          },
+          {
             "api": "",
-            "link": "https://fallback-video.ivan-flux.workers.dev/video/index.m3u8",
-            "title": "SPORTIFy Live",
+            "link": "https://instreams.pro/bil2/novaprime/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
+            "logo": "",
+            "title": "NOVA SPORTS",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "http://193.47.62.57/hls/TTTDDDQQQ.m3u8|Referer=http://www.fawanews.sc/",
+            "logo": "",
+            "title": "SD SERVER",
             "type": "0"
           }
         ],
@@ -1643,7 +1658,15 @@
         "formatsNew": [
           {
             "logo": "",
-            "title": "SportzX Live"
+            "title": "SETANTA SPORTS"
+          },
+          {
+            "logo": "",
+            "title": "NOVA SPORTS"
+          },
+          {
+            "logo": "",
+            "title": "SD SERVER"
           }
         ],
         "id": "408",
