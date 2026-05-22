@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-22T15:00:49.507470",
+  "last_updated": "2026-05-22T15:10:24.046772",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "08:25:20 PM 22-05-2026",
+    "Last update time": "08:35:26 PM 22-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -1530,13 +1530,6 @@
           },
           {
             "api": "",
-            "link": "https://instreams.pro/EU/HDTV21/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
-            "logo": "",
-            "title": "ARENA SPORTS",
-            "type": "0"
-          },
-          {
-            "api": "",
             "link": "https://instreams.pro/bil2/novaprime/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
             "logo": "",
             "title": "NOVA SPORTS",
@@ -1544,16 +1537,23 @@
           },
           {
             "api": "",
-            "link": "https://instreams.pro/bil2/plusdep1/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
+            "link": "http://193.47.62.57/hls/TTTDDDQQQ.m3u8|Referer=http://www.fawanews.sc/",
             "logo": "",
-            "title": "M+ DEPORTES",
+            "title": "SD SERVER",
             "type": "0"
           },
           {
             "api": "",
-            "link": "http://193.47.62.57/hls/TTTDDDQQQ.m3u8|Referer=http://www.fawanews.sc/",
+            "link": "https://instreams.pro/EU/HDTV21/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
             "logo": "",
-            "title": "SD SERVER",
+            "title": "ARENA SPORTS",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://instreams.pro/bil2/plusdep1/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
+            "logo": "",
+            "title": "M+ DEPORTES",
             "type": "0"
           },
           {
@@ -1582,19 +1582,19 @@
           },
           {
             "logo": "",
-            "title": "ARENA SPORTS"
-          },
-          {
-            "logo": "",
             "title": "NOVA SPORTS"
           },
           {
             "logo": "",
-            "title": "M+ DEPORTES"
+            "title": "SD SERVER"
           },
           {
             "logo": "",
-            "title": "SD SERVER"
+            "title": "ARENA SPORTS"
+          },
+          {
+            "logo": "",
+            "title": "M+ DEPORTES"
           },
           {
             "logo": "",
