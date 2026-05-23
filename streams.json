@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-23T14:43:04.621371",
+  "last_updated": "2026-05-23T14:50:22.541466",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "08:10:24 PM 23-05-2026",
+    "Last update time": "08:15:24 PM 23-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -1973,7 +1973,15 @@
           {
             "api": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
             "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
+            "logo": "",
             "title": "PREMIER SPORTS",
+            "type": "1"
+          },
+          {
+            "api": "b94f0f437f864eb5831c3629cd4501e0:d0a07e006b734aa49438433e2667b5fa",
+            "link": "https://adjara-live-eu.akamaized.net/hdntl=exp=1779630444~acl=%2F*~id=75e99b22-9e1a-445e-8f68-3653387dfdb1~data=hdntl,aXA9MjAuMjMxLjEwMS4zNiZleHA9MTc3OTU0NDA3NCZlaWQ9OTYxNjEzJm9pZD0xMDgmdHlwZT1WT0QmdWlkPTNZTlVqeHw4NmE4YTYxYi04YTkxLTRhMDAtOGQ0OS04MmFlNWM2YWVmYmUmY2lkPWRjZS5zcHVycyZwdD1udWxs~hmac=8049e4dab19fd3be83631bd94a8d1b97c5ae17d3b8f7b25ab49bf5ae2cbd2a6e/dash/live/2005782/303294-321902/manifest-d.mpd",
+            "logo": "",
+            "title": "SETANTA SPORTS",
             "type": "1"
           }
         ],
@@ -1992,6 +2000,10 @@
           {
             "logo": "",
             "title": "PREMIER SPORTS"
+          },
+          {
+            "logo": "",
+            "title": "SETANTA SPORTS"
           }
         ],
         "id": "417",
