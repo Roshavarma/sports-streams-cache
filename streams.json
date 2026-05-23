@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-23T18:30:33.269716",
+  "last_updated": "2026-05-23T18:40:22.972717",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "11:55:17 PM 23-05-2026",
+    "Last update time": "12:05:16 AM 24-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -1819,7 +1819,15 @@
           {
             "api": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
             "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
+            "logo": "https://play-lh.googleusercontent.com/zG_ZS5v4PfHqWqWLkpVkZB9wRu9MJmEqD4tNpeIYwLOcjU3INQlFeTxoVgwV1R2CbcsI",
             "title": "PREMIER SPORTS",
+            "type": "1"
+          },
+          {
+            "api": "620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a",
+            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd",
+            "logo": "",
+            "title": "Laliga TV FHD",
             "type": "1"
           }
         ],
@@ -1836,8 +1844,12 @@
         },
         "formatsNew": [
           {
-            "logo": "",
+            "logo": "https://play-lh.googleusercontent.com/zG_ZS5v4PfHqWqWLkpVkZB9wRu9MJmEqD4tNpeIYwLOcjU3INQlFeTxoVgwV1R2CbcsI",
             "title": "PREMIER SPORTS"
+          },
+          {
+            "logo": "",
+            "title": "Laliga TV FHD"
           }
         ],
         "id": "412",
