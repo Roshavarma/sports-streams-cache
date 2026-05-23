@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-23T19:10:20.054444",
+  "last_updated": "2026-05-23T19:20:24.148473",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "12:35:22 AM 24-05-2026",
+    "Last update time": "12:45:26 AM 24-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -12,7 +12,7 @@
         "channels_data": [
           {
             "api": "708a98b352bd4418a73a028edd84da8f:b1fa5c2bca4c4b57b924b748564532cb",
-            "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1779566116~acl=%2F*~id=1f26dfa9-cc78-4598-ac11-c03c5b9ab880~data=hdntl,aXA9MTcyLjIxNS4yMzEuMTE0JmV4cD0xNzc5NDc5NzQ1JmVpZD05NjE2MDQmb2lkPTEwOCZ0eXBlPVZPRCZ1aWQ9TmNKcjRkfDZlMjc2YTBmLWJkMmUtNDZhMC1iMTJiLTdhMWJlYmEyMzI2YyZjaWQ9ZGNlLnNwdXJzJnB0PW51bGw~hmac=5dadc1cbbbf42f4bc2791431fbd5b3f20400aa204a111b1220e8155c4ae0bf93/dash/live/2093715/219027-321028/manifest-d.mpd",
+            "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1779630449~acl=%2F*~id=652a6b96-929b-4330-8938-88425d7edb82~data=hdntl,aXA9MjAuMjMxLjEwMS4zNiZleHA9MTc3OTU0NDA3OSZlaWQ9OTYxNjA0Jm9pZD0xMDgmdHlwZT1WT0QmdWlkPTNZTlVqeHw4NmE4YTYxYi04YTkxLTRhMDAtOGQ0OS04MmFlNWM2YWVmYmUmY2lkPWRjZS5zcHVycyZwdD1udWxs~hmac=6f927ef69c2397d894e60e133a42995aed4601a41dc24bf746a93054e5f7c06b/dash/live/2093715/219027-321028/manifest-d.mpd",
             "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
             "title": "SKY SPORTS FHD",
             "type": "1"
@@ -1595,7 +1595,7 @@
             "api": "",
             "link": "https://chatgpt.hereisman.net/playlist/51031/load-playlist?|Referer=https://gooz.aapmains.net",
             "logo": "",
-            "title": "ESPN SPORTS HD",
+            "title": "LALIGA TV HD",
             "type": "0"
           },
           {
@@ -1635,7 +1635,7 @@
           },
           {
             "logo": "",
-            "title": "ESPN SPORTS HD"
+            "title": "LALIGA TV HD"
           },
           {
             "logo": "",
@@ -1712,10 +1712,17 @@
         "cat": "LaLiga 🇪🇸",
         "channels_data": [
           {
+            "api": "82b7f106610f4300951a67b3c9438c68:8703363df926425fbb0fdb19d5a70dc9",
+            "link": "https://adjara-live-eu.akamaized.net/hdntl=exp=1779630449~acl=%2F*~id=652a6b96-929b-4330-8938-88425d7edb82~data=hdntl,aXA9MjAuMjMxLjEwMS4zNiZleHA9MTc3OTU0NDA3OSZlaWQ9OTYxNjA0Jm9pZD0xMDgmdHlwZT1WT0QmdWlkPTNZTlVqeHw4NmE4YTYxYi04YTkxLTRhMDAtOGQ0OS04MmFlNWM2YWVmYmUmY2lkPWRjZS5zcHVycyZwdD1udWxs~hmac=6f927ef69c2397d894e60e133a42995aed4601a41dc24bf746a93054e5f7c06b/dash/live/2001603/303238-321927/manifest-d.mpd",
+            "logo": "",
+            "title": "SETANTA SPORTS",
+            "type": "1"
+          },
+          {
             "api": "",
             "link": "https://chatgpt.hereisman.net/playlist/51041/load-playlist?|Referer=https://gooz.aapmains.net",
             "logo": "",
-            "title": "TSN SPORTS HD",
+            "title": "LALIGA TV HD",
             "type": "0"
           },
           {
@@ -1740,7 +1747,11 @@
         "formatsNew": [
           {
             "logo": "",
-            "title": "TSN SPORTS HD"
+            "title": "SETANTA SPORTS"
+          },
+          {
+            "logo": "",
+            "title": "LALIGA TV HD"
           },
           {
             "logo": "",
@@ -1765,6 +1776,13 @@
           },
           {
             "api": "",
+            "link": "https://chatgpt.hereisman.net/playlist/51030/load-playlist?|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "title": "LALIGA TV HD",
+            "type": "0"
+          },
+          {
+            "api": "",
             "link": "https://play.ltwxsc.com/live/hd-en-6MuSsYcLAgMwzpxBFC.m3u8?txSecret=dd2e5057330a1fd62b0bf377ba9849b7&txTime=6A122452",
             "logo": "",
             "title": "SPORTIFy Live",
@@ -1786,6 +1804,10 @@
           {
             "logo": "",
             "title": "SETANTA SPORTS"
+          },
+          {
+            "logo": "",
+            "title": "LALIGA TV HD"
           },
           {
             "logo": "",
@@ -2037,6 +2059,13 @@
         "cat": "LaLiga 🇪🇸",
         "channels_data": [
           {
+            "api": "ee834d898c7d48c5908de03e040084c5:07a48d3e80eb4ee4bbbde4687466187b",
+            "link": "https://adjara-live-eu.akamaized.net/hdntl=exp=1779630454~acl=%2F*~id=26644754-ad18-4fa3-b908-71f511663d19~data=hdntl,aXA9MjAuMjMxLjEwMS4zNiZleHA9MTc3OTU0NDA4NCZlaWQ9OTYxNTMxJm9pZD0xMDgmdHlwZT1WT0QmdWlkPTNZTlVqeHw4NmE4YTYxYi04YTkxLTRhMDAtOGQ0OS04MmFlNWM2YWVmYmUmY2lkPWRjZS5zcHVycyZwdD1udWxs~hmac=cb57fd093462ec039e849cea4869c56bd77b3e93ad3908b0106972378c63f84c/dash/live/2019632/303416-321939/manifest-d.mpd",
+            "logo": "",
+            "title": "SETANTA SPORTS",
+            "type": "1"
+          },
+          {
             "api": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
             "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
             "logo": "https://play-lh.googleusercontent.com/zG_ZS5v4PfHqWqWLkpVkZB9wRu9MJmEqD4tNpeIYwLOcjU3INQlFeTxoVgwV1R2CbcsI",
@@ -2063,6 +2092,10 @@
           "teamBFlag": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/87.png"
         },
         "formatsNew": [
+          {
+            "logo": "",
+            "title": "SETANTA SPORTS"
+          },
           {
             "logo": "https://play-lh.googleusercontent.com/zG_ZS5v4PfHqWqWLkpVkZB9wRu9MJmEqD4tNpeIYwLOcjU3INQlFeTxoVgwV1R2CbcsI",
             "title": "PREMIER SPORTS"
