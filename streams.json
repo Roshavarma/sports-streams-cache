@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-23T01:50:20.153138",
+  "last_updated": "2026-05-23T02:00:45.073226",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "07:15:21 AM 23-05-2026",
+    "Last update time": "07:25:16 AM 23-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -13,81 +13,65 @@
           {
             "api": "708a98b352bd4418a73a028edd84da8f:b1fa5c2bca4c4b57b924b748564532cb",
             "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1779566116~acl=%2F*~id=1f26dfa9-cc78-4598-ac11-c03c5b9ab880~data=hdntl,aXA9MTcyLjIxNS4yMzEuMTE0JmV4cD0xNzc5NDc5NzQ1JmVpZD05NjE2MDQmb2lkPTEwOCZ0eXBlPVZPRCZ1aWQ9TmNKcjRkfDZlMjc2YTBmLWJkMmUtNDZhMC1iMTJiLTdhMWJlYmEyMzI2YyZjaWQ9ZGNlLnNwdXJzJnB0PW51bGw~hmac=5dadc1cbbbf42f4bc2791431fbd5b3f20400aa204a111b1220e8155c4ae0bf93/dash/live/2093715/219027-321028/manifest-d.mpd",
-            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
             "title": "SKY SPORTS FHD",
             "type": "1"
           },
           {
             "api": "e853333da2c9196ea11374634231bc45:de2e2dbe818d78dfad07d6cd9a4c63d4",
             "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/jkcljgqbx8/out/v1/63bfa701559340f3a2a2cb1fccd24807/cenc.mpd",
-            "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
             "title": "TSN SPORTS FHD",
-            "type": "1"
-          },
-          {
-            "api": "6eb77216ea7945998d3713be4ebbfc41:c36275beed344adbb6fdfc547be034ba",
-            "link": "https://adjara-live-eu.akamaized.net/hdntl=exp=1779566123~acl=%2F*~id=40e65163-693a-41e1-bab0-0b6994d8b4fd~data=hdntl,aXA9MTcyLjIxNS4yMzEuMTE0JmV4cD0xNzc5NDc5NzUzJmVpZD05NjE1MDEmb2lkPTEwOCZ0eXBlPVZPRCZ1aWQ9TmNKcjRkfDZlMjc2YTBmLWJkMmUtNDZhMC1iMTJiLTdhMWJlYmEyMzI2YyZjaWQ9ZGNlLnNwdXJzJnB0PW51bGw~hmac=f408469ff316d7a34ff16c7378362289e67f76705ea31c4810be76b7fc97608a/dash/live/2005778/303504-321866/manifest-d.mpd",
-            "logo": "",
-            "title": "SETANTA SPORTS",
             "type": "1"
           },
           {
             "api": "7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe",
             "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
-            "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png",
             "title": "FANCODE FHD",
             "type": "1"
           },
           {
             "api": "",
             "link": "https://chatgpt.hereisman.net/playlist/50931/load-playlist?|Referer=https://gooz.aapmains.net",
-            "logo": "",
             "title": "SPORTIFy F1 HD",
             "type": "0"
           },
           {
             "api": "",
             "link": "https://mainstreams.pro/hls/hbfkazbkaznc49.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
             "title": "SKY SPORTS HD",
             "type": "0"
           },
           {
             "api": "69021095220f3c0eae9bc24215fd692b:eb58cfe0458ed0b48f7351fa3393ad59",
             "link": "https://r.e.blueonline.tv/l/tvsmart/live/eds/Eleven_Sport_1/DHD/Manifest.mpd",
-            "logo": "",
             "title": "ELEVEN SPORTS",
             "type": "1"
           },
           {
             "api": "",
             "link": "https://instreams.pro/bil2/skyf1de/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
-            "logo": "",
             "title": "Sky F1 DE",
             "type": "0"
           },
           {
             "api": "609d795905904705028ef54653019af7:2c791eb611e57a7d7f203022bc1b9ba3",
             "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/duqbirmk0d/out/v1/40f53c7cbc95498db3afd081c377d776/cenc.mpd",
-            "logo": "",
             "title": "F1 TV FHD",
             "type": "1"
           },
           {
             "api": "2fbdaa3bea0d0323ae011b318d1db716:8726ef7eaf5b9dce15fb6aa9f80bd53f",
             "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/oboxe53wyo/out/v1/f7892a9d706d419a846d738fa22ea33e/cenc.mpd",
-            "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
             "title": "Fox Sports - AQ",
             "type": "1"
           }
         ],
         "eventInfo": {
-          "endTime": "2026/05/22 21:45:00 +0000",
-          "eventBanner": "https://iili.io/CH59QHP.png",
+          "endTime": "2026/05/23 21:20:00 +0000",
+          "eventBanner": "https://iili.io/CH19KYJ.png",
           "eventName": "Formula 1 - Canada GP",
           "eventType": "null",
           "isHot": "0",
-          "startTime": "2026/05/22 20:30:00 +0000",
+          "startTime": "2026/05/23 16:00:00 +0000",
           "teamA": "Formula 1",
           "teamAFlag": "https://scdnmain.net/assets/tournament/40-c.png",
           "teamB": "Formula 1",
@@ -95,19 +79,15 @@
         },
         "formatsNew": [
           {
-            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
+            "logo": "",
             "title": "SKY SPORTS FHD"
           },
           {
-            "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
+            "logo": "",
             "title": "TSN SPORTS FHD"
           },
           {
             "logo": "",
-            "title": "SETANTA SPORTS"
-          },
-          {
-            "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png",
             "title": "FANCODE FHD"
           },
           {
@@ -115,7 +95,7 @@
             "title": "SportzX F1 HD"
           },
           {
-            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
+            "logo": "",
             "title": "SKY SPORTS HD"
           },
           {
@@ -131,7 +111,7 @@
             "title": "F1 TV FHD"
           },
           {
-            "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
+            "logo": "",
             "title": "Fox Sports - AQ"
           }
         ],
