@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-23T03:30:31.761958",
+  "last_updated": "2026-05-23T03:40:24.278910",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "08:55:20 AM 23-05-2026",
+    "Last update time": "09:05:17 AM 23-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -1063,73 +1063,6 @@
       },
       {
         "adsLimit": "0",
-        "cat": "NHL",
-        "channels_data": [
-          {
-            "api": "0ac301be9c9b4fd88a8e21f9aba8077e:63330f32a3c740da8f5aa683e5d5221a",
-            "link": "https://adjara-live-eu.akamaized.net/hdntl=exp=1779566121~acl=%2f*~id=d4f3cef4-9904-4f38-9b14-592631982338~data=hdntl,aXA9MTcyLjIxNS4yMzEuMTE0JmV4cD0xNzc5NDc5NzUxJmVpZD05NjE1MzEmb2lkPTEwOCZ0eXBlPVZPRCZ1aWQ9TmNKcjRkfDZlMjc2YTBmLWJkMmUtNDZhMC1iMTJiLTdhMWJlYmEyMzI2YyZjaWQ9ZGNlLnNwdXJzJnB0PW51bGw~hmac=5fac8c94c1bb5b3b53fe703356986cf7ebf40aed97e55ca53669e811771e77fc/dash/live/2019605/303494-321870/manifest-d.mpd",
-            "logo": "",
-            "title": "SETANTA SPORTS",
-            "type": "1"
-          },
-          {
-            "api": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
-            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
-            "logo": "",
-            "title": "PREMIER SPORTS",
-            "type": "1"
-          },
-          {
-            "api": "",
-            "link": "https://edge2caster.pro/hls/uyopzarf50.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
-            "logo": "",
-            "title": "SPORTIFy Live",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://instreams.pro/US/NHL1/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
-            "logo": "",
-            "title": "HD SERVER",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/23 03:00:00 +0000",
-          "eventName": "Colorado Avalanche vs Golden Knights",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/23 00:00:00 +0000",
-          "teamA": "Avalanche",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3682/image",
-          "teamB": "Golden Knights",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/257523/image"
-        },
-        "formatsNew": [
-          {
-            "logo": "",
-            "title": "SETANTA SPORTS"
-          },
-          {
-            "logo": "",
-            "title": "PREMIER SPORTS"
-          },
-          {
-            "logo": "",
-            "title": "SportzX Live"
-          },
-          {
-            "logo": "",
-            "title": "HD SERVER"
-          }
-        ],
-        "id": "386",
-        "image": "o",
-        "publish": "1",
-        "title": "Colorado Avalanche"
-      },
-      {
-        "adsLimit": "0",
         "cat": "MLB",
         "channels_data": [
           {
@@ -1844,6 +1777,171 @@
         "image": "o",
         "publish": "1",
         "title": "Lazio vs Pisa"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "DFB Pokal",
+        "channels_data": [
+          {
+            "api": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f",
+            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
+            "title": "PREMIER SPORTS",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/23 20:00:00 +0000",
+          "eventName": "Bayern München vs VfB Stuttgart",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/23 18:00:00 +0000",
+          "teamA": "Bayern",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2672/image",
+          "teamB": "Stuttgart",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2677/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "PREMIER SPORTS"
+          }
+        ],
+        "id": "415",
+        "image": "o",
+        "publish": "1",
+        "title": "Bayern vs Stuttgart"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+        "channels_data": [
+          {
+            "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
+            "title": "beIN ENGLISH FHD",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/23 16:30:00 +0000",
+          "eventName": "Hull City vs Middlesbrough",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/23 14:30:00 +0000",
+          "teamA": "Hull",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/96/image",
+          "teamB": "Middlesbrough",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/36/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "beIN ENGLISH FHD"
+          }
+        ],
+        "id": "416",
+        "image": "o",
+        "publish": "1",
+        "title": "Hull City vs Middlesbrough"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "Scottish Premiership",
+        "channels_data": [
+          {
+            "api": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
+            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
+            "title": "PREMIER SPORTS",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/23 16:00:00 +0000",
+          "eventName": "Celtic vs Dunfermline Athletic",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/23 14:00:00 +0000",
+          "teamA": "Celtic",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2352/image",
+          "teamB": "Dunfermline",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2350/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "PREMIER SPORTS"
+          }
+        ],
+        "id": "417",
+        "image": "o",
+        "publish": "1",
+        "title": "Celtic vs Dunfermline"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "NRL Rugby",
+        "channels_data": [
+          {
+            "api": "2e2636daa74141b68cc14882ea3ff82b:0961f48287324adbb4b7ff3c9d82b3c9",
+            "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1779566116~acl=%2F*~id=1f26dfa9-cc78-4598-ac11-c03c5b9ab880~data=hdntl,aXA9MTcyLjIxNS4yMzEuMTE0JmV4cD0xNzc5NDc5NzQ1JmVpZD05NjE2MDQmb2lkPTEwOCZ0eXBlPVZPRCZ1aWQ9TmNKcjRkfDZlMjc2YTBmLWJkMmUtNDZhMC1iMTJiLTdhMWJlYmEyMzI2YyZjaWQ9ZGNlLnNwdXJzJnB0PW51bGw~hmac=5dadc1cbbbf42f4bc2791431fbd5b3f20400aa204a111b1220e8155c4ae0bf93/dash/live/2093717/219028-321030/manifest-d.mpd",
+            "title": "SKY SPORTS FHD",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/23 09:45:00 +0000",
+          "eventName": "Illawarra Dragons vs New Zealand",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/23 07:30:00 +0000",
+          "teamA": "St. George Illawarra",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/4265/image",
+          "teamB": "New Zealand",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/4267/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "SKY SPORTS FHD"
+          }
+        ],
+        "id": "418",
+        "image": "o",
+        "publish": "1",
+        "title": "Illawarra Dragons vs New Zealand"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "NRL Rugby",
+        "channels_data": [
+          {
+            "api": "fdd24dd2c6c14126ad7c1ad1066b03dd:08289c6d57d54e8d8dca55e1862afb82",
+            "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1779566126~acl=%2F*~id=ddd3ccec-9953-4785-9649-c90d1263e0ac~data=hdntl,aXA9MTcyLjIxNS4yMzEuMTE0JmV4cD0xNzc5NDc5NzU2JmVpZD05NjA0Nzkmb2lkPTEwOCZ0eXBlPVZPRCZ1aWQ9TmNKcjRkfDZlMjc2YTBmLWJkMmUtNDZhMC1iMTJiLTdhMWJlYmEyMzI2YyZjaWQ9ZGNlLnNwdXJzJnB0PW51bGw~hmac=12ba10e59dc89d4636cdb217cfdb65220197a04f0f8a1312134b1b393c91a28e/dash/live/2093722/219032-321033/manifest-d.mpd",
+            "title": "SKY SPORTS FHD",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/23 11:35:00 +0000",
+          "eventName": "Manly Sea Eagles vs Gold Coast",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/23 09:35:00 +0000",
+          "teamA": "Manly",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/4259/image",
+          "teamB": "Gold Coast",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/7313/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "SKY SPORTS FHD"
+          }
+        ],
+        "id": "419",
+        "image": "o",
+        "publish": "1",
+        "title": "Manly vs Gold Coast"
       }
     ]
   }
