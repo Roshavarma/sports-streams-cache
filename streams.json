@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-23T14:20:20.781973",
+  "last_updated": "2026-05-23T14:30:36.711719",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "07:45:26 PM 23-05-2026",
+    "Last update time": "07:55:17 PM 23-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -732,6 +732,13 @@
             "type": "1"
           },
           {
+            "api": "6911cdcba96355c2a766c95e3708cf62:f4444f6ff0c2c540e6c02479w12Fb34f",
+            "link": "https://dck1-ac-live.cdn.indazn.com/out/v1/761f422bb93edb7b/4b1684199726448b999c97b4e639a07f/index.mpd",
+            "logo": "",
+            "title": "KAYO HINDI FHD",
+            "type": "1"
+          },
+          {
             "api": "01c9bbf8137e58378a5ead514998a7b4:fb01e61809e80e5e93a889cdv1dAab22",
             "link": "https://dck1-fs-live.dtcdn.dazn.com/out/v1/814bffb9b389f652/d65feac5647949e6b45b2674d4715398/index.mpd",
             "logo": "",
@@ -821,6 +828,10 @@
           {
             "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
             "title": "SKY SPORTS FHD"
+          },
+          {
+            "logo": "",
+            "title": "KAYO HINDI FHD"
           },
           {
             "logo": "",
