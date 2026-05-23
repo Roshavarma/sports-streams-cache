@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-23T14:00:44.694140",
+  "last_updated": "2026-05-23T14:10:22.784224",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "07:25:19 PM 23-05-2026",
+    "Last update time": "07:35:20 PM 23-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -718,6 +718,13 @@
         "cat": "Indian Premier League",
         "channels_data": [
           {
+            "api": "4038ac222c1b2460a88a8e24dfd36bb5:5f8e6ac34ddc50d30c432a71fe9\u00124a33",
+            "link": "https://a57live-pv-ta-amazon.akamaized.net/iad-nitro/live/clients/dash/enc/x5pddphhxr/out/v1/c8116020f3ff4255b1f227726006284e/cenc.mpd",
+            "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
+            "title": "WILLOW [Ad-Free]",
+            "type": "1"
+          },
+          {
             "api": "278b8746b7c7410e901af0aa3774f037:15e1142d647b474ebbd49e4tefa\u0012a9d",
             "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1779611166~acl=%2F*~id=1b06983d-6a70-482d-b1cc-3e09e8e8cc20~data=hdntl,aXA9MTcyLjE4Mi4yMjUuMTYyJmV4cD0xNzc5NTI0Nzk2JmVpZD05NjE1MDEmb2lkPTEwOCZ0eXBlPVZPRCZ1aWQ9aVVFd1VXfGVlZjY4NGJmLTBlNWItNDk3MC05NWNjLTRjNWNkODM2OTJiZiZjaWQ9ZGNlLnNwdXJzJnB0PW51bGw~hmac=21085939c168f6a4c42ee736a8ed2f49d7cbe143fb3810013a02aa0146c125a2/dash/live/2093720/219029-321032/manifest-d.mpd",
             "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
@@ -725,17 +732,17 @@
             "type": "1"
           },
           {
-            "api": "627534a44e5f9f0075451a22a2eb9b75:7f3df7ff897dd8464730bf02Ta7\u0017a338",
-            "link": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/dzkuoiomgv/out/v1/c8cb695a19a8494ea85b704b5feb5645/cenc.mpd",
-            "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
-            "title": "WILLOW [Ad-Free]",
-            "type": "1"
-          },
-          {
             "api": "01c9bbf8137e58378a5ead514998a7b4:fb01e61809e80e5e93a889cdv1dAab22",
             "link": "https://dck1-fs-live.dtcdn.dazn.com/out/v1/814bffb9b389f652/d65feac5647949e6b45b2674d4715398/index.mpd",
             "logo": "",
             "title": "FOX CRICKET FHD",
+            "type": "1"
+          },
+          {
+            "api": "a7f414c066d3d8c3f19930764fad7d56:506e73d4cc003b77ad133f66zf9\u0011c3da",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/q5v89jit0t/out/v1/7ed6a82342dd4f5dbb941ca39978d680/cenc-sd.mpd",
+            "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
+            "title": "WILLOW SD",
             "type": "1"
           },
           {
@@ -808,16 +815,20 @@
         },
         "formatsNew": [
           {
-            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
-            "title": "SKY SPORTS FHD"
-          },
-          {
             "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
             "title": "WILLOW [Ad-Free]"
           },
           {
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
+            "title": "SKY SPORTS FHD"
+          },
+          {
             "logo": "",
             "title": "FOX CRICKET FHD"
+          },
+          {
+            "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
+            "title": "WILLOW SD"
           },
           {
             "logo": "",
