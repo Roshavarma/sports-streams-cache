@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-23T01:40:19.988036",
+  "last_updated": "2026-05-23T01:50:20.153138",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "07:05:21 AM 23-05-2026",
+    "Last update time": "07:15:21 AM 23-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -810,15 +810,15 @@
           }
         ],
         "eventInfo": {
-          "endTime": "2026/05/22 18:00:00 +0000",
-          "eventName": "Sunrisers Hyderabad vs Royal Challengers Bengaluru",
+          "endTime": "2026/05/23 18:00:00 +0000",
+          "eventName": "Lucknow Super Giants vs Punjab Kings",
           "eventType": "null",
           "isHot": "0",
-          "startTime": "2026/05/22 14:00:00 +0000",
-          "teamA": "SRH",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/187844/image",
-          "teamB": "RCB",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/187843/image"
+          "startTime": "2026/05/23 14:00:00 +0000",
+          "teamA": "LSG",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/410010/image",
+          "teamB": "PBKS",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/187776/image"
         },
         "formatsNew": [
           {
@@ -1087,7 +1087,15 @@
         "channels_data": [
           {
             "api": "",
+            "link": "https://chatgpt.hereisman.net/playlist/51000/load-playlist?|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "title": "SPORTIFy WNBA",
+            "type": "0"
+          },
+          {
+            "api": "",
             "link": "https://mainstreams.pro/hls/pllmazjkdzajh72.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+            "logo": "",
             "title": "SPORTIFy Live",
             "type": "0"
           }
@@ -1106,6 +1114,10 @@
         "formatsNew": [
           {
             "logo": "",
+            "title": "SportzX WNBA"
+          },
+          {
+            "logo": "",
             "title": "SportzX Live"
           }
         ],
@@ -1119,20 +1131,30 @@
         "cat": "NHL",
         "channels_data": [
           {
+            "api": "0ac301be9c9b4fd88a8e21f9aba8077e:63330f32a3c740da8f5aa683e5d5221a",
+            "link": "https://adjara-live-eu.akamaized.net/hdntl=exp=1779566121~acl=%2f*~id=d4f3cef4-9904-4f38-9b14-592631982338~data=hdntl,aXA9MTcyLjIxNS4yMzEuMTE0JmV4cD0xNzc5NDc5NzUxJmVpZD05NjE1MzEmb2lkPTEwOCZ0eXBlPVZPRCZ1aWQ9TmNKcjRkfDZlMjc2YTBmLWJkMmUtNDZhMC1iMTJiLTdhMWJlYmEyMzI2YyZjaWQ9ZGNlLnNwdXJzJnB0PW51bGw~hmac=5fac8c94c1bb5b3b53fe703356986cf7ebf40aed97e55ca53669e811771e77fc/dash/live/2019605/303494-321870/manifest-d.mpd",
+            "logo": "",
+            "title": "SETANTA SPORTS",
+            "type": "1"
+          },
+          {
             "api": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
             "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
+            "logo": "",
             "title": "PREMIER SPORTS",
             "type": "1"
           },
           {
             "api": "",
             "link": "https://edge2caster.pro/hls/uyopzarf50.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+            "logo": "",
             "title": "SPORTIFy Live",
             "type": "0"
           },
           {
             "api": "",
             "link": "https://instreams.pro/US/NHL1/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
+            "logo": "",
             "title": "HD SERVER",
             "type": "0"
           }
@@ -1149,6 +1171,10 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/257523/image"
         },
         "formatsNew": [
+          {
+            "logo": "",
+            "title": "SETANTA SPORTS"
+          },
           {
             "logo": "",
             "title": "PREMIER SPORTS"
@@ -1206,7 +1232,15 @@
         "channels_data": [
           {
             "api": "",
+            "link": "https://chatgpt.hereisman.net/playlist/50997/load-playlist?|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "title": "SPORTIFy MLB",
+            "type": "0"
+          },
+          {
+            "api": "",
             "link": "https://edge2caster.pro/hls/jzabfazkbf27.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+            "logo": "",
             "title": "SPORTIFy Live",
             "type": "0"
           }
@@ -1225,6 +1259,10 @@
         "formatsNew": [
           {
             "logo": "",
+            "title": "SportzX MLB"
+          },
+          {
+            "logo": "",
             "title": "SportzX Live"
           }
         ],
@@ -1239,7 +1277,15 @@
         "channels_data": [
           {
             "api": "",
+            "link": "https://chatgpt.hereisman.net/playlist/51002/load-playlist?|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "title": "SPORTIFy NBA",
+            "type": "0"
+          },
+          {
+            "api": "",
             "link": "https://edge2caster.pro/hls/JHDAJBDnjdna30.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+            "logo": "",
             "title": "SPORTIFy Live",
             "type": "0"
           }
@@ -1258,6 +1304,10 @@
         "formatsNew": [
           {
             "logo": "",
+            "title": "SportzX NBA"
+          },
+          {
+            "logo": "",
             "title": "SportzX Live"
           }
         ],
@@ -1272,7 +1322,15 @@
         "channels_data": [
           {
             "api": "",
+            "link": "https://chatgpt.hereisman.net/playlist/50998/load-playlist?|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "title": "SPORTIFy MLB",
+            "type": "0"
+          },
+          {
+            "api": "",
             "link": "https://edge2caster.pro/hls/hefbafbakx28.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+            "logo": "",
             "title": "SPORTIFy LIVE",
             "type": "0"
           }
@@ -1291,6 +1349,10 @@
         "formatsNew": [
           {
             "logo": "",
+            "title": "SportzX MLB"
+          },
+          {
+            "logo": "",
             "title": "SportzX LIVE"
           }
         ],
@@ -1305,7 +1367,15 @@
         "channels_data": [
           {
             "api": "",
+            "link": "https://chatgpt.hereisman.net/playlist/50995/load-playlist?|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "title": "SPORTIFy MLB",
+            "type": "0"
+          },
+          {
+            "api": "",
             "link": "https://edge2caster.pro/hls/hfzljfahzcax29.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+            "logo": "",
             "title": "SPORTIFy Live",
             "type": "0"
           }
@@ -1324,6 +1394,10 @@
         "formatsNew": [
           {
             "logo": "",
+            "title": "SportzX MLB"
+          },
+          {
+            "logo": "",
             "title": "SportzX Live"
           }
         ],
@@ -1334,81 +1408,37 @@
       },
       {
         "adsLimit": "0",
-        "cat": "Serie A 🇮🇹",
+        "cat": "FIFA Friendlies",
         "channels_data": [
           {
-            "api": "dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd",
+            "api": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
             "logo": "",
-            "title": "FUBO SPORTS FHD",
+            "title": "FOX DEPORTES",
             "type": "1"
-          },
-          {
-            "api": "102be0110b184a77b9ed5dc80b93f1ba:24c32ca6c83c4ae88a4aa429fa7af269",
-            "link": "https://adjara-live-eu.akamaized.net/hdntl=exp=1779547768~acl=%2F*~id=b08c6374-4463-46bd-94f4-7c1a0962cc51~data=hdntl,aXA9MjAuMTA2LjE4Mi4yMDkmZXhwPTE3Nzk0NjEzOTgmZWlkPTk2MTUwMSZvaWQ9MTA4JnR5cGU9Vk9EJnVpZD1EWGlvRWF8YWViZmUzZDgtMTEzNy00MDQyLTllNGEtOTliODU2M2UzYWI0JmNpZD1kY2Uuc3B1cnMmcHQ9bnVsbA~hmac=ca0a0cecfd5ab1d6163a8169fbd8a240df242adb75d187e70f08b70234822da2/dash/live/2001530/303364-321862/manifest-d.mpd",
-            "logo": "",
-            "title": "SETANTA SPORTS",
-            "type": "1"
-          },
-          {
-            "api": "",
-            "link": "https://chatgpt.hereisman.net/playlist/50961/load-playlist?|Referer=https://gooz.aapmains.net",
-            "logo": "",
-            "title": "PARAMOUNT+ HD",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://livecdn-tc-livestream.rumsport10.live/stream/6/chunks.m3u8?is_vip=false&token=1779561653-Kv4cPTAAP5YTi-e115175e272ed0041374c2d5520ac993472d6047-6ec05cf46bd3027d06e0da787d0c00a9",
-            "logo": "",
-            "title": "CBS SPORTS HD",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://live.vivo200.com/live/hd-en-1-4339645.m3u8?txSecret=d016e3dc9ab920a2bcb7ebf51734169a&txTime=6A10AA67|referer=https://player.online909.com/",
-            "logo": "",
-            "title": "SPORTIFy Live",
-            "type": "0"
           }
         ],
         "eventInfo": {
-          "endTime": "2026/05/22 20:45:00 +0000",
-          "eventName": "Fiorentina vs Atalanta",
+          "endTime": "2026/05/23 04:00:00 +0000",
+          "eventName": "Mexico vs Ghana",
           "eventType": "null",
           "isHot": "0",
-          "startTime": "2026/05/22 18:45:00 +0000",
-          "teamA": "Fiorentina",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2693/image",
-          "teamB": "Atalanta",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2686/image"
+          "startTime": "2026/05/23 02:00:00 +0000",
+          "teamA": "Mexico",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/4781/image",
+          "teamB": "Ghana",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/4764/image"
         },
         "formatsNew": [
           {
             "logo": "",
-            "title": "FUBO SPORTS FHD"
-          },
-          {
-            "logo": "",
-            "title": "SETANTA SPORTS"
-          },
-          {
-            "logo": "",
-            "title": "PARAMOUNT+ HD"
-          },
-          {
-            "logo": "",
-            "title": "CBS SPORTS HD"
-          },
-          {
-            "logo": "",
-            "title": "SportzX Live"
+            "title": "FOX DEPORTES"
           }
         ],
         "id": "400",
         "image": "o",
         "publish": "1",
-        "title": "Fiorentina vs Atalanta"
+        "title": "Mexico vs Ghana"
       },
       {
         "adsLimit": "0",
