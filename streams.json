@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-23T03:20:22.840551",
+  "last_updated": "2026-05-23T03:30:31.761958",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "08:45:23 AM 23-05-2026",
+    "Last update time": "08:55:20 AM 23-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -1735,6 +1735,115 @@
         "image": "o",
         "publish": "1",
         "title": "Real Betis vs Levante"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "LaLiga 🇪🇸",
+        "channels_data": [
+          {
+            "api": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
+            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
+            "title": "PREMIER SPORTS",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/23 21:00:00 +0000",
+          "eventName": "LaLiga : Multigoal",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/23 18:55:00 +0000",
+          "teamA": "Multigoal",
+          "teamAFlag": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/87.png",
+          "teamB": "Multigoal",
+          "teamBFlag": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/87.png"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "PREMIER SPORTS"
+          }
+        ],
+        "id": "412",
+        "image": "o",
+        "publish": "1",
+        "title": "Multigoal"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "Serie A 🇮🇹",
+        "channels_data": [
+          {
+            "api": "dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd",
+            "title": "FUBO SPORTS",
+            "type": "1"
+          },
+          {
+            "api": "335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281",
+            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd",
+            "title": "beIN ENGLISH",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/23 18:00:00 +0000",
+          "eventName": "Bologna vs Inter",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/23 16:00:00 +0000",
+          "teamA": "Bologna",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2685/image",
+          "teamB": "Inter",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2697/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "FUBO SPORTS"
+          },
+          {
+            "logo": "",
+            "title": "beIN ENGLISH"
+          }
+        ],
+        "id": "413",
+        "image": "o",
+        "publish": "1",
+        "title": "Bologna vs Inter"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "Serie A 🇮🇹",
+        "channels_data": [
+          {
+            "api": "335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281",
+            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd",
+            "title": "beIN ENGLISH",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/23 20:45:00 +0000",
+          "eventName": "Lazio vs Pisa",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/23 18:45:00 +0000",
+          "teamA": "Lazio",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2699/image",
+          "teamB": "Pisa",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2737/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "beIN ENGLISH"
+          }
+        ],
+        "id": "414",
+        "image": "o",
+        "publish": "1",
+        "title": "Lazio vs Pisa"
       }
     ]
   }
