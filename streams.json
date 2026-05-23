@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-23T02:10:21.898961",
+  "last_updated": "2026-05-23T02:20:24.505379",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "07:35:17 AM 23-05-2026",
+    "Last update time": "07:45:23 AM 23-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -1351,6 +1351,13 @@
             "logo": "",
             "title": "FOX DEPORTES",
             "type": "1"
+          },
+          {
+            "api": "",
+            "link": "https://play.ltwxsc.com/live/sd-6MwcqKMKLdsFHcJLw8.m3u8?txSecret=bae230e242ab949d9129722d614869e7&txTime=6A113543",
+            "logo": "",
+            "title": "SPORTIFy Live",
+            "type": "0"
           }
         ],
         "eventInfo": {
@@ -1368,6 +1375,10 @@
           {
             "logo": "",
             "title": "FOX DEPORTES"
+          },
+          {
+            "logo": "",
+            "title": "SportzX Live"
           }
         ],
         "id": "400",
