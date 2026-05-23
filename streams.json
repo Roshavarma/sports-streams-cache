@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-23T01:30:34.799527",
+  "last_updated": "2026-05-23T01:40:19.988036",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "06:55:17 AM 23-05-2026",
+    "Last update time": "07:05:21 AM 23-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -940,6 +940,13 @@
         "cat": "NBA",
         "channels_data": [
           {
+            "api": "326058ffe1cd4d3383781b36ca9145d1:99d405d46f114eff96789673e57d0121",
+            "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1779566123~acl=%2F*~id=40e65163-693a-41e1-bab0-0b6994d8b4fd~data=hdntl,aXA9MTcyLjIxNS4yMzEuMTE0JmV4cD0xNzc5NDc5NzUzJmVpZD05NjE1MDEmb2lkPTEwOCZ0eXBlPVZPRCZ1aWQ9TmNKcjRkfDZlMjc2YTBmLWJkMmUtNDZhMC1iMTJiLTdhMWJlYmEyMzI2YyZjaWQ9ZGNlLnNwdXJzJnB0PW51bGw~hmac=f408469ff316d7a34ff16c7378362289e67f76705ea31c4810be76b7fc97608a/dash/live/2093723/219038-321034/manifest-d.mpd",
+            "logo": "",
+            "title": "ESPN SPORTS FHD",
+            "type": "1"
+          },
+          {
             "api": "",
             "link": "https://mainstreams.pro/hls/mlkijfezag65.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
             "logo": "",
@@ -966,6 +973,10 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/3418/image"
         },
         "formatsNew": [
+          {
+            "logo": "",
+            "title": "ESPN SPORTS FHD"
+          },
           {
             "logo": "",
             "title": "SportzX Live"
