@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-23T05:00:42.692673",
+  "last_updated": "2026-05-23T05:10:22.397529",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "10:25:22 AM 23-05-2026",
+    "Last update time": "10:35:21 AM 23-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -530,11 +530,11 @@
           }
         ],
         "eventInfo": {
-          "endTime": "2026/05/23 02:45:00 +0000",
+          "endTime": "2026/05/30 02:45:00 +0000",
           "eventName": "🥊 WWE Friday Night SmackDown",
           "eventType": "null",
           "isHot": "0",
-          "startTime": "2026/05/23 00:00:00 +0000",
+          "startTime": "2026/05/30 00:00:00 +0000",
           "teamA": "WWE",
           "teamAFlag": "https://www.wwe.com/f/styles/wwe_show_logo_l/public/all/2024/09/Smackdown_LOGO--c8e0b09904cb1356d309a8ea2acb0422.png",
           "teamB": "WWE",
@@ -914,231 +914,6 @@
         "image": "o",
         "publish": "1",
         "title": "ATP 250 Geneva"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "WNBA",
-        "channels_data": [
-          {
-            "api": "",
-            "link": "https://chatgpt.hereisman.net/playlist/51000/load-playlist?|Referer=https://gooz.aapmains.net",
-            "logo": "",
-            "title": "SPORTIFy WNBA",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://mainstreams.pro/hls/pllmazjkdzajh72.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
-            "logo": "",
-            "title": "SPORTIFy Live",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/23 04:40:00 +0000",
-          "eventName": "Seattle Storm vs Connecticut Sun",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/23 02:00:00 +0000",
-          "teamA": "Storm",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3448/image",
-          "teamB": "Connecticut",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/35547/image"
-        },
-        "formatsNew": [
-          {
-            "logo": "",
-            "title": "SportzX WNBA"
-          },
-          {
-            "logo": "",
-            "title": "SportzX Live"
-          }
-        ],
-        "id": "379",
-        "image": "o",
-        "publish": "1",
-        "title": "Seattle Storm vs Connecticut Sun"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "MLB",
-        "channels_data": [
-          {
-            "api": "",
-            "link": "https://chatgpt.hereisman.net/playlist/50997/load-playlist?|Referer=https://gooz.aapmains.net",
-            "logo": "",
-            "title": "SPORTIFy MLB",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://edge2caster.pro/hls/jzabfazkbf27.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-            "logo": "",
-            "title": "SPORTIFy Live",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/23 04:38:00 +0000",
-          "eventName": "Angels vs Texas Rangers",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/23 01:38:00 +0000",
-          "teamA": "Angels",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/5929/image",
-          "teamB": "Rangers",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3647/image"
-        },
-        "formatsNew": [
-          {
-            "logo": "",
-            "title": "SportzX MLB"
-          },
-          {
-            "logo": "",
-            "title": "SportzX Live"
-          }
-        ],
-        "id": "395",
-        "image": "o",
-        "publish": "1",
-        "title": "Texas Rangers"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "MLB",
-        "channels_data": [
-          {
-            "api": "",
-            "link": "https://chatgpt.hereisman.net/playlist/51002/load-playlist?|Referer=https://gooz.aapmains.net",
-            "logo": "",
-            "title": "SPORTIFy NBA",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://edge2caster.pro/hls/JHDAJBDnjdna30.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-            "logo": "",
-            "title": "SPORTIFy Live",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/23 05:15:00 +0000",
-          "eventName": "Giants vs Chicago White Sox",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/23 02:15:00 +0000",
-          "teamA": "Giants",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3634/image",
-          "teamB": "White Sox",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3644/image"
-        },
-        "formatsNew": [
-          {
-            "logo": "",
-            "title": "SportzX NBA"
-          },
-          {
-            "logo": "",
-            "title": "SportzX Live"
-          }
-        ],
-        "id": "397",
-        "image": "o",
-        "publish": "1",
-        "title": "Chicago White Sox"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "MLB",
-        "channels_data": [
-          {
-            "api": "",
-            "link": "https://chatgpt.hereisman.net/playlist/50998/load-playlist?|Referer=https://gooz.aapmains.net",
-            "logo": "",
-            "title": "SPORTIFy MLB",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://edge2caster.pro/hls/hefbafbakx28.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-            "logo": "",
-            "title": "SPORTIFy LIVE",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/23 04:40:00 +0000",
-          "eventName": "San Diego Padres vs Athletics",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/23 01:40:00 +0000",
-          "teamA": "Padres",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3636/image",
-          "teamB": "Athletics",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3645/image"
-        },
-        "formatsNew": [
-          {
-            "logo": "",
-            "title": "SportzX MLB"
-          },
-          {
-            "logo": "",
-            "title": "SportzX LIVE"
-          }
-        ],
-        "id": "398",
-        "image": "o",
-        "publish": "1",
-        "title": "Athletics"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "MLB",
-        "channels_data": [
-          {
-            "api": "",
-            "link": "https://chatgpt.hereisman.net/playlist/50995/load-playlist?|Referer=https://gooz.aapmains.net",
-            "logo": "",
-            "title": "SPORTIFy MLB",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://edge2caster.pro/hls/hfzljfahzcax29.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-            "logo": "",
-            "title": "SPORTIFy Live",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/23 04:40:00 +0000",
-          "eventName": "Diamondbacks vs Colorado Rockies",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/23 01:40:00 +0000",
-          "teamA": "Diamondbacks",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3640/image",
-          "teamB": "Rockies",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3628/image"
-        },
-        "formatsNew": [
-          {
-            "logo": "",
-            "title": "SportzX MLB"
-          },
-          {
-            "logo": "",
-            "title": "SportzX Live"
-          }
-        ],
-        "id": "399",
-        "image": "o",
-        "publish": "1",
-        "title": "Arizona Diamondbacks"
       },
       {
         "adsLimit": "0",
