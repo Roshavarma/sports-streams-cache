@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-23T19:30:32.483797",
+  "last_updated": "2026-05-23T19:40:20.225874",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "12:55:17 AM 24-05-2026",
+    "Last update time": "01:05:19 AM 24-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -1086,6 +1086,12 @@
             "type": "1"
           },
           {
+            "api": "a01e1e0d5fb145b8b33190588490a27a:bfd9e3b0866e49cbae1bb7f7116451c9",
+            "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1779650339~acl=%2F*~id=67f01e74-9ebc-40c1-a53b-83235cc9b59a~data=hdntl,aXA9MTcyLjE3OC4xMTkuMTE0JmV4cD0xNzc5NTYzOTY5JmVpZD05NjE1Mzkmb2lkPTEwOCZ0eXBlPVZPRCZ1aWQ9c1VQVk5vfDMwMzk2YmViLTdjN2YtNDZkOC1iZDEwLTIzZjg4NWRjNDFkZSZjaWQ9ZGNlLnNwdXJzJnB0PW51bGw~hmac=67635eced926a91fa46db60891128fc65a440530a70cb8cf74137c5caf579c43/dash/live/2093724/219039-321035/manifest-d.mpd",
+            "title": "ESPN SPORTS HD",
+            "type": "1"
+          },
+          {
             "api": "",
             "link": "https://edge2caster.pro/hls/uyopzarf50.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
             "title": "SPORTIFy Live",
@@ -1113,6 +1119,10 @@
           {
             "logo": "",
             "title": "PREMIER SPORTS"
+          },
+          {
+            "logo": "",
+            "title": "ESPN SPORTS HD"
           },
           {
             "logo": "",
@@ -1764,6 +1774,13 @@
             "logo": "",
             "title": "SPORTIFy Live",
             "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://instreams.pro/US/NFLHD14/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
+            "logo": "",
+            "title": "HD SERVER",
+            "type": "0"
           }
         ],
         "eventInfo": {
@@ -1789,6 +1806,10 @@
           {
             "logo": "",
             "title": "SportzX Live"
+          },
+          {
+            "logo": "",
+            "title": "HD SERVER"
           }
         ],
         "id": "406",
@@ -2874,6 +2895,231 @@
         "image": "o",
         "publish": "1",
         "title": "Glamorgan vs Gloucestershire"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "Brasileirão",
+        "channels_data": [
+          {
+            "api": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
+            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
+            "title": "PREMIER SPORTS",
+            "type": "1"
+          },
+          {
+            "api": "56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd",
+            "title": "PREMIERER BR",
+            "type": "1"
+          },
+          {
+            "api": "4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733",
+            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd",
+            "title": "SporTV BR",
+            "type": "1"
+          },
+          {
+            "api": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
+            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
+            "title": "SportDigital Fussball",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/23 22:00:00 +0000",
+          "eventName": "São Paulo vs Botafogo",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/23 20:00:00 +0000",
+          "teamA": "São Paulo",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/1981/image",
+          "teamB": "Botafogo",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/1958/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "PREMIER SPORTS"
+          },
+          {
+            "logo": "",
+            "title": "PREMIERER BR"
+          },
+          {
+            "logo": "",
+            "title": "SporTV BR"
+          },
+          {
+            "logo": "",
+            "title": "SportDigital Fussball"
+          }
+        ],
+        "id": "434",
+        "image": "o",
+        "publish": "1",
+        "title": "São Paulo vs Botafogo"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "Brasileirão",
+        "channels_data": [
+          {
+            "api": "561baa89676c89c1d047e1852ba01c09:a8c157826dfdf1299a329b77e2ab6a1a",
+            "link": "https://otte.cache.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/k1mql3yg4r/out/v1/898067f362a5444bbe42d7568430ca14/cenc-sd.mpd",
+            "title": "PREMIERER BR",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/23 22:00:00 +0000",
+          "eventName": "Vitória vs Internacional",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/23 20:00:00 +0000",
+          "teamA": "Vitória",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/1962/image",
+          "teamB": "Internacional",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/1966/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "PREMIERER BR"
+          }
+        ],
+        "id": "435",
+        "image": "o",
+        "publish": "1",
+        "title": "Vitória vs Internacional"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "Brasileirão",
+        "channels_data": [
+          {
+            "api": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f",
+            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
+            "title": "PREMIER SPORTS",
+            "type": "1"
+          },
+          {
+            "api": "9dc40460c93087aea84d6315f08ecb64:f69c8d4624fddff4ca89bd0b31bdc4a7",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/oy6rp0jwmf/out/v1/580ecf12bad24979baf8dd993dce053e/cenc.mpd",
+            "title": "PREMIERER BR",
+            "type": "1"
+          },
+          {
+            "api": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
+            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
+            "title": "SportDigital Fussball",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/24 00:00:00 +0000",
+          "eventName": "Grêmio vs Santos",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/23 22:00:00 +0000",
+          "teamA": "Grêmio",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/5926/image",
+          "teamB": "Santos",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/1968/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "PREMIER SPORTS"
+          },
+          {
+            "logo": "",
+            "title": "PREMIERER BR"
+          },
+          {
+            "logo": "",
+            "title": "SportDigital Fussball"
+          }
+        ],
+        "id": "436",
+        "image": "o",
+        "publish": "1",
+        "title": "Grêmio vs Santos"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "Brasileirão",
+        "channels_data": [
+          {
+            "api": "e23365c2ad97870c871712b73f0d6195:58709c714320bb862dbd07270df81c94",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tirjor64kh/out/v1/fd2ed9916d994f09a3bd62b64141b9cb/cenc.mpd",
+            "title": "PREMIERER BR",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/24 00:00:00 +0000",
+          "eventName": "Mirassol vs Fluminense",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/23 22:00:00 +0000",
+          "teamA": "Mirassol",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/21982/image",
+          "teamB": "Fluminense",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/1961/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "PREMIERER BR"
+          }
+        ],
+        "id": "437",
+        "image": "o",
+        "publish": "1",
+        "title": "Mirassol vs Fluminense"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "Brasileirão",
+        "channels_data": [
+          {
+            "api": "56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd",
+            "title": "PREMIERER BR",
+            "type": "1"
+          },
+          {
+            "api": "4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733",
+            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd",
+            "title": "SporTV BR",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/24 02:00:00 +0000",
+          "eventName": "Flamengo vs Palmeiras",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/24 00:00:00 +0000",
+          "teamA": "Flamengo",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/5981/image",
+          "teamB": "Palmeiras",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/1963/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "PREMIERER BR"
+          },
+          {
+            "logo": "",
+            "title": "SporTV BR"
+          }
+        ],
+        "id": "438",
+        "image": "o",
+        "publish": "1",
+        "title": "Flamengo vs Palmeiras"
       }
     ]
   }
