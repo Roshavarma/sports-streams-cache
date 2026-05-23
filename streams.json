@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-23T16:50:21.000691",
+  "last_updated": "2026-05-23T17:00:46.502702",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "10:15:25 PM 23-05-2026",
+    "Last update time": "10:25:18 PM 23-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -96,12 +96,12 @@
           }
         ],
         "eventInfo": {
-          "endTime": "2026/05/23 21:20:00 +0000",
-          "eventBanner": "https://iili.io/CH19KYJ.png",
+          "endTime": "2026/05/23 21:15:00 +0000",
+          "eventBanner": "https://iili.io/CHgBX3J.png",
           "eventName": "Formula 1 - Canada GP",
           "eventType": "null",
-          "isHot": "1",
-          "startTime": "2026/05/23 15:55:00 +0000",
+          "isHot": "0",
+          "startTime": "2026/05/23 19:55:00 +0000",
           "teamA": "Formula 1",
           "teamAFlag": "https://scdnmain.net/assets/tournament/40-c.png",
           "teamB": "Formula 1",
@@ -2041,8 +2041,9 @@
         "channels_data": [
           {
             "api": "",
-            "link": "https://fallback-video.ivan-flux.workers.dev/video/index.m3u8",
-            "title": "SPORTIFy Live",
+            "link": "https://chatgpt.hereisman.net/playlist/51015/load-playlist?|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "title": "SPORTIFy MLB",
             "type": "0"
           }
         ],
@@ -2060,7 +2061,7 @@
         "formatsNew": [
           {
             "logo": "",
-            "title": "SportzX Live"
+            "title": "SportzX MLB"
           }
         ],
         "id": "420",
