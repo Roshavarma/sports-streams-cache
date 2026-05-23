@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-23T17:00:46.502702",
+  "last_updated": "2026-05-23T17:10:22.395034",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "10:25:18 PM 23-05-2026",
+    "Last update time": "10:35:19 PM 23-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -1369,6 +1369,13 @@
           },
           {
             "api": "",
+            "link": "https://streamxyz.shop/boxing/tracks-v1a1/mono.ts.m3u8",
+            "logo": "",
+            "title": "SPY HD LIVE",
+            "type": "0"
+          },
+          {
+            "api": "",
             "link": "https://601.teicontools.com.br/ppv.m3u8",
             "logo": "",
             "title": "SPORTIFy Live",
@@ -1380,7 +1387,7 @@
           "eventBanner": "https://iili.io/CH13BsV.png",
           "eventName": "Boxing WBA: Usyk vs Rico",
           "eventType": "null",
-          "isHot": "0",
+          "isHot": "1",
           "startTime": "2026/05/23 17:00:00 +0000",
           "teamA": "O. Usyk",
           "teamAFlag": "https://img.sofascore.com/api/v1/team/1042779/image",
@@ -1395,6 +1402,10 @@
           {
             "logo": "",
             "title": "DAZN SPORTS HD"
+          },
+          {
+            "logo": "",
+            "title": "SPX HD LIVE"
           },
           {
             "logo": "",
@@ -2075,7 +2086,15 @@
         "channels_data": [
           {
             "api": "",
+            "link": "https://hugomer.s3.us-east-1.amazonaws.com/yankees.m3u8",
+            "logo": "",
+            "title": "MLB LIVE AQ",
+            "type": "0"
+          },
+          {
+            "api": "",
             "link": "https://mainstreams.pro/hls/dazhfiach15.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+            "logo": "",
             "title": "SPORTIFy Live",
             "type": "0"
           }
@@ -2092,6 +2111,10 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/3653/image"
         },
         "formatsNew": [
+          {
+            "logo": "",
+            "title": "MLB LIVE AQ"
+          },
           {
             "logo": "",
             "title": "SportzX Live"
