@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-23T16:00:48.506808",
+  "last_updated": "2026-05-23T16:10:21.486963",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "09:25:19 PM 23-05-2026",
+    "Last update time": "09:35:19 PM 23-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -22,6 +22,13 @@
             "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/jkcljgqbx8/out/v1/63bfa701559340f3a2a2cb1fccd24807/cenc.mpd",
             "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
             "title": "TSN SPORTS FHD",
+            "type": "1"
+          },
+          {
+            "api": "6007d8270bd34c4bb79ea2771af035f4:8fbea18dbc3e44138c5262e1dd578754",
+            "link": "https://adjara-live-eu.akamaized.net/hdntl=exp=1779630444~acl=%2F*~id=75e99b22-9e1a-445e-8f68-3653387dfdb1~data=hdntl,aXA9MjAuMjMxLjEwMS4zNiZleHA9MTc3OTU0NDA3NCZlaWQ9OTYxNjEzJm9pZD0xMDgmdHlwZT1WT0QmdWlkPTNZTlVqeHw4NmE4YTYxYi04YTkxLTRhMDAtOGQ0OS04MmFlNWM2YWVmYmUmY2lkPWRjZS5zcHVycyZwdD1udWxs~hmac=8049e4dab19fd3be83631bd94a8d1b97c5ae17d3b8f7b25ab49bf5ae2cbd2a6e/dash/live/2001593/303507-321913/manifest-d.mpd",
+            "logo": "",
+            "title": "SETANTA SPORTS",
             "type": "1"
           },
           {
@@ -44,6 +51,13 @@
             "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
             "title": "TSN SPORTS HD",
             "type": "1"
+          },
+          {
+            "api": "",
+            "link": "https://livecdn-bp-iptv.rumsport7.live/live_abr/239_abrhd.m3u8?is_vip=false&token=127920290db96c37289e17b2d795182b6190b2c0&x-sign=b97a3e382ccaf26fce916c1841cfbd26&x-time=1779551940",
+            "logo": "",
+            "title": "SPORTIFy Live",
+            "type": "0"
           },
           {
             "api": "",
@@ -103,6 +117,10 @@
             "title": "TSN SPORTS FHD"
           },
           {
+            "logo": "",
+            "title": "SETANTA SPORTS"
+          },
+          {
             "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png",
             "title": "FANCODE FHD"
           },
@@ -113,6 +131,10 @@
           {
             "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
             "title": "TSN SPORTS HD"
+          },
+          {
+            "logo": "",
+            "title": "SportzX Live"
           },
           {
             "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
@@ -880,74 +902,6 @@
         "title": "IPL - 01"
       },
       {
-        "adsLimit": "9",
-        "cat": "ATP",
-        "channels_data": [
-          {
-            "api": "192b1115da041585c77200128549efa1:634e10efe4abbb14be400a3ccbac0258",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/pnu10tp36z/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd",
-            "title": "TNT Sports 4",
-            "type": "1"
-          },
-          {
-            "api": "",
-            "link": "https://cdn16348712.blazingcdn.net/dx14fhd/index.m3u8|Referer=https://yahoo.com/&Origin=https://yahoo.com&User-Agent=AppleCoreMedia/1.0.0.23D5103d (iPhone; U; CPU OS 26_3 like Mac OS X; en_us)",
-            "title": "WILLOW (Ad Free)",
-            "type": "0"
-          },
-          {
-            "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
-            "title": "WILLOW FHD",
-            "type": "1"
-          },
-          {
-            "api": "",
-            "link": "https://crichdplayer.com/willow-cricket-live-stream-2026",
-            "title": "WILLOW SD",
-            "type": "2"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/23 16:00:00 +0000",
-          "eventBanner": "https://iili.io/CH5SYUQ.png",
-          "eventName": "ATP 250 Geneva, FINAL",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/23 13:00:00 +0000",
-          "teamA": "ATP 250",
-          "teamAFlag": "https://www.atptour.com/assets/atpwt/images/tournament/badges/categorystamps_1000.png",
-          "teamB": "ATP 250",
-          "teamBFlag": "https://www.atptour.com/assets/atpwt/images/tournament/badges/categorystamps_1000.png"
-        },
-        "formatsNew": [
-          {
-            "logo": "",
-            "title": "SETANTA SPORTS"
-          },
-          {
-            "logo": "",
-            "title": "beIN ENGLISH FHD"
-          },
-          {
-            "logo": "",
-            "title": "STAN SPORTS"
-          },
-          {
-            "logo": "",
-            "title": "ATP 500 Hamburg"
-          },
-          {
-            "logo": "",
-            "title": "ATP 500 SETANTA"
-          }
-        ],
-        "id": "372",
-        "image": "o",
-        "publish": "1",
-        "title": "ATP 250 Geneva"
-      },
-      {
         "adsLimit": "0",
         "cat": "NBA",
         "channels_data": [
@@ -1462,6 +1416,13 @@
             "logo": "",
             "title": "ESPN SPORTS FHD",
             "type": "1"
+          },
+          {
+            "api": "",
+            "link": "https://livecdn-tc-livestream.rumsport10.live/stream/24/chunks.m3u8?is_vip=false&token=1779638218-Kv4cPTAAP5YTi-127920290db96c37289e17b2d795182b6190b2c0-af71c2d167b737abfae17d958e3f3110",
+            "logo": "",
+            "title": "CBS SPORTS HD",
+            "type": "0"
           }
         ],
         "eventInfo": {
@@ -1479,6 +1440,10 @@
           {
             "logo": "",
             "title": "ESPN SPORTS FHD"
+          },
+          {
+            "logo": "",
+            "title": "CBS SPORTS HD"
           }
         ],
         "id": "402",
@@ -1855,10 +1820,24 @@
             "type": "1"
           },
           {
+            "api": "40c65735c79240ca9fbf30e37f5a3d27:aa0a85822051467d8f1d6725d0281ee7",
+            "link": "https://adjara-live-eu.akamaized.net/hdntl=exp=1779630451~acl=%2F*~id=8980c9d6-ed65-4bdb-bbd2-78a7f7021bdb~data=hdntl,aXA9MjAuMjMxLjEwMS4zNiZleHA9MTc3OTU0NDA4MSZlaWQ9OTYxNTM5Jm9pZD0xMDgmdHlwZT1WT0QmdWlkPTNZTlVqeHw4NmE4YTYxYi04YTkxLTRhMDAtOGQ0OS04MmFlNWM2YWVmYmUmY2lkPWRjZS5zcHVycyZwdD1udWxs~hmac=2bc3a2381fba47a3b8639e381c3fa3aa19323040aa2fff1e739e9ff0d3a2af70/dash/live/2019652/303365-321918/manifest-d.mpd",
+            "logo": "",
+            "title": "SETANTA SPORTS",
+            "type": "1"
+          },
+          {
             "api": "",
             "link": "https://chatgpt.hereisman.net/playlist/51011/load-playlist?|Referer=https://gooz.aapmains.net",
             "logo": "",
             "title": "PARAMOUNT+ HD",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://livecdn-tc-livestream.rumsport10.live/stream/1/chunks.m3u8?is_vip=false&token=1779638276-Kv4cPTAAP5YTi-127920290db96c37289e17b2d795182b6190b2c0-94c66ccd29fdbb91ece5c9e526570bec",
+            "logo": "",
+            "title": "CBS SPORTS FHD",
             "type": "0"
           }
         ],
@@ -1884,7 +1863,15 @@
           },
           {
             "logo": "",
+            "title": "SETANTA SPORTS"
+          },
+          {
+            "logo": "",
             "title": "PARAMOUNT+ HD"
+          },
+          {
+            "logo": "",
+            "title": "CBS SPORTS FHD"
           }
         ],
         "id": "413",
