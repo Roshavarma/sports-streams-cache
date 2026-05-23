@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-23T17:11:41.376314",
+  "last_updated": "2026-05-23T17:20:21.725167",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "10:35:19 PM 23-05-2026",
+    "Last update time": "10:45:25 PM 23-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -1369,6 +1369,13 @@
           },
           {
             "api": "",
+            "link": "https://bo6.bofiles.cfd/live/usyk/stream.m3u8",
+            "logo": "",
+            "title": "SPORTIFy Boxing",
+            "type": "0"
+          },
+          {
+            "api": "",
             "link": "https://streamxyz.shop/boxing/tracks-v1a1/mono.ts.m3u8",
             "logo": "",
             "title": "SPY HD LIVE",
@@ -1379,6 +1386,13 @@
             "link": "https://601.teicontools.com.br/ppv.m3u8",
             "logo": "",
             "title": "SPORTIFy Live",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://26hrwgorfcmh.windows-devs.top/AccessLog2/108084_HD/apache.m3u8|Referer=https://26hrwgorfcmh.windows-devs.top/",
+            "logo": "",
+            "title": "SD SERVER",
             "type": "0"
           }
         ],
@@ -1405,11 +1419,19 @@
           },
           {
             "logo": "",
+            "title": "SportzX Boxing"
+          },
+          {
+            "logo": "",
             "title": "SPX HD LIVE"
           },
           {
             "logo": "",
             "title": "SportzX Live"
+          },
+          {
+            "logo": "",
+            "title": "SD SERVER"
           }
         ],
         "id": "401",
@@ -1434,6 +1456,13 @@
             "logo": "",
             "title": "CBS SPORTS HD",
             "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://play.ltwxsc.com/live/sd-6MwdLeNkasrpbL4rAr.m3u8?txSecret=46ed59408b70486eac11ff4b3203e5b4&txTime=6A120A13",
+            "logo": "",
+            "title": "SPORTIFy Live",
+            "type": "0"
           }
         ],
         "eventInfo": {
@@ -1455,6 +1484,10 @@
           {
             "logo": "",
             "title": "CBS SPORTS HD"
+          },
+          {
+            "logo": "",
+            "title": "SportzX Live"
           }
         ],
         "id": "402",
@@ -1955,96 +1988,6 @@
         "image": "o",
         "publish": "1",
         "title": "Bayern vs Stuttgart"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-        "channels_data": [
-          {
-            "api": "243ba606b42842e48f824ba1523f99d3:23c469d7d45c4da3b98d50a3fa0013f7",
-            "link": "https://adjara-live-eu.akamaized.net/hdntl=exp=1779630451~acl=%2F*~id=8980c9d6-ed65-4bdb-bbd2-78a7f7021bdb~data=hdntl,aXA9MjAuMjMxLjEwMS4zNiZleHA9MTc3OTU0NDA4MSZlaWQ9OTYxNTM5Jm9pZD0xMDgmdHlwZT1WT0QmdWlkPTNZTlVqeHw4NmE4YTYxYi04YTkxLTRhMDAtOGQ0OS04MmFlNWM2YWVmYmUmY2lkPWRjZS5zcHVycyZwdD1udWxs~hmac=2bc3a2381fba47a3b8639e381c3fa3aa19323040aa2fff1e739e9ff0d3a2af70/dash/live/2005792/303308-321903/manifest-d.mpd",
-            "logo": "",
-            "title": "SETANTA SPORTS",
-            "type": "1"
-          },
-          {
-            "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
-            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
-            "logo": "",
-            "title": "beIN ENGLISH FHD",
-            "type": "1"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/23 16:30:00 +0000",
-          "eventName": "Hull City vs Middlesbrough",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/23 14:30:00 +0000",
-          "teamA": "Hull",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/96/image",
-          "teamB": "Middlesbrough",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/36/image"
-        },
-        "formatsNew": [
-          {
-            "logo": "",
-            "title": "SETANTA SPORTS"
-          },
-          {
-            "logo": "",
-            "title": "beIN ENGLISH FHD"
-          }
-        ],
-        "id": "416",
-        "image": "o",
-        "publish": "1",
-        "title": "Hull City vs Middlesbrough"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "Scottish Premiership",
-        "channels_data": [
-          {
-            "api": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
-            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
-            "logo": "",
-            "title": "PREMIER SPORTS",
-            "type": "1"
-          },
-          {
-            "api": "b94f0f437f864eb5831c3629cd4501e0:d0a07e006b734aa49438433e2667b5fa",
-            "link": "https://adjara-live-eu.akamaized.net/hdntl=exp=1779630444~acl=%2F*~id=75e99b22-9e1a-445e-8f68-3653387dfdb1~data=hdntl,aXA9MjAuMjMxLjEwMS4zNiZleHA9MTc3OTU0NDA3NCZlaWQ9OTYxNjEzJm9pZD0xMDgmdHlwZT1WT0QmdWlkPTNZTlVqeHw4NmE4YTYxYi04YTkxLTRhMDAtOGQ0OS04MmFlNWM2YWVmYmUmY2lkPWRjZS5zcHVycyZwdD1udWxs~hmac=8049e4dab19fd3be83631bd94a8d1b97c5ae17d3b8f7b25ab49bf5ae2cbd2a6e/dash/live/2005782/303294-321902/manifest-d.mpd",
-            "logo": "",
-            "title": "SETANTA SPORTS",
-            "type": "1"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/23 16:00:00 +0000",
-          "eventName": "Celtic vs Dunfermline Athletic",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/23 14:00:00 +0000",
-          "teamA": "Celtic",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2352/image",
-          "teamB": "Dunfermline",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2350/image"
-        },
-        "formatsNew": [
-          {
-            "logo": "",
-            "title": "PREMIER SPORTS"
-          },
-          {
-            "logo": "",
-            "title": "SETANTA SPORTS"
-          }
-        ],
-        "id": "417",
-        "image": "o",
-        "publish": "1",
-        "title": "Celtic vs Dunfermline"
       },
       {
         "adsLimit": "0",
