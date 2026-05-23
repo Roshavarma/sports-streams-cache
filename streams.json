@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-23T03:00:46.115878",
+  "last_updated": "2026-05-23T03:10:21.737862",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "08:25:18 AM 23-05-2026",
+    "Last update time": "08:35:17 AM 23-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -1134,39 +1134,6 @@
         "channels_data": [
           {
             "api": "",
-            "link": "https://edge2caster.pro/hls/kjhfzua25.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-            "title": "SPORTIFy Live",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/23 02:40:00 +0000",
-          "eventName": "Milwaukee Brewers vs Los Angeles Dodgers",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/22 23:40:00 +0000",
-          "teamA": "Brewers",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3630/image",
-          "teamB": "Dodgers",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3638/image"
-        },
-        "formatsNew": [
-          {
-            "logo": "",
-            "title": "SportzX Live"
-          }
-        ],
-        "id": "394",
-        "image": "o",
-        "publish": "1",
-        "title": "Milwaukee Brewers"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "MLB",
-        "channels_data": [
-          {
-            "api": "",
             "link": "https://chatgpt.hereisman.net/playlist/50997/load-playlist?|Referer=https://gooz.aapmains.net",
             "logo": "",
             "title": "SPORTIFy MLB",
@@ -1388,246 +1355,36 @@
       },
       {
         "adsLimit": "0",
-        "cat": "Coupe de France 🇫🇷",
+        "cat": "Boxing",
         "channels_data": [
           {
-            "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
-            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
-            "logo": "",
-            "title": "beIN ENGLISH FHD",
-            "type": "1"
-          },
-          {
             "api": "",
-            "link": "https://chatgpt.hereisman.net/playlist/50957/load-playlist?|Referer=https://gooz.aapmains.net",
-            "logo": "",
-            "title": "FOC SOCCER+",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://live.vivo200.com/live/sd-1-4534498.m3u8?txSecret=3ccbb3a393111383d3da7bb26178b11b&txTime=6A10AA9F|referer=https://player.online909.com/",
-            "logo": "",
+            "link": "https://fallback-video.ivan-flux.workers.dev/video/index.m3u8",
             "title": "SPORTIFy Live",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://instreams.pro/EU/HDTV22/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
-            "logo": "",
-            "title": "beIN SPORTS HD",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://instreams.pro/bil1/france2/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
-            "logo": "",
-            "title": "FRANCE TV SD",
             "type": "0"
           }
         ],
         "eventInfo": {
-          "endTime": "2026/05/22 21:00:00 +0000",
-          "eventName": "RC Lens vs Nice",
+          "endTime": "2026/05/23 20:30:00 +0000",
+          "eventName": "Boxing WBA: Usyk vs Rico",
           "eventType": "null",
           "isHot": "0",
-          "startTime": "2026/05/22 19:00:00 +0000",
-          "teamA": "Lens",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/1648/image",
-          "teamB": "Nice",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/1661/image"
+          "startTime": "2026/05/23 17:00:00 +0000",
+          "teamA": "O. Usyk",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/1042779/image",
+          "teamB": "R. Verhoeven",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/1228387/image"
         },
         "formatsNew": [
           {
             "logo": "",
-            "title": "beIN ENGLISH FHD"
-          },
-          {
-            "logo": "",
-            "title": "FOC SOCCER+"
-          },
-          {
-            "logo": "",
             "title": "SportzX Live"
-          },
-          {
-            "logo": "",
-            "title": "beIN SPORTS HD"
-          },
-          {
-            "logo": "",
-            "title": "FRANCE TV SD"
           }
         ],
         "id": "401",
         "image": "o",
         "publish": "1",
-        "title": "Lens vs Nice"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "MLB",
-        "channels_data": [
-          {
-            "api": "",
-            "link": "https://edge2caster.pro/hls/ojzkajnach21.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-            "title": "SPORTIFy Live",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/23 02:10:00 +0000",
-          "eventName": "Red Sox vs Minnesota Twins",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/22 23:10:00 +0000",
-          "teamA": "Red Sox",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3646/image",
-          "teamB": "Twins",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3649/image"
-        },
-        "formatsNew": [
-          {
-            "logo": "",
-            "title": "SportzX Live"
-          }
-        ],
-        "id": "414",
-        "image": "o",
-        "publish": "1",
-        "title": "Red Sox vs Minnesota Twins"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "MLB",
-        "channels_data": [
-          {
-            "api": "",
-            "link": "https://edgestreams.pro/hls/ijfnakfidch22.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-            "title": "SPORTIFy Live",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/23 02:10:00 +0000",
-          "eventName": "Miami Marlins vs New York Mets",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/22 23:10:00 +0000",
-          "teamA": "Marlins",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3639/image",
-          "teamB": "Mets",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3629/image"
-        },
-        "formatsNew": [
-          {
-            "logo": "",
-            "title": "SportzX Live"
-          }
-        ],
-        "id": "415",
-        "image": "o",
-        "publish": "1",
-        "title": "Miami Marlins vs New York Mets"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "MLB",
-        "channels_data": [
-          {
-            "api": "",
-            "link": "https://edgestreams.pro/hls/fskjanach24.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-            "title": "SPORTIFy Live",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/23 02:15:00 +0000",
-          "eventName": "Atlanta Braves vs Nationals",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/22 23:15:00 +0000",
-          "teamA": "Braves",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3656/image",
-          "teamB": "Nationals",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/5930/image"
-        },
-        "formatsNew": [
-          {
-            "logo": "",
-            "title": "SportzX Live"
-          }
-        ],
-        "id": "416",
-        "image": "o",
-        "publish": "1",
-        "title": "Atlanta Braves vs Nationals"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "MLB",
-        "channels_data": [
-          {
-            "api": "",
-            "link": "https://edge2caster.pro/hls/jnzkdzjfanch23.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-            "title": "SPORTIFy Live",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/23 02:15:00 +0000",
-          "eventName": "Baltimore Orioles vs Detroit Tigers",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/22 23:15:00 +0000",
-          "teamA": "Orioles",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3652/image",
-          "teamB": "Tigers",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3648/image"
-        },
-        "formatsNew": [
-          {
-            "logo": "",
-            "title": "SportzX Live"
-          }
-        ],
-        "id": "417",
-        "image": "o",
-        "publish": "1",
-        "title": "Baltimore Orioles vs Detroit Tigers"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "MLB",
-        "channels_data": [
-          {
-            "api": "",
-            "link": "https://edge2caster.pro/hls/dzjhkfazbka26.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-            "title": "SPORTIFy Live",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/23 02:40:00 +0000",
-          "eventName": "Royals vs Seattle Mariners",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/22 23:40:00 +0000",
-          "teamA": "Royals",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3651/image",
-          "teamB": "Mariners",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3641/image"
-        },
-        "formatsNew": [
-          {
-            "logo": "",
-            "title": "SportzX Live"
-          }
-        ],
-        "id": "418",
-        "image": "o",
-        "publish": "1",
-        "title": "Royals vs Seattle Mariners"
+        "title": "Usyk and Rico"
       }
     ]
   }
