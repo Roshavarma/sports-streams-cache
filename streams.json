@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-23T09:40:38.437081",
+  "last_updated": "2026-05-23T09:50:22.444186",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "03:10:24 PM 23-05-2026",
+    "Last update time": "03:15:24 PM 23-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -1538,39 +1538,6 @@
         "image": "o",
         "publish": "1",
         "title": "Celtic vs Dunfermline"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "NRL Rugby",
-        "channels_data": [
-          {
-            "api": "2e2636daa74141b68cc14882ea3ff82b:0961f48287324adbb4b7ff3c9d82b3c9",
-            "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1779566116~acl=%2F*~id=1f26dfa9-cc78-4598-ac11-c03c5b9ab880~data=hdntl,aXA9MTcyLjIxNS4yMzEuMTE0JmV4cD0xNzc5NDc5NzQ1JmVpZD05NjE2MDQmb2lkPTEwOCZ0eXBlPVZPRCZ1aWQ9TmNKcjRkfDZlMjc2YTBmLWJkMmUtNDZhMC1iMTJiLTdhMWJlYmEyMzI2YyZjaWQ9ZGNlLnNwdXJzJnB0PW51bGw~hmac=5dadc1cbbbf42f4bc2791431fbd5b3f20400aa204a111b1220e8155c4ae0bf93/dash/live/2093717/219028-321030/manifest-d.mpd",
-            "title": "SKY SPORTS FHD",
-            "type": "1"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/23 09:45:00 +0000",
-          "eventName": "Illawarra Dragons vs New Zealand",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/23 07:30:00 +0000",
-          "teamA": "St. George Illawarra",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/4265/image",
-          "teamB": "New Zealand",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/4267/image"
-        },
-        "formatsNew": [
-          {
-            "logo": "",
-            "title": "SKY SPORTS FHD"
-          }
-        ],
-        "id": "418",
-        "image": "o",
-        "publish": "1",
-        "title": "Illawarra Dragons vs New Zealand"
       },
       {
         "adsLimit": "0",
