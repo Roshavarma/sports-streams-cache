@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-23T04:10:21.389135",
+  "last_updated": "2026-05-23T04:20:21.398035",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "09:35:23 AM 23-05-2026",
+    "Last update time": "09:45:29 AM 23-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -921,51 +921,6 @@
         "channels_data": [
           {
             "api": "",
-            "link": "https://chatgpt.hereisman.net/playlist/50765/load-playlist?|Referer=https://gooz.aapmains.net",
-            "logo": "",
-            "title": "SPORTIFy WNBA",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://mainstreams.pro/hls/bvnsqdfvgha70.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
-            "logo": "",
-            "title": "SPORTIFy Live",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/23 02:10:00 +0000",
-          "eventName": "Indiana Fever vs Valkyries",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/22 23:30:00 +0000",
-          "teamA": "Fever",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3452/image",
-          "teamB": "Valkyries",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/1041936/image"
-        },
-        "formatsNew": [
-          {
-            "logo": "",
-            "title": "SportzX WNBA"
-          },
-          {
-            "logo": "",
-            "title": "SportzX Live"
-          }
-        ],
-        "id": "377",
-        "image": "o",
-        "publish": "1",
-        "title": "Indiana Fever vs Valkyries"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "WNBA",
-        "channels_data": [
-          {
-            "api": "",
             "link": "https://chatgpt.hereisman.net/playlist/51000/load-playlist?|Referer=https://gooz.aapmains.net",
             "logo": "",
             "title": "SPORTIFy WNBA",
@@ -1187,39 +1142,27 @@
       },
       {
         "adsLimit": "0",
-        "cat": "FIFA Friendlies",
+        "cat": "Cricket",
         "channels_data": [
-          {
-            "api": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
-            "logo": "",
-            "title": "FOX DEPORTES",
-            "type": "1"
-          },
           {
             "api": "",
             "link": "https://play.ltwxsc.com/live/sd-6MwcqKMKLdsFHcJLw8.m3u8?txSecret=bae230e242ab949d9129722d614869e7&txTime=6A113543",
-            "logo": "",
             "title": "SPORTIFy Live",
             "type": "0"
           }
         ],
         "eventInfo": {
-          "endTime": "2026/05/23 04:00:00 +0000",
-          "eventName": "Mexico vs Ghana",
+          "endTime": "2026/05/23 17:15:00 +0000",
+          "eventName": "England W vs New Zealand W",
           "eventType": "null",
           "isHot": "0",
-          "startTime": "2026/05/23 02:00:00 +0000",
-          "teamA": "Mexico",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/4781/image",
-          "teamB": "Ghana",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/4764/image"
+          "startTime": "2026/05/23 13:30:00 +0000",
+          "teamA": "ENG-W",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/213121/image",
+          "teamB": "NZ-W",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/213115/image"
         },
         "formatsNew": [
-          {
-            "logo": "",
-            "title": "FOX DEPORTES"
-          },
           {
             "logo": "",
             "title": "SportzX Live"
@@ -1228,7 +1171,7 @@
         "id": "400",
         "image": "o",
         "publish": "1",
-        "title": "Mexico vs Ghana"
+        "title": "England W vs New Zealand W"
       },
       {
         "adsLimit": "0",
