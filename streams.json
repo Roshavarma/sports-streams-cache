@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-23T11:00:50.371886",
+  "last_updated": "2026-05-23T11:10:20.833406",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "04:25:20 PM 23-05-2026",
+    "Last update time": "04:35:19 PM 23-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -920,10 +920,18 @@
         "cat": "Cricket",
         "channels_data": [
           {
-            "api": "",
-            "link": "https://play.ltwxsc.com/live/sd-6MwcqKMKLdsFHcJLw8.m3u8?txSecret=bae230e242ab949d9129722d614869e7&txTime=6A113543",
-            "title": "SPORTIFy Live",
-            "type": "0"
+            "api": "aefc2c8d1c8840f1b6981f856c9269ba:cf8ea114c45b4d6596b2748258ab74d6",
+            "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1779611161~acl=%2F*~id=76d3cf88-ffc3-413a-98ea-5139b26ca05c~data=hdntl,aXA9MTcyLjE4Mi4yMjUuMTYyJmV4cD0xNzc5NTI0NzkxJmVpZD05NjE1Mzkmb2lkPTEwOCZ0eXBlPVZPRCZ1aWQ9aVVFd1VXfGVlZjY4NGJmLTBlNWItNDk3MC05NWNjLTRjNWNkODM2OTJiZiZjaWQ9ZGNlLnNwdXJzJnB0PW51bGw~hmac=c0e0e486d7d98eb5f95652cefb3be57d76b1152beaa8d82adf990f73d6a25cc5/dash/live/2093710/219026-321025/manifest-d.mpd",
+            "logo": "",
+            "title": "SKY SPORTS FHD",
+            "type": "1"
+          },
+          {
+            "api": "4d346b1d1ae64d4a800409cffa14983e:208c972bd2da4359ac94e6944fe378b6",
+            "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1779611158~acl=%2F*~id=d6e2c6de-d50e-481c-9959-1045ec8a65c9~data=hdntl,aXA9MTcyLjE4Mi4yMjUuMTYyJmV4cD0xNzc5NTI0Nzg4JmVpZD05NjE2MDQmb2lkPTEwOCZ0eXBlPVZPRCZ1aWQ9aVVFd1VXfGVlZjY4NGJmLTBlNWItNDk3MC05NWNjLTRjNWNkODM2OTJiZiZjaWQ9ZGNlLnNwdXJzJnB0PW51bGw~hmac=148ac436dad441f38b56370db62b140f7ebf929cec0617c2f38f10a6798fecd7/dash/live/2093666/294921-318514/manifest-d.mpd",
+            "logo": "",
+            "title": "SKY SPORTS 4k",
+            "type": "1"
           }
         ],
         "eventInfo": {
@@ -940,7 +948,11 @@
         "formatsNew": [
           {
             "logo": "",
-            "title": "SportzX Live"
+            "title": "SKY SPORTS FHD"
+          },
+          {
+            "logo": "",
+            "title": "SKY SPORTS 4k"
           }
         ],
         "id": "400",
