@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-24T14:40:23.147726",
+  "last_updated": "2026-05-24T14:50:24.902437",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "08:05:20 PM 24-05-2026",
+    "Last update time": "08:15:25 PM 24-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -1152,6 +1152,48 @@
         "cat": "EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
         "channels_data": [
           {
+            "api": "7a2758575dc04d63acc3573ab594d441:47071dd80de746a38cdc6a4dcde21abc",
+            "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1779716803~acl=%2f*~id=e3c0718d-26eb-451b-b368-a9fbedc1b4e4~data=hdntl,aXA9MjAuOTcuMTk4LjI0MCZleHA9MTc3OTYzMDQzMyZlaWQ9OTYxOTI1Jm9pZD0xMDgmdHlwZT1WT0QmdWlkPXNleWRIdHwzM2RmMTQ4NS1jZmNlLTRlZGUtODA0Ny0zMjExOGNjYjhkNjgmY2lkPWRjZS5zcHVycyZwdD1udWxs~hmac=800bc367bc4fbebb5232949fb01a993338ba9807309cf0e71c39a0c15060d608/dash/live/2093712/219035-321027/manifest-d.mpd",
+            "logo": "",
+            "title": "SKY SPORTS FHD",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/24 16:10:00 +0000",
+          "eventBanner": "https://iili.io/CJqUpKQ.png",
+          "eventName": "EPL Goal Rush",
+          "eventType": "null",
+          "isHot": "1",
+          "startTime": "2026/05/24 14:55:00 +0000",
+          "teamA": "Goals Rush",
+          "teamAFlag": "https://images.fotmob.com/image_resources/logo/leaguelogo/47.png",
+          "teamB": "Goals Rush",
+          "teamBFlag": "https://images.fotmob.com/image_resources/logo/leaguelogo/47.png"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "SKY SPORTS FHD"
+          }
+        ],
+        "id": "401",
+        "image": "o",
+        "publish": "1",
+        "title": "EPL Goal Rush"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+        "channels_data": [
+          {
+            "api": "c7f2a5c5e56147f7b4e5676ca69e22d9:d587532343ef47e4824950c7a9c9ec9f",
+            "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1779716805~acl=%2f*~id=cd2e1d0b-3186-41d0-9ed6-d7a16394b589~data=hdntl,aXA9MjAuOTcuMTk4LjI0MCZleHA9MTc3OTYzMDQzNSZlaWQ9OTYxNjEzJm9pZD0xMDgmdHlwZT1WT0QmdWlkPXNleWRIdHwzM2RmMTQ4NS1jZmNlLTRlZGUtODA0Ny0zMjExOGNjYjhkNjgmY2lkPWRjZS5zcHVycyZwdD1udWxs~hmac=b9417a424a24c7db299b8ae46a2917d3e289d500f517791b700e67d748f6e7a8/dash/live/2093734/285254-321769/manifest-d.mpd",
+            "logo": "",
+            "title": "SKY SPORTS FHD",
+            "type": "1"
+          },
+          {
             "api": "",
             "link": "https://instreams.pro/US/NFLHD3/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
             "logo": "",
@@ -1171,6 +1213,10 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/35/image"
         },
         "formatsNew": [
+          {
+            "logo": "",
+            "title": "SKY SPORTS FHD"
+          },
           {
             "logo": "",
             "title": "HD SERVER"
@@ -1220,6 +1266,13 @@
         "cat": "EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
         "channels_data": [
           {
+            "api": "7a2758575dc04d63acc3573ab594d441:47071dd80de746a38cdc6a4dcde21abc",
+            "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1779716803~acl=%2f*~id=e3c0718d-26eb-451b-b368-a9fbedc1b4e4~data=hdntl,aXA9MjAuOTcuMTk4LjI0MCZleHA9MTc3OTYzMDQzMyZlaWQ9OTYxOTI1Jm9pZD0xMDgmdHlwZT1WT0QmdWlkPXNleWRIdHwzM2RmMTQ4NS1jZmNlLTRlZGUtODA0Ny0zMjExOGNjYjhkNjgmY2lkPWRjZS5zcHVycyZwdD1udWxs~hmac=800bc367bc4fbebb5232949fb01a993338ba9807309cf0e71c39a0c15060d608/dash/live/2093712/219035-321027/manifest-d.mpd",
+            "logo": "",
+            "title": "SKY SPORTS FHD",
+            "type": "1"
+          },
+          {
             "api": "",
             "link": "https://instreams.pro/US/NFLHD10/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
             "logo": "",
@@ -1239,6 +1292,10 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/48/image"
         },
         "formatsNew": [
+          {
+            "logo": "",
+            "title": "SKY SPORTS FHD"
+          },
           {
             "logo": "",
             "title": "HD SERVER"
