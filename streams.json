@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-24T06:20:20.063045",
+  "last_updated": "2026-05-24T06:30:31.709406",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "11:45:23 AM 24-05-2026",
+    "Last update time": "11:55:20 AM 24-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -1043,6 +1043,336 @@
         "image": "o",
         "publish": "1",
         "title": "Flamengo vs Palmeiras"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://fallback-video.ivan-flux.workers.dev/video/index.m3u8",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/24 17:00:00 +0000",
+          "eventName": "Brighton vs Manchester United",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/24 15:00:00 +0000",
+          "teamA": "Brighton",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/30/image",
+          "teamB": "Man Utd",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/35/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "SportzX Live"
+          }
+        ],
+        "id": "439",
+        "image": "o",
+        "publish": "1",
+        "title": "Brighton vs Manchester United"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://fallback-video.ivan-flux.workers.dev/video/index.m3u8",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/24 17:00:00 +0000",
+          "eventName": "Manchester City vs Aston Villa",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/24 15:00:00 +0000",
+          "teamA": "Man City",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/17/image",
+          "teamB": "Aston Villa",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/40/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "SportzX Live"
+          }
+        ],
+        "id": "440",
+        "image": "o",
+        "publish": "1",
+        "title": "Manchester City vs Aston Villa"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://fallback-video.ivan-flux.workers.dev/video/index.m3u8",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/24 17:00:00 +0000",
+          "eventName": "Tottenham vs Everton",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/24 15:00:00 +0000",
+          "teamA": "Tottenham",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/33/image",
+          "teamB": "Everton",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/48/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "SportzX Live"
+          }
+        ],
+        "id": "441",
+        "image": "o",
+        "publish": "1",
+        "title": "Tottenham vs Everton"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://fallback-video.ivan-flux.workers.dev/video/index.m3u8",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/24 17:00:00 +0000",
+          "eventName": "West Ham vs Leeds United",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/24 15:00:00 +0000",
+          "teamA": "West Ham",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/37/image",
+          "teamB": "Leeds",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/34/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "SportzX Live"
+          }
+        ],
+        "id": "442",
+        "image": "o",
+        "publish": "1",
+        "title": "West Ham vs Leeds"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://fallback-video.ivan-flux.workers.dev/video/index.m3u8",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/24 17:00:00 +0000",
+          "eventName": "Liverpool vs Brentford",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/24 15:00:00 +0000",
+          "teamA": "Liverpool",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/44/image",
+          "teamB": "Brentford",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/50/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "SportzX Live"
+          }
+        ],
+        "id": "443",
+        "image": "o",
+        "publish": "1",
+        "title": "Liverpool vs Brentford"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://fallback-video.ivan-flux.workers.dev/video/index.m3u8",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/24 17:00:00 +0000",
+          "eventName": "Sunderland vs Chelsea",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/24 15:00:00 +0000",
+          "teamA": "Sunderland",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/41/image",
+          "teamB": "Chelsea",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/38/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "SportzX Live"
+          }
+        ],
+        "id": "444",
+        "image": "o",
+        "publish": "1",
+        "title": "Sunderland vs Chelsea"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://fallback-video.ivan-flux.workers.dev/video/index.m3u8",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/24 17:00:00 +0000",
+          "eventName": "Crystal Palace vs Arsenal",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/24 15:00:00 +0000",
+          "teamA": "Crystal Palace",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/7/image",
+          "teamB": "Arsenal",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/42/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "SportzX Live"
+          }
+        ],
+        "id": "445",
+        "image": "o",
+        "publish": "1",
+        "title": "Crystal Palace vs Arsenal"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://fallback-video.ivan-flux.workers.dev/video/index.m3u8",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/24 17:00:00 +0000",
+          "eventName": "Fulham vs Newcastle",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/24 15:00:00 +0000",
+          "teamA": "Fulham",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/43/image",
+          "teamB": "Newcastle",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/39/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "SportzX Live"
+          }
+        ],
+        "id": "446",
+        "image": "o",
+        "publish": "1",
+        "title": "Fulham vs Newcastle"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://fallback-video.ivan-flux.workers.dev/video/index.m3u8",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/24 17:00:00 +0000",
+          "eventName": "Nottingham vs Bournemouth",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/24 15:00:00 +0000",
+          "teamA": "Forest",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/14/image",
+          "teamB": "Bournemouth",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/60/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "SportzX Live"
+          }
+        ],
+        "id": "447",
+        "image": "o",
+        "publish": "1",
+        "title": "Nottingham vs Bournemouth"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://fallback-video.ivan-flux.workers.dev/video/index.m3u8",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/24 17:00:00 +0000",
+          "eventName": "Burnley vs Wolverhampton",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/24 15:00:00 +0000",
+          "teamA": "Burnley",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/6/image",
+          "teamB": "Wolves",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "SportzX Live"
+          }
+        ],
+        "id": "448",
+        "image": "o",
+        "publish": "1",
+        "title": "Burnley vs Wolverhampton"
       }
     ]
   }
