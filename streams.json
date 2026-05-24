@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-24T18:50:20.125548",
+  "last_updated": "2026-05-24T19:00:42.099303",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "12:15:25 AM 25-05-2026",
+    "Last update time": "12:25:20 AM 25-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -1186,24 +1186,28 @@
           {
             "api": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
             "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
+            "logo": "",
             "title": "PREMIER SPORTS",
             "type": "1"
           },
           {
             "api": "a01e1e0d5fb145b8b33190588490a27a:bfd9e3b0866e49cbae1bb7f7116451c9",
-            "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1779650339~acl=%2F*~id=67f01e74-9ebc-40c1-a53b-83235cc9b59a~data=hdntl,aXA9MTcyLjE3OC4xMTkuMTE0JmV4cD0xNzc5NTYzOTY5JmVpZD05NjE1Mzkmb2lkPTEwOCZ0eXBlPVZPRCZ1aWQ9c1VQVk5vfDMwMzk2YmViLTdjN2YtNDZkOC1iZDEwLTIzZjg4NWRjNDFkZSZjaWQ9ZGNlLnNwdXJzJnB0PW51bGw~hmac=67635eced926a91fa46db60891128fc65a440530a70cb8cf74137c5caf579c43/dash/live/2093724/219039-321035/manifest-d.mpd",
+            "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1779716810~acl=%2F*~id=fafefc95-635e-4e0d-ac2d-24d2bf8963f8~data=hdntl,aXA9MjAuOTcuMTk4LjI0MCZleHA9MTc3OTYzMDQ0MCZlaWQ9OTYxNjA0Jm9pZD0xMDgmdHlwZT1WT0QmdWlkPXNleWRIdHwzM2RmMTQ4NS1jZmNlLTRlZGUtODA0Ny0zMjExOGNjYjhkNjgmY2lkPWRjZS5zcHVycyZwdD1udWxs~hmac=183a25a7ecc2a191fbf6ed5293ed1502669a94be9f30bbdccd5ba99d3f809ab7/dash/live/2093724/219039-321035/manifest-d.mpd",
+            "logo": "",
             "title": "ESPN SPORTS HD",
             "type": "1"
           },
           {
             "api": "",
             "link": "https://edge2caster.pro/hls/uyopzarf50.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+            "logo": "",
             "title": "SPORTIFy Live",
             "type": "0"
           },
           {
             "api": "",
             "link": "https://instreams.pro/US/NHL1/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
+            "logo": "",
             "title": "HD SERVER",
             "type": "0"
           }
@@ -1391,7 +1395,7 @@
           "eventBanner": "https://iili.io/CJoNVTu.png",
           "eventName": "Serie A MULTIVIEW",
           "eventType": "null",
-          "isHot": "0",
+          "isHot": "1",
           "startTime": "2026/05/24 18:40:00 +0000",
           "teamA": "MULTIVIEW",
           "teamAFlag": "https://images.fotmob.com/image_resources/logo/leaguelogo/47.png",
@@ -1540,6 +1544,13 @@
             "logo": "",
             "title": "ZIGGO SPORTS",
             "type": "1"
+          },
+          {
+            "api": "",
+            "link": "https://play.ltwxsc.com/live/hd-en-6MuSNj2YXWmUVhCF4i.m3u8?txSecret=7a4c0ee38d44a4482a7b7d43d910335e&txTime=6A137122",
+            "logo": "",
+            "title": "SPORTIFy Live",
+            "type": "0"
           }
         ],
         "eventInfo": {
@@ -1569,6 +1580,10 @@
           {
             "logo": "",
             "title": "ZIGGO SPORTS"
+          },
+          {
+            "logo": "",
+            "title": "SportzX Live"
           }
         ],
         "id": "451",
@@ -1593,6 +1608,13 @@
             "logo": "",
             "title": "TNT SPORTS FHD",
             "type": "1"
+          },
+          {
+            "api": "",
+            "link": "https://play.ltwxsc.com/live/hd-en-6MuSNj2XgyCvb7uHaE.m3u8?txSecret=7299c0a50cf9010285e76c6a38290bd9&txTime=6A13719A",
+            "logo": "",
+            "title": "SPORTIFy Live",
+            "type": "0"
           }
         ],
         "eventInfo": {
@@ -1614,6 +1636,10 @@
           {
             "logo": "",
             "title": "TNT SPORTS FHD"
+          },
+          {
+            "logo": "",
+            "title": "SportzX Live"
           }
         ],
         "id": "452",
@@ -1645,6 +1671,13 @@
             "logo": "",
             "title": "ZIGGO SPORTS",
             "type": "1"
+          },
+          {
+            "api": "",
+            "link": "https://play.ltwxsc.com/live/hd-en-6MuSNj2XWpA9LYVgTx.m3u8?txSecret=dc0b30d24437a782e80fb01529c0114b&txTime=6A13719A",
+            "logo": "",
+            "title": "SPORTIFy Live",
+            "type": "0"
           }
         ],
         "eventInfo": {
@@ -1670,6 +1703,10 @@
           {
             "logo": "",
             "title": "ZIGGO SPORTS"
+          },
+          {
+            "logo": "",
+            "title": "SportzX Live"
           }
         ],
         "id": "453",
@@ -1708,6 +1745,13 @@
             "logo": "",
             "title": "TNT SPORTS HD",
             "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://play.ltwxsc.com/live/hd-en-6MuSNj2XXLvsXG4WcW.m3u8?txSecret=662058f0b6308cc49736af59a0c7fe91&txTime=6A13719A",
+            "logo": "",
+            "title": "SPORTIFy Live",
+            "type": "0"
           }
         ],
         "eventInfo": {
@@ -1737,6 +1781,10 @@
           {
             "logo": "",
             "title": "TNT SPORTS HD"
+          },
+          {
+            "logo": "",
+            "title": "SportzX Live"
           }
         ],
         "id": "454",
@@ -1754,6 +1802,13 @@
             "logo": "",
             "title": "SETANTA SPORTS",
             "type": "1"
+          },
+          {
+            "api": "",
+            "link": "https://play.ltwxsc.com/live/hd-en-6MuSNj2XgUdgGtANaa.m3u8?txSecret=b2c3ad8d8be40e3819697459dd094bd4&txTime=6A13719A",
+            "logo": "",
+            "title": "SPORTIFy Live",
+            "type": "0"
           }
         ],
         "eventInfo": {
@@ -1771,6 +1826,10 @@
           {
             "logo": "",
             "title": "SETANTA SPORTS"
+          },
+          {
+            "logo": "",
+            "title": "SportzX Live"
           }
         ],
         "id": "455",
@@ -1782,6 +1841,13 @@
         "adsLimit": "0",
         "cat": "LaLiga 🇪🇸",
         "channels_data": [
+          {
+            "api": "3433911df75d48179c5cb48bbfd6d72d:3307be9befb3432c9161bd60fd929535",
+            "link": "https://adjara-live-eu.akamaized.net/hdntl=exp=1779716810~acl=%2F*~id=fafefc95-635e-4e0d-ac2d-24d2bf8963f8~data=hdntl,aXA9MjAuOTcuMTk4LjI0MCZleHA9MTc3OTYzMDQ0MCZlaWQ9OTYxNjA0Jm9pZD0xMDgmdHlwZT1WT0QmdWlkPXNleWRIdHwzM2RmMTQ4NS1jZmNlLTRlZGUtODA0Ny0zMjExOGNjYjhkNjgmY2lkPWRjZS5zcHVycyZwdD1udWxs~hmac=183a25a7ecc2a191fbf6ed5293ed1502669a94be9f30bbdccd5ba99d3f809ab7/dash/live/2001533/303253-322020/manifest-d.mpd",
+            "logo": "",
+            "title": "SETANTA SPORTS",
+            "type": "1"
+          },
           {
             "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
             "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
@@ -1809,6 +1875,13 @@
             "logo": "",
             "title": "ESPN DEPORTES",
             "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://play.ltwxsc.com/live/hd-en-6MuSsYcLWJtrqLtthc.m3u8?txSecret=9aafdbf28ab6bca2530094ce02af7b9c&txTime=6A137213",
+            "logo": "",
+            "title": "SPORTIFy Live",
+            "type": "0"
           }
         ],
         "eventInfo": {
@@ -1825,6 +1898,10 @@
         "formatsNew": [
           {
             "logo": "",
+            "title": "SETANTA SPORTS"
+          },
+          {
+            "logo": "",
             "title": "beIN ENGLISH FHD"
           },
           {
@@ -1838,6 +1915,10 @@
           {
             "logo": "",
             "title": "ESPN DEPORTES"
+          },
+          {
+            "logo": "",
+            "title": "SportzX Live"
           }
         ],
         "id": "457",
@@ -2640,6 +2721,72 @@
         "image": "o",
         "publish": "1",
         "title": "Giants vs White Sox"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "Brasileirão",
+        "channels_data": [
+          {
+            "api": "d23f7433798a652a7d4f6791d9e1036c:4942eebd598b5727c5cc484cc62b52e8",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/6onrfniyry/out/v1/f23069c61dbf4e00890a40b705a84079/cenc.mpd",
+            "title": "PREMIERER BR",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/24 21:00:00 +0000",
+          "eventName": "Remo vs Athletico",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/24 19:00:00 +0000",
+          "teamA": "Remo",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2012/image",
+          "teamB": "Athletico",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/1967/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "PREMIERER BR"
+          }
+        ],
+        "id": "478",
+        "image": "o",
+        "publish": "1",
+        "title": "Remo vs Athletico"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "Brasileirão",
+        "channels_data": [
+          {
+            "api": "7daa94378ef6b4da0dde4e5e40a83360:cf780489726c04879889b97270cbf31a",
+            "link": "https://abkv2pxaaaaaaaamms3xu2tu2eynb.ta.bia-cf.live.pv-cdn.net/gru-nitro/live/clients/dash/enc/uq2koin2rk/out/v1/178bde30fb5a49209e3d41f17da49bfe/cenc.mpd",
+            "title": "PRIME VIDEO",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/24 21:00:00 +0000",
+          "eventName": "Cruzeiro vs Chapecoense",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/24 19:00:00 +0000",
+          "teamA": "Cruzeiro",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/1954/image",
+          "teamB": "Chapecoense",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/21845/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "PRIME VIDEO"
+          }
+        ],
+        "id": "479",
+        "image": "o",
+        "publish": "1",
+        "title": "Cruzeiro vs Chapecoense"
       }
     ]
   }
