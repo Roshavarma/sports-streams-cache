@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-24T18:00:42.720427",
+  "last_updated": "2026-05-24T18:10:22.396505",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "11:25:17 PM 24-05-2026",
+    "Last update time": "11:35:20 PM 24-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -1765,8 +1765,15 @@
         "cat": "Euroleague",
         "channels_data": [
           {
+            "api": "1b9bb7025e7c4bbcba2935f481f19eec:5b9ba8b698e44d4098b43ba1fe5c7ace",
+            "link": "https://adjara-live-eu.akamaized.net/hdntl=exp=1779716812~acl=%2F*~id=1af07701-4aaa-44d6-be80-76218d10a621~data=hdntl,aXA9MjAuOTcuMTk4LjI0MCZleHA9MTc3OTYzMDQ0MiZlaWQ9OTYxNTM5Jm9pZD0xMDgmdHlwZT1WT0QmdWlkPXNleWRIdHwzM2RmMTQ4NS1jZmNlLTRlZGUtODA0Ny0zMjExOGNjYjhkNjgmY2lkPWRjZS5zcHVycyZwdD1udWxs~hmac=7f92add6cb087854a198ed812dc9c1338a43225a61fb81d5d81ebc22ab70c737/dash/live/2001528/303307-322010/manifest-d.mpd",
+            "logo": "",
+            "title": "SETANTA SPORTS",
+            "type": "1"
+          },
+          {
             "api": "",
-            "link": "https://fallback-video.ivan-flux.workers.dev/video/index.m3u8",
+            "link": "https://dice-live-eu.cdnfastly.endeavorstreaming.net/1779732055_E0KGJNcTDHCEfsFI_5ade4f307b8223661e2962866f4d46d97901fa62/id=3e7dcdf8-ba6a-4c64-9ca1-c66c84a1baab/data=dWlkPWtCd0VocnwxYjRmMDY5Yy1lYjVmLTQ4ZWItYmQ4OS1hZTIxN2Y4MmViYzMmaXA9MTcyLjIxNi4yNDguMzYmZXhwPTE3Nzk3MzIwODUmZWlkPTMwMzUxMCZjaWQ9ZGNlLmV1cm9sZWFndWUmb2lkPTIxOCZ0eXBlPUxJVkU/hls/live/2005746~/hls/live/2005746/303510-322004/playlist-d.m3u8",
             "logo": "",
             "title": "SPORTIFy Live",
             "type": "0"
@@ -1784,6 +1791,10 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/3540/image"
         },
         "formatsNew": [
+          {
+            "logo": "",
+            "title": "SETANTA SPORTS"
+          },
           {
             "logo": "",
             "title": "SportzX Live"
