@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-24T22:00:43.025321",
+  "last_updated": "2026-05-24T22:10:03.087551",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "03:25:16 AM 25-05-2026",
+    "Last update time": "03:35:26 AM 25-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -1232,9 +1232,23 @@
         "channels_data": [
           {
             "api": "",
+            "link": "https://daffodil.thelistener.pk/tudn.m3u8",
+            "logo": "",
+            "title": "TUDN USA HD",
+            "type": "0"
+          },
+          {
+            "api": "",
             "link": "https://instreams.pro/bil1/tudn/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
             "logo": "",
             "title": "SPORTIFy Live",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://daffodil.sandhost.qzz.io/tudn.m3u8",
+            "logo": "",
+            "title": "TUDN SPORTS HD",
             "type": "0"
           }
         ],
@@ -1252,7 +1266,15 @@
         "formatsNew": [
           {
             "logo": "",
+            "title": "TUDN USA HD"
+          },
+          {
+            "logo": "",
             "title": "SportzX Live"
+          },
+          {
+            "logo": "",
+            "title": "TUDN SPORTS HD"
           }
         ],
         "id": "438",
@@ -2482,10 +2504,25 @@
         "cat": "MLS 🇺🇸",
         "channels_data": [
           {
+            "api": "",
+            "link": "https://daffodil.thelistener.pk/fox.m3u8",
+            "logo": "",
+            "title": "FOX USA HD",
+            "type": "0"
+          },
+          {
             "api": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811",
             "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
+            "logo": "",
             "title": "FOX DEPORTES",
             "type": "1"
+          },
+          {
+            "api": "",
+            "link": "https://daffodil.sandhost.qzz.io/fox.m3u8",
+            "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
+            "title": "FOX SPORTS HD",
+            "type": "0"
           }
         ],
         "eventInfo": {
@@ -2502,7 +2539,15 @@
         "formatsNew": [
           {
             "logo": "",
+            "title": "FOX USA HD"
+          },
+          {
+            "logo": "",
             "title": "FOX DEPORTES"
+          },
+          {
+            "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
+            "title": "FOX SPORTS HD"
           }
         ],
         "id": "482",
