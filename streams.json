@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-24T02:40:20.640088",
+  "last_updated": "2026-05-24T02:50:22.220163",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "08:05:19 AM 24-05-2026",
+    "Last update time": "08:15:23 AM 24-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -1066,39 +1066,6 @@
       },
       {
         "adsLimit": "0",
-        "cat": "WNBA",
-        "channels_data": [
-          {
-            "api": "",
-            "link": "https://mainstreams.pro/hls/pllmazjkdzajh72.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
-            "title": "SPORTIFy Live",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/24 02:30:00 +0000",
-          "eventName": "Las Vegas Aces vs Los Angeles Sparks",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/24 00:00:00 +0000",
-          "teamA": "Las Vegas",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/35550/image",
-          "teamB": "Sparks",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3447/image"
-        },
-        "formatsNew": [
-          {
-            "logo": "",
-            "title": "SportzX Live"
-          }
-        ],
-        "id": "379",
-        "image": "o",
-        "publish": "1",
-        "title": "Aces vs Sparks"
-      },
-      {
-        "adsLimit": "0",
         "cat": "MLB",
         "channels_data": [
           {
@@ -1174,39 +1141,6 @@
         "image": "o",
         "publish": "1",
         "title": "Texas Rangers"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "MLB",
-        "channels_data": [
-          {
-            "api": "",
-            "link": "https://mainstreams.pro/hls/dzjhkfazbka26.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-            "title": "SPORTIFy Live",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/24 02:15:00 +0000",
-          "eventName": "Milwaukee Brewers vs Dodgers",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/23 23:15:00 +0000",
-          "teamA": "Brewers",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3630/image",
-          "teamB": "Dodgers",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3638/image"
-        },
-        "formatsNew": [
-          {
-            "logo": "",
-            "title": "SportzX Live"
-          }
-        ],
-        "id": "397",
-        "image": "o",
-        "publish": "1",
-        "title": "Milwaukee Brewers"
       },
       {
         "adsLimit": "0",
