@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-24T15:11:58.853222",
+  "last_updated": "2026-05-24T15:20:24.857011",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "08:40:22 PM 24-05-2026",
+    "Last update time": "08:45:41 PM 24-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -1212,18 +1212,39 @@
             "type": "1"
           },
           {
-            "api": "",
-            "link": "https://instreams.pro/US/NFLHD3/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
-            "logo": "",
-            "title": "HD SERVER",
-            "type": "0"
-          },
-          {
             "api": "00220691afe41af8b1960f0f13126901:86c7aae71e67b0f7fd325ce48736f257",
             "link": "https://g003-sle-us-cmaf-prd-fy.cdn.peacocktv.com/pck-sle/us-east-1/v1/dash/6f3f45fea6332a47667932dede90d20a96f2690c/peacock-dash-sle-4s-generic-cfd/co01/pcksle2/Content/CMAF_CTR-4s-v2/Live/channel(5021710-723568-4913548a9f0)/master_2hr.mpd?c3.ri=6a130ffb_Q1ZYMDc_0_RkFTVExZ_b91244325717&aws.sessionId=544f6a08-1c92-4e97-90a5-a7dcf7777fc6",
             "logo": "",
             "title": "Peacock FHD",
             "type": "1"
+          },
+          {
+            "api": "",
+            "link": "https://chatgpt.hereisman.net/playlist/51107/load-playlist?|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "title": "PEACOCK TV+ HD",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://storage.googleapis.com/putrynghnfec3/mux_video_ts1/index-1.m3u8",
+            "logo": "",
+            "title": "SKY SPORTS HD",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://play.ltwxsc.com/live/hd-en-6MuT7JwXPpj3RiVJ7Q.m3u8?txSecret=e3939a7cb7e113b0e256d7d75603f7cb&txTime=6A133F72",
+            "logo": "",
+            "title": "FAST SERVER",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://instreams.pro/US/NFLHD3/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
+            "logo": "",
+            "title": "HD SERVER",
+            "type": "0"
           }
         ],
         "eventInfo": {
@@ -1248,11 +1269,23 @@
           },
           {
             "logo": "",
-            "title": "HD SERVER"
+            "title": "Peacock FHD"
           },
           {
             "logo": "",
-            "title": "Peacock FHD"
+            "title": "PEACOCK TV+ HD"
+          },
+          {
+            "logo": "",
+            "title": "SKY SPORTS HD"
+          },
+          {
+            "logo": "",
+            "title": "FAST SERVER"
+          },
+          {
+            "logo": "",
+            "title": "HD SERVER"
           }
         ],
         "id": "439",
@@ -1294,6 +1327,13 @@
           },
           {
             "api": "",
+            "link": "https://storage.googleapis.com/uinhfgkaeshjkfg1/mux_video_ts1/index-1.m3u8",
+            "logo": "",
+            "title": "SKY SPORTS HD",
+            "type": "0"
+          },
+          {
+            "api": "",
             "link": "https://instreams.pro/US/NFLHD9/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
             "logo": "",
             "title": "HD SERVER",
@@ -1327,6 +1367,10 @@
           {
             "logo": "",
             "title": "PEACOCK+ HD"
+          },
+          {
+            "logo": "",
+            "title": "SKY SPORTS HD"
           },
           {
             "logo": "",
@@ -1521,6 +1565,20 @@
           },
           {
             "api": "",
+            "link": "https://storage.googleapis.com/uniherjfadfef1/mux_video_ts1/index-1.m3u8",
+            "logo": "",
+            "title": "SY FY SPORTS HD",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://play.ltwxsc.com/live/hd-en-6MuT7JwXixghwzh6aA.m3u8?txSecret=aac47c69693b7fd71278ba8445cd39dd&txTime=6A133F72",
+            "logo": "",
+            "title": "FAST SERVER",
+            "type": "0"
+          },
+          {
+            "api": "",
             "link": "https://instreams.pro/US/NFLHD8/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
             "logo": "",
             "title": "HD SERVER",
@@ -1550,6 +1608,14 @@
           {
             "logo": "",
             "title": "HUB PREMIER HD"
+          },
+          {
+            "logo": "",
+            "title": "SY FY SPORTS HD"
+          },
+          {
+            "logo": "",
+            "title": "FAST SERVER"
           },
           {
             "logo": "",
@@ -1595,6 +1661,20 @@
           },
           {
             "api": "",
+            "link": "https://storage.googleapis.com/putrynghnfec2/mux_video_ts1/index-1.m3u8",
+            "logo": "",
+            "title": "SKY SPORTS HD",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://play.ltwxsc.com/live/hd-en-6MuT7JwWj4EU4vLnCE.m3u8?txSecret=b5424ea4b7de268b368d7cb52bf98727&txTime=6A133F72",
+            "logo": "",
+            "title": "FAST SERVER",
+            "type": "0"
+          },
+          {
+            "api": "",
             "link": "https://instreams.pro/US/NFLHD2/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
             "logo": "",
             "title": "HD SERVER",
@@ -1631,6 +1711,14 @@
           },
           {
             "logo": "",
+            "title": "SKY SPORTS HD"
+          },
+          {
+            "logo": "",
+            "title": "FAST SERVER"
+          },
+          {
+            "logo": "",
             "title": "HD SERVER"
           }
         ],
@@ -1662,6 +1750,20 @@
             "link": "https://chatgpt.hereisman.net/playlist/51096/load-playlist?|Referer=https://gooz.aapmains.net",
             "logo": "",
             "title": "SKY SPORTS PL",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://storage.googleapis.com/putrynghnfec1/mux_video_ts1/index-1.m3u8",
+            "logo": "",
+            "title": "SKY SPORTS HD",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://play.ltwxsc.com/live/hd-en-6MuT7JwXPZLgLMht38.m3u8?txSecret=a161e399476e73ac2ccdb663098d4d87&txTime=6A133EFB",
+            "logo": "",
+            "title": "FAST SERVER",
             "type": "0"
           },
           {
@@ -1702,6 +1804,14 @@
           {
             "logo": "",
             "title": "SKY SPORTS PL"
+          },
+          {
+            "logo": "",
+            "title": "SKY SPORTS HD"
+          },
+          {
+            "logo": "",
+            "title": "FAST SERVER"
           },
           {
             "logo": "",
