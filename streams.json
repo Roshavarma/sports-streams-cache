@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-24T18:10:22.396505",
+  "last_updated": "2026-05-24T18:20:24.197320",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "11:35:20 PM 24-05-2026",
+    "Last update time": "11:45:27 PM 24-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -88,7 +88,7 @@
           "eventBanner": "https://iili.io/CHTbqFe.png",
           "eventName": "Formula 1 - Canada GP",
           "eventType": "null",
-          "isHot": "0",
+          "isHot": "1",
           "startTime": "2026/05/24 18:30:00 +0000",
           "teamA": "Formula 1",
           "teamAFlag": "https://scdnmain.net/assets/tournament/40-c.png",
@@ -1661,74 +1661,6 @@
       },
       {
         "adsLimit": "0",
-        "cat": "Cricket",
-        "channels_data": [
-          {
-            "api": "318990a4c9001a643e48138292a3ab1c:e69f62b154a95d5a96b77de655e27c1a",
-            "id": 1,
-            "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/mvdbju6gle/out/v1/08b75aacdf904ac4b83619c811153fd1/cenc.mpd",
-            "title": "WILLOW ENG FHD",
-            "type": "1",
-            "webLink": ""
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/24 15:00:00 +0000",
-          "eventName": "Middlesex vs Surrey",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/24 11:00:00 +0000",
-          "teamA": "MID",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/187833/image",
-          "teamB": "SUR",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/187819/image"
-        },
-        "formatsNew": [
-          {
-            "logo": "",
-            "title": "WILLOW ENG FHD"
-          }
-        ],
-        "id": "463",
-        "image": "o",
-        "publish": "1",
-        "title": "Middlesex vs Surrey"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "IIHF World",
-        "channels_data": [
-          {
-            "api": "c4088f5f265f9de50cffd80bf89308b7:2c4d2239d96d532b4ec2050653611003",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
-            "title": "TSN SPORTS FHD",
-            "type": "1"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/24 17:00:00 +0000",
-          "eventName": "Denmark vs Italy",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/24 14:20:00 +0000",
-          "teamA": "Denmark",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/5917/image",
-          "teamB": "Italy",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/5733/image"
-        },
-        "formatsNew": [
-          {
-            "logo": "",
-            "title": "TSN SPORTS FHD"
-          }
-        ],
-        "id": "464",
-        "image": "o",
-        "publish": "1",
-        "title": "Denmark vs Italy"
-      },
-      {
-        "adsLimit": "0",
         "cat": "IIHF World",
         "channels_data": [
           {
@@ -1777,13 +1709,20 @@
             "logo": "",
             "title": "SPORTIFy Live",
             "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://live.kinescopecdn.net/on-air/e7306a84-915f-4057-979e-48822ef4f426/debbe670-b661-4b79-8e72-d23157f4bd7d/master.m3u8",
+            "logo": "",
+            "title": "NOVA SPORTS PRIME",
+            "type": "0"
           }
         ],
         "eventInfo": {
           "endTime": "2026/05/24 21:00:00 +0000",
-          "eventName": "Olympiacos BC vs Real Madrid",
+          "eventName": "Olympiacos vs Real Madrid",
           "eventType": "null",
-          "isHot": "0",
+          "isHot": "1",
           "startTime": "2026/05/24 18:00:00 +0000",
           "teamA": "Olympiacos BC",
           "teamAFlag": "https://img.sofascore.com/api/v1/team/3501/image",
@@ -1798,6 +1737,10 @@
           {
             "logo": "",
             "title": "SportzX Live"
+          },
+          {
+            "logo": "",
+            "title": "NOVA SPORTS PRIME"
           }
         ],
         "id": "466",
