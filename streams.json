@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-24T15:00:45.215761",
+  "last_updated": "2026-05-24T15:10:21.084531",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "08:25:19 PM 24-05-2026",
+    "Last update time": "08:35:22 PM 24-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -1157,6 +1157,13 @@
             "logo": "",
             "title": "SKY SPORTS FHD",
             "type": "1"
+          },
+          {
+            "api": "0022cf2a123e1ad7100b0967612d8d3b:9f51254b6674123d545611067b08b271",
+            "link": "https://g003-sle-us-cmaf-prd-fy.cdn.peacocktv.com/pck-sle/us-east-2/v1/dash/6f3f45fea6332a47667932dede90d20a96f2690c/peacock-dash-sle-4s-generic-cfd/co01/pcksle2/Content/CMAF_CTR-4s-v2/Live/channel(5021548-723406-4912ba0bcce)/master_2hr.mpd?c3.ri=6a13114f_Q1ZYMDc_1_RkFTVExZ_f2e46cca9674&aws.sessionId=cb26529d-9909-4596-9da6-4f428557d713",
+            "logo": "",
+            "title": "Peacock FHD",
+            "type": "1"
           }
         ],
         "eventInfo": {
@@ -1175,6 +1182,10 @@
           {
             "logo": "",
             "title": "SKY SPORTS FHD"
+          },
+          {
+            "logo": "",
+            "title": "Peacock FHD"
           }
         ],
         "id": "401",
@@ -1219,7 +1230,7 @@
           "endTime": "2026/05/24 17:00:00 +0000",
           "eventName": "Brighton vs Manchester United",
           "eventType": "null",
-          "isHot": "0",
+          "isHot": "1",
           "startTime": "2026/05/24 15:00:00 +0000",
           "teamA": "Brighton",
           "teamAFlag": "https://img.sofascore.com/api/v1/team/30/image",
@@ -1286,7 +1297,7 @@
           "endTime": "2026/05/24 17:00:00 +0000",
           "eventName": "Manchester City vs Aston Villa",
           "eventType": "null",
-          "isHot": "0",
+          "isHot": "1",
           "startTime": "2026/05/24 15:00:00 +0000",
           "teamA": "Man City",
           "teamAFlag": "https://img.sofascore.com/api/v1/team/17/image",
@@ -1360,7 +1371,7 @@
           "endTime": "2026/05/24 17:00:00 +0000",
           "eventName": "Tottenham vs Everton",
           "eventType": "null",
-          "isHot": "0",
+          "isHot": "1",
           "startTime": "2026/05/24 15:00:00 +0000",
           "teamA": "Tottenham",
           "teamAFlag": "https://img.sofascore.com/api/v1/team/33/image",
@@ -1399,6 +1410,20 @@
         "cat": "EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
         "channels_data": [
           {
+            "api": "e87521b3dfa44ed9ba004012dcb89172:bba9734a9d724531bbab7ef5d64ca1f8",
+            "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1779716808~acl=%2F*~id=36fb73d5-8fd7-4442-a1a4-29edfb8ca880~data=hdntl,aXA9MjAuOTcuMTk4LjI0MCZleHA9MTc3OTYzMDQzOCZlaWQ9ODgwNTM2Jm9pZD0xMDgmdHlwZT1WT0QmdWlkPXNleWRIdHwzM2RmMTQ4NS1jZmNlLTRlZGUtODA0Ny0zMjExOGNjYjhkNjgmY2lkPWRjZS5zcHVycyZwdD1udWxs~hmac=345a6aa8c997488374bf009dd7dc7a719f2feb4601bd6fe1f77a99c8d3b95ca3/dash/live/2093709/219033-321024/manifest-d.mpd",
+            "logo": "",
+            "title": "SKY SPORTS FHD",
+            "type": "1"
+          },
+          {
+            "api": "ba68bc18746941b2b3abe6176a7d751a:dc237282993741e0b8cd0bdc0ce3f2fb",
+            "link": "https://adjara-live-eu.akamaized.net/hdntl=exp=1779716810~acl=%2F*~id=fafefc95-635e-4e0d-ac2d-24d2bf8963f8~data=hdntl,aXA9MjAuOTcuMTk4LjI0MCZleHA9MTc3OTYzMDQ0MCZlaWQ9OTYxNjA0Jm9pZD0xMDgmdHlwZT1WT0QmdWlkPXNleWRIdHwzM2RmMTQ4NS1jZmNlLTRlZGUtODA0Ny0zMjExOGNjYjhkNjgmY2lkPWRjZS5zcHVycyZwdD1udWxs~hmac=183a25a7ecc2a191fbf6ed5293ed1502669a94be9f30bbdccd5ba99d3f809ab7/dash/live/2001548/303259-321981/manifest-d.mpd",
+            "logo": "",
+            "title": "SETANTA SPORTS",
+            "type": "1"
+          },
+          {
             "api": "",
             "link": "https://instreams.pro/US/NFLHD5/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
             "logo": "",
@@ -1420,6 +1445,14 @@
         "formatsNew": [
           {
             "logo": "",
+            "title": "SKY SPORTS FHD"
+          },
+          {
+            "logo": "",
+            "title": "SETANTA SPORTS"
+          },
+          {
+            "logo": "",
             "title": "HD SERVER"
           }
         ],
@@ -1433,6 +1466,20 @@
         "cat": "EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
         "channels_data": [
           {
+            "api": "af95024eda94455e922b90a39a3af93e:852e715ef4064b05b8e1cdee285648b5",
+            "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1779716810~acl=%2F*~id=fafefc95-635e-4e0d-ac2d-24d2bf8963f8~data=hdntl,aXA9MjAuOTcuMTk4LjI0MCZleHA9MTc3OTYzMDQ0MCZlaWQ9OTYxNjA0Jm9pZD0xMDgmdHlwZT1WT0QmdWlkPXNleWRIdHwzM2RmMTQ4NS1jZmNlLTRlZGUtODA0Ny0zMjExOGNjYjhkNjgmY2lkPWRjZS5zcHVycyZwdD1udWxs~hmac=183a25a7ecc2a191fbf6ed5293ed1502669a94be9f30bbdccd5ba99d3f809ab7/dash/live/2093711/219034-321026/manifest-d.mpd",
+            "logo": "",
+            "title": "SKY SPORTS FHD",
+            "type": "1"
+          },
+          {
+            "api": "d31c5d1b8256432591f6de6e9c714821:b7f96c47f4564039a49394f518d9d3d0",
+            "link": "https://adjara-live-eu.akamaized.net/hdntl=exp=1779716812~acl=%2F*~id=1af07701-4aaa-44d6-be80-76218d10a621~data=hdntl,aXA9MjAuOTcuMTk4LjI0MCZleHA9MTc3OTYzMDQ0MiZlaWQ9OTYxNTM5Jm9pZD0xMDgmdHlwZT1WT0QmdWlkPXNleWRIdHwzM2RmMTQ4NS1jZmNlLTRlZGUtODA0Ny0zMjExOGNjYjhkNjgmY2lkPWRjZS5zcHVycyZwdD1udWxs~hmac=7f92add6cb087854a198ed812dc9c1338a43225a61fb81d5d81ebc22ab70c737/dash/live/2001579/303249-321978/manifest-d.mpd",
+            "logo": "",
+            "title": "SETANTA SPORTS",
+            "type": "1"
+          },
+          {
             "api": "",
             "link": "https://instreams.pro/US/NFLHD8/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
             "logo": "",
@@ -1444,7 +1491,7 @@
           "endTime": "2026/05/24 17:00:00 +0000",
           "eventName": "Liverpool vs Brentford",
           "eventType": "null",
-          "isHot": "0",
+          "isHot": "1",
           "startTime": "2026/05/24 15:00:00 +0000",
           "teamA": "Liverpool",
           "teamAFlag": "https://img.sofascore.com/api/v1/team/44/image",
@@ -1452,6 +1499,14 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/50/image"
         },
         "formatsNew": [
+          {
+            "logo": "",
+            "title": "SKY SPORTS FHD"
+          },
+          {
+            "logo": "",
+            "title": "SETANTA SPORTS"
+          },
           {
             "logo": "",
             "title": "HD SERVER"
@@ -1466,6 +1521,20 @@
         "adsLimit": "0",
         "cat": "EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
         "channels_data": [
+          {
+            "api": "72002c630e2343849984b5d3ec418162:ae6f8e3ff42a4963ae25686cca56c8e8",
+            "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1779716810~acl=%2F*~id=fafefc95-635e-4e0d-ac2d-24d2bf8963f8~data=hdntl,aXA9MjAuOTcuMTk4LjI0MCZleHA9MTc3OTYzMDQ0MCZlaWQ9OTYxNjA0Jm9pZD0xMDgmdHlwZT1WT0QmdWlkPXNleWRIdHwzM2RmMTQ4NS1jZmNlLTRlZGUtODA0Ny0zMjExOGNjYjhkNjgmY2lkPWRjZS5zcHVycyZwdD1udWxs~hmac=183a25a7ecc2a191fbf6ed5293ed1502669a94be9f30bbdccd5ba99d3f809ab7/dash/live/2093716/219036-321029/manifest-d.mpd",
+            "logo": "",
+            "title": "SKY SPORTS FHD",
+            "type": "1"
+          },
+          {
+            "api": "f582923a887e4085b7c5dffd4f63ef86:6946bb0fab8048e7a5f6497fce8e223c",
+            "link": "https://adjara-live-eu.akamaized.net/hdntl=exp=1779716808~acl=%2F*~id=36fb73d5-8fd7-4442-a1a4-29edfb8ca880~data=hdntl,aXA9MjAuOTcuMTk4LjI0MCZleHA9MTc3OTYzMDQzOCZlaWQ9ODgwNTM2Jm9pZD0xMDgmdHlwZT1WT0QmdWlkPXNleWRIdHwzM2RmMTQ4NS1jZmNlLTRlZGUtODA0Ny0zMjExOGNjYjhkNjgmY2lkPWRjZS5zcHVycyZwdD1udWxs~hmac=345a6aa8c997488374bf009dd7dc7a719f2feb4601bd6fe1f77a99c8d3b95ca3/dash/live/2001522/303256-321991/manifest-d.mpd",
+            "logo": "",
+            "title": "SETANTA SPORTS",
+            "type": "1"
+          },
           {
             "api": "0022a1c52a3d9196a80d271f2f8b8f35:b3eb3ff3303ae038d016668263ddf78c",
             "link": "https://g003-sle-us-cmaf-prd-cf.cdn.peacocktv.com/pck-sle/us-east-1/v1/dash/6f3f45fea6332a47667932dede90d20a96f2690c/peacock-dash-sle-4s-generic-cfd/co01/pcksle2/Content/CMAF_CTR-4s-v2/Live/channel(5021728-723586-491365b5282)/master_2hr.mpd?c3.ri=6a13102e_Q1ZYMDc_0_Q0xPVURGUk9OVA_85289a667bd8&aws.sessionId=1417c45f-d923-47a1-a8b9-69e3b14ecbd8",
@@ -1493,6 +1562,14 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/38/image"
         },
         "formatsNew": [
+          {
+            "logo": "",
+            "title": "SKY SPORTS FHD"
+          },
+          {
+            "logo": "",
+            "title": "SETANTA SPORTS"
+          },
           {
             "logo": "",
             "title": "Peacock FHD"
@@ -1531,6 +1608,13 @@
             "logo": "",
             "title": "HD SERVER",
             "type": "0"
+          },
+          {
+            "api": "002255698352bee4fcd6af55a61d3d96:11737bcab913e4aa74c3e55e4f04d3f7",
+            "link": "https://g003-sle-us-cmaf-prd-cf.cdn.peacocktv.com/pck-sle/us-east-2/v1/dash/6f3f45fea6332a47667932dede90d20a96f2690c/peacock-dash-sle-4s-generic-cfd/co01/pcksle2/Content/CMAF_CTR-4s-v2/Live/channel(5021812-723670-4913b5d0fd6)/master_2hr.mpd?c3.ri=6a131196_Q1ZYMDc_1_Q0xPVURGUk9OVA_aa3122993767&aws.sessionId=7aa2f289-f43b-449d-a353-40c90a877d99",
+            "logo": "",
+            "title": "Peacock ES",
+            "type": "1"
           }
         ],
         "eventInfo": {
@@ -1556,6 +1640,10 @@
           {
             "logo": "",
             "title": "HD SERVER"
+          },
+          {
+            "logo": "",
+            "title": "Peacock ES"
           }
         ],
         "id": "445",
@@ -1635,6 +1723,20 @@
         "cat": "EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
         "channels_data": [
           {
+            "api": "870835632a7d4e79a2507d8bf9c48ac0:54e0c03425d24fa38e35f03a20896200",
+            "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1779716812~acl=%2F*~id=1af07701-4aaa-44d6-be80-76218d10a621~data=hdntl,aXA9MjAuOTcuMTk4LjI0MCZleHA9MTc3OTYzMDQ0MiZlaWQ9OTYxNTM5Jm9pZD0xMDgmdHlwZT1WT0QmdWlkPXNleWRIdHwzM2RmMTQ4NS1jZmNlLTRlZGUtODA0Ny0zMjExOGNjYjhkNjgmY2lkPWRjZS5zcHVycyZwdD1udWxs~hmac=7f92add6cb087854a198ed812dc9c1338a43225a61fb81d5d81ebc22ab70c737/dash/live/2093733/285253-321768/manifest-d.mpd",
+            "logo": "",
+            "title": "SKY SPORTS FHD",
+            "type": "1"
+          },
+          {
+            "api": "a55d424c7a214cdfafaf79f0af7354eb:28c59331968b46b5850faa8855280fd5",
+            "link": "https://adjara-live-eu.akamaized.net/hdntl=exp=1779716808~acl=%2F*~id=36fb73d5-8fd7-4442-a1a4-29edfb8ca880~data=hdntl,aXA9MjAuOTcuMTk4LjI0MCZleHA9MTc3OTYzMDQzOCZlaWQ9ODgwNTM2Jm9pZD0xMDgmdHlwZT1WT0QmdWlkPXNleWRIdHwzM2RmMTQ4NS1jZmNlLTRlZGUtODA0Ny0zMjExOGNjYjhkNjgmY2lkPWRjZS5zcHVycyZwdD1udWxs~hmac=345a6aa8c997488374bf009dd7dc7a719f2feb4601bd6fe1f77a99c8d3b95ca3/dash/live/2001521/303255-321990/manifest-d.mpd",
+            "logo": "",
+            "title": "SETANTA SPORTS",
+            "type": "1"
+          },
+          {
             "api": "0022609641da08eda9f43ee284e0a001:bbbda7b4cdddf6b0d5b62d05bf010931",
             "link": "https://g003-sle-us-cmaf-prd-ak.cdn.peacocktv.com/pck-sle/us-east-1/v1/dash/6f3f45fea6332a47667932dede90d20a96f2690c/peacock-dash-sle-4s-generic-cfd/co01/pcksle2/Content/CMAF_CTR-4s-v2/Live/channel(5021722-723580-49135ffc4fc)/master_2hr.mpd?c3.ri=6a13106e_Q1ZYMDc_0_QUtBTUFJ_9af42fd79cba&aws.sessionId=2e06c0ca-ec3d-40ee-944d-efa33325087a",
             "logo": "",
@@ -1661,6 +1763,14 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/60/image"
         },
         "formatsNew": [
+          {
+            "logo": "",
+            "title": "SKY SPORTS FHD"
+          },
+          {
+            "logo": "",
+            "title": "SETANTA SPORTS"
+          },
           {
             "logo": "",
             "title": "Peacock FHD"
