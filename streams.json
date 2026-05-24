@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-24T17:10:20.630835",
+  "last_updated": "2026-05-24T17:20:22.174692",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "10:35:17 PM 24-05-2026",
+    "Last update time": "10:45:26 PM 24-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -1140,52 +1140,6 @@
         "cat": "EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
         "channels_data": [
           {
-            "api": "0022cf2a123e1ad7100b0967612d8d3b:9f51254b6674123d545611067b08b271",
-            "link": "https://g003-sle-us-cmaf-prd-fy.cdn.peacocktv.com/pck-sle/us-east-2/v1/dash/6f3f45fea6332a47667932dede90d20a96f2690c/peacock-dash-sle-4s-generic-cfd/co01/pcksle2/Content/CMAF_CTR-4s-v2/Live/channel(5021548-723406-4912ba0bcce)/master_2hr.mpd?c3.ri=6a13114f_Q1ZYMDc_1_RkFTVExZ_f2e46cca9674&aws.sessionId=cb26529d-9909-4596-9da6-4f428557d713",
-            "logo": "",
-            "title": "Peacock FHD",
-            "type": "1"
-          },
-          {
-            "api": "7a2758575dc04d63acc3573ab594d441:47071dd80de746a38cdc6a4dcde21abc",
-            "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1779716803~acl=%2f*~id=e3c0718d-26eb-451b-b368-a9fbedc1b4e4~data=hdntl,aXA9MjAuOTcuMTk4LjI0MCZleHA9MTc3OTYzMDQzMyZlaWQ9OTYxOTI1Jm9pZD0xMDgmdHlwZT1WT0QmdWlkPXNleWRIdHwzM2RmMTQ4NS1jZmNlLTRlZGUtODA0Ny0zMjExOGNjYjhkNjgmY2lkPWRjZS5zcHVycyZwdD1udWxs~hmac=800bc367bc4fbebb5232949fb01a993338ba9807309cf0e71c39a0c15060d608/dash/live/2093712/219035-321027/manifest-d.mpd",
-            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
-            "title": "SKY SPORTS FHD",
-            "type": "1"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/24 17:10:00 +0000",
-          "eventBanner": "https://iili.io/CJqUpKQ.png",
-          "eventName": "EPL Goal Rush",
-          "eventType": "null",
-          "isHot": "1",
-          "startTime": "2026/05/24 14:55:00 +0000",
-          "teamA": "Goals Rush",
-          "teamAFlag": "https://images.fotmob.com/image_resources/logo/leaguelogo/47.png",
-          "teamB": "Goals Rush",
-          "teamBFlag": "https://images.fotmob.com/image_resources/logo/leaguelogo/47.png"
-        },
-        "formatsNew": [
-          {
-            "logo": "",
-            "title": "Peacock FHD"
-          },
-          {
-            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
-            "title": "SKY SPORTS FHD"
-          }
-        ],
-        "id": "401",
-        "image": "o",
-        "publish": "1",
-        "title": "EPL Goal Rush"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-        "channels_data": [
-          {
             "api": "038315781334424da7cdb6e44f2151a6:43d84dc66e594011991420252dee8d77",
             "link": "https://adjara-live-eu.akamaized.net/hdntl=exp=1779716808~acl=%2F*~id=36fb73d5-8fd7-4442-a1a4-29edfb8ca880~data=hdntl,aXA9MjAuOTcuMTk4LjI0MCZleHA9MTc3OTYzMDQzOCZlaWQ9ODgwNTM2Jm9pZD0xMDgmdHlwZT1WT0QmdWlkPXNleWRIdHwzM2RmMTQ4NS1jZmNlLTRlZGUtODA0Ny0zMjExOGNjYjhkNjgmY2lkPWRjZS5zcHVycyZwdD1udWxs~hmac=345a6aa8c997488374bf009dd7dc7a719f2feb4601bd6fe1f77a99c8d3b95ca3/dash/live/2001544/303260-321984/manifest-d.mpd",
             "logo": "",
@@ -2114,53 +2068,6 @@
         "image": "o",
         "publish": "1",
         "title": "Burnley vs Wolverhampton"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "Serie A 🇮🇹",
-        "channels_data": [
-          {
-            "api": "335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281",
-            "id": 1,
-            "link": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd",
-            "title": "beiN SPORTS FHD",
-            "type": "1",
-            "webLink": ""
-          },
-          {
-            "api": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811",
-            "id": 1,
-            "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
-            "title": "FOX DEPORTES FHD",
-            "type": "1",
-            "webLink": ""
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/24 15:00:00 +0000",
-          "eventName": "Parma vs Sassuolo",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/24 13:00:00 +0000",
-          "teamA": "Parma",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2690/image",
-          "teamB": "Sassuolo",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2793/image"
-        },
-        "formatsNew": [
-          {
-            "logo": "",
-            "title": "beiN SPORTS FHD"
-          },
-          {
-            "logo": "",
-            "title": "FOX DEPORTES FHD"
-          }
-        ],
-        "id": "449",
-        "image": "o",
-        "publish": "1",
-        "title": "Parma vs Sassuolo"
       },
       {
         "adsLimit": "0",
@@ -3250,6 +3157,142 @@
         "image": "o",
         "publish": "1",
         "title": "Miami Marlins vs Mets"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "MLB",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://mainstreams.pro/hls/jnzkdzjfanch23.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+            "logo": "",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/24 21:10:00 +0000",
+          "eventName": "Royals vs Seattle Mariners",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/24 18:10:00 +0000",
+          "teamA": "Royals",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3651/image",
+          "teamB": "Seattle Mariners",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3641/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "SportzX Live"
+          }
+        ],
+        "id": "474",
+        "image": "o",
+        "publish": "1",
+        "title": "Royals vs Seattle Mariners"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "MLB",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://mainstreams.pro/hls/ijfnakfidch22.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+            "logo": "",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/24 21:10:00 +0000",
+          "eventName": "Milwaukee Brewers vs Dodgers",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/24 18:10:00 +0000",
+          "teamA": "Milwaukee Brewers",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3630/image",
+          "teamB": "Dodgers",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3638/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "SportzX Live"
+          }
+        ],
+        "id": "475",
+        "image": "o",
+        "publish": "1",
+        "title": "Milwaukee Brewers vs Dodgers"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "MLB",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://mainstreams.pro/hls/fskjanach24.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+            "logo": "",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/24 21:20:00 +0000",
+          "eventName": "Chicago Cubs vs Houston Astros",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/24 18:20:00 +0000",
+          "teamA": "Chicago Cubs",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3627/image",
+          "teamB": "Houston Astros",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3655/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "SportzX Live"
+          }
+        ],
+        "id": "476",
+        "image": "o",
+        "publish": "1",
+        "title": "Chicago Cubs vs Houston Astros"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "MLB",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://mainstreams.pro/hls/kjhfzua25.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+            "logo": "",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/24 23:05:00 +0000",
+          "eventName": "Giants vs White Sox",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/24 20:05:00 +0000",
+          "teamA": "Giants",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3634/image",
+          "teamB": "White Sox",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3644/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "SportzX Live"
+          }
+        ],
+        "id": "477",
+        "image": "o",
+        "publish": "1",
+        "title": "Giants vs White Sox"
       }
     ]
   }
