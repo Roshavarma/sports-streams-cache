@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-24T14:00:46.918198",
+  "last_updated": "2026-05-24T14:10:32.604115",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "07:25:18 PM 24-05-2026",
+    "Last update time": "07:35:21 PM 24-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -920,17 +920,17 @@
             "type": "1"
           },
           {
+            "api": "ecc68c7bc91756a190dcd7fd0c12cefc:73e68b8b7409b6e603ecc67a44918175",
+            "link": "https://dck1-fs-live.dtcdn.dazn.com/out/v1/761f422bb93edb7b/58e3b017d11a40d684bfdd4e93d1f004/index.mpd",
+            "logo": "",
+            "title": "KAYO HINDI FHD",
+            "type": "1"
+          },
+          {
             "api": "01c9bbf8137e58378a5ead514998a7b4:fb01e61809e80e5e93a889cd31daab22",
             "link": "https://dck1-fs-live.dtcdn.dazn.com/out/v1/814bffb9b389f652/d65feac5647949e6b45b2674d4715398/index.mpd",
             "logo": "",
             "title": "FOX CRICKET FHD",
-            "type": "1"
-          },
-          {
-            "api": "d61f78cdfd675eee8a2144f5f7142a33:7a4d6f780440cd645d9bcaaa1295529d",
-            "link": "https://dck1-ak-livedazn.akamaized.net/out/v1/814bffb9b389f652/e1f3582cdf2a4b4fbc1b8a7306d8c757/index.mpd",
-            "logo": "",
-            "title": "KAYO HINDI FHD",
             "type": "1"
           },
           {
@@ -984,11 +984,11 @@
           },
           {
             "logo": "",
-            "title": "FOX CRICKET FHD"
+            "title": "KAYO HINDI FHD"
           },
           {
             "logo": "",
-            "title": "KAYO HINDI FHD"
+            "title": "FOX CRICKET FHD"
           },
           {
             "logo": "",
@@ -1042,7 +1042,7 @@
           }
         ],
         "eventInfo": {
-          "endTime": "2026/05/24 13:00:00 +0000",
+          "endTime": "2026/05/24 15:00:00 +0000",
           "eventBanner": "https://iili.io/CHyjeBp.png",
           "eventName": "Roland-Garros",
           "eventType": "null",
