@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-24T23:40:25.709791",
+  "last_updated": "2026-05-24T23:50:19.296725",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "05:05:18 AM 25-05-2026",
+    "Last update time": "05:15:24 AM 25-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -862,9 +862,9 @@
         "cat": "NHL",
         "channels_data": [
           {
-            "api": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
-            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
-            "logo": "",
+            "api": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f",
+            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
+            "logo": "https://play-lh.googleusercontent.com/zG_ZS5v4PfHqWqWLkpVkZB9wRu9MJmEqD4tNpeIYwLOcjU3INQlFeTxoVgwV1R2CbcsI",
             "title": "PREMIER SPORTS",
             "type": "1"
           },
@@ -874,6 +874,13 @@
             "logo": "",
             "title": "ESPN SPORTS HD",
             "type": "1"
+          },
+          {
+            "api": "",
+            "link": "https://chatgpt.hereisman.net/playlist/51155/load-playlist?|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "title": "SPORTIFy NHL",
+            "type": "0"
           },
           {
             "api": "",
@@ -903,12 +910,16 @@
         },
         "formatsNew": [
           {
-            "logo": "",
+            "logo": "https://play-lh.googleusercontent.com/zG_ZS5v4PfHqWqWLkpVkZB9wRu9MJmEqD4tNpeIYwLOcjU3INQlFeTxoVgwV1R2CbcsI",
             "title": "PREMIER SPORTS"
           },
           {
             "logo": "",
             "title": "ESPN SPORTS HD"
+          },
+          {
+            "logo": "",
+            "title": "SportzX NHL"
           },
           {
             "logo": "",
@@ -2290,6 +2301,13 @@
         "cat": "MLS 🇺🇸",
         "channels_data": [
           {
+            "api": "",
+            "link": "https://chatgpt.hereisman.net/playlist/51151/load-playlist?|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "title": "APPLE TV+ HD",
+            "type": "0"
+          },
+          {
             "api": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811",
             "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
             "logo": "",
@@ -2316,6 +2334,10 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/39833/image"
         },
         "formatsNew": [
+          {
+            "logo": "",
+            "title": "APPLE TV+ HD"
+          },
           {
             "logo": "",
             "title": "FOX DEPORTES"
