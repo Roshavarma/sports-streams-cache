@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-24T16:40:28.472722",
+  "last_updated": "2026-05-24T16:50:21.174129",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "10:05:22 PM 24-05-2026",
+    "Last update time": "10:15:22 PM 24-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -11,86 +11,74 @@
         "cat": "F1",
         "channels_data": [
           {
-            "api": "708a98b352bd4418a73a028edd84da8f:b1fa5c2bca4c4b57b924b748564532cb",
-            "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1779630449~acl=%2F*~id=652a6b96-929b-4330-8938-88425d7edb82~data=hdntl,aXA9MjAuMjMxLjEwMS4zNiZleHA9MTc3OTU0NDA3OSZlaWQ9OTYxNjA0Jm9pZD0xMDgmdHlwZT1WT0QmdWlkPTNZTlVqeHw4NmE4YTYxYi04YTkxLTRhMDAtOGQ0OS04MmFlNWM2YWVmYmUmY2lkPWRjZS5zcHVycyZwdD1udWxs~hmac=6f927ef69c2397d894e60e133a42995aed4601a41dc24bf746a93054e5f7c06b/dash/live/2093715/219027-321028/manifest-d.mpd",
-            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
+            "api": "aefc2c8d1c8840f1b6981f856c9269ba:cf8ea114c45b4d6596b2748258ab74d6",
+            "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1779716803~acl=%2F*~id=e3c0718d-26eb-451b-b368-a9fbedc1b4e4~data=hdntl,aXA9MjAuOTcuMTk4LjI0MCZleHA9MTc3OTYzMDQzMyZlaWQ9OTYxOTI1Jm9pZD0xMDgmdHlwZT1WT0QmdWlkPXNleWRIdHwzM2RmMTQ4NS1jZmNlLTRlZGUtODA0Ny0zMjExOGNjYjhkNjgmY2lkPWRjZS5zcHVycyZwdD1udWxs~hmac=800bc367bc4fbebb5232949fb01a993338ba9807309cf0e71c39a0c15060d608/dash/live/2093710/219026-321025/manifest-d.mpd",
             "title": "SKY SPORTS FHD",
             "type": "1"
           },
           {
             "api": "e853333da2c9196ea11374634231bc45:de2e2dbe818d78dfad07d6cd9a4c63d4",
             "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/jkcljgqbx8/out/v1/63bfa701559340f3a2a2cb1fccd24807/cenc.mpd",
-            "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
             "title": "TSN SPORTS FHD",
             "type": "1"
           },
           {
-            "api": "8659b7978e5c4736b7910a262a53dc09:fa4660da55c9446f8c62092c69a5a694",
-            "link": "https://adjara-live-eu.akamaized.net/hdntl=exp=1779650334~acl=%2f*~id=3ae674f0-c974-406e-b32d-b5008cf1546c~data=hdntl,aXA9MTcyLjE3OC4xMTkuMTE0JmV4cD0xNzc5NTYzOTY0JmVpZD04ODA1MzYmb2lkPTEwOCZ0eXBlPVZPRCZ1aWQ9c1VQVk5vfDMwMzk2YmViLTdjN2YtNDZkOC1iZDEwLTIzZjg4NWRjNDFkZSZjaWQ9ZGNlLnNwdXJzJnB0PW51bGw~hmac=316fe38ae178add16ca780c998b80c77956ec4a995626b1662b2f1ae0ec845e9/dash/live/2001623/303511-321943/manifest-d.mpd",
-            "logo": "",
-            "title": "SETANTA SPORTS",
+            "api": "4d346b1d1ae64d4a800409cffa14983e:208c972bd2da4359ac94e6944fe378b6",
+            "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1779716805~acl=%2F*~id=cd2e1d0b-3186-41d0-9ed6-d7a16394b589~data=hdntl,aXA9MjAuOTcuMTk4LjI0MCZleHA9MTc3OTYzMDQzNSZlaWQ9OTYxNjEzJm9pZD0xMDgmdHlwZT1WT0QmdWlkPXNleWRIdHwzM2RmMTQ4NS1jZmNlLTRlZGUtODA0Ny0zMjExOGNjYjhkNjgmY2lkPWRjZS5zcHVycyZwdD1udWxs~hmac=b9417a424a24c7db299b8ae46a2917d3e289d500f517791b700e67d748f6e7a8/dash/live/2093666/294921-318514/manifest-d.mpd",
+            "title": "SKY SPORTS 4k",
             "type": "1"
           },
           {
             "api": "7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe",
             "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
-            "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png",
             "title": "FANCODE FHD",
             "type": "1"
           },
           {
             "api": "",
             "link": "https://chatgpt.hereisman.net/playlist/50931/load-playlist?|Referer=https://gooz.aapmains.net",
-            "logo": "",
             "title": "SPORTIFy F1 HD",
             "type": "0"
           },
           {
             "api": "c4088f5f265f9de50cffd80bf89308b7:2c4d2239d96d532b4ec2050653611003",
             "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
-            "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
             "title": "TSN SPORTS HD",
             "type": "1"
           },
           {
             "api": "",
             "link": "https://livecdn-bp-iptv.rumsport7.live/live_abr/239_abrhd.m3u8?is_vip=false&token=127920290db96c37289e17b2d795182b6190b2c0&x-sign=b97a3e382ccaf26fce916c1841cfbd26&x-time=1779551940",
-            "logo": "",
             "title": "SPORTIFy Live",
             "type": "0"
           },
           {
             "api": "",
             "link": "https://mainstreams.pro/hls/hbfkazbkaznc49.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
             "title": "SKY SPORTS HD",
             "type": "0"
           },
           {
             "api": "69021095220f3c0eae9bc24215fd692b:eb58cfe0458ed0b48f7351fa3393ad59",
             "link": "https://r.e.blueonline.tv/l/tvsmart/live/eds/Eleven_Sport_1/DHD/Manifest.mpd",
-            "logo": "",
             "title": "ELEVEN SPORTS",
             "type": "1"
           },
           {
             "api": "",
             "link": "https://instreams.pro/bil2/skyf1de/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
-            "logo": "",
             "title": "Sky F1 DE",
             "type": "0"
           },
           {
             "api": "609d795905904705028ef54653019af7:2c791eb611e57a7d7f203022bc1b9ba3",
             "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/duqbirmk0d/out/v1/40f53c7cbc95498db3afd081c377d776/cenc.mpd",
-            "logo": "",
             "title": "F1 TV FHD",
             "type": "1"
           },
           {
             "api": "2fbdaa3bea0d0323ae011b318d1db716:8726ef7eaf5b9dce15fb6aa9f80bd53f",
             "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/oboxe53wyo/out/v1/f7892a9d706d419a846d738fa22ea33e/cenc.mpd",
-            "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
             "title": "Fox Sports - AQ",
             "type": "1"
           }
@@ -101,7 +89,7 @@
           "eventName": "Formula 1 - Canada GP",
           "eventType": "null",
           "isHot": "0",
-          "startTime": "2026/05/24 19:55:00 +0000",
+          "startTime": "2026/05/24 18:30:00 +0000",
           "teamA": "Formula 1",
           "teamAFlag": "https://scdnmain.net/assets/tournament/40-c.png",
           "teamB": "Formula 1",
@@ -109,19 +97,19 @@
         },
         "formatsNew": [
           {
-            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
+            "logo": "",
             "title": "SKY SPORTS FHD"
           },
           {
-            "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
+            "logo": "",
             "title": "TSN SPORTS FHD"
           },
           {
             "logo": "",
-            "title": "SETANTA SPORTS"
+            "title": "SKY SPORTS 4k"
           },
           {
-            "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png",
+            "logo": "",
             "title": "FANCODE FHD"
           },
           {
@@ -129,7 +117,7 @@
             "title": "SportzX F1 HD"
           },
           {
-            "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
+            "logo": "",
             "title": "TSN SPORTS HD"
           },
           {
@@ -137,7 +125,7 @@
             "title": "SportzX Live"
           },
           {
-            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
+            "logo": "",
             "title": "SKY SPORTS HD"
           },
           {
@@ -153,7 +141,7 @@
             "title": "F1 TV FHD"
           },
           {
-            "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
+            "logo": "",
             "title": "Fox Sports - AQ"
           }
         ],
