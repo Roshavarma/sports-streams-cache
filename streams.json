@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-24T14:50:24.902437",
+  "last_updated": "2026-05-24T15:00:45.215761",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "08:15:25 PM 24-05-2026",
+    "Last update time": "08:25:19 PM 24-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -1187,6 +1187,13 @@
         "cat": "EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
         "channels_data": [
           {
+            "api": "038315781334424da7cdb6e44f2151a6:43d84dc66e594011991420252dee8d77",
+            "link": "https://adjara-live-eu.akamaized.net/hdntl=exp=1779716808~acl=%2F*~id=36fb73d5-8fd7-4442-a1a4-29edfb8ca880~data=hdntl,aXA9MjAuOTcuMTk4LjI0MCZleHA9MTc3OTYzMDQzOCZlaWQ9ODgwNTM2Jm9pZD0xMDgmdHlwZT1WT0QmdWlkPXNleWRIdHwzM2RmMTQ4NS1jZmNlLTRlZGUtODA0Ny0zMjExOGNjYjhkNjgmY2lkPWRjZS5zcHVycyZwdD1udWxs~hmac=345a6aa8c997488374bf009dd7dc7a719f2feb4601bd6fe1f77a99c8d3b95ca3/dash/live/2001544/303260-321984/manifest-d.mpd",
+            "logo": "",
+            "title": "SETANTA SPORTS",
+            "type": "1"
+          },
+          {
             "api": "c7f2a5c5e56147f7b4e5676ca69e22d9:d587532343ef47e4824950c7a9c9ec9f",
             "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1779716805~acl=%2f*~id=cd2e1d0b-3186-41d0-9ed6-d7a16394b589~data=hdntl,aXA9MjAuOTcuMTk4LjI0MCZleHA9MTc3OTYzMDQzNSZlaWQ9OTYxNjEzJm9pZD0xMDgmdHlwZT1WT0QmdWlkPXNleWRIdHwzM2RmMTQ4NS1jZmNlLTRlZGUtODA0Ny0zMjExOGNjYjhkNjgmY2lkPWRjZS5zcHVycyZwdD1udWxs~hmac=b9417a424a24c7db299b8ae46a2917d3e289d500f517791b700e67d748f6e7a8/dash/live/2093734/285254-321769/manifest-d.mpd",
             "logo": "",
@@ -1199,6 +1206,13 @@
             "logo": "",
             "title": "HD SERVER",
             "type": "0"
+          },
+          {
+            "api": "00220691afe41af8b1960f0f13126901:86c7aae71e67b0f7fd325ce48736f257",
+            "link": "https://g003-sle-us-cmaf-prd-fy.cdn.peacocktv.com/pck-sle/us-east-1/v1/dash/6f3f45fea6332a47667932dede90d20a96f2690c/peacock-dash-sle-4s-generic-cfd/co01/pcksle2/Content/CMAF_CTR-4s-v2/Live/channel(5021710-723568-4913548a9f0)/master_2hr.mpd?c3.ri=6a130ffb_Q1ZYMDc_0_RkFTVExZ_b91244325717&aws.sessionId=544f6a08-1c92-4e97-90a5-a7dcf7777fc6",
+            "logo": "",
+            "title": "Peacock FHD",
+            "type": "1"
           }
         ],
         "eventInfo": {
@@ -1215,11 +1229,19 @@
         "formatsNew": [
           {
             "logo": "",
+            "title": "SETANTA SPORTS"
+          },
+          {
+            "logo": "",
             "title": "SKY SPORTS FHD"
           },
           {
             "logo": "",
             "title": "HD SERVER"
+          },
+          {
+            "logo": "",
+            "title": "Peacock FHD"
           }
         ],
         "id": "439",
@@ -1231,6 +1253,27 @@
         "adsLimit": "0",
         "cat": "EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
         "channels_data": [
+          {
+            "api": "634c933d6c0f40068480d4837790ad65:2fe8fe63e5ef44f2a3d54f1ceaa3bd7e",
+            "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1779716812~acl=%2F*~id=1af07701-4aaa-44d6-be80-76218d10a621~data=hdntl,aXA9MjAuOTcuMTk4LjI0MCZleHA9MTc3OTYzMDQ0MiZlaWQ9OTYxNTM5Jm9pZD0xMDgmdHlwZT1WT0QmdWlkPXNleWRIdHwzM2RmMTQ4NS1jZmNlLTRlZGUtODA0Ny0zMjExOGNjYjhkNjgmY2lkPWRjZS5zcHVycyZwdD1udWxs~hmac=7f92add6cb087854a198ed812dc9c1338a43225a61fb81d5d81ebc22ab70c737/dash/live/2093739/285250-321792/manifest-d.mpd",
+            "logo": "",
+            "title": "SKY SPORTS FHD",
+            "type": "1"
+          },
+          {
+            "api": "f5eaae0712824e119e01cf5d3e090a7d:b9186a6b68cc4d0e9ab1f9619830c9e7",
+            "link": "https://adjara-live-eu.akamaized.net/hdntl=exp=1779716808~acl=%2F*~id=36fb73d5-8fd7-4442-a1a4-29edfb8ca880~data=hdntl,aXA9MjAuOTcuMTk4LjI0MCZleHA9MTc3OTYzMDQzOCZlaWQ9ODgwNTM2Jm9pZD0xMDgmdHlwZT1WT0QmdWlkPXNleWRIdHwzM2RmMTQ4NS1jZmNlLTRlZGUtODA0Ny0zMjExOGNjYjhkNjgmY2lkPWRjZS5zcHVycyZwdD1udWxs~hmac=345a6aa8c997488374bf009dd7dc7a719f2feb4601bd6fe1f77a99c8d3b95ca3/dash/live/2019601/303254-321985/manifest-d.mpd",
+            "logo": "",
+            "title": "SETANTA SPORTS",
+            "type": "1"
+          },
+          {
+            "api": "0022e92277767a82cb943c242908278a:0ef6a7ce7d5c36a9eacbe51436576643",
+            "link": "https://g003-sle-us-cmaf-prd-cf.cdn.peacocktv.com/pck-sle/us-east-2/v1/dash/6f3f45fea6332a47667932dede90d20a96f2690c/peacock-dash-sle-4s-generic-cfd/co01/pcksle2/Content/CMAF_CTR-4s-v2/Live/channel(5021719-723577-49135d1fe39)/master_2hr.mpd?c3.ri=6a130f6f_Q1ZYMDc_0_Q0xPVURGUk9OVA_13861659f2ca&aws.sessionId=2ff2c1d1-f23e-4db6-be0b-acb32decde4e",
+            "logo": "",
+            "title": "Peacock FHD",
+            "type": "1"
+          },
           {
             "api": "",
             "link": "https://instreams.pro/US/NFLHD9/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
@@ -1253,6 +1296,18 @@
         "formatsNew": [
           {
             "logo": "",
+            "title": "SKY SPORTS FHD"
+          },
+          {
+            "logo": "",
+            "title": "SETANTA SPORTS"
+          },
+          {
+            "logo": "",
+            "title": "Peacock FHD"
+          },
+          {
+            "logo": "",
             "title": "HD SERVER"
           }
         ],
@@ -1266,10 +1321,24 @@
         "cat": "EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
         "channels_data": [
           {
+            "api": "f0efb833e996482e8e055db986a69e5b:5626c9f642ed4713b020e97312e6f49b",
+            "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1779716803~acl=%2f*~id=e3c0718d-26eb-451b-b368-a9fbedc1b4e4~data=hdntl,aXA9MjAuOTcuMTk4LjI0MCZleHA9MTc3OTYzMDQzMyZlaWQ9OTYxOTI1Jm9pZD0xMDgmdHlwZT1WT0QmdWlkPXNleWRIdHwzM2RmMTQ4NS1jZmNlLTRlZGUtODA0Ny0zMjExOGNjYjhkNjgmY2lkPWRjZS5zcHVycyZwdD1udWxs~hmac=800bc367bc4fbebb5232949fb01a993338ba9807309cf0e71c39a0c15060d608/dash/live/2093732/285252-321767/manifest-d.mpd",
+            "logo": "",
+            "title": "SKY SPORTS FHD",
+            "type": "1"
+          },
+          {
+            "api": "61f95fae50f34152ab0d3ecb808b649a:85525bbf07ad4e9fba30634499e8a0b7",
+            "link": "https://adjara-live-eu.akamaized.net/hdntl=exp=1779716803~acl=%2F*~id=e3c0718d-26eb-451b-b368-a9fbedc1b4e4~data=hdntl,aXA9MjAuOTcuMTk4LjI0MCZleHA9MTc3OTYzMDQzMyZlaWQ9OTYxOTI1Jm9pZD0xMDgmdHlwZT1WT0QmdWlkPXNleWRIdHwzM2RmMTQ4NS1jZmNlLTRlZGUtODA0Ny0zMjExOGNjYjhkNjgmY2lkPWRjZS5zcHVycyZwdD1udWxs~hmac=800bc367bc4fbebb5232949fb01a993338ba9807309cf0e71c39a0c15060d608/dash/live/2019644/303258-321982/manifest-d.mpd",
+            "logo": "",
+            "title": "SETANTA SPORTS",
+            "type": "1"
+          },
+          {
             "api": "7a2758575dc04d63acc3573ab594d441:47071dd80de746a38cdc6a4dcde21abc",
             "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1779716803~acl=%2f*~id=e3c0718d-26eb-451b-b368-a9fbedc1b4e4~data=hdntl,aXA9MjAuOTcuMTk4LjI0MCZleHA9MTc3OTYzMDQzMyZlaWQ9OTYxOTI1Jm9pZD0xMDgmdHlwZT1WT0QmdWlkPXNleWRIdHwzM2RmMTQ4NS1jZmNlLTRlZGUtODA0Ny0zMjExOGNjYjhkNjgmY2lkPWRjZS5zcHVycyZwdD1udWxs~hmac=800bc367bc4fbebb5232949fb01a993338ba9807309cf0e71c39a0c15060d608/dash/live/2093712/219035-321027/manifest-d.mpd",
             "logo": "",
-            "title": "SKY SPORTS FHD",
+            "title": "SKY SPORTS GOAL",
             "type": "1"
           },
           {
@@ -1278,6 +1347,13 @@
             "logo": "",
             "title": "HD SERVER",
             "type": "0"
+          },
+          {
+            "api": "002278457fcc0563131cecc54baf88a9:efd9684bad5063ce6f2f02426567ee81",
+            "link": "https://g003-sle-us-cmaf-prd-cf.cdn.peacocktv.com/pck-sle/us-east-2/v1/dash/6f3f45fea6332a47667932dede90d20a96f2690c/peacock-dash-sle-4s-generic-cfd/co01/pcksle2/Content/CMAF_CTR-4s-v2/Live/channel(5021691-723549-4913426bf1d)/master_2hr.mpd?c3.ri=6a130e6b_Q1ZYMDc_0_Q0xPVURGUk9OVA_1885cbf65660&aws.sessionId=43333427-61df-411d-84f5-92bf173c1a23",
+            "logo": "",
+            "title": "Peacock FHD",
+            "type": "1"
           }
         ],
         "eventInfo": {
@@ -1298,7 +1374,19 @@
           },
           {
             "logo": "",
+            "title": "SETANTA SPORTS"
+          },
+          {
+            "logo": "",
+            "title": "SKY SPORTS GOAL"
+          },
+          {
+            "logo": "",
             "title": "HD SERVER"
+          },
+          {
+            "logo": "",
+            "title": "Peacock FHD"
           }
         ],
         "id": "441",
@@ -1379,6 +1467,13 @@
         "cat": "EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
         "channels_data": [
           {
+            "api": "0022a1c52a3d9196a80d271f2f8b8f35:b3eb3ff3303ae038d016668263ddf78c",
+            "link": "https://g003-sle-us-cmaf-prd-cf.cdn.peacocktv.com/pck-sle/us-east-1/v1/dash/6f3f45fea6332a47667932dede90d20a96f2690c/peacock-dash-sle-4s-generic-cfd/co01/pcksle2/Content/CMAF_CTR-4s-v2/Live/channel(5021728-723586-491365b5282)/master_2hr.mpd?c3.ri=6a13102e_Q1ZYMDc_0_Q0xPVURGUk9OVA_85289a667bd8&aws.sessionId=1417c45f-d923-47a1-a8b9-69e3b14ecbd8",
+            "logo": "",
+            "title": "Peacock FHD",
+            "type": "1"
+          },
+          {
             "api": "",
             "link": "https://instreams.pro/US/NFLHD2/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
             "logo": "",
@@ -1400,6 +1495,10 @@
         "formatsNew": [
           {
             "logo": "",
+            "title": "Peacock FHD"
+          },
+          {
+            "logo": "",
             "title": "HD SERVER"
           }
         ],
@@ -1412,6 +1511,20 @@
         "adsLimit": "0",
         "cat": "EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
         "channels_data": [
+          {
+            "api": "fdd24dd2c6c14126ad7c1ad1066b03dd:08289c6d57d54e8d8dca55e1862afb82",
+            "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1779716808~acl=%2F*~id=36fb73d5-8fd7-4442-a1a4-29edfb8ca880~data=hdntl,aXA9MjAuOTcuMTk4LjI0MCZleHA9MTc3OTYzMDQzOCZlaWQ9ODgwNTM2Jm9pZD0xMDgmdHlwZT1WT0QmdWlkPXNleWRIdHwzM2RmMTQ4NS1jZmNlLTRlZGUtODA0Ny0zMjExOGNjYjhkNjgmY2lkPWRjZS5zcHVycyZwdD1udWxs~hmac=345a6aa8c997488374bf009dd7dc7a719f2feb4601bd6fe1f77a99c8d3b95ca3/dash/live/2093722/219032-321033/manifest-d.mpd",
+            "logo": "",
+            "title": "SKY SPORTS FHD",
+            "type": "1"
+          },
+          {
+            "api": "87918e2ae72c46c986ff31677ec0293b:bba27a2e110f49b79b866684853b8c52",
+            "link": "https://adjara-live-eu.akamaized.net/hdntl=exp=1779716812~acl=%2F*~id=1af07701-4aaa-44d6-be80-76218d10a621~data=hdntl,aXA9MjAuOTcuMTk4LjI0MCZleHA9MTc3OTYzMDQ0MiZlaWQ9OTYxNTM5Jm9pZD0xMDgmdHlwZT1WT0QmdWlkPXNleWRIdHwzM2RmMTQ4NS1jZmNlLTRlZGUtODA0Ny0zMjExOGNjYjhkNjgmY2lkPWRjZS5zcHVycyZwdD1udWxs~hmac=7f92add6cb087854a198ed812dc9c1338a43225a61fb81d5d81ebc22ab70c737/dash/live/2005781/303246-321971/manifest-d.mpd",
+            "logo": "",
+            "title": "SETANTA SPORTS",
+            "type": "1"
+          },
           {
             "api": "",
             "link": "https://instreams.pro/US/NFLHD1/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
@@ -1434,6 +1547,14 @@
         "formatsNew": [
           {
             "logo": "",
+            "title": "SKY SPORTS FHD"
+          },
+          {
+            "logo": "",
+            "title": "SETANTA SPORTS"
+          },
+          {
+            "logo": "",
             "title": "HD SERVER"
           }
         ],
@@ -1446,6 +1567,27 @@
         "adsLimit": "0",
         "cat": "EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
         "channels_data": [
+          {
+            "api": "32fa2de6afce4163b9f809e7476c4980:2f774ecf588842a9b3d79bf043046bfa",
+            "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1779716810~acl=%2F*~id=fafefc95-635e-4e0d-ac2d-24d2bf8963f8~data=hdntl,aXA9MjAuOTcuMTk4LjI0MCZleHA9MTc3OTYzMDQ0MCZlaWQ9OTYxNjA0Jm9pZD0xMDgmdHlwZT1WT0QmdWlkPXNleWRIdHwzM2RmMTQ4NS1jZmNlLTRlZGUtODA0Ny0zMjExOGNjYjhkNjgmY2lkPWRjZS5zcHVycyZwdD1udWxs~hmac=183a25a7ecc2a191fbf6ed5293ed1502669a94be9f30bbdccd5ba99d3f809ab7/dash/live/2093735/285251-321770/manifest-d.mpd",
+            "logo": "",
+            "title": "SKY SPORTS FHD",
+            "type": "1"
+          },
+          {
+            "api": "345d0efee9e1460fafbc5befc35f5f39:c9df1d24588f4be6bc65b6023df859fd",
+            "link": "https://adjara-live-eu.akamaized.net/hdntl=exp=1779716803~acl=%2F*~id=e3c0718d-26eb-451b-b368-a9fbedc1b4e4~data=hdntl,aXA9MjAuOTcuMTk4LjI0MCZleHA9MTc3OTYzMDQzMyZlaWQ9OTYxOTI1Jm9pZD0xMDgmdHlwZT1WT0QmdWlkPXNleWRIdHwzM2RmMTQ4NS1jZmNlLTRlZGUtODA0Ny0zMjExOGNjYjhkNjgmY2lkPWRjZS5zcHVycyZwdD1udWxs~hmac=800bc367bc4fbebb5232949fb01a993338ba9807309cf0e71c39a0c15060d608/dash/live/2019474/303248-321973/manifest-d.mpd",
+            "logo": "",
+            "title": "SETANTA SPORTS",
+            "type": "1"
+          },
+          {
+            "api": "0022609641da08eda9f43ee284e0a001:bbbda7b4cdddf6b0d5b62d05bf010931",
+            "link": "https://g003-sle-us-cmaf-prd-ak.cdn.peacocktv.com/pck-sle/us-east-1/v1/dash/6f3f45fea6332a47667932dede90d20a96f2690c/peacock-dash-sle-4s-generic-cfd/co01/pcksle2/Content/CMAF_CTR-4s-v2/Live/channel(5021722-723580-49135ffc4fc)/master_2hr.mpd?c3.ri=6a13106e_Q1ZYMDc_0_QUtBTUFJ_9af42fd79cba&aws.sessionId=2e06c0ca-ec3d-40ee-944d-efa33325087a",
+            "logo": "",
+            "title": "Peacock FHD",
+            "type": "1"
+          },
           {
             "api": "",
             "link": "https://instreams.pro/US/NFLHD6/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
@@ -1468,6 +1610,18 @@
         "formatsNew": [
           {
             "logo": "",
+            "title": "SKY SPORTS FHD"
+          },
+          {
+            "logo": "",
+            "title": "SETANTA SPORTS"
+          },
+          {
+            "logo": "",
+            "title": "Peacock FHD"
+          },
+          {
+            "logo": "",
             "title": "HD SERVER"
           }
         ],
@@ -1480,6 +1634,13 @@
         "adsLimit": "0",
         "cat": "EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
         "channels_data": [
+          {
+            "api": "0022609641da08eda9f43ee284e0a001:bbbda7b4cdddf6b0d5b62d05bf010931",
+            "link": "https://g003-sle-us-cmaf-prd-ak.cdn.peacocktv.com/pck-sle/us-east-1/v1/dash/6f3f45fea6332a47667932dede90d20a96f2690c/peacock-dash-sle-4s-generic-cfd/co01/pcksle2/Content/CMAF_CTR-4s-v2/Live/channel(5021722-723580-49135ffc4fc)/master_2hr.mpd?c3.ri=6a13106e_Q1ZYMDc_0_QUtBTUFJ_9af42fd79cba&aws.sessionId=2e06c0ca-ec3d-40ee-944d-efa33325087a",
+            "logo": "",
+            "title": "Peacock FHD",
+            "type": "1"
+          },
           {
             "api": "",
             "link": "https://instreams.pro/US/NFLHD7/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
@@ -1502,6 +1663,10 @@
         "formatsNew": [
           {
             "logo": "",
+            "title": "Peacock FHD"
+          },
+          {
+            "logo": "",
             "title": "HD SERVER"
           }
         ],
@@ -1515,11 +1680,32 @@
         "cat": "EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
         "channels_data": [
           {
+            "api": "d2d91b0407dd44c38f4cd4904088d040:df4a73feae304ca6a677561b1470320b",
+            "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1779716812~acl=%2F*~id=1af07701-4aaa-44d6-be80-76218d10a621~data=hdntl,aXA9MjAuOTcuMTk4LjI0MCZleHA9MTc3OTYzMDQ0MiZlaWQ9OTYxNTM5Jm9pZD0xMDgmdHlwZT1WT0QmdWlkPXNleWRIdHwzM2RmMTQ4NS1jZmNlLTRlZGUtODA0Ny0zMjExOGNjYjhkNjgmY2lkPWRjZS5zcHVycyZwdD1udWxs~hmac=7f92add6cb087854a198ed812dc9c1338a43225a61fb81d5d81ebc22ab70c737/dash/live/2093738/285249-321791/manifest-d.mpd",
+            "logo": "",
+            "title": "SKY SPORTS FHD",
+            "type": "1"
+          },
+          {
+            "api": "158500f329f04d43b123c2e923cddb0c:d23b64d0e162417894d2b6bb56faaac3",
+            "link": "https://adjara-live-eu.akamaized.net/hdntl=exp=1779716803~acl=%2F*~id=e3c0718d-26eb-451b-b368-a9fbedc1b4e4~data=hdntl,aXA9MjAuOTcuMTk4LjI0MCZleHA9MTc3OTYzMDQzMyZlaWQ9OTYxOTI1Jm9pZD0xMDgmdHlwZT1WT0QmdWlkPXNleWRIdHwzM2RmMTQ4NS1jZmNlLTRlZGUtODA0Ny0zMjExOGNjYjhkNjgmY2lkPWRjZS5zcHVycyZwdD1udWxs~hmac=800bc367bc4fbebb5232949fb01a993338ba9807309cf0e71c39a0c15060d608/dash/live/2005771/303245-321970/manifest-d.mpd",
+            "logo": "",
+            "title": "SETANTA SPORTS",
+            "type": "1"
+          },
+          {
             "api": "",
             "link": "https://instreams.pro/US/NFLHD4/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
             "logo": "",
             "title": "HD SERVER",
             "type": "0"
+          },
+          {
+            "api": "0022b7612df55b75c3943383271fc22f:d5ca0c9515156c30cf8685514d408d75",
+            "link": "https://g003-sle-us-cmaf-prd-fy.cdn.peacocktv.com/pck-sle/us-east-1/v1/dash/6f3f45fea6332a47667932dede90d20a96f2690c/peacock-dash-sle-4s-generic-cfd/co01/pcksle2/Content/CMAF_CTR-4s-v2/Live/channel(5021729-723587-491366a94c3)/master_2hr.mpd?c3.ri=6a1310f5_Q1ZYMDc_1_RkFTVExZ_d6ee29ea8990&aws.sessionId=e987557d-c201-400f-b047-569ca9faa488",
+            "logo": "",
+            "title": "Peacock FHD",
+            "type": "1"
           }
         ],
         "eventInfo": {
@@ -1536,7 +1722,19 @@
         "formatsNew": [
           {
             "logo": "",
+            "title": "SKY SPORTS FHD"
+          },
+          {
+            "logo": "",
+            "title": "SETANTA SPORTS"
+          },
+          {
+            "logo": "",
             "title": "HD SERVER"
+          },
+          {
+            "logo": "",
+            "title": "Peacock FHD"
           }
         ],
         "id": "448",
