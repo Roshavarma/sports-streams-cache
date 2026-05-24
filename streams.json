@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-24T01:20:21.642500",
+  "last_updated": "2026-05-24T01:30:32.991796",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "06:45:25 AM 24-05-2026",
+    "Last update time": "06:55:16 AM 24-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -1070,39 +1070,6 @@
         "channels_data": [
           {
             "api": "",
-            "link": "https://mainstreams.pro/hls/ztyarueaghj71.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
-            "title": "SPORTIFy Live",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/24 00:30:00 +0000",
-          "eventName": "Toronto Tempo vs Portland Fire",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/23 22:00:00 +0000",
-          "teamA": "Tempo",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/1166445/image",
-          "teamB": "Fire",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/1166446/image"
-        },
-        "formatsNew": [
-          {
-            "logo": "",
-            "title": "SportzX Live"
-          }
-        ],
-        "id": "378",
-        "image": "o",
-        "publish": "1",
-        "title": "Toronto Tempo vs Portland Fire"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "WNBA",
-        "channels_data": [
-          {
-            "api": "",
             "link": "https://mainstreams.pro/hls/pllmazjkdzajh72.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
             "title": "SPORTIFy Live",
             "type": "0"
@@ -1413,129 +1380,6 @@
         "image": "o",
         "publish": "1",
         "title": "WWE Saturday Night"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "Boxing",
-        "channels_data": [
-          {
-            "api": "",
-            "link": "https://chatgpt.hereisman.net/playlist/50991/load-playlist?|Referer=https://gooz.aapmains.net",
-            "logo": "",
-            "title": "DAZN SPORTS HD",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://601.teicontools.com.br/ppv.m3u8",
-            "logo": "",
-            "title": "SPORTIFy Live",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://bo6.bofiles.cfd/live/usyk/stream.m3u8",
-            "logo": "",
-            "title": "SPORTIFy Boxing",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://streamxyz.shop/boxing/tracks-v1a1/mono.ts.m3u8",
-            "logo": "",
-            "title": "SPY HD LIVE",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://aegis-cloudfront-1.tubi.video/bfad29e2-5bee-44f3-8256-127324e8b106/playlist.m3u8",
-            "logo": "",
-            "title": "DAZN SPORTS FHD",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://26hrwgorfcmh.windows-devs.top/AccessLog2/108084_HD/apache.m3u8|Referer=https://26hrwgorfcmh.windows-devs.top/",
-            "logo": "",
-            "title": "SD SERVER",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/23 23:00:00 +0000",
-          "eventBanner": "https://iili.io/CH13BsV.png",
-          "eventName": "Boxing WBA: Usyk vs Rico",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/23 17:00:00 +0000",
-          "teamA": "O. Usyk",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/1042779/image",
-          "teamB": "R. Verhoeven",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/1228387/image"
-        },
-        "formatsNew": [
-          {
-            "logo": "",
-            "title": "DAZN SPORTS HD"
-          },
-          {
-            "logo": "",
-            "title": "SportzX Live"
-          },
-          {
-            "logo": "",
-            "title": "SportzX Boxing"
-          },
-          {
-            "logo": "",
-            "title": "SPX HD LIVE"
-          },
-          {
-            "logo": "",
-            "title": "DAZN SPORTS FHD"
-          },
-          {
-            "logo": "",
-            "title": "SD SERVER"
-          }
-        ],
-        "id": "401",
-        "image": "o",
-        "publish": "1",
-        "title": "Usyk and Rico"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "MLB",
-        "channels_data": [
-          {
-            "api": "",
-            "link": "https://mainstreams.pro/hls/jnzkdzjfanch23.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-            "title": "SPORTIFy Live",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/23 23:10:00 +0000",
-          "eventName": "Atlanta Braves vs Nationals",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/23 20:10:00 +0000",
-          "teamA": "Braves",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3656/image",
-          "teamB": "Nationals",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/5930/image"
-        },
-        "formatsNew": [
-          {
-            "logo": "",
-            "title": "SportzX Live"
-          }
-        ],
-        "id": "427",
-        "image": "o",
-        "publish": "1",
-        "title": "Atlanta Braves vs Nationals"
       },
       {
         "adsLimit": "0",
