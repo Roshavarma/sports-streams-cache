@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-24T19:00:42.099303",
+  "last_updated": "2026-05-24T19:10:20.687391",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "12:25:20 AM 25-05-2026",
+    "Last update time": "12:35:22 AM 25-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -1380,6 +1380,61 @@
       },
       {
         "adsLimit": "0",
+        "cat": "WWE",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://26hrwgorfcmh.windows-devs.top/AccessLog2/83_FHD/apache.m3u8|Referer=https://26hrwgorfcmh.windows-devs.top/",
+            "logo": "",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://26hrwgorfcmh.windows-devs.top/AccessLog2/108085_HD/apache.m3u8|referer=https://26hrwgorfcmh.windows-devs.top/",
+            "logo": "",
+            "title": "HD SERVER",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://26hrwgorfcmh.windows-devs.top/AccessLog2/108085_LQ/apache.m3u8|referer=https://26hrwgorfcmh.windows-devs.top/",
+            "logo": "",
+            "title": "SD SERVER",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/25 02:30:00 +0000",
+          "eventName": "AEW Double or Nothing",
+          "eventType": "null",
+          "startTime": "2026/05/25 00:00:00 +0000",
+          "teamA": "AEW",
+          "teamAFlag": "https://upload.wikimedia.org/wikipedia/commons/3/35/AEW_Double_or_Nothing_logo.png",
+          "teamB": "AEW",
+          "teamBFlag": "https://upload.wikimedia.org/wikipedia/commons/3/35/AEW_Double_or_Nothing_logo.png"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "SportzX Live"
+          },
+          {
+            "logo": "",
+            "title": "HD SERVER"
+          },
+          {
+            "logo": "",
+            "title": "SD SERVER"
+          }
+        ],
+        "id": "400",
+        "image": "o",
+        "publish": "1",
+        "title": "AEW Double or Nothing"
+      },
+      {
+        "adsLimit": "0",
         "cat": "Serie A 🇮🇹",
         "channels_data": [
           {
@@ -1412,6 +1467,39 @@
         "image": "o",
         "publish": "1",
         "title": "Serie A MULTIVIEW"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "Liga MX",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://fallback-video.ivan-flux.workers.dev/video/index.m3u8",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/25 03:00:00 +0000",
+          "eventName": "Pumas UNAM vs Cruz Azul",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/25 01:00:00 +0000",
+          "teamA": "Pumas",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/1933/image",
+          "teamB": "Cruz Azul",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/1947/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "SportzX Live"
+          }
+        ],
+        "id": "438",
+        "image": "o",
+        "publish": "1",
+        "title": "Pumas UNAM vs Cruz Azul"
       },
       {
         "adsLimit": "0",
@@ -1925,118 +2013,6 @@
         "image": "o",
         "publish": "1",
         "title": "Villarreal vs Atlético Madrid"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "Eredivisie",
-        "channels_data": [
-          {
-            "api": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f",
-            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
-            "logo": "",
-            "title": "PREMIER SPORTS",
-            "type": "1"
-          },
-          {
-            "api": "45a884dfcd874b70a92031341c9934e2:9ed77e6c10724bbeba270df44f9d1468",
-            "link": "https://adjara-live-eu.akamaized.net/hdntl=exp=1779698208~acl=%2f*~id=1fc77b9f-6def-4555-9bf4-57a305e3124b~data=hdntl,aXA9MjAuMTYxLjQ0LjE3OCZleHA9MTc3OTYxMTgzOCZlaWQ9OTYxNjEzJm9pZD0xMDgmdHlwZT1WT0QmdWlkPW54ZkJBM3w5OWU3MGNlYy0yYmVkLTQyNmQtODdkNi0zNmFhM2E1YTMzYWMmY2lkPWRjZS5zcHVycyZwdD1udWxs~hmac=c3f9ce712607b34af4bfe3c88f371d125a4ec7234c3784bc2bb46b55a5a43c3c/dash/live/2001629/303650-321961/manifest-d.mpd",
-            "logo": "",
-            "title": "SETANTA SPORTS",
-            "type": "1"
-          },
-          {
-            "api": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
-            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
-            "logo": "",
-            "title": "SportDigital Fussball",
-            "type": "1"
-          },
-          {
-            "api": "",
-            "link": "https://play.ltwxsc.com/live/sd-6Mwe5ZtfDLR7WDsCsx.m3u8?txSecret=95987cecd07f8cfa33de3113bc37f60e&txTime=6A12F8A9",
-            "logo": "",
-            "title": "SPORTIFy Live",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/24 12:15:00 +0000",
-          "eventName": "AFC Ajax vs Utrecht",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/24 10:15:00 +0000",
-          "teamA": "Ajax",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2953/image",
-          "teamB": "Utrecht",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2948/image"
-        },
-        "formatsNew": [
-          {
-            "logo": "",
-            "title": "PREMIER SPORTS"
-          },
-          {
-            "logo": "",
-            "title": "SETANTA SPORTS"
-          },
-          {
-            "logo": "",
-            "title": "SportDigital Fussball"
-          },
-          {
-            "logo": "",
-            "title": "SportzX Live"
-          }
-        ],
-        "id": "458",
-        "image": "o",
-        "publish": "1",
-        "title": "AFC Ajax vs Utrecht"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "Taça de Portugal",
-        "channels_data": [
-          {
-            "api": "",
-            "link": "https://play.ltwxsc.com/live/sd-6MwdLRKHJ1R9GNKD5p.m3u8?txSecret=4c22024fb934c7019207aaa22f484690&txTime=6A134F62",
-            "logo": "",
-            "title": "SPORTIFy Live",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "http://193.47.62.42/hls/FFFFF.m3u8|referer=http://www.fawanews.sc/",
-            "logo": "",
-            "title": "SD SERVER",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/24 18:15:00 +0000",
-          "eventName": "Sporting CP vs Torreense",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/24 16:15:00 +0000",
-          "teamA": "Sporting",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3001/image",
-          "teamB": "Torreense",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/25787/image"
-        },
-        "formatsNew": [
-          {
-            "logo": "",
-            "title": "SportzX Live"
-          },
-          {
-            "logo": "",
-            "title": "SD SERVER"
-          }
-        ],
-        "id": "459",
-        "image": "o",
-        "publish": "1",
-        "title": "Sporting CP vs Torreense"
       },
       {
         "adsLimit": "0",
@@ -2787,6 +2763,115 @@
         "image": "o",
         "publish": "1",
         "title": "Cruzeiro vs Chapecoense"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "Brasileirão",
+        "channels_data": [
+          {
+            "api": "9dc40460c93087aea84d6315f08ecb64:f69c8d4624fddff4ca89bd0b31bdc4a7",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/oy6rp0jwmf/out/v1/580ecf12bad24979baf8dd993dce053e/cenc.mpd",
+            "title": "PREMIERER BR",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/24 23:30:00 +0000",
+          "eventName": "Corinthians vs Atlético Mineiro",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/24 21:30:00 +0000",
+          "teamA": "Corinthians",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/1957/image",
+          "teamB": "Atlético-MG",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/1977/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "PREMIERER BR"
+          }
+        ],
+        "id": "480",
+        "image": "o",
+        "publish": "1",
+        "title": "Corinthians vs Atlético Mineiro"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "Brasileirão",
+        "channels_data": [
+          {
+            "api": "4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733",
+            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd",
+            "title": "SporTV BR FHD",
+            "type": "1"
+          },
+          {
+            "api": "56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd",
+            "title": "PREMIERER BR",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/25 01:30:00 +0000",
+          "eventName": "Vasco da Gama vs Bragantino",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/24 23:30:00 +0000",
+          "teamA": "Vasco",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/1974/image",
+          "teamB": "RB Bragantino",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/1999/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "SporTV BR FHD"
+          },
+          {
+            "logo": "",
+            "title": "PREMIERER BR"
+          }
+        ],
+        "id": "481",
+        "image": "o",
+        "publish": "1",
+        "title": "Vasco da Gama vs Bragantino"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "MLS 🇺🇸",
+        "channels_data": [
+          {
+            "api": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
+            "title": "FOX DEPORTES",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/25 01:00:00 +0000",
+          "eventName": "Inter Miami vs Philadelphia Union",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/24 23:00:00 +0000",
+          "teamA": "Inter Miami",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/337602/image",
+          "teamB": "Philadelphia",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/39833/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "FOX DEPORTES"
+          }
+        ],
+        "id": "482",
+        "image": "o",
+        "publish": "1",
+        "title": "Inter Miami vs Philadelphia Union"
       }
     ]
   }
