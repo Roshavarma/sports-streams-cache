@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-24T02:30:31.207948",
+  "last_updated": "2026-05-24T02:40:20.640088",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "07:55:19 AM 24-05-2026",
+    "Last update time": "08:05:19 AM 24-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -1096,69 +1096,6 @@
         "image": "o",
         "publish": "1",
         "title": "Aces vs Sparks"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "NHL",
-        "channels_data": [
-          {
-            "api": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
-            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
-            "title": "PREMIER SPORTS",
-            "type": "1"
-          },
-          {
-            "api": "a01e1e0d5fb145b8b33190588490a27a:bfd9e3b0866e49cbae1bb7f7116451c9",
-            "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1779650339~acl=%2F*~id=67f01e74-9ebc-40c1-a53b-83235cc9b59a~data=hdntl,aXA9MTcyLjE3OC4xMTkuMTE0JmV4cD0xNzc5NTYzOTY5JmVpZD05NjE1Mzkmb2lkPTEwOCZ0eXBlPVZPRCZ1aWQ9c1VQVk5vfDMwMzk2YmViLTdjN2YtNDZkOC1iZDEwLTIzZjg4NWRjNDFkZSZjaWQ9ZGNlLnNwdXJzJnB0PW51bGw~hmac=67635eced926a91fa46db60891128fc65a440530a70cb8cf74137c5caf579c43/dash/live/2093724/219039-321035/manifest-d.mpd",
-            "title": "ESPN SPORTS HD",
-            "type": "1"
-          },
-          {
-            "api": "",
-            "link": "https://edge2caster.pro/hls/uyopzarf50.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
-            "title": "SPORTIFy Live",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://instreams.pro/US/NHL1/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
-            "title": "HD SERVER",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/24 02:00:00 +0000",
-          "eventName": "Carolina Hurricanes vs Montréal Canadiens",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/23 23:00:00 +0000",
-          "teamA": "Hurricanes",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3680/image",
-          "teamB": "Canadiens",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3690/image"
-        },
-        "formatsNew": [
-          {
-            "logo": "",
-            "title": "PREMIER SPORTS"
-          },
-          {
-            "logo": "",
-            "title": "ESPN SPORTS HD"
-          },
-          {
-            "logo": "",
-            "title": "SportzX Live"
-          },
-          {
-            "logo": "",
-            "title": "HD SERVER"
-          }
-        ],
-        "id": "386",
-        "image": "o",
-        "publish": "1",
-        "title": "Carolina Hurricanes"
       },
       {
         "adsLimit": "0",
