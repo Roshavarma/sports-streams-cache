@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-24T18:40:21.615290",
+  "last_updated": "2026-05-24T18:46:40.296836",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "12:05:18 AM 25-05-2026",
+    "Last update time": "12:15:25 AM 25-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -1005,14 +1005,23 @@
         "cat": "NBA",
         "channels_data": [
           {
+            "api": "326058ffe1cd4d3383781b36ca9145d1:99d405d46f114eff96789673e57d0121",
+            "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1779716803~acl=%2F*~id=e3c0718d-26eb-451b-b368-a9fbedc1b4e4~data=hdntl,aXA9MjAuOTcuMTk4LjI0MCZleHA9MTc3OTYzMDQzMyZlaWQ9OTYxOTI1Jm9pZD0xMDgmdHlwZT1WT0QmdWlkPXNleWRIdHwzM2RmMTQ4NS1jZmNlLTRlZGUtODA0Ny0zMjExOGNjYjhkNjgmY2lkPWRjZS5zcHVycyZwdD1udWxs~hmac=800bc367bc4fbebb5232949fb01a993338ba9807309cf0e71c39a0c15060d608/dash/live/2093723/219038-321034/manifest-d.mpd",
+            "logo": "",
+            "title": "ESPN SPORTS FHD",
+            "type": "1"
+          },
+          {
             "api": "",
             "link": "https://mainstreams.pro/hls/mlkijfezag65.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+            "logo": "",
             "title": "SPORTIFy Live",
             "type": "0"
           },
           {
             "api": "",
             "link": "https://instreams.pro/US/NBA1/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
+            "logo": "",
             "title": "HD SERVER",
             "type": "0"
           }
@@ -1029,6 +1038,10 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/3418/image"
         },
         "formatsNew": [
+          {
+            "logo": "",
+            "title": "ESPN SPORTS FHD"
+          },
           {
             "logo": "",
             "title": "SportzX Live"
@@ -1094,7 +1107,15 @@
         "channels_data": [
           {
             "api": "",
-            "link": "https://mainstreams.pro/hls/ztyarueaghj71.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+            "link": "https://chatgpt.hereisman.net/playlist/51135/load-playlist?|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "title": "SPORTIFy WNBA",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://mainstreams.pro/hls/ztyarueaghj71.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+            "logo": "",
             "title": "SPORTIFy Live",
             "type": "0"
           }
@@ -1111,6 +1132,10 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/3450/image"
         },
         "formatsNew": [
+          {
+            "logo": "",
+            "title": "SportzX WNBA"
+          },
           {
             "logo": "",
             "title": "SportzX Live"
@@ -1354,11 +1379,11 @@
         "cat": "Serie A 🇮🇹",
         "channels_data": [
           {
-            "api": "",
-            "link": "https://fallback-video.ivan-flux.workers.dev/video/index.m3u8",
+            "api": "eacdb9a620b44e76bb2c6020a2c160b7:b8611a06d1764c36bd202643f38802eb",
+            "link": "https://adjara-live-eu.akamaized.net/hdntl=exp=1779716810~acl=%2F*~id=fafefc95-635e-4e0d-ac2d-24d2bf8963f8~data=hdntl,aXA9MjAuOTcuMTk4LjI0MCZleHA9MTc3OTYzMDQ0MCZlaWQ9OTYxNjA0Jm9pZD0xMDgmdHlwZT1WT0QmdWlkPXNleWRIdHwzM2RmMTQ4NS1jZmNlLTRlZGUtODA0Ny0zMjExOGNjYjhkNjgmY2lkPWRjZS5zcHVycyZwdD1udWxs~hmac=183a25a7ecc2a191fbf6ed5293ed1502669a94be9f30bbdccd5ba99d3f809ab7/dash/live/2019456/303593-322017/manifest-d.mpd",
             "logo": "",
-            "title": "SPORTIFy Live",
-            "type": "0"
+            "title": "SETANTA SPORTS",
+            "type": "1"
           }
         ],
         "eventInfo": {
@@ -1376,7 +1401,7 @@
         "formatsNew": [
           {
             "logo": "",
-            "title": "SportzX Live"
+            "title": "SETANTA SPORTS"
           }
         ],
         "id": "401",
@@ -1489,6 +1514,13 @@
         "cat": "Serie A 🇮🇹",
         "channels_data": [
           {
+            "api": "b7202ef399aa4fd989d2e3d1c2d6b044:14766a91041e43efbe12d8067ea78273",
+            "link": "https://adjara-live-eu.akamaized.net/hdntl=exp=1779716812~acl=%2F*~id=1af07701-4aaa-44d6-be80-76218d10a621~data=hdntl,aXA9MjAuOTcuMTk4LjI0MCZleHA9MTc3OTYzMDQ0MiZlaWQ9OTYxNTM5Jm9pZD0xMDgmdHlwZT1WT0QmdWlkPXNleWRIdHwzM2RmMTQ4NS1jZmNlLTRlZGUtODA0Ny0zMjExOGNjYjhkNjgmY2lkPWRjZS5zcHVycyZwdD1udWxs~hmac=7f92add6cb087854a198ed812dc9c1338a43225a61fb81d5d81ebc22ab70c737/dash/live/2001541/303371-322012/manifest-d.mpd",
+            "logo": "",
+            "title": "SETANTA SPORTS",
+            "type": "1"
+          },
+          {
             "api": "335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281",
             "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd",
             "logo": "",
@@ -1524,6 +1556,10 @@
         "formatsNew": [
           {
             "logo": "",
+            "title": "SETANTA SPORTS"
+          },
+          {
+            "logo": "",
             "title": "beIN ENGLISH"
           },
           {
@@ -1545,8 +1581,16 @@
         "cat": "Serie A 🇮🇹",
         "channels_data": [
           {
+            "api": "4eee982ad1194dd9b1899b31873d8fe0:aa50a814761044c380577edd4752063a",
+            "link": "https://adjara-live-eu.akamaized.net/hdntl=exp=1779716803~acl=%2F*~id=e3c0718d-26eb-451b-b368-a9fbedc1b4e4~data=hdntl,aXA9MjAuOTcuMTk4LjI0MCZleHA9MTc3OTYzMDQzMyZlaWQ9OTYxOTI1Jm9pZD0xMDgmdHlwZT1WT0QmdWlkPXNleWRIdHwzM2RmMTQ4NS1jZmNlLTRlZGUtODA0Ny0zMjExOGNjYjhkNjgmY2lkPWRjZS5zcHVycyZwdD1udWxs~hmac=800bc367bc4fbebb5232949fb01a993338ba9807309cf0e71c39a0c15060d608/dash/live/2019637/303372-322014/manifest-d.mpd",
+            "logo": "",
+            "title": "SETANTA SPORTS",
+            "type": "1"
+          },
+          {
             "api": "f288380ca4cef9ad3f27a92a08e9bb8b:9f18d26291d9230833501f7f822f6875",
             "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd",
+            "logo": "",
             "title": "TNT SPORTS FHD",
             "type": "1"
           }
@@ -1565,6 +1609,10 @@
         "formatsNew": [
           {
             "logo": "",
+            "title": "SETANTA SPORTS"
+          },
+          {
+            "logo": "",
             "title": "TNT SPORTS FHD"
           }
         ],
@@ -1577,6 +1625,13 @@
         "adsLimit": "0",
         "cat": "Serie A 🇮🇹",
         "channels_data": [
+          {
+            "api": "00f9c59bf2f641e2bbf531c935d5c5eb:16cfbbc5b2b94d1584f04dfa13a6d258",
+            "link": "https://adjara-live-eu.akamaized.net/hdntl=exp=1779716805~acl=%2F*~id=cd2e1d0b-3186-41d0-9ed6-d7a16394b589~data=hdntl,aXA9MjAuOTcuMTk4LjI0MCZleHA9MTc3OTYzMDQzNSZlaWQ9OTYxNjEzJm9pZD0xMDgmdHlwZT1WT0QmdWlkPXNleWRIdHwzM2RmMTQ4NS1jZmNlLTRlZGUtODA0Ny0zMjExOGNjYjhkNjgmY2lkPWRjZS5zcHVycyZwdD1udWxs~hmac=b9417a424a24c7db299b8ae46a2917d3e289d500f517791b700e67d748f6e7a8/dash/live/2001529/303375-322016/manifest-d.mpd",
+            "logo": "",
+            "title": "SETANTA SPORTS",
+            "type": "1"
+          },
           {
             "api": "",
             "link": "https://chatgpt.hereisman.net/playlist/51122/load-playlist?|Referer=https://gooz.aapmains.net",
@@ -1606,6 +1661,10 @@
         "formatsNew": [
           {
             "logo": "",
+            "title": "SETANTA SPORTS"
+          },
+          {
+            "logo": "",
             "title": "PARAMOUNT+ HD"
           },
           {
@@ -1622,6 +1681,13 @@
         "adsLimit": "0",
         "cat": "Serie A 🇮🇹",
         "channels_data": [
+          {
+            "api": "7d41f19a52044a16a64edfcde1393cb9:35605c46713c493989c8a7d172f764c0",
+            "link": "https://adjara-live-eu.akamaized.net/hdntl=exp=1779716803~acl=%2F*~id=e3c0718d-26eb-451b-b368-a9fbedc1b4e4~data=hdntl,aXA9MjAuOTcuMTk4LjI0MCZleHA9MTc3OTYzMDQzMyZlaWQ9OTYxOTI1Jm9pZD0xMDgmdHlwZT1WT0QmdWlkPXNleWRIdHwzM2RmMTQ4NS1jZmNlLTRlZGUtODA0Ny0zMjExOGNjYjhkNjgmY2lkPWRjZS5zcHVycyZwdD1udWxs~hmac=800bc367bc4fbebb5232949fb01a993338ba9807309cf0e71c39a0c15060d608/dash/live/2019687/303374-322018/manifest-d.mpd",
+            "logo": "",
+            "title": "SETANTA SPORTS",
+            "type": "1"
+          },
           {
             "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
             "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
@@ -1658,6 +1724,10 @@
         "formatsNew": [
           {
             "logo": "",
+            "title": "SETANTA SPORTS"
+          },
+          {
+            "logo": "",
             "title": "beIN ENGLISH"
           },
           {
@@ -1679,10 +1749,11 @@
         "cat": "Serie A 🇮🇹",
         "channels_data": [
           {
-            "api": "",
-            "link": "https://fallback-video.ivan-flux.workers.dev/video/index.m3u8",
-            "title": "SPORTIFy Live",
-            "type": "0"
+            "api": "09caf63050574987891c6fc8334fe49d:0965a7276e284f78ab3e3b970eda6332",
+            "link": "https://adjara-live-eu.akamaized.net/hdntl=exp=1779716808~acl=%2F*~id=36fb73d5-8fd7-4442-a1a4-29edfb8ca880~data=hdntl,aXA9MjAuOTcuMTk4LjI0MCZleHA9MTc3OTYzMDQzOCZlaWQ9ODgwNTM2Jm9pZD0xMDgmdHlwZT1WT0QmdWlkPXNleWRIdHwzM2RmMTQ4NS1jZmNlLTRlZGUtODA0Ny0zMjExOGNjYjhkNjgmY2lkPWRjZS5zcHVycyZwdD1udWxs~hmac=345a6aa8c997488374bf009dd7dc7a719f2feb4601bd6fe1f77a99c8d3b95ca3/dash/live/2001549/303373-322015/manifest-d.mpd",
+            "logo": "",
+            "title": "SETANTA SPORTS",
+            "type": "1"
           }
         ],
         "eventInfo": {
@@ -1699,7 +1770,7 @@
         "formatsNew": [
           {
             "logo": "",
-            "title": "SportzX Live"
+            "title": "SETANTA SPORTS"
           }
         ],
         "id": "455",
