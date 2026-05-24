@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-24T14:10:32.604115",
+  "last_updated": "2026-05-24T14:20:20.981710",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "07:35:21 PM 24-05-2026",
+    "Last update time": "07:45:24 PM 24-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -1153,8 +1153,9 @@
         "channels_data": [
           {
             "api": "",
-            "link": "https://fallback-video.ivan-flux.workers.dev/video/index.m3u8",
-            "title": "SPORTIFy Live",
+            "link": "https://instreams.pro/US/NFLHD3/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
+            "logo": "",
+            "title": "HD SERVER",
             "type": "0"
           }
         ],
@@ -1172,7 +1173,7 @@
         "formatsNew": [
           {
             "logo": "",
-            "title": "SportzX Live"
+            "title": "HD SERVER"
           }
         ],
         "id": "439",
@@ -1351,8 +1352,9 @@
         "channels_data": [
           {
             "api": "",
-            "link": "https://fallback-video.ivan-flux.workers.dev/video/index.m3u8",
-            "title": "SPORTIFy Live",
+            "link": "https://instreams.pro/US/NFLHD1/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
+            "logo": "",
+            "title": "HD SERVER",
             "type": "0"
           }
         ],
@@ -1370,7 +1372,7 @@
         "formatsNew": [
           {
             "logo": "",
-            "title": "SportzX Live"
+            "title": "HD SERVER"
           }
         ],
         "id": "445",
@@ -1384,8 +1386,9 @@
         "channels_data": [
           {
             "api": "",
-            "link": "https://fallback-video.ivan-flux.workers.dev/video/index.m3u8",
-            "title": "SPORTIFy Live",
+            "link": "https://instreams.pro/US/NFLHD6/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
+            "logo": "",
+            "title": "HD SERVER",
             "type": "0"
           }
         ],
@@ -1403,7 +1406,7 @@
         "formatsNew": [
           {
             "logo": "",
-            "title": "SportzX Live"
+            "title": "HD SERVER"
           }
         ],
         "id": "446",
@@ -1450,8 +1453,9 @@
         "channels_data": [
           {
             "api": "",
-            "link": "https://fallback-video.ivan-flux.workers.dev/video/index.m3u8",
-            "title": "SPORTIFy Live",
+            "link": "https://instreams.pro/US/NFLHD4/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
+            "logo": "",
+            "title": "HD SERVER",
             "type": "0"
           }
         ],
@@ -1469,7 +1473,7 @@
         "formatsNew": [
           {
             "logo": "",
-            "title": "SportzX Live"
+            "title": "HD SERVER"
           }
         ],
         "id": "448",
