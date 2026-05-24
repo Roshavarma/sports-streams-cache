@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-24T06:40:19.892351",
+  "last_updated": "2026-05-24T06:50:21.923916",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "12:05:18 PM 24-05-2026",
+    "Last update time": "12:15:22 PM 24-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -1763,6 +1763,105 @@
         "image": "o",
         "publish": "1",
         "title": "Sporting CP vs Torreense"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "LaLiga 🇪🇸",
+        "channels_data": [
+          {
+            "api": "d69894c7b729c5d1e85893e5e6cfcb0f:db0d53f871f5d2ef91d3a112c7ec9f30",
+            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/tcninbbnt5/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd",
+            "title": "Laliga Hypermotion ES",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/24 16:15:00 +0000",
+          "eventName": "Albacete vs Real Sociedad",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/24 14:15:00 +0000",
+          "teamA": "Albacete",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2848/image",
+          "teamB": "Real Sociedad B U21",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/24360/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "Laliga Hypermotion ES"
+          }
+        ],
+        "id": "460",
+        "image": "o",
+        "publish": "1",
+        "title": "Albacete vs Real Sociedad"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "LaLiga 2",
+        "channels_data": [
+          {
+            "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
+            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
+            "title": "beIN ENGLISH",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/24 18:30:00 +0000",
+          "eventName": "Málaga vs Racing Santander",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/24 16:30:00 +0000",
+          "teamA": "Málaga",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2830/image",
+          "teamB": "R. Racing Club",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2835/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "beIN ENGLISH"
+          }
+        ],
+        "id": "461",
+        "image": "o",
+        "publish": "1",
+        "title": "Málaga vs Racing Santander"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "LaLiga 2",
+        "channels_data": [
+          {
+            "api": "335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281",
+            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd",
+            "title": "beIN ENGLISH",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/24 18:30:00 +0000",
+          "eventName": "Real Valladolid vs Deportivo",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/24 16:30:00 +0000",
+          "teamA": "Real Valladolid",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2831/image",
+          "teamB": "Deportivo",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2832/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "beIN ENGLISH"
+          }
+        ],
+        "id": "462",
+        "image": "o",
+        "publish": "1",
+        "title": "Real Valladolid vs Deportivo"
       }
     ]
   }
