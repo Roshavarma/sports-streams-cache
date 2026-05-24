@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-24T16:20:23.712873",
+  "last_updated": "2026-05-24T16:29:42.172954",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "09:46:43 PM 24-05-2026",
+    "Last update time": "09:55:16 PM 24-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -1167,7 +1167,7 @@
           }
         ],
         "eventInfo": {
-          "endTime": "2026/05/24 16:10:00 +0000",
+          "endTime": "2026/05/24 17:10:00 +0000",
           "eventBanner": "https://iili.io/CJqUpKQ.png",
           "eventName": "EPL Goal Rush",
           "eventType": "null",
@@ -2663,8 +2663,16 @@
         "channels_data": [
           {
             "api": "",
-            "link": "https://fallback-video.ivan-flux.workers.dev/video/index.m3u8",
+            "link": "https://play.ltwxsc.com/live/sd-6MwdLRKHJ1R9GNKD5p.m3u8?txSecret=4c22024fb934c7019207aaa22f484690&txTime=6A134F62",
+            "logo": "",
             "title": "SPORTIFy Live",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "http://193.47.62.42/hls/FFFFF.m3u8|referer=http://www.fawanews.sc/",
+            "logo": "",
+            "title": "SD SERVER",
             "type": "0"
           }
         ],
@@ -2683,6 +2691,10 @@
           {
             "logo": "",
             "title": "SportzX Live"
+          },
+          {
+            "logo": "",
+            "title": "SD SERVER"
           }
         ],
         "id": "459",
