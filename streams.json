@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-24T16:00:44.615241",
+  "last_updated": "2026-05-24T16:10:22.528952",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "09:25:22 PM 24-05-2026",
+    "Last update time": "09:35:21 PM 24-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -2198,6 +2198,34 @@
             "logo": "",
             "title": "ZIGGO SPORTS",
             "type": "1"
+          },
+          {
+            "api": "",
+            "link": "https://instreams.pro/US/NFLHD12/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
+            "logo": "",
+            "title": "PARAMOUNT+ HD",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://instreams.pro/EU/HDTV11/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
+            "logo": "",
+            "title": "DAZN SPORTS HD",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://instreams.pro/bil2/daznzona/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
+            "logo": "",
+            "title": "DAZN ZONA SD",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://play.ltwxsc.com/live/hd-en-6MuSNj2XXC8x3Lkqzv.m3u8?txSecret=e63ce3d75e6d5087b02c936e35edb339&txTime=6A13494A",
+            "logo": "",
+            "title": "SPORTIFy Live",
+            "type": "0"
           }
         ],
         "eventInfo": {
@@ -2223,6 +2251,22 @@
           {
             "logo": "",
             "title": "ZIGGO SPORTS"
+          },
+          {
+            "logo": "",
+            "title": "PARAMOUNT+ HD"
+          },
+          {
+            "logo": "",
+            "title": "DAZN SPORTS HD"
+          },
+          {
+            "logo": "",
+            "title": "DAZN ZONA SD"
+          },
+          {
+            "logo": "",
+            "title": "SportzX Live"
           }
         ],
         "id": "450",
