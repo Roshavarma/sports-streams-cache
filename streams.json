@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-24T03:00:49.650015",
+  "last_updated": "2026-05-24T03:10:22.462301",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "08:25:19 AM 24-05-2026",
+    "Last update time": "08:35:21 AM 24-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -1000,102 +1000,6 @@
         "image": "oo",
         "publish": "1",
         "title": "IPL - 02"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "NBA",
-        "channels_data": [
-          {
-            "api": "c4088f5f265f9de50cffd80bf89308b7:2c4d2239d96d532b4ec2050653611003",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
-            "title": "TSN SPORTS FHD",
-            "type": "1"
-          },
-          {
-            "api": "f5c2b30eac11be1e8cdfc9585f5fe6af:a8198d17bf9b0da77450fbb919a38b2d",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/lzhmuzmjsl/out/v1/c171eeb214c749f2b351c79df317b21e/cenc.mpd",
-            "title": "TSN SPORTS HD",
-            "type": "1"
-          },
-          {
-            "api": "",
-            "link": "https://mainstreams.pro/hls/mlkijfezag65.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
-            "title": "SPORTIFy Live",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://instreams.pro/US/NBA1/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
-            "title": "HD SERVER",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/24 03:00:00 +0000",
-          "eventName": "Cleveland Cavaliers vs New York Knicks",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/24 00:00:00 +0000",
-          "teamA": "Cavaliers",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3432/image",
-          "teamB": "Knicks",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3421/image"
-        },
-        "formatsNew": [
-          {
-            "logo": "",
-            "title": "TSN SPORTS FHD"
-          },
-          {
-            "logo": "",
-            "title": "TSN SPORTS HD"
-          },
-          {
-            "logo": "",
-            "title": "SportzX Live"
-          },
-          {
-            "logo": "",
-            "title": "HD SERVER"
-          }
-        ],
-        "id": "373",
-        "image": "o",
-        "publish": "1",
-        "title": "Cleveland Cavaliers"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "MLB",
-        "channels_data": [
-          {
-            "api": "",
-            "link": "https://mainstreams.pro/hls/kjhfzua25.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-            "title": "SPORTIFy Live",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/24 02:15:00 +0000",
-          "eventName": "Cincinnati Reds vs St. Louis Cardinals",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/23 23:15:00 +0000",
-          "teamA": "Reds",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3633/image",
-          "teamB": "Cardinals",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3632/image"
-        },
-        "formatsNew": [
-          {
-            "logo": "",
-            "title": "SportzX Live"
-          }
-        ],
-        "id": "394",
-        "image": "o",
-        "publish": "1",
-        "title": "Cincinnati Reds"
       },
       {
         "adsLimit": "0",
