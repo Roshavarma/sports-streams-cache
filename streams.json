@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-24T13:20:26.070096",
+  "last_updated": "2026-05-24T13:30:33.660233",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "06:45:28 PM 24-05-2026",
+    "Last update time": "06:55:20 PM 24-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -2084,17 +2084,11 @@
         "channels_data": [
           {
             "api": "318990a4c9001a643e48138292a3ab1c:e69f62b154a95d5a96b77de655e27c1a",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/mvdbju6gle/out/v1/08b75aacdf904ac4b83619c811153fd1/cenc.mpd",
-            "logo": "",
-            "title": "WILLOW [Ad-Free]",
-            "type": "1"
-          },
-          {
-            "api": "",
-            "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https",
-            "logo": "",
-            "title": "SKY SPORTS CRICKET",
-            "type": "0"
+            "id": 1,
+            "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/mvdbju6gle/out/v1/08b75aacdf904ac4b83619c811153fd1/cenc.mpd",
+            "title": "WILLOW ENG FHD",
+            "type": "1",
+            "webLink": ""
           }
         ],
         "eventInfo": {
@@ -2111,11 +2105,7 @@
         "formatsNew": [
           {
             "logo": "",
-            "title": "WILLOW [Ad-Free]"
-          },
-          {
-            "logo": "",
-            "title": "SKY SPORTS CRICKET"
+            "title": "WILLOW ENG FHD"
           }
         ],
         "id": "463",
