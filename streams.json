@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-24T11:50:21.957249",
+  "last_updated": "2026-05-24T12:00:48.164694",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "05:15:21 PM 24-05-2026",
+    "Last update time": "05:25:18 PM 24-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -1679,8 +1679,16 @@
         "cat": "League One 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
         "channels_data": [
           {
+            "api": "eaf1930cde4241aea40155c85d47c55d:7c9776cfafae43048f7b61c4e706fc37",
+            "link": "https://adjara-live-eu.akamaized.net/hdntl=exp=1779698206~acl=%2f*~id=dcd4e583-c8ac-4d3f-a73c-589fa0155dba~data=hdntl,aXA9MjAuMTYxLjQ0LjE3OCZleHA9MTc3OTYxMTgzNiZlaWQ9OTYxOTI1Jm9pZD0xMDgmdHlwZT1WT0QmdWlkPW54ZkJBM3w5OWU3MGNlYy0yYmVkLTQyNmQtODdkNi0zNmFhM2E1YTMzYWMmY2lkPWRjZS5zcHVycyZwdD1udWxs~hmac=7f1ef132b1820605a0a6aafaddbbf6cd352b20d30ab0a706335b2d8b77f23dd7/dash/live/2001596/303309-321963/manifest-d.mpd",
+            "logo": "",
+            "title": "SETANTA SPORTS",
+            "type": "1"
+          },
+          {
             "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
             "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
+            "logo": "",
             "title": "beIN ENGLISH FHD",
             "type": "1"
           }
@@ -1697,6 +1705,10 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/10/image"
         },
         "formatsNew": [
+          {
+            "logo": "",
+            "title": "SETANTA SPORTS"
+          },
           {
             "logo": "",
             "title": "beIN ENGLISH FHD"
