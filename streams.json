@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-25T23:30:38.034607",
+  "last_updated": "2026-05-25T23:40:22.242044",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "04:55:17 AM 26-05-2026",
+    "Last update time": "05:05:20 AM 26-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -983,19 +983,36 @@
         "channels_data": [
           {
             "api": "326058ffe1cd4d3383781b36ca9145d1:99d405d46f114eff96789673e57d0121",
-            "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1779716803~acl=%2F*~id=e3c0718d-26eb-451b-b368-a9fbedc1b4e4~data=hdntl,aXA9MjAuOTcuMTk4LjI0MCZleHA9MTc3OTYzMDQzMyZlaWQ9OTYxOTI1Jm9pZD0xMDgmdHlwZT1WT0QmdWlkPXNleWRIdHwzM2RmMTQ4NS1jZmNlLTRlZGUtODA0Ny0zMjExOGNjYjhkNjgmY2lkPWRjZS5zcHVycyZwdD1udWxs~hmac=800bc367bc4fbebb5232949fb01a993338ba9807309cf0e71c39a0c15060d608/dash/live/2093723/219038-321034/manifest-d.mpd",
-            "title": "ESPN SPORTS FHD",
+            "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1779824932~acl=%2F*~id=e64fa4c1-6eec-4acf-ae50-1554b4a5c362~data=hdntl,aXA9MjAuNTUuMTQuNTMmZXhwPTE3Nzk3Mzg1NjImZWlkPTk2MjYwOCZvaWQ9MTA4JnR5cGU9Vk9EJnVpZD1VNFd6RXV8MzNiNGJhZWQtOTExZi00ZDVjLTkxMWQtNWJlZjAzMTRmYWQ1JmNpZD1kY2Uuc3B1cnMmcHQ9bnVsbA~hmac=fb8db2d327d6c022f85af73f6292aee61bafa7ab307931d2af0cf2f545afc2c9/dash/live/2093723/219038-321034/manifest-d.mpd",
+            "logo": "",
+            "title": "ESPN SPORTS",
+            "type": "1"
+          },
+          {
+            "api": "c4088f5f265f9de50cffd80bf89308b7:2c4d2239d96d532b4ec2050653611003",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
+            "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
+            "title": "TSN SPORTS",
             "type": "1"
           },
           {
             "api": "",
+            "link": "https://chatgpt.hereisman.net/playlist/51196/load-playlist?|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "title": "SPORTIFy NBA",
+            "type": "0"
+          },
+          {
+            "api": "",
             "link": "https://mainstreams.pro/hls/mlkijfezag65.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+            "logo": "",
             "title": "SPORTIFy Live",
             "type": "0"
           },
           {
             "api": "",
             "link": "https://instreams.pro/US/NBA1/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
+            "logo": "",
             "title": "HD SERVER",
             "type": "0"
           }
@@ -1004,7 +1021,7 @@
           "endTime": "2026/05/26 03:00:00 +0000",
           "eventName": "Cleveland Cavaliers vs New York Knicks",
           "eventType": "null",
-          "isHot": "0",
+          "isHot": "1",
           "startTime": "2026/05/26 00:00:00 +0000",
           "teamA": "Cavaliers",
           "teamAFlag": "https://img.sofascore.com/api/v1/team/3432/image",
@@ -1014,7 +1031,15 @@
         "formatsNew": [
           {
             "logo": "",
-            "title": "ESPN SPORTS FHD"
+            "title": "ESPN SPORTS"
+          },
+          {
+            "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
+            "title": "TSN SPORTS"
+          },
+          {
+            "logo": "",
+            "title": "SportzX NBA"
           },
           {
             "logo": "",
@@ -1036,7 +1061,7 @@
         "channels_data": [
           {
             "api": "",
-            "link": "https://chatgpt.hereisman.net/playlist/51132/load-playlist?|Referer=https://gooz.aapmains.net",
+            "link": "https://chatgpt.hereisman.net/playlist/51195/load-playlist?|Referer=https://gooz.aapmains.net",
             "logo": "",
             "title": "SPORTIFy WNBA",
             "type": "0"
@@ -1125,13 +1150,6 @@
         "cat": "NHL",
         "channels_data": [
           {
-            "api": "6547dbaa76c54917b68b90cfc9c606dc:e82672e5d155441da8e2d2b111b6d584",
-            "link": "https://adjara-live-eu.akamaized.net/hdntl=exp=1779737054~acl=%2F*~id=91b2b77c-5acf-4562-a302-81dfd4e0db31~data=hdntl,aXA9MTcyLjE4NS4xNjcuMzYmZXhwPTE3Nzk2NTA2ODQmZWlkPTk2MjYwOCZvaWQ9MTA4JnR5cGU9Vk9EJnVpZD1FcVo5d2d8YmY4MTQ1ODAtMWFjMy00NjczLWFhMDktMDhlMjI1Y2NkMDFhJmNpZD1kY2Uuc3B1cnMmcHQ9bnVsbA~hmac=e3d75e1fd221b2be35a0c17a3e03975e84b24153ab4ec4f7ac54eb335251287b/dash/live/2019654/303496-322029/manifest-d.mpd",
-            "logo": "",
-            "title": "SETANTA SPORTS",
-            "type": "1"
-          },
-          {
             "api": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f",
             "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
             "logo": "https://play-lh.googleusercontent.com/zG_ZS5v4PfHqWqWLkpVkZB9wRu9MJmEqD4tNpeIYwLOcjU3INQlFeTxoVgwV1R2CbcsI",
@@ -1140,14 +1158,14 @@
           },
           {
             "api": "a01e1e0d5fb145b8b33190588490a27a:bfd9e3b0866e49cbae1bb7f7116451c9",
-            "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1779716810~acl=%2F*~id=fafefc95-635e-4e0d-ac2d-24d2bf8963f8~data=hdntl,aXA9MjAuOTcuMTk4LjI0MCZleHA9MTc3OTYzMDQ0MCZlaWQ9OTYxNjA0Jm9pZD0xMDgmdHlwZT1WT0QmdWlkPXNleWRIdHwzM2RmMTQ4NS1jZmNlLTRlZGUtODA0Ny0zMjExOGNjYjhkNjgmY2lkPWRjZS5zcHVycyZwdD1udWxs~hmac=183a25a7ecc2a191fbf6ed5293ed1502669a94be9f30bbdccd5ba99d3f809ab7/dash/live/2093724/219039-321035/manifest-d.mpd",
+            "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1779824930~acl=%2F*~id=66f935b1-eba7-4fa3-a949-7e6caef4989b~data=hdntl,aXA9MjAuNTUuMTQuNTMmZXhwPTE3Nzk3Mzg1NjAmZWlkPTk2MjYyNSZvaWQ9MTA4JnR5cGU9Vk9EJnVpZD1VNFd6RXV8MzNiNGJhZWQtOTExZi00ZDVjLTkxMWQtNWJlZjAzMTRmYWQ1JmNpZD1kY2Uuc3B1cnMmcHQ9bnVsbA~hmac=8044e93b8c71921998e0003cd66bebfca60e5200328521893de6c905a7a5f0b1/dash/live/2093724/219039-321035/manifest-d.mpd",
             "logo": "",
             "title": "ESPN SPORTS HD",
             "type": "1"
           },
           {
             "api": "",
-            "link": "https://chatgpt.hereisman.net/playlist/51155/load-playlist?|Referer=https://gooz.aapmains.net",
+            "link": "https://chatgpt.hereisman.net/playlist/51193/load-playlist?|Referer=https://gooz.aapmains.net",
             "logo": "",
             "title": "SPORTIFy NHL",
             "type": "0"
@@ -1179,10 +1197,6 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/3680/image"
         },
         "formatsNew": [
-          {
-            "logo": "",
-            "title": "SETANTA SPORTS"
-          },
           {
             "logo": "https://play-lh.googleusercontent.com/zG_ZS5v4PfHqWqWLkpVkZB9wRu9MJmEqD4tNpeIYwLOcjU3INQlFeTxoVgwV1R2CbcsI",
             "title": "PREMIER SPORTS"
