@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-25T02:30:36.527154",
+  "last_updated": "2026-05-25T02:40:24.265582",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "07:55:17 AM 25-05-2026",
+    "Last update time": "08:05:19 AM 25-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -1033,6 +1033,13 @@
             "logo": "",
             "title": "HD SERVER",
             "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://pooembed.eu/embed/nba/2026-05-24/okc-sa",
+            "logo": "",
+            "title": "FHD SERVER",
+            "type": "2"
           }
         ],
         "eventInfo": {
@@ -1070,6 +1077,10 @@
           {
             "logo": "",
             "title": "HD SERVER"
+          },
+          {
+            "logo": "",
+            "title": "FHD SERVER"
           }
         ],
         "id": "373",
