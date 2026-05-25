@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-25T02:40:24.265582",
+  "last_updated": "2026-05-25T02:50:21.445236",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "08:05:19 AM 25-05-2026",
+    "Last update time": "08:15:21 AM 25-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -1033,13 +1033,6 @@
             "logo": "",
             "title": "HD SERVER",
             "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://pooembed.eu/embed/nba/2026-05-24/okc-sa",
-            "logo": "",
-            "title": "FHD SERVER",
-            "type": "2"
           }
         ],
         "eventInfo": {
@@ -1077,10 +1070,6 @@
           {
             "logo": "",
             "title": "HD SERVER"
-          },
-          {
-            "logo": "",
-            "title": "FHD SERVER"
           }
         ],
         "id": "373",
@@ -1218,7 +1207,7 @@
           }
         ],
         "eventInfo": {
-          "endTime": "2026/05/25 02:30:00 +0000",
+          "endTime": "2026/05/25 03:00:00 +0000",
           "eventName": "AEW Double or Nothing",
           "eventType": "null",
           "isHot": "1",
