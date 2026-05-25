@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-25T09:20:32.495382",
+  "last_updated": "2026-05-25T09:30:37.878189",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "02:45:28 PM 25-05-2026",
+    "Last update time": "02:55:21 PM 25-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -885,9 +885,9 @@
           "isHot": "0",
           "startTime": "2026/05/25 09:00:00 +0000",
           "teamA": "Roland-Garros",
-          "teamAFlag": "https://www.atptour.com/assets/atpwt/images/tournament/badges/categorystamps_1000.png",
+          "teamAFlag": "https://img.sofascore.com/api/v1/unique-tournament/2480/image",
           "teamB": "Roland-Garros",
-          "teamBFlag": "https://www.atptour.com/assets/atpwt/images/tournament/badges/categorystamps_1000.png"
+          "teamBFlag": "https://img.sofascore.com/api/v1/unique-tournament/2480/image"
         },
         "formatsNew": [
           {
@@ -1137,6 +1137,142 @@
         "image": "o",
         "publish": "1",
         "title": "Coritiba vs Bahia"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "IIHF World",
+        "channels_data": [
+          {
+            "api": "c4088f5f265f9de50cffd80bf89308b7:2c4d2239d96d532b4ec2050653611003",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
+            "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
+            "title": "TSN SPORTS",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/25 17:00:00 +0000",
+          "eventName": "USA vs Hungary",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/25 14:20:00 +0000",
+          "teamA": "USA",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/5738/image",
+          "teamB": "Hungary",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/7053/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
+            "title": "TSN SPORTS"
+          }
+        ],
+        "id": "406",
+        "image": "o",
+        "publish": "1",
+        "title": "USA vs Hungary"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "IIHF World",
+        "channels_data": [
+          {
+            "api": "daa8ea92553fd16cd6bfae2b8c582715:4042e041b5639b79b69ae07a872eef9b",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3n6slkgh54/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd",
+            "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
+            "title": "TSN SPORTS",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/25 17:00:00 +0000",
+          "eventName": "Czechia vs Norway",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/25 14:20:00 +0000",
+          "teamA": "Czechia",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/5730/image",
+          "teamB": "Norway",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/5913/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
+            "title": "TSN SPORTS"
+          }
+        ],
+        "id": "407",
+        "image": "o",
+        "publish": "1",
+        "title": "Czechia vs Norway"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "IIHF World",
+        "channels_data": [
+          {
+            "api": "daa8ea92553fd16cd6bfae2b8c582715:4042e041b5639b79b69ae07a872eef9b",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3n6slkgh54/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd",
+            "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
+            "title": "TSN SPORTS",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/25 21:00:00 +0000",
+          "eventName": "Slovenia vs Italy",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/25 18:20:00 +0000",
+          "teamA": "Slovenia",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/5914/image",
+          "teamB": "Italy",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/5733/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
+            "title": "TSN SPORTS"
+          }
+        ],
+        "id": "408",
+        "image": "o",
+        "publish": "1",
+        "title": "Slovenia vs Italy"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "IIHF World",
+        "channels_data": [
+          {
+            "api": "c4088f5f265f9de50cffd80bf89308b7:2c4d2239d96d532b4ec2050653611003",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
+            "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
+            "title": "TSN SPORTS",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/25 21:00:00 +0000",
+          "eventName": "Germany vs Great Britain",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/25 18:20:00 +0000",
+          "teamA": "Germany",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/5732/image",
+          "teamB": "Great Britain",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/7118/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
+            "title": "TSN SPORTS"
+          }
+        ],
+        "id": "409",
+        "image": "o",
+        "publish": "1",
+        "title": "Germany vs Great Britain"
       }
     ]
   }
