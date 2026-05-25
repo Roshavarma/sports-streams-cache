@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-25T23:47:06.707064",
+  "last_updated": "2026-05-25T23:50:20.889196",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "05:10:28 AM 26-05-2026",
+    "Last update time": "05:15:22 AM 26-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -1022,6 +1022,13 @@
           },
           {
             "api": "",
+            "link": "https://live.kinescopecdn.net/on-air/cec62dfd-eb59-4e9c-9b27-9033eff90caf/246d05c9-4076-478b-ac0b-8b1ea26539b8/master.m3u8",
+            "logo": "",
+            "title": "NBA LIVE ALT",
+            "type": "0"
+          },
+          {
+            "api": "",
             "link": "https://mainstreams.pro/hls/mlkijfezag65.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
             "logo": "",
             "title": "SPORTIFy Live",
@@ -1065,6 +1072,10 @@
           },
           {
             "logo": "",
+            "title": "NBA LIVE ALT"
+          },
+          {
+            "logo": "",
             "title": "SportzX Live"
           },
           {
@@ -1086,6 +1097,13 @@
             "link": "https://chatgpt.hereisman.net/playlist/51195/load-playlist?|Referer=https://gooz.aapmains.net",
             "logo": "",
             "title": "SPORTIFy WNBA",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://nh4.hocloud.cfd/live/liberty/stream.m3u8",
+            "logo": "",
+            "title": "WNBA LIVE HD",
             "type": "0"
           },
           {
@@ -1114,6 +1132,10 @@
           },
           {
             "logo": "",
+            "title": "WNBA LIVE HD"
+          },
+          {
+            "logo": "",
             "title": "SportzX Live"
           }
         ],
@@ -1131,6 +1153,13 @@
             "link": "https://chatgpt.hereisman.net/playlist/51135/load-playlist?|Referer=https://gooz.aapmains.net",
             "logo": "",
             "title": "SPORTIFy WNBA",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://nh4.hocloud.cfd/live/golden/stream.m3u8",
+            "logo": "",
+            "title": "WNBA LIVE HD",
             "type": "0"
           },
           {
@@ -1156,6 +1185,10 @@
           {
             "logo": "",
             "title": "SportzX WNBA"
+          },
+          {
+            "logo": "",
+            "title": "WNBA LIVE HD"
           },
           {
             "logo": "",
@@ -1190,6 +1223,13 @@
             "link": "https://chatgpt.hereisman.net/playlist/51193/load-playlist?|Referer=https://gooz.aapmains.net",
             "logo": "",
             "title": "SPORTIFy NHL",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://nh5.hocloud.cfd/live/tnt/stream.m3u8",
+            "logo": "",
+            "title": "NHL LIVE HD",
             "type": "0"
           },
           {
@@ -1230,6 +1270,10 @@
           {
             "logo": "",
             "title": "SportzX NHL"
+          },
+          {
+            "logo": "",
+            "title": "NHL LIVE HD"
           },
           {
             "logo": "",
