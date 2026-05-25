@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-25T13:20:23.129485",
+  "last_updated": "2026-05-25T13:30:38.902407",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "06:45:27 PM 25-05-2026",
+    "Last update time": "06:55:20 PM 25-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -1440,6 +1440,41 @@
         "image": "o",
         "publish": "1",
         "title": "England W vs New Zealand W"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "UCL",
+        "channels_data": [
+          {
+            "api": "294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd",
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10",
+            "title": "TNT SPORTS FHD",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/30 18:10:00 +0000",
+          "eventBanner": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCGrZZeddk7Ql8Sh8xthlwsiXEVGTFBVUK5GZBXqmlATXT3pZwSeexQl1zNthPtMp9Qrqs1BSWwlIhVh2sSotJA9H0YMMo2nkO68ngT59UrFUtcsA1NTCBrghlcVx3PzQy02Y27R3_I2dUNug9NIR5b9iugsIlnwQ15FmW76686wb2lG2pYt2hLVV1ubo/s1600/SportzX%20COVER%20%281280%20x%20330%20px%29.png",
+          "eventName": "PSG vs Arsenal",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/30 16:00:00 +0000",
+          "teamA": "PSG",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/1644/image",
+          "teamB": "Arsenal",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/42/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10",
+            "title": "TNT SPORTS FHD"
+          }
+        ],
+        "id": "401",
+        "image": "o",
+        "publish": "1",
+        "title": "PSG vs Arsenal"
       },
       {
         "adsLimit": "0",
