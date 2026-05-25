@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-25T07:20:22.747503",
+  "last_updated": "2026-05-25T07:30:36.322526",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "12:45:39 PM 25-05-2026",
+    "Last update time": "12:55:18 PM 25-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -919,6 +919,135 @@
         "image": "o",
         "publish": "1",
         "title": "Roland-Garros"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "Bundesliga 🇩🇪",
+        "channels_data": [
+          {
+            "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
+            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
+            "title": "beIN ENGLISH",
+            "type": "1"
+          },
+          {
+            "api": "4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733",
+            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd",
+            "title": "SporTV BR",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/25 20:30:00 +0000",
+          "eventName": "Paderborn vs Wolfsburg",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/25 18:30:00 +0000",
+          "teamA": "Paderborn",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2561/image",
+          "teamB": "Wolfsburg",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2524/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "beIN ENGLISH"
+          },
+          {
+            "logo": "",
+            "title": "SporTV BR"
+          }
+        ],
+        "id": "402",
+        "image": "o",
+        "publish": "1",
+        "title": "Paderborn vs Wolfsburg"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "League Two 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+        "channels_data": [
+          {
+            "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
+            "title": "beIN ENGLISH",
+            "type": "1"
+          },
+          {
+            "api": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
+            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
+            "title": "CBS NETWORK",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/25 16:00:00 +0000",
+          "eventName": "Notts County vs Salford City",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/25 14:00:00 +0000",
+          "teamA": "Notts County",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/56/image",
+          "teamB": "Salford",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/37998/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "beIN ENGLISH"
+          },
+          {
+            "logo": "",
+            "title": "CBS NETWORK"
+          }
+        ],
+        "id": "403",
+        "image": "o",
+        "publish": "1",
+        "title": "Notts County vs Salford City"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "Scottish Premiership",
+        "channels_data": [
+          {
+            "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
+            "title": "beIN ENGLISH",
+            "type": "1"
+          },
+          {
+            "api": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
+            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
+            "title": "CBS NETWORK",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/25 21:00:00 +0000",
+          "eventName": "St. Mirren vs Partick Thistle",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/25 19:00:00 +0000",
+          "teamA": "St Mirren",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2359/image",
+          "teamB": "Partick Thistle",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2358/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "beIN ENGLISH"
+          },
+          {
+            "logo": "",
+            "title": "CBS NETWORK"
+          }
+        ],
+        "id": "404",
+        "image": "o",
+        "publish": "1",
+        "title": "St. Mirren vs Partick Thistle"
       }
     ]
   }
