@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-25T17:30:38.245136",
+  "last_updated": "2026-05-25T17:40:23.679518",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "10:55:19 PM 25-05-2026",
+    "Last update time": "11:05:17 PM 25-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -1515,14 +1515,23 @@
           {
             "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
             "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
+            "logo": "",
             "title": "beIN ENGLISH",
             "type": "1"
           },
           {
             "api": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
             "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
+            "logo": "",
             "title": "CBS NETWORK",
             "type": "1"
+          },
+          {
+            "api": "",
+            "link": "https://chatgpt.hereisman.net/playlist/51161/load-playlist?|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "title": "SPORTIFy Live",
+            "type": "0"
           }
         ],
         "eventInfo": {
@@ -1544,6 +1553,10 @@
           {
             "logo": "",
             "title": "CBS NETWORK"
+          },
+          {
+            "logo": "",
+            "title": "SportzX Live"
           }
         ],
         "id": "404",
@@ -1556,10 +1569,11 @@
         "cat": "Brasileirão",
         "channels_data": [
           {
-            "api": "",
-            "link": "https://fallback-video.ivan-flux.workers.dev/video/index.m3u8",
-            "title": "SPORTIFy Live",
-            "type": "0"
+            "api": "4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733",
+            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd",
+            "logo": "",
+            "title": "SporTV BR",
+            "type": "1"
           }
         ],
         "eventInfo": {
@@ -1576,7 +1590,7 @@
         "formatsNew": [
           {
             "logo": "",
-            "title": "SportzX Live"
+            "title": "SporTV BR"
           }
         ],
         "id": "405",
@@ -1726,7 +1740,15 @@
         "channels_data": [
           {
             "api": "",
+            "link": "https://chatgpt.hereisman.net/playlist/51168/load-playlist?|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "title": "SPORTIFy MLB",
+            "type": "0"
+          },
+          {
+            "api": "",
             "link": "https://edge2caster.pro/hls/16yuitzaerghbhc16.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+            "logo": "",
             "title": "SPORTIFy Live",
             "type": "0"
           }
@@ -1745,6 +1767,10 @@
         "formatsNew": [
           {
             "logo": "",
+            "title": "SportzX MLB"
+          },
+          {
+            "logo": "",
             "title": "SportzX Live"
           }
         ],
@@ -1759,7 +1785,15 @@
         "channels_data": [
           {
             "api": "",
+            "link": "https://chatgpt.hereisman.net/playlist/51166/load-playlist?|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "title": "SPORTIFy MLB",
+            "type": "0"
+          },
+          {
+            "api": "",
             "link": "https://edge2caster.pro/hls/dazhfiach15.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+            "logo": "",
             "title": "SPORTIFy Live",
             "type": "0"
           }
@@ -1778,6 +1812,10 @@
         "formatsNew": [
           {
             "logo": "",
+            "title": "SportzX MLB"
+          },
+          {
+            "logo": "",
             "title": "SportzX Live"
           }
         ],
@@ -1792,7 +1830,15 @@
         "channels_data": [
           {
             "api": "",
+            "link": "https://chatgpt.hereisman.net/playlist/51171/load-playlist?|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "title": "SPORTIFy MLB",
+            "type": "0"
+          },
+          {
+            "api": "",
             "link": "https://mainstreams.pro/hls/ihfazugfyjcazich17.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+            "logo": "",
             "title": "SPORTIFy Live",
             "type": "0"
           }
@@ -1811,6 +1857,10 @@
         "formatsNew": [
           {
             "logo": "",
+            "title": "SportzX MLB"
+          },
+          {
+            "logo": "",
             "title": "SportzX Live"
           }
         ],
@@ -1825,7 +1875,15 @@
         "channels_data": [
           {
             "api": "",
+            "link": "https://chatgpt.hereisman.net/playlist/51170/load-playlist?|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "title": "SPORTIFy MLB",
+            "type": "0"
+          },
+          {
+            "api": "",
             "link": "https://mainstreams.pro/hls/Czajafjihafch18.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+            "logo": "",
             "title": "SPORTIFy Live",
             "type": "0"
           }
@@ -1842,6 +1900,10 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/3632/image"
         },
         "formatsNew": [
+          {
+            "logo": "",
+            "title": "SportzX MLB"
+          },
           {
             "logo": "",
             "title": "SportzX Live"
