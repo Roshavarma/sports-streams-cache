@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-25T00:20:24.540090",
+  "last_updated": "2026-05-25T00:30:33.429006",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "05:45:26 AM 25-05-2026",
+    "Last update time": "05:55:19 AM 25-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -1092,9 +1092,23 @@
           },
           {
             "api": "",
-            "link": "https://instreams.pro/bil1/tudn/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
+            "link": "https://pul-tenm.nbs3g.com/live/sd-1-4543791.m3u8?txSecret=94215b05e2289c8f74d5f70d77596115&txTime=6A14E736",
             "logo": "",
             "title": "SPORTIFy Live",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "http://193.47.62.43/hls/KMMMZZZQQQ.m3u8|Referer=http://www.fawanews.sc/",
+            "logo": "",
+            "title": "SD SERVER",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://instreams.pro/bil1/tudn/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
+            "logo": "",
+            "title": "HD SERVER",
             "type": "0"
           },
           {
@@ -1124,6 +1138,14 @@
           {
             "logo": "",
             "title": "SportzX Live"
+          },
+          {
+            "logo": "",
+            "title": "SD SERVER"
+          },
+          {
+            "logo": "",
+            "title": "HD SERVER"
           },
           {
             "logo": "",
