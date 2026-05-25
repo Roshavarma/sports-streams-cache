@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-25T04:10:23.713791",
+  "last_updated": "2026-05-25T04:30:41.769706",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "09:35:17 AM 25-05-2026",
+    "Last update time": "09:55:18 AM 25-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -987,84 +987,6 @@
         "image": "o",
         "publish": "1",
         "title": "Roland-Garros"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "WWE",
-        "channels_data": [
-          {
-            "api": "",
-            "link": "https://chatgpt.hereisman.net/playlist/51152/load-playlist?|Referer=https://gooz.aapmains.net",
-            "logo": "",
-            "title": "SPORTIFy AEW",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://live.kinescopecdn.net/on-air/cec62dfd-eb59-4e9c-9b27-9033eff90caf/f44cb62f-9d91-4763-bec9-ad756e0b8d70/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
-            "logo": "",
-            "title": "AEW Live - AQ",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://26hrwgorfcmh.windows-devs.top/AccessLog2/83_FHD/apache.m3u8|Referer=https://26hrwgorfcmh.windows-devs.top/",
-            "logo": "",
-            "title": "HD SERVER",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://26hrwgorfcmh.windows-devs.top/AccessLog2/108085_HD/apache.m3u8|referer=https://26hrwgorfcmh.windows-devs.top/",
-            "logo": "",
-            "title": "LQ SERVER",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://26hrwgorfcmh.windows-devs.top/AccessLog2/108085_LQ/apache.m3u8|referer=https://26hrwgorfcmh.windows-devs.top/",
-            "logo": "",
-            "title": "SD SERVER",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/25 03:40:00 +0000",
-          "eventName": "AEW Double or Nothing",
-          "eventType": "null",
-          "isHot": "1",
-          "startTime": "2026/05/25 00:00:00 +0000",
-          "teamA": "AEW",
-          "teamAFlag": "https://upload.wikimedia.org/wikipedia/commons/3/35/AEW_Double_or_Nothing_logo.png",
-          "teamB": "AEW",
-          "teamBFlag": "https://upload.wikimedia.org/wikipedia/commons/3/35/AEW_Double_or_Nothing_logo.png"
-        },
-        "formatsNew": [
-          {
-            "logo": "",
-            "title": "SportzX AEW"
-          },
-          {
-            "logo": "",
-            "title": "AEW Live - AQ"
-          },
-          {
-            "logo": "",
-            "title": "HD SERVER"
-          },
-          {
-            "logo": "",
-            "title": "LQ SERVER"
-          },
-          {
-            "logo": "",
-            "title": "SD SERVER"
-          }
-        ],
-        "id": "400",
-        "image": "o",
-        "publish": "1",
-        "title": "AEW Double or Nothing"
       },
       {
         "adsLimit": "0",
