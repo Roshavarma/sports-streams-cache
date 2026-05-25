@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-25T00:00:47.921667",
+  "last_updated": "2026-05-25T00:10:24.432130",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "05:25:18 AM 25-05-2026",
+    "Last update time": "05:35:20 AM 25-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -777,6 +777,20 @@
           },
           {
             "api": "",
+            "link": "https://bo5.bofiles.cfd/live/spurs/stream.m3u8",
+            "logo": "",
+            "title": "NBA LIVE FHD",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://live.kinescopecdn.net/on-air/cec62dfd-eb59-4e9c-9b27-9033eff90caf/5dff4ffa-85e1-4d99-9df5-1707f91f1922/master.m3u8",
+            "logo": "",
+            "title": "NBA LIVE ALT",
+            "type": "0"
+          },
+          {
+            "api": "",
             "link": "https://mainstreams.pro/hls/mlkijfezag65.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
             "logo": "",
             "title": "SPORTIFy Live",
@@ -809,6 +823,14 @@
           {
             "logo": "",
             "title": "SportzX NBA"
+          },
+          {
+            "logo": "",
+            "title": "NBA LIVE FHD"
+          },
+          {
+            "logo": "",
+            "title": "NBA LIVE ALT"
           },
           {
             "logo": "",
