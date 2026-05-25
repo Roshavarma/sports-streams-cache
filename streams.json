@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-25T08:00:53.606408",
+  "last_updated": "2026-05-25T08:10:26.481796",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "01:25:19 PM 25-05-2026",
+    "Last update time": "01:35:18 PM 25-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -1137,38 +1137,6 @@
         "image": "o",
         "publish": "1",
         "title": "Coritiba vs Bahia"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "League Two 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-        "channels_data": [
-          {
-            "link": "https://fallback-video.ivan-flux.workers.dev/video/index.m3u8",
-            "title": "DEFAULT",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/25 16:00:00 +0000",
-          "eventName": "Notts County vs Salford City",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/25 14:00:00 +0000",
-          "teamA": "Notts County",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/56/image",
-          "teamB": "Salford City",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/37998/image"
-        },
-        "formatsNew": [
-          {
-            "logo": "",
-            "title": "DEFAULT"
-          }
-        ],
-        "id": "406",
-        "image": "o",
-        "publish": "1",
-        "title": "Notts County vs Salford City dd"
       }
     ]
   }
