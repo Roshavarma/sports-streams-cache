@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-26T14:00:53.794722",
+  "last_updated": "2026-05-26T14:10:31.440580",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "07:25:24 PM 26-05-2026",
+    "Last update time": "07:35:23 PM 26-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -1195,6 +1195,138 @@
         "image": "o",
         "publish": "1",
         "title": "Hampshire W vs Essex W"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "IIHF World",
+        "channels_data": [
+          {
+            "api": "daa8ea92553fd16cd6bfae2b8c582715:4042e041b5639b79b69ae07a872eef9b",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3n6slkgh54/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd",
+            "title": "TSN SPORTS FHD",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/26 17:00:00 +0000",
+          "eventName": "USA vs Austria",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/26 14:20:00 +0000",
+          "teamA": "USA",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/5738/image",
+          "teamB": "Austria",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/5720/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "TSN SPORTS FHD"
+          }
+        ],
+        "id": "405",
+        "image": "o",
+        "publish": "1",
+        "title": "USA vs Austria"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "IIHF World",
+        "channels_data": [
+          {
+            "api": "c4088f5f265f9de50cffd80bf89308b7:2c4d2239d96d532b4ec2050653611003",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
+            "title": "TSN SPORTS FHD",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/26 17:00:00 +0000",
+          "eventName": "Sweden vs Slovakia",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/26 14:20:00 +0000",
+          "teamA": "Sweden",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/5735/image",
+          "teamB": "Slovakia",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/5736/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "TSN SPORTS FHD"
+          }
+        ],
+        "id": "406",
+        "image": "o",
+        "publish": "1",
+        "title": "Sweden vs Slovakia"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "IIHF World",
+        "channels_data": [
+          {
+            "api": "c4088f5f265f9de50cffd80bf89308b7:2c4d2239d96d532b4ec2050653611003",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
+            "title": "TSN SPORTS FHD",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/26 21:00:00 +0000",
+          "eventName": "Czechia vs Canada",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/26 18:20:00 +0000",
+          "teamA": "Czechia",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/5730/image",
+          "teamB": "Canada",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/5729/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "TSN SPORTS FHD"
+          }
+        ],
+        "id": "407",
+        "image": "o",
+        "publish": "1",
+        "title": "Czechia vs Canada"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "IIHF World",
+        "channels_data": [
+          {
+            "api": "daa8ea92553fd16cd6bfae2b8c582715:4042e041b5639b79b69ae07a872eef9b",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3n6slkgh54/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd",
+            "title": "TSN SPORTS FHD",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/26 21:00:00 +0000",
+          "eventName": "Switzerland vs Finland",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/26 18:20:00 +0000",
+          "teamA": "Switzerland",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/5734/image",
+          "teamB": "Finland",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/5731/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "TSN SPORTS FHD"
+          }
+        ],
+        "id": "408",
+        "image": "o",
+        "publish": "1",
+        "title": "Switzerland vs Finland"
       }
     ]
   }
