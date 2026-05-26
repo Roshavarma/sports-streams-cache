@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-25T23:50:20.889196",
+  "last_updated": "2026-05-26T00:00:48.236952",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "05:15:22 AM 26-05-2026",
+    "Last update time": "05:25:17 AM 26-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -917,7 +917,7 @@
         "title": "IPL - 01"
       },
       {
-        "adsLimit": "12",
+        "adsLimit": "10",
         "cat": "Tennis",
         "channels_data": [
           {
@@ -946,12 +946,12 @@
           }
         ],
         "eventInfo": {
-          "endTime": "2026/05/25 17:59:00 +0000",
+          "endTime": "2026/05/26 17:59:00 +0000",
           "eventBanner": "https://iili.io/CHyjeBp.png",
           "eventName": "Roland-Garros",
           "eventType": "null",
           "isHot": "0",
-          "startTime": "2026/05/25 09:00:00 +0000",
+          "startTime": "2026/05/26 09:00:00 +0000",
           "teamA": "Roland-Garros",
           "teamAFlag": "https://img.sofascore.com/api/v1/unique-tournament/2480/image",
           "teamB": "Roland-Garros",
@@ -1022,7 +1022,7 @@
           },
           {
             "api": "",
-            "link": "https://live.kinescopecdn.net/on-air/cec62dfd-eb59-4e9c-9b27-9033eff90caf/246d05c9-4076-478b-ac0b-8b1ea26539b8/master.m3u8",
+            "link": "https://live.kinescopecdn.net/on-air/cec62dfd-eb59-4e9c-9b27-9033eff90caf/f4cb41bd-6025-4440-9ab9-dc735f724b73/master.m3u8",
             "logo": "",
             "title": "NBA LIVE ALT",
             "type": "0"
@@ -1234,6 +1234,13 @@
           },
           {
             "api": "",
+            "link": "https://live.kinescopecdn.net/on-air/cec62dfd-eb59-4e9c-9b27-9033eff90caf/f061c422-8d4d-42ec-ab55-d73c4fa49cfc/master.m3u8",
+            "logo": "",
+            "title": "NHL LIVE ALT",
+            "type": "0"
+          },
+          {
+            "api": "",
             "link": "https://edge2caster.pro/hls/uyopzarf50.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
             "logo": "",
             "title": "SPORTIFy Live",
@@ -1274,6 +1281,10 @@
           {
             "logo": "",
             "title": "NHL LIVE HD"
+          },
+          {
+            "logo": "",
+            "title": "NHL LIVE ALT"
           },
           {
             "logo": "",
