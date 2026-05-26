@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-26T00:00:48.236952",
+  "last_updated": "2026-05-26T00:10:26.419260",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "05:25:17 AM 26-05-2026",
+    "Last update time": "05:35:19 AM 26-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -488,6 +488,13 @@
           },
           {
             "api": "",
+            "link": "https://601.formaturamaxi.com.br/wwe.m3u8",
+            "logo": "",
+            "title": "RAW LIVE HD",
+            "type": "0"
+          },
+          {
+            "api": "",
             "link": "https://nh5.hocloud.cfd/live/wwe/stream.m3u8",
             "logo": "",
             "title": "WWE LIVE HD",
@@ -530,6 +537,10 @@
           {
             "logo": "",
             "title": "SportzX WWE"
+          },
+          {
+            "logo": "",
+            "title": "RAW LIVE HD"
           },
           {
             "logo": "",
@@ -1491,185 +1502,6 @@
       },
       {
         "adsLimit": "0",
-        "cat": "Bundesliga 🇩🇪",
-        "channels_data": [
-          {
-            "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
-            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
-            "logo": "",
-            "title": "beIN ENGLISH",
-            "type": "1"
-          },
-          {
-            "api": "4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733",
-            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd",
-            "logo": "",
-            "title": "SporTV BR",
-            "type": "1"
-          },
-          {
-            "api": "",
-            "link": "https://instreams.pro/bil2/bundes1/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
-            "logo": "",
-            "title": "SKY BUNDESLIGA SD",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/25 20:30:00 +0000",
-          "eventName": "Paderborn vs Wolfsburg",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/25 18:30:00 +0000",
-          "teamA": "Paderborn",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2561/image",
-          "teamB": "Wolfsburg",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2524/image"
-        },
-        "formatsNew": [
-          {
-            "logo": "",
-            "title": "beIN ENGLISH"
-          },
-          {
-            "logo": "",
-            "title": "SporTV BR"
-          },
-          {
-            "logo": "",
-            "title": "SKY BUNDESLIGA SD"
-          }
-        ],
-        "id": "402",
-        "image": "o",
-        "publish": "1",
-        "title": "Paderborn vs Wolfsburg"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "League Two 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-        "channels_data": [
-          {
-            "api": "8bd8a422acf6481ca386312429058070:a8ae987bf3654b089605d987b78fcaa7",
-            "link": "https://adjara-live-eu.akamaized.net/hdntl=exp=1779790787~acl=%2F*~id=284decba-7860-4f39-b74c-4255087b3a1c~data=hdntl,aXA9MTMuODMuMTYyLjQxJmV4cD0xNzc5NzA0NDE2JmVpZD05NjI2Mzcmb2lkPTEwOCZ0eXBlPVZPRCZ1aWQ9NmhuOVdjfGM1MDA1YzYxLWQ5YzMtNGYyMC1iMDc4LTMyNGM3MTliNWFiZCZjaWQ9ZGNlLnNwdXJzJnB0PW51bGw~hmac=2dc323600917b12047650fdcf64761e764372b75814de40e01f884b3430eb515/dash/live/2001567/303310-322032/manifest-d.mpd",
-            "logo": "",
-            "title": "SETANTA SPORTS",
-            "type": "1"
-          },
-          {
-            "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
-            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
-            "logo": "",
-            "title": "beIN ENGLISH",
-            "type": "1"
-          },
-          {
-            "api": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
-            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
-            "logo": "",
-            "title": "CBS NETWORK",
-            "type": "1"
-          },
-          {
-            "api": "",
-            "link": "https://chatgpt.hereisman.net/playlist/51160/load-playlist?|Referer=https://gooz.aapmains.net",
-            "logo": "",
-            "title": "SKY SPORTS Football",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/25 16:00:00 +0000",
-          "eventName": "Notts County vs Salford City",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/25 14:00:00 +0000",
-          "teamA": "Notts County",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/56/image",
-          "teamB": "Salford",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/37998/image"
-        },
-        "formatsNew": [
-          {
-            "logo": "",
-            "title": "SETANTA SPORTS"
-          },
-          {
-            "logo": "",
-            "title": "beIN ENGLISH"
-          },
-          {
-            "logo": "",
-            "title": "CBS NETWORK"
-          },
-          {
-            "logo": "",
-            "title": "SKY SPORTS Football"
-          }
-        ],
-        "id": "403",
-        "image": "o",
-        "publish": "1",
-        "title": "Notts County vs Salford City"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "Scottish Premiership",
-        "channels_data": [
-          {
-            "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
-            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
-            "logo": "",
-            "title": "beIN ENGLISH",
-            "type": "1"
-          },
-          {
-            "api": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
-            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
-            "logo": "",
-            "title": "CBS NETWORK",
-            "type": "1"
-          },
-          {
-            "api": "",
-            "link": "https://chatgpt.hereisman.net/playlist/51161/load-playlist?|Referer=https://gooz.aapmains.net",
-            "logo": "",
-            "title": "SPORTIFy Live",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/25 21:00:00 +0000",
-          "eventName": "St. Mirren vs Partick Thistle",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/25 19:00:00 +0000",
-          "teamA": "St Mirren",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2359/image",
-          "teamB": "Partick Thistle",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2358/image"
-        },
-        "formatsNew": [
-          {
-            "logo": "",
-            "title": "beIN ENGLISH"
-          },
-          {
-            "logo": "",
-            "title": "CBS NETWORK"
-          },
-          {
-            "logo": "",
-            "title": "SportzX Live"
-          }
-        ],
-        "id": "404",
-        "image": "o",
-        "publish": "1",
-        "title": "St. Mirren vs Partick Thistle"
-      },
-      {
-        "adsLimit": "0",
         "cat": "Brasileirão",
         "channels_data": [
           {
@@ -1701,142 +1533,6 @@
         "image": "o",
         "publish": "1",
         "title": "Coritiba vs Bahia"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "IIHF World",
-        "channels_data": [
-          {
-            "api": "c4088f5f265f9de50cffd80bf89308b7:2c4d2239d96d532b4ec2050653611003",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
-            "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
-            "title": "TSN SPORTS",
-            "type": "1"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/25 17:00:00 +0000",
-          "eventName": "USA vs Hungary",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/25 14:20:00 +0000",
-          "teamA": "USA",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/5738/image",
-          "teamB": "Hungary",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/7053/image"
-        },
-        "formatsNew": [
-          {
-            "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
-            "title": "TSN SPORTS"
-          }
-        ],
-        "id": "406",
-        "image": "o",
-        "publish": "1",
-        "title": "USA vs Hungary"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "IIHF World",
-        "channels_data": [
-          {
-            "api": "daa8ea92553fd16cd6bfae2b8c582715:4042e041b5639b79b69ae07a872eef9b",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3n6slkgh54/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd",
-            "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
-            "title": "TSN SPORTS",
-            "type": "1"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/25 17:00:00 +0000",
-          "eventName": "Czechia vs Norway",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/25 14:20:00 +0000",
-          "teamA": "Czechia",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/5730/image",
-          "teamB": "Norway",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/5913/image"
-        },
-        "formatsNew": [
-          {
-            "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
-            "title": "TSN SPORTS"
-          }
-        ],
-        "id": "407",
-        "image": "o",
-        "publish": "1",
-        "title": "Czechia vs Norway"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "IIHF World",
-        "channels_data": [
-          {
-            "api": "daa8ea92553fd16cd6bfae2b8c582715:4042e041b5639b79b69ae07a872eef9b",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3n6slkgh54/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd",
-            "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
-            "title": "TSN SPORTS",
-            "type": "1"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/25 21:00:00 +0000",
-          "eventName": "Slovenia vs Italy",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/25 18:20:00 +0000",
-          "teamA": "Slovenia",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/5914/image",
-          "teamB": "Italy",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/5733/image"
-        },
-        "formatsNew": [
-          {
-            "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
-            "title": "TSN SPORTS"
-          }
-        ],
-        "id": "408",
-        "image": "o",
-        "publish": "1",
-        "title": "Slovenia vs Italy"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "IIHF World",
-        "channels_data": [
-          {
-            "api": "c4088f5f265f9de50cffd80bf89308b7:2c4d2239d96d532b4ec2050653611003",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
-            "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
-            "title": "TSN SPORTS",
-            "type": "1"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/25 21:00:00 +0000",
-          "eventName": "Germany vs Great Britain",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/25 18:20:00 +0000",
-          "teamA": "Germany",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/5732/image",
-          "teamB": "Great Britain",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/7118/image"
-        },
-        "formatsNew": [
-          {
-            "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
-            "title": "TSN SPORTS"
-          }
-        ],
-        "id": "409",
-        "image": "o",
-        "publish": "1",
-        "title": "Germany vs Great Britain"
       },
       {
         "adsLimit": "0",
