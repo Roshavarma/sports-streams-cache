@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-26T00:40:23.611913",
+  "last_updated": "2026-05-26T00:50:22.110101",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "06:05:19 AM 26-05-2026",
+    "Last update time": "06:15:27 AM 26-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -1205,6 +1205,13 @@
         "cat": "NHL",
         "channels_data": [
           {
+            "api": "afbe72d4cf6d4bc898205d3525c3f49f:36aa2b4bacc64365bc3ef5b927b3363e",
+            "link": "https://adjara-live-eu.akamaized.net/hdntl=exp=1779824932~acl=%2f*~id=e64fa4c1-6eec-4acf-ae50-1554b4a5c362~data=hdntl,aXA9MjAuNTUuMTQuNTMmZXhwPTE3Nzk3Mzg1NjImZWlkPTk2MjYwOCZvaWQ9MTA4JnR5cGU9Vk9EJnVpZD1VNFd6RXV8MzNiNGJhZWQtOTExZi00ZDVjLTkxMWQtNWJlZjAzMTRmYWQ1JmNpZD1kY2Uuc3B1cnMmcHQ9bnVsbA~hmac=fb8db2d327d6c022f85af73f6292aee61bafa7ab307931d2af0cf2f545afc2c9/dash/live/2019413/303497-322036/manifest-d.mpd",
+            "logo": "",
+            "title": "SETANTA SPORTS",
+            "type": "1"
+          },
+          {
             "api": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
             "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
             "logo": "https://play-lh.googleusercontent.com/zG_ZS5v4PfHqWqWLkpVkZB9wRu9MJmEqD4tNpeIYwLOcjU3INQlFeTxoVgwV1R2CbcsI",
@@ -1266,6 +1273,10 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/3680/image"
         },
         "formatsNew": [
+          {
+            "logo": "",
+            "title": "SETANTA SPORTS"
+          },
           {
             "logo": "https://play-lh.googleusercontent.com/zG_ZS5v4PfHqWqWLkpVkZB9wRu9MJmEqD4tNpeIYwLOcjU3INQlFeTxoVgwV1R2CbcsI",
             "title": "PREMIER SPORTS"
@@ -1429,7 +1440,15 @@
         "channels_data": [
           {
             "api": "",
+            "link": "https://chatgpt.hereisman.net/playlist/51200/load-playlist?|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "title": "SPORTIFy MLB",
+            "type": "0"
+          },
+          {
+            "api": "",
             "link": "https://edge2caster.pro/hls/jzabfazkbf27.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+            "logo": "",
             "title": "SPORTIFy LIVE",
             "type": "0"
           }
@@ -1448,6 +1467,10 @@
         "formatsNew": [
           {
             "logo": "",
+            "title": "SportzX MLB"
+          },
+          {
+            "logo": "",
             "title": "SportzX LIVE"
           }
         ],
@@ -1462,7 +1485,15 @@
         "channels_data": [
           {
             "api": "",
+            "link": "https://chatgpt.hereisman.net/playlist/51199/load-playlist?|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "title": "SPORTIFy MLB",
+            "type": "0"
+          },
+          {
+            "api": "",
             "link": "https://edge2caster.pro/hls/dzjhkfazbka26.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+            "logo": "",
             "title": "SPORTIFy Live",
             "type": "0"
           }
@@ -1479,6 +1510,10 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/3628/image"
         },
         "formatsNew": [
+          {
+            "logo": "",
+            "title": "SportzX MLB"
+          },
           {
             "logo": "",
             "title": "SportzX Live"
