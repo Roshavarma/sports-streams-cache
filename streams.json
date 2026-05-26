@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-26T13:50:29.140308",
+  "last_updated": "2026-05-26T14:00:53.794722",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "07:15:28 PM 26-05-2026",
+    "Last update time": "07:25:24 PM 26-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -1167,11 +1167,11 @@
         "cat": "T20 Blast",
         "channels_data": [
           {
-            "api": "",
-            "link": "https://video.twimg.com/amplify_video/2059120457732009984/pl/oKoBJNL3BupMM8I0.m3u8?tag=27&variant_version",
+            "api": "278b8746b7c7410e901af0aa3774f037:15e1142d647b474ebbd49e41efa2a9d7",
+            "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1779876395~acl=%2F*~id=06a6ed72-5ae0-43a8-8362-5cab0c434026~data=hdntl,aXA9NTcuMTUxLjEyMS4xOTMmZXhwPTE3Nzk3OTAwMjUmZWlkPTk2MjYzNyZvaWQ9MTA4JnR5cGU9Vk9EJnVpZD1vZkNEeFJ8Yjk2MWQxY2QtZGNjZS00YTlhLTg3NGYtZDViYzMxZjNmZmM1JmNpZD1kY2Uuc3B1cnMmcHQ9bnVsbA~hmac=51aa3b2bd28bd8405403b15f847fd0222ae1302b5173723be6ab42c91872509e/dash/live/2093720/219029-321032/manifest-d.mpd",
             "logo": "",
-            "title": "SPORTIFy Live",
-            "type": "0"
+            "title": "SKY SPORTS FHD",
+            "type": "1"
           }
         ],
         "eventInfo": {
@@ -1188,7 +1188,7 @@
         "formatsNew": [
           {
             "logo": "",
-            "title": "SportzX Live"
+            "title": "SKY SPORTS FHD"
           }
         ],
         "id": "404",
