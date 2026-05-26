@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-26T18:40:23.423157",
+  "last_updated": "2026-05-26T18:50:24.954070",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "12:05:25 AM 27-05-2026",
+    "Last update time": "12:15:25 AM 27-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -1264,10 +1264,38 @@
         "cat": "Ligue 1 🇫🇷",
         "channels_data": [
           {
-            "api": "",
-            "link": "https://video.twimg.com/amplify_video/2059120457732009984/pl/oKoBJNL3BupMM8I0.m3u8?tag=27&variant_version",
+            "api": "4c4e181717534b7f93e81eb7c673a0b6:e1910de774384a028872a1ef9216a369",
+            "link": "https://adjara-live-eu.akamaized.net/hdntl=exp=1779897264~acl=%2F*~id=fe9ca3a7-0756-445a-8ab8-af6f8e8ee337~data=hdntl,aXA9NTIuMjI1LjI1LjU1JmV4cD0xNzc5ODEwODk0JmVpZD05NjMyNDImb2lkPTEwOCZ0eXBlPVZPRCZ1aWQ9dDc5TldpfDFjNTg3MGRlLTdiNzMtNDJiYS1iNzkyLTUwYWNkODMzZTlhZCZjaWQ9ZGNlLnNwdXJzJnB0PW51bGw~hmac=d584e6cbd0e1a708df4a963d9f5d62a02279446e5e240e969b1298a9c05d27fc/dash/live/2001519/303300-322055/manifest-d.mpd",
             "logo": "",
-            "title": "SPORTIFy Live",
+            "title": "SETANTA SPORTS",
+            "type": "1"
+          },
+          {
+            "api": "",
+            "link": "https://livecdn-tc-livestream.rumsport10.live/stream/1/chunks.m3u8?is_vip=false&token=1779907312-Kv4cPTAAP5YTi-0a08a2fe25dbeb113f43eb07ff9f8720f21ad0d9-85e856968ff6397ebdee4242d623e3b1",
+            "logo": "",
+            "title": "beIN SPORTS HD",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://pulltx.jdnzrgm.com/live/sd-6Mwe5B4DMMMhKnrRUJ.m3u8?txSecret=442039762045ef1d3d4aaf9bab7ab345&txTime=6A1611C9",
+            "logo": "",
+            "title": "DAZN SPORTS EN",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://mainstreams.pro/hls/dza5z8f69.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+            "logo": "",
+            "title": "beIN SPORTS US",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://instreams.pro/bil2/amazon1/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
+            "logo": "",
+            "title": "beIN FR SD",
             "type": "0"
           }
         ],
@@ -1275,7 +1303,7 @@
           "endTime": "2026/05/26 20:45:00 +0000",
           "eventName": "Saint-Étienne vs Nice",
           "eventType": "null",
-          "isHot": "0",
+          "isHot": "1",
           "startTime": "2026/05/26 18:45:00 +0000",
           "teamA": "Saint-Étienne",
           "teamAFlag": "https://img.sofascore.com/api/v1/team/1678/image",
@@ -1285,7 +1313,23 @@
         "formatsNew": [
           {
             "logo": "",
-            "title": "SportzX Live"
+            "title": "SETANTA SPORTS"
+          },
+          {
+            "logo": "",
+            "title": "beIN SPORTS HD"
+          },
+          {
+            "logo": "",
+            "title": "DAZN SPORTS EN"
+          },
+          {
+            "logo": "",
+            "title": "beIN SPORTS US"
+          },
+          {
+            "logo": "",
+            "title": "beIN FR SD"
           }
         ],
         "id": "402",
