@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-26T00:10:26.419260",
+  "last_updated": "2026-05-26T00:20:22.201272",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "05:35:19 AM 26-05-2026",
+    "Last update time": "05:45:24 AM 26-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -488,16 +488,9 @@
           },
           {
             "api": "",
-            "link": "https://601.formaturamaxi.com.br/wwe.m3u8",
-            "logo": "",
-            "title": "RAW LIVE HD",
-            "type": "0"
-          },
-          {
-            "api": "",
             "link": "https://nh5.hocloud.cfd/live/wwe/stream.m3u8",
             "logo": "",
-            "title": "WWE LIVE HD",
+            "title": "WWE LIVE FHD",
             "type": "0"
           },
           {
@@ -540,11 +533,7 @@
           },
           {
             "logo": "",
-            "title": "RAW LIVE HD"
-          },
-          {
-            "logo": "",
-            "title": "WWE LIVE HD"
+            "title": "WWE LIVE FHD"
           },
           {
             "logo": "",
@@ -1505,6 +1494,13 @@
         "cat": "Brasileirão",
         "channels_data": [
           {
+            "api": "56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd",
+            "logo": "",
+            "title": "PREMIERER BR",
+            "type": "1"
+          },
+          {
             "api": "4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733",
             "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd",
             "logo": "",
@@ -1524,6 +1520,10 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/1955/image"
         },
         "formatsNew": [
+          {
+            "logo": "",
+            "title": "PREMIERER BR"
+          },
           {
             "logo": "",
             "title": "SporTV BR"
