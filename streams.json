@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-26T18:50:24.954070",
+  "last_updated": "2026-05-26T19:00:54.173807",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "12:15:25 AM 27-05-2026",
+    "Last update time": "12:30:49 AM 27-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -1912,6 +1912,247 @@
         "image": "o",
         "publish": "1",
         "title": "Milwaukee Brewers vs Cardinals"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "CON. Sudamericana",
+        "channels_data": [
+          {
+            "api": "335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281",
+            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd",
+            "title": "beIN ENGLISH",
+            "type": "1"
+          },
+          {
+            "api": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
+            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
+            "title": "SportDigital Fussball",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/27 00:00:00 +0000",
+          "eventName": "Millonarios vs O'Higgins",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/26 22:00:00 +0000",
+          "teamA": "Millonarios",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/6117/image",
+          "teamB": "O'Higgins",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3163/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "beIN ENGLISH"
+          },
+          {
+            "logo": "",
+            "title": "SportDigital Fussball"
+          }
+        ],
+        "id": "419",
+        "image": "o",
+        "publish": "1",
+        "title": "Millonarios vs O'Higgins"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "CON. Sudamericana",
+        "channels_data": [
+          {
+            "api": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
+            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
+            "title": "SportDigital Fussball",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/27 02:30:00 +0000",
+          "eventName": "Santos vs Deportivo Cuenca",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/27 00:30:00 +0000",
+          "teamA": "Santos",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/1968/image",
+          "teamB": "Cuenca",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/5251/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "SportDigital Fussball"
+          }
+        ],
+        "id": "420",
+        "image": "o",
+        "publish": "1",
+        "title": "Santos vs Deportivo"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "CON. Libertadores",
+        "channels_data": [
+          {
+            "api": "335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281",
+            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd",
+            "title": "beIN ENGLISH",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/27 02:30:00 +0000",
+          "eventName": "Flamengo vs Cusco FC",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/27 00:30:00 +0000",
+          "teamA": "Flamengo",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/5981/image",
+          "teamB": "Cusco",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/63760/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "beIN ENGLISH"
+          }
+        ],
+        "id": "421",
+        "image": "o",
+        "publish": "1",
+        "title": "Flamengo vs Cusco"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "CON. Libertadores",
+        "channels_data": [
+          {
+            "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
+            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
+            "title": "beIN ENGLISH",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/27 00:00:00 +0000",
+          "eventName": "Lanús vs Mirassol",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/26 22:00:00 +0000",
+          "teamA": "Lanús",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3218/image",
+          "teamB": "Mirassol",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/21982/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "beIN ENGLISH"
+          }
+        ],
+        "id": "422",
+        "image": "o",
+        "publish": "1",
+        "title": "Lanús vs Mirassol"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "CON. Libertadores",
+        "channels_data": [
+          {
+            "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
+            "title": "beIN ENGLISH",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/27 00:00:00 +0000",
+          "eventName": "LDU vs Always Ready",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/26 22:00:00 +0000",
+          "teamA": "LDU",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/5257/image",
+          "teamB": "Always Ready",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/268083/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "beIN ENGLISH"
+          }
+        ],
+        "id": "423",
+        "image": "o",
+        "publish": "1",
+        "title": "LDU vs Always Ready"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "CON. Libertadores",
+        "channels_data": [
+          {
+            "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
+            "title": "beIN ENGLISH",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/27 02:30:00 +0000",
+          "eventName": "Universitario vs Deportes Tolima",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/27 00:30:00 +0000",
+          "teamA": "Universitario",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2305/image",
+          "teamB": "Tolima",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/6111/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "beIN ENGLISH"
+          }
+        ],
+        "id": "424",
+        "image": "o",
+        "publish": "1",
+        "title": "Universitario vs Tolima"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "CON. Libertadores",
+        "channels_data": [
+          {
+            "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
+            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
+            "title": "beIN ENGLISH",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/27 02:30:00 +0000",
+          "eventName": "Nacional vs Coquimbo Unido",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/27 00:30:00 +0000",
+          "teamA": "Nacional",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3230/image",
+          "teamB": "Coquimbo Unido",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3165/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "beIN ENGLISH"
+          }
+        ],
+        "id": "425",
+        "image": "o",
+        "publish": "1",
+        "title": "Nacional vs Coquimbo Unido"
       }
     ]
   }
