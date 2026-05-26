@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-26T04:30:34.532082",
+  "last_updated": "2026-05-26T04:40:22.686311",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "09:55:18 AM 26-05-2026",
+    "Last update time": "10:05:19 AM 26-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -1235,7 +1235,8 @@
         "channels_data": [
           {
             "api": "",
-            "link": "https://fallback-video.ivan-flux.workers.dev/video/index.m3u8",
+            "link": "https://video.twimg.com/amplify_video/2059120457732009984/pl/oKoBJNL3BupMM8I0.m3u8?tag=27&variant_version",
+            "logo": "",
             "title": "SPORTIFy Live",
             "type": "0"
           }
@@ -1268,7 +1269,8 @@
         "channels_data": [
           {
             "api": "",
-            "link": "https://fallback-video.ivan-flux.workers.dev/video/index.m3u8",
+            "link": "https://video.twimg.com/amplify_video/2059120457732009984/pl/oKoBJNL3BupMM8I0.m3u8?tag=27&variant_version",
+            "logo": "",
             "title": "SPORTIFy Live",
             "type": "0"
           }
