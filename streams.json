@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-27T02:10:29.518112",
+  "last_updated": "2026-05-27T02:20:23.678139",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "07:35:19 AM 27-05-2026",
+    "Last update time": "07:50:21 AM 27-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -1446,10 +1446,28 @@
         "cat": "CON. Sudamericana",
         "channels_data": [
           {
+            "api": "a7d11d37a1f7611ee88d4db880171f32:68f96d618b0b956b008c445896a25a79",
+            "id": 1,
+            "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ubehitlwzo/out/v1/8e09c381a51f4366a19e979418112e8f/cenc.mpd",
+            "title": "D SPORTS FHD",
+            "type": "1",
+            "webLink": ""
+          },
+          {
             "api": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
-            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
+            "id": 1,
+            "link": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
             "title": "SportDigital Fussball",
-            "type": "1"
+            "type": "1",
+            "webLink": ""
+          },
+          {
+            "api": "",
+            "id": 1,
+            "link": "http://104.251.122.123:8089/fot8/index.m3u8",
+            "title": "LOW QUALITY",
+            "type": "0",
+            "webLink": ""
           }
         ],
         "eventInfo": {
@@ -1466,7 +1484,15 @@
         "formatsNew": [
           {
             "logo": "",
+            "title": "D SPORTS FHD"
+          },
+          {
+            "logo": "",
             "title": "SportDigital Fussball"
+          },
+          {
+            "logo": "",
+            "title": "LOW QUALITY"
           }
         ],
         "id": "420",
