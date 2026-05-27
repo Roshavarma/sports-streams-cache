@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-27T18:50:33.977865",
+  "last_updated": "2026-05-27T19:00:52.972377",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "12:15:25 AM 28-05-2026",
+    "Last update time": "12:25:26 AM 28-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -749,6 +749,13 @@
             "type": "1"
           },
           {
+            "api": "36e7d201f63b45f090f03b5f2a11c746:1259f737f8df4981951220cbbbb33794",
+            "link": "https://adjara-live-eu.akamaized.net/hdntl=exp=1779983862~acl=%2F*~id=ff48809a-1ed0-485b-8e2c-05b8ca345bdb~data=hdntl,aXA9NjQuMjM2LjE0Mi4xNDgmZXhwPTE3Nzk4OTc0OTImZWlkPTk2MzI0MiZvaWQ9MTA4JnR5cGU9Vk9EJnVpZD1wajd1YjZ8YTJmMTZmYmYtZWU3MS00NTY5LThlYmMtOWQwNjMzMWQyYzRiJmNpZD1kY2Uuc3B1cnMmcHQ9bnVsbA~hmac=43b4cb5bdc5747d5cc9a966de9e41b3439b2d750fbf8fc742200802ada806293/dash/live/2019675/303759-322102/manifest-d.mpd",
+            "logo": "",
+            "title": "SETANTA SPORTS",
+            "type": "1"
+          },
+          {
             "api": "38b63f9aaa7b7c7a822c8e14c8a7212e:d6b1f45a59d2dac1a730c7f56c74971a",
             "link": "https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/ESPN-HD/default.mpd",
             "logo": "",
@@ -775,6 +782,34 @@
             "logo": "",
             "title": "TNT SPORTS FHD",
             "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://livecdn-bp-iptv.rumsport7.live/live_abr/325_abrhd.m3u8?is_vip=false&token=397508636a282d0664a97c78856437fa4cf7b893&x-sign=41b1f5c4f57fc34df0a382db15d09392&x-time=1779907500",
+            "logo": "",
+            "title": "TNT SPORTS HD",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/QFAFXUyKK9PrjT94rBOaokksySdf09QdbLZyq13kqXQH8orgNnwBiHnAb_5ZOaaEbFExq1qDdodd5YA_YE8saA/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_delta.m3u8?type=live",
+            "logo": "",
+            "title": "beIN ARABIC FHD",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://pulltx.jdnzrgm.com/live/hd-en-6MwdLJmpA9kvc4YcMk.m3u8?txSecret=faba29c91460fd449e4f2a4ce2c1cdc5&txTime=6A176691",
+            "logo": "",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "http://193.47.62.56/hls/oppp.m3u8|Referer=http://www.fawanews.sc/",
+            "logo": "",
+            "title": "SD SERVER",
+            "type": "0"
           }
         ],
         "eventInfo": {
@@ -796,6 +831,10 @@
           },
           {
             "logo": "",
+            "title": "SETANTA SPORTS"
+          },
+          {
+            "logo": "",
             "title": "ESPN MEXICO FHD"
           },
           {
@@ -809,6 +848,22 @@
           {
             "logo": "",
             "title": "TNT SPORTS FHD"
+          },
+          {
+            "logo": "",
+            "title": "TNT SPORTS HD"
+          },
+          {
+            "logo": "",
+            "title": "beIN ARABIC FHD"
+          },
+          {
+            "logo": "",
+            "title": "SportzX Live"
+          },
+          {
+            "logo": "",
+            "title": "SD SERVER"
           }
         ],
         "id": 50023,
@@ -1420,7 +1475,15 @@
         "channels_data": [
           {
             "api": "",
+            "link": "https://chatgpt.hereisman.net/playlist/51255/load-playlist?|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "title": "SPORTIFy MLB",
+            "type": "0"
+          },
+          {
+            "api": "",
             "link": "https://edge2caster.pro/hls/Czajafjihafch18.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+            "logo": "",
             "title": "SPORTIFy Live",
             "type": "0"
           }
@@ -1437,6 +1500,10 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/3641/image"
         },
         "formatsNew": [
+          {
+            "logo": "",
+            "title": "SportzX MLB"
+          },
           {
             "logo": "",
             "title": "SportzX Live"
