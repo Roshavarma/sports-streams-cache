@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-27T13:30:38.597017",
+  "last_updated": "2026-05-27T13:40:39.659735",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "06:55:28 PM 27-05-2026",
+    "Last update time": "07:00:42 PM 27-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -809,7 +809,99 @@
       {
         "adsLimit": "8",
         "cat": "Indian Premier League",
-        "channels_data": {},
+        "channels_data": [
+          {
+            "api": "1c6eba2c2e7e6cfb8ec88e52b2f7215f:70b8023f64edd20a9f5a2db3xbbD9b3a",
+            "link": "https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/y0noyfzhol/out/v1/60c855bf64ab43ea869800cc78e75a84/cenc.mpd",
+            "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
+            "title": "WILLOW [Ad-Free]",
+            "type": "1"
+          },
+          {
+            "api": "aefc2c8d1c8840f1b6981f856c9269ba:cf8ea114c45b4d6596b27482x8aB74d6",
+            "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1779876402~acl=%2F*~id=1848ec4c-1940-4ed2-83cf-04fe245aa7b6~data=hdntl,aXA9NTcuMTUxLjEyMS4xOTMmZXhwPTE3Nzk3OTAwMzImZWlkPTk2MjYwOCZvaWQ9MTA4JnR5cGU9Vk9EJnVpZD1vZkNEeFJ8Yjk2MWQxY2QtZGNjZS00YTlhLTg3NGYtZDViYzMxZjNmZmM1JmNpZD1kY2Uuc3B1cnMmcHQ9bnVsbA~hmac=6c7d90843d2be2a7fb6a44feae9631b96d60f37b53a6a4732c4b56f73adc1bae/dash/live/2093710/219026-321025/manifest-d.mpd",
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
+            "title": "SKY SPORTS FHD",
+            "type": "1"
+          },
+          {
+            "api": "89c5df2d78115f56a99366a56da51f9b:b30f0983a30d8075048be965y9b\u0017f671",
+            "link": "https://dck1-ac-live.cdn.indazn.com/out/v1/761f422bb93edb7b/96c681081ef542b1bd4bdf94806e5a06/index.mpd",
+            "logo": "",
+            "title": "KAYO HINDI FHD",
+            "type": "1"
+          },
+          {
+            "api": "01c9bbf8137e58378a5ead514998a7b4:fb01e61809e80e5e93a889cdv1dAab22",
+            "link": "https://dck1-fs-live.dtcdn.dazn.com/out/v1/814bffb9b389f652/d65feac5647949e6b45b2674d4715398/index.mpd",
+            "logo": "",
+            "title": "FOX CRICKET FHD",
+            "type": "1"
+          },
+          {
+            "api": "4d346b1d1ae64d4a800409cffa14983e:208c972bd2da4359ac94e694wfe\u001378b6",
+            "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1779876398~acl=%2F*~id=84184cc6-38e7-4b22-8aa3-fb6121c0ee7f~data=hdntl,aXA9NTcuMTUxLjEyMS4xOTMmZXhwPTE3Nzk3OTAwMjgmZWlkPTk2MjY2MiZvaWQ9MTA4JnR5cGU9Vk9EJnVpZD1vZkNEeFJ8Yjk2MWQxY2QtZGNjZS00YTlhLTg3NGYtZDViYzMxZjNmZmM1JmNpZD1kY2Uuc3B1cnMmcHQ9bnVsbA~hmac=2ecc59ba8ccc64c03767e8ca69347fc118e343e60233f2e9db1c581ff63181af/dash/live/2093666/294921-318514/manifest-d.mpd",
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
+            "title": "SKY SPORTS 4k",
+            "type": "1"
+          },
+          {
+            "api": "",
+            "link": "https://dai.google.com/linear/hls/event/mbsfWpAoS2Olw5e-nkM-gw/master.m3u8|user-agent=Cricbuzz/7.00.01 (Linux;Android 13) AndroidXMedia3/1.5.1&x-forwarded-for=1.178.20.23",
+            "logo": "",
+            "title": "NOON SPORTS",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla",
+            "logo": "",
+            "title": "SKY CRICKET",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "http://193.47.62.43/hls/IYYYYQ.m3u8|Referer=http://www.fawanews.sc/",
+            "logo": "",
+            "title": "SD SERVER",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://stb-air.wasmer.app//play.php?id=LIVETV_LIVETVCHANNEL_STAR_SPORTS_1_HD&uid=999&pass=999",
+            "logo": "",
+            "title": "Star Sports HIN",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "http://datahub11.com/live/Jen12345/Jen54321/703300.ts",
+            "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
+            "title": "WILLOW HINDI",
+            "type": "0"
+          },
+          {
+            "api": "=81872faa1d6b45fa9045cdeb2e310000:9b88168e61274587a471962cw6B94675",
+            "link": "https://livetv.hotstar.com/mp1/gec-india-1540065788/fa6a4f0005ef4f90ab24484d165b0aaf/index.mpd?%7Ccookie=hdntl=exp=1779367180~acl=%2F*~id=35f7ade32fbd132abd89fe60553696f4~data=hdntl~hmac=33c340ed531fbbc8b5a3f932879b892b945cc7f2b61e52ef0be61dee04d02149&User-agent=Hotstar;in.startv.hotstar/SportsLover(Android/15)&Referer=https://www.hotstar.com/&origin=https://www.hotstar.com",
+            "logo": "",
+            "title": "STAR SPORTS HIN",
+            "type": "1"
+          },
+          {
+            "api": "b7cdde012ce04e90a08b90622e020000:13603245acab444faef6cab5t98De55f",
+            "link": "https://livetv.hotstar.com/mp1/gec-india-1540065782/fce958099ca84fc3b980e651a4a668a8/index.mpd?%7Ccookie=hdntl=exp=1779367180~acl=%2F*~id=35f7ade32fbd132abd89fe60553696f4~data=hdntl~hmac=33c340ed531fbbc8b5a3f932879b892b945cc7f2b61e52ef0be61dee04d02149&User-agent=Hotstar;in.startv.hotstar/SportsLover(Android/15)&Referer=https://www.hotstar.com/&origin=https://www.hotstar.com",
+            "logo": "",
+            "title": "STAR SPORTS ENG",
+            "type": "1"
+          },
+          {
+            "api": "",
+            "link": "https://jcevents.hotstar.com/bpk-tv/e03bbf7688f4b14faa3782e78851c3d9_CTV/Fallback/e03bbf7688f4b14faa3782e78851c3d9.m3u8?%7Ccookie=hdntl=exp=1779367180~acl=%2F*~id=35f7ade32fbd132abd89fe60553696f4~data=hdntl~hmac=33c340ed531fbbc8b5a3f932879b892b945cc7f2b61e52ef0be61dee04d02149&User-agent=Hotstar;in.startv.hotstar/SportsLover(Android/15)&Referer=https://www.hotstar.com/&origin=https://www.hotstar.com",
+            "logo": "",
+            "title": "IPL ENG [Hotstar]",
+            "type": "0"
+          }
+        ],
         "eventInfo": {
           "endTime": "2026/05/27 18:00:00 +0000",
           "eventName": "Sunrisers Hyderabad vs Rajasthan Royals",
