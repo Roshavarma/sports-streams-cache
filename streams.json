@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-27T19:20:23.020720",
+  "last_updated": "2026-05-27T19:30:36.669119",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "12:45:26 AM 28-05-2026",
+    "Last update time": "12:55:24 AM 28-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -708,11 +708,11 @@
           }
         ],
         "eventInfo": {
-          "endTime": "2026/05/27 17:30:00 +0000",
+          "endTime": "2026/05/28 17:30:00 +0000",
           "eventName": "Ireland vs New Zealand, One-off Test",
           "eventType": "null",
           "isHot": "0",
-          "startTime": "2026/05/27 10:00:00 +0000",
+          "startTime": "2026/05/28 10:00:00 +0000",
           "teamA": "IRE",
           "teamAFlag": "https://img.sofascore.com/api/v1/team/187766/image",
           "teamB": "NZ",
@@ -824,6 +824,13 @@
             "logo": "",
             "title": "SD SERVER",
             "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://cors-proxy.cooks.fyi/https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8",
+            "logo": "",
+            "title": "TUDN Espanol",
+            "type": "0"
           }
         ],
         "eventInfo": {
@@ -886,6 +893,10 @@
           {
             "logo": "",
             "title": "SD SERVER"
+          },
+          {
+            "logo": "",
+            "title": "TUDN Espanol"
           }
         ],
         "id": 50023,
