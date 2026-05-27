@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-27T10:40:27.320135",
+  "last_updated": "2026-05-27T10:50:28.946196",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "04:05:20 PM 27-05-2026",
+    "Last update time": "04:15:29 PM 27-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -494,106 +494,6 @@
       },
       {
         "adsLimit": "0",
-        "cat": "Cricket",
-        "channels_data": [
-          {
-            "api": "967df89d8b95f810d83612d0e6434e95:bc812734404cb0e16a2f086a71db0c2b",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/gayfjxymsg/out/v1/be17780dfcce486098512a5c35858c19/cenc.mpd",
-            "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
-            "title": "Willow FHD AQ",
-            "type": "1"
-          },
-          {
-            "api": "708a98b352bd4418a73a028edd84da8f:b1fa5c2bca4c4b57b924b748564532cb",
-            "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1779306308~acl=%2F*~id=82e93a39-7124-4f90-b824-69b5bed23141~data=hdntl,aXA9MTgwLjE5NC4yNTEuNyZleHA9MTc3OTIxOTkzNiZlaWQ9OTM5OTYyJm9pZD0xNTQmdHlwZT1WT0QmdWlkPVBwa0xwenxmNGFiYzllNS0zMDQyLTQ5MDQtYWU1OS1hMDkzYjlkNDZiYWUmY2lkPWRjZS5maXNmZWQmcHQ9bnVsbA~hmac=b8fa332400f1e9b961a1d142c759f361771c419e06de47ce5c52d68e883230e7/dash/live/2093715/219027-321028/manifest-d.mpd",
-            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
-            "title": "SKY SPORTS FHD",
-            "type": "1"
-          },
-          {
-            "api": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
-            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
-            "logo": "https://play-lh.googleusercontent.com/zG_ZS5v4PfHqWqWLkpVkZB9wRu9MJmEqD4tNpeIYwLOcjU3INQlFeTxoVgwV1R2CbcsI",
-            "title": "PREMIER SPORTS",
-            "type": "1"
-          },
-          {
-            "api": "7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe",
-            "link": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
-            "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png",
-            "title": "FANCODE FHD",
-            "type": "1"
-          },
-          {
-            "api": "709c812e1b4174002605df1d17d34a4c:0bbee6c9c20a0f065bf8369d54cbf83e",
-            "link": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash-sd/enc/qddnwqthpp/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd",
-            "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png",
-            "title": "FANCODE - SD",
-            "type": "1"
-          },
-          {
-            "api": "",
-            "link": "https://cdn16lhr.tamashaweb.com:8087/jazzauth/PAKvsBANTS-2026-ABR/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS84LzIwMjYgMzo1OTowMCBBTSZoYXNoX3ZhbHVlPUlBd1BtNCtKZmZQd1FvY3BhdU9LOEE9PSZ2YWxpZG1pbnV0ZXM9NjA%3D",
-            "logo": "",
-            "title": "TAPMAD [BD]",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://bd-mc-fblive.fancode.com/mumbai/142161_english_hls_e85dce235994710_1ta-di_h264/index.m3u8",
-            "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png",
-            "title": "FANCODE [BD]",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/20 11:45:00 +0000",
-          "eventName": "Bangladesh vs Pakistan",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/20 04:00:00 +0000",
-          "teamA": "BAN",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/187744/image",
-          "teamB": "PAK",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/187754/image"
-        },
-        "formatsNew": [
-          {
-            "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
-            "title": "Willow FHD AQ"
-          },
-          {
-            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
-            "title": "SKY SPORTS FHD"
-          },
-          {
-            "logo": "https://play-lh.googleusercontent.com/zG_ZS5v4PfHqWqWLkpVkZB9wRu9MJmEqD4tNpeIYwLOcjU3INQlFeTxoVgwV1R2CbcsI",
-            "title": "PREMIER SPORTS"
-          },
-          {
-            "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png",
-            "title": "FANCODE FHD"
-          },
-          {
-            "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png",
-            "title": "FANCODE - SD"
-          },
-          {
-            "logo": "",
-            "title": "TAPMAD [BD]"
-          },
-          {
-            "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png",
-            "title": "FANCODE [BD]"
-          }
-        ],
-        "id": 50008,
-        "image": "o",
-        "publish": "1",
-        "title": "Bangladesh vs Pakistan"
-      },
-      {
-        "adsLimit": "0",
         "cat": "Boxing",
         "channels_data": [
           {
@@ -859,14 +759,14 @@
           {
             "api": "f288380ca4cef9ad3f27a92a08e9bb8b:9f18d26291d9230833501f7f822f6875",
             "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd",
-            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10",
+            "logo": "",
             "title": "TNT SPORTS FHD",
             "type": "1"
           },
           {
-            "api": "708a98b352bd4418a73a028edd84da8f:b1fa5c2bca4c4b57b924b748564532cb",
-            "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1779941851~acl=%2F*~id=b03b2d9a-ad0c-4205-ba6c-d5b14b33b903~data=hdntl,aXA9NTIuMTUzLjEzMC4xNDcmZXhwPTE3Nzk4NTU0ODEmZWlkPTk2Mjc2NCZvaWQ9MTA4JnR5cGU9Vk9EJnVpZD1DcDZIY3R8YTFlODk4ZjQtNWQ5Mi00NDk4LTk2YTMtM2U0NGZlYWMyODRkJmNpZD1kY2Uuc3B1cnMmcHQ9bnVsbA~hmac=13415a61cf65c4e24d3d11681ca58560505e0a3647abd61d34d1525123c8e769/dash/live/2093715/219027-321028/manifest-d.mpd",
-            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
+            "api": "01d02c97d1c949f9877acd230dcaa56d:708410b8bf1f4e998931183e8fab5d1e",
+            "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1779698206~acl=%2F*~id=dcd4e583-c8ac-4d3f-a73c-589fa0155dba~data=hdntl,aXA9MjAuMTYxLjQ0LjE3OCZleHA9MTc3OTYxMTgzNiZlaWQ9OTYxOTI1Jm9pZD0xMDgmdHlwZT1WT0QmdWlkPW54ZkJBM3w5OWU3MGNlYy0yYmVkLTQyNmQtODdkNi0zNmFhM2E1YTMzYWMmY2lkPWRjZS5zcHVycyZwdD1udWxs~hmac=7f1ef132b1820605a0a6aafaddbbf6cd352b20d30ab0a706335b2d8b77f23dd7/dash/live/2093719/219037-321031/manifest-d.mpd",
+            "logo": "",
             "title": "SKY SPORTS FHD",
             "type": "1"
           }
@@ -883,6 +783,10 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/187755/image"
         },
         "formatsNew": [
+          {
+            "logo": "",
+            "title": "WILLOW [Ad-Free]"
+          },
           {
             "logo": "",
             "title": "TNT SPORTS FHD"
