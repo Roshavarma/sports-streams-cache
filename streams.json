@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-27T18:33:06.824236",
+  "last_updated": "2026-05-27T18:40:28.539193",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "12:00:50 AM 28-05-2026",
+    "Last update time": "12:05:29 AM 28-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -744,7 +744,15 @@
           {
             "api": "294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b",
             "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd",
+            "logo": "",
             "title": "TNT SPORTS FHD",
+            "type": "1"
+          },
+          {
+            "api": "38b63f9aaa7b7c7a822c8e14c8a7212e:d6b1f45a59d2dac1a730c7f56c74971a",
+            "link": "https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/ESPN-HD/default.mpd",
+            "logo": "",
+            "title": "ESPN MEXICO FHD",
             "type": "1"
           }
         ],
@@ -764,6 +772,10 @@
           {
             "logo": "",
             "title": "TNT SPORTS FHD"
+          },
+          {
+            "logo": "",
+            "title": "ESPN MEXICO FHD"
           }
         ],
         "id": 50023,
@@ -1657,6 +1669,20 @@
             "logo": "",
             "title": "FAST SERVER",
             "type": "0"
+          },
+          {
+            "api": "",
+            "link": "http://193.47.62.55/hls/kikikiQ.m3u8|Referer=http://www.fawanews.sc/",
+            "logo": "",
+            "title": "SD SERVER",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://pull.livecdn.cc/live/4544824.m3u8",
+            "logo": "",
+            "title": "SPY LIVE HD",
+            "type": "0"
           }
         ],
         "eventInfo": {
@@ -1682,6 +1708,14 @@
           {
             "logo": "",
             "title": "FAST SERVER"
+          },
+          {
+            "logo": "",
+            "title": "SD SERVER"
+          },
+          {
+            "logo": "",
+            "title": "SPX LIVE HD"
           }
         ],
         "id": 50063,
