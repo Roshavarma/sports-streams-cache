@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-27T18:40:28.539193",
+  "last_updated": "2026-05-27T18:50:33.977865",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "12:05:29 AM 28-05-2026",
+    "Last update time": "12:15:25 AM 28-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -745,7 +745,7 @@
             "api": "294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b",
             "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd",
             "logo": "",
-            "title": "TNT SPORTS FHD",
+            "title": "TNT SPORTS - AQ",
             "type": "1"
           },
           {
@@ -754,6 +754,27 @@
             "logo": "",
             "title": "ESPN MEXICO FHD",
             "type": "1"
+          },
+          {
+            "api": "1223d5105392cabf1bb9c2c1fdf6539a:340b409f4b8f78a343e0363a7938df38",
+            "link": "https://abkv2pvaaaaaaaamcclyngsfdzn3t.bia-cf.live.pv-cdn.net/gru-nitro/live/clients/dash/enc/iayg0kyrof/out/v1/91dc04907f56415b897faccfa9d252da/cenc.mpd",
+            "logo": "",
+            "title": "CAZE TV FHD",
+            "type": "1"
+          },
+          {
+            "api": "",
+            "link": "https://chatgpt.hereisman.net/playlist/51253/load-playlist?|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "title": "PARAMOUNT+ HD",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://white-quetzal-768819.hostingersite.com/session/eyJ2IjoxLCJraW5kIjoiaGxzX3Byb3h5Iiwic2VydmljZUlkIjoicHB2Iiwic291cmNlVXJsIjoiaHR0cHM6Ly9wb29lbWJlZC5ldS9lbWJlZC91ZWNsLzIwMjYtMDUtMjcvY3J5LXJheSIsImN1c3RvbUhlYWRlcnMiOnsiVXNlci1BZ2VudCI6Ik1vemlsbGEvNS4wIn0sIm92ZXJyaWRlSGVhZGVycyI6ZmFsc2UsIm1vZGUiOiJwcm94eV9wbGF5bGlzdF9rZXkifQ.WWFr5jzdOa51hGNWILIl3mI8U-bVh3humNp8xi_wsaw/master.m3u8",
+            "logo": "",
+            "title": "TNT SPORTS FHD",
+            "type": "0"
           }
         ],
         "eventInfo": {
@@ -771,11 +792,23 @@
         "formatsNew": [
           {
             "logo": "",
-            "title": "TNT SPORTS FHD"
+            "title": "TNT SPORTS - AQ"
           },
           {
             "logo": "",
             "title": "ESPN MEXICO FHD"
+          },
+          {
+            "logo": "",
+            "title": "CAZE TV FHD"
+          },
+          {
+            "logo": "",
+            "title": "PARAMOUNT+ HD"
+          },
+          {
+            "logo": "",
+            "title": "TNT SPORTS FHD"
           }
         ],
         "id": 50023,
