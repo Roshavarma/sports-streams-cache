@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-27T16:50:22.904218",
+  "last_updated": "2026-05-27T17:00:48.526499",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "10:15:30 PM 27-05-2026",
+    "Last update time": "10:25:31 PM 27-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -1625,6 +1625,40 @@
         "image": "o",
         "publish": "1",
         "title": "Liberty vs Phoenix Mercury"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "FIFA Friendlies",
+        "channels_data": [
+          {
+            "api": "7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe",
+            "link": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
+            "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png",
+            "title": "FANCODE FHD",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/27 20:30:00 +0000",
+          "eventName": "Jamaica vs India",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/27 18:30:00 +0000",
+          "teamA": "Jamaica",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/4769/image",
+          "teamB": "India",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/4828/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png",
+            "title": "FANCODE FHD"
+          }
+        ],
+        "id": 50063,
+        "image": "o",
+        "publish": "1",
+        "title": "Jamaica vs India"
       }
     ]
   }
