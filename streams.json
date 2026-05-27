@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-27T04:00:47.070079",
+  "last_updated": "2026-05-27T04:10:25.482066",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "09:25:24 AM 27-05-2026",
+    "Last update time": "09:35:18 AM 27-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -481,60 +481,35 @@
         "channels_data": [
           {
             "api": "",
-            "link": "https://chatgpt.hereisman.net/playlist/51178/load-playlist?|Referer=https://gooz.aapmains.net",
-            "logo": "",
-            "title": "SPORTIFy WWE",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://nh5.hocloud.cfd/live/wwe/stream.m3u8",
-            "logo": "",
-            "title": "WWE LIVE FHD",
-            "type": "0"
-          },
-          {
-            "api": "",
             "link": "https://29pisfqlcvyi.windows-devs.top/AccessLog2/83_FHD/apache.m3u8|Referer=https://29pisfqlcvyi.windows-devs.top/",
-            "logo": "",
             "title": "SPORTIFy HD",
             "type": "0"
           },
           {
             "api": "",
             "link": "https://27lftgqlgzmy.windows-devs.top/AccessLog2/83_FHD/apache.m3u8|Referer=https://27lftgqlgzmy.windows-devs.top/",
-            "logo": "",
             "title": "Backup SD",
             "type": "0"
           },
           {
             "api": "eabd2d95c89e42f2b0b0b40ce4179ea0:0e7e35a07e2c12822316c0dc4873903f",
             "link": "https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd",
-            "logo": "",
             "title": "Tap Sport LQ",
             "type": "1"
           }
         ],
         "eventInfo": {
-          "endTime": "2026/05/26 02:30:00 +0000",
+          "endTime": "2026/06/02 02:30:00 +0000",
           "eventName": "🥊 WWE Monday Night RAW",
           "eventType": "null",
           "isHot": "0",
-          "startTime": "2026/05/26 00:00:00 +0000",
+          "startTime": "2026/06/02 00:00:00 +0000",
           "teamA": "WWE",
           "teamAFlag": "https://images2.minutemediacdn.com/image/upload/c_crop,w_1920,h_1080,x_0,y_0/c_fill,w_1080,ar_16:9,f_auto,q_auto,g_auto/images%2FvoltaxMediaLibrary%2Fmmsport%2Fwrestling_on_fannation%2F01j7cr769n5sz41833rh.jpg",
           "teamB": "WWE",
           "teamBFlag": "https://images2.minutemediacdn.com/image/upload/c_crop,w_1920,h_1080,x_0,y_0/c_fill,w_1080,ar_16:9,f_auto,q_auto,g_auto/images%2FvoltaxMediaLibrary%2Fmmsport%2Fwrestling_on_fannation%2F01j7cr769n5sz41833rh.jpg"
         },
         "formatsNew": [
-          {
-            "logo": "",
-            "title": "SportzX WWE"
-          },
-          {
-            "logo": "",
-            "title": "WWE LIVE FHD"
-          },
           {
             "logo": "",
             "title": "SportzX HD"
@@ -655,11 +630,11 @@
           }
         ],
         "eventInfo": {
-          "endTime": "2026/05/27 02:00:00 +0000",
+          "endTime": "2026/06/03 02:00:00 +0000",
           "eventName": "🥊 WWE NXT",
           "eventType": "null",
           "isHot": "0",
-          "startTime": "2026/05/27 00:00:00 +0000",
+          "startTime": "2026/06/03 00:00:00 +0000",
           "teamA": "NXT",
           "teamAFlag": "https://www.wwe.com/f/styles/wwe_show_logo_sm/public/all/2024/10/NXTonCW--0f06792893241464479338f55596a5bf.png",
           "teamB": "NXT",
@@ -847,15 +822,15 @@
           }
         ],
         "eventInfo": {
-          "endTime": "2026/05/26 18:00:00 +0000",
-          "eventName": "Royal Challengers vs Gujarat Titans",
+          "endTime": "2026/05/27 18:00:00 +0000",
+          "eventName": "Sunrisers Hyderabad vs Rajasthan Royals",
           "eventType": "null",
           "isHot": "0",
-          "startTime": "2026/05/26 14:00:00 +0000",
-          "teamA": "RCB",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/187843/image",
-          "teamB": "GT",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/216006/image"
+          "startTime": "2026/05/27 14:00:00 +0000",
+          "teamA": "SRH",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/187844/image",
+          "teamB": "RR",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/187842/image"
         },
         "formatsNew": [
           {
@@ -917,6 +892,39 @@
         "title": "IPL - 01"
       },
       {
+        "adsLimit": "0",
+        "cat": "Cricket",
+        "channels_data": [
+          {
+            "api": "01d02c97d1c949f9877acd230dcaa56d:708410b8bf1f4e998931183e8fab5d1e",
+            "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1779698206~acl=%2F*~id=dcd4e583-c8ac-4d3f-a73c-589fa0155dba~data=hdntl,aXA9MjAuMTYxLjQ0LjE3OCZleHA9MTc3OTYxMTgzNiZlaWQ9OTYxOTI1Jm9pZD0xMDgmdHlwZT1WT0QmdWlkPW54ZkJBM3w5OWU3MGNlYy0yYmVkLTQyNmQtODdkNi0zNmFhM2E1YTMzYWMmY2lkPWRjZS5zcHVycyZwdD1udWxs~hmac=7f1ef132b1820605a0a6aafaddbbf6cd352b20d30ab0a706335b2d8b77f23dd7/dash/live/2093719/219037-321031/manifest-d.mpd",
+            "title": "SKY SPORTS FHD",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/27 17:30:00 +0000",
+          "eventName": "Ireland vs New Zealand, One-off Test",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/27 10:00:00 +0000",
+          "teamA": "IRE",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/187766/image",
+          "teamB": "NZ",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/187755/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "SKY SPORTS FHD"
+          }
+        ],
+        "id": "367",
+        "image": "oo",
+        "publish": "1",
+        "title": "Ireland vs New Zealand"
+      },
+      {
         "adsLimit": "10",
         "cat": "Tennis",
         "channels_data": [
@@ -946,12 +954,12 @@
           }
         ],
         "eventInfo": {
-          "endTime": "2026/05/26 17:59:00 +0000",
+          "endTime": "2026/05/27 17:59:00 +0000",
           "eventBanner": "https://iili.io/CHyjeBp.png",
           "eventName": "Roland-Garros",
           "eventType": "null",
           "isHot": "0",
-          "startTime": "2026/05/26 09:00:00 +0000",
+          "startTime": "2026/05/27 09:00:00 +0000",
           "teamA": "Roland-Garros",
           "teamAFlag": "https://img.sofascore.com/api/v1/unique-tournament/2480/image",
           "teamB": "Roland-Garros",
