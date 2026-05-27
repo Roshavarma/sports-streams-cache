@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-27T09:10:26.779621",
+  "last_updated": "2026-05-27T09:20:25.449280",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "02:35:27 PM 27-05-2026",
+    "Last update time": "02:45:34 PM 27-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -531,7 +531,22 @@
       {
         "adsLimit": "0",
         "cat": "Cricket",
-        "channels_data": {},
+        "channels_data": [
+          {
+            "api": "f288380ca4cef9ad3f27a92a08e9bb8b:9f18d26291d9230833501f7f822f6875",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd",
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10",
+            "title": "TNT SPORTS FHD",
+            "type": "1"
+          },
+          {
+            "api": "01d02c97d1c949f9877acd230dcaa56d:708410b8bf1f4e998931183e8fab5d1e",
+            "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1779698206~acl=%2F*~id=dcd4e583-c8ac-4d3f-a73c-589fa0155dba~data=hdntl,aXA9MjAuMTYxLjQ0LjE3OCZleHA9MTc3OTYxMTgzNiZlaWQ9OTYxOTI1Jm9pZD0xMDgmdHlwZT1WT0QmdWlkPW54ZkJBM3w5OWU3MGNlYy0yYmVkLTQyNmQtODdkNi0zNmFhM2E1YTMzYWMmY2lkPWRjZS5zcHVycyZwdD1udWxs~hmac=7f1ef132b1820605a0a6aafaddbbf6cd352b20d30ab0a706335b2d8b77f23dd7/dash/live/2093719/219037-321031/manifest-d.mpd",
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
+            "title": "SKY SPORTS FHD",
+            "type": "1"
+          }
+        ],
         "eventInfo": {
           "endTime": "2026/05/27 17:30:00 +0000",
           "eventName": "Ireland vs New Zealand, One-off Test",
@@ -545,11 +560,11 @@
         },
         "formatsNew": [
           {
-            "logo": "",
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10",
             "title": "TNT SPORTS FHD"
           },
           {
-            "logo": "",
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
             "title": "SKY SPORTS FHD"
           }
         ],
@@ -561,7 +576,15 @@
       {
         "adsLimit": "0",
         "cat": "UEFA Conference",
-        "channels_data": {},
+        "channels_data": [
+          {
+            "api": "294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd",
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10",
+            "title": "TNT SPORTS FHD",
+            "type": "1"
+          }
+        ],
         "eventInfo": {
           "endTime": "2026/05/27 21:10:00 +0000",
           "eventBanner": "https://iili.io/Cdw6C2S.png",
@@ -576,7 +599,7 @@
         },
         "formatsNew": [
           {
-            "logo": "",
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10",
             "title": "TNT SPORTS FHD"
           }
         ],
