@@ -1,95 +1,11 @@
 {
-  "last_updated": "2026-05-27T09:50:29.118152",
+  "last_updated": "2026-05-27T10:00:56.137055",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "03:15:27 PM 27-05-2026",
+    "Last update time": "03:25:25 PM 27-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
-      {
-        "adsLimit": "0",
-        "cat": "NBA",
-        "channels_data": [
-          {
-            "api": "",
-            "link": "https://chatgpt.hereisman.net/playlist/49693/load-playlist?|Referer=https://gooz.aapmains.net",
-            "title": "SPORTIFy NBA",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://balkisusuleimanfema.s3.us-west-2.amazonaws.com/TNT.m3u8",
-            "title": "NBA LIVE - AQ",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://sf-scrapper-hzma.onrender.com/api/stream/basketball/los-angeles-lakers-vs-houston-rockets.m3u8|Referer=https://livetv.moviebite.cc/",
-            "title": "NBA LIVE HD",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://cdn.damitv.live/ppv-extract/play?url=https%3A%2F%2Fpooembed.eu%2Fembed%2Fnba%2F2026-04-26%2Flal-hou",
-            "title": "NBA LIVE FHD",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://mainstreams.pro/hls/zayrtezafgvdv68.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
-            "title": "SPORTIFy Live",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://instreams.pro/US/NBA4/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
-            "title": "HD SERVER",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/04/27 04:20:00 +0000",
-          "eventBanner": "null",
-          "eventName": "Houston Rockets vs Los Angeles Lakers",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/04/27 01:30:00 +0000",
-          "teamA": "Rockets 1",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3412/image",
-          "teamB": "Lakers",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3427/image"
-        },
-        "formatsNew": [
-          {
-            "logo": "",
-            "title": "SportzX NBA"
-          },
-          {
-            "logo": "",
-            "title": "NBA LIVE - AQ"
-          },
-          {
-            "logo": "",
-            "title": "NBA LIVE HD"
-          },
-          {
-            "logo": "",
-            "title": "NBA LIVE FHD"
-          },
-          {
-            "logo": "",
-            "title": "SportzX Live"
-          },
-          {
-            "logo": "",
-            "title": "HD SERVER"
-          }
-        ],
-        "id": 50001,
-        "image": "o",
-        "publish": "1",
-        "title": "Houston Rockets"
-      },
       {
         "adsLimit": "0",
         "cat": "F1",
@@ -707,6 +623,41 @@
         "image": "o",
         "publish": "1",
         "title": "IPL - 01"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "Caribbean Premier League",
+        "channels_data": [
+          {
+            "api": "294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd",
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10",
+            "title": "TNT Sports 1",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/16 05:00:00 +0000",
+          "eventBanner": "null",
+          "eventName": "Abahani Limited vs Bashundhara Strikers",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/16 03:00:00 +0000",
+          "teamA": "Abahani Limited",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/413570/image",
+          "teamB": "Bashundhara Strikers",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/413576/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10",
+            "title": "TNT Sports 1"
+          }
+        ],
+        "id": 50042,
+        "image": "oo",
+        "publish": "1",
+        "title": "Llllll demo"
       }
     ]
   }
