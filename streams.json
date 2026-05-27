@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-27T17:30:36.123615",
+  "last_updated": "2026-05-27T17:50:29.657443",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "10:55:18 PM 27-05-2026",
+    "Last update time": "11:15:27 PM 27-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -1681,6 +1681,270 @@
         "image": "o",
         "publish": "1",
         "title": "Jamaica vs India"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "CON. Libertadores",
+        "channels_data": [
+          {
+            "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+            "link": "https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
+            "title": "beIN SPORTS FHD",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/28 00:00:00 +0000",
+          "eventName": "Independiente vs Rosario Central",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/27 22:00:00 +0000",
+          "teamA": "Ind. del Valle",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/39723/image",
+          "teamB": "Rosario Central",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3217/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "beIN SPORTS FHD"
+          }
+        ],
+        "id": 50064,
+        "image": "o",
+        "publish": "1",
+        "title": "Independiente vs Rosario"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "CON. Libertadores",
+        "channels_data": [
+          {
+            "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
+            "link": "https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
+            "title": "beIN SPORTS FHD",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/28 00:00:00 +0000",
+          "eventName": "Libertad vs Universidad",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/27 22:00:00 +0000",
+          "teamA": "Libertad",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/5996/image",
+          "teamB": "UCV",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/249952/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "beIN SPORTS FHD"
+          }
+        ],
+        "id": 50065,
+        "image": "o",
+        "publish": "1",
+        "title": "Libertad vs UCV"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "CON. Libertadores",
+        "channels_data": [
+          {
+            "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
+            "link": "https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
+            "title": "beIN SPORTS FHD",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/28 02:30:00 +0000",
+          "eventName": "Fluminense vs La Guaira",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/28 00:30:00 +0000",
+          "teamA": "Fluminense",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/1961/image",
+          "teamB": "La Guaira",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/36437/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "beIN SPORTS FHD"
+          }
+        ],
+        "id": 50066,
+        "image": "o",
+        "publish": "1",
+        "title": "Fluminense vs La Guaira"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "CON. Libertadores",
+        "channels_data": [
+          {
+            "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+            "link": "https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
+            "title": "beIN SPORTS FHD",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/28 02:30:00 +0000",
+          "eventName": "Bolívar vs Rivadavia",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/28 00:30:00 +0000",
+          "teamA": "Bolívar",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/7059/image",
+          "teamB": "Ind. Rivadavia",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/36842/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "beIN SPORTS FHD"
+          }
+        ],
+        "id": 50067,
+        "image": "o",
+        "publish": "1",
+        "title": "Bolívar vs Rivadavia"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "CON. Libertadores",
+        "channels_data": [
+          {
+            "api": "335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281",
+            "link": "https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd",
+            "title": "beIN SPORTS FHD",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/28 02:30:00 +0000",
+          "eventName": "Peñarol vs Santa Fe",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/28 00:30:00 +0000",
+          "teamA": "Peñarol",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3227/image",
+          "teamB": "Santa Fe",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/6116/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "beIN SPORTS FHD"
+          }
+        ],
+        "id": 50068,
+        "image": "o",
+        "publish": "1",
+        "title": "Peñarol vs Santa Fe"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "CON. Sudamericana",
+        "channels_data": [
+          {
+            "api": "335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281",
+            "link": "https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd",
+            "title": "beIN SPORTS FHD",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/28 00:00:00 +0000",
+          "eventName": "Racing Club vs Independiente",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/27 22:00:00 +0000",
+          "teamA": "Racing",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3215/image",
+          "teamB": "Petrolero",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/372975/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "beIN SPORTS FHD"
+          }
+        ],
+        "id": 50069,
+        "image": "o",
+        "publish": "1",
+        "title": "Racing Club vs Independiente"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "CON. Sudamericana",
+        "channels_data": [
+          {
+            "api": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
+            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
+            "title": "SportDigital Fussball",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/28 00:00:00 +0000",
+          "eventName": "Atlético Mineiro vs Puerto Cabello",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/27 22:00:00 +0000",
+          "teamA": "Atlético-MG",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/1977/image",
+          "teamB": "Puerto Cabello",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/230725/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "SportDigital Fussball"
+          }
+        ],
+        "id": 50070,
+        "image": "o",
+        "publish": "1",
+        "title": "Atlético Mineiro vs Puerto Cabello"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "CON. Sudamericana",
+        "channels_data": [
+          {
+            "api": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
+            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
+            "title": "SportDigital Fussball",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/28 02:30:00 +0000",
+          "eventName": "RB Bragantino vs Carabobo",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/28 00:30:00 +0000",
+          "teamA": "RB Bragantino",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/1999/image",
+          "teamB": "Carabobo",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/6229/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "SportDigital Fussball"
+          }
+        ],
+        "id": 50071,
+        "image": "o",
+        "publish": "1",
+        "title": "RB Bragantino vs Carabobo"
       }
     ]
   }
