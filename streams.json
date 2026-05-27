@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-27T11:30:45.153310",
+  "last_updated": "2026-05-27T11:41:05.829185",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "04:55:24 PM 27-05-2026",
+    "Last update time": "05:05:21 PM 27-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -561,6 +561,72 @@
         "title": "WWE Smackdown"
       },
       {
+        "adsLimit": "0",
+        "cat": "WNBA",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://edgestreams.pro/hls/ztyarueaghj71.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/28 02:30:00 +0000",
+          "eventName": "Chicago Sky vs Toronto Tempo",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/28 00:00:00 +0000",
+          "teamA": "Chicago",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/35546/image",
+          "teamB": "Tempo",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/1166445/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "SportzX Live"
+          }
+        ],
+        "id": 50016,
+        "image": "o",
+        "publish": "1",
+        "title": "Chicago Sky vs Toronto Tempo"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "WNBA",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://edge2caster.pro/hls/pllmazjkdzajh72.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/28 03:30:00 +0000",
+          "eventName": "Lynx vs Atlanta Dream",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/28 01:00:00 +0000",
+          "teamA": "Lynx",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3440/image",
+          "teamB": "Atlanta",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/35545/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "SportzX Live"
+          }
+        ],
+        "id": 50017,
+        "image": "o",
+        "publish": "1",
+        "title": "Lynx vs Atlanta Dream"
+      },
+      {
         "adsLimit": "10",
         "cat": "Tennis",
         "channels_data": {},
@@ -812,6 +878,72 @@
       },
       {
         "adsLimit": "0",
+        "cat": "WNBA",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://edge2caster.pro/hls/fdgsqdfawa73.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/28 04:30:00 +0000",
+          "eventName": "Portland Fire vs Connecticut Sun",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/28 02:00:00 +0000",
+          "teamA": "Fire",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/1166446/image",
+          "teamB": "Connecticut",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/35547/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "SportzX Live"
+          }
+        ],
+        "id": 50030,
+        "image": "o",
+        "publish": "1",
+        "title": "Portland Fire vs Connecticut Sun"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "WNBA",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://edge2caster.pro/hls/yjtzafghvjza74.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/28 04:30:00 +0000",
+          "eventName": "Seattle Storm vs Mystics",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/28 02:00:00 +0000",
+          "teamA": "Storm",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3448/image",
+          "teamB": "Mystics",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3454/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "SportzX Live"
+          }
+        ],
+        "id": 50031,
+        "image": "o",
+        "publish": "1",
+        "title": "Seattle Storm vs Mystics"
+      },
+      {
+        "adsLimit": "0",
         "cat": "MLB",
         "channels_data": [
           {
@@ -941,6 +1073,73 @@
         "image": "o",
         "publish": "1",
         "title": "Kansas City Royals"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "NHL",
+        "channels_data": [
+          {
+            "api": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
+            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
+            "logo": "",
+            "title": "PREMIER SPORTS",
+            "type": "1"
+          },
+          {
+            "api": "326058ffe1cd4d3383781b36ca9145d1:99d405d46f114eff96789673e57d0121",
+            "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1779897264~acl=%2F*~id=fe9ca3a7-0756-445a-8ab8-af6f8e8ee337~data=hdntl,aXA9NTIuMjI1LjI1LjU1JmV4cD0xNzc5ODEwODk0JmVpZD05NjMyNDImb2lkPTEwOCZ0eXBlPVZPRCZ1aWQ9dDc5TldpfDFjNTg3MGRlLTdiNzMtNDJiYS1iNzkyLTUwYWNkODMzZTlhZCZjaWQ9ZGNlLnNwdXJzJnB0PW51bGw~hmac=d584e6cbd0e1a708df4a963d9f5d62a02279446e5e240e969b1298a9c05d27fc/dash/live/2093724/219039-321035/manifest-d.mpd",
+            "logo": "",
+            "title": "ESPN SPORTS",
+            "type": "1"
+          },
+          {
+            "api": "",
+            "link": "https://edge2caster.pro/hls/uyopzarf50.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+            "logo": "",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://instreams.pro/US/NHL1/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
+            "logo": "",
+            "title": "HD SERVER",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/28 03:00:00 +0000",
+          "eventName": "Canadiens vs Carolina Hurricanes",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/28 00:00:00 +0000",
+          "teamA": "Canadiens",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3690/image",
+          "teamB": "Hurricanes",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3680/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "PREMIER SPORTS"
+          },
+          {
+            "logo": "",
+            "title": "ESPN SPORTS"
+          },
+          {
+            "logo": "",
+            "title": "SportzX Live"
+          },
+          {
+            "logo": "",
+            "title": "HD SERVER"
+          }
+        ],
+        "id": 50038,
+        "image": "o",
+        "publish": "1",
+        "title": "Carolina Hurricanes"
       },
       {
         "adsLimit": "0",
@@ -1271,6 +1470,39 @@
         "image": "o",
         "publish": "1",
         "title": "Red Sox vs Atlanta Braves"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "WNBA",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://edge2caster.pro/hls/bvnsqdfvgha70.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/28 01:30:00 +0000",
+          "eventName": "Liberty vs Phoenix Mercury",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/27 23:00:00 +0000",
+          "teamA": "Liberty",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3446/image",
+          "teamB": "Mercury",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3444/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "SportzX Live"
+          }
+        ],
+        "id": 50062,
+        "image": "o",
+        "publish": "1",
+        "title": "Liberty vs Phoenix Mercury"
       }
     ]
   }
