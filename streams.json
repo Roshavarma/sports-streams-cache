@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-27T13:40:39.659735",
+  "last_updated": "2026-05-27T13:50:29.860930",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "07:00:42 PM 27-05-2026",
+    "Last update time": "07:15:37 PM 27-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -811,17 +811,31 @@
         "cat": "Indian Premier League",
         "channels_data": [
           {
-            "api": "1c6eba2c2e7e6cfb8ec88e52b2f7215f:70b8023f64edd20a9f5a2db3xbbD9b3a",
+            "api": "7a80c9cc7aaf99691c778fdb73200d3d:4def6c498d89e3bd6ffece81cf7233a7",
             "link": "https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/y0noyfzhol/out/v1/60c855bf64ab43ea869800cc78e75a84/cenc.mpd",
-            "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
+            "name": "WILLOW [Ad-Free]",
             "title": "WILLOW [Ad-Free]",
             "type": "1"
           },
           {
-            "api": "aefc2c8d1c8840f1b6981f856c9269ba:cf8ea114c45b4d6596b27482x8aB74d6",
-            "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1779876402~acl=%2F*~id=1848ec4c-1940-4ed2-83cf-04fe245aa7b6~data=hdntl,aXA9NTcuMTUxLjEyMS4xOTMmZXhwPTE3Nzk3OTAwMzImZWlkPTk2MjYwOCZvaWQ9MTA4JnR5cGU9Vk9EJnVpZD1vZkNEeFJ8Yjk2MWQxY2QtZGNjZS00YTlhLTg3NGYtZDViYzMxZjNmZmM1JmNpZD1kY2Uuc3B1cnMmcHQ9bnVsbA~hmac=6c7d90843d2be2a7fb6a44feae9631b96d60f37b53a6a4732c4b56f73adc1bae/dash/live/2093710/219026-321025/manifest-d.mpd",
-            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
+            "api": "aefc2c8d1c8840f1b6981f856c9269ba:cf8ea114c45b4d6596b2748258ab74d6",
+            "link": "https://dice-live-oc.akamaized.net/exp=1779964324~acl=%2f*~id=9a62c341-f5b7-4e27-bcc0-0d2e4cf56d19~data=hdntl,aXA9MzguMTM3LjUwLjg0JmV4cD0xNzc5ODc3OTUzJmVpZD04Mzc5MTcmb2lkPTIyJnR5cGU9Vk9EJnVpZD1udWxsJmNpZD1udWxsJnB0PW51bGw~hmac=edbd1435954e4efc123ba6005840759c70409aa19c4cd6f965657bff7cfffa39/dash/live/2093710/219026-321025/manifest-d.mpd",
+            "name": "SKY SPORTS FHD",
             "title": "SKY SPORTS FHD",
+            "type": "1"
+          },
+          {
+            "api": "01c9bbf8137e58378a5ead514998a7b4:fb01e61809e80e5e93a889cd31daab22",
+            "link": "https://dck1-fs-live.dtcdn.dazn.com/out/v1/814bffb9b389f652/d65feac5647949e6b45b2674d4715398/index.mpd",
+            "name": "FOX CRICKET FHD",
+            "title": "FOX CRICKET FHD",
+            "type": "1"
+          },
+          {
+            "api": "4d346b1d1ae64d4a800409cffa14983e:208c972bd2da4359ac94e6944fe378b6",
+            "link": "https://dice-live-oc.akamaized.net/exp=1779964324~acl=%2f*~id=9a62c341-f5b7-4e27-bcc0-0d2e4cf56d19~data=hdntl,aXA9MzguMTM3LjUwLjg0JmV4cD0xNzc5ODc3OTUzJmVpZD04Mzc5MTcmb2lkPTIyJnR5cGU9Vk9EJnVpZD1udWxsJmNpZD1udWxsJnB0PW51bGw~hmac=edbd1435954e4efc123ba6005840759c70409aa19c4cd6f965657bff7cfffa39/dash/live/2093666/294921-318514/manifest-d.mpd",
+            "name": "SKY SPORTS 4k",
+            "title": "SKY SPORTS 4k",
             "type": "1"
           },
           {
@@ -832,17 +846,10 @@
             "type": "1"
           },
           {
-            "api": "01c9bbf8137e58378a5ead514998a7b4:fb01e61809e80e5e93a889cdv1dAab22",
-            "link": "https://dck1-fs-live.dtcdn.dazn.com/out/v1/814bffb9b389f652/d65feac5647949e6b45b2674d4715398/index.mpd",
-            "logo": "",
-            "title": "FOX CRICKET FHD",
-            "type": "1"
-          },
-          {
-            "api": "4d346b1d1ae64d4a800409cffa14983e:208c972bd2da4359ac94e694wfe\u001378b6",
-            "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1779876398~acl=%2F*~id=84184cc6-38e7-4b22-8aa3-fb6121c0ee7f~data=hdntl,aXA9NTcuMTUxLjEyMS4xOTMmZXhwPTE3Nzk3OTAwMjgmZWlkPTk2MjY2MiZvaWQ9MTA4JnR5cGU9Vk9EJnVpZD1vZkNEeFJ8Yjk2MWQxY2QtZGNjZS00YTlhLTg3NGYtZDViYzMxZjNmZmM1JmNpZD1kY2Uuc3B1cnMmcHQ9bnVsbA~hmac=2ecc59ba8ccc64c03767e8ca69347fc118e343e60233f2e9db1c581ff63181af/dash/live/2093666/294921-318514/manifest-d.mpd",
-            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
-            "title": "SKY SPORTS 4k",
+            "api": "688d8c827ef18b5258ad18c1173f673b:d26b95548e8812e72e3706b8be5030bc",
+            "link": "https://a57live-pv-ta-amazon.akamaized.net/iad-nitro/live/clients/dash/enc/2gvz3ny1qt/out/v1/7f41f2d7317249de95ed9dfa4103bde4/cenc.mpd",
+            "name": "WILLOW HD [ALT]",
+            "title": "WILLOW HD [ALT]",
             "type": "1"
           },
           {
