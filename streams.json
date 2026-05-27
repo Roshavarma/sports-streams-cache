@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-27T05:00:46.033750",
+  "last_updated": "2026-05-27T05:10:23.932259",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "10:25:17 AM 27-05-2026",
+    "Last update time": "10:35:28 AM 27-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -955,7 +955,7 @@
         ],
         "eventInfo": {
           "endTime": "2026/05/27 17:59:00 +0000",
-          "eventBanner": "https://iili.io/CHyjeBp.png",
+          "eventBanner": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjj3okpZHoQnNASDhpBV7SzVG0tI4oyqJIF456oUlJgWhXQp_xMZl5CINEoa1nbww8PvXerNMJKww82XNz97KvRCKbHbdPyP2bX-So5gZ0Z-cRjhJFy4LMU027HIsoBBHBbECXOz7isNBcYQ-6iG2b7zpumzbMhhI9WiXCfYV6Huwat77GacwqNG5a9pao/s1600/Roland-Garros.png",
           "eventName": "Roland-Garros",
           "eventType": "null",
           "isHot": "0",
@@ -999,105 +999,6 @@
         "image": "o",
         "publish": "1",
         "title": "Roland-Garros"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "MLB",
-        "channels_data": [
-          {
-            "api": "",
-            "link": "https://mainstreams.pro/hls/hefbafbakx28.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-            "title": "SPORTIFy Live",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/27 04:45:00 +0000",
-          "eventName": "Giants vs Arizona Diamondbacks",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/27 01:45:00 +0000",
-          "teamA": "Giants",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3634/image",
-          "teamB": "Diamondbacks",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3640/image"
-        },
-        "formatsNew": [
-          {
-            "logo": "",
-            "title": "SportzX Live"
-          }
-        ],
-        "id": "397",
-        "image": "o",
-        "publish": "1",
-        "title": "Arizona Diamondbacks"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "MLB",
-        "channels_data": [
-          {
-            "api": "",
-            "link": "https://mainstreams.pro/hls/jzabfazkbf27.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-            "title": "SPORTIFy LIVE",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/27 04:40:00 +0000",
-          "eventName": "Athletics vs Seattle Mariners",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/27 01:40:00 +0000",
-          "teamA": "Athletics",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3645/image",
-          "teamB": "Mariners",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3641/image"
-        },
-        "formatsNew": [
-          {
-            "logo": "",
-            "title": "SportzX LIVE"
-          }
-        ],
-        "id": "398",
-        "image": "o",
-        "publish": "1",
-        "title": "Athletics"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "MLB",
-        "channels_data": [
-          {
-            "api": "",
-            "link": "https://mainstreams.pro/hls/hfzljfahzcax29.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-            "title": "SPORTIFy Live",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/27 05:10:00 +0000",
-          "eventName": "Dodgers vs Colorado Rockies",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/27 02:10:00 +0000",
-          "teamA": "Dodgers",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3638/image",
-          "teamB": "Rockies",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3628/image"
-        },
-        "formatsNew": [
-          {
-            "logo": "",
-            "title": "SportzX Live"
-          }
-        ],
-        "id": "399",
-        "image": "o",
-        "publish": "1",
-        "title": "Colorado Rockies"
       },
       {
         "adsLimit": "0",
