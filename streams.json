@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-27T21:10:21.978245",
+  "last_updated": "2026-05-27T21:20:27.344925",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "02:35:24 AM 28-05-2026",
+    "Last update time": "02:45:28 AM 28-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -1756,84 +1756,6 @@
         "image": "o",
         "publish": "1",
         "title": "Liberty vs Phoenix Mercury"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "FIFA Friendlies",
-        "channels_data": [
-          {
-            "api": "",
-            "link": "https://fncd.kuvuslov.cymru/mumbai/142667_english_hls_a583759b9587118_1ta-di_h264/index.m3u8|origin=https://famcodexwebs.pages.dev",
-            "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png",
-            "title": "FANCODE FHD",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://pul-tenm.nbs3g.com/live/sd-1-4544824.m3u8?txSecret=1a6d9a9d8b42017afc85f23c475e08e0&txTime=6A1877D9",
-            "logo": "",
-            "title": "SPORTIFy Live",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://pulltx.jdnzrgm.com/live/sd-6Mwe5ZtgDaegDcemdx.m3u8?txSecret=208c71593ca5d16b98d530da01da0de4&txTime=6A1761E1",
-            "logo": "",
-            "title": "FAST SERVER",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "http://193.47.62.55/hls/kikikiQ.m3u8|Referer=http://www.fawanews.sc/",
-            "logo": "",
-            "title": "SD SERVER",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://pull.livecdn.cc/live/4544824.m3u8",
-            "logo": "",
-            "title": "SPY LIVE HD",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/27 20:30:00 +0000",
-          "eventName": "Jamaica vs India",
-          "eventType": "null",
-          "isHot": "1",
-          "startTime": "2026/05/27 18:30:00 +0000",
-          "teamA": "Jamaica",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/4769/image",
-          "teamB": "India",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/4828/image"
-        },
-        "formatsNew": [
-          {
-            "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png",
-            "title": "FANCODE FHD"
-          },
-          {
-            "logo": "",
-            "title": "SportzX Live"
-          },
-          {
-            "logo": "",
-            "title": "FAST SERVER"
-          },
-          {
-            "logo": "",
-            "title": "SD SERVER"
-          },
-          {
-            "logo": "",
-            "title": "SPX LIVE HD"
-          }
-        ],
-        "id": 50063,
-        "image": "o",
-        "publish": "1",
-        "title": "Jamaica vs India"
       },
       {
         "adsLimit": "0",
