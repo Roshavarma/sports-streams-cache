@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-27T09:40:24.144756",
+  "last_updated": "2026-05-27T09:50:29.118152",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "03:05:25 PM 27-05-2026",
+    "Last update time": "03:15:27 PM 27-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -707,40 +707,6 @@
         "image": "o",
         "publish": "1",
         "title": "IPL - 01"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "FA Cup",
-        "channels_data": [
-          {
-            "api": "",
-            "link": "https://fallback-video.ivan-flux.workers.dev/video/index.m3u8",
-            "logo": "",
-            "title": "Default",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/16 16:00:00 +0000",
-          "eventName": "Chelsea vs Manchester City",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/16 14:00:00 +0000",
-          "teamA": "Chelsea",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/38/image",
-          "teamB": "Manchester City",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/17/image"
-        },
-        "formatsNew": [
-          {
-            "logo": "",
-            "title": "Default"
-          }
-        ],
-        "id": 50042,
-        "image": "o",
-        "publish": "1",
-        "title": "Chelsea vs Manchester City"
       }
     ]
   }
