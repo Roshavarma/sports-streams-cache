@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-27T09:30:41.294146",
+  "last_updated": "2026-05-27T09:40:24.144756",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "02:55:23 PM 27-05-2026",
+    "Last update time": "03:05:25 PM 27-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -540,8 +540,8 @@
             "type": "1"
           },
           {
-            "api": "01d02c97d1c949f9877acd230dcaa56d:708410b8bf1f4e998931183e8fab5d1e",
-            "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1779698206~acl=%2F*~id=dcd4e583-c8ac-4d3f-a73c-589fa0155dba~data=hdntl,aXA9MjAuMTYxLjQ0LjE3OCZleHA9MTc3OTYxMTgzNiZlaWQ9OTYxOTI1Jm9pZD0xMDgmdHlwZT1WT0QmdWlkPW54ZkJBM3w5OWU3MGNlYy0yYmVkLTQyNmQtODdkNi0zNmFhM2E1YTMzYWMmY2lkPWRjZS5zcHVycyZwdD1udWxs~hmac=7f1ef132b1820605a0a6aafaddbbf6cd352b20d30ab0a706335b2d8b77f23dd7/dash/live/2093719/219037-321031/manifest-d.mpd",
+            "api": "708a98b352bd4418a73a028edd84da8f:b1fa5c2bca4c4b57b924b748564532cb",
+            "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1779941851~acl=%2F*~id=b03b2d9a-ad0c-4205-ba6c-d5b14b33b903~data=hdntl,aXA9NTIuMTUzLjEzMC4xNDcmZXhwPTE3Nzk4NTU0ODEmZWlkPTk2Mjc2NCZvaWQ9MTA4JnR5cGU9Vk9EJnVpZD1DcDZIY3R8YTFlODk4ZjQtNWQ5Mi00NDk4LTk2YTMtM2U0NGZlYWMyODRkJmNpZD1kY2Uuc3B1cnMmcHQ9bnVsbA~hmac=13415a61cf65c4e24d3d11681ca58560505e0a3647abd61d34d1525123c8e769/dash/live/2093715/219027-321028/manifest-d.mpd",
             "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
             "title": "SKY SPORTS FHD",
             "type": "1"
@@ -707,6 +707,40 @@
         "image": "o",
         "publish": "1",
         "title": "IPL - 01"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "FA Cup",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://fallback-video.ivan-flux.workers.dev/video/index.m3u8",
+            "logo": "",
+            "title": "Default",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/16 16:00:00 +0000",
+          "eventName": "Chelsea vs Manchester City",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/16 14:00:00 +0000",
+          "teamA": "Chelsea",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/38/image",
+          "teamB": "Manchester City",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/17/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "Default"
+          }
+        ],
+        "id": 50042,
+        "image": "o",
+        "publish": "1",
+        "title": "Chelsea vs Manchester City"
       }
     ]
   }
