@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-27T04:30:36.855084",
+  "last_updated": "2026-05-27T04:38:58.724397",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "09:55:21 AM 27-05-2026",
+    "Last update time": "10:05:16 AM 27-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -999,39 +999,6 @@
         "image": "o",
         "publish": "1",
         "title": "Roland-Garros"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "MLB",
-        "channels_data": [
-          {
-            "api": "",
-            "link": "https://mainstreams.pro/hls/dzjhkfazbka26.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-            "title": "SPORTIFy Live",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/27 04:40:00 +0000",
-          "eventName": "San Diego Padres vs Phillies",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/27 01:40:00 +0000",
-          "teamA": "Padres",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3636/image",
-          "teamB": "Phillies",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3635/image"
-        },
-        "formatsNew": [
-          {
-            "logo": "",
-            "title": "SportzX Live"
-          }
-        ],
-        "id": "394",
-        "image": "o",
-        "publish": "1",
-        "title": "San Diego Padres"
       },
       {
         "adsLimit": "0",
