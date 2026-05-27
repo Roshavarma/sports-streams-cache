@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-27T17:20:25.535098",
+  "last_updated": "2026-05-27T17:30:36.123615",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "10:45:29 PM 27-05-2026",
+    "Last update time": "10:55:18 PM 27-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -1647,6 +1647,13 @@
             "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png",
             "title": "FANCODE FHD",
             "type": "1"
+          },
+          {
+            "api": "",
+            "link": "https://pul-tenm.nbs3g.com/live/sd-1-4544824.m3u8?txSecret=1a6d9a9d8b42017afc85f23c475e08e0&txTime=6A1877D9",
+            "logo": "",
+            "title": "SPORTIFy Live",
+            "type": "0"
           }
         ],
         "eventInfo": {
@@ -1664,6 +1671,10 @@
           {
             "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png",
             "title": "FANCODE FHD"
+          },
+          {
+            "logo": "",
+            "title": "SportzX Live"
           }
         ],
         "id": 50063,
