@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-28T01:00:55.769618",
+  "last_updated": "2026-05-28T01:20:22.330627",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "06:25:18 AM 28-05-2026",
+    "Last update time": "06:45:26 AM 28-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -643,12 +643,12 @@
         "cat": "Tennis",
         "channels_data": {},
         "eventInfo": {
-          "endTime": "2026/05/27 17:59:00 +0000",
+          "endTime": "2026/05/28 17:59:00 +0000",
           "eventBanner": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjj3okpZHoQnNASDhpBV7SzVG0tI4oyqJIF456oUlJgWhXQp_xMZl5CINEoa1nbww8PvXerNMJKww82XNz97KvRCKbHbdPyP2bX-So5gZ0Z-cRjhJFy4LMU027HIsoBBHBbECXOz7isNBcYQ-6iG2b7zpumzbMhhI9WiXCfYV6Huwat77GacwqNG5a9pao/s1600/Roland-Garros.png",
           "eventName": "Roland-Garros",
           "eventType": "null",
           "isHot": "0",
-          "startTime": "2026/05/27 09:00:00 +0000",
+          "startTime": "2026/05/28 09:00:00 +0000",
           "teamA": "Roland-Garros",
           "teamAFlag": "https://img.sofascore.com/api/v1/unique-tournament/2480/image",
           "teamB": "Roland-Garros",
@@ -737,62 +737,6 @@
         "image": "oo",
         "publish": "1",
         "title": "Ireland vs New Zealand"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "T20 Blast",
-        "channels_data": [
-          {
-            "api": "ceec087c79e0c57122d3bfd7af266f3d:f219290ebad0344bc40dac21550f2abc",
-            "link": "https://a57live-pv-ta-amazon.akamaized.net/iad-nitro/live/clients/dash/enc/rjmdtiyurd/out/v1/b73f75c2916d4a38b5a9550fbf25e01e/cenc.mpd",
-            "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
-            "title": "WILLOW [Ad-Free]",
-            "type": "1"
-          },
-          {
-            "api": "c7f2a5c5e56147f7b4e5676ca69e22d9:d587532343ef47e4824950c7a9c9ec9f",
-            "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1779983852~acl=%2F*~id=408893a8-f2ad-43e0-a01c-edad808ab1d0~data=hdntl,aXA9NjQuMjM2LjE0Mi4xNDgmZXhwPTE3Nzk4OTc0ODImZWlkPTk2MzUwMiZvaWQ9MTA4JnR5cGU9Vk9EJnVpZD1wajd1YjZ8YTJmMTZmYmYtZWU3MS00NTY5LThlYmMtOWQwNjMzMWQyYzRiJmNpZD1kY2Uuc3B1cnMmcHQ9bnVsbA~hmac=eae06f9ecd9c9c42a762e7c4204944f8db863daf57c4065733a7bba54e56b589/dash/live/2093734/285254-321769/manifest-d.mpd",
-            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
-            "title": "SKY SPORTS FHD",
-            "type": "1"
-          },
-          {
-            "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
-            "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
-            "title": "WILLOW HD",
-            "type": "1"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/27 21:15:00 +0000",
-          "eventName": "Leicestershire vs Derbyshire",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/27 17:30:00 +0000",
-          "teamA": "LEI",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/187839/image",
-          "teamB": "DER",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/187838/image"
-        },
-        "formatsNew": [
-          {
-            "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
-            "title": "WILLOW [Ad-Free]"
-          },
-          {
-            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
-            "title": "SKY SPORTS FHD"
-          },
-          {
-            "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
-            "title": "WILLOW HD"
-          }
-        ],
-        "id": 50024,
-        "image": "o",
-        "publish": "1",
-        "title": "Leicestershire vs Derbyshire"
       },
       {
         "adsLimit": "8",
@@ -1313,96 +1257,6 @@
         "image": "o",
         "publish": "1",
         "title": "England W vs New Zealand W"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "MLB",
-        "channels_data": [
-          {
-            "api": "",
-            "link": "https://chatgpt.hereisman.net/playlist/51247/load-playlist?|Referer=https://gooz.aapmains.net",
-            "logo": "",
-            "title": "SPORTIFy MLB",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://edgestreams.pro/hls/dazhfiach15.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-            "logo": "",
-            "title": "SPORTIFy Live",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/27 20:07:00 +0000",
-          "eventName": "Blue Jays vs Miami Marlins",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/27 17:07:00 +0000",
-          "teamA": "Blue Jays",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3642/image",
-          "teamB": "Marlins",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3639/image"
-        },
-        "formatsNew": [
-          {
-            "logo": "",
-            "title": "SportzX MLB"
-          },
-          {
-            "logo": "",
-            "title": "SportzX Live"
-          }
-        ],
-        "id": 50052,
-        "image": "o",
-        "publish": "1",
-        "title": "Blue Jays vs Miami Marlins"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "MLB",
-        "channels_data": [
-          {
-            "api": "",
-            "link": "https://chatgpt.hereisman.net/playlist/51249/load-playlist?|Referer=https://gooz.aapmains.net",
-            "logo": "",
-            "title": "SPORTIFy MLB",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://edge2caster.pro/hls/16yuitzaerghbhc16.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-            "logo": "",
-            "title": "SPORTIFy Live",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/27 20:10:00 +0000",
-          "eventName": "Cleveland Guardians vs Nationals",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/27 17:10:00 +0000",
-          "teamA": "Guardians",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3650/image",
-          "teamB": "Nationals",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/5930/image"
-        },
-        "formatsNew": [
-          {
-            "logo": "",
-            "title": "SportzX MLB"
-          },
-          {
-            "logo": "",
-            "title": "SportzX Live"
-          }
-        ],
-        "id": 50053,
-        "image": "o",
-        "publish": "1",
-        "title": "Guardians vs Nationals"
       },
       {
         "adsLimit": "0",
