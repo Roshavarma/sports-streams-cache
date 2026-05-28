@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-28T00:00:49.724893",
+  "last_updated": "2026-05-28T00:10:24.205780",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "05:25:17 AM 28-05-2026",
+    "Last update time": "05:35:19 AM 28-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -1174,6 +1174,13 @@
         "cat": "NHL",
         "channels_data": [
           {
+            "api": "c6b53f29f0d64b5e8867da266302021e:6fee607c644443399cb97589ea159e7d",
+            "link": "https://adjara-live-eu.akamaized.net/hdntl=exp=1779983860~acl=%2F*~id=5096b6f1-6686-4eb0-8833-c1b5fdc2211f~data=hdntl,aXA9NjQuMjM2LjE0Mi4xNDgmZXhwPTE3Nzk4OTc0ODkmZWlkPTk2MzQ3MCZvaWQ9MTA4JnR5cGU9Vk9EJnVpZD1wajd1YjZ8YTJmMTZmYmYtZWU3MS00NTY5LThlYmMtOWQwNjMzMWQyYzRiJmNpZD1kY2Uuc3B1cnMmcHQ9bnVsbA~hmac=ce24aa29a40245f2927bdb8605c0aa72489d18f48ff789588539286e382f49bf/dash/live/2019470/303499-322103/manifest-d.mpd",
+            "logo": "",
+            "title": "SETANTA SPORTS",
+            "type": "1"
+          },
+          {
             "api": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
             "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
             "logo": "",
@@ -1221,6 +1228,10 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/3680/image"
         },
         "formatsNew": [
+          {
+            "logo": "",
+            "title": "SETANTA SPORTS"
+          },
           {
             "logo": "",
             "title": "PREMIER SPORTS"
