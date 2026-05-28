@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-28T10:10:28.074318",
+  "last_updated": "2026-05-28T10:20:26.028849",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "03:35:29 PM 28-05-2026",
+    "Last update time": "03:40:26 PM 28-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -587,6 +587,13 @@
         "cat": "Cricket",
         "channels_data": [
           {
+            "api": "0db4d11e43d4bd35a3f140a1017b6ea5:c1de4d7ebf91363d4163abf3551004ea",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/xuhsgro1xj/out/v1/57b40e7b99aa405e9eb9ddf64cbc2f38/cenc.mpd",
+            "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
+            "title": "Willow AQ",
+            "type": "1"
+          },
+          {
             "api": "f288380ca4cef9ad3f27a92a08e9bb8b:9f18d26291d9230833501f7f822f6875",
             "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd",
             "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10",
@@ -613,6 +620,10 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/187755/image"
         },
         "formatsNew": [
+          {
+            "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
+            "title": "Willow AQ"
+          },
           {
             "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10",
             "title": "TNT SPORTS FHD"
