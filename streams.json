@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-28T11:00:53.617462",
+  "last_updated": "2026-05-28T11:10:24.618524",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "04:25:28 PM 28-05-2026",
+    "Last update time": "04:35:23 PM 28-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -562,7 +562,7 @@
           },
           {
             "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
-            "title": "SKY SPORTS DAY 4 EX"
+            "title": "SKY SPORTS DAY 5 EX"
           },
           {
             "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
@@ -606,6 +606,13 @@
             "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
             "title": "SKY SPORTS FHD",
             "type": "1"
+          },
+          {
+            "api": "4d346b1d1ae64d4a800409cffa14983e:208c972bd2da4359ac94e6944fe378b6",
+            "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1779983860~acl=%2F*~id=5096b6f1-6686-4eb0-8833-c1b5fdc2211f~data=hdntl,aXA9NjQuMjM2LjE0Mi4xNDgmZXhwPTE3Nzk4OTc0ODkmZWlkPTk2MzQ3MCZvaWQ9MTA4JnR5cGU9Vk9EJnVpZD1wajd1YjZ8YTJmMTZmYmYtZWU3MS00NTY5LThlYmMtOWQwNjMzMWQyYzRiJmNpZD1kY2Uuc3B1cnMmcHQ9bnVsbA~hmac=ce24aa29a40245f2927bdb8605c0aa72489d18f48ff789588539286e382f49bf/dash/live/2093666/294921-318514/manifest-d.mpd",
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
+            "title": "SKY SPORTS 4k",
+            "type": "1"
           }
         ],
         "eventInfo": {
@@ -631,6 +638,10 @@
           {
             "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
             "title": "SKY SPORTS FHD"
+          },
+          {
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
+            "title": "SKY SPORTS 4k"
           }
         ],
         "id": 50022,
@@ -905,9 +916,16 @@
         "cat": "FIFA Friendlies",
         "channels_data": [
           {
-            "link": "https://video.twimg.com/amplify_video/2059710746347577344/pl/0XXoG-KpOWAuxubZ.m3u8?tag=27&variant_version=1",
-            "title": "DEFAULT",
-            "type": "0"
+            "api": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
+            "title": "FOX SPORTS FHD",
+            "type": "1"
+          },
+          {
+            "api": "4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733",
+            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd",
+            "title": "SporTV BR FHD",
+            "type": "1"
           }
         ],
         "eventInfo": {
@@ -924,7 +942,11 @@
         "formatsNew": [
           {
             "logo": "",
-            "title": "DEFAULT"
+            "title": "FOX SPORTS FHD"
+          },
+          {
+            "logo": "",
+            "title": "SporTV BR FHD"
           }
         ],
         "id": 50054,
