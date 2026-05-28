@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-28T01:50:23.563233",
+  "last_updated": "2026-05-28T02:00:55.998732",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "07:15:29 AM 28-05-2026",
+    "Last update time": "07:25:18 AM 28-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -1297,39 +1297,6 @@
         "channels_data": [
           {
             "api": "",
-            "link": "https://edge2caster.pro/hls/ijfnakfidch22.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-            "title": "SPORTIFy Live",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/28 01:40:00 +0000",
-          "eventName": "Detroit Tigers vs Angels",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/27 22:40:00 +0000",
-          "teamA": "Tigers",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3648/image",
-          "teamB": "Angels",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/5929/image"
-        },
-        "formatsNew": [
-          {
-            "logo": "",
-            "title": "SportzX Live"
-          }
-        ],
-        "id": 50059,
-        "image": "o",
-        "publish": "1",
-        "title": "Detroit Tigers vs Angels"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "MLB",
-        "channels_data": [
-          {
-            "api": "",
             "link": "https://mainstreams.pro/hls/jnzkdzjfanch23.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
             "title": "SPORTIFy Live",
             "type": "0"
@@ -1356,84 +1323,6 @@
         "image": "o",
         "publish": "1",
         "title": "Pirates vs Chicago Cubs"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "MLB",
-        "channels_data": [
-          {
-            "api": "",
-            "link": "https://edge2caster.pro/hls/fskjanach24.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-            "title": "SPORTIFy Live",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/28 01:45:00 +0000",
-          "eventName": "Red Sox vs Atlanta Braves",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/27 22:45:00 +0000",
-          "teamA": "Red Sox",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3646/image",
-          "teamB": "Braves",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3656/image"
-        },
-        "formatsNew": [
-          {
-            "logo": "",
-            "title": "SportzX Live"
-          }
-        ],
-        "id": 50061,
-        "image": "o",
-        "publish": "1",
-        "title": "Red Sox vs Atlanta Braves"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "WNBA",
-        "channels_data": [
-          {
-            "api": "",
-            "link": "https://chatgpt.hereisman.net/playlist/51268/load-playlist?|Referer=https://gooz.aapmains.net",
-            "logo": "",
-            "title": "SPORTIFy WNBA",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://edge2caster.pro/hls/bvnsqdfvgha70.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-            "logo": "",
-            "title": "SPORTIFy Live",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/28 01:30:00 +0000",
-          "eventName": "Liberty vs Phoenix Mercury",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/27 23:00:00 +0000",
-          "teamA": "Liberty",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3446/image",
-          "teamB": "Mercury",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3444/image"
-        },
-        "formatsNew": [
-          {
-            "logo": "",
-            "title": "SportzX WNBA"
-          },
-          {
-            "logo": "",
-            "title": "SportzX Live"
-          }
-        ],
-        "id": 50062,
-        "image": "o",
-        "publish": "1",
-        "title": "Liberty vs Phoenix Mercury"
       },
       {
         "adsLimit": "0",
