@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-28T13:50:33.235382",
+  "last_updated": "2026-05-28T14:00:53.113436",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "07:15:38 PM 28-05-2026",
+    "Last update time": "07:25:24 PM 28-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -528,6 +528,49 @@
         "title": "WWE Smackdown"
       },
       {
+        "adsLimit": "0",
+        "cat": "NBA",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://mainstreams.pro/hls/mlkijfezag65.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          },
+          {
+            "api": "",
+            "link": "https://instreams.pro/US/NBA1/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
+            "title": "HD SERVER",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/29 03:30:00 +0000",
+          "eventName": "Spurs vs Thunder",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/29 00:30:00 +0000",
+          "teamA": "Spurs",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3429/image",
+          "teamB": "Thunder",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3418/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "SportzX Live"
+          },
+          {
+            "logo": "",
+            "title": "HD SERVER"
+          }
+        ],
+        "id": 50012,
+        "image": "o",
+        "publish": "1",
+        "title": "Oklahoma City Thunder"
+      },
+      {
         "adsLimit": "10",
         "cat": "Tennis",
         "channels_data": {},
@@ -1020,6 +1063,237 @@
         "image": "o",
         "publish": "1",
         "title": "St Kilda Saints vs Hawthorn Hawks"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "IIHF World",
+        "channels_data": [
+          {
+            "api": "c4088f5f265f9de50cffd80bf89308b7:2c4d2239d96d532b4ec2050653611003",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
+            "title": "TSN 4",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/28 17:00:00 +0000",
+          "eventName": "Canada vs USA",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/28 14:20:00 +0000",
+          "teamA": "Canada",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/5729/image",
+          "teamB": "USA",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/5738/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "TSN 4"
+          }
+        ],
+        "id": 50057,
+        "image": "O",
+        "publish": "1",
+        "title": "Canada vs USA"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "IIHF World",
+        "channels_data": [
+          {
+            "api": "daa8ea92553fd16cd6bfae2b8c582715:4042e041b5639b79b69ae07a872eef9b",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3n6slkgh54/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd",
+            "title": "TSN 2",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/28 17:00:00 +0000",
+          "eventName": "Finland vs Czechia",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/28 14:20:00 +0000",
+          "teamA": "Finland",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/5731/image",
+          "teamB": "Czechia",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/5730/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "TSN 2"
+          }
+        ],
+        "id": 50058,
+        "image": "O",
+        "publish": "1",
+        "title": "Finland vs Czechia"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "IIHF World",
+        "channels_data": [
+          {
+            "api": "daa8ea92553fd16cd6bfae2b8c582715:4042e041b5639b79b69ae07a872eef9b",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3n6slkgh54/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd",
+            "title": "TSN 2",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/28 21:00:00 +0000",
+          "eventName": "Switzerland vs Sweden",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/28 18:20:00 +0000",
+          "teamA": "Switzerland",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/5734/image",
+          "teamB": "Sweden",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/5735/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "TSN 2"
+          }
+        ],
+        "id": 50059,
+        "image": "O",
+        "publish": "1",
+        "title": "Switzerland vs Sweden"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "IIHF World",
+        "channels_data": [
+          {
+            "api": "c4088f5f265f9de50cffd80bf89308b7:2c4d2239d96d532b4ec2050653611003",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
+            "title": "TSN 4",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/28 21:00:00 +0000",
+          "eventName": "Norway vs Latvia",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/28 18:20:00 +0000",
+          "teamA": "Norway",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/5913/image",
+          "teamB": "Latvia",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/5739/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "TSN 4"
+          }
+        ],
+        "id": 50060,
+        "image": "O",
+        "publish": "1",
+        "title": "Norway vs Latvia"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "MLB",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://edgestreams.pro/hls/dazhfiach15.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/28 20:10:00 +0000",
+          "eventName": "Detroit Tigers vs Angels",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/28 17:10:00 +0000",
+          "teamA": "Tigers",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3648/image",
+          "teamB": "Angels",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/5929/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "SportzX Live"
+          }
+        ],
+        "id": 50061,
+        "image": "O",
+        "publish": "1",
+        "title": "Detroit Tigers vs Angels"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "MLB",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://mainstreams.pro/hls/16yuitzaerghbhc16.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/28 21:10:00 +0000",
+          "eventName": "White Sox vs Minnesota Twins",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/28 18:10:00 +0000",
+          "teamA": "White Sox",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3644/image",
+          "teamB": "Twins",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3649/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "SportzX Live"
+          }
+        ],
+        "id": 50062,
+        "image": "O",
+        "publish": "1",
+        "title": "White Sox vs Minnesota Twins"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "MLB",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://edge2caster.pro/hls/ihfazugfyjcazich17.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+            "title": "SPORTIFy Live",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/28 23:10:00 +0000",
+          "eventName": "Red Sox vs Atlanta Braves",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/28 20:10:00 +0000",
+          "teamA": "Red Sox",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3646/image",
+          "teamB": "Braves",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3656/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "",
+            "title": "SportzX Live"
+          }
+        ],
+        "id": 50063,
+        "image": "O",
+        "publish": "1",
+        "title": "Red Sox vs Atlanta Braves"
       }
     ]
   }
