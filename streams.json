@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-28T10:20:26.028849",
+  "last_updated": "2026-05-28T10:30:42.208259",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "03:40:26 PM 28-05-2026",
+    "Last update time": "03:55:19 PM 28-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -986,6 +986,41 @@
         "image": "o",
         "publish": "1",
         "title": "Casa Pia vs Torreense"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "AFL",
+        "channels_data": [
+          {
+            "api": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
+            "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
+            "title": "FOX SPORTS 2",
+            "type": "1"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/28 12:30:00 +0000",
+          "eventBanner": "null",
+          "eventName": "St Kilda Saints vs Hawthorn Hawks",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/28 09:30:00 +0000",
+          "teamA": "St Kilda Saints",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/4453/image",
+          "teamB": "Hawthorn Hawks",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/4445/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
+            "title": "FOX SPORTS 2"
+          }
+        ],
+        "id": 50056,
+        "image": "o",
+        "publish": "1",
+        "title": "St Kilda Saints vs Hawthorn Hawks"
       }
     ]
   }
