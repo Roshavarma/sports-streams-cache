@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-28T00:20:22.733073",
+  "last_updated": "2026-05-28T00:30:34.283397",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "05:45:16 AM 28-05-2026",
+    "Last update time": "05:55:17 AM 28-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -698,13 +698,6 @@
         "cat": "Cricket",
         "channels_data": [
           {
-            "api": "738abe1e048c4c1457e592cd5fe781b5:ef5e8ef6ce1f0b5813911212673969d2",
-            "link": "https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/6le5p4wncm/out/v1/276f12039b4d4fb2a85693c85b6e7bb2/cenc.mpd",
-            "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
-            "title": "WILLOW [Ad-Free]",
-            "type": "1"
-          },
-          {
             "api": "f288380ca4cef9ad3f27a92a08e9bb8b:9f18d26291d9230833501f7f822f6875",
             "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd",
             "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10",
@@ -712,8 +705,8 @@
             "type": "1"
           },
           {
-            "api": "708a98b352bd4418a73a028edd84da8f:b1fa5c2bca4c4b57b924b748564532cb",
-            "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1779962653~acl=%2F*~id=074b6311-83b3-40e2-807d-a54c83beae51~data=hdntl,aXA9MTcyLjIxMC4xNDkuNTQmZXhwPTE3Nzk4NzYyODMmZWlkPTk2MzQ3MCZvaWQ9MTA4JnR5cGU9Vk9EJnVpZD1jM2dFV018MTYxODVhNTYtODFiZS00NWQ3LTk3YjYtOWI5N2E3ZTE3YjIyJmNpZD1kY2Uuc3B1cnMmcHQ9bnVsbA~hmac=f45dd7d9d58a6b10d845f02083b9b895ae3b2a14aca814558db8f97baabb02af/dash/live/2093715/219027-321028/manifest-d.mpd",
+            "api": "aefc2c8d1c8840f1b6981f856c9269ba:cf8ea114c45b4d6596b2748258ab74d6",
+            "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1779983862~acl=%2F*~id=ff48809a-1ed0-485b-8e2c-05b8ca345bdb~data=hdntl,aXA9NjQuMjM2LjE0Mi4xNDgmZXhwPTE3Nzk4OTc0OTImZWlkPTk2MzI0MiZvaWQ9MTA4JnR5cGU9Vk9EJnVpZD1wajd1YjZ8YTJmMTZmYmYtZWU3MS00NTY5LThlYmMtOWQwNjMzMWQyYzRiJmNpZD1kY2Uuc3B1cnMmcHQ9bnVsbA~hmac=43b4cb5bdc5747d5cc9a966de9e41b3439b2d750fbf8fc742200802ada806293/dash/live/2093710/219026-321025/manifest-d.mpd",
             "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
             "title": "SKY SPORTS FHD",
             "type": "1"
@@ -731,10 +724,6 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/187755/image"
         },
         "formatsNew": [
-          {
-            "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
-            "title": "WILLOW [Ad-Free]"
-          },
           {
             "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10",
             "title": "TNT SPORTS FHD"
@@ -902,13 +891,13 @@
           }
         ],
         "eventInfo": {
-          "endTime": "2026/05/27 18:00:00 +0000",
-          "eventName": "Sunrisers Hyderabad vs Rajasthan Royals",
+          "endTime": "2026/05/29 18:00:00 +0000",
+          "eventName": "Gujarat Titans vs Rajasthan Royals",
           "eventType": "null",
           "isHot": "0",
-          "startTime": "2026/05/27 14:00:00 +0000",
-          "teamA": "SRH",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/187844/image",
+          "startTime": "2026/05/29 14:00:00 +0000",
+          "teamA": "GT",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/216006/image",
           "teamB": "RR",
           "teamBFlag": "https://img.sofascore.com/api/v1/team/187842/image"
         },
@@ -1257,6 +1246,73 @@
         "image": "o",
         "publish": "1",
         "title": "Carolina Hurricanes"
+      },
+      {
+        "adsLimit": "0",
+        "cat": "Cricket",
+        "channels_data": [
+          {
+            "api": "aefc2c8d1c8840f1b6981f856c9269ba:cf8ea114c45b4d6596b2748258ab74d6",
+            "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1779769090~acl=%2F*~id=68e3825b-e424-4ede-b44a-01bd82701425~data=hdntl,aXA9MTcyLjE4My44OS4zNCZleHA9MTc3OTY4MjcyMCZlaWQ9OTYyNjYyJm9pZD0xMDgmdHlwZT1WT0QmdWlkPW5yS25IaXxhNDE5NzJhMS1jOTk4LTQ1ZDAtYjg1NS05MmRlYjQwNzZmMmYmY2lkPWRjZS5zcHVycyZwdD1udWxs~hmac=42e94e0a1e596b8894e65b2bbff7f8670440b0fc51955a8832857b9d1db43f1d/dash/live/2093710/219026-321025/manifest-d.mpd",
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
+            "title": "SKY SPORTS FHD",
+            "type": "1"
+          },
+          {
+            "api": "4d346b1d1ae64d4a800409cffa14983e:208c972bd2da4359ac94e6944fe378b6",
+            "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1779769090~acl=%2F*~id=68e3825b-e424-4ede-b44a-01bd82701425~data=hdntl,aXA9MTcyLjE4My44OS4zNCZleHA9MTc3OTY4MjcyMCZlaWQ9OTYyNjYyJm9pZD0xMDgmdHlwZT1WT0QmdWlkPW5yS25IaXxhNDE5NzJhMS1jOTk4LTQ1ZDAtYjg1NS05MmRlYjQwNzZmMmYmY2lkPWRjZS5zcHVycyZwdD1udWxs~hmac=42e94e0a1e596b8894e65b2bbff7f8670440b0fc51955a8832857b9d1db43f1d/dash/live/2093666/294921-318514/manifest-d.mpd",
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
+            "title": "SKY SPORTS 4k",
+            "type": "1"
+          },
+          {
+            "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+            "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
+            "title": "WILLOW FHD",
+            "type": "1"
+          },
+          {
+            "api": "",
+            "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https",
+            "logo": "",
+            "title": "SKY CRICKET HD",
+            "type": "0"
+          }
+        ],
+        "eventInfo": {
+          "endTime": "2026/05/28 21:00:00 +0000",
+          "eventName": "England W vs India W",
+          "eventType": "null",
+          "isHot": "0",
+          "startTime": "2026/05/28 17:30:00 +0000",
+          "teamA": "ENG-W",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/213121/image",
+          "teamB": "IND-W",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/213119/image"
+        },
+        "formatsNew": [
+          {
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
+            "title": "SKY SPORTS FHD"
+          },
+          {
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
+            "title": "SKY SPORTS 4k"
+          },
+          {
+            "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
+            "title": "WILLOW FHD"
+          },
+          {
+            "logo": "",
+            "title": "SKY CRICKET HD"
+          }
+        ],
+        "id": 50041,
+        "image": "o",
+        "publish": "1",
+        "title": "England W vs New Zealand W"
       },
       {
         "adsLimit": "0",
