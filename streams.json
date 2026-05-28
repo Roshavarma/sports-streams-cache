@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-28T01:20:22.330627",
+  "last_updated": "2026-05-28T01:30:35.740720",
   "event_count": 4,
   "events": {
     "AUTHOR": "iVan_FLUx",
-    "Last update time": "06:45:26 AM 28-05-2026",
+    "Last update time": "06:55:22 AM 28-05-2026",
     "TELEGRAM": "https://t.me/iVan_flux",
     "events": [
       {
@@ -1264,129 +1264,6 @@
         "channels_data": [
           {
             "api": "",
-            "link": "https://chatgpt.hereisman.net/playlist/51255/load-playlist?|Referer=https://gooz.aapmains.net",
-            "logo": "",
-            "title": "SPORTIFy MLB",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://edge2caster.pro/hls/Czajafjihafch18.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-            "logo": "",
-            "title": "SPORTIFy Live",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/27 22:05:00 +0000",
-          "eventName": "Athletics vs Seattle Mariners",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/27 19:05:00 +0000",
-          "teamA": "Athletics",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3645/image",
-          "teamB": "Mariners",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3641/image"
-        },
-        "formatsNew": [
-          {
-            "logo": "",
-            "title": "SportzX MLB"
-          },
-          {
-            "logo": "",
-            "title": "SportzX Live"
-          }
-        ],
-        "id": 50055,
-        "image": "o",
-        "publish": "1",
-        "title": "Athletics vs Mariners"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "MLB",
-        "channels_data": [
-          {
-            "api": "",
-            "link": "https://chatgpt.hereisman.net/playlist/51257/load-playlist?|Referer=https://gooz.aapmains.net",
-            "logo": "",
-            "title": "SPORTIFy MLB",
-            "type": "0"
-          },
-          {
-            "api": "",
-            "link": "https://edge2caster.pro/hls/bzagLHzach19.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-            "logo": "",
-            "title": "SPORTIFy Live",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/27 22:45:00 +0000",
-          "eventName": "Giants vs Diamondbacks",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/27 19:45:00 +0000",
-          "teamA": "Giants",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3634/image",
-          "teamB": "Diamondbacks",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3640/image"
-        },
-        "formatsNew": [
-          {
-            "logo": "",
-            "title": "SportzX MLB"
-          },
-          {
-            "logo": "",
-            "title": "SportzX Live"
-          }
-        ],
-        "id": 50056,
-        "image": "o",
-        "publish": "1",
-        "title": "Giants vs Diamondbacks"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "MLB",
-        "channels_data": [
-          {
-            "api": "",
-            "link": "https://edge2caster.pro/hls/jkzahzadach20.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-            "title": "SPORTIFy Live",
-            "type": "0"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/27 23:10:00 +0000",
-          "eventName": "Padres vs Philadelphia Phillies",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/27 20:10:00 +0000",
-          "teamA": "Padres",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3636/image",
-          "teamB": "Phillies",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3635/image"
-        },
-        "formatsNew": [
-          {
-            "logo": "",
-            "title": "SportzX Live"
-          }
-        ],
-        "id": 50057,
-        "image": "o",
-        "publish": "1",
-        "title": "Padres vs Phillies"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "MLB",
-        "channels_data": [
-          {
-            "api": "",
             "link": "https://edge2caster.pro/hls/ojzkajnach21.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
             "title": "SPORTIFy Live",
             "type": "0"
@@ -1563,72 +1440,6 @@
         "cat": "CON. Libertadores",
         "channels_data": [
           {
-            "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
-            "link": "https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
-            "title": "beIN SPORTS FHD",
-            "type": "1"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/28 00:00:00 +0000",
-          "eventName": "Independiente vs Rosario Central",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/27 22:00:00 +0000",
-          "teamA": "Ind. del Valle",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/39723/image",
-          "teamB": "Rosario Central",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3217/image"
-        },
-        "formatsNew": [
-          {
-            "logo": "",
-            "title": "beIN SPORTS FHD"
-          }
-        ],
-        "id": 50064,
-        "image": "o",
-        "publish": "1",
-        "title": "Independiente vs Rosario"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "CON. Libertadores",
-        "channels_data": [
-          {
-            "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
-            "link": "https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
-            "title": "beIN SPORTS FHD",
-            "type": "1"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/28 00:00:00 +0000",
-          "eventName": "Libertad vs Universidad",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/27 22:00:00 +0000",
-          "teamA": "Libertad",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/5996/image",
-          "teamB": "UCV",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/249952/image"
-        },
-        "formatsNew": [
-          {
-            "logo": "",
-            "title": "beIN SPORTS FHD"
-          }
-        ],
-        "id": 50065,
-        "image": "o",
-        "publish": "1",
-        "title": "Libertad vs UCV"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "CON. Libertadores",
-        "channels_data": [
-          {
             "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
             "link": "https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
             "title": "beIN SPORTS FHD",
@@ -1722,72 +1533,6 @@
         "image": "o",
         "publish": "1",
         "title": "Peñarol vs Santa Fe"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "CON. Sudamericana",
-        "channels_data": [
-          {
-            "api": "335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281",
-            "link": "https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd",
-            "title": "beIN SPORTS FHD",
-            "type": "1"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/28 00:00:00 +0000",
-          "eventName": "Racing Club vs Independiente",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/27 22:00:00 +0000",
-          "teamA": "Racing",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3215/image",
-          "teamB": "Petrolero",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/372975/image"
-        },
-        "formatsNew": [
-          {
-            "logo": "",
-            "title": "beIN SPORTS FHD"
-          }
-        ],
-        "id": 50069,
-        "image": "o",
-        "publish": "1",
-        "title": "Racing Club vs Independiente"
-      },
-      {
-        "adsLimit": "0",
-        "cat": "CON. Sudamericana",
-        "channels_data": [
-          {
-            "api": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
-            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
-            "title": "SportDigital Fussball",
-            "type": "1"
-          }
-        ],
-        "eventInfo": {
-          "endTime": "2026/05/28 00:00:00 +0000",
-          "eventName": "Atlético Mineiro vs Puerto Cabello",
-          "eventType": "null",
-          "isHot": "0",
-          "startTime": "2026/05/27 22:00:00 +0000",
-          "teamA": "Atlético-MG",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/1977/image",
-          "teamB": "Puerto Cabello",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/230725/image"
-        },
-        "formatsNew": [
-          {
-            "logo": "",
-            "title": "SportDigital Fussball"
-          }
-        ],
-        "id": 50070,
-        "image": "o",
-        "publish": "1",
-        "title": "Atlético Mineiro vs Puerto Cabello"
       },
       {
         "adsLimit": "0",
