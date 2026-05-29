@@ -1,15 +1,15 @@
 {
-  "last_updated": "2026-05-29T12:00:51.761667",
+  "last_updated": "2026-05-29T12:10:25.225609",
   "event_count": 9,
   "events": {
     " NAME ": "FluX-oW Live event ( Auto updated)",
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "Finish": "00",
-    "Last update time": "05:20:38 PM 29-05-2026",
+    "Last update time": "05:31:00 PM 29-05-2026",
     "Live": "00",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Upcoming": "30",
+    "Upcoming": "25",
     "events": [
       {
         "cat": "Cricket",
@@ -1301,10 +1301,10 @@
         "cat": "Football",
         "channels_data": [
           {
-            "api": "",
-            "link": "https://fallback-video.ivan-flux.workers.dev/video/index.m3u8",
+            "api": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
+            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
             "logo": "",
-            "title": "Ivan-FluX",
+            "title": "SportDigital FUSSBALL",
             "tokenApi": "",
             "type": 0
           }
@@ -1323,278 +1323,6 @@
         "id": 848,
         "image": "http://api.sofascore.com/api/v1/unique-tournament/429/image/dark",
         "title": "U17 European Championship"
-      },
-      {
-        "cat": "Football",
-        "channels_data": [
-          {
-            "api": "",
-            "link": "https://fallback-video.ivan-flux.workers.dev/video/index.m3u8",
-            "logo": "",
-            "title": "Ivan-FluX",
-            "tokenApi": "",
-            "type": 0
-          }
-        ],
-        "eventInfo": {
-          "Status": "Upcoming",
-          "endTime": "2026/05/28 13:50:00 +0000",
-          "eventName": "U17 European Championship",
-          "isHot": "0",
-          "startTime": "2026/05/28 11:30:00 +0000",
-          "teamA": "Belgium U17",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/22583/image",
-          "teamB": "Spain U17",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/22479/image"
-        },
-        "id": 849,
-        "image": "http://api.sofascore.com/api/v1/unique-tournament/429/image/dark",
-        "title": "U17 European Championship"
-      },
-      {
-        "cat": "Football",
-        "channels_data": [
-          {
-            "api": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
-            "logo": "",
-            "title": "FOX SPORTS 2 US",
-            "tokenApi": "",
-            "type": 0
-          },
-          {
-            "api": "4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733",
-            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd",
-            "logo": "",
-            "title": "SporTV 1 BR",
-            "tokenApi": "",
-            "type": 0
-          },
-          {
-            "api": "",
-            "link": "https://livecdn-tc-livestream.rumsport10.live/stream/7/chunks.m3u8?is_vip=false&token=1780080433-Kv4cPTAAP5YTi-8d84234173fbd04c60681baa3dfcdf724528e132-b056508de0b08d850a7af7addc4efac8",
-            "logo": "",
-            "title": "HD SERVER",
-            "tokenApi": "",
-            "type": 0
-          },
-          {
-            "api": "",
-            "link": "https://pull.niur.live/live/stream-9912050_lsd.m3u8?txSecret=6d506e76f2fd6b5db8ef1ce6a9443bba&txTime=6a18e0d4",
-            "logo": "",
-            "title": "LIVE SERVER",
-            "tokenApi": "",
-            "type": 0
-          },
-          {
-            "api": "",
-            "link": "https://livecdn-bp-livestream.rumsport7.live/stream/7/chunks.m3u8?is_vip=false&token=8d84234173fbd04c60681baa3dfcdf724528e132&x-sign=eff5f022609b5bbd283c96bfb46b7f7b&x-time=1779994020",
-            "logo": "",
-            "title": "SD SERVER",
-            "tokenApi": "",
-            "type": 0
-          }
-        ],
-        "eventInfo": {
-          "Status": "Upcoming",
-          "endTime": "2026/05/28 21:05:00 +0000",
-          "eventName": "International Friendly Games",
-          "isHot": "0",
-          "startTime": "2026/05/28 18:45:00 +0000",
-          "teamA": "Ireland",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/4693/image",
-          "teamB": "Qatar",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/4792/image"
-        },
-        "id": 850,
-        "image": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
-        "title": "International Friendly Games"
-      },
-      {
-        "cat": "Football",
-        "channels_data": [
-          {
-            "api": "",
-            "link": "https://livecdn-tc-iptv.rumsport10.live/live_abr/161357_abrhd.m3u8?is_vip=false&token=1780080440-Kv4cPTAAP5YTi-8d84234173fbd04c60681baa3dfcdf724528e132-8b9e89922bcc5f51c77a9ba8773b7cfe",
-            "logo": "",
-            "title": "HD SERVER",
-            "tokenApi": "",
-            "type": 0
-          },
-          {
-            "api": "",
-            "link": "https://t7.ultrastream.vip/sporttv1/index.m3u8?|Referer=https://foottime.top/",
-            "logo": "",
-            "title": "SPORT TV 1",
-            "tokenApi": "",
-            "type": 0
-          },
-          {
-            "api": "",
-            "link": "https://livecdn-bp-iptv.rumsport7.live/live_abr/161357_abrhd.m3u8?is_vip=false&token=8d84234173fbd04c60681baa3dfcdf724528e132&x-sign=f5dbda4a417d1211fa591151fa244d42&x-time=1779994020",
-            "logo": "",
-            "title": "LIVE SERVER",
-            "tokenApi": "",
-            "type": 0
-          }
-        ],
-        "eventInfo": {
-          "Status": "Upcoming",
-          "endTime": "2026/05/28 21:20:00 +0000",
-          "eventName": "Liga Portugal Betclic",
-          "isHot": "0",
-          "startTime": "2026/05/28 19:00:00 +0000",
-          "teamA": "Casa Pia",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/36365/image",
-          "teamB": "Torreense",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/25787/image"
-        },
-        "id": 851,
-        "image": "http://api.sofascore.com/api/v1/unique-tournament/238/image/dark",
-        "title": "Liga Portugal Betclic"
-      },
-      {
-        "cat": "Football",
-        "channels_data": [
-          {
-            "api": "",
-            "link": "https://fallback-video.ivan-flux.workers.dev/video/index.m3u8",
-            "logo": "",
-            "title": "Ivan-FluX",
-            "tokenApi": "",
-            "type": 0
-          }
-        ],
-        "eventInfo": {
-          "Status": "Upcoming",
-          "endTime": "2026/05/29 00:20:00 +0000",
-          "eventName": "CONMEBOL Libertadores",
-          "isHot": "0",
-          "startTime": "2026/05/28 22:00:00 +0000",
-          "teamA": "Palmeiras",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/1963/image",
-          "teamB": "Junior Barranquilla",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/6105/image"
-        },
-        "id": 852,
-        "image": "http://api.sofascore.com/api/v1/unique-tournament/384/image/dark",
-        "title": "CONMEBOL Libertadores"
-      },
-      {
-        "cat": "Football",
-        "channels_data": [
-          {
-            "api": "",
-            "link": "https://fallback-video.ivan-flux.workers.dev/video/index.m3u8",
-            "logo": "",
-            "title": "Ivan-FluX",
-            "tokenApi": "",
-            "type": 0
-          }
-        ],
-        "eventInfo": {
-          "Status": "Upcoming",
-          "endTime": "2026/05/29 00:20:00 +0000",
-          "eventName": "CONMEBOL Libertadores",
-          "isHot": "0",
-          "startTime": "2026/05/28 22:00:00 +0000",
-          "teamA": "Cerro Porteño",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/5991/image",
-          "teamB": "Sporting Cristal",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2302/image"
-        },
-        "id": 853,
-        "image": "http://api.sofascore.com/api/v1/unique-tournament/384/image/dark",
-        "title": "CONMEBOL Libertadores"
-      },
-      {
-        "cat": "Football",
-        "channels_data": [
-          {
-            "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
-            "link": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
-            "logo": "",
-            "title": "beiN SPORTS FHD",
-            "tokenApi": "",
-            "type": 0
-          }
-        ],
-        "eventInfo": {
-          "Status": "Upcoming",
-          "endTime": "2026/05/29 02:50:00 +0000",
-          "eventName": "CONMEBOL Libertadores",
-          "isHot": "0",
-          "startTime": "2026/05/29 00:30:00 +0000",
-          "teamA": "Boca Juniors",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3202/image",
-          "teamB": "Universidad Católica",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3151/image"
-        },
-        "id": 854,
-        "image": "http://api.sofascore.com/api/v1/unique-tournament/384/image/dark",
-        "title": "CONMEBOL Libertadores"
-      },
-      {
-        "cat": "Football",
-        "channels_data": [
-          {
-            "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
-            "link": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
-            "logo": "",
-            "title": "beiN SPORTS FHD",
-            "tokenApi": "",
-            "type": 0
-          }
-        ],
-        "eventInfo": {
-          "Status": "Upcoming",
-          "endTime": "2026/05/29 02:50:00 +0000",
-          "eventName": "CONMEBOL Libertadores",
-          "isHot": "0",
-          "startTime": "2026/05/29 00:30:00 +0000",
-          "teamA": "Cruzeiro",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/1954/image",
-          "teamB": "Barcelona SC",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/5250/image"
-        },
-        "id": 855,
-        "image": "http://api.sofascore.com/api/v1/unique-tournament/384/image/dark",
-        "title": "CONMEBOL Libertadores"
-      },
-      {
-        "cat": "Football",
-        "channels_data": [
-          {
-            "api": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811",
-            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
-            "logo": "",
-            "title": "FOX DEPORTES",
-            "tokenApi": "",
-            "type": 0
-          },
-          {
-            "api": "",
-            "link": "https://pull.niues.live/live/stream-606448_lhd.m3u8?auth_key=1779995516-0-0-db4735e4c4cd12dd22cdcad59521aa72",
-            "logo": "",
-            "title": "LIVE SERVER",
-            "tokenApi": "",
-            "type": 0
-          }
-        ],
-        "eventInfo": {
-          "Status": "Upcoming",
-          "endTime": "2026/05/28 20:20:00 +0000",
-          "eventName": "International Friendly Games",
-          "isHot": "0",
-          "startTime": "2026/05/28 18:00:00 +0000",
-          "teamA": "Egypt",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/4758/image",
-          "teamB": "Russia",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/4694/image"
-        },
-        "id": 856,
-        "image": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
-        "title": "International Friendly Games"
       },
       {
         "cat": "Tennis",
@@ -1664,85 +1392,166 @@
         "title": "Roland-Garros"
       },
       {
-        "cat": "Ice hockey",
+        "cat": "Football",
         "channels_data": [
           {
-            "api": "daa8ea92553fd16cd6bfae2b8c582715:4042e041b5639b79b69ae07a872eef9b",
-            "link": "https://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/3n6slkgh54/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd|User-Agent=Mozilla/5.0",
+            "api": "",
+            "link": "https://fallback-video.ivan-flux.workers.dev/video/index.m3u8",
             "logo": "",
-            "title": "TSN 2",
+            "title": "Ivan-FluX",
             "tokenApi": "",
             "type": 0
           }
         ],
         "eventInfo": {
           "Status": "Upcoming",
-          "endTime": "2026/05/28 20:50:00 +0000",
-          "eventName": "IIHF World Championship",
+          "endTime": "2026/05/29 17:50:00 +0000",
+          "eventName": "International Friendly Games",
           "isHot": "0",
-          "startTime": "2026/05/28 18:20:00 +0000",
-          "teamA": "Switzerland",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/5734/image",
-          "teamB": "Sweden",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/5735/image"
+          "startTime": "2026/05/29 15:30:00 +0000",
+          "teamA": "Iran",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/4766/image",
+          "teamB": "Gambia",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/4762/image"
         },
         "id": 859,
-        "image": "http://api.sofascore.com/api/v1/unique-tournament/3/image/dark",
-        "title": "IIHF World Championship"
-      },
-      {
-        "cat": "Ice hockey",
-        "channels_data": [
-          {
-            "api": "c4088f5f265f9de50cffd80bf89308b7:2c4d2239d96d532b4ec2050653611003",
-            "link": "https://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd|User-Agent=Mozilla/5.0",
-            "logo": "",
-            "title": "TSN 4",
-            "tokenApi": "",
-            "type": 0
-          }
-        ],
-        "eventInfo": {
-          "Status": "Upcoming",
-          "endTime": "2026/05/28 20:50:00 +0000",
-          "eventName": "IIHF World Championship",
-          "isHot": "0",
-          "startTime": "2026/05/28 18:20:00 +0000",
-          "teamA": "Norway",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/5913/image",
-          "teamB": "Latvia",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/5739/image"
-        },
-        "id": 860,
-        "image": "http://api.sofascore.com/api/v1/unique-tournament/3/image/dark",
-        "title": "IIHF World Championship"
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
+        "title": "International Friendly Games"
       },
       {
         "cat": "Football",
         "channels_data": [
           {
-            "api": "335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281",
-            "link": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd",
+            "api": "",
+            "link": "https://fallback-video.ivan-flux.workers.dev/video/index.m3u8",
             "logo": "",
-            "title": "beiN SPORTS FHD",
+            "title": "Ivan-FluX",
             "tokenApi": "",
             "type": 0
           }
         ],
         "eventInfo": {
           "Status": "Upcoming",
-          "endTime": "2026/05/29 02:50:00 +0000",
-          "eventName": "CONMEBOL Sudamericana",
+          "endTime": "2026/05/29 20:50:00 +0000",
+          "eventName": "International Friendly Games",
           "isHot": "0",
-          "startTime": "2026/05/29 00:30:00 +0000",
-          "teamA": "América",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/6102/image",
-          "teamB": "Macará",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/6001/image"
+          "startTime": "2026/05/29 18:30:00 +0000",
+          "teamA": "BiH",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/4479/image",
+          "teamB": "North Macedonia",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/4777/image"
+        },
+        "id": 860,
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
+        "title": "International Friendly Games"
+      },
+      {
+        "cat": "Football",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://fallback-video.ivan-flux.workers.dev/video/index.m3u8",
+            "logo": "",
+            "title": "Ivan-FluX",
+            "tokenApi": "",
+            "type": 0
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/05/30 01:20:00 +0000",
+          "eventName": "Canadian Premier League",
+          "isHot": "0",
+          "startTime": "2026/05/29 23:00:00 +0000",
+          "teamA": "SDQ",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/1165894/image",
+          "teamB": "Inter Toronto",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/309890/image"
         },
         "id": 861,
-        "image": "http://api.sofascore.com/api/v1/unique-tournament/480/image/dark",
-        "title": "CONMEBOL Sudamericana"
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/13470/image/dark",
+        "title": "Canadian Premier League"
+      },
+      {
+        "cat": "Football",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://fallback-video.ivan-flux.workers.dev/video/index.m3u8",
+            "logo": "",
+            "title": "Ivan-FluX",
+            "tokenApi": "",
+            "type": 0
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/05/29 21:05:00 +0000",
+          "eventName": "Ligue 1",
+          "isHot": "0",
+          "startTime": "2026/05/29 18:45:00 +0000",
+          "teamA": "Nice",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/1661/image",
+          "teamB": "Saint-Étienne",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/1678/image"
+        },
+        "id": 862,
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/34/image/dark",
+        "title": "Ligue 1"
+      },
+      {
+        "cat": "Football",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://fallback-video.ivan-flux.workers.dev/video/index.m3u8",
+            "logo": "",
+            "title": "Ivan-FluX",
+            "tokenApi": "",
+            "type": 0
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/05/29 18:20:00 +0000",
+          "eventName": "International Friendly Games",
+          "isHot": "0",
+          "startTime": "2026/05/29 16:00:00 +0000",
+          "teamA": "South Africa",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/4736/image",
+          "teamB": "Nicaragua",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/21817/image"
+        },
+        "id": 863,
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
+        "title": "International Friendly Games"
+      },
+      {
+        "cat": "Football",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://fallback-video.ivan-flux.workers.dev/video/index.m3u8",
+            "logo": "",
+            "title": "Ivan-FluX",
+            "tokenApi": "",
+            "type": 0
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/05/29 18:20:00 +0000",
+          "eventName": "U17 European Championship",
+          "isHot": "0",
+          "startTime": "2026/05/29 16:00:00 +0000",
+          "teamA": "France U17",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/22474/image",
+          "teamB": "Denmark U17",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/22597/image"
+        },
+        "id": 864,
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/429/image/dark",
+        "title": "U17 European Championship"
       }
     ]
   }
