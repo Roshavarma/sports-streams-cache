@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-05-29T14:00:54.051160",
+  "last_updated": "2026-05-29T14:10:25.791183",
   "event_count": 9,
   "events": {
     " NAME ": "FluX-oW Live event ( Auto updated)",
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "Finish": "00",
-    "Last update time": "07:20:36 PM 29-05-2026",
+    "Last update time": "07:31:01 PM 29-05-2026",
     "Live": "00",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
     "Upcoming": "25",
@@ -15,18 +15,18 @@
         "cat": "Cricket",
         "channels_data": [
           {
-            "api": "1c6eba2c2e7e6cfb8ec88e52b2f7215f:70b8023f64edd20a9f5a2db35bbd9b3a",
-            "link": "https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/y0noyfzhol/out/v1/60c855bf64ab43ea869800cc78e75a84/cenc.mpd",
+            "api": "4a29be2e831b734e3fe5f2613c5abb1d:7430374ee54b5318736fbd4455779c11",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/l58o2adfeu/out/v1/e5b078607e7740849585b052c2b65b0b/cenc.mpd",
             "logo": "",
             "title": "WILLOW ENG FHD",
             "tokenApi": "",
             "type": 0
           },
           {
-            "api": "4d346b1d1ae64d4a800409cffa14983e:208c972bd2da4359ac94e6944fe378b6",
-            "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1779876398~acl=%2F*~id=84184cc6-38e7-4b22-8aa3-fb6121c0ee7f~data=hdntl,aXA9NTcuMTUxLjEyMS4xOTMmZXhwPTE3Nzk3OTAwMjgmZWlkPTk2MjY2MiZvaWQ9MTA4JnR5cGU9Vk9EJnVpZD1vZkNEeFJ8Yjk2MWQxY2QtZGNjZS00YTlhLTg3NGYtZDViYzMxZjNmZmM1JmNpZD1kY2Uuc3B1cnMmcHQ9bnVsbA~hmac=2ecc59ba8ccc64c03767e8ca69347fc118e343e60233f2e9db1c581ff63181af/dash/live/2093666/294921-318514/manifest-d.mpd",
+            "api": "f1f97a734b1752ae9c3639310b105278:57e0135e10a8ed3246b8306ada268954",
+            "link": "https://dck1-fs-live.dtcdn.dazn.com/out/v1/814bffb9b389f652/38970a6e3f6f42b5a0ef07ad51a68d0c/index.mpd",
             "logo": "",
-            "title": "SKY SPORTS 4k",
+            "title": "KAYO HINDI FHD",
             "tokenApi": "",
             "type": 0
           },
@@ -39,18 +39,18 @@
             "type": 0
           },
           {
-            "api": "89c5df2d78115f56a99366a56da51f9b:b30f0983a30d8075048be96569b7f671",
-            "link": "https://dck1-ac-live.cdn.indazn.com/out/v1/761f422bb93edb7b/96c681081ef542b1bd4bdf94806e5a06/index.mpd",
-            "logo": "",
-            "title": "KAYO HINDI FHD",
-            "tokenApi": "",
-            "type": 0
-          },
-          {
             "api": "01c9bbf8137e58378a5ead514998a7b4:fb01e61809e80e5e93a889cd31daab22",
             "link": "https://dck1-fs-live.dtcdn.dazn.com/out/v1/814bffb9b389f652/d65feac5647949e6b45b2674d4715398/index.mpd",
             "logo": "",
             "title": "FOX CRICKET FHD",
+            "tokenApi": "",
+            "type": 0
+          },
+          {
+            "api": "4d346b1d1ae64d4a800409cffa14983e:208c972bd2da4359ac94e6944fe378b6",
+            "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1779876398~acl=%2F*~id=84184cc6-38e7-4b22-8aa3-fb6121c0ee7f~data=hdntl,aXA9NTcuMTUxLjEyMS4xOTMmZXhwPTE3Nzk3OTAwMjgmZWlkPTk2MjY2MiZvaWQ9MTA4JnR5cGU9Vk9EJnVpZD1vZkNEeFJ8Yjk2MWQxY2QtZGNjZS00YTlhLTg3NGYtZDViYzMxZjNmZmM1JmNpZD1kY2Uuc3B1cnMmcHQ9bnVsbA~hmac=2ecc59ba8ccc64c03767e8ca69347fc118e343e60233f2e9db1c581ff63181af/dash/live/2093666/294921-318514/manifest-d.mpd",
+            "logo": "",
+            "title": "SKY SPORTS 4k",
             "tokenApi": "",
             "type": 0
           },
@@ -71,8 +71,8 @@
             "type": 0
           },
           {
-            "api": "1c6eba2c2e7e6cfb8ec88e52b2f7215f:70b8023f64edd20a9f5a2db35bbd9b3a",
-            "link": "https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/y0noyfzhol/out/v1/60c855bf64ab43ea869800cc78e75a84/cenc.mpd",
+            "api": "265524cc4acc39c9be2bace0244feffe:e2eacd551e75037cee0ec5f53f951acc",
+            "link": "https://a57live-pv-ta-amazon.akamaized.net/pdx-nitro/live/clients/dash/enc/5vnbzbfrqv/out/v1/e9b937f395f447e3b0898bfc9620537f/cenc.mpd",
             "logo": "",
             "title": "WILLOW ALT FHD",
             "tokenApi": "",
