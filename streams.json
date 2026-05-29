@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-05-29T11:00:48.802219",
+  "last_updated": "2026-05-29T11:10:23.813448",
   "event_count": 9,
   "events": {
     " NAME ": "FluX-oW Live event ( Auto updated)",
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "Finish": "00",
-    "Last update time": "04:20:39 PM 29-05-2026",
+    "Last update time": "04:30:55 PM 29-05-2026",
     "Live": "00",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
     "Upcoming": "30",
@@ -571,8 +571,8 @@
         "cat": "Cricket",
         "channels_data": [
           {
-            "api": "0db4d11e43d4bd35a3f140a1017b6ea5:c1de4d7ebf91363d4163abf3551004ea",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/xuhsgro1xj/out/v1/57b40e7b99aa405e9eb9ddf64cbc2f38/cenc.mpd",
+            "api": "7fe9792a2c0458b691dbb3d77d6578e6:83214d32370f8036f8c908eb461c6866",
+            "link": "https://a57live-pv-ta-amazon.akamaized.net/iad-nitro/live/clients/dash/enc/qxn2bopstd/out/v1/67e98eff07ca4469a4f8d6fbbd9b0e34/cenc.mpd",
             "logo": "",
             "title": "WILLOW FHD",
             "tokenApi": "",
@@ -593,14 +593,22 @@
             "title": "SD SERVER",
             "tokenApi": "",
             "type": 0
+          },
+          {
+            "api": "7fe9792a2c0458b691dbb3d77d6578e6:83214d32370f8036f8c908eb461c6866",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/qxn2bopstd/out/v1/67e98eff07ca4469a4f8d6fbbd9b0e34/cenc.mpd",
+            "logo": "",
+            "title": "WILLOW FHD [ALT]",
+            "tokenApi": "",
+            "type": 0
           }
         ],
         "eventInfo": {
           "Status": "Upcoming",
-          "endTime": "2026/05/28 19:00:00 +0000",
+          "endTime": "2026/05/29 19:00:00 +0000",
           "eventName": "Test Series",
           "isHot": "0",
-          "startTime": "2026/05/28 10:00:00 +0000",
+          "startTime": "2026/05/29 10:00:00 +0000",
           "teamA": "IRE",
           "teamAFlag": "https://img.sofascore.com/api/v1/team/187766/image",
           "teamB": "NZ",
@@ -867,7 +875,7 @@
         "channels_data": [
           {
             "api": "e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de",
-            "link": "https://live-emt-pv-ta.amazon.fastly-edge.com/PDX/709b3c4313a9405ab5e8634864c7cc3b/v1/dash/590183725645/imdb_amagi_amzn1_dv_live_csid_5357cf2a-51c8-4fa5-b996-cd307e0b7edc_us-west-2_pdx_dash_h264/startover/clients/dash/manipulated-manifest-pdx-prod/enc/xn1ww1wqze/out/v1/30f3ad9ba2c340739ea2943f29d44b32/2d4c0663-3f53-410f-9c43-2129136c9eb1-cenc.mpd?aws.sessionId=600a1abb-f5f1-44f2-b042-7fad259e4c9b",
+            "link": "https://a51live-emt-pv-ta-amazon.akamaized.net/IAD/ecb5167adc48418f9e275a06ed14a1f9/v1/dash/590183725645/imdb_amagi_amzn1_dv_live_csid_5357cf2a-51c8-4fa5-b996-cd307e0b7edc_us-east-1_iad_dash_h264/startover/clients/dash/manipulated-manifest-iad-prod/enc/p1p14jnre5/out/v1/8197c8e055c94a868623653ac55c10bf/348379f5-d2b8-43d7-87cf-13a978408def-cenc.mpd?aws.sessionId=ef9a77af-c2b9-4a87-8558-f47c6aec5a31",
             "logo": "",
             "title": "MotoGP FHD",
             "tokenApi": "",
