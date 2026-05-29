@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-05-29T16:30:41.969427",
+  "last_updated": "2026-05-29T16:40:29.159914",
   "event_count": 9,
   "events": {
     " NAME ": "FluX-oW Live event ( Auto updated)",
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "Finish": "00",
-    "Last update time": "09:50:46 PM 29-05-2026",
+    "Last update time": "10:00:49 PM 29-05-2026",
     "Live": "00",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
     "Upcoming": "24",
@@ -19,22 +19,6 @@
             "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/l58o2adfeu/out/v1/e5b078607e7740849585b052c2b65b0b/cenc.mpd",
             "logo": "",
             "title": "WILLOW ENG FHD",
-            "tokenApi": "",
-            "type": 0
-          },
-          {
-            "api": "4d346b1d1ae64d4a800409cffa14983e:208c972bd2da4359ac94e6944fe378b6",
-            "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1780148566~acl=%2f*~id=60177268-3267-48d1-83ac-24bbdcfe0d43~data=hdntl,dWlkPVZndzRwYnw4MmQ3NzUyNy04YWQ4LTRlMjgtYWVkYy1kZjM3MGRkNjYyMGEmaXA9MTE0LjIzLjExOC4yMzEmZXhwPTE3ODAxNDg1OTMmZWlkPTI5NDkyMSZjaWQ9ZGNlLnNreW56Jm9pZD0zMTgmdHlwZT1MSVZF~hmac=6b54e159b69f9c073ca20ebabb49c4fd2595f96be5f3d2166e7705cb476886dc/dash/live/2093666/294921-318514/manifest-d.mpd",
-            "logo": "",
-            "title": "SKY SPORTS 4k",
-            "tokenApi": "",
-            "type": 0
-          },
-          {
-            "api": "aefc2c8d1c8840f1b6981f856c9269ba:cf8ea114c45b4d6596b2748258ab74d6",
-            "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1779876402~acl=%2F*~id=1848ec4c-1940-4ed2-83cf-04fe245aa7b6~data=hdntl,aXA9NTcuMTUxLjEyMS4xOTMmZXhwPTE3Nzk3OTAwMzImZWlkPTk2MjYwOCZvaWQ9MTA4JnR5cGU9Vk9EJnVpZD1vZkNEeFJ8Yjk2MWQxY2QtZGNjZS00YTlhLTg3NGYtZDViYzMxZjNmZmM1JmNpZD1kY2Uuc3B1cnMmcHQ9bnVsbA~hmac=6c7d90843d2be2a7fb6a44feae9631b96d60f37b53a6a4732c4b56f73adc1bae/dash/live/2093710/219026-321025/manifest-d.mpd",
-            "logo": "",
-            "title": "SKY SPORTS FHD",
             "tokenApi": "",
             "type": 0
           },
@@ -1268,6 +1252,14 @@
         "channels_data": [
           {
             "api": "",
+            "link": "https://pul-tenm.nbs3g.com/live/sd-1-4542664.m3u8?txSecret=57213e403f5fdf13ef00cea9e7396c05&txTime=6A1B0111",
+            "logo": "",
+            "title": "HD SERVER",
+            "tokenApi": "",
+            "type": 0
+          },
+          {
+            "api": "",
             "link": "http://193.47.62.46/hls/IIII.m3u8|referer=http://www.fawanews.sc/",
             "logo": "",
             "title": "SD SERVER",
@@ -1279,6 +1271,14 @@
             "link": "https://pull.livecdn.cc/live/4542664.m3u8",
             "logo": "",
             "title": "HD SERVER",
+            "tokenApi": "",
+            "type": 0
+          },
+          {
+            "api": "",
+            "link": "https://pulltx.jdnzrgm.com/live/sd-6Mwe5EKDRyLsGZKh7U.m3u8?txSecret=457503cd48cc88a52e4b361c2c2722c6&txTime=6A19E412",
+            "logo": "",
+            "title": "LIVE HD",
             "tokenApi": "",
             "type": 0
           }
