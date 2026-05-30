@@ -1,15 +1,15 @@
 {
-  "last_updated": "2026-05-30T12:40:28.333480",
+  "last_updated": "2026-05-30T12:50:26.224427",
   "event_count": 9,
   "events": {
     " NAME ": "FluX-oW Live event ( Auto updated)",
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "Finish": "00",
-    "Last update time": "06:00:47 PM 30-05-2026",
+    "Last update time": "06:10:34 PM 30-05-2026",
     "Live": "00",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Upcoming": "32",
+    "Upcoming": "35",
     "events": [
       {
         "cat": "Cricket",
@@ -588,7 +588,7 @@
         "channels_data": [
           {
             "api": "e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de",
-            "link": "https://a51live-emt-pv-ta-amazon.akamaized.net/IAD/ecb5167adc48418f9e275a06ed14a1f9/v1/dash/590183725645/imdb_amagi_amzn1_dv_live_csid_5357cf2a-51c8-4fa5-b996-cd307e0b7edc_us-east-1_iad_dash_h264/startover/clients/dash/manipulated-manifest-iad-prod/enc/p1p14jnre5/out/v1/8197c8e055c94a868623653ac55c10bf/348379f5-d2b8-43d7-87cf-13a978408def-cenc.mpd?aws.sessionId=ef9a77af-c2b9-4a87-8558-f47c6aec5a31",
+            "link": "https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/ttkicnjegf/out/v1/8197c8e055c94a868623653ac55c10bf/4d6e49ce-91dd-42a7-af70-2576608675e3-cenc.mpd",
             "logo": "",
             "title": "MotoGP FHD",
             "tokenApi": "",
@@ -1516,6 +1516,87 @@
         "id": 881,
         "image": "http://api.sofascore.com/api/v1/unique-tournament/325/image/dark",
         "title": "Brasileirão Betano"
+      },
+      {
+        "cat": "Ice hockey",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://fallback-video.ivan-flux.workers.dev/video/index.m3u8",
+            "logo": "",
+            "title": "Ivan-FluX",
+            "tokenApi": "",
+            "type": 0
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/05/30 15:50:00 +0000",
+          "eventName": "IIHF World Championship",
+          "isHot": "0",
+          "startTime": "2026/05/30 13:20:00 +0000",
+          "teamA": "Switzerland",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/5734/image",
+          "teamB": "Norway",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/5913/image"
+        },
+        "id": 882,
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/3/image/dark",
+        "title": "IIHF World Championship"
+      },
+      {
+        "cat": "Ice hockey",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://fallback-video.ivan-flux.workers.dev/video/index.m3u8",
+            "logo": "",
+            "title": "Ivan-FluX",
+            "tokenApi": "",
+            "type": 0
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/05/30 20:30:00 +0000",
+          "eventName": "IIHF World Championship",
+          "isHot": "0",
+          "startTime": "2026/05/30 18:00:00 +0000",
+          "teamA": "Canada",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/5729/image",
+          "teamB": "Finland",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/5731/image"
+        },
+        "id": 883,
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/3/image/dark",
+        "title": "IIHF World Championship"
+      },
+      {
+        "cat": "Football",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "ok",
+            "logo": "",
+            "title": "Link 1",
+            "tokenApi": "",
+            "type": 0
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/05/30 15:50:00 +0000",
+          "eventName": "International Friendly Games",
+          "isHot": "0",
+          "startTime": "2026/05/30 13:30:00 +0000",
+          "teamA": "India",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/448398/image",
+          "teamB": "Zimbabwe",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/417062/image"
+        },
+        "id": 884,
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
+        "title": "International Friendly Games"
       }
     ]
   }
