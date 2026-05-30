@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-05-30T11:30:40.730647",
+  "last_updated": "2026-05-30T11:40:25.168396",
   "event_count": 9,
   "events": {
     " NAME ": "FluX-oW Live event ( Auto updated)",
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "Finish": "00",
-    "Last update time": "04:50:36 PM 30-05-2026",
+    "Last update time": "05:00:48 PM 30-05-2026",
     "Live": "00",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
     "Upcoming": "24",
@@ -276,10 +276,34 @@
         "cat": "Cricket",
         "channels_data": [
           {
-            "api": "",
-            "link": "https://fallback-video.ivan-flux.workers.dev/video/index.m3u8",
+            "api": "6fe922179b44dca4bfc12e4e1d2caf43:d8b49573a73a95f6e9c953ea863fbdd5",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/s5104uu3v4/out/v1/cd63c754b02b46498f244fa70939f351/cenc.mpd",
             "logo": "",
-            "title": "Ivan-FluX",
+            "title": "WILLOW FHD",
+            "tokenApi": "",
+            "type": 0
+          },
+          {
+            "api": "cb3142736e3391af20f60faa7adcab4a:d93791db4f056820a8212e86e464b41a",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/d3ww7g58sz/out/v1/10ce3e7f7a1f466cb150efd016fba7a4/cenc-sd.mpd",
+            "logo": "",
+            "title": "WILLOW SD",
+            "tokenApi": "",
+            "type": 0
+          },
+          {
+            "api": "",
+            "link": "http://193.47.62.43/hls/JOOOZZZZ.m3u8|referer=http://www.fawanews.sc/",
+            "logo": "",
+            "title": "PTV SPORTS SD",
+            "tokenApi": "",
+            "type": 0
+          },
+          {
+            "api": "a7712196dbee413ab510c825e5c4d3f0:1ade126fa6a9162ba34bd5de5b1427ca",
+            "link": "https://ottlive.dishhome.com.np/protected/jQTOzZkB0RDJ74Ryniuo/dash/manifest.mpd",
+            "logo": "",
+            "title": "PTV SPORTS HD",
             "tokenApi": "",
             "type": 0
           }
