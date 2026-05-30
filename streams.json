@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-05-30T15:10:22.365267",
+  "last_updated": "2026-05-30T15:20:21.095790",
   "event_count": 9,
   "events": {
     " NAME ": "FluX-oW Live event ( Auto updated)",
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "Finish": "00",
-    "Last update time": "08:30:48 PM 30-05-2026",
+    "Last update time": "08:40:37 PM 30-05-2026",
     "Live": "00",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
     "Upcoming": "35",
@@ -1069,6 +1069,38 @@
             "link": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd",
             "logo": "",
             "title": "TNT SPORTS FHD",
+            "tokenApi": "",
+            "type": 0
+          },
+          {
+            "api": "6a71d7af70eaeb1b018ded7640a26562:5d7f73b42c19d3bb68c55d6ee2676b7d",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/8rbm0uwsbr/out/v1/86d7169ffdff4df6b28dfdb4b49bcfb3/106ca8fc-7790-47e2-b541-1aeccc80282d-cenc.mpd",
+            "logo": "",
+            "title": "PARAMOUNT+ AQ",
+            "tokenApi": "",
+            "type": 0
+          },
+          {
+            "api": "",
+            "link": "https://xn---22--11--33--88--75---------b25zjfpkmbt1n9g9zza94e.xn----------------g34l3fkcn6n2hmd3acobj33ac2a7a8lufomma7cf2b1sh.xn---1l1--5o4dxb.xn--pck.xn--zck.xn--0ck.xn--pck.xn--yck.xn-----0b4asja8cbew2b4b0gd0edbjm2jpa1b1e9zva7a0347s4da2797e7qri.xn--1ck2e1b/docs/hbomax1/__index.m3u8?cc=y&sv=130&nu3zAQc9HC3GbwJq=1780150665-UpeP5q%2BwnD8FLZMd4edwVb93MAimGUqOzstE3s06hR0%3D|referer=https://streamrdc.xyz/",
+            "logo": "",
+            "title": "HBO MAX BR",
+            "tokenApi": "",
+            "type": 0
+          },
+          {
+            "api": "06c12323d02d700f76037a24f268f865:40d59eb5c60c7c5dfec54dae376a6df6",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/nc4iy7xgs2/out/v1/dc738e5b857040ee91f60376391c04a2/ea5faba4-c0fa-4441-8307-6d4f67a447a8-cenc.mpd",
+            "logo": "",
+            "title": "BECKHAM & FRIENDS",
+            "tokenApi": "",
+            "type": 0
+          },
+          {
+            "api": "",
+            "link": "https://datakameha.route64.de/fs/p/FOOTPLUSFR/index.m3u8",
+            "logo": "",
+            "title": "CANAL FOOT+",
             "tokenApi": "",
             "type": 0
           }
