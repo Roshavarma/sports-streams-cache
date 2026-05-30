@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-05-30T19:40:24.965764",
+  "last_updated": "2026-05-30T19:50:22.700794",
   "event_count": 9,
   "events": {
     " NAME ": "FluX-oW Live event ( Auto updated)",
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "Finish": "00",
-    "Last update time": "01:00:41 AM 31-05-2026",
+    "Last update time": "01:10:33 AM 31-05-2026",
     "Live": "00",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
     "Upcoming": "36",
@@ -177,7 +177,7 @@
         ],
         "eventInfo": {
           "Status": "Upcoming",
-          "endTime": "2026/05/30 20:00:00 +0000",
+          "endTime": "2026/05/30 21:00:00 +0000",
           "eventName": "UEFA Champions League Final",
           "isHot": "0",
           "startTime": "2026/05/30 15:50:00 +0000",
@@ -439,7 +439,7 @@
         "eventInfo": {
           "Status": "Upcoming",
           "endTime": "2026/05/31 20:00:00 +0000",
-          "eventName": "Indian Premier League",
+          "eventName": "Indian Premier League Final",
           "isHot": "0",
           "startTime": "2026/05/31 14:00:00 +0000",
           "teamA": "GT",
@@ -449,7 +449,7 @@
         },
         "id": 573,
         "image": "http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark",
-        "title": "Indian Premier League"
+        "title": "Indian Premier League Final"
       },
       {
         "cat": "Cricket",
@@ -540,10 +540,10 @@
         ],
         "eventInfo": {
           "Status": "Upcoming",
-          "endTime": "2026/05/29 19:30:00 +0000",
+          "endTime": "2026/05/31 20:00:00 +0000",
           "eventName": "Women's T20I Tri-Series in Ireland",
           "isHot": "0",
-          "startTime": "2026/05/29 15:00:00 +0000",
+          "startTime": "2026/05/31 15:00:00 +0000",
           "teamA": "PAK-W",
           "teamAFlag": "https://img.sofascore.com/api/v1/team/187808/image",
           "teamB": "IRE-W",
@@ -591,10 +591,10 @@
         ],
         "eventInfo": {
           "Status": "Upcoming",
-          "endTime": "2026/05/30 18:00:00 +0000",
+          "endTime": "2026/06/02 22:30:00 +0000",
           "eventName": "Twenty20 International Women",
           "isHot": "0",
-          "startTime": "2026/05/30 13:30:00 +0000",
+          "startTime": "2026/06/02 17:30:00 +0000",
           "teamA": "ENG-W",
           "teamAFlag": "https://img.sofascore.com/api/v1/team/213121/image",
           "teamB": "IND-W",
@@ -1565,8 +1565,8 @@
         "cat": "Football",
         "channels_data": [
           {
-            "api": "332f62eb3cae824e98a4124da29a7d31:d1698cda3d040f9051125a61745b596b",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/1obktrybht/out/v1/08265453c8f64d9fbeb3cf43764403a8/cenc.mpd",
+            "api": "e23365c2ad97870c871712b73f0d6195:58709c714320bb862dbd07270df81c94",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tirjor64kh/out/v1/fd2ed9916d994f09a3bd62b64141b9cb/cenc.mpd",
             "logo": "",
             "title": "PREMIERER BR",
             "tokenApi": "",
