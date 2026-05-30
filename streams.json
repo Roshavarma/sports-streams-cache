@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-05-30T19:00:49.640040",
+  "last_updated": "2026-05-30T19:10:23.206696",
   "event_count": 9,
   "events": {
     " NAME ": "FluX-oW Live event ( Auto updated)",
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "Finish": "00",
-    "Last update time": "12:20:33 AM 31-05-2026",
+    "Last update time": "12:30:56 AM 31-05-2026",
     "Live": "00",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
     "Upcoming": "36",
@@ -1395,10 +1395,10 @@
         "cat": "Football",
         "channels_data": [
           {
-            "api": "",
-            "link": "https://fallback-video.ivan-flux.workers.dev/video/index.m3u8",
+            "api": "d23f7433798a652a7d4f6791d9e1036c:4942eebd598b5727c5cc484cc62b52e8",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/6onrfniyry/out/v1/f23069c61dbf4e00890a40b705a84079/cenc.mpd",
             "logo": "",
-            "title": "Ivan-FluX",
+            "title": "PREMIERER BR",
             "tokenApi": "",
             "type": 0
           }
@@ -1449,10 +1449,18 @@
         "cat": "Football",
         "channels_data": [
           {
-            "api": "",
-            "link": "https://fallback-video.ivan-flux.workers.dev/video/index.m3u8",
+            "api": "56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd",
             "logo": "",
-            "title": "Ivan-FluX",
+            "title": "PREMIERER BR",
+            "tokenApi": "",
+            "type": 0
+          },
+          {
+            "api": "4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733",
+            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd",
+            "logo": "",
+            "title": "SporTV BR",
             "tokenApi": "",
             "type": 0
           }
@@ -1557,10 +1565,10 @@
         "cat": "Football",
         "channels_data": [
           {
-            "api": "",
-            "link": "https://fallback-video.ivan-flux.workers.dev/video/index.m3u8",
+            "api": "332f62eb3cae824e98a4124da29a7d31:d1698cda3d040f9051125a61745b596b",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/1obktrybht/out/v1/08265453c8f64d9fbeb3cf43764403a8/cenc.mpd",
             "logo": "",
-            "title": "Ivan-FluX",
+            "title": "PREMIERER BR",
             "tokenApi": "",
             "type": 0
           }
@@ -1611,10 +1619,26 @@
         "cat": "Football",
         "channels_data": [
           {
-            "api": "",
-            "link": "https://fallback-video.ivan-flux.workers.dev/video/index.m3u8",
+            "api": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f",
+            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
             "logo": "",
-            "title": "Ivan-FluX",
+            "title": "PREMIER SPORTS",
+            "tokenApi": "",
+            "type": 0
+          },
+          {
+            "api": "e23365c2ad97870c871712b73f0d6195:58709c714320bb862dbd07270df81c94",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tirjor64kh/out/v1/fd2ed9916d994f09a3bd62b64141b9cb/cenc.mpd",
+            "logo": "",
+            "title": "PREMIERER BR",
+            "tokenApi": "",
+            "type": 0
+          },
+          {
+            "api": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
+            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
+            "logo": "",
+            "title": "SportDigital Fussball",
             "tokenApi": "",
             "type": 0
           }
@@ -1638,10 +1662,18 @@
         "cat": "Football",
         "channels_data": [
           {
-            "api": "",
-            "link": "https://fallback-video.ivan-flux.workers.dev/video/index.m3u8",
+            "api": "4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733",
+            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd",
             "logo": "",
-            "title": "Ivan-FluX",
+            "title": "SporTV BR",
+            "tokenApi": "",
+            "type": 0
+          },
+          {
+            "api": "d23f7433798a652a7d4f6791d9e1036c:4942eebd598b5727c5cc484cc62b52e8",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/6onrfniyry/out/v1/f23069c61dbf4e00890a40b705a84079/cenc.mpd",
+            "logo": "",
+            "title": "PREMIERER BR",
             "tokenApi": "",
             "type": 0
           }
