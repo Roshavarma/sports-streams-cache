@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-05-30T16:20:23.005223",
+  "last_updated": "2026-05-30T16:30:40.547710",
   "event_count": 9,
   "events": {
     " NAME ": "FluX-oW Live event ( Auto updated)",
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "Finish": "00",
-    "Last update time": "09:40:36 PM 30-05-2026",
+    "Last update time": "09:50:33 PM 30-05-2026",
     "Live": "00",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
     "Upcoming": "35",
@@ -35,6 +35,14 @@
             "link": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/khsyiltgaz/out/v1/d2f281563daa4c8da8e2fd168552b757/cenc.mpd",
             "logo": "",
             "title": "VIX Español FHD",
+            "tokenApi": "",
+            "type": 0
+          },
+          {
+            "api": "3af37d023842c8f6cb7c1ae7c1b628f2:aa42ee1574a5b52f421ba45abf75e0ed",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/bjdphb1pef/out/v1/0a5fbcc3fc124cf9b996201087a58b2f/cenc.mpd",
+            "logo": "",
+            "title": "TNT BRASIL FHD",
             "tokenApi": "",
             "type": 0
           },
@@ -115,6 +123,14 @@
             "link": "https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
             "logo": "",
             "title": "TNT SPORTS HD",
+            "tokenApi": "",
+            "type": 0
+          },
+          {
+            "api": "",
+            "link": "https://pulltx.jdnzrgm.com/live/hd-en-6MwdL933iPPFSEEpjp.m3u8?txSecret=f62e09ed3b6f5e330f875dbb4f570256&txTime=6A1B31D2",
+            "logo": "",
+            "title": "FAST SERVER",
             "tokenApi": "",
             "type": 0
           },
