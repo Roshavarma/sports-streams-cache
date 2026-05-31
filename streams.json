@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-05-31T11:50:34.597553",
+  "last_updated": "2026-05-31T12:00:50.002285",
   "event_count": 9,
   "events": {
     " NAME ": "FluX-oW Live event ( Auto updated)",
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "Finish": "00",
-    "Last update time": "05:10:37 PM 31-05-2026",
+    "Last update time": "05:20:34 PM 31-05-2026",
     "Live": "00",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
     "Upcoming": "49",
@@ -1185,6 +1185,14 @@
             "link": "https://pul-tenm.nbs3g.com/live/sd-1-4541798.m3u8?txSecret=c9ff7e8100429778528114d8a2863a94&txTime=6A1D4DD7",
             "logo": "",
             "title": "HD SERVER",
+            "tokenApi": "",
+            "type": 0
+          },
+          {
+            "api": "",
+            "link": "http://193.47.62.55/hls/WAWAWA.m3u8|referer=http://www.fawanews.sc/",
+            "logo": "",
+            "title": "SD SERVER",
             "tokenApi": "",
             "type": 0
           }
