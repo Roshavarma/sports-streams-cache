@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-05-31T13:50:26.298397",
+  "last_updated": "2026-05-31T14:00:50.140972",
   "event_count": 9,
   "events": {
     " NAME ": "FluX-oW Live event ( Auto updated)",
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "Finish": "00",
-    "Last update time": "07:10:34 PM 31-05-2026",
+    "Last update time": "07:20:34 PM 31-05-2026",
     "Live": "00",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
     "Upcoming": "60",
@@ -72,32 +72,15 @@
           },
           {
             "api": "",
-            "link": "http://193.47.62.41/hls/CVCVCVQQQQQQ.m3u8|referer=http://www.fawanews.sc/",
+            "link": "https://xtrax5.amaira.workers.dev/s/KRk1GWhODEJTQ0ZGKBkmF3RPLk4-X3tCfUQ9ET0jNw8SFgEEB0k8BB4XK1R5EmFUPw45Q3FeclliHV9YRkNOSTxJZ0p3VX0RY1VzDjkIcFp2UGVWERwCAgsAcw.ts",
             "logo": "",
-            "title": "WILLOW LOW",
+            "title": "WILLOW HINDI",
             "tokenApi": "",
             "type": 0
           },
           {
             "api": "",
-            "link": "https://embedsports.top/embed/admin/admin-willow-cricket/1",
-            "logo": "",
-            "title": "STAR 4K",
-            "tokenApi": {
-              "api": "https://embedsports.top/embed/admin/admin-willow-cricket/1",
-              "default_string": "N8x7Y%m+6n",
-              "ip_api": "https://api.ipify.org/",
-              "link_key": "playback_url",
-              "request_body_type": "text",
-              "request_type": "get",
-              "type": "embed",
-              "url": "https://embedsports.top/embed/admin/admin-willow-cricket/1"
-            },
-            "type": 0
-          },
-          {
-            "api": "",
-            "link": "https://jcevents.hotstar.com/bpk-tv/e03bbf7688f4b14faa3782e78851c3d9_CTV/Fallback/e03bbf7688f4b14faa3782e78851c3d9.m3u8?|cookie=hdntl=exp=1780146832~acl=%2f*~id=54ec95a219c7b9c6bf3b191069dcfb1c~data=hdntl~hmac=2674fbb31870e48e280724701ecc9f7c190ab61f4216fe36bc7eb54cad66e3fc&User-agent=Hotstar;in.startv.hotstar/SportsLover(Android/15)&Referer=https://www.hotstar.com/&origin=https://www.hotstar.com",
+            "link": "https://jcevents.hotstar.com/bpk-tv/e03bbf7688f4b14faa3782e78851c3d9_CTV/Fallback/e03bbf7688f4b14faa3782e78851c3d9.m3u8?|cookie=hdntl=exp=1780316477~acl=%2f*~id=7a071e2a2a4a3aa2f3c4082dd5a53328~data=hdntl~hmac=8c7b6c063cbbfcb052a255b92ab2e9fd35f6b7d1eaee424cd2ed68f7ed13dd14&User-agent=Hotstar;in.startv.hotstar/SportsLover(Android/15)&Referer=https://www.hotstar.com/&origin=https://www.hotstar.com",
             "logo": "",
             "title": "JIOHOTSTAR ENGLISH 🇮🇳",
             "tokenApi": "",
@@ -122,7 +105,7 @@
           },
           {
             "api": "965dc2ddb1d85138ad787999a7f30ca5:859695076e67fe961836b564db6d689c",
-            "link": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_BTS/WDVLive/index.mpd?|cookie=__hdnea__=st=1780057805~exp=1780079405~acl=/bpk-tv/Star_Sports_HD1_BTS/WDVLive/*~hmac=14441e2ca4d401b41b773e2a7825160aea7af52e1097f563daba6e25949b4162",
+            "link": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_BTS/WDVLive/index.mpd?|cookie=__hdnea__=st=1780233121~exp=1780254721~acl=/bpk-tv/Star_Sports_HD1_BTS/WDVLive/*~hmac=c1d277e0cf103f7c61ac3c3a8532c417f3f1d641e190edee5eade52f64296482",
             "logo": "",
             "title": "STAR ENGLISH [ 50 FPS ]🇮🇳",
             "tokenApi": "",
@@ -130,7 +113,7 @@
           },
           {
             "api": "400131994b445d8c8817202248760fda:2d56cb6of07a75b9aff165d534ae2bfc4",
-            "link": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/index.mpd?|cookie=__hdnea__=st=1780057805~exp=1780079405~acl=/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/*~hmac=ad5cfa668e0a0c0778a5036be1fac8af6ed21c18111ed65c60137f001707ab03",
+            "link": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/index.mpd?|cookie=__hdnea__=st=1780233121~exp=1780254721~acl=/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/*~hmac=83f05be6772b82b1ad70e0f00140f50b0e66d94bcaae4338f096c7bf658fc677",
             "logo": "",
             "title": "STAR HINDI [ 50 FPS ] 🇮🇳",
             "tokenApi": "",
@@ -138,7 +121,7 @@
           },
           {
             "api": "2272c0bc6b2e5cb090b1f55996e0026c:943923934de1d5536ab01c67fca8b337",
-            "link": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Tamil_HD_BTS/WDVLive/index.mpd?|cookie=__hdnea__=st=1780057805~exp=1780079405~acl=/bpk-tv/Star_Sports_1_Tamil_HD_BTS/WDVLive/*~hmac=ce86fd2fa2423b2d59b1ad6fd7b5bade471cc630a29ab082877550bc92a7832b",
+            "link": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Tamil_HD_BTS/WDVLive/index.mpd?|cookie=__hdnea__=st=1780230606~exp=1780252206~acl=/bpk-tv/Star_Sports_1_Tamil_HD_BTS/WDVLive/*~hmac=36b54a890a5b44aeac12b3383ccab3962ebd8ee1468cb6d33271aee27ca40ece",
             "logo": "",
             "title": "STAR TAMIL [ 50 FPS ]🇮🇳",
             "tokenApi": "",
@@ -146,7 +129,7 @@
           },
           {
             "api": "49e84b9edfd85379b90c81b7d2d3d2bf:19c82d3ff094fa06af95820a1572ecb5",
-            "link": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Telugu_HD_BTS/WDVLive/index.mpd?|cookie=__hdnea__=st=1780057805~exp=1780079405~acl=/bpk-tv/Star_Sports_1_Telugu_HD_BTS/WDVLive/*~hmac=bbf0fc6d74c6acfc9d5d89f4b39325750b45238fc9427e1681fb0b7cbff1542b",
+            "link": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Telugu_HD_BTS/WDVLive/index.mpd?|cookie=__hdnea__=st=1780230607~exp=1780252207~acl=/bpk-tv/Star_Sports_1_Telugu_HD_BTS/WDVLive/*~hmac=7640c89be7118acccbc2d1e5980cba75bb27b8418238366524dfe56241e33bc5",
             "logo": "",
             "title": "STAR TELUGU [ 50 FPS ] 🇮🇳",
             "tokenApi": "",
@@ -154,7 +137,7 @@
           },
           {
             "api": "9a6d058fa40b5460a946178900eb44cb:791d7444110cec32d731ca0c33ac6c15",
-            "link": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Kannada_BTS/WDVLive/index.mpd?|cookie=__hdnea__=st=1780043406~exp=1780065006~acl=/bpk-tv/Star_Sports_1_Kannada_BTS/WDVLive/*~hmac=e140670d187efb99b5c37f4f03719e3dd96dec867f3d3ed182879b00b603e0cb",
+            "link": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Kannada_BTS/WDVLive/index.mpd?|cookie=__hdnea__=st=1780219805~exp=1780241405~acl=/bpk-tv/Star_Sports_1_Kannada_BTS/WDVLive/*~hmac=e5e8957162da0c0a54a5ab1117ee9f7e0c4bf1e1f2fc2a2fd484990fec8be4c4",
             "logo": "",
             "title": "STAR KANNADA [ 50 FPS ] 🇮🇳",
             "tokenApi": "",
@@ -162,7 +145,7 @@
           },
           {
             "api": "b7cdde012ce04e90a08b90622e020000:13603245acab444faef6cab5198de55f",
-            "link": "https://livetv.hotstar.com/mp1/gec-india-1540065782/fce958099ca84fc3b980e651a4a668a8/index.mpd?|cookie=hdntl=exp=1780146832~acl=%2f*~id=54ec95a219c7b9c6bf3b191069dcfb1c~data=hdntl~hmac=2674fbb31870e48e280724701ecc9f7c190ab61f4216fe36bc7eb54cad66e3fc&User-agent=Hotstar;in.startv.hotstar/SportsLover(Android/15)&Referer=https://www.hotstar.com/&origin=https://www.hotstar.com",
+            "link": "https://livetv.hotstar.com/mp1/gec-india-1540065782/fce958099ca84fc3b980e651a4a668a8/index.mpd?|cookie=hdntl=exp=1780316477~acl=%2f*~id=7a071e2a2a4a3aa2f3c4082dd5a53328~data=hdntl~hmac=8c7b6c063cbbfcb052a255b92ab2e9fd35f6b7d1eaee424cd2ed68f7ed13dd14&User-agent=Hotstar;in.startv.hotstar/SportsLover(Android/15)&Referer=https://www.hotstar.com/&origin=https://www.hotstar.com",
             "logo": "",
             "title": "STAR ENGLISH 🇮🇳",
             "tokenApi": "",
@@ -170,7 +153,7 @@
           },
           {
             "api": "81872faa1d6b45fa9045cdeb2e310000:9b88168e61274587a471962c46b94675",
-            "link": "https://livetv.hotstar.com/mp1/gec-india-1540065788/fa6a4f0005ef4f90ab24484d165b0aaf/index.mpd?|cookie=hdntl=exp=1780146832~acl=%2f*~id=54ec95a219c7b9c6bf3b191069dcfb1c~data=hdntl~hmac=2674fbb31870e48e280724701ecc9f7c190ab61f4216fe36bc7eb54cad66e3fc&User-agent=Hotstar;in.startv.hotstar/SportsLover(Android/15)&Referer=https://www.hotstar.com/&origin=https://www.hotstar.com",
+            "link": "https://livetv.hotstar.com/mp1/gec-india-1540065788/fa6a4f0005ef4f90ab24484d165b0aaf/index.mpd?|cookie=hdntl=exp=1780316477~acl=%2f*~id=7a071e2a2a4a3aa2f3c4082dd5a53328~data=hdntl~hmac=8c7b6c063cbbfcb052a255b92ab2e9fd35f6b7d1eaee424cd2ed68f7ed13dd14&User-agent=Hotstar;in.startv.hotstar/SportsLover(Android/15)&Referer=https://www.hotstar.com/&origin=https://www.hotstar.com",
             "logo": "",
             "title": "STAR HINDI 🇮🇳",
             "tokenApi": "",
@@ -178,7 +161,7 @@
           },
           {
             "api": "",
-            "link": "http://starhub.pro/live/johannes/johannes123/705142.ts",
+            "link": "https://xtrax5.amaira.workers.dev/s/KRk1GWhODEJTQ0ZGKBkmF3RPLk4-X3tCfUQ9ET0jNw8SFgEEB0k8BB4XK1R5EmFUPw45Q3FYcF1gHV9YRkNOSTxJZ0p3VX0RY1VzDjkIcFp2UGVWERwCAgsAcw.ts",
             "logo": "",
             "title": "IPL ENGLISH 🇮🇳 - 4K",
             "tokenApi": "",
@@ -186,7 +169,7 @@
           },
           {
             "api": "",
-            "link": "http://starhub.pro/live/johannes/johannes123/705141.ts",
+            "link": "https://xtrax5.amaira.workers.dev/s/KRk1GWhODEJTQ0ZGKBkmF3RPLk4-X3tCfUQ9ET0jNw8SFgEEB0k8BB4XK1R5EmFUPw45Q3FYcF1jHV9YRkNOSTxJZ0p3VX0RY1VzDjkIcFp2UGVWERwCAgsAcw.ts",
             "logo": "",
             "title": "IPL HINDI 🇮🇳 - 4K",
             "tokenApi": "",
@@ -202,7 +185,7 @@
           },
           {
             "api": "",
-            "link": "http://starhub.pro/live/johannes/johannes123/705165.ts",
+            "link": "https://xtrax5.amaira.workers.dev/s/KRk1GWhODEJTQ0ZGKBkmF3RPLk4-X3tCfUQ9ET0jNw8SFgEEB0k8BB4XK1R5EmFUPw45Q3FYcF9nHV9YRkNOSTxJZ0p3VX0RY1VzDjkIcFp2UGVWERwCAgsAcw.ts",
             "logo": "",
             "title": "IPL BHOJPURI 🇮🇳 - 4K",
             "tokenApi": "",
