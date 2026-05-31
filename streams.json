@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-05-31T17:34:24.089218",
+  "last_updated": "2026-05-31T17:40:20.849305",
   "event_count": 9,
   "events": {
     " NAME ": "FluX-oW Live event ( Auto updated)",
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "Finish": "00",
-    "Last update time": "10:50:33 PM 31-05-2026",
+    "Last update time": "11:00:42 PM 31-05-2026",
     "Live": "00",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
     "Upcoming": "63",
@@ -1243,9 +1243,17 @@
         "channels_data": [
           {
             "api": "",
-            "link": "https://fallback-video.ivan-flux.workers.dev/video/index.m3u8",
+            "link": "https://livecdn-bp-livestream.rumsport7.live/stream/18/chunks.m3u8?is_vip=false&token=92d016f871ffde39ce43a314d67928b1275c6f95&x-sign=943ae1c0e3d8c4549128e29c2413c418&x-time=1780247820",
             "logo": "",
-            "title": "Ivan-FluX",
+            "title": "HD SERVER",
+            "tokenApi": "",
+            "type": 0
+          },
+          {
+            "api": "",
+            "link": "https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1780250936-0-0-b2273c5cf17d44357472c5283d294780",
+            "logo": "",
+            "title": "SD SERVER",
             "tokenApi": "",
             "type": 0
           }
@@ -1270,9 +1278,17 @@
         "channels_data": [
           {
             "api": "",
-            "link": "https://fallback-video.ivan-flux.workers.dev/video/index.m3u8",
+            "link": "https://livecdn-bp-livestream.rumsport7.live/stream/6/chunks.m3u8?is_vip=false&token=92d016f871ffde39ce43a314d67928b1275c6f95&x-sign=e923f1262eb200543c0c268d2576165e&x-time=1780247820",
             "logo": "",
-            "title": "Ivan-FluX",
+            "title": "HD SERVER",
+            "tokenApi": "",
+            "type": 0
+          },
+          {
+            "api": "",
+            "link": "https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1780250936-0-0-077f900a6c15a20d7ef21db77a0059ab",
+            "logo": "",
+            "title": "SD SERVER",
             "tokenApi": "",
             "type": 0
           }
@@ -1386,9 +1402,17 @@
         "channels_data": [
           {
             "api": "",
-            "link": "https://fallback-video.ivan-flux.workers.dev/video/index.m3u8",
+            "link": "https://livecdn-bp-livestream.rumsport7.live/stream/3/chunks.m3u8?is_vip=false&token=92d016f871ffde39ce43a314d67928b1275c6f95&x-sign=4f9d7c46319474a7f85f6e5c9e13605e&x-time=1780247820",
             "logo": "",
-            "title": "Ivan-FluX",
+            "title": "HD SERVER",
+            "tokenApi": "",
+            "type": 0
+          },
+          {
+            "api": "",
+            "link": "https://pull.niues.live/live/stream-612980_lhd.m3u8?auth_key=1780250936-0-0-d46f96b961191cc56f3c2d08391aeac3",
+            "logo": "",
+            "title": "SD SERVER",
             "tokenApi": "",
             "type": 0
           }
@@ -1448,9 +1472,17 @@
         "channels_data": [
           {
             "api": "",
-            "link": "https://fallback-video.ivan-flux.workers.dev/video/index.m3u8",
+            "link": "https://pull.niur.live/live/stream-598119_lhd.m3u8?txSecret=afcb21ffe5fe781b434f601db39d393d&txTime=6a1cbf88",
             "logo": "",
-            "title": "Ivan-FluX",
+            "title": "HD SERVER",
+            "tokenApi": "",
+            "type": 0
+          },
+          {
+            "api": "",
+            "link": "https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1780250936-0-0-f00f8601f00bd08984dedefabac51d31",
+            "logo": "",
+            "title": "SD SERVER",
             "tokenApi": "",
             "type": 0
           }
@@ -1502,9 +1534,17 @@
         "channels_data": [
           {
             "api": "",
-            "link": "https://fallback-video.ivan-flux.workers.dev/video/index.m3u8",
+            "link": "https://livecdn-bp-livestream.rumsport7.live/stream/5/chunks.m3u8?is_vip=false&token=92d016f871ffde39ce43a314d67928b1275c6f95&x-sign=b938500e4e75e93c125c7d612b9a90e1&x-time=1780247820",
             "logo": "",
-            "title": "Ivan-FluX",
+            "title": "HD SERVER",
+            "tokenApi": "",
+            "type": 0
+          },
+          {
+            "api": "",
+            "link": "https://pull.niues.live/live/stream-589848_lsd.m3u8?auth_key=1780250936-0-0-616b6860b4af882ea75c84c449da0fa6",
+            "logo": "",
+            "title": "SD SERVER",
             "tokenApi": "",
             "type": 0
           }
@@ -1615,9 +1655,17 @@
         "channels_data": [
           {
             "api": "",
-            "link": "https://fallback-video.ivan-flux.workers.dev/video/index.m3u8",
+            "link": "https://livecdn-bp-livestream.rumsport7.live/stream/20/chunks.m3u8?is_vip=false&token=92d016f871ffde39ce43a314d67928b1275c6f95&x-sign=eb4742f0250fd0841a34989583750542&x-time=1780247820",
             "logo": "",
-            "title": "Ivan-FluX",
+            "title": "HD SERVER",
+            "tokenApi": "",
+            "type": 0
+          },
+          {
+            "api": "",
+            "link": "https://pull.niur.live/live/stream-602153_lhd.m3u8?txSecret=07648e479a875e5e9e544d6282a9b6e4&txTime=6a1cbf88",
+            "logo": "",
+            "title": "SD SERVER",
             "tokenApi": "",
             "type": 0
           }
@@ -1803,10 +1851,18 @@
         "cat": "Football",
         "channels_data": [
           {
-            "api": "",
-            "link": "https://fallback-video.ivan-flux.workers.dev/video/index.m3u8",
+            "api": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811",
+            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
             "logo": "",
-            "title": "Ivan-FluX",
+            "title": "FOX DEPORTES",
+            "tokenApi": "",
+            "type": 0
+          },
+          {
+            "api": "",
+            "link": "https://livecdn-bp-iptv.rumsport7.live/live_abr/161357/720p/chunks.m3u8?is_vip=false&token=92d016f871ffde39ce43a314d67928b1275c6f95&x-sign=e1f3ed83432560fddf0ff11499b0a863&x-time=1780247820",
+            "logo": "",
+            "title": "HD SERVER",
             "tokenApi": "",
             "type": 0
           }
@@ -2081,7 +2137,7 @@
             "api": "",
             "link": "https://chatgpt.hereisman.net/playlist/51392/load-playlist?&.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://gooz.aapmains.net/new-stream-embed/51392?ad=111&Origin=https://gooz.aapmains.net/new-stream-embed/51392?ad=111",
             "logo": "",
-            "title": "TV+ HD",
+            "title": "MLB TV+ HD",
             "tokenApi": "",
             "type": 0
           },
@@ -2499,9 +2555,33 @@
         "channels_data": [
           {
             "api": "",
-            "link": "https://www.wwe.com/f/styles/og_image/public/2026/02/Clash_in_Italy_2026_Logo.png",
+            "link": "https://chatgpt.hereisman.net/playlist/51413/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
             "logo": "",
-            "title": "Link 1",
+            "title": "HD SERVER",
+            "tokenApi": "",
+            "type": 0
+          },
+          {
+            "api": "",
+            "link": "https://26hrwgorfcmh.windows-devs.top/AccessLog2/83_FHD/apache.m3u8|Referer=https://26hrwgorfcmh.windows-devs.top/",
+            "logo": "",
+            "title": "HD SERVER",
+            "tokenApi": "",
+            "type": 0
+          },
+          {
+            "api": "",
+            "link": "https://android-database1.firebase-api.com/AccessLog2/108085_SD/apache.m3u8|Referer=https://android-database1.firebase-api.com",
+            "logo": "",
+            "title": "LOW QUALITY",
+            "tokenApi": "",
+            "type": 0
+          },
+          {
+            "api": "",
+            "link": "http://193.47.62.44/hls/ZAZAZAZZ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+            "logo": "",
+            "title": "SD SERVER",
             "tokenApi": "",
             "type": 0
           }
