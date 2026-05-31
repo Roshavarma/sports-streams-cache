@@ -1,32 +1,32 @@
 {
-  "last_updated": "2026-05-31T13:40:27.746001",
+  "last_updated": "2026-05-31T13:50:26.298397",
   "event_count": 9,
   "events": {
     " NAME ": "FluX-oW Live event ( Auto updated)",
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "Finish": "00",
-    "Last update time": "07:00:46 PM 31-05-2026",
+    "Last update time": "07:10:34 PM 31-05-2026",
     "Live": "00",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Upcoming": "57",
+    "Upcoming": "60",
     "events": [
       {
         "cat": "Cricket",
         "channels_data": [
           {
-            "api": "4a29be2e831b734e3fe5f2613c5abb1d:7430374ee54b5318736fbd4455779c11",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/l58o2adfeu/out/v1/e5b078607e7740849585b052c2b65b0b/cenc.mpd",
+            "api": "185e04b94d08a4558841eb9097e83b08:a178a1c84bbecc7ea7ed6866c6e69f5e",
+            "link": "https://abdfyr5aaaaaaaamblknqqdakgoyf.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/rzgksauspx/out/v1/ca2cea2aca4d4658aeb82f22be9946be/cenc.mpd",
             "logo": "",
             "title": "WILLOW ENG FHD",
             "tokenApi": "",
             "type": 0
           },
           {
-            "api": "f1f97a734b1752ae9c3639310b105278:57e0135e10a8ed3246b8306ada268954",
-            "link": "https://dck1-fs-live.dtcdn.dazn.com/out/v1/814bffb9b389f652/38970a6e3f6f42b5a0ef07ad51a68d0c/index.mpd",
+            "api": "4d346b1d1ae64d4a800409cffa14983e:208c972bd2da4359ac94e6944fe378b6",
+            "link": "https://dice-live-oc.akamaized.net/hdntl=exp=1780247163~acl=*dash%2flive%2f2093666%2f294921-318514%2f*!*dash%2flive%2f2093666-b%2f294921-318514-b%2f*!%2fv1%2fdashsegment%2f*~id=e930b9c9-e13a-4f97-a342-598965f6a2fc~data=hdntl,dWlkPWdmcW91bXxlNTZhMTE5ZS03NzlhLTQzOTctOWQwMS1hZTNjMGIwY2NiMGYmaXA9ODUuMjguNTQuOTUmZXhwPTE3ODAzMTkxOTEmZWlkPTI5NDkyMSZjaWQ9ZGNlLnNreW56Jm9pZD0zMTgmdHlwZT1MSVZF~hmac=c87a87479db9dbba88c7564c68e5e1569be306bc6cec320f65ed721ce327deb9/dash/live/2093666/294921-318514/manifest-d.mpd",
             "logo": "",
-            "title": "KAYO HINDI FHD",
+            "title": "SKY SPORTS 4K",
             "tokenApi": "",
             "type": 0
           },
@@ -39,10 +39,34 @@
             "type": 0
           },
           {
-            "api": "",
-            "link": "https://dai.google.com/linear/hls/event/mbsfWpAoS2Olw5e-nkM-gw/master.m3u8?|user-agent=Cricbuzz/7.00.01%20(Linux;Android%2013)%20AndroidXMedia3/1.5.1&X-Forwarded-For=1.178.20.23",
+            "api": "185e04b94d08a4558841eb9097e83b08:a178a1c84bbecc7ea7ed6866c6e69f5e",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/rzgksauspx/out/v1/ca2cea2aca4d4658aeb82f22be9946be/cenc.mpd",
             "logo": "",
-            "title": "CRICBUZZ NOON",
+            "title": "WILLOW ALT FHD",
+            "tokenApi": "",
+            "type": 0
+          },
+          {
+            "api": "",
+            "link": "https://dai.google.com/linear/hls/event/mbsfWpAoS2Olw5e-nkM-gw/master.m3u8|user-agent=Cricbuzz/7.00.01 (Linux;Android 13) AndroidXMedia3/1.5.1&x-forwarded-for=1.178.20.23",
+            "logo": "",
+            "title": "NOON SPORTS",
+            "tokenApi": "",
+            "type": 0
+          },
+          {
+            "api": "",
+            "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla",
+            "logo": "",
+            "title": "SKY CRICKET AQ",
+            "tokenApi": "",
+            "type": 0
+          },
+          {
+            "api": "",
+            "link": "https://cdn9859.shop/skynz1.m3u8",
+            "logo": "",
+            "title": "SKY SPORTS HD",
             "tokenApi": "",
             "type": 0
           },
@@ -51,14 +75,6 @@
             "link": "http://193.47.62.41/hls/CVCVCVQQQQQQ.m3u8|referer=http://www.fawanews.sc/",
             "logo": "",
             "title": "WILLOW LOW",
-            "tokenApi": "",
-            "type": 0
-          },
-          {
-            "api": "265524cc4acc39c9be2bace0244feffe:e2eacd551e75037cee0ec5f53f951acc",
-            "link": "https://a57live-pv-ta-amazon.akamaized.net/pdx-nitro/live/clients/dash/enc/5vnbzbfrqv/out/v1/e9b937f395f447e3b0898bfc9620537f/cenc.mpd",
-            "logo": "",
-            "title": "WILLOW ALT FHD",
             "tokenApi": "",
             "type": 0
           },
@@ -262,7 +278,7 @@
           "endTime": "2026/05/31 20:00:00 +0000",
           "eventName": "Indian Premier League Final",
           "isHot": "0",
-          "startTime": "2026/05/31 14:00:00 +0000",
+          "startTime": "2026/05/31 13:30:00 +0000",
           "teamA": "GT",
           "teamAFlag": "https://img.sofascore.com/api/v1/team/216006/image",
           "teamB": "RCB",
@@ -2271,6 +2287,111 @@
         "id": 930,
         "image": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
         "title": "MLB"
+      },
+      {
+        "cat": "Football",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://tvsen7.aynaott.com/tsports-hd/index.m3u8?e=1780230666&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=c53bb8p9ac070c915a6a3z",
+            "logo": "",
+            "title": "T SPORTS HD",
+            "tokenApi": "",
+            "type": 0
+          },
+          {
+            "api": "",
+            "link": "https://fc-ind-owner-tg.ivan-flux.workers.dev/142940-BLOODY_SWEET.m3u8",
+            "logo": "",
+            "title": "FANCODE 🇮🇳",
+            "tokenApi": "",
+            "type": 0
+          },
+          {
+            "api": "",
+            "link": "https://fc-ind-owner-tg.ivan-flux.workers.dev/142940-BLOODY_SWEET.m3u8",
+            "logo": "",
+            "title": "FANCODE 🇧🇩",
+            "tokenApi": "",
+            "type": 0
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/05/31 18:00:00 +0000",
+          "eventName": "SAFF Women's Championship",
+          "isHot": "0",
+          "startTime": "2026/05/31 13:30:00 +0000",
+          "teamA": "India",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/214194/image",
+          "teamB": "bangladesh",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/132938/image"
+        },
+        "id": 931,
+        "image": "https://img.sofascore.com/api/v1/unique-tournament/23499/image",
+        "title": "SAFF Women's Championship"
+      },
+      {
+        "cat": "Ice hockey",
+        "channels_data": [
+          {
+            "api": "c4088f5f265f9de50cffd80bf89308b7:2c4d2239d96d532b4ec2050653611003",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
+            "logo": "",
+            "title": "TSN SPORTS FHD",
+            "tokenApi": "",
+            "type": 0
+          },
+          {
+            "api": "",
+            "link": "http://193.47.62.50/hls/TTTTZ.m3u8|referer=http://www.fawanews.sc/",
+            "logo": "",
+            "title": "HD SERVER",
+            "tokenApi": "",
+            "type": 0
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/05/31 16:00:00 +0000",
+          "eventName": "IIHF World Championship",
+          "isHot": "0",
+          "startTime": "2026/05/31 13:30:00 +0000",
+          "teamA": "Canada",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/5729/image",
+          "teamB": "Norway",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/5913/image"
+        },
+        "id": 932,
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/3/image/dark",
+        "title": "IIHF World Championship"
+      },
+      {
+        "cat": "Ice hockey",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://fallback-video.ivan-flux.workers.dev/video/index.m3u8",
+            "logo": "",
+            "title": "Ivan-FluX",
+            "tokenApi": "",
+            "type": 0
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/05/31 20:50:00 +0000",
+          "eventName": "IIHF World Championship",
+          "isHot": "0",
+          "startTime": "2026/05/31 18:20:00 +0000",
+          "teamA": "Switzerland",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/5734/image",
+          "teamB": "Finland",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/5731/image"
+        },
+        "id": 933,
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/3/image/dark",
+        "title": "IIHF World Championship"
       }
     ]
   }
