@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-05-31T19:40:22.625048",
+  "last_updated": "2026-05-31T19:50:21.249888",
   "event_count": 9,
   "events": {
     " NAME ": "FluX-oW Live event ( Auto updated)",
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "Finish": "00",
-    "Last update time": "01:00:44 AM 01-06-2026",
+    "Last update time": "01:10:35 AM 01-06-2026",
     "Live": "00",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
     "Upcoming": "63",
@@ -1845,6 +1845,14 @@
             "type": 0
           },
           {
+            "api": "0022a1bb1c54dbef30ae7d9bcadceb84:520afa30c2a0d224289e8a02fd926cc9",
+            "link": "https://g003-sle-us-cmaf-prd-ak.cdn.peacocktv.com/pck-sle/us-west-2/v1/dash/6f3f45fea6332a47667932dede90d20a96f2690c/peacock-dash-sle-4s-generic-cfd/co01/pcksle2/Content/CMAF_CTR-4s-v2/Live/channel(5021421-723279-491240ede8f)/master_2hr.mpd?c3.ri=6a1c88a3_Q1ZYMDc_0_QUtBTUFJ_8462e88c64f9%3A0&aws.sessionId=f867af1e-4551-4b8b-ac57-12a8d9d35c16",
+            "logo": "",
+            "title": "PEACOCK TV FHD",
+            "tokenApi": "",
+            "type": 0
+          },
+          {
             "api": "96b67fa09140329a89b7a1ead134eda3:c618d32c56cdc6cad8330eb98507ca3f",
             "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-east)/master.mpd",
             "logo": "",
@@ -1857,6 +1865,14 @@
             "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd",
             "logo": "",
             "title": "TELEMUNDO FHD",
+            "tokenApi": "",
+            "type": 0
+          },
+          {
+            "api": "",
+            "link": "https://pulltx.jdnzrgm.com/live/hd-en-6MwcqKMLB9EKKhmPGi.m3u8?txSecret=518a02e03d93bb828ddf6a61686b38e7&txTime=6A1CB57B",
+            "logo": "",
+            "title": "FAST SERVER",
             "tokenApi": "",
             "type": 0
           }
@@ -1970,9 +1986,17 @@
         "channels_data": [
           {
             "api": "",
-            "link": "https://fallback-video.ivan-flux.workers.dev/video/index.m3u8",
+            "link": "https://livecdn-bp-livestream.rumsport7.live/stream/18/chunks.m3u8?is_vip=false&token=6af8ac3fa34312c1365209dd8c3aac946848f774&x-sign=3856c8907994f7dbe62008a245281ce0&x-time=1780255920",
             "logo": "",
-            "title": "Ivan-FluX",
+            "title": "HD SERVER",
+            "tokenApi": "",
+            "type": 0
+          },
+          {
+            "api": "",
+            "link": "https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1780259216-0-0-57562a8d73e99089d1a21a36d0d676a2",
+            "logo": "",
+            "title": "HD SERVER",
             "tokenApi": "",
             "type": 0
           }
@@ -2086,9 +2110,17 @@
         "channels_data": [
           {
             "api": "",
-            "link": "https://fallback-video.ivan-flux.workers.dev/video/index.m3u8",
+            "link": "https://livecdn-tc-livestream.rumsport10.live/stream/1/chunks.m3u8?is_vip=false&token=1780342319-Kv4cPTAAP5YTi-6af8ac3fa34312c1365209dd8c3aac946848f774-8c5c93e63596a1a15a6b1b803c345f35",
             "logo": "",
-            "title": "Ivan-FluX",
+            "title": "HD SERVER",
+            "tokenApi": "",
+            "type": 0
+          },
+          {
+            "api": "",
+            "link": "https://pull.niues.live/live/stream-612980_lhd.m3u8?auth_key=1780259216-0-0-5ae0fb79a798c54024ee7a10d3de1be9",
+            "logo": "",
+            "title": "SD SERVER",
             "tokenApi": "",
             "type": 0
           }
