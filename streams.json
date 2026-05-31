@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-05-31T20:20:22.674664",
+  "last_updated": "2026-05-31T20:30:40.097229",
   "event_count": 9,
   "events": {
     " NAME ": "FluX-oW Live event ( Auto updated)",
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "Finish": "00",
-    "Last update time": "01:40:34 AM 01-06-2026",
+    "Last update time": "01:50:34 AM 01-06-2026",
     "Live": "00",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
     "Upcoming": "63",
@@ -2219,34 +2219,34 @@
         "cat": "Baseball",
         "channels_data": [
           {
-            "api": "",
-            "link": "https://chatgpt.hereisman.net/playlist/51391/load-playlist?&.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://gooz.aapmains.net/new-stream-embed/51391?ad=111&Origin=https://gooz.aapmains.net/new-stream-embed/51391?ad=111",
+            "api": "96b67fa09140329a89b7a1ead134eda3:c618d32c56cdc6cad8330eb98507ca3f",
+            "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-east)/master.mpd",
             "logo": "",
-            "title": "HD+ SERVER",
+            "title": "NBC UNIVERSO",
             "tokenApi": "",
             "type": 0
           },
           {
-            "api": "",
-            "link": "https://mainstreams.pro/hls/kjhfzua25.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
+            "api": "f288380ca4cef9ad3f27a92a08e9bb8b:9f18d26291d9230833501f7f822f6875",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd",
             "logo": "",
-            "title": "HD QUALITY",
+            "title": "TNT SPORTS 2",
             "tokenApi": "",
             "type": 0
           },
           {
-            "api": "",
-            "link": "https://instreams.pro/US/MLB11/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://instream.click/jwp-us.php?stream=MLB11&Origin=https://instream.click/jwp-us.php?stream=MLB11",
+            "api": "daa8ea92553fd16cd6bfae2b8c582715:4042e041b5639b79b69ae07a872eef9b",
+            "link": "https://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/3n6slkgh54/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
             "logo": "",
-            "title": "LIVE SERVER",
+            "title": "TSN2 FHD",
             "tokenApi": "",
             "type": 0
           },
           {
-            "api": "",
-            "link": "http://193.47.62.40/hls/MMMMSS.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+            "api": "f5c2b30eac11be1e8cdfc9585f5fe6af:a8198d17bf9b0da77450fbb919a38b2d",
+            "link": "https://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/lzhmuzmjsl/out/v1/c171eeb214c749f2b351c79df317b21e/cenc.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
             "logo": "",
-            "title": "LOW QUALITY",
+            "title": "TSN3 FHD",
             "tokenApi": "",
             "type": 0
           },
@@ -2314,6 +2314,22 @@
         "channels_data": [
           {
             "api": "",
+            "link": "https://chatgpt.hereisman.net/playlist/51444/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "title": "HD SERVER",
+            "tokenApi": "",
+            "type": 0
+          },
+          {
+            "api": "00225c1f26f97ab3b27a2428e7ed179b:a000f60ff552255c4a0b6ab687460df2",
+            "link": "https://g002-sle-us-cmaf-prd-cf.cdn.peacocktv.com/v~1-0-0_e~1780348192_f~0_g~1_s~dea6eb82-37ff-4121-b770-e2ec85fb26af_u~ed9799a08fb8609cc25abcef956da64365ee797ddb0619e74ec411090b0c223198ea7148aaf0b5d54ac78a9ad2957605_k~A_l~78_x~18326a89aa5c463c7271d53c6c1e78cf/co01/pcksle2/Content/CMAF_CTR-4s-v2/Live/channel(5021444-723302-491256dd266)/master.mpd",
+            "logo": "",
+            "title": "LIVE MLB",
+            "tokenApi": "",
+            "type": 0
+          },
+          {
+            "api": "",
             "link": "https://mainstreams.pro/hls/jzabfazkbf27.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
             "logo": "",
             "title": "HD SERVER",
@@ -2349,6 +2365,14 @@
         "channels_data": [
           {
             "api": "",
+            "link": "https://chatgpt.hereisman.net/playlist/51445/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "title": "HD SERVER",
+            "tokenApi": "",
+            "type": 0
+          },
+          {
+            "api": "",
             "link": "https://edgestreams.pro/hls/hefbafbakx28.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
             "logo": "",
             "title": "HD SERVER",
@@ -2382,6 +2406,14 @@
       {
         "cat": "Baseball",
         "channels_data": [
+          {
+            "api": "",
+            "link": "https://chatgpt.hereisman.net/playlist/51441/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "title": "HD SERVER",
+            "tokenApi": "",
+            "type": 0
+          },
           {
             "api": "",
             "link": "https://edgestreams.pro/hls/dzjhkfazbka26.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
