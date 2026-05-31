@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-05-31T18:30:35.690564",
+  "last_updated": "2026-05-31T18:40:21.475708",
   "event_count": 9,
   "events": {
     " NAME ": "FluX-oW Live event ( Auto updated)",
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "Finish": "00",
-    "Last update time": "11:50:34 PM 31-05-2026",
+    "Last update time": "12:00:43 AM 01-06-2026",
     "Live": "00",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
     "Upcoming": "63",
@@ -1778,10 +1778,26 @@
         "cat": "Football",
         "channels_data": [
           {
-            "api": "",
-            "link": "https://fallback-video.ivan-flux.workers.dev/video/index.m3u8",
+            "api": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
             "logo": "",
-            "title": "Ivan-FluX",
+            "title": "FOX SPORTS FHD",
+            "tokenApi": "",
+            "type": 0
+          },
+          {
+            "api": "01ebacc2dc8e5831012dbbd4a2508bc1:64be519394f5df08cdfab952b3bdc43e",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fpy5jrp6kp/out/v1/83e94e1e8f76494f8173edb038f25837/cenc.mpd",
+            "logo": "",
+            "title": "ViX ESPANOL FHD",
+            "tokenApi": "",
+            "type": 0
+          },
+          {
+            "api": "",
+            "link": "https://pulltx.jdnzrgm.com/live/hd-en-6MwcqKMLLxVmjxjjzv.m3u8?txSecret=7cec3eb22640c3aa1f9c8167a8ab83bc&txTime=6A1CA603",
+            "logo": "",
+            "title": "HD SERVER",
             "tokenApi": "",
             "type": 0
           }
@@ -2143,7 +2159,7 @@
         "channels_data": [
           {
             "api": "",
-            "link": "https://chatgpt.hereisman.net/playlist/51392/load-playlist?&.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://gooz.aapmains.net/new-stream-embed/51392?ad=111&Origin=https://gooz.aapmains.net/new-stream-embed/51392?ad=111",
+            "link": "https://chatgpt.hereisman.net/playlist/51425/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
             "logo": "",
             "title": "MLB TV+ HD",
             "tokenApi": "",
@@ -2151,33 +2167,9 @@
           },
           {
             "api": "",
-            "link": "https://instreams.pro/US/MLB10/index.m3u8|User-Agent=Mozilla/5.0",
+            "link": "https://mainstreams.pro/hls/bzagLHzach19.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
             "logo": "",
-            "title": "LIVE SERVER",
-            "tokenApi": "",
-            "type": 0
-          },
-          {
-            "api": "",
-            "link": "http://193.47.62.40/hls/MMMMS.m3u8|User-Agent=Mozilla/5.0",
-            "logo": "",
-            "title": "LOW QUALITY",
-            "tokenApi": "",
-            "type": 0
-          },
-          {
-            "api": "",
-            "link": "https://mainstreams.pro/hls/fskjanach24.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
-            "logo": "",
-            "title": "HD QUALITY",
-            "tokenApi": "",
-            "type": 0
-          },
-          {
-            "api": "",
-            "link": "https://tvpass.org/live/mlb11/sd?&.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://thetvapp.to&Origin=https://thetvapp.to",
-            "logo": "",
-            "title": "MLB LIVE",
+            "title": "HD SERVER",
             "tokenApi": "",
             "type": 0
           }
@@ -2465,10 +2457,10 @@
         "cat": "Ice hockey",
         "channels_data": [
           {
-            "api": "",
-            "link": "https://fallback-video.ivan-flux.workers.dev/video/index.m3u8",
+            "api": "c4088f5f265f9de50cffd80bf89308b7:2c4d2239d96d532b4ec2050653611003",
+            "link": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
             "logo": "",
-            "title": "Ivan-FluX",
+            "title": "TSN SPORTS FHD",
             "tokenApi": "",
             "type": 0
           }
