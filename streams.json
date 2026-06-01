@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-06-01T21:00:52.691882",
+  "last_updated": "2026-06-01T21:10:24.104736",
   "event_count": 9,
   "events": {
     " NAME ": "FluX-oW Live event ( Auto updated)",
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "Finish": "00",
-    "Last update time": "02:20:41 AM 02-06-2026",
+    "Last update time": "02:31:01 AM 02-06-2026",
     "Live": "00",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
     "Upcoming": "43",
@@ -448,35 +448,43 @@
         "channels_data": [
           {
             "api": "",
-            "link": "https://29pisfqlcvyi.windows-devs.top/AccessLog2/108085_HD/apache.m3u8|Referer=https://29pisfqlcvyi.windows-devs.top/",
+            "link": "https://libgen.loreofeldenring.site/dailymotion/live/playlist/1.m3u8",
             "logo": "",
-            "title": "WWE HD",
+            "title": "RAW LIVE HD",
             "tokenApi": "",
             "type": 0
           },
           {
             "api": "",
-            "link": "https://android-database1.firebase-api.com/AccessLog2/108085_HD/apache.m3u8|Referer=https://android-database1.firebase-api.com",
+            "link": "https://libgen.loreofeldenring.site/dailymotion/live/playlist/2.m3u8",
+            "logo": "",
+            "title": "HD SERVER",
+            "tokenApi": "",
+            "type": 0
+          },
+          {
+            "api": "",
+            "link": "https://26hrwgorfcmh.windows-devs.top/AccessLog2/108085_LQ/apache.m3u8|Referer=https://26hrwgorfcmh.windows-devs.top/",
+            "logo": "",
+            "title": "HD SERVER 2",
+            "tokenApi": "",
+            "type": 0
+          },
+          {
+            "api": "",
+            "link": "https://27lftgqlgzmy.windows-devs.top/AccessLog2/83_FHD/apache.m3u8|Referer=https://27lftgqlgzmy.windows-devs.top/",
             "logo": "",
             "title": "BACKUP SD",
-            "tokenApi": "",
-            "type": 0
-          },
-          {
-            "api": "",
-            "link": "https://chatgpt.hereisman.net/playlist/50439/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net/",
-            "logo": "",
-            "title": "LIVE HD",
             "tokenApi": "",
             "type": 0
           }
         ],
         "eventInfo": {
           "Status": "Upcoming",
-          "endTime": "2026/05/26 04:00:00 +0000",
+          "endTime": "2026/06/01 23:00:00 +0000",
           "eventName": "Monday Night RAW",
           "isHot": "0",
-          "startTime": "2026/05/26 00:00:00 +0000",
+          "startTime": "2026/06/01 19:00:00 +0000",
           "teamA": "WWE RAW",
           "teamAFlag": "https://i.ibb.co/Hmg2K3Q/20260310-201809.png",
           "teamB": "WWE RAW",
@@ -1452,9 +1460,9 @@
         "channels_data": [
           {
             "api": "",
-            "link": "https://fallback-video.ivan-flux.workers.dev/video/index.m3u8",
+            "link": "https://edgestreams.pro/hls/jnzkdzjfanch23.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
             "logo": "",
-            "title": "Ivan-FluX",
+            "title": "HD SERVER",
             "tokenApi": "",
             "type": 0
           }
@@ -1560,9 +1568,9 @@
         "channels_data": [
           {
             "api": "",
-            "link": "https://fallback-video.ivan-flux.workers.dev/video/index.m3u8",
+            "link": "https://edge2caster.pro/hls/ztyarueaghj71.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
             "logo": "",
-            "title": "Ivan-FluX",
+            "title": "HD SERVER",
             "tokenApi": "",
             "type": 0
           }
