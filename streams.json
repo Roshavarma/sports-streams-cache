@@ -1,15 +1,15 @@
 {
-  "last_updated": "2026-06-02T07:10:29.609093",
+  "last_updated": "2026-06-02T07:20:29.494186",
   "event_count": 9,
   "events": {
     " NAME ": "FluX-oW Live event ( Auto updated)",
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "Finish": "00",
-    "Last update time": "12:31:03 PM 02-06-2026",
+    "Last update time": "12:40:38 PM 02-06-2026",
     "Live": "00",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Upcoming": "43",
+    "Upcoming": "34",
     "events": [
       {
         "cat": "Cricket",
@@ -67,6 +67,33 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/187746/image"
         },
         "id": 801,
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark",
+        "title": "One Day International"
+      },
+      {
+        "cat": "Cricket",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://fallback-video.ivan-flux.workers.dev/video/index.m3u8",
+            "logo": "",
+            "title": "Ivan-FluX",
+            "tokenApi": "",
+            "type": 0
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/06/03 23:30:00 +0000",
+          "eventName": "One Day International",
+          "isHot": "0",
+          "startTime": "2026/06/03 14:30:00 +0000",
+          "teamA": "WI",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/187760/image",
+          "teamB": "SL",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/187756/image"
+        },
+        "id": 943,
         "image": "http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark",
         "title": "One Day International"
       },
@@ -798,7 +825,7 @@
           "endTime": "  +0000",
           "eventName": "Roland-Garros",
           "isHot": "0",
-          "startTime": "2026/06/01 09:00:00 +0000",
+          "startTime": "2026/06/02 09:00:00 +0000",
           "teamA": "Roland-Garros",
           "teamAFlag": "https://img.sofascore.com/api/v1/unique-tournament/2480/image",
           "teamB": "Roland-Garros",
@@ -920,53 +947,53 @@
         "cat": "Football",
         "channels_data": [
           {
-            "api": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
-            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
+            "api": "",
+            "link": "https://fallback-video.ivan-flux.workers.dev/video/index.m3u8",
             "logo": "",
-            "title": "SportDigital FUSSBALL",
+            "title": "Ivan-FluX",
             "tokenApi": "",
             "type": 0
           }
         ],
         "eventInfo": {
           "Status": "Upcoming",
-          "endTime": "2026/06/01 13:50:00 +0000",
-          "eventName": "U17 European Championship",
+          "endTime": "2026/06/02 18:50:00 +0000",
+          "eventName": "U23 Toulon Tournament",
           "isHot": "0",
-          "startTime": "2026/06/01 11:30:00 +0000",
-          "teamA": "France U17",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/22474/image",
-          "teamB": "Montenegro U17",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/22631/image"
+          "startTime": "2026/06/02 16:30:00 +0000",
+          "teamA": "Saudi Arabia U23",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/49094/image",
+          "teamB": "Colombia U19",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/287153/image"
         },
-        "id": 911,
-        "image": "http://api.sofascore.com/api/v1/unique-tournament/429/image/dark",
-        "title": "U17 European Championship"
+        "id": 944,
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/2084/image/dark",
+        "title": "U23 Toulon Tournament"
       },
       {
         "cat": "Football",
         "channels_data": [
           {
             "api": "",
-            "link": "http://193.47.62.42/hls/ebbbq.m3u8|referer=http://www.fawanews.sc/",
+            "link": "https://fallback-video.ivan-flux.workers.dev/video/index.m3u8",
             "logo": "",
-            "title": "SD SERVER",
+            "title": "Ivan-FluX",
             "tokenApi": "",
             "type": 0
           }
         ],
         "eventInfo": {
           "Status": "Upcoming",
-          "endTime": "2026/06/01 13:20:00 +0000",
+          "endTime": "2026/06/03 13:50:00 +0000",
           "eventName": "International Friendly Games",
           "isHot": "0",
-          "startTime": "2026/06/01 11:00:00 +0000",
-          "teamA": "Pakistan",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/6081/image",
-          "teamB": "Bangladesh",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/6080/image"
+          "startTime": "2026/06/03 11:30:00 +0000",
+          "teamA": "Philippines",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/4791/image",
+          "teamB": "Guam",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/23493/image"
         },
-        "id": 917,
+        "id": 945,
         "image": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
         "title": "International Friendly Games"
       },
@@ -984,18 +1011,18 @@
         ],
         "eventInfo": {
           "Status": "Upcoming",
-          "endTime": "2026/06/02 02:50:00 +0000",
-          "eventName": "LigaPro Serie A",
+          "endTime": "2026/06/03 13:55:00 +0000",
+          "eventName": "International Friendly Games Women",
           "isHot": "0",
-          "startTime": "2026/06/02 00:30:00 +0000",
-          "teamA": "Técnico",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/21941/image",
-          "teamB": "Barcelona SC",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/5250/image"
+          "startTime": "2026/06/03 11:35:00 +0000",
+          "teamA": "China",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/7413/image",
+          "teamB": "Russia",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/32486/image"
         },
-        "id": 921,
-        "image": "http://api.sofascore.com/api/v1/unique-tournament/240/image/dark",
-        "title": "LigaPro Serie A"
+        "id": 946,
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/852/image/dark",
+        "title": "International Friendly Games Women"
       },
       {
         "cat": "Football",
@@ -1011,51 +1038,43 @@
         ],
         "eventInfo": {
           "Status": "Upcoming",
-          "endTime": "2026/06/01 21:05:00 +0000",
-          "eventName": "International Friendly Games",
+          "endTime": "2026/06/03 12:50:00 +0000",
+          "eventName": "International Friendly Games Women",
           "isHot": "0",
-          "startTime": "2026/06/01 18:45:00 +0000",
-          "teamA": "Austria",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/4718/image",
-          "teamB": "Tunisia",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/4729/image"
+          "startTime": "2026/06/03 10:30:00 +0000",
+          "teamA": "Myanmar",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/132948/image",
+          "teamB": "Uzbekistan",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/132956/image"
         },
-        "id": 922,
-        "image": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
-        "title": "International Friendly Games"
+        "id": 947,
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/852/image/dark",
+        "title": "International Friendly Games Women"
       },
       {
         "cat": "Football",
         "channels_data": [
           {
             "api": "",
-            "link": "http://193.47.62.44/hls/ppfffQ.m3u8|referer=http://www.fawanews.sc/",
+            "link": "https://fallback-video.ivan-flux.workers.dev/video/index.m3u8",
             "logo": "",
-            "title": "SD SERVER",
-            "tokenApi": "",
-            "type": 0
-          },
-          {
-            "api": "",
-            "link": "http://193.47.62.44/hls/ppfffQ.m3u8|referer=http://www.fawanews.sc/",
-            "logo": "",
-            "title": "HD (USE VPN)",
+            "title": "Ivan-FluX",
             "tokenApi": "",
             "type": 0
           }
         ],
         "eventInfo": {
           "Status": "Upcoming",
-          "endTime": "2026/06/01 18:20:00 +0000",
+          "endTime": "2026/06/02 21:05:00 +0000",
           "eventName": "International Friendly Games",
           "isHot": "0",
-          "startTime": "2026/06/01 16:00:00 +0000",
-          "teamA": "Maldives",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/6911/image",
-          "teamB": "Afghanistan",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/4689/image"
+          "startTime": "2026/06/02 18:45:00 +0000",
+          "teamA": "Wales",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/4702/image",
+          "teamB": "Ghana",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/4764/image"
         },
-        "id": 923,
+        "id": 949,
         "image": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
         "title": "International Friendly Games"
       },
@@ -1063,10 +1082,199 @@
         "cat": "Football",
         "channels_data": [
           {
-            "api": "4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733",
-            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd",
+            "api": "",
+            "link": "https://fallback-video.ivan-flux.workers.dev/video/index.m3u8",
             "logo": "",
-            "title": "SporTV BR",
+            "title": "Ivan-FluX",
+            "tokenApi": "",
+            "type": 0
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/06/03 02:20:00 +0000",
+          "eventName": "International Friendly Games",
+          "isHot": "0",
+          "startTime": "2026/06/03 00:00:00 +0000",
+          "teamA": "Haiti",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/7229/image",
+          "teamB": "New Zealand",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/4784/image"
+        },
+        "id": 950,
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
+        "title": "International Friendly Games"
+      },
+      {
+        "cat": "Football",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://fallback-video.ivan-flux.workers.dev/video/index.m3u8",
+            "logo": "",
+            "title": "Ivan-FluX",
+            "tokenApi": "",
+            "type": 0
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/06/02 19:20:00 +0000",
+          "eventName": "International Friendly Games",
+          "isHot": "0",
+          "startTime": "2026/06/02 17:00:00 +0000",
+          "teamA": "Morocco",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/4778/image",
+          "teamB": "Madagascar",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/8035/image"
+        },
+        "id": 951,
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
+        "title": "International Friendly Games"
+      },
+      {
+        "cat": "Football",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://fallback-video.ivan-flux.workers.dev/video/index.m3u8",
+            "logo": "",
+            "title": "Ivan-FluX",
+            "tokenApi": "",
+            "type": 0
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/06/02 15:20:00 +0000",
+          "eventName": "U23 Toulon Tournament",
+          "isHot": "0",
+          "startTime": "2026/06/02 13:00:00 +0000",
+          "teamA": "China U22",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/318364/image",
+          "teamB": "DR Congo U20",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/520576/image"
+        },
+        "id": 952,
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/2084/image/dark",
+        "title": "U23 Toulon Tournament"
+      },
+      {
+        "cat": "Football",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://fallback-video.ivan-flux.workers.dev/video/index.m3u8",
+            "logo": "",
+            "title": "Ivan-FluX",
+            "tokenApi": "",
+            "type": 0
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/06/02 18:20:00 +0000",
+          "eventName": "International Friendly Games",
+          "isHot": "0",
+          "startTime": "2026/06/02 16:00:00 +0000",
+          "teamA": "Croatia",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/4715/image",
+          "teamB": "Belgium",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/4717/image"
+        },
+        "id": 954,
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
+        "title": "International Friendly Games"
+      },
+      {
+        "cat": "Football",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://fallback-video.ivan-flux.workers.dev/video/index.m3u8",
+            "logo": "",
+            "title": "Ivan-FluX",
+            "tokenApi": "",
+            "type": 0
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/06/03 02:20:00 +0000",
+          "eventName": "Copa do Nordeste",
+          "isHot": "0",
+          "startTime": "2026/06/03 00:00:00 +0000",
+          "teamA": "Fortaleza",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2020/image",
+          "teamB": "Vitória",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/1962/image"
+        },
+        "id": 956,
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/1596/image/dark",
+        "title": "Copa do Nordeste"
+      },
+      {
+        "cat": "Football",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://fallback-video.ivan-flux.workers.dev/video/index.m3u8",
+            "logo": "",
+            "title": "Ivan-FluX",
+            "tokenApi": "",
+            "type": 0
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/06/02 19:20:00 +0000",
+          "eventName": "International Friendly Games",
+          "isHot": "0",
+          "startTime": "2026/06/02 17:00:00 +0000",
+          "teamA": "Georgia",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/4763/image",
+          "teamB": "Romania",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/4477/image"
+        },
+        "id": 957,
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
+        "title": "International Friendly Games"
+      },
+      {
+        "cat": "Football",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://fallback-video.ivan-flux.workers.dev/video/index.m3u8",
+            "logo": "",
+            "title": "Ivan-FluX",
+            "tokenApi": "",
+            "type": 0
+          }
+        ],
+        "eventInfo": {
+          "Status": "Upcoming",
+          "endTime": "2026/06/02 14:35:00 +0000",
+          "eventName": "ASEAN Championship",
+          "isHot": "0",
+          "startTime": "2026/06/02 12:15:00 +0000",
+          "teamA": "Brunei",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/23491/image",
+          "teamB": "East Timor",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/23497/image"
+        },
+        "id": 958,
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/602/image/dark",
+        "title": "ASEAN Championship"
+      },
+      {
+        "cat": "Football",
+        "channels_data": [
+          {
+            "api": "",
+            "link": "https://fallback-video.ivan-flux.workers.dev/video/index.m3u8",
+            "logo": "",
+            "title": "Ivan-FluX",
             "tokenApi": "",
             "type": 0
           }
@@ -1082,58 +1290,7 @@
           "teamB": "Costa Rica",
           "teamBFlag": "https://img.sofascore.com/api/v1/team/4756/image"
         },
-        "id": 924,
-        "image": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
-        "title": "International Friendly Games"
-      },
-      {
-        "cat": "Football",
-        "channels_data": [
-          {
-            "api": "e51aa21f2a0fef9aabc120dfb655b52f:a12a987fe725a40b6be95cd84b15f689",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
-            "logo": "",
-            "title": "TSN SPORTS FHD",
-            "tokenApi": "",
-            "type": 0
-          },
-          {
-            "api": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
-            "logo": "",
-            "title": "FOX SPORTS FHD",
-            "tokenApi": "",
-            "type": 0
-          },
-          {
-            "api": "c4088f5f265f9de50cffd80bf89308b7:2c4d2239d96d532b4ec2050653611003",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
-            "logo": "",
-            "title": "TSN SPORTS 4",
-            "tokenApi": "",
-            "type": 0
-          },
-          {
-            "api": "e853333da2c9196ea11374634231bc45:de2e2dbe818d78dfad07d6cd9a4c63d4",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/jkcljgqbx8/out/v1/63bfa701559340f3a2a2cb1fccd24807/cenc.mpd",
-            "logo": "",
-            "title": "TSN SPORTS 5",
-            "tokenApi": "",
-            "type": 0
-          }
-        ],
-        "eventInfo": {
-          "Status": "Upcoming",
-          "endTime": "2026/06/02 03:20:00 +0000",
-          "eventName": "International Friendly Games",
-          "isHot": "0",
-          "startTime": "2026/06/02 01:00:00 +0000",
-          "teamA": "Canada",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/4752/image",
-          "teamB": "Uzbekistan",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/4723/image"
-        },
-        "id": 925,
+        "id": 959,
         "image": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
         "title": "International Friendly Games"
       },
@@ -1142,515 +1299,27 @@
         "channels_data": [
           {
             "api": "",
-            "link": "http://193.47.62.44/hls/ppfffQQQQQQ.m3u8|referer=http://www.fawanews.sc/",
+            "link": "https://fallback-video.ivan-flux.workers.dev/video/index.m3u8",
             "logo": "",
-            "title": "SD SERVER",
+            "title": "Ivan-FluX",
             "tokenApi": "",
             "type": 0
           }
         ],
         "eventInfo": {
           "Status": "Upcoming",
-          "endTime": "2026/06/01 19:50:00 +0000",
-          "eventName": "International Friendly Games",
+          "endTime": "2026/06/03 02:50:00 +0000",
+          "eventName": "Primera A, Apertura",
           "isHot": "0",
-          "startTime": "2026/06/01 17:30:00 +0000",
-          "teamA": "Türkiye",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/4700/image",
-          "teamB": "North Macedonia",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/4777/image"
+          "startTime": "2026/06/03 00:30:00 +0000",
+          "teamA": "Junior Barranquilla",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/6105/image",
+          "teamB": "Atl. Nacional",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/6106/image"
         },
-        "id": 926,
-        "image": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
-        "title": "International Friendly Games"
-      },
-      {
-        "cat": "Football",
-        "channels_data": [
-          {
-            "api": "902e5ec0e3d05e665daa32fc23f4f59e:7b2322a273843921a43e2c61dac7cae3",
-            "link": "https://otte.live.cf.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd",
-            "logo": "",
-            "title": "SporTV BR FHD",
-            "tokenApi": "",
-            "type": 0
-          }
-        ],
-        "eventInfo": {
-          "Status": "Upcoming",
-          "endTime": "2026/06/01 18:20:00 +0000",
-          "eventName": "International Friendly Games",
-          "isHot": "0",
-          "startTime": "2026/06/01 16:00:00 +0000",
-          "teamA": "Bulgaria",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/4716/image",
-          "teamB": "Montenegro",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/7139/image"
-        },
-        "id": 927,
-        "image": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
-        "title": "International Friendly Games"
-      },
-      {
-        "cat": "Football",
-        "channels_data": [
-          {
-            "api": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
-            "logo": "",
-            "title": "FOX SPORTS FHD",
-            "tokenApi": "",
-            "type": 0
-          },
-          {
-            "api": "4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733",
-            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd",
-            "logo": "",
-            "title": "SporTV BR FHD",
-            "tokenApi": "",
-            "type": 0
-          },
-          {
-            "api": "",
-            "link": "http://193.47.62.50/hls/rooooq.m3u8|referer=http://www.fawanews.sc/",
-            "logo": "",
-            "title": "SD SERVER",
-            "tokenApi": "",
-            "type": 0
-          }
-        ],
-        "eventInfo": {
-          "Status": "Upcoming",
-          "endTime": "2026/06/01 19:20:00 +0000",
-          "eventName": "International Friendly Games",
-          "isHot": "0",
-          "startTime": "2026/06/01 17:00:00 +0000",
-          "teamA": "Norway",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/4475/image",
-          "teamB": "Sweden",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/4688/image"
-        },
-        "id": 928,
-        "image": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
-        "title": "International Friendly Games"
-      },
-      {
-        "cat": "Football",
-        "channels_data": [
-          {
-            "api": "3de028eafb3b2caffec03be1c1c818b3:8fbdd8a9ae6748696bb13e547bb093fc",
-            "link": "https://otte.live.cf.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/dsa3hwuhd1/out/v1/631b48c8d9ea437e8309d1a4b55acef5/cenc.mpd",
-            "logo": "",
-            "title": "SporTV BR FHD",
-            "tokenApi": "",
-            "type": 0
-          },
-          {
-            "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
-            "link": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd",
-            "logo": "",
-            "title": "Sport CZ FHD",
-            "tokenApi": "",
-            "type": 0
-          }
-        ],
-        "eventInfo": {
-          "Status": "Upcoming",
-          "endTime": "2026/06/01 18:20:00 +0000",
-          "eventName": "International Friendly Games",
-          "isHot": "0",
-          "startTime": "2026/06/01 16:00:00 +0000",
-          "teamA": "Slovakia",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/4697/image",
-          "teamB": "Malta",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/4483/image"
-        },
-        "id": 929,
-        "image": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
-        "title": "International Friendly Games"
-      },
-      {
-        "cat": "Football",
-        "channels_data": [
-          {
-            "api": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811",
-            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
-            "logo": "",
-            "title": "FOX DEPORTES",
-            "tokenApi": "",
-            "type": 0
-          }
-        ],
-        "eventInfo": {
-          "Status": "Upcoming",
-          "endTime": "2026/06/01 18:50:00 +0000",
-          "eventName": "U23 Toulon Tournament",
-          "isHot": "0",
-          "startTime": "2026/06/01 16:30:00 +0000",
-          "teamA": "Venezuela U23",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/332422/image",
-          "teamB": "Canada U20",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/7546/image"
-        },
-        "id": 930,
-        "image": "http://api.sofascore.com/api/v1/unique-tournament/2084/image/dark",
-        "title": "U23 Toulon Tournament"
-      },
-      {
-        "cat": "Baseball",
-        "channels_data": [
-          {
-            "api": "",
-            "link": "https://edgestreams.pro/hls/Czajafjihafch18.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-            "logo": "",
-            "title": "HD SERVER",
-            "tokenApi": "",
-            "type": 0
-          }
-        ],
-        "eventInfo": {
-          "Status": "Upcoming",
-          "endTime": "2026/06/02 02:40:00 +0000",
-          "eventName": "MLB",
-          "isHot": "0",
-          "startTime": "2026/06/01 23:40:00 +0000",
-          "teamA": "Twins",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3649/image",
-          "teamB": "White Sox",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3644/image"
-        },
-        "id": 931,
-        "image": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
-        "title": "MLB"
-      },
-      {
-        "cat": "Baseball",
-        "channels_data": [
-          {
-            "api": "",
-            "link": "https://edgestreams.pro/hls/jkzahzadach20.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-            "logo": "",
-            "title": "HD SERVER",
-            "tokenApi": "",
-            "type": 0
-          }
-        ],
-        "eventInfo": {
-          "Status": "Upcoming",
-          "endTime": "2026/06/02 02:45:00 +0000",
-          "eventName": "MLB",
-          "isHot": "0",
-          "startTime": "2026/06/01 23:45:00 +0000",
-          "teamA": "Cardinals",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3632/image",
-          "teamB": "Rangers",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3647/image"
-        },
-        "id": 932,
-        "image": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
-        "title": "MLB"
-      },
-      {
-        "cat": "Baseball",
-        "channels_data": [
-          {
-            "api": "294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd",
-            "logo": "",
-            "title": "TNT SPORTS FHD",
-            "tokenApi": "",
-            "type": 0
-          },
-          {
-            "api": "5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd",
-            "logo": "",
-            "title": "FOX SPORTS",
-            "tokenApi": "",
-            "type": 0
-          },
-          {
-            "api": "f288380ca4cef9ad3f27a92a08e9bb8b:9f18d26291d9230833501f7f822f6875",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd",
-            "logo": "",
-            "title": "TNT SPORTS AQ",
-            "tokenApi": "",
-            "type": 0
-          },
-          {
-            "api": "",
-            "link": "https://edge2caster.pro/hls/bzagLHzach19.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-            "logo": "",
-            "title": "HD SERVER",
-            "tokenApi": "",
-            "type": 0
-          }
-        ],
-        "eventInfo": {
-          "Status": "Upcoming",
-          "endTime": "2026/06/02 02:40:00 +0000",
-          "eventName": "MLB",
-          "isHot": "0",
-          "startTime": "2026/06/01 23:40:00 +0000",
-          "teamA": "Brewers",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3630/image",
-          "teamB": "Giants",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3634/image"
-        },
-        "id": 933,
-        "image": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
-        "title": "MLB"
-      },
-      {
-        "cat": "Baseball",
-        "channels_data": [
-          {
-            "api": "",
-            "link": "https://mainstreams.pro/hls/16yuitzaerghbhc16.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-            "logo": "",
-            "title": "HD SERVER",
-            "tokenApi": "",
-            "type": 0
-          }
-        ],
-        "eventInfo": {
-          "Status": "Upcoming",
-          "endTime": "2026/06/02 01:45:00 +0000",
-          "eventName": "MLB",
-          "isHot": "0",
-          "startTime": "2026/06/01 22:45:00 +0000",
-          "teamA": "Nationals",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/5930/image",
-          "teamB": "Marlins",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3639/image"
-        },
-        "id": 934,
-        "image": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
-        "title": "MLB"
-      },
-      {
-        "cat": "Baseball",
-        "channels_data": [
-          {
-            "api": "",
-            "link": "https://edge2caster.pro/hls/dazhfiach15.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-            "logo": "",
-            "title": "HD SERVER",
-            "tokenApi": "",
-            "type": 0
-          }
-        ],
-        "eventInfo": {
-          "Status": "Upcoming",
-          "endTime": "2026/06/02 01:40:00 +0000",
-          "eventName": "MLB",
-          "isHot": "0",
-          "startTime": "2026/06/01 22:40:00 +0000",
-          "teamA": "Rays",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3653/image",
-          "teamB": "Tigers",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3648/image"
-        },
-        "id": 935,
-        "image": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
-        "title": "MLB"
-      },
-      {
-        "cat": "Baseball",
-        "channels_data": [
-          {
-            "api": "",
-            "link": "https://edgestreams.pro/hls/jnzkdzjfanch23.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-            "logo": "",
-            "title": "HD SERVER",
-            "tokenApi": "",
-            "type": 0
-          }
-        ],
-        "eventInfo": {
-          "Status": "Upcoming",
-          "endTime": "2026/06/02 04:40:00 +0000",
-          "eventName": "MLB",
-          "isHot": "0",
-          "startTime": "2026/06/02 01:40:00 +0000",
-          "teamA": "Mariners",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3641/image",
-          "teamB": "Mets",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3629/image"
-        },
-        "id": 936,
-        "image": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
-        "title": "MLB"
-      },
-      {
-        "cat": "Baseball",
-        "channels_data": [
-          {
-            "api": "",
-            "link": "https://edge2caster.pro/hls/ihfazugfyjcazich17.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-            "logo": "",
-            "title": "HD SERVER",
-            "tokenApi": "",
-            "type": 0
-          }
-        ],
-        "eventInfo": {
-          "Status": "Upcoming",
-          "endTime": "2026/06/02 02:10:00 +0000",
-          "eventName": "MLB",
-          "isHot": "0",
-          "startTime": "2026/06/01 23:10:00 +0000",
-          "teamA": "Reds",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3633/image",
-          "teamB": "Royals",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3651/image"
-        },
-        "id": 937,
-        "image": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
-        "title": "MLB"
-      },
-      {
-        "cat": "Baseball",
-        "channels_data": [
-          {
-            "api": "",
-            "link": "https://edge2caster.pro/hls/ojzkajnach21.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-            "logo": "",
-            "title": "HD SERVER",
-            "tokenApi": "",
-            "type": 0
-          }
-        ],
-        "eventInfo": {
-          "Status": "Upcoming",
-          "endTime": "2026/06/02 04:38:00 +0000",
-          "eventName": "MLB",
-          "isHot": "0",
-          "startTime": "2026/06/02 01:38:00 +0000",
-          "teamA": "Angels",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/5929/image",
-          "teamB": "Rockies",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3628/image"
-        },
-        "id": 938,
-        "image": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
-        "title": "MLB"
-      },
-      {
-        "cat": "Baseball",
-        "channels_data": [
-          {
-            "api": "",
-            "link": "https://mainstreams.pro/hls/ijfnakfidch22.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-            "logo": "",
-            "title": "HD SERVER",
-            "tokenApi": "",
-            "type": 0
-          }
-        ],
-        "eventInfo": {
-          "Status": "Upcoming",
-          "endTime": "2026/06/02 04:40:00 +0000",
-          "eventName": "MLB",
-          "isHot": "0",
-          "startTime": "2026/06/02 01:40:00 +0000",
-          "teamA": "Diamondbacks",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3640/image",
-          "teamB": "Dodgers",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3638/image"
-        },
-        "id": 939,
-        "image": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
-        "title": "MLB"
-      },
-      {
-        "cat": "Basketball",
-        "channels_data": [
-          {
-            "api": "",
-            "link": "https://edge2caster.pro/hls/ztyarueaghj71.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-            "logo": "",
-            "title": "HD SERVER",
-            "tokenApi": "",
-            "type": 0
-          }
-        ],
-        "eventInfo": {
-          "Status": "Upcoming",
-          "endTime": "2026/06/02 04:30:00 +0000",
-          "eventName": "WNBA",
-          "isHot": "0",
-          "startTime": "2026/06/02 02:00:00 +0000",
-          "teamA": "Mercury",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3444/image",
-          "teamB": "Lynx",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3440/image"
-        },
-        "id": 940,
-        "image": "http://api.sofascore.com/api/v1/unique-tournament/486/image/dark",
-        "title": "WNBA"
-      },
-      {
-        "cat": "Basketball",
-        "channels_data": [
-          {
-            "api": "",
-            "link": "https://chatgpt.hereisman.net/playlist/51474/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-            "logo": "",
-            "title": "HD SERVER",
-            "tokenApi": "",
-            "type": 0
-          },
-          {
-            "api": "",
-            "link": "https://edge2caster.pro/hls/bvnsqdfvgha70.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-            "logo": "",
-            "title": "HD SERVER",
-            "tokenApi": "",
-            "type": 0
-          }
-        ],
-        "eventInfo": {
-          "Status": "Upcoming",
-          "endTime": "2026/06/02 02:30:00 +0000",
-          "eventName": "WNBA",
-          "isHot": "0",
-          "startTime": "2026/06/02 00:00:00 +0000",
-          "teamA": "Wings",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3450/image",
-          "teamB": "Storm",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3448/image"
-        },
-        "id": 941,
-        "image": "http://api.sofascore.com/api/v1/unique-tournament/486/image/dark",
-        "title": "WNBA"
-      },
-      {
-        "cat": "Football",
-        "channels_data": [
-          {
-            "api": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811",
-            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
-            "logo": "",
-            "title": "FOX DEPORTES",
-            "tokenApi": "",
-            "type": 0
-          }
-        ],
-        "eventInfo": {
-          "Status": "Upcoming",
-          "endTime": "2026/06/01 15:20:00 +0000",
-          "eventName": "U23 Toulon Tournament",
-          "isHot": "0",
-          "startTime": "2026/06/01 13:00:00 +0000",
-          "teamA": "Japan U19",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/22523/image",
-          "teamB": "Côte d'Ivoire U23",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/49054/image"
-        },
-        "id": 942,
-        "image": "http://api.sofascore.com/api/v1/unique-tournament/2084/image/dark",
-        "title": "U23 Toulon Tournament"
+        "id": 960,
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/11539/image/dark",
+        "title": "Primera A, Apertura"
       }
     ]
   }
