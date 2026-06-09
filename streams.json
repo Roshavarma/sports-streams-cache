@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-06-09T04:12:37.597556",
+  "last_updated": "2026-06-09T04:20:21.912583",
   "event_count": 9,
   "events": {
     " NAME ": "FluX-oW Live event ( Auto updated)",
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "09:40:39 AM 09-06-2026",
+    "Last update time": "09:45:43 AM 09-06-2026",
     "Live": "00",
     "Upcoming": "53",
     "Finish": "00",
@@ -171,8 +171,32 @@
         },
         "channels_data": [
           {
-            "title": "Ivan-FluX",
-            "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+            "title": "TNT SPORTS FHD",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vaplpo3app/out/v1/49b4d538ec854efa90d45084866cf7f9/cenc.mpd",
+            "logo": "",
+            "type": 0,
+            "api": "d14658a0ede94debcb4013b2056ba6d1:60838a3176127fed0eaf038a5575de11",
+            "tokenApi": ""
+          },
+          {
+            "title": "TNT SPORTS HD",
+            "link": "https://xstm.250909.cc/live/SPORTSFLUX-PRD-76753-1/4a7a4af09781/1033.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "FOX CRICKET",
+            "link": "https://cdn9859.shop/foxcricket.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "SD SERVER",
+            "link": "http://193.47.62.47/hls/KSSSQqqqqC.m3u8|Referer=http://www.fawanews.sc/",
             "logo": "",
             "type": 0,
             "api": "",
