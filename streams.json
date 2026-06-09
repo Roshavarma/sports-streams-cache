@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-06-09T09:10:25.199203",
+  "last_updated": "2026-06-09T09:20:25.577230",
   "event_count": 9,
   "events": {
     " NAME ": "FluX-oW Live event ( Auto updated)",
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "02:35:40 PM 09-06-2026",
+    "Last update time": "02:45:44 PM 09-06-2026",
     "Live": "00",
     "Upcoming": "88",
     "Finish": "00",
@@ -476,6 +476,14 @@
             "logo": "",
             "type": 0,
             "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
+            "tokenApi": ""
+          },
+          {
+            "title": "SD SERVER",
+            "link": "http://193.47.62.59/hls/ZZZZQQ.m3u8|referer=http://www.fawanews.sc/",
+            "logo": "",
+            "type": 0,
+            "api": "",
             "tokenApi": ""
           },
           {
@@ -1376,8 +1384,24 @@
         },
         "channels_data": [
           {
-            "title": "Ivan-FluX",
-            "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+            "title": "HD SERVER",
+            "link": "https://livecdn-tc-livestream.rumsport10.live/stream/24/chunks.m3u8?is_vip=false&token=1781082115-Kv4cPTAAP5YTi-ccbbbc27c70a4776850d2020cb4de9c6cb590df7-709a46012ba479a44e33131f05c5b507|Referer=https://iframe.rumsport10.live/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "SD SERVER",
+            "link": "http://193.47.62.59/hls/BFFFZ.m3u8|referer=http://www.fawanews.sc/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "LIVE SERVER",
+            "link": "https://livecdn-bp-livestream.rumsport7.live/stream/24/chunks.m3u8?is_vip=false&token=ccbbbc27c70a4776850d2020cb4de9c6cb590df7&x-sign=940f01fb25b444a7b1c15768a7e738fe&x-time=1780995660|Referer=https://iframe.rumsport10.live/",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1403,8 +1427,8 @@
         },
         "channels_data": [
           {
-            "title": "Ivan-FluX",
-            "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+            "title": "SD SERVER",
+            "link": "http://193.47.62.59/hls/BFFF.m3u8|referer=http://www.fawanews.sc/",
             "logo": "",
             "type": 0,
             "api": "",
