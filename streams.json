@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-06-09T04:50:26.290049",
+  "last_updated": "2026-06-09T05:00:52.783585",
   "event_count": 9,
   "events": {
     " NAME ": "FluX-oW Live event ( Auto updated)",
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "10:15:41 AM 09-06-2026",
+    "Last update time": "10:25:32 AM 09-06-2026",
     "Live": "00",
     "Upcoming": "54",
     "Finish": "00",
@@ -171,11 +171,27 @@
         },
         "channels_data": [
           {
+            "title": "WILLOW FHD",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/39g4vfcmed/out/v1/2cc3881eeb644aafbd089ba91ee5a39c/cenc.mpd",
+            "logo": "",
+            "type": 0,
+            "api": "8e9c51025bcae87deb2cad3def7be311:6ed8b036a7668c104046c706b29ddabb",
+            "tokenApi": ""
+          },
+          {
             "title": "TNT SPORTS FHD",
             "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vaplpo3app/out/v1/49b4d538ec854efa90d45084866cf7f9/cenc.mpd",
             "logo": "",
             "type": 0,
             "api": "d14658a0ede94debcb4013b2056ba6d1:60838a3176127fed0eaf038a5575de11",
+            "tokenApi": ""
+          },
+          {
+            "title": "WILLOW [ALT]",
+            "link": "https://otte.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tsw4vdwngu/out/v1/e1a3a734256c498dbd7b01cdaa7c7c8c/cenc.mpd",
+            "logo": "",
+            "type": 0,
+            "api": "8b16f37636a12cb83d7082e4df2dd39e:36bff5eb3a4f040223460e1aa2f41c3f",
             "tokenApi": ""
           },
           {
@@ -197,6 +213,14 @@
           {
             "title": "SD SERVER",
             "link": "http://193.47.62.47/hls/KSSSQqqqqC.m3u8|Referer=http://www.fawanews.sc/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "FANCODE FHD",
+            "link": "https://fncd.kuvuslov.cymru/mumbai/142965_english_hls_38de70fdb210605_1ta-di_h264/index.m3u8|origin=https://famcodexwebs.pages.dev",
             "logo": "",
             "type": 0,
             "api": "",
@@ -2444,6 +2468,14 @@
             "tokenApi": ""
           },
           {
+            "title": "WILLOW HD",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+            "logo": "",
+            "type": 0,
+            "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
+            "tokenApi": ""
+          },
+          {
             "title": "SONYLIV [ENG]",
             "link": "https://sonydaimenew.akamaized.net/hls/live/2037142/cricodi0906/ENG/std_lrh-800300010.m3u8?hdnea=exp=1781021071~acl=/*~id=76859725289354880460123982049695~hmac=b52cd4ac3cf40cac6a4dadc628fe64db8a75a77354627cb6fb874e644df45662",
             "logo": "",
@@ -2481,6 +2513,14 @@
             "logo": "",
             "type": 0,
             "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "WILLOW FHD",
+            "link": "https://otte.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/nln1owcafu/out/v1/1ab82f752659435f965cc8c8005b0357/cenc.mpd",
+            "logo": "",
+            "type": 0,
+            "api": "a7bde5ef96b11eca0367fc6ae9139bc8:9f44a2653bb6df7915c38fdd831610ee",
             "tokenApi": ""
           }
         ]
