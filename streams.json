@@ -1,14 +1,14 @@
 {
-  "last_updated": "2026-06-09T04:20:21.912583",
+  "last_updated": "2026-06-09T04:30:37.067303",
   "event_count": 9,
   "events": {
     " NAME ": "FluX-oW Live event ( Auto updated)",
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "09:45:43 AM 09-06-2026",
+    "Last update time": "09:55:36 AM 09-06-2026",
     "Live": "00",
-    "Upcoming": "53",
+    "Upcoming": "54",
     "Finish": "00",
     "events": [
       {
@@ -2411,6 +2411,73 @@
           {
             "title": "HD SERVER",
             "link": "https://instreams.pro/US/NBA1/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 1140,
+        "title": "TALENT TV CUP 2026",
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark",
+        "cat": "Cricket",
+        "eventInfo": {
+          "teamA": "India A",
+          "teamB": "Srilanka A",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/187765/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/187756/image",
+          "eventName": "TALENT TV CUP 2026",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/06/09 04:30:00 +0000",
+          "endTime": "2026/06/09 13:00:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "WILLOW FHD",
+            "link": "https://a57live-pv-ta-amazon.akamaized.net/pdx-nitro/live/clients/dash/enc/avbmgwfv7q/out/v1/24142820af7447ae86d91022eafe3435/cenc.mpd",
+            "logo": "",
+            "type": 0,
+            "api": "01f756322784d8acaeb5c46651ae8879:e42f17fcb3c0f626f5001227e71b7116",
+            "tokenApi": ""
+          },
+          {
+            "title": "SONYLIV [ENG]",
+            "link": "https://sonydaimenew.akamaized.net/hls/live/2037142/cricodi0906/ENG/std_lrh-800300010.m3u8?hdnea=exp=1781021071~acl=/*~id=76859725289354880460123982049695~hmac=b52cd4ac3cf40cac6a4dadc628fe64db8a75a77354627cb6fb874e644df45662",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "SONYLIV [HIN]",
+            "link": "https://sonydaimenew.akamaized.net/hls/live/2018457/cricodi0906/HIN/std_lrh-800300010.m3u8?hdnea=exp=1781021071~acl=/*~id=76859725289354880460123982049695~hmac=b52cd4ac3cf40cac6a4dadc628fe64db8a75a77354627cb6fb874e644df45662",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "SONYLIV [TAM]",
+            "link": "https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi0906/TAM/std_lrh-800300010.m3u8?hdnea=exp=1781021071~acl=/*~id=76859725289354880460123982049695~hmac=b52cd4ac3cf40cac6a4dadc628fe64db8a75a77354627cb6fb874e644df45662",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "SONYLIV [TEL]",
+            "link": "https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi0906/TEL/std_lrh-800300010.m3u8?hdnea=exp=1781021071~acl=/*~id=76859725289354880460123982049695~hmac=b52cd4ac3cf40cac6a4dadc628fe64db8a75a77354627cb6fb874e644df45662",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "SONYLIV [KAN]",
+            "link": "https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi0906/KAN/std_lrh-800300010.m3u8?hdnea=exp=1781021071~acl=/*~id=76859725289354880460123982049695~hmac=b52cd4ac3cf40cac6a4dadc628fe64db8a75a77354627cb6fb874e644df45662",
             "logo": "",
             "type": 0,
             "api": "",
