@@ -1,14 +1,14 @@
 {
-  "last_updated": "2026-06-09T09:00:54.989648",
+  "last_updated": "2026-06-09T09:10:25.199203",
   "event_count": 9,
   "events": {
     " NAME ": "FluX-oW Live event ( Auto updated)",
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "02:25:36 PM 09-06-2026",
+    "Last update time": "02:35:40 PM 09-06-2026",
     "Live": "00",
-    "Upcoming": "30",
+    "Upcoming": "88",
     "Finish": "00",
     "events": [
       {
@@ -1481,6 +1481,1572 @@
           "Status": "Upcoming",
           "startTime": "2026/06/09 11:35:00 +0000",
           "endTime": "2026/06/09 13:55:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Ivan-FluX",
+            "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 1142,
+        "title": "ICC Women's T20 World Cup Warm-up",
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/19911/image/dark",
+        "cat": "Cricket",
+        "eventInfo": {
+          "teamA": "IRE-W",
+          "teamB": "BAN-W",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/213116/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/187809/image",
+          "eventName": "ICC Women's T20 World Cup Warm-up",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/06/09 09:00:00 +0000",
+          "endTime": "2026/06/09 13:30:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "WILLOW FHD",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tg9qrqv61z/out/v1/0745325e38a74feaa5e4376c11e7b460/cenc.mpd",
+            "logo": "",
+            "type": 0,
+            "api": "af17c6ab374aed89b9ab743be9599e0a:31135d77be3cf785b2e3da58acdb282a",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 1143,
+        "title": "ICC Women's T20 World Cup Warm-up",
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/19911/image/dark",
+        "cat": "Cricket",
+        "eventInfo": {
+          "teamA": "SCO-W",
+          "teamB": "PAK-W",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/453162/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/187808/image",
+          "eventName": "ICC Women's T20 World Cup Warm-up",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/06/09 09:00:00 +0000",
+          "endTime": "2026/06/09 13:30:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "WILLOW FHD",
+            "link": "https://otte.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/sbwje1k3ak/out/v1/33e73a4e71cb40cb82df69fcf881d2f1/cenc.mpd",
+            "logo": "",
+            "type": 0,
+            "api": "d0ad0d4877d70b6235ed6feca4697a5d:66f3b516bdc5d1853a97034ccfda458b",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 1144,
+        "title": "International Friendly Games",
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Armenia",
+          "teamB": "Moldova",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/4740/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/4782/image",
+          "eventName": "International Friendly Games",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/06/09 15:00:00 +0000",
+          "endTime": "2026/06/09 17:20:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Ivan-FluX",
+            "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 1145,
+        "title": "Baltic Cup",
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/1060/image/dark",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Estonia",
+          "teamB": "Lithuania",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/4759/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/4776/image",
+          "eventName": "Baltic Cup",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/06/09 16:00:00 +0000",
+          "endTime": "2026/06/09 18:20:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Ivan-FluX",
+            "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 1146,
+        "title": "International Friendly Games",
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Bahrain",
+          "teamB": "Syria",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/5161/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/4731/image",
+          "eventName": "International Friendly Games",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/06/09 14:00:00 +0000",
+          "endTime": "2026/06/09 16:20:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Ivan-FluX",
+            "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 1147,
+        "title": "International Friendly Games",
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Cambodia",
+          "teamB": "Hong Kong",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/7929/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/4765/image",
+          "eventName": "International Friendly Games",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/06/09 12:00:00 +0000",
+          "endTime": "2026/06/09 14:20:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Ivan-FluX",
+            "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 1148,
+        "title": "International Friendly Games",
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "DR Congo",
+          "teamB": "Chile",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/4823/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/4754/image",
+          "eventName": "International Friendly Games",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/06/09 16:00:00 +0000",
+          "endTime": "2026/06/09 18:20:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Ivan-FluX",
+            "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 1149,
+        "title": "U21 Friendly Games",
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/854/image/dark",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Moldova U21",
+          "teamB": "Georgia U21",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/6042/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/6373/image",
+          "eventName": "U21 Friendly Games",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/06/09 16:00:00 +0000",
+          "endTime": "2026/06/09 18:20:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Ivan-FluX",
+            "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 1150,
+        "title": "International Friendly Games",
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Kuwait",
+          "teamB": "Oman",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/5368/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/4787/image",
+          "eventName": "International Friendly Games",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/06/09 12:00:00 +0000",
+          "endTime": "2026/06/09 14:20:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Ivan-FluX",
+            "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 1151,
+        "title": "International Friendly Games",
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Tajikistan",
+          "teamB": "India",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/23488/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/4828/image",
+          "eventName": "International Friendly Games",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/06/09 15:00:00 +0000",
+          "endTime": "2026/06/09 17:20:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Ivan-FluX",
+            "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 1152,
+        "title": "International Friendly Games",
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Indonesia",
+          "teamB": "Mozambique",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/4829/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/4783/image",
+          "eventName": "International Friendly Games",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/06/09 13:00:00 +0000",
+          "endTime": "2026/06/09 15:20:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Ivan-FluX",
+            "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 1153,
+        "title": "World Championship Women Qual.",
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/780/image/dark",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Slovenia",
+          "teamB": "Germany",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/37373/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/23992/image",
+          "eventName": "World Championship Women Qual.",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/06/09 16:00:00 +0000",
+          "endTime": "2026/06/09 18:20:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Ivan-FluX",
+            "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 1154,
+        "title": "World Championship Women Qual.",
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/780/image/dark",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Norway",
+          "teamB": "Austria",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/7422/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/34014/image",
+          "eventName": "World Championship Women Qual.",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/06/09 16:00:00 +0000",
+          "endTime": "2026/06/09 18:20:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Ivan-FluX",
+            "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 1155,
+        "title": "International Friendly Games Women",
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/852/image/dark",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "New Zealand",
+          "teamB": "Morocco",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/7419/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/261908/image",
+          "eventName": "International Friendly Games Women",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/06/09 16:00:00 +0000",
+          "endTime": "2026/06/09 18:20:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Ivan-FluX",
+            "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 1156,
+        "title": "International Friendly Games Women",
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/852/image/dark",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Jordan",
+          "teamB": "Palestine",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/150070/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/132952/image",
+          "eventName": "International Friendly Games Women",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/06/09 15:00:00 +0000",
+          "endTime": "2026/06/09 17:20:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Ivan-FluX",
+            "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 1157,
+        "title": "U21 Friendly Games",
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/854/image/dark",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Azerbaijan U21",
+          "teamB": "Kyrgyzstan U21",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/7849/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/63058/image",
+          "eventName": "U21 Friendly Games",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/06/09 14:00:00 +0000",
+          "endTime": "2026/06/09 16:20:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Ivan-FluX",
+            "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 1158,
+        "title": "Baltic Cup",
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/1060/image/dark",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Latvia",
+          "teamB": "Faroe Islands",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/4706/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/4760/image",
+          "eventName": "Baltic Cup",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/06/09 15:00:00 +0000",
+          "endTime": "2026/06/09 17:20:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Ivan-FluX",
+            "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 1159,
+        "title": "International Friendly Games",
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Russia",
+          "teamB": "Trinidad and Tobago",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/4694/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/5162/image",
+          "eventName": "International Friendly Games",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/06/09 17:00:00 +0000",
+          "endTime": "2026/06/09 19:20:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Ivan-FluX",
+            "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 1160,
+        "title": "World Championship Women Qual.",
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/780/image/dark",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Israel",
+          "teamB": "Scotland",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/38092/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/37372/image",
+          "eventName": "World Championship Women Qual.",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/06/09 17:00:00 +0000",
+          "endTime": "2026/06/09 19:20:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Ivan-FluX",
+            "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 1161,
+        "title": "World Championship Women Qual.",
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/780/image/dark",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Croatia",
+          "teamB": "Bulgaria",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/38084/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/38083/image",
+          "eventName": "World Championship Women Qual.",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/06/09 17:00:00 +0000",
+          "endTime": "2026/06/09 19:20:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Ivan-FluX",
+            "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 1162,
+        "title": "World Championship Women Qual.",
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/780/image/dark",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Luxembourg",
+          "teamB": "Belgium",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/38097/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/38081/image",
+          "eventName": "World Championship Women Qual.",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/06/09 17:00:00 +0000",
+          "endTime": "2026/06/09 19:20:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Ivan-FluX",
+            "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 1163,
+        "title": "World Championship Women Qual.",
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/780/image/dark",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Serbia",
+          "teamB": "Denmark",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/38100/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/7414/image",
+          "eventName": "World Championship Women Qual.",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/06/09 17:00:00 +0000",
+          "endTime": "2026/06/09 19:20:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Ivan-FluX",
+            "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 1164,
+        "title": "World Championship Women Qual.",
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/780/image/dark",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Finland",
+          "teamB": "Portugal",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/21802/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/22027/image",
+          "eventName": "World Championship Women Qual.",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/06/09 17:00:00 +0000",
+          "endTime": "2026/06/09 19:20:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Ivan-FluX",
+            "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 1165,
+        "title": "World Championship Women Qual.",
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/780/image/dark",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "North Macedonia",
+          "teamB": "Azerbaijan",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/38086/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/38080/image",
+          "eventName": "World Championship Women Qual.",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/06/09 17:00:00 +0000",
+          "endTime": "2026/06/09 19:20:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Ivan-FluX",
+            "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 1166,
+        "title": "World Championship Women Qual.",
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/780/image/dark",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Hungary",
+          "teamB": "Andorra",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/38090/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/191657/image",
+          "eventName": "World Championship Women Qual.",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/06/09 17:00:00 +0000",
+          "endTime": "2026/06/09 19:20:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Ivan-FluX",
+            "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 1167,
+        "title": "World Championship Women Qual.",
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/780/image/dark",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Georgia",
+          "teamB": "Greece",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/38088/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/35316/image",
+          "eventName": "World Championship Women Qual.",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/06/09 17:00:00 +0000",
+          "endTime": "2026/06/09 19:20:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Ivan-FluX",
+            "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 1168,
+        "title": "World Championship Women Qual.",
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/780/image/dark",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Latvia",
+          "teamB": "Slovakia",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/38095/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/38101/image",
+          "eventName": "World Championship Women Qual.",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/06/09 17:00:00 +0000",
+          "endTime": "2026/06/09 19:20:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Ivan-FluX",
+            "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 1169,
+        "title": "World Championship Women Qual.",
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/780/image/dark",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Estonia",
+          "teamB": "Bosnia & Herzegovina",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/38085/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/38082/image",
+          "eventName": "World Championship Women Qual.",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/06/09 17:00:00 +0000",
+          "endTime": "2026/06/09 19:20:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Ivan-FluX",
+            "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 1170,
+        "title": "World Championship Women Qual.",
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/780/image/dark",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Wales",
+          "teamB": "Czechia",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/34015/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/7752/image",
+          "eventName": "World Championship Women Qual.",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/06/09 17:00:00 +0000",
+          "endTime": "2026/06/09 19:20:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Ivan-FluX",
+            "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 1171,
+        "title": "International Friendly Games",
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Hungary",
+          "teamB": "Kazakhstan",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/4709/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/4772/image",
+          "eventName": "International Friendly Games",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/06/09 17:00:00 +0000",
+          "endTime": "2026/06/09 19:20:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Ivan-FluX",
+            "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 1172,
+        "title": "World Championship Women Qual.",
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/780/image/dark",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Cyprus",
+          "teamB": "Moldova",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/144472/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/190828/image",
+          "eventName": "World Championship Women Qual.",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/06/09 17:00:00 +0000",
+          "endTime": "2026/06/09 19:20:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Ivan-FluX",
+            "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 1173,
+        "title": "World Championship Women Qual.",
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/780/image/dark",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Albania",
+          "teamB": "Montenegro",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/62576/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/70488/image",
+          "eventName": "World Championship Women Qual.",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/06/09 17:00:00 +0000",
+          "endTime": "2026/06/09 19:20:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Ivan-FluX",
+            "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 1174,
+        "title": "World Championship Women Qual.",
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/780/image/dark",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Malta",
+          "teamB": "Türkiye",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/41488/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/38104/image",
+          "eventName": "World Championship Women Qual.",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/06/09 17:00:00 +0000",
+          "endTime": "2026/06/09 19:20:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Ivan-FluX",
+            "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 1175,
+        "title": "World Championship Women Qual.",
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/780/image/dark",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Belarus",
+          "teamB": "Armenia",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/41487/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/38079/image",
+          "eventName": "World Championship Women Qual.",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/06/09 17:00:00 +0000",
+          "endTime": "2026/06/09 19:20:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Ivan-FluX",
+            "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 1176,
+        "title": "World Championship Women Qual.",
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/780/image/dark",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Gibraltar",
+          "teamB": "Kosovo",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/319966/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/251236/image",
+          "eventName": "World Championship Women Qual.",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/06/09 17:00:00 +0000",
+          "endTime": "2026/06/09 19:20:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Ivan-FluX",
+            "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 1177,
+        "title": "World Championship Women Qual.",
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/780/image/dark",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Lithuania",
+          "teamB": "Liechtenstein",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/38096/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/397373/image",
+          "eventName": "World Championship Women Qual.",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/06/09 17:00:00 +0000",
+          "endTime": "2026/06/09 19:20:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Ivan-FluX",
+            "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 1178,
+        "title": "International Friendly Games",
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Belarus",
+          "teamB": "Burkina Faso",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/4743/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/4749/image",
+          "eventName": "International Friendly Games",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/06/09 16:30:00 +0000",
+          "endTime": "2026/06/09 18:50:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Ivan-FluX",
+            "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 1179,
+        "title": "World Championship Women Qual.",
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/780/image/dark",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Sweden",
+          "teamB": "Italy",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/7423/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/22025/image",
+          "eventName": "World Championship Women Qual.",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/06/09 17:00:00 +0000",
+          "endTime": "2026/06/09 19:20:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Ivan-FluX",
+            "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 1180,
+        "title": "World Championship Women Qual.",
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/780/image/dark",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Northern Ireland",
+          "teamB": "Switzerland",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/38099/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/38103/image",
+          "eventName": "World Championship Women Qual.",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/06/09 17:00:00 +0000",
+          "endTime": "2026/06/09 19:20:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Ivan-FluX",
+            "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 1181,
+        "title": "World Championship Women Qual.",
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/780/image/dark",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "England",
+          "teamB": "Ukraine",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/7415/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/32483/image",
+          "eventName": "World Championship Women Qual.",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/06/09 19:00:00 +0000",
+          "endTime": "2026/06/09 21:20:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Ivan-FluX",
+            "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 1182,
+        "title": "International Friendly Games Women",
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/852/image/dark",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Brazil",
+          "teamB": "USA",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/7411/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/7424/image",
+          "eventName": "International Friendly Games Women",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/06/10 00:30:00 +0000",
+          "endTime": "2026/06/10 02:50:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Ivan-FluX",
+            "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 1183,
+        "title": "Canadian Premier League",
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/13470/image/dark",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Atl. Ottawa",
+          "teamB": "SDQ",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/342076/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/1165894/image",
+          "eventName": "Canadian Premier League",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/06/09 23:00:00 +0000",
+          "endTime": "2026/06/10 01:20:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Ivan-FluX",
+            "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 1184,
+        "title": "World Championship Women Qual.",
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/780/image/dark",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "France",
+          "teamB": "Ireland",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/32485/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/22028/image",
+          "eventName": "World Championship Women Qual.",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/06/09 19:00:00 +0000",
+          "endTime": "2026/06/09 21:20:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Ivan-FluX",
+            "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 1185,
+        "title": "CONMEBOL Nations League Women",
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/30396/image/dark",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Ecuador",
+          "teamB": "Argentina",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/182526/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/7409/image",
+          "eventName": "CONMEBOL Nations League Women",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/06/09 23:00:00 +0000",
+          "endTime": "2026/06/10 01:20:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Ivan-FluX",
+            "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 1186,
+        "title": "LaLiga 2",
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/54/image/dark",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Almería",
+          "teamB": "Castellón",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2858/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/5067/image",
+          "eventName": "LaLiga 2",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/06/09 19:00:00 +0000",
+          "endTime": "2026/06/09 21:20:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Ivan-FluX",
+            "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 1187,
+        "title": "International Friendly Games",
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Senegal",
+          "teamB": "Saudi Arabia",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/4739/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/4834/image",
+          "eventName": "International Friendly Games",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/06/09 23:00:00 +0000",
+          "endTime": "2026/06/10 01:20:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Ivan-FluX",
+            "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 1188,
+        "title": "World Championship Women Qual.",
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/780/image/dark",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Iceland",
+          "teamB": "Spain",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/22024/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/37371/image",
+          "eventName": "World Championship Women Qual.",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/06/09 19:00:00 +0000",
+          "endTime": "2026/06/09 21:20:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Ivan-FluX",
+            "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 1189,
+        "title": "International Friendly Games",
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Liberia",
+          "teamB": "Sierra Leone",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/8034/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/4737/image",
+          "eventName": "International Friendly Games",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/06/09 18:30:00 +0000",
+          "endTime": "2026/06/09 20:50:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Ivan-FluX",
+            "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 1190,
+        "title": "International Friendly Games",
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "San Marino",
+          "teamB": "Azerbaijan",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/4833/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/4742/image",
+          "eventName": "International Friendly Games",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/06/09 18:00:00 +0000",
+          "endTime": "2026/06/09 20:20:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Ivan-FluX",
+            "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 1191,
+        "title": "CONMEBOL Nations League Women",
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/30396/image/dark",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Paraguay",
+          "teamB": "Colombia",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/323786/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/46631/image",
+          "eventName": "CONMEBOL Nations League Women",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/06/09 23:00:00 +0000",
+          "endTime": "2026/06/10 01:20:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Ivan-FluX",
+            "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 1192,
+        "title": "World Championship Women Qual.",
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/780/image/dark",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Netherlands",
+          "teamB": "Poland",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/32484/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/22026/image",
+          "eventName": "World Championship Women Qual.",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/06/09 19:00:00 +0000",
+          "endTime": "2026/06/09 21:20:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Ivan-FluX",
+            "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 1193,
+        "title": "International Friendly Games Women",
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/852/image/dark",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Guatemala",
+          "teamB": "El Salvador",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/132934/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/132932/image",
+          "eventName": "International Friendly Games Women",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/06/09 21:00:00 +0000",
+          "endTime": "2026/06/09 23:20:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Ivan-FluX",
+            "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 1194,
+        "title": "CONMEBOL Nations League Women",
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/30396/image/dark",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Uruguay",
+          "teamB": "Venezuela",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/60270/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/255979/image",
+          "eventName": "CONMEBOL Nations League Women",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/06/09 23:00:00 +0000",
+          "endTime": "2026/06/10 01:20:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Ivan-FluX",
+            "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 1195,
+        "title": "CONMEBOL Nations League Women",
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/30396/image/dark",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Peru",
+          "teamB": "Bolivia",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/323787/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/282524/image",
+          "eventName": "CONMEBOL Nations League Women",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/06/09 23:00:00 +0000",
+          "endTime": "2026/06/10 01:20:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Ivan-FluX",
+            "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 1196,
+        "title": "International Friendly Games",
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Iraq",
+          "teamB": "Venezuela",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/4767/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/4722/image",
+          "eventName": "International Friendly Games",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/06/10 01:00:00 +0000",
+          "endTime": "2026/06/10 03:20:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Ivan-FluX",
+            "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 1197,
+        "title": "U23 Toulon Tournament",
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/2084/image/dark",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "DR Congo U20",
+          "teamB": "Saudi Arabia U23",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/520576/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/49094/image",
+          "eventName": "U23 Toulon Tournament",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/06/10 11:30:00 +0000",
+          "endTime": "2026/06/10 13:50:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Ivan-FluX",
+            "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 1198,
+        "title": "International Friendly Games Women",
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/852/image/dark",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Costa Rica",
+          "teamB": "Canada",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/132928/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/7412/image",
+          "eventName": "International Friendly Games Women",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/06/10 01:30:00 +0000",
+          "endTime": "2026/06/10 03:50:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Ivan-FluX",
+            "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 1199,
+        "title": "International Friendly Games",
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Argentina",
+          "teamB": "Iceland",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/4819/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/4708/image",
+          "eventName": "International Friendly Games",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/06/10 01:00:00 +0000",
+          "endTime": "2026/06/10 03:20:00 +0000"
         },
         "channels_data": [
           {
