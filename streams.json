@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-06-09T12:50:22.617304",
+  "last_updated": "2026-06-09T13:00:53.359954",
   "event_count": 9,
   "events": {
     " NAME ": "FluX-oW Live event ( Auto updated)",
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "06:15:43 PM 09-06-2026",
+    "Last update time": "06:25:39 PM 09-06-2026",
     "Live": "00",
     "Upcoming": "109",
     "Finish": "00",
@@ -1829,8 +1829,8 @@
         },
         "channels_data": [
           {
-            "title": "Ivan-FluX",
-            "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+            "title": "SD [USE VPN]",
+            "link": "http://193.47.62.46/hls/JRRRQ.m3u8|referer=http://www.fawanews.sc/",
             "logo": "",
             "type": 0,
             "api": "",
