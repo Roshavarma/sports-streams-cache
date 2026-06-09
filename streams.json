@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-06-09T18:00:58.061626",
+  "last_updated": "2026-06-09T18:10:27.170923",
   "event_count": 9,
   "events": {
     " NAME ": "FluX-oW Live event ( Auto updated)",
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "11:25:44 PM 09-06-2026",
+    "Last update time": "11:35:43 PM 09-06-2026",
     "Live": "00",
     "Upcoming": "111",
     "Finish": "00",
@@ -4111,8 +4111,16 @@
         },
         "channels_data": [
           {
-            "title": "Ivan-FluX",
-            "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+            "title": "WILLOW FHD",
+            "link": "https://a57live-pv-ta-amazon.akamaized.net/pdx-nitro/live/clients/dash/enc/aa9aseg7nj/out/v1/62afd00bc6c5481e8de33792c4bc1923/cenc.mpd",
+            "logo": "",
+            "type": 0,
+            "api": "4f227dd4841e994bf19edab033ce1327:2137a4788e434591787ba7c892915e73",
+            "tokenApi": ""
+          },
+          {
+            "title": "SONYLIV [ASIA]",
+            "link": "https://sonydaimenew.akamaized.net/hls/live/20000297/criclive0906/ENG/std_lrh-800300010.m3u8?hdnea=exp=1781069782~acl=/*~id=04129922543543164877601166740591~hmac=3e89826b6040430d47bdb1a41b7b1c101ee7a1a3f0d7c9b13c507b97276fed9e",
             "logo": "",
             "type": 0,
             "api": "",
