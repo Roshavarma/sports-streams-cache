@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-06-09T16:10:30.375724",
+  "last_updated": "2026-06-09T16:20:27.642568",
   "event_count": 9,
   "events": {
     " NAME ": "FluX-oW Live event ( Auto updated)",
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "09:35:42 PM 09-06-2026",
+    "Last update time": "09:40:45 PM 09-06-2026",
     "Live": "00",
     "Upcoming": "111",
     "Finish": "00",
@@ -1777,8 +1777,32 @@
         },
         "channels_data": [
           {
+            "title": "HD SERVER",
+            "link": "https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=0091d3f6ac34f99290fdb37a8d36fbb2&txTime=6a288c04",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
             "title": "SD SERVER",
             "link": "http://193.47.62.48/hls/tooo.m3u8|referer=http://www.fawanews.sc/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "CHILE TV",
+            "link": "https://daffodil.thelistener.pk/chile.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "LIVE SERVER",
+            "link": "https://hls.cdnfaster-a.live/live/TO5A/index.m3u8?expire=1891408380&sign=8bed1a7b9dde1174e255230411817036",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1936,8 +1960,24 @@
         },
         "channels_data": [
           {
+            "title": "HD SERVER",
+            "link": "https://livecdn-tc-livestream.rumsport10.live/stream/6/chunks.m3u8?is_vip=false&token=1781107369-Kv4cPTAAP5YTi-483578e62a21e8dff48f13ada54510dff6dab19b-54a1dbbe8395564f10da67c1ab74912f|Referer=https://iframe.rumsport10.live/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
             "title": "SD SERVER",
             "link": "http://193.47.62.46/hls/FIIIDDDDDD.m3u8|referer=http://www.fawanews.sc/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "LIVE SERVER",
+            "link": "https://livecdn-bp-livestream.rumsport7.live/stream/6/chunks.m3u8?is_vip=false&token=483578e62a21e8dff48f13ada54510dff6dab19b&x-sign=610cd327f5d652476acf231df2072b68&x-time=1781020920|Referer=https://iframe.rumsport10.live/",
             "logo": "",
             "type": 0,
             "api": "",
@@ -2070,6 +2110,14 @@
           "endTime": "2026/06/09 17:20:00 +0000"
         },
         "channels_data": [
+          {
+            "title": "HD SERVER",
+            "link": "https://livecdn-tc-livestream.rumsport10.live/stream/4/chunks.m3u8?is_vip=false&token=1781107363-Kv4cPTAAP5YTi-483578e62a21e8dff48f13ada54510dff6dab19b-d91cd5fdc2e279c12667e867dc2e5f7d|Referer=https://iframe.rumsport10.live/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
           {
             "title": "SD [USE VPN]",
             "link": "http://193.47.62.46/hls/JRRRQQQQQQ.m3u8|referer=http://www.fawanews.sc/",
