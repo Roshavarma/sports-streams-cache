@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-06-09T16:50:28.353891",
+  "last_updated": "2026-06-09T17:00:54.256827",
   "event_count": 9,
   "events": {
     " NAME ": "FluX-oW Live event ( Auto updated)",
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "10:15:50 PM 09-06-2026",
+    "Last update time": "10:25:40 PM 09-06-2026",
     "Live": "00",
     "Upcoming": "111",
     "Finish": "00",
@@ -2699,8 +2699,40 @@
         },
         "channels_data": [
           {
+            "title": "VIX Español FHD",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vx6swzyxlc/out/v1/59dc0639d2c44432bf89984131478749/cenc.mpd",
+            "logo": "",
+            "type": 0,
+            "api": "42c8f21dc2d97e8c57bb2868a18c88d1:965fee29c99ede186fb4210bde96b2b4",
+            "tokenApi": ""
+          },
+          {
+            "title": "LIVE SERVER 1",
+            "link": "https://livecdn-bp-iptv.rumsport7.live/live_abr/151592/720p/chunks.m3u8?is_vip=false&token=a0685a5c4d9cf61b93b5cbdd65324b663916ef99&x-sign=b99aae4a39680262b0ffab2090a3b553&x-time=1781022660|Referer=https://iframe.rumsport10.live/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
             "title": "HD SERVER",
             "link": "https://pul-tenm.nbs3g.com/live/sd-1-4544885.m3u8?txSecret=e4f1c224131f31200002934a6a2c87fe&txTime=6A297DD4",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "FOX SOCCER+ HD",
+            "link": "https://cdn9859.shop/foxsoccerplus.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "LIVE SERVER 2",
+            "link": "https://livecdn-tc-iptv.rumsport10.live/live_abr/151592/720p/chunks.m3u8?is_vip=false&token=1781109118-Kv4cPTAAP5YTi-a0685a5c4d9cf61b93b5cbdd65324b663916ef99-481e833f22ec86a493f09f7c9970774e|Referer=https://iframe.rumsport10.live/",
             "logo": "",
             "type": 0,
             "api": "",
@@ -2717,6 +2749,38 @@
           {
             "title": "SKY SPORTS SD",
             "link": "https://instreams.pro/bil2/skysport4/tracks-v1a1/mono.m3u8|referer=https://instream.click/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "HD QUALITY",
+            "link": "http://104.251.122.123:8089/TUEfot5/index.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "SD SERVER",
+            "link": "http://193.47.62.46/hls/RRRR.m3u8|referer=http://www.fawanews.sc/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "BACKUP SD",
+            "link": "https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=cb7c7d292aec1a492329d46482395a15&txTime=6a289690",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "SONYLIV [ASIA]",
+            "link": "https://sonydaimenew.akamaized.net/hls/live/20000296/IF_Belar0906/ENG/std_lrh-800300010.m3u8?hdnea=exp=1781066154~acl=/*~id=32174845235618545167990268050199~hmac=3d8c0818c9d6a87713f4b809446db8c3a7a4cf9508fd3edaeb0b776a2159c69c",
             "logo": "",
             "type": 0,
             "api": "",
