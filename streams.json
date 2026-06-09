@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-06-09T19:00:51.577593",
+  "last_updated": "2026-06-09T19:07:22.217319",
   "event_count": 9,
   "events": {
     " NAME ": "FluX-oW Live event ( Auto updated)",
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "12:25:37 AM 10-06-2026",
+    "Last update time": "12:31:07 AM 10-06-2026",
     "Live": "00",
     "Upcoming": "111",
     "Finish": "00",
@@ -2964,8 +2964,24 @@
         },
         "channels_data": [
           {
-            "title": "Ivan-FluX",
-            "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+            "title": "HD SERVER",
+            "link": "https://livecdn-bp-iptv.rumsport7.live/live_abr/177/720p/chunks.m3u8?is_vip=false&token=78efa79c1a87aada309cc9bcebf48188b18199a9&x-sign=5f79c89ccf6678fdc293aed5c67522ba&x-time=1781030820|Referer=https://iframe.rumsport10.live/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "SD SERVER",
+            "link": "http://193.47.62.59/hls/FAAA.m3u8|referer=http://www.fawanews.sc/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "SERVER 2",
+            "link": "https://livecdn-tc-iptv.rumsport10.live/live_abr/177/720p/chunks.m3u8?is_vip=false&token=1781117223-Kv4cPTAAP5YTi-78efa79c1a87aada309cc9bcebf48188b18199a9-456cbd864a168b7a711894877f6ed04c|Referer=https://iframe.rumsport10.live/",
             "logo": "",
             "type": 0,
             "api": "",
@@ -3045,8 +3061,8 @@
         },
         "channels_data": [
           {
-            "title": "Ivan-FluX",
-            "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+            "title": "SD SERVER",
+            "link": "http://193.47.62.59/hls/FAAAS.m3u8|referer=http://www.fawanews.sc/",
             "logo": "",
             "type": 0,
             "api": "",
@@ -3161,8 +3177,8 @@
         },
         "channels_data": [
           {
-            "title": "Ivan-FluX",
-            "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+            "title": "SD SERVER",
+            "link": "http://193.47.62.59/hls/FAAASS.m3u8|referer=http://www.fawanews.sc/",
             "logo": "",
             "type": 0,
             "api": "",
@@ -3357,8 +3373,24 @@
         },
         "channels_data": [
           {
-            "title": "Ivan-FluX",
-            "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+            "title": "SD SERVER",
+            "link": "http://193.47.62.59/hls/FAAASSS.m3u8|referer=http://www.fawanews.sc/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "HD SERVER",
+            "link": "https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1781117228-Kv4cPTAAP5YTi-78efa79c1a87aada309cc9bcebf48188b18199a9-005746080dbcd429ac22af1e69e4cc26|Referer=https://iframe.rumsport10.live/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "SERVER 2",
+            "link": "https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=78efa79c1a87aada309cc9bcebf48188b18199a9&x-sign=8628f71dd9c2b8047ce0660573153af8&x-time=1781030820|Referer=https://iframe.rumsport10.live/",
             "logo": "",
             "type": 0,
             "api": "",
