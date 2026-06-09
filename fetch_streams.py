@@ -3,20 +3,31 @@ import json
 from datetime import datetime
 import os
 
-# Your proxy URL that works
-PROXY_URL = "https://api.codetabs.com/v1/proxy?quest=https%3A%2F%2Fwww.footyfeed.site%2Fapi%2Fproxy.js"
+# 1. Directly hit the target URL instead of the broken Codetabs proxy
+TARGET_URL = "https://www.footyfeed.site/api/proxy.js"
 OUTPUT_FILE = "streams.json"
+
+# 2. Inject fake browser headers to bypass the "Missing secure headers" firewall
+HEADERS = {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+    "Referer": "https://www.footyfeed.site/",
+    "Origin": "https://www.footyfeed.site",
+    "Accept": "application/json, text/plain, */*",
+    "Accept-Language": "en-US,en;q=0.9"
+}
 
 def fetch_and_save():
     try:
-        print(f"🔄 Fetching data from proxy...")
-        response = requests.get(PROXY_URL, timeout=30)
+        print(f"🔄 Fetching data directly with spoofed headers...")
+        
+        # 3. Use the TARGET_URL and pass the HEADERS dictionary
+        response = requests.get(TARGET_URL, headers=HEADERS, timeout=30)
         response.raise_for_status()
         
         data = response.json()
         print(f"✅ Got {len(data)} events")
         
-        # Add timestamp to track when it was fetched
+        # Keep your existing formatting and timestamp logic
         output_data = {
             "last_updated": datetime.utcnow().isoformat(),
             "event_count": len(data),
@@ -29,6 +40,12 @@ def fetch_and_save():
         print(f"💾 Saved to {OUTPUT_FILE}")
         return True
         
+    except requests.exceptions.HTTPError as e:
+        print(f"❌ HTTP Error: {e}")
+        # Print the server response to help debug if the firewall still blocks it
+        if hasattr(e, 'response') and e.response is not None:
+            print(f"Server Response: {e.response.text[:200]}") 
+        return False
     except Exception as e:
         print(f"❌ Error: {e}")
         return False
