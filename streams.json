@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-06-10T01:50:21.730328",
+  "last_updated": "2026-06-10T02:00:49.376772",
   "event_count": 9,
   "events": {
     " NAME ": "FluX-oW Live event ( Auto updated)",
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "07:15:40 AM 10-06-2026",
+    "Last update time": "07:25:38 AM 10-06-2026",
     "Live": "00",
     "Upcoming": "111",
     "Finish": "00",
@@ -3618,11 +3618,35 @@
         },
         "channels_data": [
           {
+            "title": "FANCODE FHD",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
+            "logo": "",
+            "type": 0,
+            "api": "7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe",
+            "tokenApi": ""
+          },
+          {
             "title": "CAZE TV FHD",
             "link": "https://otte.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/iayg0kyrof/out/v1/91dc04907f56415b897faccfa9d252da/cenc.mpd",
             "logo": "",
             "type": 0,
             "api": "1223d5105392cabf1bb9c2c1fdf6539a:340b409f4b8f78a343e0363a7938df38",
+            "tokenApi": ""
+          },
+          {
+            "title": "D SPORTS FHD",
+            "link": "https://otte.live.cf.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ubehitlwzo/out/v1/8e09c381a51f4366a19e979418112e8f/cenc.mpd",
+            "logo": "",
+            "type": 0,
+            "api": "a7d11d37a1f7611ee88d4db880171f32:68f96d618b0b956b008c445896a25a79",
+            "tokenApi": ""
+          },
+          {
+            "title": "ABUDHABHI SPORTS",
+            "link": "https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv/abudhabi_sports_1/abudhabi_sports_1_dash_enc/index.mpd",
+            "logo": "",
+            "type": 0,
+            "api": "e78769d87a41e15036a4fb8bfdf1371e:37be0375dc9fe544c3c6de6a105f7c0a",
             "tokenApi": ""
           },
           {
@@ -3636,6 +3660,22 @@
           {
             "title": "TYC SPORTS",
             "link": "https://instreams.pro/bil2/tycar/tracks-v1a1/mono.m3u8|referer=https://instream.click/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "SD SERVER",
+            "link": "http://193.47.62.55/hls/CCCCA.m3u8|Referer=http://www.fawanews.sc/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "FOX SOCCER+",
+            "link": "https://cdn9859.shop/foxsoccerplus.m3u8",
             "logo": "",
             "type": 0,
             "api": "",
@@ -3660,6 +3700,14 @@
           "endTime": "2026/06/10 04:45:00 +0000"
         },
         "channels_data": [
+          {
+            "title": "MLB HD",
+            "link": "https://chatgpt.hereisman.net/playlist/51818/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
           {
             "title": "HD SERVER",
             "link": "https://mainstreams.pro/hls/hefbafbakx28.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
@@ -3890,8 +3938,24 @@
         },
         "channels_data": [
           {
+            "title": "HD SERVER",
+            "link": "https://chatgpt.hereisman.net/playlist/51814/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
             "title": "MLB HD",
             "link": "https://edgestreams.pro/hls/jzabfazkbf27.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "MLB LIVE HD",
+            "link": "https://chatgpt.hereisman.net/playlist/51815/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
             "logo": "",
             "type": 0,
             "api": "",
@@ -3917,8 +3981,24 @@
         },
         "channels_data": [
           {
-            "title": "Ivan-FluX",
-            "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+            "title": "MLB HD",
+            "link": "https://chatgpt.hereisman.net/playlist/51812/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "MLB LIVE HD",
+            "link": "https://chatgpt.hereisman.net/playlist/51811/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "HD SERVER",
+            "link": "https://edge2caster.pro/hls/kjhfzua25.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
             "logo": "",
             "type": 0,
             "api": "",
@@ -4049,6 +4129,14 @@
         },
         "channels_data": [
           {
+            "title": "MLB HD",
+            "link": "https://chatgpt.hereisman.net/playlist/51807/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
             "title": "HD QUALITY",
             "link": "https://mainstreams.pro/hls/jnzkdzjfanch23.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
             "logo": "",
@@ -4083,6 +4171,14 @@
           "endTime": "2026/06/10 02:40:00 +0000"
         },
         "channels_data": [
+          {
+            "title": "MLB HD",
+            "link": "https://chatgpt.hereisman.net/playlist/51806/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
           {
             "title": "HD QUALITY",
             "link": "https://mainstreams.pro/hls/fskjanach24.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
@@ -4119,8 +4215,24 @@
         },
         "channels_data": [
           {
+            "title": "HD SERVER",
+            "link": "https://chatgpt.hereisman.net/playlist/51816/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
             "title": "MLB HD",
             "link": "https://edgestreams.pro/hls/dzjhkfazbka26.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "MLB LIVE HD",
+            "link": "https://chatgpt.hereisman.net/playlist/51817/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
             "logo": "",
             "type": 0,
             "api": "",
@@ -4145,6 +4257,14 @@
           "endTime": "2026/06/10 02:30:00 +0000"
         },
         "channels_data": [
+          {
+            "title": "WNBA HD",
+            "link": "https://chatgpt.hereisman.net/playlist/51810/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
           {
             "title": "HD QUALITY",
             "link": "https://mainstreams.pro/hls/ztyarueaghj71.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
@@ -4251,6 +4371,22 @@
             "tokenApi": ""
           },
           {
+            "title": "NHL LIVE",
+            "link": "https://chatgpt.hereisman.net/playlist/51808/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "HD SERVER",
+            "link": "https://instreams.pro/US/NHL1/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
             "title": "HD QUALITY",
             "link": "https://mainstreams.pro/hls/uyopzarf50.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
             "logo": "",
@@ -4269,14 +4405,6 @@
           {
             "title": "SD SERVER",
             "link": "https://601.thelistener.pk/nhl.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "HD SERVER",
-            "link": "https://instreams.pro/US/NHL1/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
             "logo": "",
             "type": 0,
             "api": "",
