@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-06-11T18:50:40.274641",
+  "last_updated": "2026-06-11T19:00:52.825996",
   "event_count": 9,
   "events": {
     " NAME ": "FluX-oW Live event ( Auto updated)",
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "12:15:43 AM 12-06-2026",
+    "Last update time": "12:25:42 AM 12-06-2026",
     "Live": "00",
     "Upcoming": "42",
     "Finish": "00",
@@ -1340,7 +1340,7 @@
           "eventName": "FIFA World Cup",
           "isHot": "0",
           "Status": "Upcoming",
-          "startTime": "2026/06/11 19:00:00 +0000",
+          "startTime": "2026/06/11 18:50:00 +0000",
           "endTime": "2026/06/11 22:00:00 +0000"
         },
         "channels_data": [
@@ -1385,8 +1385,24 @@
             "tokenApi": ""
           },
           {
+            "title": "Somoy TV",
+            "link": "https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
             "title": "FOX SPORTS HD",
             "link": "https://chatgpt.hereisman.net/playlist/51184/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "ITV SPORTS HD",
+            "link": "https://chatgpt.hereisman.net/playlist/51875/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1402,7 +1418,7 @@
           },
           {
             "title": "beIN MAX FHD",
-            "link": "https://raw.githubusercontent.com/ON2026/1smas/refs/heads/main/mx1app2.m3u8",
+            "link": "https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/h6T7bZ0AvqgNG6XoTNV9P_0FrTqrIkgZZ6aPQlJ8jzfhahwudRXkMIi-3-cXU4LNhY4FWV_-W9u53fPFEqlWfw/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_highlatency.m3u8?type=live",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1457,6 +1473,46 @@
             "tokenApi": ""
           },
           {
+            "title": "Somoy TV",
+            "link": "https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "D Sports FHD",
+            "link": "https://otte.live.cf.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ubehitlwzo/out/v1/8e09c381a51f4366a19e979418112e8f/cenc.mpd",
+            "logo": "",
+            "type": 0,
+            "api": "a7d11d37a1f7611ee88d4db880171f32:68f96d618b0b956b008c445896a25a79",
+            "tokenApi": ""
+          },
+          {
+            "title": "FAST SERVER 1",
+            "link": "https://pulltx.jdnzrgm.com/live/hd-en-6MvYMRTHSHZ37zq9DY.m3u8?txSecret=085a45c9d6551d87c61726a2eb83ec6e&txTime=6A2B2609",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "FAST SERVER 2",
+            "link": "https://pul-tenm.nbs3g.com/live/hd-en-1-4459820.m3u8?txSecret=668821e97544a999f1a9b31476006a51&txTime=6A2C502F",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "RAI ITALY FHD",
+            "link": "https://ilglobotv-live.akamaized.net/channels/RAI1/Live.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
             "title": "VRT DUTCH FHD",
             "link": "https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/live.isml/.mpd",
             "logo": "",
@@ -1489,6 +1545,14 @@
             "tokenApi": ""
           },
           {
+            "title": "beIN MAX HD",
+            "link": "https://raw.githubusercontent.com/ON2026/1smas/refs/heads/main/mx1app2.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
             "title": "ENGLISH SD SERVER",
             "link": "https://cdn.obstream.pro/live/yq97gcrutx.m3u8|referer=https://obstream.pro/",
             "logo": "",
@@ -1499,6 +1563,30 @@
           {
             "title": "GERMAN SD SERVER",
             "link": "https://cdn.obstream.pro/live/byunqmaemy.m3u8|referer=https://obstream.pro/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "SD SERVER [ENG]",
+            "link": "http://193.47.62.43/hls/zazaza.m3u8|referer=http://www.fawanews.sc/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "SD SERVER [ES]",
+            "link": "http://193.47.62.49/hls/zazazaedd.m3u8|referer=http://www.fawanews.sc/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "SD SERVER [SWAHLI]",
+            "link": "http://193.47.62.47/hls/zazazaeddd.m3u8|referer=http://www.fawanews.sc/",
             "logo": "",
             "type": 0,
             "api": "",
