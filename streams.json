@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-06-12T01:00:48.837347",
+  "last_updated": "2026-06-12T01:10:24.636830",
   "event_count": 9,
   "events": {
     " NAME ": "FluX-oW Live event ( Auto updated)",
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "06:25:34 AM 12-06-2026",
+    "Last update time": "06:35:36 AM 12-06-2026",
     "Live": "00",
     "Upcoming": "42",
     "Finish": "00",
@@ -66,6 +66,22 @@
             "logo": "",
             "type": 0,
             "api": "709c812e1b4174002605df1d17d34a4c:0bbee6c9c20a0f065bf8369d54cbf83e",
+            "tokenApi": ""
+          },
+          {
+            "title": "FANCODE IND",
+            "link": "https://in-mc-flive.fancode.com/mumbai/142975_english_hls_9179cae52353626_1ta-di_h264/index.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "FANCODE BAN",
+            "link": "https://bd-mc-flive.fancode.com/mumbai/142975_english_hls_9179cae52353626_1ta-di_h264/index.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
             "tokenApi": ""
           }
         ]
@@ -2144,6 +2160,14 @@
           "endTime": "2026/06/12 02:40:00 +0000"
         },
         "channels_data": [
+          {
+            "title": "MLB HD",
+            "link": "https://chatgpt.hereisman.net/playlist/51885/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
           {
             "title": "HD SERVER",
             "link": "https://edgestreams.pro/hls/fskjanach24.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
