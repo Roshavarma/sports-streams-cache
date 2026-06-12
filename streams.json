@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-06-12T18:30:42.063369",
+  "last_updated": "2026-06-12T18:40:26.644537",
   "event_count": 9,
   "events": {
     " NAME ": "FluX-oW Live event ( Auto updated)",
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "11:55:36 PM 12-06-2026",
+    "Last update time": "12:05:40 AM 13-06-2026",
     "Live": "00",
     "Upcoming": "46",
     "Finish": "00",
@@ -1612,8 +1612,112 @@
         },
         "channels_data": [
           {
-            "title": "Ivan-FluX",
-            "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+            "title": "TSN SPORTS FHD",
+            "link": "https://otte-qw.live.pv-cdn.net/lhr-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
+            "logo": "",
+            "type": 0,
+            "api": "c4088f5f265f9de50cffd80bf89308b7:2c4d2239d96d532b4ec2050653611003",
+            "tokenApi": ""
+          },
+          {
+            "title": "FOX SPORTS FHD",
+            "link": "https://abgfgo7aaaaaaaammo4qlji7ci5df.ta.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/ap5wz1ofsp/out/v1/7fa6feef143747beaa186ebb6dfb2532/cenc.mpd",
+            "logo": "",
+            "type": 0,
+            "api": "c620c93c60c04999eb9ddc28ecfb70a8:e76a709c251313190e76cb3c3d3a5824",
+            "tokenApi": ""
+          },
+          {
+            "title": "FOX SPORTS 4K",
+            "link": "https://a158live-pv-ta-amazon.akamaized.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/1hqyvglfwr/out/v1/2314a5adddfa4ab2a6afa4b3dd52cbb6/50d06895-ef26-49b3-91b2-0d82a798b5c6-cenc.mpd",
+            "logo": "",
+            "type": 0,
+            "api": "b984175de3216c35d8daf678c61c0b9a:f7ca11d77347793f637dd5a0dc7323ad",
+            "tokenApi": ""
+          },
+          {
+            "title": "TELEMUNDO FHD",
+            "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd",
+            "logo": "",
+            "type": 0,
+            "api": "ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1",
+            "tokenApi": ""
+          },
+          {
+            "title": "CIGNAL ENGLISH",
+            "link": "https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/ch299/default/index.mpd",
+            "logo": "",
+            "type": 0,
+            "api": "549ab7cd35a64bb6bb479ecead04d69d:829799ed534d11fcadeb4b192467e050",
+            "tokenApi": ""
+          },
+          {
+            "title": "D Sports FHD",
+            "link": "https://otte.live.cf.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ubehitlwzo/out/v1/8e09c381a51f4366a19e979418112e8f/cenc.mpd",
+            "logo": "",
+            "type": 0,
+            "api": "a7d11d37a1f7611ee88d4db880171f32:68f96d618b0b956b008c445896a25a79",
+            "tokenApi": ""
+          },
+          {
+            "title": "TELEMUNDO SPANISH",
+            "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd",
+            "logo": "",
+            "type": 0,
+            "api": "7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11",
+            "tokenApi": ""
+          },
+          {
+            "title": "Vix Espanol FHD",
+            "link": "https://otte.live.cf.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/8u9cregwlt/out/v1/687f6b2a559943549be271504a948ffd/cenc.mpd",
+            "logo": "",
+            "type": 0,
+            "api": "1710ac2bbfcd3032d0f6533850968f47:d2548dacc8efcd1cd0af0373060c82dc",
+            "tokenApi": ""
+          },
+          {
+            "title": "TSN SPORTS 1",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
+            "logo": "",
+            "type": 0,
+            "api": "e51aa21f2a0fef9aabc120dfb655b52f:a12a987fe725a40b6be95cd84b15f689",
+            "tokenApi": ""
+          },
+          {
+            "title": "HIMALIYA SPORTS",
+            "link": "https://ottlive.dishhome.com.np/protected/GgTOzZkB0RDJ74Ryniuo/dash/manifest.mpd",
+            "logo": "",
+            "type": 0,
+            "api": "220d8978f3fd45b696137c5b94f7a264:7bfe13500edee4f837ec03a907896306",
+            "tokenApi": ""
+          },
+          {
+            "title": "ZEE5 Bangla",
+            "link": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema/default/manifest.mpd",
+            "logo": "",
+            "type": 0,
+            "api": "fbbfd9ce4bbe4d818b16df7dfe89f05b:1e96d0f88ef740e982d6f6105721c8bc",
+            "tokenApi": ""
+          },
+          {
+            "title": "ZEE5+ HINDI",
+            "link": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinema/default/manifest.mpd",
+            "logo": "",
+            "type": 0,
+            "api": "43513b13f4b542e39c9265921dfc1726:b0b2678bcd274c37b888a6c987d502ed",
+            "tokenApi": ""
+          },
+          {
+            "title": "FOX SPORTS HD",
+            "link": "https://chatgpt.hereisman.net/playlist/51898/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "beIN MAX FHD",
+            "link": "https://raw.githubusercontent.com/ON2026/1smas/refs/heads/main/mx1app2.m3u8",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1809,8 +1913,8 @@
         },
         "channels_data": [
           {
-            "title": "Ivan-FluX",
-            "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+            "title": "HD SERVER",
+            "link": "https://edgestreams.pro/hls/jnzkdzjfanch23.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1836,8 +1940,8 @@
         },
         "channels_data": [
           {
-            "title": "Ivan-FluX",
-            "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+            "title": "HD SERVER",
+            "link": "https://edge2caster.pro/hls/kjhfzua25.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1863,8 +1967,8 @@
         },
         "channels_data": [
           {
-            "title": "Ivan-FluX",
-            "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+            "title": "HD SERVER",
+            "link": "https://mainstreams.pro/hls/dzjhkfazbka26.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1890,8 +1994,8 @@
         },
         "channels_data": [
           {
-            "title": "Ivan-FluX",
-            "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+            "title": "HD SERVER",
+            "link": "https://edgestreams.pro/hls/fskjanach24.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
             "logo": "",
             "type": 0,
             "api": "",
@@ -2052,8 +2156,8 @@
         },
         "channels_data": [
           {
-            "title": "Ivan-FluX",
-            "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+            "title": "HD SERVER",
+            "link": "https://edgestreams.pro/hls/ijfnakfidch22.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
             "logo": "",
             "type": 0,
             "api": "",
