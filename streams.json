@@ -1,14 +1,14 @@
 {
-  "last_updated": "2026-06-12T15:40:29.469538",
+  "last_updated": "2026-06-12T15:50:27.400602",
   "event_count": 9,
   "events": {
     " NAME ": "FluX-oW Live event ( Auto updated)",
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "09:05:39 PM 12-06-2026",
+    "Last update time": "09:15:49 PM 12-06-2026",
     "Live": "00",
-    "Upcoming": "45",
+    "Upcoming": "46",
     "Finish": "00",
     "events": [
       {
@@ -2195,6 +2195,49 @@
           {
             "title": "Ivan-FluX",
             "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 1286,
+        "title": "ICC CWC League 2",
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/21958/image/dark",
+        "cat": "Cricket",
+        "eventInfo": {
+          "teamA": "USA",
+          "teamB": "CAN",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/199276/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/189195/image",
+          "eventName": "ICC CWC League 2",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/06/12 15:00:00 +0000",
+          "endTime": "2026/06/12 19:30:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "ICC TV",
+            "link": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-10)/hdntl=exp=1781304919~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=4850f9d1-05d5-4a91-8443-7e5a216546e7~data=hdntl~hmac=a0e341444c59f5f43c8be8a61c23b5c32fbdaa69f8dc6e7198ebf945273a7a58/manifest.mpd",
+            "logo": "",
+            "type": 0,
+            "api": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
+            "tokenApi": ""
+          },
+          {
+            "title": "FANCODE [IND]",
+            "link": "https://in-mc-plive.fancode.com/mumbai/143198_english_hls_4cfc14a5262277_1ta-di_h264/index.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "FANCODE [BAN]",
+            "link": "https://bd-mc-plive.fancode.com/mumbai/143198_english_hls_4cfc14a5262277_1ta-di_h264/index.m3u8",
             "logo": "",
             "type": 0,
             "api": "",
