@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-06-12T19:30:39.180145",
+  "last_updated": "2026-06-12T19:40:25.512232",
   "event_count": 9,
   "events": {
     " NAME ": "FluX-oW Live event ( Auto updated)",
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "12:55:44 AM 13-06-2026",
+    "Last update time": "01:05:40 AM 13-06-2026",
     "Live": "00",
     "Upcoming": "51",
     "Finish": "00",
@@ -1158,7 +1158,7 @@
           "eventName": "FIFA World CUP Opening Ceremany, 2026",
           "isHot": "0",
           "Status": "Upcoming",
-          "startTime": "2026/06/12 17:00:00 +0000",
+          "startTime": "2026/06/12 23:30:00 +0000",
           "endTime": "  +0000"
         },
         "channels_data": [
@@ -1839,8 +1839,88 @@
         },
         "channels_data": [
           {
-            "title": "Ivan-FluX",
-            "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+            "title": "TELEMUNDO - AQ",
+            "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd",
+            "logo": "",
+            "type": 0,
+            "api": "ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1",
+            "tokenApi": ""
+          },
+          {
+            "title": "CANAL SPORTS - AQ",
+            "link": "https://nog-live-ott.izzigo.tv/out/u/dash/CDMX1/CANAL-5-RDF-HD/default.mpd",
+            "logo": "",
+            "type": 0,
+            "api": "2a8c2d5088377f51f825d871e568be19:eb5a8db64ca1992389672edb9447c711",
+            "tokenApi": ""
+          },
+          {
+            "title": "D SPORTS - AQ",
+            "link": "https://otte.live.cf.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ubehitlwzo/out/v1/8e09c381a51f4366a19e979418112e8f/cenc.mpd",
+            "logo": "",
+            "type": 0,
+            "api": "a7d11d37a1f7611ee88d4db880171f32:68f96d618b0b956b008c445896a25a79",
+            "tokenApi": ""
+          },
+          {
+            "title": "ZEE5 HINDI - AQ",
+            "link": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinema/default/manifest.mpd",
+            "logo": "",
+            "type": 0,
+            "api": "43513b13f4b542e39c9265921dfc1726:b0b2678bcd274c37b888a6c987d502ed",
+            "tokenApi": ""
+          },
+          {
+            "title": "ZEE5 BANGLA - AQ",
+            "link": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema/default/manifest.mpd",
+            "logo": "",
+            "type": 0,
+            "api": "fbbfd9ce4bbe4d818b16df7dfe89f05b:1e96d0f88ef740e982d6f6105721c8bc",
+            "tokenApi": ""
+          },
+          {
+            "title": "ZDF GERMAN HD",
+            "link": "https://simplitv-live.mdn.ors.at/live/eds/zdf_hd/dash4h/zdf_hd.mpd",
+            "logo": "",
+            "type": 0,
+            "api": "c1a0ac1044a433d0856ccdc08f245084:7f0e8800a6d63d7915ac181bb88ce813",
+            "tokenApi": ""
+          },
+          {
+            "title": "ORF GERMAN HD",
+            "link": "https://simplitv-live.mdn.ors.at/live/eds/orf_1_hd-1/dash4h/orf_1_hd-1.mpd",
+            "logo": "",
+            "type": 0,
+            "api": "429bcf031bbf3146a67f3f583e4c4355:d1b92aba5a38a518c8b8a1fd2bca4398",
+            "tokenApi": ""
+          },
+          {
+            "title": "VRT DUTCH - AQ",
+            "link": "https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/live.isml/.mpd",
+            "logo": "",
+            "type": 0,
+            "api": "893bc63340876605f52886a42e0ccce5:d6c46d2d691056fbd091bf1f01b21a91",
+            "tokenApi": ""
+          },
+          {
+            "title": "RAI ITALY - AQ",
+            "link": "https://ilglobotv-live.akamaized.net/channels/RAI1/Live.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "Sport TV HD",
+            "link": "https://t7.ultrastream.vip/sporttv5/index.m3u8?|Referer=https://foottime.top/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "Sport TV 1 HD",
+            "link": "https://t7.ultrastream.vip/sporttv1/index.m3u8?|Referer=https://foottime.top/",
             "logo": "",
             "type": 0,
             "api": "",
@@ -2387,8 +2467,8 @@
         },
         "channels_data": [
           {
-            "title": "Ivan-FluX",
-            "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+            "title": "HD SERVER",
+            "link": "https://edge2caster.pro/hls/jzabfazkbf27.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
             "logo": "",
             "type": 0,
             "api": "",
