@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-06-12T00:50:24.223473",
+  "last_updated": "2026-06-12T01:00:48.837347",
   "event_count": 9,
   "events": {
     " NAME ": "FluX-oW Live event ( Auto updated)",
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "06:15:39 AM 12-06-2026",
+    "Last update time": "06:25:34 AM 12-06-2026",
     "Live": "00",
     "Upcoming": "42",
     "Finish": "00",
@@ -29,6 +29,30 @@
         },
         "channels_data": [
           {
+            "title": "WILLOW FHD AD Free",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/jhqjttghwl/out/v1/75d406c64f6141e7bbcf379d6643af54/cenc.mpd",
+            "logo": "",
+            "type": 0,
+            "api": "e6b07ce99d782b87ecb6d59271803cfa:484b67b5c7a9e216048d1f96d463d35b",
+            "tokenApi": ""
+          },
+          {
+            "title": "TNT SPORTS FHD",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vaplpo3app/out/v1/49b4d538ec854efa90d45084866cf7f9/cenc.mpd",
+            "logo": "",
+            "type": 0,
+            "api": "d14658a0ede94debcb4013b2056ba6d1:60838a3176127fed0eaf038a5575de11",
+            "tokenApi": ""
+          },
+          {
+            "title": "WILLOW FHD ALT",
+            "link": "https://otte.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/jhqjttghwl/out/v1/75d406c64f6141e7bbcf379d6643af54/cenc.mpd",
+            "logo": "",
+            "type": 0,
+            "api": "e6b07ce99d782b87ecb6d59271803cfa:484b67b5c7a9e216048d1f96d463d35b",
+            "tokenApi": ""
+          },
+          {
             "title": "FANCODE FHD",
             "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
             "logo": "",
@@ -43,71 +67,6 @@
             "type": 0,
             "api": "709c812e1b4174002605df1d17d34a4c:0bbee6c9c20a0f065bf8369d54cbf83e",
             "tokenApi": ""
-          },
-          {
-            "title": "WILLOW FHD AD Free",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bjb3rebncn/out/v1/3958bc3f59ef4466b0ac999ed02bf327/cenc.mpd",
-            "logo": "",
-            "type": 0,
-            "api": "e967d85b71069b53f669d01147eb4fe7:84fc41d86b014d86f482273701368a08",
-            "tokenApi": ""
-          },
-          {
-            "title": "WILLOW SD",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/c3wtw6a0k6/out/v1/650581e3b31e4900a00b62a720b80212/cenc-sd.mpd",
-            "logo": "",
-            "type": 0,
-            "api": "21ddd82bce24eb4aba2a64f34fa4897f:0c50c19d91893d2b391508c382b60041",
-            "tokenApi": ""
-          },
-          {
-            "title": "WILLOW FHD ALT",
-            "link": "https://ABDFYR5AAAAAAAAMMKGU3VK6I4VJX.ta.emt-cf.live.pv-cdn.net/IAD/5c91f9e3da674790a7c884d4bde9af42/v1/dash/746463508834/willowtvus_live_amzn1_dv_live_csid_24ee01eb-d8fd-4585-9906-f6069ef8033d_us-east-1_iad_dash_h264_none_stereo/live/clients/dash/enc/bjb3rebncn/out/v1/3958bc3f59ef4466b0ac999ed02bf327/cenc.mpd?aws.sessionId=3f2a7e4a-0262-41e4-95b5-6bd46ac7ba23",
-            "logo": "",
-            "type": 0,
-            "api": "e967d85b71069b53f669d01147eb4fe7:84fc41d86b014d86f482273701368a08",
-            "tokenApi": ""
-          },
-          {
-            "title": "WILLOW HD",
-            "link": "https://td3wb1bchdvsahp.ngolpdkyoctjcddxshli469r.org/sunshine/t3CktfZy_SvNpbPDPXfKhXgYNTpAtg9SbA43X4Er82mC9luDte-S7jIzYUMFIlQ4vuI_4sErlLqVpw5b2sYvuNEDiPwnlsflia9n602wfmHECIHvx4Om9SV1P4IkhUb4UxxqOCHnvHbQoT04UNWgxlSYFdQoui7741r_niCy2hdKcpioMxy3byK4NqbFtMHpYAtVbkJD86G04YD4paEQLbtZhlOcVT1QXAdf-RYVRu7SZmaKGQq7VHmFT_1XvNH8/hls/index.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "TNT SPORTS HD",
-            "link": "https://xstm.250909.cc/live/SPORTSFLUX-POOL-d337053a29/e45af0ddd607/1036.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "TNT SPORTS SD",
-            "link": "https://cdn9859.shop/tntsports4.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "ZEE 5",
-            "link": "https://sayanchannelcdn02.pages.dev/football/hindi",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": {
-              "url": "https://sayanchannelcdn02.pages.dev/football/hindi",
-              "api": "https://sayanchannelcdn02.pages.dev/football/hindi",
-              "type": "embed",
-              "link_key": "playback_url",
-              "default_string": "N8x7Y%m+6n",
-              "request_type": "get",
-              "request_body_type": "text",
-              "ip_api": "https://api.ipify.org/"
-            }
           }
         ]
       },
@@ -2248,6 +2207,14 @@
             "tokenApi": ""
           },
           {
+            "title": "NHL HD",
+            "link": "https://chatgpt.hereisman.net/playlist/51886/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
             "title": "LIVE SERVER",
             "link": "https://edge2caster.pro/hls/uyopzarf50.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
             "logo": "",
@@ -2336,6 +2303,14 @@
           "endTime": "2026/06/12 03:30:00 +0000"
         },
         "channels_data": [
+          {
+            "title": "WNBA HD",
+            "link": "https://chatgpt.hereisman.net/playlist/51889/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
           {
             "title": "HD SERVER",
             "link": "https://edgestreams.pro/hls/pllmazjkdzajh72.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
