@@ -1,14 +1,14 @@
 {
-  "last_updated": "2026-06-12T19:20:27.064714",
+  "last_updated": "2026-06-12T19:30:39.180145",
   "event_count": 9,
   "events": {
     " NAME ": "FluX-oW Live event ( Auto updated)",
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "12:45:51 AM 13-06-2026",
+    "Last update time": "12:55:44 AM 13-06-2026",
     "Live": "00",
-    "Upcoming": "46",
+    "Upcoming": "51",
     "Finish": "00",
     "events": [
       {
@@ -2171,8 +2171,8 @@
         },
         "channels_data": [
           {
-            "title": "Ivan-FluX",
-            "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+            "title": "HD SERVER",
+            "link": "https://mainstreams.pro/hls/hefbafbakx28.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
             "logo": "",
             "type": 0,
             "api": "",
@@ -2225,8 +2225,8 @@
         },
         "channels_data": [
           {
-            "title": "Ivan-FluX",
-            "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+            "title": "HD SERVER",
+            "link": "https://edge2caster.pro/hls/hfzljfahzcax29.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
             "logo": "",
             "type": 0,
             "api": "",
@@ -2449,8 +2449,8 @@
         },
         "channels_data": [
           {
-            "title": "Ivan-FluX",
-            "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+            "title": "HD SERVER",
+            "link": "https://edgestreams.pro/hls/ztyarueaghj71.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
             "logo": "",
             "type": 0,
             "api": "",
@@ -2494,6 +2494,149 @@
           {
             "title": "FANCODE [BAN]",
             "link": "https://bd-mc-plive.fancode.com/mumbai/143198_english_hls_4cfc14a5262277_1ta-di_h264/index.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 1287,
+        "title": "AFL",
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/656/image/dark",
+        "cat": "Aussie rules",
+        "eventInfo": {
+          "teamA": "Melbourne",
+          "teamB": "Essendon",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/4456/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/4450/image",
+          "eventName": "AFL",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/06/13 03:15:00 +0000",
+          "endTime": "  +0000"
+        },
+        "channels_data": [
+          {
+            "title": "TNT Sports FHD",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vaplpo3app/out/v1/49b4d538ec854efa90d45084866cf7f9/cenc.mpd",
+            "logo": "",
+            "type": 0,
+            "api": "d14658a0ede94debcb4013b2056ba6d1:60838a3176127fed0eaf038a5575de11",
+            "tokenApi": ""
+          },
+          {
+            "title": "FOX SPORTS",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
+            "logo": "",
+            "type": 0,
+            "api": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 1288,
+        "title": "AFL",
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/656/image/dark",
+        "cat": "Aussie rules",
+        "eventInfo": {
+          "teamA": "Port Adelaide",
+          "teamB": "Sydney",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/4457/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/4447/image",
+          "eventName": "AFL",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/06/13 09:35:00 +0000",
+          "endTime": "  +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Ivan-FluX",
+            "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 1289,
+        "title": "AFL",
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/656/image/dark",
+        "cat": "Aussie rules",
+        "eventInfo": {
+          "teamA": "St Kilda",
+          "teamB": "Giants",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/4453/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/60170/image",
+          "eventName": "AFL",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/06/14 05:15:00 +0000",
+          "endTime": "  +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Ivan-FluX",
+            "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 1290,
+        "title": "AFL",
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/656/image/dark",
+        "cat": "Aussie rules",
+        "eventInfo": {
+          "teamA": "Richmond",
+          "teamB": "Brisbane",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/4451/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/4444/image",
+          "eventName": "AFL",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/06/14 03:10:00 +0000",
+          "endTime": "  +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Ivan-FluX",
+            "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 1291,
+        "title": "AFL",
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/656/image/dark",
+        "cat": "Aussie rules",
+        "eventInfo": {
+          "teamA": "North Melbourne",
+          "teamB": "West Coast",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/4454/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/4449/image",
+          "eventName": "AFL",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/06/13 06:15:00 +0000",
+          "endTime": "  +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Ivan-FluX",
+            "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
             "logo": "",
             "type": 0,
             "api": "",
