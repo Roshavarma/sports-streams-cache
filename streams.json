@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-06-12T18:10:25.608065",
+  "last_updated": "2026-06-12T18:17:55.198175",
   "event_count": 9,
   "events": {
     " NAME ": "FluX-oW Live event ( Auto updated)",
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "11:35:35 PM 12-06-2026",
+    "Last update time": "11:45:47 PM 12-06-2026",
     "Live": "00",
     "Upcoming": "46",
     "Finish": "00",
@@ -452,11 +452,11 @@
         },
         "channels_data": [
           {
-            "title": "WILLOW HD",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+            "title": "WILLOW FHD",
+            "link": "https://otte.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/4wja3cfwgg/out/v1/991189690f8b4dd68e0c674f6a398c39/cenc.mpd",
             "logo": "",
             "type": 0,
-            "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
+            "api": "979b2f5b62f09438e96fb1fe44b820e2:b976ab1bf969845cf9e4fee85f456c8d",
             "tokenApi": ""
           },
           {
@@ -468,11 +468,19 @@
             "tokenApi": ""
           },
           {
-            "title": "WILLOW FHD",
+            "title": "WILLOW FHD [ALT]",
             "link": "https://a57live-pv-ta-amazon.akamaized.net/iad-nitro/live/clients/dash/enc/4wja3cfwgg/out/v1/991189690f8b4dd68e0c674f6a398c39/cenc.mpd",
             "logo": "",
             "type": 0,
             "api": "979b2f5b62f09438e96fb1fe44b820e2:b976ab1bf969845cf9e4fee85f456c8d",
+            "tokenApi": ""
+          },
+          {
+            "title": "WILLOW HD",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+            "logo": "",
+            "type": 0,
+            "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
             "tokenApi": ""
           },
           {
@@ -1155,67 +1163,11 @@
         },
         "channels_data": [
           {
-            "title": "D SPORTS ES FHD",
-            "link": "https://otte.live.cf.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ubehitlwzo/out/v1/8e09c381a51f4366a19e979418112e8f/cenc.mpd",
-            "logo": "",
-            "type": 0,
-            "api": "a7d11d37a1f7611ee88d4db880171f32:68f96d618b0b956b008c445896a25a79",
-            "tokenApi": ""
-          },
-          {
             "title": "TSN SPORTS FHD",
             "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
             "logo": "",
             "type": 0,
             "api": "c4088f5f265f9de50cffd80bf89308b7:2c4d2239d96d532b4ec2050653611003",
-            "tokenApi": ""
-          },
-          {
-            "title": "TELEMUNDO FHD",
-            "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd",
-            "logo": "",
-            "type": 0,
-            "api": "ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1",
-            "tokenApi": ""
-          },
-          {
-            "title": "CAZE TV FHD",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/iayg0kyrof/out/v1/91dc04907f56415b897faccfa9d252da/cenc.mpd",
-            "logo": "",
-            "type": 0,
-            "api": "1223d5105392cabf1bb9c2c1fdf6539a:340b409f4b8f78a343e0363a7938df38",
-            "tokenApi": ""
-          },
-          {
-            "title": "VIX Español FHD",
-            "link": "https://otte.live.cf.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/8u9cregwlt/out/v1/687f6b2a559943549be271504a948ffd/cenc.mpd",
-            "logo": "",
-            "type": 0,
-            "api": "1710ac2bbfcd3032d0f6533850968f47:d2548dacc8efcd1cd0af0373060c82dc",
-            "tokenApi": ""
-          },
-          {
-            "title": "M6 FRANCE",
-            "link": "https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd",
-            "logo": "",
-            "type": 0,
-            "api": "433ffba670963e70857859a9dff4be04:51ede3a821229fe81e71282c8eff80e3",
-            "tokenApi": ""
-          },
-          {
-            "title": "TELEMUNDO ES",
-            "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd",
-            "logo": "",
-            "type": 0,
-            "api": "7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11",
-            "tokenApi": ""
-          },
-          {
-            "title": "SporTV BR FHD",
-            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd",
-            "logo": "",
-            "type": 0,
-            "api": "4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733",
             "tokenApi": ""
           },
           {
@@ -1228,7 +1180,39 @@
           },
           {
             "title": "FIFA LIVE",
-            "link": "https://chatgpt.hereisman.net/playlist/51863/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net/",
+            "link": "https://chatgpt.hereisman.net/playlist/51893/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "CAZE TV FHD",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/iayg0kyrof/out/v1/91dc04907f56415b897faccfa9d252da/cenc.mpd",
+            "logo": "",
+            "type": 0,
+            "api": "1223d5105392cabf1bb9c2c1fdf6539a:340b409f4b8f78a343e0363a7938df38",
+            "tokenApi": ""
+          },
+          {
+            "title": "TELEMUNDO FHD",
+            "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd",
+            "logo": "",
+            "type": 0,
+            "api": "ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1",
+            "tokenApi": ""
+          },
+          {
+            "title": "TELEMUNDO ES",
+            "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd",
+            "logo": "",
+            "type": 0,
+            "api": "7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11",
+            "tokenApi": ""
+          },
+          {
+            "title": "ZEE5 ENGLISH HD",
+            "link": "https://uplink.lazyspace.online/mytv/zee/stream.php?id=zee53",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1251,15 +1235,15 @@
             "tokenApi": ""
           },
           {
-            "title": "CRAVE FHD",
-            "link": "https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/8pold5zo8d/out/v1/3079be34d72a4985852d299a02406a0c/28324097-db6b-4d20-b965-8f775b050595-cenc.mpd",
+            "title": "M6 FRANCE",
+            "link": "https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd",
             "logo": "",
             "type": 0,
-            "api": "d185684e2330de5bea436daa094a5e86:014f0116154f5bf0050e03a6b0a23157",
+            "api": "433ffba670963e70857859a9dff4be04:51ede3a821229fe81e71282c8eff80e3",
             "tokenApi": ""
           },
           {
-            "title": "UNiFy TV 🇮🇳",
+            "title": "UNiFy TV [IND]",
             "link": "https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(fifa1)/master.mpd",
             "logo": "",
             "type": 0,
@@ -1267,16 +1251,24 @@
             "tokenApi": ""
           },
           {
-            "title": "UNITE8 SPORTS HINDI 🇮🇳",
-            "link": "https://uplink.lazyspace.online/mytv/zee/stream.php?id=zee53",
+            "title": "TIPIK FR FHD",
+            "link": "https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd",
             "logo": "",
             "type": 0,
-            "api": "",
+            "api": "adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a",
             "tokenApi": ""
           },
           {
-            "title": "UINTE8 SPORTS ENGLISH 🇮🇳",
-            "link": "https://uplink.lazyspace.online/mytv/zee/stream.php?id=zee115",
+            "title": "RTVE SPANISH",
+            "link": "https://otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/62qdkefv9f/out/v1/f7d5b356e048494a8325563e8916d50b/cenc.mpd",
+            "logo": "",
+            "type": 0,
+            "api": "fd86dde0ae3e14ff51c8fc8f248a50db:d106ae78b0893da2e4393ece99420baa",
+            "tokenApi": ""
+          },
+          {
+            "title": "Bein MAX FHD",
+            "link": "https://raw.githubusercontent.com/ON2026/1smas/refs/heads/main/mx1app2.m3u8",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1297,8 +1289,8 @@
           "eventName": "Friday Night SmackDown",
           "isHot": "0",
           "Status": "Upcoming",
-          "startTime": "2026/06/12 19:00:00 +0000",
-          "endTime": "2026/06/13 02:00:00 +0000"
+          "startTime": "2026/06/13 00:00:00 +0000",
+          "endTime": "2026/06/13 04:00:00 +0000"
         },
         "channels_data": [
           {
