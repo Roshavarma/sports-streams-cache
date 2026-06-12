@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-06-12T05:00:53.792955",
+  "last_updated": "2026-06-12T05:10:27.045606",
   "event_count": 9,
   "events": {
     " NAME ": "FluX-oW Live event ( Auto updated)",
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "10:25:33 AM 12-06-2026",
+    "Last update time": "10:35:37 AM 12-06-2026",
     "Live": "00",
     "Upcoming": "29",
     "Finish": "00",
@@ -1563,6 +1563,33 @@
         ]
       },
       {
+        "id": 889,
+        "title": "FIFA World Cup",
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/16/image/dark",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Canada",
+          "teamB": "BiH",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/4752/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/4479/image",
+          "eventName": "FIFA World Cup",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/06/12 19:00:00 +0000",
+          "endTime": "2026/06/12 22:00:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Ivan-FluX",
+            "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
         "id": 888,
         "title": "FIFA World Cup",
         "image": "http://api.sofascore.com/api/v1/unique-tournament/16/image/dark",
@@ -1577,33 +1604,6 @@
           "Status": "Upcoming",
           "startTime": "2026/06/13 01:00:00 +0000",
           "endTime": "2026/06/13 03:20:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "Ivan-FluX",
-            "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 889,
-        "title": "FIFA World Cup",
-        "image": "http://api.sofascore.com/api/v1/unique-tournament/16/image/dark",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Canada",
-          "teamB": "BiH",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/4752/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/4479/image",
-          "eventName": "FIFA World Cup",
-          "isHot": "0",
-          "Status": "Upcoming",
-          "startTime": "2026/06/12 19:00:00 +0000",
-          "endTime": "2026/06/12 21:20:00 +0000"
         },
         "channels_data": [
           {
