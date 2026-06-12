@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-06-12T19:00:54.569792",
+  "last_updated": "2026-06-12T19:10:30.941548",
   "event_count": 9,
   "events": {
     " NAME ": "FluX-oW Live event ( Auto updated)",
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "12:25:37 AM 13-06-2026",
+    "Last update time": "12:35:43 AM 13-06-2026",
     "Live": "00",
     "Upcoming": "46",
     "Finish": "00",
@@ -1777,6 +1777,46 @@
             "logo": "",
             "type": 0,
             "api": "e853333da2c9196ea11374634231bc45:de2e2dbe818d78dfad07d6cd9a4c63d4",
+            "tokenApi": ""
+          },
+          {
+            "title": "FAST SERVER",
+            "link": "https://pul-tenm.nbs3g.com/live/hd-en-1-4459824.m3u8?txSecret=2ff7459f70cf23a5fbef9372e7db0754&txTime=6A2D8BA1",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "ZEE5 ENGLISH - IN",
+            "link": "https://falcon-en-conn.zee5.com/hls/live/2125511/CAN-vs-BIH-13-con_ENG/index-connected.m3u8?hdntl=exp=1781373516~acl=%2f*~id=0-1-6z5974802_808A61AB-D883-4B4A-BC95-3C2C1511D0CF~data=hdntl,2125511,CAN-vs-BIH-13-con,ENG,ffe2323923604da4834df2405189abcb1cb5c75e3d3cf28fc7c4467548a15304~hmac=c5669ee9d87ae2fe89b67c7a5dd323da43a3a06219565f53676034f7bc9cdb3c|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "ZEE5 HINDI - IN",
+            "link": "https://falcon-rol-all.zee5.com/hls/live/2125512/CAN-vs-BIH-13-con_HIN/index-connected.m3u8?hdntl=exp=1781373779~acl=%2f*~id=0-1-6z5974802_808A61AB-D883-4B4A-BC95-3C2C1511D0CF~data=hdntl,2125512,CAN-vs-BIH-13-con,HIN,18cae3aa4fa55731605e7e10bf757ac7add4cdde16f6e4d22a6454e04f800a0e~hmac=18dbe2cfe1954be420146953a83a7d86dfa5ece438b3e77209a9fd090a25484f|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "ZEE5 BANGLA - IN",
+            "link": "https://falcon-rol-all.zee5.com/hls/live/2125513/CAN-vs-BIH-13-con_BEN/index-connected.m3u8?hdntl=exp=1781373862~acl=%2f*~id=0-1-6z5974802_808A61AB-D883-4B4A-BC95-3C2C1511D0CF~data=hdntl,2125513,CAN-vs-BIH-13-con,BEN,9f408479b0b6fafa358f3b5a77f2f691c66f09d7f94012c2c04eb5902f734292~hmac=8f534237f328e61301d85629d1d2ee47b00c1e691fb7018d9ee6a78443335aef|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "ZEE5 MAL - IN",
+            "link": "https://falcon-rol-all.zee5.com/hls/live/2125516/CAN-vs-BIH-13-con_MAL/index-connected.m3u8?hdntl=exp=1781374017~acl=%2f*~id=0-1-6z5974802_808A61AB-D883-4B4A-BC95-3C2C1511D0CF~data=hdntl,2125516,CAN-vs-BIH-13-con,MAL,2f31d4d5b2f10574d48d8553fff9942f3ec5e39787b33915513150aa476f977d~hmac=8f9088be2ae4340cee5bce935f381fba13403ca0eb34eada1f8285326d683966|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0",
+            "logo": "",
+            "type": 0,
+            "api": "",
             "tokenApi": ""
           }
         ]
