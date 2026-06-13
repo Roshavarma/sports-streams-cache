@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-06-13T01:00:54.384563",
+  "last_updated": "2026-06-13T01:10:24.391344",
   "event_count": 9,
   "events": {
     " NAME ": "FluX-oW Live event ( Auto updated)",
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "06:25:38 AM 13-06-2026",
+    "Last update time": "06:35:42 AM 13-06-2026",
     "Live": "00",
     "Upcoming": "50",
     "Finish": "00",
@@ -1295,23 +1295,15 @@
         "channels_data": [
           {
             "title": "WWE HD",
-            "link": "https://you.loreofeldenring.site/dailymotion/live/playlist/1.m3u8",
+            "link": "https://chatgpt.hereisman.net/playlist/51926/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net/",
             "logo": "",
             "type": 0,
             "api": "",
             "tokenApi": ""
           },
           {
-            "title": "WWE LIVE HD",
-            "link": "https://you.loreofeldenring.site/dailymotion/live/playlist/2.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "SD SERVER",
-            "link": "http://193.47.62.44/hls/RGREGREQZ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+            "title": "LIVE HD",
+            "link": "https://acumen.loreofeldenring.site/dailymotion/live/playlist/1.m3u8",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1596,7 +1588,23 @@
         },
         "channels_data": [
           {
-            "title": "TELEMUNDO - AQ",
+            "title": "FOX ONE FHD",
+            "link": "https://otte.live.cf.ww.aiv-cdn.net/iad-nitro/live/dash/enc/ap5wz1ofsp/out/v1/7fa6feef143747beaa186ebb6dfb2532/cenc.mpd",
+            "logo": "",
+            "type": 0,
+            "api": "c620c93c60c04999eb9ddc28ecfb70a8:e76a709c251313190e76cb3c3d3a5824",
+            "tokenApi": ""
+          },
+          {
+            "title": "CIGNAL ENGLISH",
+            "link": "https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/ch299/default/index.mpd",
+            "logo": "",
+            "type": 0,
+            "api": "549ab7cd35a64bb6bb479ecead04d69d:829799ed534d11fcadeb4b192467e050",
+            "tokenApi": ""
+          },
+          {
+            "title": "TELEMUNDO FHD",
             "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd",
             "logo": "",
             "type": 0,
@@ -1604,15 +1612,15 @@
             "tokenApi": ""
           },
           {
-            "title": "CANAL SPORTS - AQ",
-            "link": "https://nog-live-ott.izzigo.tv/out/u/dash/CDMX1/CANAL-5-RDF-HD/default.mpd",
+            "title": "CAZE TV FHD",
+            "link": "https://a121aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/jo3rmhhp2r/out/v1/50656942ce4e40a1be824c9d83578fe9/cenc.mpd",
             "logo": "",
             "type": 0,
-            "api": "2a8c2d5088377f51f825d871e568be19:eb5a8db64ca1992389672edb9447c711",
+            "api": "34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4",
             "tokenApi": ""
           },
           {
-            "title": "D SPORTS - AQ",
+            "title": "D SPORTS FHD",
             "link": "https://otte.live.cf.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ubehitlwzo/out/v1/8e09c381a51f4366a19e979418112e8f/cenc.mpd",
             "logo": "",
             "type": 0,
@@ -1620,7 +1628,15 @@
             "tokenApi": ""
           },
           {
-            "title": "ZEE5 HINDI - AQ",
+            "title": "TELEMUNDO SPANISH",
+            "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd",
+            "logo": "",
+            "type": 0,
+            "api": "7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11",
+            "tokenApi": ""
+          },
+          {
+            "title": "ZEE5 HINDI AQ",
             "link": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinema/default/manifest.mpd",
             "logo": "",
             "type": 0,
@@ -1628,7 +1644,7 @@
             "tokenApi": ""
           },
           {
-            "title": "ZEE5 BANGLA - AQ",
+            "title": "ZEE5 BANGLA AQ",
             "link": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema/default/manifest.mpd",
             "logo": "",
             "type": 0,
@@ -1636,11 +1652,27 @@
             "tokenApi": ""
           },
           {
-            "title": "ZDF GERMAN HD",
-            "link": "https://simplitv-live.mdn.ors.at/live/eds/zdf_hd/dash4h/zdf_hd.mpd",
+            "title": "CANAL SPORTS AQ",
+            "link": "https://nog-live-ott.izzigo.tv/out/u/dash/CDMX1/CANAL-5-RDF-HD/default.mpd",
             "logo": "",
             "type": 0,
-            "api": "c1a0ac1044a433d0856ccdc08f245084:7f0e8800a6d63d7915ac181bb88ce813",
+            "api": "2a8c2d5088377f51f825d871e568be19:eb5a8db64ca1992389672edb9447c711",
+            "tokenApi": ""
+          },
+          {
+            "title": "TIPIK FR FHD",
+            "link": "https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd",
+            "logo": "",
+            "type": 0,
+            "api": "adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a",
+            "tokenApi": ""
+          },
+          {
+            "title": "Sporza DUTCH FHD",
+            "link": "https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/live.isml/.mpd",
+            "logo": "",
+            "type": 0,
+            "api": "893bc63340876605f52886a42e0ccce5:d6c46d2d691056fbd091bf1f01b21a91",
             "tokenApi": ""
           },
           {
@@ -1652,11 +1684,43 @@
             "tokenApi": ""
           },
           {
+            "title": "ZDF GERMAN HD",
+            "link": "https://simplitv-live.mdn.ors.at/live/eds/zdf_hd/dash4h/zdf_hd.mpd",
+            "logo": "",
+            "type": 0,
+            "api": "c1a0ac1044a433d0856ccdc08f245084:7f0e8800a6d63d7915ac181bb88ce813",
+            "tokenApi": ""
+          },
+          {
             "title": "VRT DUTCH - AQ",
             "link": "https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/live.isml/.mpd",
             "logo": "",
             "type": 0,
             "api": "893bc63340876605f52886a42e0ccce5:d6c46d2d691056fbd091bf1f01b21a91",
+            "tokenApi": ""
+          },
+          {
+            "title": "TSN SPORTS HD",
+            "link": "https://chatgpt.hereisman.net/playlist/51900/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "BBC SPORTS HD",
+            "link": "https://chatgpt.hereisman.net/playlist/51932/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "FAST SERVER 1",
+            "link": "https://pulltx.jdnzrgm.com/live/hd-en-6MvYMRTHSUYSUPxiz2.m3u8?txSecret=48f1b9aea0f005137e81bee7a0ac4e71&txTime=6A2CD279",
+            "logo": "",
+            "type": 0,
+            "api": "",
             "tokenApi": ""
           },
           {
