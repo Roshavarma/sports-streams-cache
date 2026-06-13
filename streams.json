@@ -1,14 +1,14 @@
 {
-  "last_updated": "2026-06-13T03:00:51.390513",
+  "last_updated": "2026-06-13T03:10:24.338111",
   "event_count": 9,
   "events": {
     " NAME ": "FluX-oW Live event ( Auto updated)",
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "08:25:39 AM 13-06-2026",
+    "Last update time": "08:35:41 AM 13-06-2026",
     "Live": "00",
-    "Upcoming": "50",
+    "Upcoming": "53",
     "Finish": "00",
     "events": [
       {
@@ -2533,6 +2533,87 @@
           "Status": "Upcoming",
           "startTime": "2026/06/13 06:15:00 +0000",
           "endTime": "  +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Ivan-FluX",
+            "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 1292,
+        "title": "ICC Women World Twenty20",
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/11183/image/dark",
+        "cat": "Cricket",
+        "eventInfo": {
+          "teamA": "WI-W",
+          "teamB": "NZ-W",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/213120/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/213115/image",
+          "eventName": "ICC Women World Twenty20",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/06/13 17:30:00 +0000",
+          "endTime": "2026/06/13 22:00:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Ivan-FluX",
+            "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 1293,
+        "title": "ICC Women World Twenty20",
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/11183/image/dark",
+        "cat": "Cricket",
+        "eventInfo": {
+          "teamA": "BAN-W",
+          "teamB": "NED-W",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/187809/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/417753/image",
+          "eventName": "ICC Women World Twenty20",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/06/14 09:30:00 +0000",
+          "endTime": "2026/06/14 14:00:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Ivan-FluX",
+            "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 1294,
+        "title": "ICC Women World Twenty20",
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/11183/image/dark",
+        "cat": "Cricket",
+        "eventInfo": {
+          "teamA": "AUS-W",
+          "teamB": "SA-W",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/213117/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/213118/image",
+          "eventName": "ICC Women World Twenty20",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/06/13 13:30:00 +0000",
+          "endTime": "2026/06/13 18:00:00 +0000"
         },
         "channels_data": [
           {
