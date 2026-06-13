@@ -1,14 +1,14 @@
 {
-  "last_updated": "2026-06-13T03:30:43.207082",
+  "last_updated": "2026-06-13T03:40:28.917215",
   "event_count": 9,
   "events": {
     " NAME ": "FluX-oW Live event ( Auto updated)",
     "AUTHOR": "iVan_FluX",
     "CONTACT (OWNER)": "https://t.me/iVan_flux",
     "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-    "Last update time": "08:55:38 AM 13-06-2026",
+    "Last update time": "09:05:40 AM 13-06-2026",
     "Live": "00",
-    "Upcoming": "53",
+    "Upcoming": "54",
     "Finish": "00",
     "events": [
       {
@@ -1785,6 +1785,33 @@
         ]
       },
       {
+        "id": 1267,
+        "title": "FIFA World Cup",
+        "image": "http://api.sofascore.com/api/v1/unique-tournament/16/image/dark",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Qatar",
+          "teamB": "Switzerland",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/4792/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/4699/image",
+          "eventName": "FIFA World Cup",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/06/13 19:00:00 +0000",
+          "endTime": "2026/06/13 21:20:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Ivan-FluX",
+            "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
         "id": 1265,
         "title": "FIFA World Cup",
         "image": "http://api.sofascore.com/api/v1/unique-tournament/16/image/dark",
@@ -1826,33 +1853,6 @@
           "Status": "Upcoming",
           "startTime": "2026/06/14 01:00:00 +0000",
           "endTime": "2026/06/14 03:20:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "Ivan-FluX",
-            "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 1267,
-        "title": "FIFA World Cup",
-        "image": "http://api.sofascore.com/api/v1/unique-tournament/16/image/dark",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Qatar",
-          "teamB": "Switzerland",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/4792/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/4699/image",
-          "eventName": "FIFA World Cup",
-          "isHot": "0",
-          "Status": "Upcoming",
-          "startTime": "2026/06/13 19:00:00 +0000",
-          "endTime": "2026/06/13 21:20:00 +0000"
         },
         "channels_data": [
           {
@@ -2619,6 +2619,33 @@
           {
             "title": "Ivan-FluX",
             "link": "https://fallback-video.ivan-fluxo.workers.dev/video/index.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 1295,
+        "title": "EUT20 Beljium 2026",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtNxZVQMVNQWIoTz_1uQ-C1uUTkkMOr6fuX7Fp6a2ncQ&s=10",
+        "cat": "Cricket",
+        "eventInfo": {
+          "teamA": "EUT20",
+          "teamB": "EUT20",
+          "teamAFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtNxZVQMVNQWIoTz_1uQ-C1uUTkkMOr6fuX7Fp6a2ncQ&s=10",
+          "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtNxZVQMVNQWIoTz_1uQ-C1uUTkkMOr6fuX7Fp6a2ncQ&s=10",
+          "eventName": "EUT20 Beljium 2026",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/06/13 10:30:00 +0000",
+          "endTime": "2026/06/13 19:00:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Link 1",
+            "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtNxZVQMVNQWIoTz_1uQ-C1uUTkkMOr6fuX7Fp6a2ncQ&s=10",
             "logo": "",
             "type": 0,
             "api": "",
