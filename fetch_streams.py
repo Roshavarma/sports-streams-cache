@@ -10,14 +10,19 @@ OUTPUT_FILE = "streams.json"
 # 2. The working headers from our test
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36",
-    "Referer": "https://www.footyfeed.site/",
-    "Origin": "https://www.footyfeed.site",
+    
+    # --- CHANGED THESE TWO LINES ---
+    "Referer": "https://footxweb.pages.dev/",
+    "Origin": "https://footxweb.pages.dev",
+    # -------------------------------
+    
     "Accept": "application/json, text/plain, */*",
     "X-Requested-With": "XMLHttpRequest",
     "Sec-Fetch-Site": "cross-site",
     "Sec-Fetch-Mode": "cors",
     "Sec-Fetch-Dest": "empty"
 }
+
 
 def fetch_and_save():
     try:
