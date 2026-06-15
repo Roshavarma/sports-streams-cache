@@ -4,7 +4,7 @@ from datetime import datetime
 import os
 
 # 1. The  API link
-TARGET_URL = "https://autumn-darkness-ae02.hogix28221.workers.dev/api/v2/data.js"
+TARGET_URL = "https://autumn-darkness-ae02.hogix28221.workers.dev/"
 OUTPUT_FILE = "streams.json"
 
 # 2. The working headers from our test
