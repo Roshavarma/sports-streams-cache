@@ -31,7 +31,7 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add live_sports_data.json
+          git add streams.json
           # Prevents action from failing if the data hasn't changed
           git commit -m "Automated fetch: Updated live sports JSON" || exit 0
           git push
