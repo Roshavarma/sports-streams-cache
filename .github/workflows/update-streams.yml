@@ -1,53 +1,37 @@
-name: Update Sports Streams Cache
+name: Auto-Update Sports Streams Cache
 
 on:
   schedule:
-    # Backup schedule: runs every 10 minutes internally
-    - cron: '*/10 * * * *'
-  workflow_dispatch:  # Keeps manual/external API trigger active
-
-# Ensures only one instance runs at a time to prevent Git conflicts
-concurrency:
-  group: fetch-streams
-  cancel-in-progress: false
-
-permissions:
-  contents: write
+    - cron: '*/15 * * * *' # Triggers automatically every 15 minutes
+  workflow_dispatch: # Allows manual trigger
 
 jobs:
-  fetch-and-update:
+  fetch-and-cache:
     runs-on: ubuntu-latest
-    # Make sure it runs only on main branch
-    if: github.ref == 'refs/heads/main'
-    
+
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
       - name: Set up Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v4
         with:
-          python-version: '3.11'
-          
-      - name: Install dependencies
-        run: pip install requests
-        
-      - name: Run fetch script
-        run: python fetch_streams.py
-        
-      - name: Commit and push if changed
+          python-version: '3.10'
+
+      - name: Install Playwright and Dependencies
         run: |
-          git config --global user.name 'github-actions[bot]'
-          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git add streams.json
-          if git diff --staged --quiet; then
-            echo "No changes to commit"
-          else
-            git commit -m "🔄 Auto-update streams data $(date -u '+%Y-%m-%d %H:%M:%S UTC')"
-            git pull --rebase origin main
-            git push
-          fi
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          python -m pip install --upgrade pip
+          pip install playwright
+          playwright install chromium
+
+      - name: Execute Interception Scraper
+        run: python scraper.py
+
+      - name: Commit and Push Updated JSON
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add live_sports_data.json
+          # Prevents action from failing if the data hasn't changed
+          git commit -m "Automated fetch: Updated live sports JSON" || exit 0
+          git push
