@@ -1,7 +1,7 @@
 import json
 import os
 from playwright.sync_api import sync_playwright
-from playwright_stealth import stealth_sync
+from playwright_stealth import Stealth
 
 def fetch_live_data():
     with sync_playwright() as p:
@@ -18,10 +18,12 @@ def fetch_live_data():
             user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
             viewport={'width': 1920, 'height': 1080}
         )
-        page = context.new_page()
         
-        # Apply the stealth mask to bypass Cloudflare
-        stealth_sync(page)
+        # Apply the NEW V2 stealth mask to the entire browser context
+        stealth = Stealth()
+        stealth.apply_stealth_sync(context)
+        
+        page = context.new_page()
 
         intercepted_data = None
 
