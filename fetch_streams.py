@@ -1,63 +1,50 @@
-import requests
 import json
-from datetime import datetime
 import os
+from playwright.sync_api import sync_playwright
 
-# 1. The  API link
-TARGET_URL = "https://autumn-darkness-ae02.hogix28221.workers.dev/"
-OUTPUT_FILE = "streams.json"
+def fetch_live_data():
+    with sync_playwright() as p:
+        print("🚀 Launching Headless Browser...")
+        browser = p.chromium.launch(headless=True)
+        
+        # Spoofing a standard desktop browser to avoid bot detection
+        context = browser.new_context(
+            user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        )
+        page = context.new_page()
 
-# 2. The working headers from our test
-HEADERS = {
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36",
-    
-    # --- CHANGED THESE TWO LINES ---
-    "Referer": "https://footxweb.pages.dev/",
-    "Origin": "https://footxweb.pages.dev",
-    # -------------------------------
-    
-    "Accept": "application/json, text/plain, */*",
-    "X-Requested-With": "XMLHttpRequest",
-    "Sec-Fetch-Site": "cross-site",
-    "Sec-Fetch-Mode": "cors",
-    "Sec-Fetch-Dest": "empty"
-}
+        intercepted_data = None
 
+        # Network interceptor: Listen for the specific background API call
+        def catch_response(response):
+            nonlocal intercepted_data
+            if "autumn-darkness" in response.url or "workers.dev" in response.url:
+                if response.status == 200:
+                    try:
+                        intercepted_data = response.json()
+                        print(f"✅ Target API Response Caught! URL: {response.url}")
+                    except Exception as e:
+                        print("⚠️ Error parsing intercepted JSON:", e)
 
-def fetch_and_save():
-    try:
-        print(f"🔄 Fetching data from new API endpoint...")
-        
-        # Request data using the new URL and updated headers
-        response = requests.get(TARGET_URL, headers=HEADERS, timeout=30)
-        response.raise_for_status()
-        
-        data = response.json()
-        print(f"✅ Got {len(data)} events")
-        
-        # Format the output data with timestamps
-        output_data = {
-            "last_updated": datetime.utcnow().isoformat(),
-            "event_count": len(data),
-            "events": data
-        }
-        
-        with open(OUTPUT_FILE, 'w', encoding='utf-8') as f:
-            json.dump(output_data, f, indent=2, ensure_ascii=False)
-        
-        print(f"💾 Saved to {OUTPUT_FILE}")
-        return True
-        
-    except requests.exceptions.HTTPError as e:
-        print(f"❌ HTTP Error: {e}")
-        if hasattr(e, 'response') and e.response is not None:
-            print(f"Server Response: {e.response.text[:200]}") 
-        return False
-    except Exception as e:
-        print(f"❌ Error: {e}")
-        return False
+        page.on("response", catch_response)
+
+        print("🔄 Loading target site and waiting for JS decryption...")
+        try:
+            # Load the wrapper site and let it naturally execute the hashing logic
+            page.goto("https://footxweb.pages.dev/", wait_until="networkidle", timeout=30000)
+        except Exception as e:
+            print("⚠️ Page load timeout or error, but data might still be caught.", e)
+
+        # Save the successfully intercepted payload to the repo cache
+        if intercepted_data:
+            file_path = os.path.join(os.getcwd(), "live_sports_data.json")
+            with open(file_path, "w", encoding="utf-8") as f:
+                json.dump(intercepted_data, f, indent=4)
+            print(f"💾 Successfully saved fresh data to {file_path}")
+        else:
+            print("❌ Failed to catch the API request. The site may require a simulated click.")
+
+        browser.close()
 
 if __name__ == "__main__":
-    success = fetch_and_save()
-    if not success:
-        exit(1)
+    fetch_live_data()
