@@ -25,7 +25,7 @@ jobs:
           playwright install chromium
 
       - name: Execute Interception Scraper
-        run: python scraper.py
+        run: python fetch_streams.py
 
       - name: Commit and Push Updated JSON
         run: |
